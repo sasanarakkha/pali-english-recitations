@@ -1,0 +1,82 @@
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("NunitoSans-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("NunitoSans-Italic.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("NunitoSans-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'Open Sans X';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("OpenSansX-Regular.ttf") format("truetype"); }
+
+body {
+  font-family: 'Open Sans X', sans-serif; }
+
+h1, h2, h3, h4 {
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: left; }
+
+h1 {
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1pt;
+  word-spacing: 2pt; }
+
+blockquote {
+  background: none;
+  border: none; }
+
+.english > blockquote p {
+  font-style: italic; }
+
+.instr > blockquote p {
+  font-weight: bold; }
+
+span.vin {
+  display: inline-block;
+  width: 2em; }
+
+.titlepage-cover {
+  text-align: center;
+  margin-top: 2em; }
+  .titlepage-cover h1 {
+    margin-top: 1em; }
+  .titlepage-cover img {
+    width: 300px;
+    margin: 0 auto; }
+
+.download-item {
+  margin-top: 1em; }
+  .download-item .item-description h3 {
+    margin-top: 0.5em; }
+  .download-item .item-cover img {
+    width: 170px; }
+
+h1 {
+  font-size: 1.5em; }
+
+h2 {
+  font-size: 1.3em; }
+
+#toc ol li {
+  list-style-type: none; }
+
+body {
+  line-height: 1.7; }

@@ -1,0 +1,45 @@
+# Project output
+output/
+book/
+main_handbook.pdf
+main_reference.pdf
+
+# Emacs temp files
+*~
+\#*\#
+*.elc
+auto-save-list
+tramp
+.\#*
+.projectile
+TAGS
+auto/
+.auctex-auto/
+
+# Vim temp files
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+*~
+tags
+
+# LaTeX temp files
+*.aux
+*.log
+*.toc
+*.lof
+*.fls
+*.fdb_latexmk
+*.fir
+*.upa
+auto/
+*.synctex.gz
+
+# General macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Other
+.sass-cache/

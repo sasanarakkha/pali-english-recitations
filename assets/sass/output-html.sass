@@ -1,0 +1,27 @@
+
+// Nunito Sans: Regular, Italic, Light
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap&subset=latin-ext')
+
+// Path is relative to the folder of output-html.css
+@font-face
+  font-family: 'Open Sans X'
+  font-style: normal
+  font-weight: 400
+  font-display: swap
+  src: local('Open Sans X Regular'), local('OpenSansX-Regular'), url('../fonts/OpenSansX-Regular.woff2') format('woff2'), url('../fonts/OpenSansX-Regular.woff') format('woff')
+
+@import 'grid'
+@import 'base'
+
+body
+  font-size: 1.6rem
+  line-height: 1.7
+
+.content h1 .header:link
+  color: hsl(0, 0%, 30.0%)
+
+// The default sticky position covers the heading when opening #id anchors, such
+// as from the List of First Lines.
+#menu-bar
+  position: inherit
+

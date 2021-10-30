@@ -1,0 +1,225 @@
+\ProvidesPackage{local}
+
+\usepackage{pdfcomment}
+
+\newcommand{\todo}[1]{\pdfcomment[icon=Note]{#1}}
+
+\newcommand{\margintodo}[1]{\pdfmargincomment[icon=Note]{#1}}
+
+\usepackage{ltablex}
+
+\newlength\leaderIndent
+\setlength{\leaderIndent}{1.5em}
+
+\newlength\packedLeaderIndent
+\setlength{\packedLeaderIndent}{1.1em}
+
+\setlength{\vgap}{1.5em}
+\setlength{\vindent}{\leaderIndent}
+\setlength{\vleftmargin}{2em}
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+\newenvironment{leader}%
+  {\list{}{%
+  \parskip 0pt%
+  \topsep 0pt%
+  \listparindent 0em%
+  \itemindent    0pt%
+  \leftmargin    \leaderIndent%
+  \rightmargin   0pt%
+  \parsep        \z@ \@plus\p@}
+  \item[] \raggedright}%
+  {\endlist}
+
+\newcommand{\instr}[1]{%
+  {\instrFmt #1}%
+}
+
+\newcommand{\instrSidepar}[1]{%
+  \sidepar{\hspace*{-22mm}\parbox{25mm}{#1}}%
+}
+
+\newcommand{\soloinstr}[1]{%
+  {\centering\instrFmt #1\par}%
+}
+
+\newenvironment{paritta}%
+  {\list{}{%
+    \topsep 0pt
+    \parskip 0pt
+    \partopsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    1.5em% \leaderIndent, but keep it a separate value
+    \rightmargin   0em%
+    \parsep        7pt%
+  }%
+  \item[] \raggedright}%
+  {\endlist}
+
+% FIXME: use ltablex package and tabularx to break tables across pages
+
+%\newenvironment{twochants}%
+%  {\list{}{%
+%    \topsep 0pt
+%    \listparindent 0em%
+%    \itemindent    0em%
+%    \leftmargin    0em%
+%    \rightmargin   0em%
+%    \parsep        0pt%
+%  }%
+%  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
+%  \begin{tabular}{@{}l l@{}}}%
+%  {\end{tabular}\endlist}
+
+\newenvironment{twochants}%
+  {\begin{tabular}{@{}l l@{}}}%
+  {\end{tabular}}
+
+\newenvironment{onechants}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%
+    \rightmargin   0em%
+    \parsep        0pt%
+  }%
+  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
+  \begin{tabular}{@{}l@{}}}%
+  {\end{tabular}\endlist}
+
+\newenvironment{threechants}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%
+    \rightmargin   0em%
+    \parsep        0pt%
+  }%
+  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
+  \begin{tabular}{@{}l l l@{}}}%
+  {\end{tabular}\endlist}
+
+\newenvironment{solotwochants}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%
+    \rightmargin   0em%
+    \parsep        0pt%
+  }%
+  \item[] \renewcommand{\arraystretch}{1}%
+  \begin{tabular}{@{}l l@{}}}%
+  {\end{tabular}\endlist}
+
+\newenvironment{soloonechants}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%
+    \rightmargin   0em%
+    \parsep        0pt%
+  }%
+  \item[] \renewcommand{\arraystretch}{1}%
+  \begin{tabular}{@{}l@{}}}%
+  {\end{tabular}\endlist}
+
+\newenvironment{instruction}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    \leaderIndent
+    \rightmargin   0em%
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \begingroup
+    \raggedright\instrFmt
+  }%
+  {\endgroup\endlist}
+
+\newenvironment{english}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    \leaderIndent%
+    \rightmargin   0em%
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
+\newenvironment{cprenglish}%
+  {\list{}{%
+      \partopsep 0pt
+      \topsep 0pt
+      \listparindent 0em%
+      \itemindent    0em%
+      \leftmargin    \leaderIndent%
+      \rightmargin   0em%
+      \parsep        \z@ \@plus\p@%
+    }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
+\newenvironment{packedenglish}%
+  {\list{}{%
+      \topsep 0pt
+      \listparindent 0em%
+      \itemindent    0em%
+      \leftmargin    \packedLeaderIndent%
+      \rightmargin   0em%
+      \parsep        \z@ \@plus\p@%
+    }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
+\newcommand\tr[1]{\textit{#1}}
+
+\newcommand\trline[1]{%
+  \begin{english}%
+    #1%
+  \end{english}%
+}
+
+\newcommand\packedtrline[1]{%
+  \begin{packedenglish}%
+    #1%
+  \end{packedenglish}%
+}
+
+\newlength\preceptnumwidth
+\setlength{\preceptnumwidth}{\widthof{\normalsize 9.\space}}
+
+\newenvironment{precept}%
+{\begin{enumerate}[
+  itemindent=0pt,
+  leftmargin={\preceptnumwidth},
+  rightmargin=0pt,
+]%
+}{\end{enumerate}}
+
+\newcommand\hsp{\hspace*{0.5em}}
+
+% === tabular ===
+
+\setlength{\tabcolsep}{1em}
+
+\renewcommand{\arraystretch}{1.075}
+
+\newcommand\oldArr{}% holding old \arraystretch for restore
+\let\oldArr\arraystretch
+
+\newcommand\setArrayStretch[1]{%
+  \let\oldArr\arraystretch
+  \renewcommand{\arraystretch}{#1}%
+}
+
+\newcommand\restoreArrayStretch{\let\arraystretch\oldArr}

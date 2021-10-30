@@ -1,0 +1,114 @@
+\documentclass[
+  final,
+  babelLanguage=british,
+  desktopVersion,
+  %showtrims,
+  %overleaf,
+]{anecdote-handbook}
+
+%\graphicspath{{./assets/photos/300dpi/}}
+\graphicspath{{./assets/photos/92dpi/}}
+
+% Page size: 148mm x 105mm (A6)
+%
+% Body text: 9.5 / 13.5 pt
+
+\usepackage{local}
+
+%% Details of the book
+%% ===================
+
+\title{Sāsanārakkha Chanting Book}
+\subtitle{Essential Chants}
+\author{Sāsanārakkha Publications}
+\publisher{Sāsanārakkha Publications}
+\date{2021-10-30}% chktex 8
+\editionInfo{\textit{First edition}, 2021}
+\ISBN{000-0-00000-000-0}
+
+% === Metadata ===
+
+\hypersetup{
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor},
+  pdfcopyright={Copyright (C) 2021, \thePublisher},
+  pdfsubject={},% TODO subject
+  pdfkeywords={},% TODO keywords
+  pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
+  pdfcontacturl={},
+  pdflang={en},
+}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+\hyphenation{London re-lin-quishes de-ter-mines}
+
+\openany%
+
+\begin{document}
+
+\frontmatter
+
+\ifdesktopversion
+\desktopCover{\includegraphics[height=\paperheight]{./handbook-desktop-cover.jpg}}
+\fi
+
+\input{./manuscript/tex/titlepage.tex}
+
+\input{./manuscript/tex/copyright.tex}
+
+\input{./manuscript/tex/dedication.tex}
+
+\input{./manuscript/tex/abbreviations.tex}
+
+\cleartorecto
+\pagestyle{toponerow-frontmatter}
+\tableofcontents*
+
+\clearpage
+\listfirstlines*
+
+\mainmatter
+\pagestyle{toponerow}
+
+\cleartorecto
+\part{Essential Chants}
+
+{\raggedright
+
+\input{./manuscript/tex/chants/morning-chanting-handbook.tex}
+\input{./manuscript/tex/chants/evening-chanting-handbook.tex}
+\input{./manuscript/tex/chants/reflections-handbook.tex}
+% NOTE: make sure paritta chapter starts on the left side, to that the A B C
+% marks of the invitation are on the outer margin of a right-hand page.
+\cleartoverso
+\input{./manuscript/tex/chants/parittas-handbook.tex}
+\input{./manuscript/tex/chants/anumodana-handbook.tex}
+\input{./manuscript/tex/chants/funeral-chants-handbook.tex}
+\input{./manuscript/tex/chants/suttas-handbook.tex}
+\input{./manuscript/tex/chants/patimokkha-chants.tex}
+
+}
+
+\appendix
+
+\cleartorecto
+\part{Appendix}
+
+{\raggedright
+
+\input{./manuscript/tex/pali-phonetics-and-pronunciation.tex}
+
+}
+
+\backmatter
+
+\input{./manuscript/tex/usage-note.tex}
+
+\input{./manuscript/tex/copyright-details.tex}
+
+\emptyUntilEven
+
+\end{document}

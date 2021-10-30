@@ -1,0 +1,20 @@
+[book]
+title = "Sāsanārakkha Chanting Book"
+authors = ["Sāsanārakkha"]
+language = "en"
+multilingual = false
+src = "manuscript/markdown"
+
+[build]
+build-dir = "book"
+create-missing = true
+
+[output.html]
+additional-css = ["assets/stylesheets/output-html.css"]
+curly-quotes = true
+
+[output.epub]
+additional-css = ["assets/stylesheets/output-epub.css"]
+use-default-css = false
+cover-image = "reference-desktop-cover.jpg"
+additional-resources = ["assets/fonts/NunitoSans-Regular.ttf", "assets/fonts/NunitoSans-Italic.ttf", "assets/fonts/NunitoSans-Bold.ttf", "assets/fonts/OpenSansX-Regular.ttf"]
