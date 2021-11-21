@@ -1,6 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-MDBOOK_EPUB_BIN=../libs-bin/mdbook-epub
+pwd
+MDBOOK_EPUB_BIN=./mdbook-epub
 
 EBOOK_NAME="Sasanarakkha-Chanting-Book-Reference"
 EPUB_FILE="$EBOOK_NAME.epub"
@@ -43,14 +44,15 @@ if [ "$?" != "0" ]; then
     exit 2
 fi
 
-~/bin/epubcheck "./$EPUB_FILE"
+java -jar ../libs/epubcheck.jar "./$EPUB_FILE"
+
 
 if [ "$?" != "0" ]; then
     echo "Error, exiting."
     exit 2
 fi
 
-~/lib/kindlegen/kindlegen "./$EPUB_FILE" -dont_append_source -c1 -verbose
+../libs/kindlegen "./$EPUB_FILE" -dont_append_source -c1 -verbose
 
 if [ "$?" != "0" ]; then
     echo "Error, exiting."

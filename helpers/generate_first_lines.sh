@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 OUT_FILE=./manuscript/markdown/first-lines.md
 LINKS_FILE=./temp.md

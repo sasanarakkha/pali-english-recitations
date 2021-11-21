@@ -9,6 +9,6 @@
 <https://sasanarakkha.org/>
 
 <div>
-<p><em>Last updated on: 2021-10-30</em></p>
+<p><em>Last updated on: 2021-11-20</em></p>
 </div>
 

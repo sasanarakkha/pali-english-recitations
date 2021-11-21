@@ -208,20 +208,26 @@
   BoldItalicFont = NunitoSans-SemiBoldItalic.ttf,
 ]{NunitoSans-Light.ttf}
 
+\newfontfamily\libertinusFont[
+  ItalicFont = LibertinusSerif-Italic.otf,
+  BoldFont = LibertinusSerif-Bold.otf,
+  BoldItalicFont = LibertinusSerif-BoldItalic.otf,
+]{LibertinusSerif-Regular.otf}
+
 % header and footer
 
-\newcommand\headerFont\sansLightFont
+\newcommand\headerFont\libertinusFont
 \newcommand\footerFont\headerFont
 \newcommand\pageNumFont\headerFont
 
 % chapter and section
 
-\newcommand\partNameFont\sansLightFont
-\newcommand\partTitleFont\sansLightFont
+\newcommand\partNameFont\libertinusFont
+\newcommand\partTitleFont\libertinusFont
 
 \newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\sansLightFont
-\newcommand\chapterNumberFont\sansLightFont
+\newcommand\chapterTitleFont\libertinusFont
+\newcommand\chapterNumberFont\libertinusFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 

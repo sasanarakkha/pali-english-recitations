@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 DOT_GIT_DIR="../bhikkhu-manual.github.io-dot-git"
 
