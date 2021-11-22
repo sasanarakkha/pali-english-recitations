@@ -69,13 +69,17 @@ are stressed. Stressed syllables take twice the time of unstressed syllables
 &ndash; rather like two beats in a bar of music compared to one. This is what
 gives the chanting its particular rhythm.
 
+<!-- FIXME
 ![bud-dho](./includes/images/bud-dho-su-sud-dho.jpg)
+-->
 
 Two details that are important when separating the syllables:
 
 **1.** Syllables with double letters get divided in this way:
 
+<!-- FIXME
 ![a-nic-ca](./includes/images/a-nic-ca.jpg)
+-->
 
 They are always enunciated separately, e.g. **dd** in 'uddeso' as in
 'mad dog', or **gg** in 'maggo' as in 'big gun'.
