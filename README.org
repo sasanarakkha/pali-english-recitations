@@ -1,2 +1,2 @@
 #+TITLE:  SBS Monk Training Centre
-#+subtitle: Pāli/English Recitations
+#+title: Pāli/English Recitations
