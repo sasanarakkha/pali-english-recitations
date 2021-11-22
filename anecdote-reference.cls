@@ -1474,6 +1474,18 @@ philo-sophical munindo amaravati thai-land}
   \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
 }
 
+\newcommand\paliTitle[1]{%
+  \vspace*{-1ex}%
+  \tocEnglishTitle{#1}%
+  {%
+    \subSectionFont\fontsize{11}{17}\selectfont%
+    \itshape\color{section}%
+    \memRTLraggedright%
+    #1%
+  }%
+  \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
+}
+
 % === Page geometry and layout ===
 
 % Symbols used:
