@@ -1,10 +1,12 @@
 # Sāsanārakkha Chanting Book
 
+<!-- FIXME
 <div class="titlepage-cover">
 
 ![Sāsanārakkha Chanting Book](./includes/images/reference-desktop-cover.jpg)
 
 </div>
+-->
 
 <https://sasanarakkha.org/>
 
