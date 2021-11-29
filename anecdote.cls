@@ -20,7 +20,7 @@
 % ==============
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{anecdote-reference}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
+\ProvidesClass{anecdote}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
 
 % ========================
 % Preliminary Declarations
@@ -31,12 +31,6 @@
 
 \newif\ifoverleaf
 \overleaffalse
-
-\newif\ifhandbookedition
-\handbookeditionfalse
-
-\newif\ifreferenceedition
-\referenceeditiontrue
 
 % =======
 % Options
