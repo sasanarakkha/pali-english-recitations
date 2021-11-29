@@ -243,7 +243,7 @@
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
 \newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {20}{20}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {17}{17}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {19}{19}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
@@ -288,6 +288,7 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={LibertinusSerif-Regular.otf}}{20}
 \SetTracking[spacing={600,100,}]{encoding=*, family={NunitoSans-Light.ttf}}{70}
 
 % === hyperref ===
@@ -784,6 +785,11 @@ philo-sophical munindo amaravati thai-land}
     \includegraphics[width=\linewidth]{#1}%
   \par}%
   \vspace{8pt \@plus 15pt \@minus 0pt}%
+}
+
+\newcommand{\chapterOpeningPage}[1]{%
+  \cleartoverso\thispagestyle{empty}\null%
+  \photoFullBleed{#1}%
 }
 
 \newcommand\sectionBreak{%
@@ -1327,11 +1333,11 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering%
-      {\chapnumfont\color{chapternum}\thechapter.}%
+      {\chapnumfont\color{chapternum}\bfseries\scshape\thechapter.}%
       \chaptitlefont\color{chaptertitle}%
       \vspace*{12pt}%
       \par
-      \textls*{\MakeUppercase{##1}}%
+      \textbf{\textsc{\textls*{##1}}}%
       \par%
     }%
   }
@@ -1346,7 +1352,7 @@ philo-sophical munindo amaravati thai-land}
     {%
       \centering%
       \chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
+      \textbf{\textsc{\textls*{##1}}}%
       \par%
     }%
   }
@@ -1362,7 +1368,7 @@ philo-sophical munindo amaravati thai-land}
       \chaptitlefont\fontsize{13}{18}\selectfont\color{chaptertitle}%
       \vspace*{12pt}%
       \par
-      \textls*{\MakeUppercase{##1}}%
+      \textbf{\textsc{\textls*{##1}}}%
       \par%
     }%
   }

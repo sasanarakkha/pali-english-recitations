@@ -55,6 +55,7 @@
 \desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.jpg}}
 \fi
 
+\pagestyle{empty}
 \input{./manuscript/tex/titlepage.tex}
 \input{./manuscript/tex/copyright.tex}
 \input{./manuscript/tex/dedication.tex}
@@ -75,24 +76,22 @@
 
 {\raggedright
 
-\input{./manuscript/tex/chants/morning-chanting-reference.tex}
-\input{./manuscript/tex/chants/verses-reference.tex}
-\input{./manuscript/tex/chants/teachings-reference.tex}
-\input{./manuscript/tex/chants/reflections-reference.tex}
-\input{./manuscript/tex/chants/sharing-of-merits-reference.tex}
-% NOTE: make sure paritta chapter starts on the left side, to that the A B C
-% marks of the invitation are on the outer margin of a right-hand page.
-\cleartoverso
-% \input{./manuscript/tex/chants/parittas-reference.tex}
-% \input{./manuscript/tex/chants/anumodana-reference.tex}
-% \input{./manuscript/tex/chants/funeral-chants-reference.tex}
-% \input{./manuscript/tex/chants/suttas-reference.tex}
-% \input{./manuscript/tex/chants/patimokkha-chants.tex}
-% \input{./manuscript/tex/chants/sri-lanka.tex}
+\input{./manuscript/tex/chants/morning-chanting.tex}
+\input{./manuscript/tex/chants/evening-chanting.tex}
+\input{./manuscript/tex/chants/verses.tex}
+\input{./manuscript/tex/chants/teachings.tex}
+\input{./manuscript/tex/chants/reflections.tex}
+\input{./manuscript/tex/chants/suttas.tex}
+\input{./manuscript/tex/chants/anumodana.tex}
+\input{./manuscript/tex/chants/parittas.tex}
+\input{./manuscript/tex/chants/funeral-chants.tex}
+\input{./manuscript/tex/chants/sharing-of-merits.tex}
 
 }
 
 \appendix
+
+\chapterOpeningPage{appendix.pdf}
 
 \cleartorecto
 \part{Appendix}
