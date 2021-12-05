@@ -1,8 +1,7 @@
 # Project output
 output/
 book/
-main_handbook.pdf
-main_reference.pdf
+main.pdf
 
 # Emacs temp files
 *~
