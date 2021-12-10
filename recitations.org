@@ -1,0 +1,2117 @@
+#+TITLE: SBS Pāli-English Recitations
+#+AUTHOR: SBS Saṅgha
+# #+startup: fold
+#+property: header-args :tangle yes
+
+* Table of Contents :toc:
+- [[#recitation-schedule][Recitation Schedule]]
+- [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
+- [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
+  - [[#covertitle][Cover/Title]]
+  - [[#dedication-of-offerings][Dedication of Offerings]]
+  - [[#preliminary-homage][Preliminary Homage]]
+  - [[#homage-to-the-buddha][Homage to the Buddha]]
+  - [[#homage-to-the-dhamma][Homage to the Dhamma]]
+  - [[#homage-to-the-saṅgha][Homage to the Saṅgha]]
+  - [[#salutation-to-the-triple-gem][Salutation to the Triple Gem]]
+- [[#verses][Verses]]
+  - [[#covertitle-1][Cover/Title]]
+  - [[#the-buddhas-first-exclamation][The Buddha's First Exclamation]]
+  - [[#respect-for-the-dhamma][Respect for the Dhamma]]
+  - [[#going-to-true-and-false-refuges][Going to True and False Refuges]]
+  - [[#the-pāṭimokkha-exhortation][The Pāṭimokkha Exhortation]]
+  - [[#the-three-characteristics][The Three Characteristics]]
+  - [[#the-burdens][The Burdens]]
+  - [[#from-the-elder-raṭṭhapāla][From the Elder Raṭṭhapāla]]
+  - [[#from-the-elder-pārāpariya][From the Elder Pārāpariya]]
+  - [[#on-protection][On Protection]]
+  - [[#miscellaneous-verses][Miscellaneous Verses]]
+  - [[#a-single-excellent-night][A Single Excellent Night]]
+  - [[#the-highest-blessings][The Highest Blessings]]
+  - [[#the-buddhas-words-on-loving-kindness][The Buddha’s Words on Loving-Kindness]]
+- [[#teachings][Teachings]]
+  - [[#setting-in-motion-the-wheel-of-dhamma][Setting in Motion the Wheel of Dhamma]]
+  - [[#requisites-for-awakening][Requisites for Awakening]]
+  - [[#the-seven-factors-of-awakening][The Seven Factors of Awakening]]
+  - [[#the-noble-eightfold-path][The Noble Eightfold Path]]
+  - [[#mindfulness-of-breathing][Mindfulness of Breathing]]
+  - [[#dependent-origination][Dependent Origination]]
+  - [[#the-dhamma-in-brief][The Dhamma in Brief]]
+  - [[#the-four-great-references][The Four Great References]]
+  - [[#principles-of-cordiality][Principles of Cordiality]]
+  - [[#principles-of-non-decline][Principles of Non-Decline]]
+  - [[#striving-according-to-the-dhamma][Striving According to the Dhamma]]
+  - [[#the-buddhas-final-instruction][The Buddha’s Final Instruction]]
+- [[#reflections][Reflections]]
+  - [[#the-four-requisites][The Four Requisites]]
+  - [[#the-repulsiveness-of-food][The Repulsiveness of Food]]
+  - [[#universal-well-being][Universal Well-Being]]
+  - [[#the-divine-abidings][The Divine Abidings]]
+  - [[#five-subjects-for-frequent-recollection][Five Subjects for Frequent Recollection]]
+  - [[#ten-subjects-for-frequent-reflection-by-one-gone-forth][Ten Subjects for Frequent Reflection by One Gone Forth]]
+  - [[#the-thirty-two-body-parts][The Thirty-Two Body Parts]]
+  - [[#recollection-of-impermanence][Recollection of Impermanence]]
+- [[#cardinal-suttas][Cardinal Suttas]]
+  - [[#dhammacakkappavattana-sutta][Dhammacakkappavattana Sutta]]
+  - [[#the-discourse-on-setting-in-motion-the-wheel-of-dhamma][The Discourse on Setting in Motion the Wheel of Dhamma]]
+  - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa Sutta]]
+  - [[#the-discourse-on-the-characteristic-of-not-self][The Discourse on the Characteristic of Not-Self]]
+  - [[#āditta-pariyāya-sutta][Āditta-Pariyāya Sutta]]
+  - [[#the-fire-sermon][The Fire Sermon]]
+- [[#anumodanā][Anumodanā]]
+  - [[#just-as-rivers][Just as Rivers]]
+  - [[#yathā-vāri-vahā-pūrā][Yathā vāri-vahā pūrā]]
+  - [[#ratanattayānubhāvādi-gāthā][Ratanattayānubhāv’ādi-gāthā]]
+  - [[#bhojana-dānānumodanā][Bhojana-dānānumodanā]]
+  - [[#culla-maṅgala-cakka-vāḷa][Culla-maṅgala-cakka-vāḷa]]
+  - [[#aggappasāda-sutta-gāthā][Aggappasāda-sutta-gāthā]]
+  - [[#kāla-dāna-sutta-gāthā][Kāla-dāna-sutta-gāthā]]
+  - [[#so-attha-laddho][So attha-laddho]]
+- [[#paritta][Paritta]]
+  - [[#devā-ārādhanā][Devā-ārādhanā]]
+  - [[#pubba-bhāga-nama-kāra-pāṭho][Pubba-bhāga-nama-kāra-pāṭho]]
+  - [[#saraṇa-gamana-pāṭho][Saraṇa-gamana-pāṭho]]
+  - [[#nama-kāra-siddhi-gāthā][Nama-kāra-siddhi-gāthā]]
+  - [[#namo-kāra-aṭṭhaka][Namo-kāra-aṭṭhaka]]
+  - [[#maṅgala-sutta][Maṅgala-sutta]]
+  - [[#ratana-sutta][Ratana-sutta]]
+  - [[#karaṇīya-metta-sutta][Karaṇīya-metta-sutta]]
+  - [[#khandha-parittaṁ][Khandha-parittaṁ]]
+  - [[#buddha-dhamma-saṅgha-guṇā][Buddha-Dhamma-Saṅgha-guṇā]]
+  - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ kiñci ratanaṁ loke]]
+  - [[#bojjhaṅga-parittaṁ][Bojjh’aṅga-parittaṁ]]
+  - [[#abhaya-parittaṁ][Abhaya-parittaṁ]]
+  - [[#devatā-uyyojana-gāthā][Devatā-uyyojana-gāthā]]
+  - [[#jaya-maṅgala-aṭṭha-gāthā][Jaya-maṅgala-aṭṭha-gāthā]]
+  - [[#jaya-parittaṁ][Jaya-parittaṁ]]
+  - [[#bhavatu-sabba-maṅgalaṁ][Bhavatu-sabba-maṅgalaṁ]]
+- [[#funeral-recitations][Funeral Recitations]]
+  - [[#pubba-bhāga-nama-kāra-pāṭho-1][Pubba-bhāga-nama-kāra-pāṭho]]
+  - [[#dhamma-saṅgaṇī-mātikā][Dhamma-saṅgaṇī-mātikā]]
+  - [[#vipassanā-bhūmi-pāṭho][Vipassanā-bhūmi-pāṭho]]
+  - [[#paṭṭhāna-mātikā-pāṭho][Paṭṭhāna-mātikā-pāṭho]]
+  - [[#adāsi-me-ādi-gāthā][Adāsi-me ādi gāthā]]
+  - [[#paṁsu-kūla-for-the-dead][Paṁsu-kūla for the dead]]
+  - [[#paṁsu-kūla-for-the-living][Paṁsu-kūla for the living]]
+  - [[#ratanattayānubhāvādi-gāthā-1][Ratanattay’ānubhāv’ādi-gāthā]]
+- [[#sharing-of-merits][Sharing of Merits]]
+  - [[#sharing-and-aspirations][Sharing and Aspirations]]
+  - [[#sharing-of-all-merits][Sharing of All Merits]]
+  - [[#sharing-of-merits-with-the-departed][Sharing of Merits with the Departed]]
+  - [[#sharing-of-merits-with-the-devas][Sharing of Merits with the Devas]]
+  - [[#the-highest-honour-and-aspirations][The Highest Honour and Aspirations]]
+- [[#appendix][Appendix]]
+  - [[#the-three-refuges--fiveeight-trainings][The Three Refuges & Five/Eight Trainings]]
+  - [[#pāli-phonetics--pronunciation][Pāli Phonetics & Pronunciation]]
+  - [[#chanting-leader-guidelines][Chanting Leader Guidelines]]
+  - [[#abbreviations][Abbreviations]]
+  - [[#endnotes][Endnotes]]
+
+* Recitation Schedule
+* The Purpose and Benefits of Dhamma Recitation
+* Homage to the Triple Gem
+** Cover/Title
+#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+\chapterOpeningPage{morning-chanting.pdf}
+
+\chapter{Homage to the Triple Gem}
+#+end_src
+
+** Dedication of Offerings
+#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+\section{Dedication of Offerings}
+
+[Yo so] bhagavā arahaṁ sammāsambuddho
+
+\begin{cprenglish}
+  To the Blessed One the Worthy One who fully attained Perfect Enlightenment
+\end{cprenglish}
+
+Svākkhāto yena bhagavatā dhammo
+
+\begin{cprenglish}
+  To the Teaching which he expounded so well
+\end{cprenglish}
+
+Supaṭipanno yassa bhagavato sāvakasaṅgho
+
+\begin{cprenglish}
+  And to the Blessed One’s disciples who have practiced well
+\end{cprenglish}
+
+Tam-mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ
+
+\begin{cprenglish}
+  To these the Buddha the Dhamma and the Saṅgha
+\end{cprenglish}
+
+Imehi sakkārehi yathārahaṁ āropitehi abhipūjayāma
+
+\begin{cprenglish}
+  We render with offerings our rightful homage
+\end{cprenglish}
+
+Sādhu no bhante bhagavā sucira-parinibbutopi
+
+\begin{cprenglish}
+  It is well for us that the Blessed One\\
+  Having attained liberation
+\end{cprenglish}
+
+Pacchimā-janatānukampa-mānasā
+
+\begin{cprenglish}
+  Still had compassion for later generations
+\end{cprenglish}
+
+Ime sakkāre duggata-paṇṇākāra-bhūte paṭiggaṇhātu
+
+\begin{cprenglish}
+  May these simple offerings be accepted
+\end{cprenglish}
+
+Amhākaṁ dīgharattaṁ hitāya sukhāya
+
+\begin{cprenglish}
+  For our long-lasting benefit and for the happiness it gives us
+\end{cprenglish}
+
+Arahaṁ sammāsambuddho bhagavā
+
+\begin{cprenglish}
+  The Worthy One the Perfectly Enlightened and Blessed One
+\end{cprenglish}
+
+Buddhaṁ bhagavantaṁ abhivādemi\relax
+
+\begin{cprenglish}
+  I render homage to the Buddha the Blessed One (Bow)
+\end{cprenglish}
+
+[Svākkhāto] bhagavatā dhammo
+
+\begin{cprenglish}
+  The Teaching so completely explained by him
+\end{cprenglish}
+
+Dhammaṁ namassāmi\relax
+
+\begin{cprenglish}
+  I bow to the Dhamma (Bow)
+\end{cprenglish}
+
+[Supaṭipanno] bhagavato sāvakasaṅgho
+
+\begin{cprenglish}
+  The Blessed One’s disciples who have practiced well
+\end{cprenglish}
+
+Saṅghaṁ namāmi
+
+\begin{cprenglish}
+  I bow to the Saṅgha (Bow)
+\end{cprenglish}
+#+end_src
+
+** Preliminary Homage
+#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+\section{Preliminary Homage}
+
+\begin{leader}
+  [Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase]
+\end{leader}
+\begin{leader}
+  [Now let us pay preliminary homage to the Buddha.]
+\end{leader}
+
+Namo tassa bhagavato arahato sammāsambuddhassa [3x]
+
+\begin{cprenglish}
+  Homage to the Blessed Worthy and Perfectly Enlightened One [3x]
+\end{cprenglish}
+
+\clearpage
+#+end_src
+** Homage to the Buddha
+#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+\section{Homage to the Buddha}
+
+\begin{leader}
+  [Handa mayaṁ buddhābhitthutiṁ karomase]
+\end{leader}
+\begin{leader}
+  [Now let us recite in praise of the Buddha]
+\end{leader}
+
+Yo so tathāgato arahaṁ sammāsambuddho
+
+\begin{cprenglish}
+  The Tathāgata is the Worthy One the Perfectly Enlightened One
+\end{cprenglish}
+
+Vijjācaraṇa-sampanno
+
+\begin{cprenglish}
+  He is impeccable in conduct and understanding
+\end{cprenglish}
+
+Sugato
+
+\begin{cprenglish}
+  The Accomplished One
+\end{cprenglish}
+
+Lokavidū
+
+\begin{cprenglish}
+  The Knower of the Worlds
+\end{cprenglish}
+
+Anuttaro purisadamma-sārathi
+
+\begin{cprenglish}
+  Unsurpassed leader of persons to be tamedi
+\end{cprenglish}
+
+Satthā deva-manussānaṁ
+
+\begin{cprenglish}
+  He is teacher of gods and humans
+\end{cprenglish}
+
+Buddho bhagavā
+
+\begin{cprenglish}
+  He is awake and holy
+\end{cprenglish}
+
+Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
+
+\begin{cprenglish}
+  In this world with its gods ̓ demons and kind spirits
+\end{cprenglish}
+
+Sassamaṇa-brāhmaṇiṁ pajaṁ sadeva-manussaṁ sayaṁ abhiññā sacchikatvā pavedesi
+
+\begin{cprenglish}
+  Its seekers and sages  ̓  celestial and human beings\\
+  He has by deep insight revealed the truth
+\end{cprenglish}
+
+Yo dhammaṁ desesi ādi-kalyāṇaṁ majjhe-kalyāṇaṁ pariyosāna-kalyāṇaṁ
+
+\begin{cprenglish}
+  He has pointed out the Dhamma\\
+  Beautiful in the beginning\\
+  Beautiful in the middle\\
+  Beautiful in the end\\
+\end{cprenglish}
+
+Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahma-cariyaṁ pakāsesi
+
+\begin{cprenglish}
+  He has explained the holy life of complete purity\\
+  In its essence and conventions
+\end{cprenglish}
+
+Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
+\begin{cprenglish}
+  I chant my praise to the Blessed One\\
+  I bow my head to the Blessed One (Bow)
+\end{cprenglish}
+#+end_src
+
+** Homage to the Dhamma
+#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+\section{Homage to the Dhamma}
+
+\begin{leader}
+  [Handa mayaṁ dhammābhitthutiṁ karomase]
+\end{leader}
+\begin{leader}
+  [Now let us recite in praise of the Dhamma]
+\end{leader}
+
+Yo so svākkhāto bhagavatā dhammo
+
+\begin{cprenglish}
+  The Dhamma is well-expounded by the Blessed One
+\end{cprenglish}
+
+Sandiṭṭhiko
+
+\begin{cprenglish}
+  Apparent here and now
+\end{cprenglish}
+
+Akāliko
+
+\begin{cprenglish}
+  Timeless
+\end{cprenglish}
+
+Ehipassiko
+
+\begin{cprenglish}
+  Encouraging investigation
+\end{cprenglish}
+
+Opanayiko
+
+\begin{cprenglish}
+  Leading inwards
+\end{cprenglish}
+
+Paccattaṁ veditabbo viññūhi
+
+\begin{cprenglish}
+  To be experienced individually by the wise
+\end{cprenglish}
+
+Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
+
+\begin{cprenglish}
+  I chant my praise to this teaching\\
+  I bow my head to this truth (Bow)
+\end{cprenglish}
+
+
+#+end_src
+** Homage to the Saṅgha
+#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+\section{Homage to the Saṅgha}
+
+\begin{leader}
+  Handa mayaṁ saṅghābhitthutiṁ karomase
+\end{leader}
+\begin{leader}
+  Now let us recite in praise of the Saṅgha
+\end{leader}
+
+Yo so supaṭipanno bhagavato sāvakasaṅgho
+
+\begin{cprenglish}
+  They are the Blessed One’s disciples who have practiced well
+\end{cprenglish}
+
+Ujupaṭipanno bhagavato sāvakasaṅgho
+
+\begin{cprenglish}
+  Who have practiced directly
+\end{cprenglish}
+
+Ñāyapaṭipanno bhagavato sāvakasaṅgho
+
+\begin{cprenglish}
+  Who have practiced correctlyi
+\end{cprenglish}
+
+Sāmīcipaṭipanno bhagavato sāvakasaṅgho
+
+\begin{cprenglish}
+  Who have practiced properlyi
+\end{cprenglish}
+
+Yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā
+
+\begin{cprenglish}
+  That is the four pairs the eight kinds of Noble Beings
+\end{cprenglish}
+
+Esa bhagavato sāvakasaṅgho
+
+\begin{cprenglish}
+  These are the Blessed One’s disciples
+\end{cprenglish}
+
+Āhuneyyo
+
+\begin{cprenglish}
+  Such ones are worthy of gifts
+\end{cprenglish}
+
+Pāhuneyyo
+
+\begin{cprenglish}
+  Worthy of hospitality
+\end{cprenglish}
+
+Dakkhiṇeyyo
+
+\begin{cprenglish}
+  Worthy of offerings
+\end{cprenglish}
+
+Añjali-karaṇīyo
+
+\begin{cprenglish}
+  Worthy of respect
+\end{cprenglish}
+
+Anuttaraṁ puññakkhettaṁ lokassa
+
+\begin{cprenglish}
+  They give occasion for incomparable goodness to arise in the world
+\end{cprenglish}
+
+Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
+
+\begin{cprenglish}
+  I chant my praise to this Saṅgha\\
+  I bow my head to this Saṅgha (Bow)
+\end{cprenglish}
+#+end_src
+
+** Salutation to the Triple Gem
+#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+\section{Salutation to the Triple Gem}
+
+\begin{leader}
+  [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
+\end{leader}
+\begin{leader}
+  [Now let us recite our salutation to the Triple Gem and a passage to arouse urgency]
+\end{leader}
+
+\firstline{Buddho susuddho karuṇā-mahaṇṇavo}
+
+Buddho susuddho karuṇā-mahaṇṇavo
+
+\begin{cprenglish}
+  The Buddha absolutely pure with ocean-like compassion
+\end{cprenglish}
+
+Yo'ccanta-suddhabbara-ñāṇa-locano
+
+\begin{cprenglish}
+  Possessing the clear sight of wisdom
+\end{cprenglish}
+
+Lokassa pāpūpakilesa-ghātako
+
+\begin{cprenglish}
+  Destroyer of worldly self-corruption
+\end{cprenglish}
+
+Vandāmi buddhaṁ aham-ādarena taṁ
+
+\begin{cprenglish}
+  Devotedly indeed  ̓  that Buddha I revere
+\end{cprenglish}
+
+Dhammo padīpo viya tassa satthuno
+
+\begin{cprenglish}
+  The Teaching of the Lord is like a lamp
+\end{cprenglish}
+
+Yo magga-pākāmata-bheda-bhinnako
+
+\begin{cprenglish}
+  Divided into path and its fruit  ̓  the Deathless
+\end{cprenglish}
+
+Lokuttaro yo ca tad-attha-dīpano
+
+\begin{cprenglish}
+  And illuminating that goal  ̓  which is beyond the conditioned worldi
+\end{cprenglish}
+
+Vandāmi dhammaṁ aham-ādarena taṁ
+
+\begin{cprenglish}
+  Devotedly indeed  ̓  that Dhamma I revere
+\end{cprenglish}
+
+Saṅgho sukhettābhyati-khetta-saññito
+
+\begin{cprenglish}
+  The Saṅgha the most fertile ground for cultivation
+\end{cprenglish}
+
+Yo diṭṭha-santo sugatānubodhako
+
+\begin{cprenglish}
+  Those who have realised peace\\
+  Awakened after the Accomplished One
+\end{cprenglish}
+
+Lolappahīno ariyo sumedhaso
+
+\begin{cprenglish}
+  Noble and wise  ̓  all longing abandoned
+\end{cprenglish}
+
+Vandāmi saṅghaṁ aham-ādarena taṁ
+
+\begin{cprenglish}
+  Devotedly indeed  ̓  that Saṅgha I revere
+\end{cprenglish}
+
+Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
+
+\begin{cprenglish}
+  This salutation should be made\\
+  To that triad which is worthy
+\end{cprenglish}
+
+Puññaṁ mayā yaṁ mama sabbupaddavā
+
+\begin{cprenglish}
+  Through the power of such good action
+\end{cprenglish}
+
+Mā hontu ve tassa pabhāva-siddhiyā
+
+\begin{cprenglish}
+  May all obstacles disappear
+\end{cprenglish}
+
+Idha tathāgato loke uppanno arahaṁ sammāsambuddho
+
+\begin{cprenglish}
+  One who knows things as they are  ̓  has arisen in this world\\
+  And he is an Arahant  ̓  a perfectly awakened being
+\end{cprenglish}
+
+Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito
+
+\begin{cprenglish}
+  Teaching the way leading out of delusion\\
+  Calming and directing to perfect peace\\
+  And leading to enlightenment\\
+  This way he has made known\\
+\end{cprenglish}
+
+Mayan-taṁ dhammaṁ sutvā evaṁ jānāma
+
+\begin{cprenglish}
+  Having heard the Teaching we know this
+\end{cprenglish}
+
+Jātipi dukkhā
+
+\begin{cprenglish}
+  Birth is dukkha
+\end{cprenglish}
+
+Jarāpi dukkhā
+
+\begin{cprenglish}
+  Ageing is dukkha
+\end{cprenglish}
+
+Maraṇampi dukkhaṁ
+
+\begin{cprenglish}
+  And death is dukkha
+\end{cprenglish}
+
+Soka-parideva-dukkha-domanass'upāyāsāpi dukkhā
+
+\begin{cprenglish}
+  Sorrow lamentation pain displeasurei and despair are dukkha
+\end{cprenglish}
+
+Appiyehi sampayogo dukkho
+
+\begin{cprenglish}
+  Association with the disliked is dukkha
+\end{cprenglish}
+
+Piyehi vippayogo dukkho
+
+\begin{cprenglish}
+  Separation from the liked is dukkha
+\end{cprenglish}
+
+Yamp'icchaṁ na labhati tampi dukkhaṁ
+
+\begin{cprenglish}
+  Not attaining one’s wishes is dukkha
+\end{cprenglish}
+
+Saṅkhittena pañcupādānakkhandhā dukkhā
+
+\begin{cprenglish}
+  In brief  ̓  the five aggregates of clinging are dukkhai
+\end{cprenglish}
+
+Seyyathīdaṁ
+
+\begin{cprenglish}
+  These are as follows
+\end{cprenglish}
+
+Rūpūpādānakkhandho
+
+\begin{cprenglish}
+  Attachment to form
+\end{cprenglish}
+
+Vedanūpādānakkhandho
+
+\begin{cprenglish}
+  Attachment to feeling
+\end{cprenglish}
+
+Saññūpādānakkhandho
+
+\begin{cprenglish}
+  Attachment to perception
+\end{cprenglish}
+
+Saṅkhārūpādānakkhandho
+
+\begin{cprenglish}
+  Attachment to volitional formations
+\end{cprenglish}
+
+Viññāṇūpādānakkhandho
+
+\begin{cprenglish}
+  Attachment to consciousness
+\end{cprenglish}
+
+Yesaṁ pariññāya
+
+\begin{cprenglish}
+  For the complete understanding of this
+\end{cprenglish}
+
+Dharamāno so bhagavā
+
+\begin{cprenglish}
+  The Blessed One in his lifetime
+\end{cprenglish}
+
+Evaṁ bahulaṁ sāvake vineti
+
+\begin{cprenglish}
+  Frequently instructed his disciples in just this way
+\end{cprenglish}
+
+Evaṁ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
+
+\begin{cprenglish}
+  In addition he further instructed
+\end{cprenglish}
+
+Rūpaṁ aniccaṁ
+
+\begin{cprenglish}
+  Form is impermanent
+\end{cprenglish}
+
+Vedanā aniccā
+
+\begin{cprenglish}
+  Feeling is impermanent
+\end{cprenglish}
+
+Saññā aniccā
+
+\begin{cprenglish}
+  Perception is impermanent
+\end{cprenglish}
+
+Saṅkhārā aniccā
+
+\begin{cprenglish}
+  Volitional formations are impermanent
+\end{cprenglish}
+
+Viññāṇaṁ aniccaṁ
+
+\begin{cprenglish}
+  Consciousness is impermanent
+\end{cprenglish}
+
+Rūpaṁ anattā
+
+\begin{cprenglish}
+  Form is not-self
+\end{cprenglish}
+
+Vedanā anattā
+
+\begin{cprenglish}
+  Feeling is not-self
+\end{cprenglish}
+
+Saññā anattā
+
+\begin{cprenglish}
+  Perception is not-self
+\end{cprenglish}
+
+Saṅkhārā anattā
+
+\begin{cprenglish}
+  Volitional formations are not-self
+\end{cprenglish}
+
+Viññāṇaṁ anattā
+
+\begin{cprenglish}
+  Consciousness is not-self
+\end{cprenglish}
+
+Sabbe saṅkhārā aniccā
+
+\begin{cprenglish}
+  All conditioned things are impermanent
+\end{cprenglish}
+
+Sabbe dhammā anattā't
+
+\begin{cprenglish}
+  All things are not-self
+\end{cprenglish}
+
+Te mayaṁ otiṇṇāmha jātiyā jarā-maraṇena
+
+\begin{cprenglish}
+  All of us are affected by birth  ̓  ageing and deathi
+\end{cprenglish}
+
+Sokehi paridevehi dukkhehi domanassehi upāyāsehi
+
+\begin{cprenglish}
+  By sorrow lamentation pain displeasure and despair
+\end{cprenglish}
+
+Dukkhotiṇṇā dukkha-paretā
+
+\begin{cprenglish}
+  Affected by dukkha and afflicted by dukkha
+\end{cprenglish}
+
+Appeva nāmimassa kevalassa dukkha-kkhandhassa antakiriyā paññāyethā'ti
+
+\begin{cprenglish}
+  Let us all aspire to complete freedom from suffering
+\end{cprenglish}
+
+Cira-parinibbutampi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
+
+\begin{cprenglish}
+  Remembering the Blessed One  ̓  the Worthy One  ̓  and Perfectly Enlightened One\\
+  Who long ago attained Parinibbāna
+\end{cprenglish}
+
+Saddhā agārasmā anagāriyaṁ pabbajitā
+
+\begin{cprenglish}
+  We have gone forth with faith\\
+  From home to homelessness
+\end{cprenglish}
+
+Tasmiṁ bhagavati brahma-cariyaṁ carāma
+
+\begin{cprenglish}
+  And like the Blessed One  ̓  we practice the holy life
+\end{cprenglish}
+
+Bhikkhūnaṁ sikkhāsājīva-samāpannā
+
+\begin{cprenglish}
+  Possessing the bhikkhus’ training and way of life
+\end{cprenglish}
+
+Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
+
+\begin{cprenglish}
+  May this holy life  ̓  lead us to the end of this whole mass of suffering
+\end{cprenglish}
+#+end_src
+
+* Verses
+** Cover/Title
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\chapterOpeningPage{verses.pdf}
+
+\chapter{Verses}
+#+end_src
+** The Buddha's First Exclamation
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{The Buddha's First Exclamation}
+\paliTitle{Buddha-paṭhama-bhāsita}
+
+\begin{twochants}
+  Aneka-jāti-saṁsāraṁ & Sandhāvissaṁ anibbisaṁ\\
+  Gaha-kāraṁ gavesanto & Dukkhā jāti punappunaṁ\\
+\end{twochants}
+
+\begin{english}
+  For many lifetimes in the round of birth\\
+  Wandering on endlessly\\
+  For the builder of this house I searched\\
+  How painful is repeated birth.
+\end{english}
+
+\begin{twochants}
+  Gaha-kāraka diṭṭho'si & Puna gehaṁ na kāhasi\\
+  Sabbā te phāsukā bhaggā & Gaha-kūṭaṁ visaṅkhataṁ\\
+  Visaṅkhāra-gataṁ cittaṁ & Taṇhānaṁ khayam-ajjhagā\\
+\end{twochants}
+
+\begin{english}
+  House-builder you've been seen\\
+  Another home you will not build\\
+  All your rafters have been snapped\\
+  Dismantled is your ridge-pole\\
+  The non-constructing mind\\
+  Has come to craving's end
+\end{english}
+
+\suttaRef{Dhp 153-154}
+
+\clearpage
+#+end_src
+
+** Respect for the Dhamma
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{Respect for the Dhamma}
+\paliTitle{Dhamma-gārava}
+
+\begin{twochants}
+  Ye ca atītā sambuddhā & Ye ca buddhā anāgatā \\
+  Yo c'etarahi sambuddho & Bahunnaṃ soka-nāsano \\
+\end{twochants}
+
+\begin{english}
+  All the Buddhas of the past\\
+  All the Buddhas yet to come\\
+  The Buddha of this current age\\
+  Dispellers of much sorrow
+\end{english}
+
+\begin{twochants}
+  Sabbe saddhamma-garuno & Vihariṃsu viharanti ca\\
+  Atho pi viharissanti & Esā buddhāna dhammatā\\
+\end{twochants}
+
+\begin{english}
+  Those having lived or living now\\
+  Those living in the future\\
+  All do revere the True Dhamma\\
+  That is the nature of all Buddhas
+\end{english}
+
+\begin{twochants}
+  Tasmā hi atta-kāmena & Mahattam-abhikaṅkhatā\\
+  Saddhammo garu-kātabbo & Saraṃ buddhāna sāsanaṃ\\
+\end{twochants}
+
+\begin{english}
+  Therefore desiring one's own welfare\\
+  Pursuing greatest aspirations\\
+  One should revere the True Dhamma\\
+  Recollecting the Buddha's teaching
+\end{english}
+
+\suttaRef{SN 6.2}
+
+\begin{paritta}
+  Na hi dhammo adhammo ca\\
+  Ubho sama-vipākino\\
+  Adhammo nirayaṃ neti\\
+  Dhammo pāpeti suggatiṃ
+\end{paritta}
+
+\begin{english}
+  What is true Dhamma and what's not\\
+  Will never have the same results\\
+  While wrong Dhamma leads to hell realms\\
+  True Dhamma takes one on a good course
+\end{english}
+
+\begin{paritta}
+  Dhammo have rakkhati dhamma-cāriṃ\\
+  Dhammo suciṇṇo sukham-āvahāti\\
+  Esānisaṃso dhamme suciṇṇe\\
+  Na duggatiṃ gacchati dhamma-cārī
+\end{paritta}
+
+\clearpage
+
+\begin{english}
+  The Dhamma guards those who live in line with it\\
+  And leads to happiness when practised well\\
+  This is the blessing of well-practised Dhamma\\
+  The Dhamma-farer does not go on a bad course
+\end{english}
+
+\suttaRef{Thag 4.10}
+
+\clearpage
+
+
+#+end_src
+** Going to True and False Refuges
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{Going to True and False Refuges}
+\paliTitle{Khemākhema-saraṇa-gamana}
+
+\begin{twochants}
+  Bahuṃ ve saraṇaṃ yanti & Pabbatāni vanāni ca\\
+  Ārāma-rukkha-cetyāni & Manussā bhaya-tajjitā\\
+\end{twochants}
+
+\begin{english}
+  To many refuges they go\\
+  To mountain slopes and forest glades\\
+  To parkland shrines and sacred sites\\
+  People overcome by fear
+\end{english}
+
+\begin{twochants}
+  N'etaṃ kho saraṇaṃ khemaṃ & N'etaṃ saraṇam-uttamaṃ\\
+  N'etaṃ saraṇam-āgamma & Sabba-dukkhā pamuccati\\
+\end{twochants}
+
+\begin{english}
+  Such a refuge is not secure\\
+  Such a refuge is not supreme\\
+  Such a refuge does not bring\\
+  Complete release from all suffering
+\end{english}
+
+\begin{twochants}
+  Yo ca buddhañ-ca dhammañ-ca & Saṅghañ-ca saraṇaṃ gato\\
+  Cattāri ariya-saccāni & Sammappaññāya passati\\
+\end{twochants}
+
+\begin{english}
+  Whoever goes to refuge\\
+  In the Triple Gem\\
+  Sees with right discernment\\
+  The Four Noble Truths
+\end{english}
+
+\begin{twochants}
+  Dukkhaṃ dukkha-samuppādaṃ & Dukkhassa ca atikkamaṃ\\
+  Ariyañ-c'aṭṭh'aṅgikaṃ maggaṃ & Dukkhūpasama-gāminaṃ\\
+\end{twochants}
+
+\begin{english}
+  Suffering and its origin\\
+  And that which lies beyond\\
+  The Noble Eightfold Path\\
+  That leads the way to suffering's end.
+\end{english}
+
+\begin{twochants}
+  Etaṃ kho saraṇaṃ khemaṃ & Etaṃ saraṇam-uttamaṃ\\
+  Etaṃ saraṇam-āgamma & Sabba-dukkhā pamuccatī'ti.
+\end{twochants}
+
+\begin{english}
+  Such a refuge is secure\\
+  Such a refuge is supreme\\
+  Such a refuge truly brings\\
+  Complete release from all suffering.
+\end{english}
+
+\suttaRef{Dhp 188-192}
+#+end_src
+
+** The Pāṭimokkha Exhortation
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{The Pāṭimokkha Exhortation}
+\paliTitle{Ovāda-pāṭimokkha-gāthā}
+
+\begin{leader}
+  [Handa mayaṃ ovāda-pāṭimokkha-gāthāyo bhaṇāmase]
+\end{leader}
+
+Sabba-pāpassa akaraṇaṃ
+
+\begin{cprenglish}
+  Not doing any evil
+\end{cprenglish}
+
+Kusalassūpasampadā
+
+\begin{cprenglish}
+  To be committed to the good
+\end{cprenglish}
+
+Sacitta-pariyodapanaṃ
+
+\begin{cprenglish}
+  To purify one's mind
+\end{cprenglish}
+
+Etaṃ buddhāna sāsanaṃ
+
+\begin{cprenglish}
+  These are the teachings of all Buddhas
+\end{cprenglish}
+
+Khantī paramaṃ tapo tītikkhā
+
+\begin{cprenglish}
+  Patient endurance is the highest practice burning out defilements
+\end{cprenglish}
+
+Nibbānaṃ paramaṃ vadanti buddhā
+
+\begin{cprenglish}
+  The Buddhas say Nibbāna is supreme
+\end{cprenglish}
+
+Na hi pabbajito parūpaghātī
+
+\begin{cprenglish}
+  Not a renunciant is one who injures others
+\end{cprenglish}
+
+Samaṇo hoti paraṃ viheṭhayanto
+
+\begin{cprenglish}
+  Whoever troubles others can't be called a monk
+\end{cprenglish}
+
+Anūpavādo anūpaghāto
+
+\begin{cprenglish}
+  Not to insult and not to injure
+\end{cprenglish}
+
+Pāṭimokkhe ca saṃvaro
+
+\begin{cprenglish}
+  To live restrained by training rules
+\end{cprenglish}
+
+Mattaññutā ca bhattasmiṃ
+
+\begin{cprenglish}
+  Knowing one's measure at the meal
+\end{cprenglish}
+
+Pantañca sayan'āsanaṃ
+
+\begin{cprenglish}
+  Retreating to a lonely place
+\end{cprenglish}
+
+Adhicitte ca āyogo
+
+\begin{cprenglish}
+  Devotion to the higher mind
+\end{cprenglish}
+
+Etaṃ buddhāna sāsanaṃ
+
+\begin{cprenglish}
+  These are the teachings of all Buddhas
+\end{cprenglish}
+
+\suttaRef{Dhp 183-185}
+#+end_src
+** The Three Characteristics
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{The Three Characteristics}
+\paliTitle{Ti-lakkhaṇā}
+
+\begin{leader}
+  [Handa mayaṁ ti-lakkhaṇ’ādi-gāthāyo bhaṇāmase]
+\end{leader}
+
+\begin{twochants}
+  Sabbe saṅkhārā aniccā’ti & Yadā paññāya passati\\
+  Atha nibbindati dukkhe & Esa maggo visuddhiyā\\
+\end{twochants}
+
+\begin{english}
+  “All conditioned things are impermanent”\\
+  When with wisdom this is seen\\
+  One feels weary of all dukkha\\
+  This is the path to purity
+\end{english}
+
+\begin{twochants}
+  Sabbe saṅkhārā dukkhā’ti & Yadā paññāya passati\\
+  Atha nibbindati dukkhe & Esa maggo visuddhiyā\\
+\end{twochants}
+
+\begin{english}
+  “All conditioned things are dukkha”\\
+  When with wisdom this is seen\\
+  One feels weary of all dukkha\\
+  This is the path to purity
+\end{english}
+
+\begin{twochants}
+  Sabbe dhammā anattā’ti & Yadā paññāya passati\\
+  Atha nibbindati dukkhe & Esa maggo visuddhiyā\\
+\end{twochants}
+
+\begin{english}
+  “All things are not-self”\\
+  When with wisdom this is seen\\
+  One feels weary of all dukkha\\
+  This is the path to purity
+\end{english}
+
+\suttaRef{Dhp 183-185}
+
+\begin{twochants}
+  Appakā te manussesu & Ye janā pāra-gāmino\\
+  Athāyaṁ itarā pajā & Tīram-evānudhāvati\\
+\end{twochants}
+
+\begin{english}
+  Few amongst humankind\\
+  Are those who go beyond\\
+  Yet there are the many folks\\
+  Ever wandering on this shore
+\end{english}
+
+\begin{twochants}
+  Ye ca kho sammad-akkhāte & Dhamme dhammānuvattino\\
+  Te janā pāram-essanti & Maccu-dheyyaṁ suduttaraṁ\\
+\end{twochants}
+
+\begin{english}
+  Wherever Dhamma is well-taught\\
+  Those who train in line with it\\
+  Are the ones who will cross over\\
+  The realm of death so hard to flee
+\end{english}
+
+\begin{twochants}
+  Kaṇhaṁ dhammaṁ vippahāya & Sukkaṁ bhāvetha paṇḍito\\
+  Okā anokam-āgamma & Viveke yattha dūramaṁ\\
+  Tatrābhiratim-iccheyya & Hitvā kāme akiñcano
+\end{twochants}
+
+\begin{english}
+  Abandoning the darker states\\
+  The wise pursue the bright\\
+  Gone from home to homelessness\\
+  Living withdrawn so hard to enjoy\\
+  Such rare delight one should desire\\
+  Sense pleasures cast away\\
+  Not having anything
+\end{english}
+
+\suttaRef{Dhp 85-87.5}
+
+\clearpage
+#+end_src
+
+** The Burdens
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{The Burdens}
+\paliTitle{Bhārā}
+
+\begin{leader}
+  [Handa mayaṁ bhāra-sutta-gāthāyo bhaṇāmase]
+\end{leader}
+
+\begin{twochants}
+  Bhārā have pañcakkhandhā & Bhāra-hāro ca puggalo \\
+  Bhār'ādānaṃ dukkhaṃ loke & Bhāra-nikkhepanaṃ sukhaṃ \\
+\end{twochants}
+
+\begin{english}
+  The five aggregates indeed are burdens\\
+  The beast of burden is the person\\
+  In this world to take up burdens is dukkha\\
+  Putting them down brings happiness
+\end{english}
+
+\begin{twochants}
+  Nikkhipitvā garuṃ bhāraṃ & Aññaṃ bhāraṃ anādiya\\
+  Samūlaṃ taṇhaṃ abbuyha & Nicchāto parinibbuto\\
+\end{twochants}
+
+\begin{english}
+  A heavy burden cast away\\
+  Not taking on another load\\
+  With craving pulled out from the root\\
+  Desires stilled, one is released
+\end{english}
+
+\suttaRef{SN 22.22}
+
+\clearpage
+#+end_src
+
+** From the Elder Raṭṭhapāla
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{From the Elder Raṭṭhapāla}
+\paliTitle{Raṭṭhapāla-thera-gāthā}
+
+\begin{leader}
+  [Handa mayaṁ raṭṭhapālatthera-gāthāyo bhaṇāmase]
+\end{leader}
+
+\begin{twochants}
+  Passa cittakataṁ bimbaṁ & Arukāyaṁ samussitaṁ\\
+  Āturaṁ bahusaṅkappaṁ & Yassa natthi dhuvaṁ ṭhiti\\
+\end{twochants}
+
+\begin{english}
+  See this fancy puppet\\
+  A body built of sores\\
+  Diseased  ̓  obsessed over\\
+  Which does not last at all
+\end{english}
+
+\begin{twochants}
+  Passa cittakataṁ rūpaṁ & Maṇinā kuṇḍalena ca\\
+  Aṭṭhiṁ tacena onaddhaṁ & Saha vatthehi sobhati\\
+\end{twochants}
+
+\begin{english}
+  See this fancy figure\\
+  With its gems and earrings\\
+  It is bones wrapped in skin\\
+  Made pretty by its clothes
+\end{english}
+
+\begin{twochants}
+  Alattakakatā pādā & Mukhaṁ cuṇṇakamakkhitaṁ\\
+  Alaṁ bālassa mohāya & No ca pāragavesino\\
+\end{twochants}
+
+\begin{english}
+  Feet adorned with henna dye\\
+  And powder smeared upon its face\\
+  May be enough to beguile a fool\\
+  But not a seeker of the far shore
+\end{english}
+
+\begin{twochants}
+  Aṭṭhapadakatā kesā & Nettā añjanamakkhitā\\
+  Alaṁ bālassa mohāya & No ca pāragavesino\\
+\end{twochants}
+
+\begin{english}
+  Hair in eight braids\\
+  And eyeliner\\
+  May be enough to beguile a fool\\
+  But not a seeker of the far shore
+\end{english}
+
+\begin{twochants}
+  Añjanīva navā cittā & Pūtikāyo alaṅkato\\
+  Alaṁ bālassa mohāya & No ca pāragavesino\\
+\end{twochants}
+
+\begin{english}
+  A rotting body all adorned\\
+  Like a freshly painted unguent pot\\
+  May be enough to beguile a fool\\
+  But not a seeker of the far shore
+\end{english}
+
+\begin{twochants}
+  Passāmi loke sadhane manusse\\
+  Laddhāna vittaṁ na dadanti mohā\\
+  Luddhā dhanaṁ sannicayaṁ karonti\\
+  Bhiyyova kāme abhipatthayanti
+\end{twochants}
+
+\begin{english}
+  I see rich people in the world\\
+  Who from delusion give not the wealth they’ve earned\\
+  Greedily they hoard their riches\\
+  Yearning for ever more sense pleasures
+\end{english}
+
+\begin{twochants}
+  Rājā ca aññe ca bahū manussā\\
+  Avītataṇhā maraṇaṁ upenti\\
+  Ūnāva hutvāna jahanti dehaṁ\\
+  Kāmehi lokamhi na hatthi titti
+\end{twochants}
+
+\begin{english}
+  Not just the king but others too\\
+  Reach death not rid of craving\\
+  They leave the body still wanting\\
+  For in this world sense pleasures never satisfy
+\end{english}
+
+\begin{twochants}
+  Na dīghamāyuṁ labhate dhanena\\
+  Na cāpi vittena jaraṁ vihanti\\
+  Appaṁ hidaṁ jīvitamāhu dhīrā\\
+  Asassataṁ vippariṇāma-dhammaṁ
+\end{twochants}
+
+\begin{english}
+  Longevity is not gained by riches\\
+  Nor does wealth banish ageing\\
+  For the wise say this life is short\\
+  Subject to change  ̓  and not eternal
+\end{english}
+
+\begin{twochants}
+  Tasmā hi paññāva dhanena seyyā\\
+  Yāya vosānamidhādhigacchati|\
+  Abyositattā hi bhavābhavesu\\
+  Pāpāni kammāni karoti mohā
+\end{twochants}
+
+\begin{english}
+  Therefore wisdom is much better than wealth\\
+  By which one reaches perfection in this life\\
+  People through ignorance do evil deeds\\
+  Failing to reach the goal  ̓  from life to life
+\end{english}
+
+\begin{twochants}
+  Kāmā hi citrā madhurā manoramā\\
+  Virūparūpena mathenti cittaṁ\\
+  Ādīnavaṁ kāmaguṇesu disvā\\
+  Tasmā ahaṁ pabbajitomhi rāja
+\end{twochants}
+
+\begin{english}
+  Sense pleasures are diverse  ̓  sweet  ̓  delightful\\
+  Appearing in disguise they disturb the mind\\
+  Seeing danger in the cords of sense pleasure\\
+  Therefore I went forth O King
+\end{english}
+
+\begin{twochants}
+  Dumapphalānīva patanti māṇavā\\
+  Daharā ca vuḍḍhā ca sarīrabhedā\\
+  Etampi disvā pabbajitomhi rāja\\
+  Apaṇṇakaṁ sāmaññameva seyyo
+\end{twochants}
+
+\begin{english}
+  As fruits fall from a tree  ̓  so people fall\\
+  Young and old  ̓  when the body breaks up\\
+  Seeing this too I went forth O King\\
+  Surely the ascetic life is better
+\end{english}
+
+\suttaRef{Thag 16.4 / MN 82}
+
+\clearpage
+#+end_src
+
+** From the Elder Pārāpariya
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{From the Elder Pārāpariya}
+\paliTitle{Pārāpariya-thera-gāthā}
+
+\begin{leader}
+  [Handa mayaṁ pārāpariyatthera-gāthāyo bhaṇāmase]
+\end{leader}
+
+\begin{twochants}
+  Aññathā lokanāthamhi & Tiṭṭhante purisuttame\\
+  Iriyaṁ āsi bhikkhūnaṁ & Aññathā dāni dissati\\
+\end{twochants}
+
+\begin{english}
+  The behavior of the bhikkhus\\
+  These days seems different\\
+  From when the protector of the world\\
+  The best of men was still here
+\end{english}
+
+\begin{twochants}
+  Sītavātaparittāṇaṁ & Hirikopīnachādanaṁ\\
+  Mattaṭṭhiyaṁ abhuñjiṁsu & Santuṭṭhā itarītare\\
+\end{twochants}
+
+\begin{english}
+  Their robes were just for modesty\\
+  And protection from cold and wind\\
+  They ate in moderation\\
+  Content with whatever they were offered
+\end{english}
+
+\begin{twochants}
+  Paṇītaṁ yadi vā lūkhaṁ & Appaṁ vā yadi vā bahuṁ\\
+  Yāpanatthaṁ abhuñjiṁsu & Agiddhā nādhimucchitā\\
+\end{twochants}
+
+\begin{english}
+  Whether food was refined or rough\\
+  A little or a lot\\
+  They ate only for sustenance\\
+  Without greed or gluttony
+\end{english}
+
+\begin{twochants}
+  Jīvitānaṁ parikkhāre & Bhesajje atha paccaye\\
+  Na bāḷhaṁ ussukā āsuṁ & Yathā te āsavakkhaye\\
+\end{twochants}
+
+\begin{english}
+  They were not so eager\\
+  For the requisites of life\\
+  Such as tonics and other supplies\\
+  As they were for destructing the defilements
+\end{english}
+
+\begin{twochants}
+  Araññe rukkhamūlesu & Kandarāsu guhāsu ca\\
+  Vivekamanubrūhantā & Vihaṁsu tapparāyaṇā\\
+\end{twochants}
+
+\begin{english}
+  In the wilderness  ̓  at the foot of a tree\\
+  In caves and caverns\\
+  Fostering seclusion\\
+  They lived with that as their final goal
+\end{english}
+
+\begin{twochants}
+  Nīcā niviṭṭhā subharā & Mudū atthaddhamānasā\\
+  Abyāsekā amukharā & Atthacintā vasānugā\\
+\end{twochants}
+
+\begin{english}
+  They were used to simple things  ̓  easy to look after\\
+  Gentle  ̓  not stubborn at heart\\
+  Unsullied  ̓  not gossipy\\
+  Their thoughts were intent on the goal
+\end{english}
+
+\begin{twochants}
+  Tato pāsādikaṁ āsi & Gataṁ bhuttaṁ nisevitaṁ\\
+  Siniddhā teladhārāva & Ahosi iriyāpatho\\
+\end{twochants}
+
+\begin{english}
+  That’s why they inspired confidence\\
+  In their movements eating and practice\\
+  Their deportment was as smooth\\
+  As a stream of oil
+\end{english}
+
+\begin{twochants}
+  Yathā kaṇṭakaṭṭhānamhi & Careyya anupāhano\\
+  Satiṁ upaṭṭhapetvāna & Evaṁ gāme munī care\\
+\end{twochants}
+
+\begin{english}
+  When barefoot on a thorny path\\
+  One would walk\\
+  Quite mindfully\\
+  That’s how a sage should walk in the village
+\end{english}
+
+\begin{twochants}
+  Saritvā pubbake yogī & Tesaṁ vattamanussaraṁ\\
+  Kiñcāpi pacchimo kālo & Phuseyya amataṁ padaṁ\\
+\end{twochants}
+
+\begin{english}
+  Remembering the meditators of old\\
+  And recollecting their conduct\\
+  Even in the latter days\\
+  The Deathless can still be reached
+\end{english}
+
+\suttaRef{Thag 16.10}
+
+\clearpage
+#+end_src
+
+** On Protection
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{On Protection}
+\paliTitle{Tāyana-gāthā}
+
+\begin{leader}
+  [Handa mayaṁ Tāyana-gāthāyo bhaṇāmase]
+\end{leader}
+
+\begin{twochants}
+  Chinda sotaṁ parakkamma & Kāme panūda brāhmaṇa\\
+  Nappahāya muni kāme & Nekattam-upapajjati\\
+\end{twochants}
+
+\begin{english}
+  Exert yourself and cut the stream\\
+  Discard sense pleasures holy man\\
+  Not letting sensual pleasures go\\
+  A sage will not reach unityi
+\end{english}
+
+\begin{twochants}
+  Kayirā ce kayirāthenaṁ & Daḷham-enaṁ parakkame\\
+  Sithilo hi paribbājo & Bhiyyo ākirate rajaṁ\\
+\end{twochants}
+
+\begin{english}
+  Vigorously with all one’s strength\\
+  It should be done what should be done\\
+  A lax monastic life stirs up\\
+  The dust of defilements all the more
+\end{english}
+
+\begin{twochants}
+  Akataṁ dukkaṭaṁ seyyo & Pacchā tappati dukkaṭaṁ\\
+  Katañ-ca sukataṁ seyyo & Yaṁ katvā nānutappati\\
+\end{twochants}
+
+\begin{english}
+  Better is not to do bad deeds\\
+  That afterwards would bring remorse\\
+  It’s rather good deeds one should do\\
+  Which having done one won’t regret
+\end{english}
+
+\begin{twochants}
+  Kuso yathā duggahito & Hattham-evānukantati\\
+  Sāmaññaṁ dupparāmaṭṭhaṁ & Nirayāy’ūpakaḍḍhati\\
+\end{twochants}
+
+\begin{english}
+  As kusa grass when wrongly grasped\\
+  Will only cut into one’s hand\\
+  So does the monk’s life wrongly led\\
+  Indeed drag one to hellish states
+\end{english}
+
+\begin{twochants}
+  Yaṁ-kiñci sithilaṁ kammaṁ & Saṅkiliṭṭhañ-ca yaṁ vataṁ\\
+  Saṅkassaraṁ brahma-cariyaṁ & Na taṁ hoti mahapphalan’ti\\
+\end{twochants}
+
+\begin{english}
+  Whatever deed that’s slackly done\\
+  Whatever vow corruptly kept\\
+  The holy life led in doubtful ways\\
+  All these will never bear great fruits
+\end{english}
+
+\suttaRef{SN 2.8}
+
+\clearpage
+#+end_src
+
+** Miscellaneous Verses
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{Misecellaneous Verses}
+\paliTitle{Pakiṇṇaka-gāthā}
+
+\begin{leader}
+  [Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase]
+\end{leader}
+
+\begin{twochants}
+  Attadīpā bhikkhave viharatha attasaraṇā anaññasaraṇā\\
+  Dhammadīpā dhammasaraṇā anaññasaraṇā\\
+\end{twochants}
+
+\begin{english}
+  Bhikkhus dwell with yourselves as an island\\
+  With yourselves as a refuge  ̓  with no other refuge\\
+  With the Dhamma as an island  ̓  with the Dhamma as a refuge\\
+  With no other refuge
+\end{english}
+
+\suttaRef{SN 22.43}
+
+\begin{twochants}
+  Appassutāyaṁ puriso & Balibaddova jīrati\\
+  Maṁsāni tassa vaḍḍhanti & Paññā tassa na vaḍḍhati\\
+\end{twochants}
+
+\begin{english}
+  The man of little learning\\
+  Grows old like an ox\\
+  He grows only in bulk\\
+  But his wisdom does not grow
+\end{english}
+
+\suttaRef{Dhp 152}
+
+\begin{twochants}
+  Uyyuñjanti satīmanto & Na nikete ramanti te\\
+  Haṁsāva pallalaṁ hitvā & Okamokaṁ jahanti te\\
+\end{twochants}
+
+\begin{english}
+  The mindful ones exert themselves\\
+  They are not attached to any home\\
+  Like swans that abandon the lake\\
+  They leave home after home behind
+\end{english}
+
+\suttaRef{Dhp 91}
+
+\begin{twochants}
+  Yaṁ pubbe taṁ visosehi & Pacchā te māhu kiñcanaṁ\\
+  Majjhe ce no gahessasi & Upasanto carissasi\\
+\end{twochants}
+
+\begin{english}
+  Dry up what pertains to the past\\
+  Let there be nothing afterward\\
+  If you do not grasp in the middle\\
+  You will live at peace
+\end{english}
+
+\suttaRef{Snp 949}
+
+\begin{twochants}
+  Uṭṭhahatha nisīdatha & Ko attho supitena vo\\
+  Āturānañhi kā niddā & Sallaviddhāna ruppataṁ\\
+\end{twochants}
+
+\begin{english}
+  Arouse yourselves  ̓  sit up!\\
+  What good to you is sleeping?\\
+  For what sleep can there be for the afflicted\\
+  For those injured  ̓  pierced by the dart?
+\end{english}
+
+\begin{twochants}
+  Uṭṭhahatha nisīdatha & Daḷhaṁ sikkhatha santiyā\\
+  Mā vo pamatte viññāya & Maccurājā amohayittha vasānuge\\
+\end{twochants}
+
+\begin{english}
+  Arouse yourselves  ̓  sit up!\\
+  Train vigorously for the state of peace\\
+  Let not the King of Death catch you heedless\\
+  And delude you when under his control
+\end{english}
+
+\begin{twochants}
+  Yāya devā manussā ca & Sitā tiṭṭhanti atthikā\\
+  Tarathetaṁ visattikaṁ & Khaṇo vo mā upaccagā\\
+  Khaṇātītā hi socanti & Nirayamhi samappitā\\
+\end{twochants}
+
+\begin{english}
+  Cross over this attachment\\
+  By which devas and human beings\\
+  Full of need are held fast\\
+  Don’t let the opportunity pass you by\\
+  For those who have missed the opportunity\\
+  Sorrow when they arrive in hell
+\end{english}
+
+\begin{twochants}
+  Pamādo rajo pamādo & Pamādānupatito rajo\\
+  Appamādena vijjāya & Abbahe sallamattanoti\\
+\end{twochants}
+
+\begin{english}
+  Heedlessness is dust always\\
+  Dust follows upon heedlessness\\
+  By heedfulness by clear knowledge\\
+  Draw out the dart from yourself
+\end{english}
+
+\suttaRef{Snp 333-336}
+
+\begin{twochants}
+  Piyato jāyatī soko & Piyato jāyatī bhayaṁ\\
+  Piyato vippamuttassa & Natthi soko kuto bhayaṁ\\
+\end{twochants}
+
+\begin{english}
+  From endearment springs sorrow\\
+  From endearment springs fear\\
+  For one who is free from endearment\\
+  There is no sorrow  ̓  whence then fear?
+\end{english}
+
+\suttaRef{Dhp 212}
+
+\begin{twochants}
+  Tiṭṭhateva nibbānaṁ
+\end{twochants}
+
+\begin{english}
+  Nibbāna exists
+\end{english}
+
+\begin{twochants}
+  Tiṭṭhati nibbānagāmī maggo
+\end{twochants}
+
+\begin{english}
+  The path leading to nibbāna exists
+\end{english}
+
+\begin{twochants}
+  Maggakkhāyī tathāgato
+\end{twochants}
+
+\begin{english}
+  A Tathāgata is one who shows the path
+\end{english}
+
+\suttaRef{MN 107}
+
+\begin{twochants}
+  Tumhehi kiccam-ātappaṃ
+\end{twochants}
+
+\begin{english}
+  You yourselves must strive
+\end{english}
+
+\suttaRef{Dhp 276}
+
+\begin{twochants}
+  Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ\\
+  Hitesinā anukampakena anukampaṁ upādāya\\
+\end{twochants}
+
+\begin{english}
+  Bhikkhus what should be done for his disciples\\
+  Out of compassion by a teacher\\
+  Who seek their welfare and has compassion for them
+\end{english}
+
+\begin{twochants}
+  Kataṁ vo taṁ mayā
+\end{twochants}
+
+\begin{english}
+  That I have done for you
+\end{english}
+
+\begin{twochants}
+  Etāni bhikkhave rukkhamūlāni
+\end{twochants}
+
+\begin{english}
+  Bhikkhus these are roots of trees
+\end{english}
+
+\begin{twochants}
+  Etāni suññāgārāni
+\end{twochants}
+
+\begin{english}
+  These are empty huts
+\end{english}
+
+\begin{twochants}
+  Jhāyatha bhikkhave mā pamādattha
+\end{twochants}
+
+\begin{english}
+  Meditate bhikkhus  ̓  do not be negligent
+\end{english}
+
+\begin{twochants}
+  Mā pacchā vippaṭisārino ahuvattha
+\end{twochants}
+
+\begin{english}
+  Lest you regret it later
+\end{english}
+
+\begin{twochants}
+  Ayaṁ vo amhākaṁ anusāsanī’ti
+\end{twochants}
+
+\begin{english}
+  This is my instruction to you
+\end{english}
+
+\suttaRef{MN 19}
+
+\clearpage
+#+end_src
+
+** A Single Excellent Night
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{A Single Excellent Night}
+\paliTitle{Bhadd-eka-ratta}
+
+\begin{leader}
+  [Handa mayaṁ bhadd’eka-ratta-gāthāyo bhaṇāmase]
+\end{leader}
+
+\begin{twochants}
+  Atītaṁ nānvāgameyya & Nappaṭikaṅkhe anāgataṁ\\
+  Yad atītam-pahīnan-taṁ & Appattañ-ca anāgataṁ\\
+\end{twochants}
+
+\begin{english}
+  One should not revive the past\\
+  Nor speculate on what’s to come\\
+  The past is left behind\\
+  The future is unrealized
+\end{english}
+
+\begin{twochants}
+  Paccuppannañ-ca yo dhammaṁ & Tattha tattha vipassati\\
+  Asaṁhiraṁ asaṅkuppaṁ & Taṁ viddhām-anubrūhaye\\
+\end{twochants}
+
+\begin{english}
+  In every presently arisen state\\
+  There just there one clearly sees\\
+  Unmoved unagitated\\
+  That is what the wise would keep fostering
+\end{english}
+
+\begin{twochants}
+  Ajjeva kiccam-ātappaṁ & Ko jaññā maraṇaṁ suve\\
+  Na hi no saṅgaran-tena & Mahā-senena maccunā\\
+\end{twochants}
+
+\begin{english}
+  Ardently doing one’s task today\\
+  Tomorrow who knows death may come\\
+  Facing the mighty hordes of death\\
+  Indeed one cannot strike a deal
+\end{english}
+
+\begin{twochants}
+  Evaṁ vihārim-ātāpiṁ & Aho-rattam-atanditaṁ\\
+  Taṁ ve bhadd’eka-ratto’ti & Santo ācikkhate muni\\
+\end{twochants}
+
+\begin{english}
+  To dwell with energy aroused\\
+  Day and night relentlessly\\
+  That is “a single excellent night”\\
+  So it was taught by the Peaceful Sage
+\end{english}
+
+\suttaRef{MN 131}
+
+\clearpage
+#+end_src
+
+** The Highest Blessings
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{The Highest Blessings}
+\paliTitle{Maṅgala-sutta}
+
+\begin{leader}
+  [Now let us recite the verses on the Highest Blessings]
+\end{leader}
+
+Thus have I heard that the Blessed One\\
+Was dwelling at Sāvatthī\\
+Residing at the Jeta’s Grove\\
+In Anāthapiṇḍika’s Park
+
+Then in the dark of the night\\
+A radiant deva illuminated all Jeta’s Grove\\
+She bowed down low before the Blessed One\\
+Then standing to one side she said:
+
+“Devas are concerned for happiness\\
+And ever long for peace\\
+The same is true for humankind\\
+What then are the highest blessings?”
+
+Avoiding those of foolish ways\\
+Associating with the wise\\
+And honouring those worthy of honour\\
+These are the highest blessings
+
+Living in places of suitable kinds\\
+With the fruits of past good deeds\\
+And guided by the rightful way\\
+These are the highest blessings
+
+Accomplished in learning and craftsman’s skills\\
+With discipline highly trained\\
+And speech that is true and pleasant to hear\\
+These are the highest blessings
+
+Providing for mother and father’s support\\
+And cherishing family\\
+And ways of work that harm no being\\
+These are the highest blessings
+
+Generosity and a righteous life\\
+Offering help to relatives and kin\\
+And acting in ways that leave no blame\\
+These are the highest blessings
+
+Steadfast in restraint and shunning evil ways\\
+Avoiding intoxicants that dull the mind\\
+And heedfulness in all things that arise\\
+These are the highest blessings
+
+Respectfulness and being of humble ways\\
+Contentment and gratitude\\
+And hearing the Dhamma frequently taught\\
+These are the highest blessings
+
+Patience and willingness to accept one’s faults\\
+Seeing venerated seekers of the truth\\
+And sharing often the words of Dhamma\\
+These are the highest blessings
+
+Ardent and committedii to the holy life\\
+Seeing for oneself the Noble Truths\\
+And the realization of Nibbāna\\
+These are the highest blessings
+
+Although in contact with the world\\
+Unshaken the mind remains\\
+Beyond all sorrow spotless secure\\
+These are the highest blessings
+
+They who live by following this path\\
+Know victory wherever they go\\
+And every place for them is safe\\
+These are the highest blessings
+
+\suttaRef{Snp 2.4}
+
+\clearpage
+#+end_src
+
+** The Buddha’s Words on Loving-Kindness
+#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+\section{The Buddha's Words on Loving-Kindness}
+\paliTitle{Karaṇīya-metta-sutta}
+
+\begin{leader}
+  [Now let us recite the Buddha’s words on loving-kindness]
+\end{leader}
+
+This is what should be done\\
+By one who is skilled in goodness\\
+And who knows the path of peace\\
+Let them be able and upright\\
+Straightforward and gentle in speech\\
+Humble and not conceited\\
+Contented and easily satisfied\\
+Unburdened with duties  ̓  and frugal in their ways\\
+Peaceful and calm and wise and skillful\\
+Not proud and demanding in nature\\
+Let them not do the slightest thing\\
+That the wise would later reprove\\
+Wishing in gladness and in safety\\
+May all beings be at ease\\
+Whatever living beings there may be\\
+Whether they are weak or strong  ̓  omitting none\\
+The great or the mighty  ̓  medium short or small\\
+The seen and the unseen\\
+Those living near and far away\\
+Those born and to be born\\
+May all beings be at ease\\
+Let none deceive another\\
+Or despise any being in any state\\
+Let none through anger or ill-will\\
+Wish harm upon another\\
+Justi as a mother protects with her life\\
+Her child her only child\\
+So with a boundless heart\\
+Should one cherish all living beings\\
+Radiating kindness  ̓  over the entire world\\
+Spreading upwards to the skies\\
+And downwards to the depths\\
+Outwards and unbounded\\
+Freed from hatred and ill-will\\
+Whether standing or walking\\
+Seated or lying down free from drowsiness\\
+One should sustain this recollection\\
+This is said to be the sublime abiding\\
+By not holding wrong views\\
+The pure-hearted one having clarity of vision\\
+Being freed from all sense-desires\\
+Is not born again into this world
+
+\suttaRef{Snp 1.8}
+
+\clearpage
+#+end_src
+
+* Teachings
+** Setting in Motion the Wheel of Dhamma
+** Requisites for Awakening
+** The Seven Factors of Awakening
+** The Noble Eightfold Path
+** Mindfulness of Breathing
+** Dependent Origination
+** The Dhamma in Brief
+** The Four Great References
+** Principles of Cordiality
+** Principles of Non-Decline
+** Striving According to the Dhamma
+** The Buddha’s Final Instruction
+
+* Reflections
+** The Four Requisites
+** The Repulsiveness of Food
+** Universal Well-Being
+** The Divine Abidings
+** Five Subjects for Frequent Recollection
+** Ten Subjects for Frequent Reflection by One Gone Forth
+** The Thirty-Two Body Parts
+** Recollection of Impermanence
+
+* Cardinal Suttas
+** Dhammacakkappavattana Sutta
+** The Discourse on Setting in Motion the Wheel of Dhamma
+** Anatta-lakkhaṇa Sutta
+** The Discourse on the Characteristic of Not-Self
+** Āditta-Pariyāya Sutta
+** The Fire Sermon
+
+* Anumodanā
+** Just as Rivers
+** Yathā vāri-vahā pūrā
+** Ratanattayānubhāv’ādi-gāthā
+** Bhojana-dānānumodanā
+** Culla-maṅgala-cakka-vāḷa
+** Aggappasāda-sutta-gāthā
+** Kāla-dāna-sutta-gāthā
+** So attha-laddho
+* Paritta
+** Devā-ārādhanā
+** Pubba-bhāga-nama-kāra-pāṭho
+** Saraṇa-gamana-pāṭho
+** Nama-kāra-siddhi-gāthā
+** Namo-kāra-aṭṭhaka
+** Maṅgala-sutta
+** Ratana-sutta
+** Karaṇīya-metta-sutta
+** Khandha-parittaṁ
+** Buddha-Dhamma-Saṅgha-guṇā
+** Yaṅ kiñci ratanaṁ loke
+** Bojjh’aṅga-parittaṁ
+** Abhaya-parittaṁ
+** Devatā-uyyojana-gāthā
+** Jaya-maṅgala-aṭṭha-gāthā
+** Jaya-parittaṁ
+** Bhavatu-sabba-maṅgalaṁ
+* Funeral Recitations
+** Pubba-bhāga-nama-kāra-pāṭho
+** Dhamma-saṅgaṇī-mātikā
+** Vipassanā-bhūmi-pāṭho
+** Paṭṭhāna-mātikā-pāṭho
+** Adāsi-me ādi gāthā
+** Paṁsu-kūla for the dead
+** Paṁsu-kūla for the living
+** Ratanattay’ānubhāv’ādi-gāthā
+* Sharing of Merits
+** Sharing and Aspirations
+** Sharing of All Merits
+** Sharing of Merits with the Departed
+** Sharing of Merits with the Devas
+** The Highest Honour and Aspirations
+* Appendix
+** The Three Refuges & Five/Eight Trainings
+*** Requesting the Three Refuges & Five/Eight Trainings261
+*** Undertaking the Three Refuges
+*** Undertaking the Five Trainings263
+*** Undertaking the Eight Trainings
+** Pāli Phonetics & Pronunciation
+** Chanting Leader Guidelines
+** Abbreviations
+** Endnotes
