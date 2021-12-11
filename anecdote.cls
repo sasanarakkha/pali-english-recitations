@@ -208,20 +208,27 @@
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
 ]{LibertinusSerif-Regular.otf}
 
+\newfontfamily\sbsFont[
+  ItalicFont = SbsSerif-italic.ttf,
+  BoldFont = SbsSerif-bold.ttf,
+  BoldItalicFont = SbsSerif-boldItalic.ttf,
+]{SbsSerif-regular.ttf}
+
+
 % header and footer
 
-\newcommand\headerFont\libertinusFont
+\newcommand\headerFont\sbsFont
 \newcommand\footerFont\headerFont
 \newcommand\pageNumFont\headerFont
 
 % chapter and section
 
-\newcommand\partNameFont\libertinusFont
-\newcommand\partTitleFont\libertinusFont
+\newcommand\partNameFont\sbsFont
+\newcommand\partTitleFont\sbsFont
 
 \newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\libertinusFont
-\newcommand\chapterNumberFont\libertinusFont
+\newcommand\chapterTitleFont\sbsFont
+\newcommand\chapterNumberFont\sbsFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
@@ -288,7 +295,7 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
-\SetTracking[spacing={400,100,}]{encoding=*, family={LibertinusSerif-Regular.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={SbsSerif-regular.ttf}}{20}
 \SetTracking[spacing={600,100,}]{encoding=*, family={NunitoSans-Light.ttf}}{70}
 
 % === hyperref ===
