@@ -1,5 +1,6 @@
-#+TITLE: SBS Pāli-English Recitations: TeX
+#+TITLE: SBS Pāli-English Recitations
 #+AUTHOR: SBS Saṅgha
+#+format: TeX
 #+startup: fold
 
 * Table of Contents :toc:
@@ -929,8 +930,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \paliTitle{Buddha-paṭhama-bhāsita}
 
 \begin{twochants}
-  Aneka-jāti-saṁsāraṁ & Sandhāvissaṁ anibbisaṁ\\
-  Gaha-kāraṁ gavesanto & Dukkhā jāti punappunaṁ\\
+  Aneka-jāti-saṁsāraṁ – Sandhāvissaṁ anibbisaṁ\\
+  Gaha-kāraṁ gavesanto – Dukkhā jāti punappunaṁ\\
 \end{twochants}
 
 \begin{english}
@@ -941,9 +942,9 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \end{english}
 
 \begin{twochants}
-  Gaha-kāraka diṭṭho'si & Puna gehaṁ na kāhasi\\
-  Sabbā te phāsukā bhaggā & Gaha-kūṭaṁ visaṅkhataṁ\\
-  Visaṅkhāra-gataṁ cittaṁ & Taṇhānaṁ khayam-ajjhagā\\
+  Gaha-kāraka diṭṭho'si – Puna gehaṁ na kāhasi\\
+  Sabbā te phāsukā bhaggā – Gaha-kūṭaṁ visaṅkhataṁ\\
+  Visaṅkhāra-gataṁ cittaṁ – Taṇhānaṁ khayam-ajjhagā\\
 \end{twochants}
 
 \begin{english}
@@ -966,8 +967,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \paliTitle{Dhamma-gārava}
 
 \begin{twochants}
-  Ye ca atītā sambuddhā & Ye ca buddhā anāgatā \\
-  Yo c'etarahi sambuddho & Bahunnaṁ soka-nāsano \\
+  Ye ca atītā sambuddhā – Ye ca buddhā anāgatā \\
+  Yo c'etarahi sambuddho – Bahunnaṁ soka-nāsano \\
 \end{twochants}
 
 \begin{english}
@@ -978,8 +979,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \end{english}
 
 \begin{twochants}
-  Sabbe saddhamma-garuno & Vihariṁsu viharanti ca\\
-  Atho pi viharissanti & Esā buddhāna dhammatā\\
+  Sabbe saddhamma-garuno – Vihariṁsu viharanti ca\\
+  Atho pi viharissanti – Esā buddhāna dhammatā\\
 \end{twochants}
 
 \begin{english}
@@ -990,8 +991,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \end{english}
 
 \begin{twochants}
-  Tasmā hi atta-kāmena & Mahattam-abhikaṅkhatā\\
-  Saddhammo garu-kātabbo & Saraṁ buddhāna sāsanaṁ\\
+  Tasmā hi atta-kāmena – Mahattam-abhikaṅkhatā\\
+  Saddhammo garu-kātabbo – Saraṁ buddhāna sāsanaṁ\\
 \end{twochants}
 
 \begin{english}
@@ -1045,8 +1046,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \paliTitle{Khemākhema-saraṇa-gamana}
 
 \begin{twochants}
-  Bahuṁ ve saraṇaṁ yanti & Pabbatāni vanāni ca\\
-  Ārāma-rukkha-cetyāni & Manussā bhaya-tajjitā\\
+  Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\\
+  Ārāma-rukkha-cetyāni – Manussā bhaya-tajjitā\\
 \end{twochants}
 
 \begin{english}
@@ -1057,8 +1058,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \end{english}
 
 \begin{twochants}
-  N'etaṁ kho saraṇaṁ khemaṁ & N'etaṁ saraṇam-uttamaṁ\\
-  N'etaṁ saraṇam-āgamma & Sabba-dukkhā pamuccati\\
+  N'etaṁ kho saraṇaṁ khemaṁ – N'etaṁ saraṇam-uttamaṁ\\
+  N'etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccati\\
 \end{twochants}
 
 \begin{english}
@@ -1069,8 +1070,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \end{english}
 
 \begin{twochants}
-  Yo ca buddhañ-ca dhammañ-ca & Saṅghañ-ca saraṇaṁ gato\\
-  Cattāri ariya-saccāni & Sammappaññāya passati\\
+  Yo ca buddhañ-ca dhammañ-ca – Saṅghañ-ca saraṇaṁ gato\\
+  Cattāri ariya-saccāni – Sammappaññāya passati\\
 \end{twochants}
 
 \begin{english}
@@ -1081,8 +1082,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \end{english}
 
 \begin{twochants}
-  Dukkhaṁ dukkha-samuppādaṁ & Dukkhassa ca atikkamaṁ\\
-  Ariyañ-c'aṭṭh'aṅgikaṁ maggaṁ & Dukkhūpasama-gāminaṁ\\
+  Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
+  Ariyañ-c'aṭṭh'aṅgikaṁ maggaṁ – Dukkhūpasama-gāminaṁ\\
 \end{twochants}
 
 \begin{english}
@@ -1093,8 +1094,8 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 \end{english}
 
 \begin{twochants}
-  Etaṁ kho saraṇaṁ khemaṁ & Etaṁ saraṇam-uttamaṁ\\
-  Etaṁ saraṇam-āgamma & Sabba-dukkhā pamuccatī'ti.
+  Etaṁ kho saraṇaṁ khemaṁ – Etaṁ saraṇam-uttamaṁ\\
+  Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
 \end{twochants}
 
 \begin{english}
@@ -1212,8 +1213,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{leader}
 
 \begin{twochants}
-  Sabbe saṅkhārā aniccā’ti & Yadā paññāya passati\\
-  Atha nibbindati dukkhe & Esa maggo visuddhiyā\\
+  Sabbe saṅkhārā aniccā’ti – Yadā paññāya passati\\
+  Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
 \end{twochants}
 
 \begin{english}
@@ -1224,8 +1225,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Sabbe saṅkhārā dukkhā’ti & Yadā paññāya passati\\
-  Atha nibbindati dukkhe & Esa maggo visuddhiyā\\
+  Sabbe saṅkhārā dukkhā’ti – Yadā paññāya passati\\
+  Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
 \end{twochants}
 
 \begin{english}
@@ -1236,8 +1237,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Sabbe dhammā anattā’ti & Yadā paññāya passati\\
-  Atha nibbindati dukkhe & Esa maggo visuddhiyā\\
+  Sabbe dhammā anattā’ti – Yadā paññāya passati\\
+  Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
 \end{twochants}
 
 \begin{english}
@@ -1250,8 +1251,8 @@ Etaṁ buddhāna sāsanaṁ
 \suttaRef{Dhp 183-185}
 
 \begin{twochants}
-  Appakā te manussesu & Ye janā pāra-gāmino\\
-  Athāyaṁ itarā pajā & Tīram-evānudhāvati\\
+  Appakā te manussesu – Ye janā pāra-gāmino\\
+  Athāyaṁ itarā pajā – Tīram-evānudhāvati\\
 \end{twochants}
 
 \begin{english}
@@ -1262,8 +1263,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Ye ca kho sammad-akkhāte & Dhamme dhammānuvattino\\
-  Te janā pāram-essanti & Maccu-dheyyaṁ suduttaraṁ\\
+  Ye ca kho sammad-akkhāte – Dhamme dhammānuvattino\\
+  Te janā pāram-essanti – Maccu-dheyyaṁ suduttaraṁ\\
 \end{twochants}
 
 \begin{english}
@@ -1274,9 +1275,9 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Kaṇhaṁ dhammaṁ vippahāya & Sukkaṁ bhāvetha paṇḍito\\
-  Okā anokam-āgamma & Viveke yattha dūramaṁ\\
-  Tatrābhiratim-iccheyya & Hitvā kāme akiñcano
+  Kaṇhaṁ dhammaṁ vippahāya – Sukkaṁ bhāvetha paṇḍito\\
+  Okā anokam-āgamma – Viveke yattha dūramaṁ\\
+  Tatrābhiratim-iccheyya – Hitvā kāme akiñcano
 \end{twochants}
 
 \begin{english}
@@ -1304,8 +1305,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{leader}
 
 \begin{twochants}
-  Bhārā have pañcakkhandhā & Bhāra-hāro ca puggalo \\
-  Bhār'ādānaṁ dukkhaṁ loke & Bhāra-nikkhepanaṁ sukhaṁ \\
+  Bhārā have pañcakkhandhā – Bhāra-hāro ca puggalo \\
+  Bhār'ādānaṁ dukkhaṁ loke – Bhāra-nikkhepanaṁ sukhaṁ \\
 \end{twochants}
 
 \begin{english}
@@ -1316,8 +1317,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Nikkhipitvā garuṁ bhāraṁ & Aññaṁ bhāraṁ anādiya\\
-  Samūlaṁ taṇhaṁ abbuyha & Nicchāto parinibbuto\\
+  Nikkhipitvā garuṁ bhāraṁ – Aññaṁ bhāraṁ anādiya\\
+  Samūlaṁ taṇhaṁ abbuyha – Nicchāto parinibbuto\\
 \end{twochants}
 
 \begin{english}
@@ -1342,8 +1343,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{leader}
 
 \begin{twochants}
-  Passa cittakataṁ bimbaṁ & Arukāyaṁ samussitaṁ\\
-  Āturaṁ bahusaṅkappaṁ & Yassa natthi dhuvaṁ ṭhiti\\
+  Passa cittakataṁ bimbaṁ – Arukāyaṁ samussitaṁ\\
+  Āturaṁ bahusaṅkappaṁ – Yassa natthi dhuvaṁ ṭhiti\\
 \end{twochants}
 
 \begin{english}
@@ -1354,8 +1355,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Passa cittakataṁ rūpaṁ & Maṇinā kuṇḍalena ca\\
-  Aṭṭhiṁ tacena onaddhaṁ & Saha vatthehi sobhati\\
+  Passa cittakataṁ rūpaṁ – Maṇinā kuṇḍalena ca\\
+  Aṭṭhiṁ tacena onaddhaṁ – Saha vatthehi sobhati\\
 \end{twochants}
 
 \begin{english}
@@ -1366,8 +1367,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Alattakakatā pādā & Mukhaṁ cuṇṇakamakkhitaṁ\\
-  Alaṁ bālassa mohāya & No ca pāragavesino\\
+  Alattakakatā pādā – Mukhaṁ cuṇṇakamakkhitaṁ\\
+  Alaṁ bālassa mohāya – No ca pāragavesino\\
 \end{twochants}
 
 \begin{english}
@@ -1378,8 +1379,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Aṭṭhapadakatā kesā & Nettā añjanamakkhitā\\
-  Alaṁ bālassa mohāya & No ca pāragavesino\\
+  Aṭṭhapadakatā kesā – Nettā añjanamakkhitā\\
+  Alaṁ bālassa mohāya – No ca pāragavesino\\
 \end{twochants}
 
 \begin{english}
@@ -1390,8 +1391,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Añjanīva navā cittā & Pūtikāyo alaṅkato\\
-  Alaṁ bālassa mohāya & No ca pāragavesino\\
+  Añjanīva navā cittā – Pūtikāyo alaṅkato\\
+  Alaṁ bālassa mohāya – No ca pāragavesino\\
 \end{twochants}
 
 \begin{english}
@@ -1500,8 +1501,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{leader}
 
 \begin{twochants}
-  Aññathā lokanāthamhi & Tiṭṭhante purisuttame\\
-  Iriyaṁ āsi bhikkhūnaṁ & Aññathā dāni dissati\\
+  Aññathā lokanāthamhi – Tiṭṭhante purisuttame\\
+  Iriyaṁ āsi bhikkhūnaṁ – Aññathā dāni dissati\\
 \end{twochants}
 
 \begin{english}
@@ -1512,8 +1513,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Sītavātaparittāṇaṁ & Hirikopīnachādanaṁ\\
-  Mattaṭṭhiyaṁ abhuñjiṁsu & Santuṭṭhā itarītare\\
+  Sītavātaparittāṇaṁ – Hirikopīnachādanaṁ\\
+  Mattaṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itarītare\\
 \end{twochants}
 
 \begin{english}
@@ -1524,8 +1525,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Paṇītaṁ yadi vā lūkhaṁ & Appaṁ vā yadi vā bahuṁ\\
-  Yāpanatthaṁ abhuñjiṁsu & Agiddhā nādhimucchitā\\
+  Paṇītaṁ yadi vā lūkhaṁ – Appaṁ vā yadi vā bahuṁ\\
+  Yāpanatthaṁ abhuñjiṁsu – Agiddhā nādhimucchitā\\
 \end{twochants}
 
 \begin{english}
@@ -1536,8 +1537,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Jīvitānaṁ parikkhāre & Bhesajje atha paccaye\\
-  Na bāḷhaṁ ussukā āsuṁ & Yathā te āsavakkhaye\\
+  Jīvitānaṁ parikkhāre – Bhesajje atha paccaye\\
+  Na bāḷhaṁ ussukā āsuṁ – Yathā te āsavakkhaye\\
 \end{twochants}
 
 \begin{english}
@@ -1548,8 +1549,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Araññe rukkhamūlesu & Kandarāsu guhāsu ca\\
-  Vivekamanubrūhantā & Vihaṁsu tapparāyaṇā\\
+  Araññe rukkhamūlesu – Kandarāsu guhāsu ca\\
+  Vivekamanubrūhantā – Vihaṁsu tapparāyaṇā\\
 \end{twochants}
 
 \begin{english}
@@ -1560,8 +1561,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Nīcā niviṭṭhā subharā & Mudū atthaddhamānasā\\
-  Abyāsekā amukharā & Atthacintā vasānugā\\
+  Nīcā niviṭṭhā subharā – Mudū atthaddhamānasā\\
+  Abyāsekā amukharā – Atthacintā vasānugā\\
 \end{twochants}
 
 \begin{english}
@@ -1572,8 +1573,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Tato pāsādikaṁ āsi & Gataṁ bhuttaṁ nisevitaṁ\\
-  Siniddhā teladhārāva & Ahosi iriyāpatho\\
+  Tato pāsādikaṁ āsi – Gataṁ bhuttaṁ nisevitaṁ\\
+  Siniddhā teladhārāva – Ahosi iriyāpatho\\
 \end{twochants}
 
 \begin{english}
@@ -1584,8 +1585,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Yathā kaṇṭakaṭṭhānamhi & Careyya anupāhano\\
-  Satiṁ upaṭṭhapetvāna & Evaṁ gāme munī care\\
+  Yathā kaṇṭakaṭṭhānamhi – Careyya anupāhano\\
+  Satiṁ upaṭṭhapetvāna – Evaṁ gāme munī care\\
 \end{twochants}
 
 \begin{english}
@@ -1596,8 +1597,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Saritvā pubbake yogī & Tesaṁ vattamanussaraṁ\\
-  Kiñcāpi pacchimo kālo & Phuseyya amataṁ padaṁ\\
+  Saritvā pubbake yogī – Tesaṁ vattamanussaraṁ\\
+  Kiñcāpi pacchimo kālo – Phuseyya amataṁ padaṁ\\
 \end{twochants}
 
 \begin{english}
@@ -1622,8 +1623,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{leader}
 
 \begin{twochants}
-  Chinda sotaṁ parakkamma & Kāme panūda brāhmaṇa\\
-  Nappahāya muni kāme & Nekattam-upapajjati\\
+  Chinda sotaṁ parakkamma – Kāme panūda brāhmaṇa\\
+  Nappahāya muni kāme – Nekattam-upapajjati\\
 \end{twochants}
 
 \begin{english}
@@ -1634,8 +1635,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Kayirā ce kayirāthenaṁ & Daḷham-enaṁ parakkame\\
-  Sithilo hi paribbājo & Bhiyyo ākirate rajaṁ\\
+  Kayirā ce kayirāthenaṁ – Daḷham-enaṁ parakkame\\
+  Sithilo hi paribbājo – Bhiyyo ākirate rajaṁ\\
 \end{twochants}
 
 \begin{english}
@@ -1646,8 +1647,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Akataṁ dukkaṭaṁ seyyo & Pacchā tappati dukkaṭaṁ\\
-  Katañ-ca sukataṁ seyyo & Yaṁ katvā nānutappati\\
+  Akataṁ dukkaṭaṁ seyyo – Pacchā tappati dukkaṭaṁ\\
+  Katañ-ca sukataṁ seyyo – Yaṁ katvā nānutappati\\
 \end{twochants}
 
 \begin{english}
@@ -1658,8 +1659,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Kuso yathā duggahito & Hattham-evānukantati\\
-  Sāmaññaṁ dupparāmaṭṭhaṁ & Nirayāy’ūpakaḍḍhati\\
+  Kuso yathā duggahito – Hattham-evānukantati\\
+  Sāmaññaṁ dupparāmaṭṭhaṁ – Nirayāy’ūpakaḍḍhati\\
 \end{twochants}
 
 \begin{english}
@@ -1670,8 +1671,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Yaṁ-kiñci sithilaṁ kammaṁ & Saṅkiliṭṭhañ-ca yaṁ vataṁ\\
-  Saṅkassaraṁ brahma-cariyaṁ & Na taṁ hoti mahapphalan’ti\\
+  Yaṁ-kiñci sithilaṁ kammaṁ – Saṅkiliṭṭhañ-ca yaṁ vataṁ\\
+  Saṅkassaraṁ brahma-cariyaṁ – Na taṁ hoti mahapphalan’ti\\
 \end{twochants}
 
 \begin{english}
@@ -1710,8 +1711,8 @@ Etaṁ buddhāna sāsanaṁ
 \suttaRef{SN 22.43}
 
 \begin{twochants}
-  Appassutāyaṁ puriso & Balibaddova jīrati\\
-  Maṁsāni tassa vaḍḍhanti & Paññā tassa na vaḍḍhati\\
+  Appassutāyaṁ puriso – Balibaddova jīrati\\
+  Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati\\
 \end{twochants}
 
 \begin{english}
@@ -1724,8 +1725,8 @@ Etaṁ buddhāna sāsanaṁ
 \suttaRef{Dhp 152}
 
 \begin{twochants}
-  Uyyuñjanti satīmanto & Na nikete ramanti te\\
-  Haṁsāva pallalaṁ hitvā & Okamokaṁ jahanti te\\
+  Uyyuñjanti satīmanto – Na nikete ramanti te\\
+  Haṁsāva pallalaṁ hitvā – Okamokaṁ jahanti te\\
 \end{twochants}
 
 \begin{english}
@@ -1738,8 +1739,8 @@ Etaṁ buddhāna sāsanaṁ
 \suttaRef{Dhp 91}
 
 \begin{twochants}
-  Yaṁ pubbe taṁ visosehi & Pacchā te māhu kiñcanaṁ\\
-  Majjhe ce no gahessasi & Upasanto carissasi\\
+  Yaṁ pubbe taṁ visosehi – Pacchā te māhu kiñcanaṁ\\
+  Majjhe ce no gahessasi – Upasanto carissasi\\
 \end{twochants}
 
 \begin{english}
@@ -1752,8 +1753,8 @@ Etaṁ buddhāna sāsanaṁ
 \suttaRef{Snp 949}
 
 \begin{twochants}
-  Uṭṭhahatha nisīdatha & Ko attho supitena vo\\
-  Āturānañhi kā niddā & Sallaviddhāna ruppataṁ\\
+  Uṭṭhahatha nisīdatha – Ko attho supitena vo\\
+  Āturānañhi kā niddā – Sallaviddhāna ruppataṁ\\
 \end{twochants}
 
 \begin{english}
@@ -1764,8 +1765,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Uṭṭhahatha nisīdatha & Daḷhaṁ sikkhatha santiyā\\
-  Mā vo pamatte viññāya & Maccurājā amohayittha vasānuge\\
+  Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā\\
+  Mā vo pamatte viññāya – Maccurājā amohayittha vasānuge\\
 \end{twochants}
 
 \begin{english}
@@ -1776,9 +1777,9 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Yāya devā manussā ca & Sitā tiṭṭhanti atthikā\\
-  Tarathetaṁ visattikaṁ & Khaṇo vo mā upaccagā\\
-  Khaṇātītā hi socanti & Nirayamhi samappitā\\
+  Yāya devā manussā ca – Sitā tiṭṭhanti atthikā\\
+  Tarathetaṁ visattikaṁ – Khaṇo vo mā upaccagā\\
+  Khaṇātītā hi socanti – Nirayamhi samappitā\\
 \end{twochants}
 
 \begin{english}
@@ -1791,8 +1792,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Pamādo rajo pamādo & Pamādānupatito rajo\\
-  Appamādena vijjāya & Abbahe sallamattanoti\\
+  Pamādo rajo pamādo – Pamādānupatito rajo\\
+  Appamādena vijjāya – Abbahe sallamattanoti\\
 \end{twochants}
 
 \begin{english}
@@ -1805,8 +1806,8 @@ Etaṁ buddhāna sāsanaṁ
 \suttaRef{Snp 333-336}
 
 \begin{twochants}
-  Piyato jāyatī soko & Piyato jāyatī bhayaṁ\\
-  Piyato vippamuttassa & Natthi soko kuto bhayaṁ\\
+  Piyato jāyatī soko – Piyato jāyatī bhayaṁ\\
+  Piyato vippamuttassa – Natthi soko kuto bhayaṁ\\
 \end{twochants}
 
 \begin{english}
@@ -1928,8 +1929,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{leader}
 
 \begin{twochants}
-  Atītaṁ nānvāgameyya & Nappaṭikaṅkhe anāgataṁ\\
-  Yad atītam-pahīnan-taṁ & Appattañ-ca anāgataṁ\\
+  Atītaṁ nānvāgameyya – Nappaṭikaṅkhe anāgataṁ\\
+  Yad atītam-pahīnan-taṁ – Appattañ-ca anāgataṁ\\
 \end{twochants}
 
 \begin{english}
@@ -1940,8 +1941,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Paccuppannañ-ca yo dhammaṁ & Tattha tattha vipassati\\
-  Asaṁhiraṁ asaṅkuppaṁ & Taṁ viddhām-anubrūhaye\\
+  Paccuppannañ-ca yo dhammaṁ – Tattha tattha vipassati\\
+  Asaṁhiraṁ asaṅkuppaṁ – Taṁ viddhām-anubrūhaye\\
 \end{twochants}
 
 \begin{english}
@@ -1952,8 +1953,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Ajjeva kiccam-ātappaṁ & Ko jaññā maraṇaṁ suve\\
-  Na hi no saṅgaran-tena & Mahā-senena maccunā\\
+  Ajjeva kiccam-ātappaṁ – Ko jaññā maraṇaṁ suve\\
+  Na hi no saṅgaran-tena – Mahā-senena maccunā\\
 \end{twochants}
 
 \begin{english}
@@ -1964,8 +1965,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{twochants}
-  Evaṁ vihārim-ātāpiṁ & Aho-rattam-atanditaṁ\\
-  Taṁ ve bhadd’eka-ratto’ti & Santo ācikkhate muni\\
+  Evaṁ vihārim-ātāpiṁ – Aho-rattam-atanditaṁ\\
+  Taṁ ve bhadd’eka-ratto’ti – Santo ācikkhate muni\\
 \end{twochants}
 
 \begin{english}
@@ -7397,8 +7398,8 @@ Sadā sotthī bhavantu te
 \section{Yathā vāri-vahā pūrā}
 
 \begin{twochants}
-  Yathā vāri-vahā pūrā & Paripūrenti sāgaraṁ\\
-  Evam-eva ito dinnaṁ & Petānaṁ upakappati\\
+  Yathā vāri-vahā pūrā – Paripūrenti sāgaraṁ\\
+  Evam-eva ito dinnaṁ – Petānaṁ upakappati\\
 \end{twochants}
 
 \begin{english}
@@ -7427,8 +7428,8 @@ Sadā sotthī bhavantu te
 \end{english}
 
 \begin{twochants}
-  Sabb’ītiyo vivajjantui & Sabba-rogo vinassatu\\
-  Mā te bhavatv-antarāyo & Sukhī dīgh’āyuko bhava
+  Sabb’ītiyo vivajjantui – Sabba-rogo vinassatu\\
+  Mā te bhavatv-antarāyo – Sukhī dīgh’āyuko bhava
 \end{twochants}
 
 \begin{english}
@@ -7441,8 +7442,8 @@ Sadā sotthī bhavantu te
 \suttaRef{Khp A}
 
 \begin{twochants}
-  Abhivādana-sīlissa & Niccaṁ vuḍḍhāpacāyino\\
-  Cattāro dhammā vaḍḍhanti & Āyu vaṇṇo sukhaṁ balaṁi
+  Abhivādana-sīlissa – Niccaṁ vuḍḍhāpacāyino\\
+  Cattāro dhammā vaḍḍhanti – Āyu vaṇṇo sukhaṁ balaṁi
 \end{twochants}
 
 \begin{english}
@@ -7462,12 +7463,12 @@ Sadā sotthī bhavantu te
 \section{Ratanattay'ānubhāv'ādi-gāthā}
 
 \begin{twochants}
-  Ratanattay'ānubhāvena & Ratanattaya-tejasā\\
-  Dukkha-roga-bhayā verā & Sokā sattu c'upaddavā\\
-  Anekā antarāyā pi & Vinassantu asesato\\
-  Jaya-siddhi dhanaṁ lābhaṁ & Sotthi bhāgyaṁ sukhaṁ balaṁ\\
-  Siri āyu ca vaṇṇo ca & Bhogaṁ vuḍḍhī ca yasavā\\
-  Sata-vassā ca āyu ca & Jīva-siddhī bhavantu te
+  Ratanattay'ānubhāvena – Ratanattaya-tejasā\\
+  Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā\\
+  Anekā antarāyā pi – Vinassantu asesato\\
+  Jaya-siddhi dhanaṁ lābhaṁ – Sotthi bhāgyaṁ sukhaṁ balaṁ\\
+  Siri āyu ca vaṇṇo ca – Bhogaṁ vuḍḍhī ca yasavā\\
+  Sata-vassā ca āyu ca – Jīva-siddhī bhavantu te
 \end{twochants}
 
 \begin{english}
@@ -7492,19 +7493,19 @@ Sadā sotthī bhavantu te
 \section{Bhojana-dānānumodanā}
 
 \begin{twochants}
-  [Yo yassa bhojanaṁ deti] & So tassa deti pañcapi\\
-  Āyuṁ balaṁ sukhaṁ vaṇṇaṁ & Paṭibhānañca pañcamaṁi\\
-  Āyu-do bala-do dhīro & Vaṇṇa-do paṭibhāṇa-do\\
-  Sukhassa dātā medhāvī & Sukhaṁ so adhigacchati\\
-  Āyuṁ datvā balaṁ vaṇṇaṁ & Sukhañ-ca paṭibhāna-kaṁii\\
-  Dīgh’āyu yasavā hoti & Yattha yatthūpapajjati\\
-  Abhivādanasīlissa & Niccaṁ vuḍḍhāpacāyino\\
-  Cattāro dhammā vaḍḍhanti & Āyu vaṇṇo sukhaṁ balaṁ\\
-  Padakkhiṇaṁ kāyakammaṁ & Vācākammaṁ padakkhiṇaṁ\\
-  Padakkhiṇaṁ manokammaṁ & Paṇīdhi te padakkhiṇe\\
-  Padakkhiṇāni katvāna & Labhantatthe padakkhiṇe\\
-  Te atthaladdhā sukhitā & Virūḷhā Buddhasāsane\\
-  Arogā sukhitā hotha & Saha sabbehi ñātibhī
+  [Yo yassa bhojanaṁ deti] – So tassa deti pañcapi\\
+  Āyuṁ balaṁ sukhaṁ vaṇṇaṁ – Paṭibhānañca pañcamaṁi\\
+  Āyu-do bala-do dhīro – Vaṇṇa-do paṭibhāṇa-do\\
+  Sukhassa dātā medhāvī – Sukhaṁ so adhigacchati\\
+  Āyuṁ datvā balaṁ vaṇṇaṁ – Sukhañ-ca paṭibhāna-kaṁii\\
+  Dīgh’āyu yasavā hoti – Yattha yatthūpapajjati\\
+  Abhivādanasīlissa – Niccaṁ vuḍḍhāpacāyino\\
+  Cattāro dhammā vaḍḍhanti – Āyu vaṇṇo sukhaṁ balaṁ\\
+  Padakkhiṇaṁ kāyakammaṁ – Vācākammaṁ padakkhiṇaṁ\\
+  Padakkhiṇaṁ manokammaṁ – Paṇīdhi te padakkhiṇe\\
+  Padakkhiṇāni katvāna – Labhantatthe padakkhiṇe\\
+  Te atthaladdhā sukhitā – Virūḷhā Buddhasāsane\\
+  Arogā sukhitā hotha – Saha sabbehi ñātibhī
 \end{twochants}
 
 \bigskip
@@ -7582,8 +7583,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \section{Aggappasāda-sutta-gāthā}
 
 \begin{twochants}
-  Aggato ve pasannānaṁ & Aggaṁ dhammaṁ vijānataṁ\\
-  Agge Buddhe pasannānaṁ & Dakkhiṇeyye anuttare\\
+  Aggato ve pasannānaṁ – Aggaṁ dhammaṁ vijānataṁ\\
+  Agge Buddhe pasannānaṁ – Dakkhiṇeyye anuttare\\
 \end{twochants}
 
 \begin{english}
@@ -7594,8 +7595,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \end{english}
 
 \begin{twochants}
-  Agge dhamme pasannānaṁ & Virāgūpasame sukhe\\
-  Agge saṅghe pasannānaṁ & Puññakkhette anuttare\\
+  Agge dhamme pasannānaṁ – Virāgūpasame sukhe\\
+  Agge saṅghe pasannānaṁ – Puññakkhette anuttare\\
 \end{twochants}
 
 \begin{english}
@@ -7606,8 +7607,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \end{english}
 
 \begin{twochants}
-  Aggasmiṁ dānaṁ dadataṁ & Aggaṁ puññaṁ pavaḍḍhati\\
-  Aggaṁ āyu ca vaṇṇo ca & Yaso kitti sukhaṁ balaṁ
+  Aggasmiṁ dānaṁ dadataṁ – Aggaṁ puññaṁ pavaḍḍhati\\
+  Aggaṁ āyu ca vaṇṇo ca – Yaso kitti sukhaṁ balaṁ
 \end{twochants}
 
 \begin{english}
@@ -7618,8 +7619,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \end{english}
 
 \begin{twochants}
-  Aggassa dātā medhāvī & Agga-dhamma-samāhito\\
-  Deva-bhūto manusso vā & Aggappatto pamodatī'ti
+  Aggassa dātā medhāvī – Agga-dhamma-samāhito\\
+  Deva-bhūto manusso vā – Aggappatto pamodatī'ti
 \end{twochants}
 
 \begin{english}
@@ -7639,9 +7640,9 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \section{Kāla-dāna-sutta-gāthā}
 
 \begin{twochants}
-  Kāle dadanti sapaññā & vadaññū vīta-maccharā\\
-  Kālena dinnaṁ ariyesu & uju-bhūtesu tādisu\\
-  Vippasanna-manā tassa & vipulā hoti dakkhiṇā\\
+  Kāle dadanti sapaññā – vadaññū vīta-maccharā\\
+  Kālena dinnaṁ ariyesu – uju-bhūtesu tādisu\\
+  Vippasanna-manā tassa – vipulā hoti dakkhiṇā\\
 \end{twochants}
 
 \begin{english}
@@ -7653,8 +7654,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \end{english}
 
 \begin{twochants}
-  Ye tattha anumodanti & veyyāvaccaṁ karonti vā\\
-  Na tena dakkhiṇā onā & te pi puññassa bhāgino\\
+  Ye tattha anumodanti – veyyāvaccaṁ karonti vā\\
+  Na tena dakkhiṇā onā – te pi puññassa bhāgino\\
 \end{twochants}
 
 \begin{english}
@@ -7665,8 +7666,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \end{english}
 
 \begin{twochants}
-  Tasmā dade appaṭivāna-citto & yattha dinnaṁ mahapphalaṁ\\
-  Puññāni para-lokasmiṁ & patiṭṭhā honti pāṇinan'ti
+  Tasmā dade appaṭivāna-citto – yattha dinnaṁ mahapphalaṁ\\
+  Puññāni para-lokasmiṁ – patiṭṭhā honti pāṇinan'ti
 \end{twochants}
 
 \begin{english}
@@ -7686,8 +7687,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \section{So attha-laddho}
 
 \begin{twochants}
-  So attha-laddho sukhito & Viruḷho buddha-sāsane\\
-  Arogo sukhito hohi & Saha sabbehi ñātibhi
+  So attha-laddho sukhito – Viruḷho buddha-sāsane\\
+  Arogo sukhito hohi – Saha sabbehi ñātibhi
 \end{twochants}
 
 \begin{english}
@@ -7698,8 +7699,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \end{english}
 
 \begin{twochants}
-  Sā attha-laddhā sukhitā & Viruḷhā buddha-sāsane\\
-  Arogā sukhitā hohi & Saha sabbehi ñātibhi
+  Sā attha-laddhā sukhitā – Viruḷhā buddha-sāsane\\
+  Arogā sukhitā hohi – Saha sabbehi ñātibhi
 \end{twochants}
 
 \begin{english}
@@ -7710,8 +7711,8 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 \end{english}
 
 \begin{twochants}
-  Te attha-laddhā sukhitā & Viruḷhā buddha-sāsane\\
-  Arogā sukhitā hotha & Saha sabbehi ñātibhi
+  Te attha-laddhā sukhitā – Viruḷhā buddha-sāsane\\
+  Arogā sukhitā hotha – Saha sabbehi ñātibhi
 \end{twochants}
 
 \begin{english}
@@ -7779,6 +7780,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā
 
 ** Pubba-bhāga-nama-kāra-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Pubba-bhāga-nama-kāra-pāṭho}
 Namo tassa bhagavato arahato sammā-sambuddhassa\\
 Namo tassa bhagavato arahato sammā-sambuddhassa\\
 Namo tassa bhagavato arahato sammā-sambuddhassa
@@ -7789,6 +7791,7 @@ Namo tassa bhagavato arahato sammā-sambuddhassa
 #+end_src
 ** Saraṇa-gamana-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Saraṇa-gamana-pāṭho}
 Buddhaṁ saraṇaṁ gacchāmi\\
 Dhammaṁ saraṇaṁ gacchāmi\\
 Saṅghaṁ saraṇaṁ gacchāmi
@@ -7822,10 +7825,9 @@ Tatiyam pi saṅghaṁ saraṇaṁ gacchāmi
 #+end_src
 ** Nama-kāra-siddhi-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-[Yo cakkhumā] moha-malāpakaṭṭho\\
-Sāmaṁ va buddho sugato vimutto\\
-Mārassa pāsā vinimocayanto\\
-Pāpesi khemaṁ janataṁ vineyyaṁ\\
+\subsection{Nama-kāra-siddhi-gāthā}
+[Yo cakkhumā] moha-malāpakaṭṭho – Sāmaṁ va buddho sugato vimutto\\
+Mārassa pāsā vinimocayanto – Pāpesi khemaṁ janataṁ vineyyaṁ\\
 Buddhaṁ varan-taṁ sirasā namāmi\\
 Lokassa nāthañ-ca vināyakañ-ca\\
 Tan-tejasā te jaya-siddhi hotu\\
@@ -7885,6 +7887,7 @@ Sabb’antarāyā ca vināsamentu
 #+end_src
 ** Namo-kāra-aṭṭhaka
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Namo-kāra-aṭṭhaka}
 [Namo arahato] sammā-\\
 Sambuddhassa mahesino\\
 Namo uttama-dhammassa\\
@@ -7934,6 +7937,7 @@ Vidhimhi homi tejavā
 #+end_src
 ** Maṅgala-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Maṅgala-sutta}
 [Evaṁ me sutaṁ]: Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten’upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
 \begin{english}
@@ -8087,249 +8091,250 @@ Tan-tesaṁ maṅgalam-uttaman’ti
 #+end_src
 ** Ratana-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-[Yānīdha] bhūtāni samāgatāni
-Bhummāni vā yāni va antalikkhe
-Sabb’eva bhūtā sumanā bhavantu
+\subsection{Ratana-sutta}
+[Yānīdha] bhūtāni samāgatāni\\
+Bhummāni vā yāni va antalikkhe\\
+Sabb’eva bhūtā sumanā bhavantu\\
 Atho pi sakkacca suṇantu bhāsitaṁ
 
 \begin{english}
-  Whatever beings are gathered here,
-  Whether of the earth or in the sky,
-  May all beings indeed be happy
+  Whatever beings are gathered here,\\
+  Whether of the earth or in the sky,\\
+  May all beings indeed be happy\\
   And then listen carefully to what is said.
 \end{english}
 
-Tasmā hi bhūtā nisāmetha sabbe
-Mettaṁ karotha mānusiyā pajāya
-Divā ca ratto ca haranti ye baliṁ
+Tasmā hi bhūtā nisāmetha sabbe\\
+Mettaṁ karotha mānusiyā pajāya\\
+Divā ca ratto ca haranti ye baliṁ\\
 Tasmā hi ne rakkhatha appamattā
 
 \begin{english}
-  Therefore, O beings, all of you listen;
-  Show loving-kindness to the human population,
-  Who day and night bring you offerings;
+  Therefore, O beings, all of you listen;\\
+  Show loving-kindness to the human population,\\
+  Who day and night bring you offerings;\\
   Therefore, being heedful, protect them.
 \end{english}
 
-Yaṅ kiñci vittaṁ idha vā huraṁ vā
-Saggesu vā yaṁ ratanaṁ paṇītaṁ
-Na no samaṁ atthi tathāgatena
-Idam-pi buddhe ratanaṁ paṇītaṁ
+Yaṅ kiñci vittaṁ idha vā huraṁ vā\\
+Saggesu vā yaṁ ratanaṁ paṇītaṁ\\
+Na no samaṁ atthi tathāgatena\\
+Idam-pi buddhe ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  Whatever the treasures are here or beyond,
-  Whatever the precious jewel in the heavens,
-  There is none equal to the Thus-gone.
-  In the Buddha is this sublime jewel.
+  Whatever the treasures are here or beyond,\\
+  Whatever the precious jewel in the heavens,\\
+  There is none equal to the Thus-gone.\\
+  In the Buddha is this sublime jewel.\\
   By this truth, may there be well-being.
 \end{english}
 
-Khayaṁ virāgaṁ amataṁ paṇītaṁ
-Yad-ajjhagā sakya-munī samāhito
-Na tena dhammena sam’atthi kiñci
-Idam-pi dhamme ratanaṁ paṇītaṁ
+Khayaṁ virāgaṁ amataṁ paṇītaṁ\\
+Yad-ajjhagā sakya-munī samāhito\\
+Na tena dhammena sam’atthi kiñci\\
+Idam-pi dhamme ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  Destruction, dispassion, the deathless, the sublime,
-  Which Sakyamuni, concentrated, attained:
-  There is nothing equal to that Dhamma.
-  This too is the sublime gem in the Dhamma:
+  Destruction, dispassion, the deathless, the sublime,\\
+  Which Sakyamuni, concentrated, attained:\\
+  There is nothing equal to that Dhamma.\\
+  This too is the sublime gem in the Dhamma:\\
   By this truth, may there be safety!
 \end{english}
 
-Yam buddha-seṭṭho parivaṇṇayī suciṁ
-Samādhim-ānantarikaññam-āhu
-Samādhinā tena samo na vijjati
-Idam-pi dhamme ratanaṁ paṇītaṁ
+Yam buddha-seṭṭho parivaṇṇayī suciṁ\\
+Samādhim-ānantarikaññam-āhu\\
+Samādhinā tena samo na vijjati\\
+Idam-pi dhamme ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  The purity that the supreme Buddha praised,
-  Which they call concentration without interval
-  The equal of that concentration does not exist.
-  This too is the sublime gem in the Dhamma:
+  The purity that the supreme Buddha praised,\\
+  Which they call concentration without interval\\
+  The equal of that concentration does not exist.\\
+  This too is the sublime gem in the Dhamma:\\
   By this truth, may there be safety!
 \end{english}
 
-Ye puggalā aṭṭha sataṁ pasatthā
-Cattāri etāni yugāni honti
-Te dakkhiṇeyyā sugatassa sāvakā
-Etesu dinnāni mahapphalāni
-Idam-pi saṅghe ratanaṁ paṇītaṁ
+Ye puggalā aṭṭha sataṁ pasatthā\\
+Cattāri etāni yugāni honti\\
+Te dakkhiṇeyyā sugatassa sāvakā\\
+Etesu dinnāni mahapphalāni\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  The eight persons praised by the good
-  Constitute these four pairs.
-  These, worthy of offerings, are the Fortunate One’s disciples;
-  Gifts given to them yield abundant fruit.
-  This too is the sublime gem in the Sangha:
+  The eight persons praised by the good\\
+  Constitute these four pairs.\\
+  These, worthy of offerings, are the Fortunate One’s disciples;\\
+  Gifts given to them yield abundant fruit.\\
+  This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english}
 
-Ye suppayuttā manasā daḷhena
-Nikkāmino gotama-sāsanamhi
-Te patti-pattā amataṁ vigayha
-Laddhā mudhā nibbutiṁ bhuñjamānā
-Idam-pi saṅghe ratanaṁ paṇītaṁ
+Ye suppayuttā manasā daḷhena\\
+Nikkāmino gotama-sāsanamhi\\
+Te patti-pattā amataṁ vigayha\\
+Laddhā mudhā nibbutiṁ bhuñjamānā\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  Those who strived well with a firm mind,
-  Who are desireless in Gotama’s teaching,
-  Have reached attainment, having plunged into the deathless,
-  Enjoying perfect peace obtained free of charge.
-  This too is the sublime gem in the Sangha:
+  Those who strived well with a firm mind,\\
+  Who are desireless in Gotama’s teaching,\\
+  Have reached attainment, having plunged into the deathless,\\
+  Enjoying perfect peace obtained free of charge.\\
+  This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english}
 
-Yath’inda-khīlo paṭhaviṁ sito siyā
-Catubbhi vātebhi asampakampiyo
-Tathūpamaṁ sappurisaṁ vadāmi
-Yo ariya-saccāni avecca passati
-Idam-pi saṅghe ratanaṁ paṇītaṁ
+Yath’inda-khīlo paṭhaviṁ sito siyā\\
+Catubbhi vātebhi asampakampiyo\\
+Tathūpamaṁ sappurisaṁ vadāmi\\
+Yo ariya-saccāni avecca passati\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  As a gate post, planted in the ground,
-  Would be unshakable by the four winds,
-  Similarly I speak of the good person
-  Who, having experienced them, sees the noble truths.
-  This too is the sublime gem in the Sangha:
+  As a gate post, planted in the ground,\\
+  Would be unshakable by the four winds,\\
+  Similarly I speak of the good person\\
+  Who, having experienced them, sees the noble truths.\\
+  This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english}
 
-Ye ariya-saccāni vibhāvayanti
-Gambhīra-paññena sudesitāni
-Kiñ-cāpi te honti bhusappamattā
-Na te bhavaṁ aṭṭhamam-ādiyanti
-Idam-pi saṅghe ratanaṁ paṇītaṁ
+Ye ariya-saccāni vibhāvayanti\\
+Gambhīra-paññena sudesitāni\\
+Kiñ-cāpi te honti bhusappamattā\\
+Na te bhavaṁ aṭṭhamam-ādiyanti\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  Those who have cognized the noble truths
-  Well taught by the one of deep wisdom,
-  Even if they are extremely heedless,
-  Do not take an eighth existence.
-  This too is the sublime gem in the Sangha:
+  Those who have cognized the noble truths\\
+  Well taught by the one of deep wisdom,\\
+  Even if they are extremely heedless,\\
+  Do not take an eighth existence.\\
+  This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english}
 
-Sahā v’assa dassana-sampadāya
-Tay’assu dhammā jahitā bhavanti
-Sakkāya-diṭṭhi vicikicchitañ-ca
-Sīlabbataṁ vā pi yad-atthi kiñci
-Catūh’apāyehi ca vippamutto
-Cha cābhiṭhānāni abhabbo kātuṁ
-Idam-pi saṅghe ratanaṁ paṇītaṁ
+Sahā v’assa dassana-sampadāya\\
+Tay’assu dhammā jahitā bhavanti\\
+Sakkāya-diṭṭhi vicikicchitañ-ca\\
+Sīlabbataṁ vā pi yad-atthi kiñci\\
+Catūh’apāyehi ca vippamutto\\
+Cha cābhiṭhānāni abhabbo kātuṁ\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  Together with one’s achievement of vision
-  Three things are discarded:
-  The view of the personal entity and doubt,
-  And whatever good behavior and observances there are.
-  One is also freed from the four planes of misery
-  And is incapable of doing six deeds.
-  This too is the sublime gem in the Sangha:
+  Together with one’s achievement of vision\\
+  Three things are discarded:\\
+  The view of the personal entity and doubt,\\
+  And whatever good behavior and observances there are.\\
+  One is also freed from the four planes of misery\\
+  And is incapable of doing six deeds.\\
+  This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english}
 
-Kiñ-cāpi so kammaṁ karoti pāpakaṁ
-Kāyena vācā uda cetasā vā
-Abhabbo so tassa paṭicchadāya
-Abhabbatā diṭṭha-padassa vuttā
-Idam-pi saṅghe ratanaṁ paṇītaṁ
+Kiñ-cāpi so kammaṁ karoti pāpakaṁ\\
+Kāyena vācā uda cetasā vā\\
+Abhabbo so tassa paṭicchadāya\\
+Abhabbatā diṭṭha-padassa vuttā\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  Although one does a bad deed
-  By body, speech, or mind,
-  One is incapable of concealing it;
-  Such inability is stated for one who has seen the state.
-  This too is the sublime gem in the Sangha:
+  Although one does a bad deed\\
+  By body, speech, or mind,\\
+  One is incapable of concealing it;\\
+  Such inability is stated for one who has seen the state.\\
+  This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english}
 
-Vanappagumbe yathā phussi-t-agge
-Gimhāna-māse paṭhamasmiṁ gimhe
-Tathūpamaṁ dhamma-varaṁ adesayi
-Nibbāna-gāmiṁ paramaṁ hitāya
+Vanappagumbe yathā phussi-t-agge\\
+Gimhāna-māse paṭhamasmiṁ gimhe\\
+Tathūpamaṁ dhamma-varaṁ adesayi\\
+Nibbāna-gāmiṁ paramaṁ hitāya\\
+Idam-pi buddhe ratanaṁ paṇītaṁ\\
+Etena saccena suvatthi hotu
+
+\begin{english}
+  Like a woodland thicket with flowering crests\\
+  In a summer month, in the first of the summer,\\
+  Just so he taught the excellent Dhamma,\\
+  Leading to nibbāna, for the supreme welfare.\\
+  This too is the sublime gem in the Buddha:\\
+  By this truth, may there be safety!
+\end{english}
+
+Varo varaññū vara-do var’āharo\\
+Anuttaro dhamma-varaṁ adesayi\\
 Idam-pi buddhe ratanaṁ paṇītaṁ
+
+\begin{english}
+  The excellent one, knower of the excellent,\\
+  Giver of the excellent, bringer of the excellent,\\
+  The unsurpassed one taught the excellent Dhamma.\\
+  This too is the sublime gem in the Buddha:\\
+  By this truth, may there be safety!
+\end{english}
+
+Khīṇaṁ purāṇaṁ navaṁ n’atthi sambhavaṁ\\
+Viratta-citt’āyatike bhavasmiṁ\\
+Te khīṇa-bījā aviruḷhi-chandā\\
+Nibbanti dhīrā yathā’yam padīpo\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ\\
 Etena saccena suvatthi hotu
 
 \begin{english}
-  Like a woodland thicket with flowering crests
-  In a summer month, in the first of the summer,
-  Just so he taught the excellent Dhamma,
-  Leading to nibbāna, for the supreme welfare.
-  This too is the sublime gem in the Buddha:
+  The old is destroyed, there is no new origination,\\
+  Their minds are dispassionate toward future existence.\\
+  With seeds destroyed, with no desire for growth,\\
+  Those wise ones are extinguished like this lamp.\\
+  This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english}
 
-Varo varaññū vara-do var’āharo
-Anuttaro dhamma-varaṁ adesayi
-Idam-pi buddhe ratanaṁ paṇītaṁ
-
-\begin{english}
-  The excellent one, knower of the excellent,
-  Giver of the excellent, bringer of the excellent,
-  The unsurpassed one taught the excellent Dhamma.
-  This too is the sublime gem in the Buddha:
-  By this truth, may there be safety!
-\end{english}
-
-Khīṇaṁ purāṇaṁ navaṁ n’atthi sambhavaṁ
-Viratta-citt’āyatike bhavasmiṁ
-Te khīṇa-bījā aviruḷhi-chandā
-Nibbanti dhīrā yathā’yam padīpo
-Idam-pi saṅghe ratanaṁ paṇītaṁ
-Etena saccena suvatthi hotu
-
-\begin{english}
-  The old is destroyed, there is no new origination,
-  Their minds are dispassionate toward future existence.
-  With seeds destroyed, with no desire for growth,
-  Those wise ones are extinguished like this lamp.
-  This too is the sublime gem in the Sangha:
-  By this truth, may there be safety!
-\end{english}
-
-Yānīdha bhūtāni samāgatāni
-Bhummāni vā yāni va antalikkhe
-Tathāgataṁ deva-manussa-pūjitaṁ
+Yānīdha bhūtāni samāgatāni\\
+Bhummāni vā yāni va antalikkhe\\
+Tathāgataṁ deva-manussa-pūjitaṁ\\
 Buddhaṁ namassāma suvatthi hotu
 
 \begin{english}
-  Whatever beings are gathered here,
-  Whether of the earth or in the sky,
-  We pay homage to the thus-gone Buddha,
+  Whatever beings are gathered here,\\
+  Whether of the earth or in the sky,\\
+  We pay homage to the thus-gone Buddha,\\
   Venerated by devas and humans: may there be safety!
 \end{english}
 
-Yānīdha bhūtāni samāgatāni
-Bhummāni vā yāni va antalikkhe
-Tathāgataṁ deva-manussa-pūjitaṁ
+Yānīdha bhūtāni samāgatāni\\
+Bhummāni vā yāni va antalikkhe\\
+Tathāgataṁ deva-manussa-pūjitaṁ\\
 Dhammaṁ namassāma suvatthi hotu
 
 \begin{english}
-  Whatever beings are gathered here,
-  Whether of the earth or in the sky,
-  We pay homage to the thus-gone Dhamma,
+  Whatever beings are gathered here,\\
+  Whether of the earth or in the sky,\\
+  We pay homage to the thus-gone Dhamma,\\
   Venerated by devas and humans: may there be safety!
 \end{english}
 
-Yānīdha bhūtāni samāgatāni
-Bhummāni vā yāni va antalikkhe
-Tathāgataṁ deva-manussa-pūjitaṁ
+Yānīdha bhūtāni samāgatāni\\
+Bhummāni vā yāni va antalikkhe\\
+Tathāgataṁ deva-manussa-pūjitaṁ\\
 Saṅghaṁ namassāma suvatthi hotu
 
 \begin{english}
-  Whatever beings are gathered here,
-  Whether of the earth or in the sky,
-  We pay homage to the thus-gone Sangha,
+  Whatever beings are gathered here,\\
+  Whether of the earth or in the sky,\\
+  We pay homage to the thus-gone Sangha,\\
   Venerated by devas and humans: may there be safety!
 \end{english}
 
@@ -8337,51 +8342,52 @@ Saṅghaṁ namassāma suvatthi hotu
 #+end_src
 ** Karaṇīya-metta-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-[Karaṇīya] m-attha-kusalena
-Yan-taṁ santaṁ padaṁ abhisamecca
-Sakko ujū ca suhujū ca
+\subsection{Karaṇīya-metta-sutta}
+[Karaṇīya] m-attha-kusalena\\
+Yan-taṁ santaṁ padaṁ abhisamecca\\
+Sakko ujū ca suhujū ca\\
 Suvaco c’assa mudu anatimānī
 
 \begin{english}
-  This is to be done by one skilled in the beneficial,
-  Having understood the path of peace.
-  He would be able, upright, very upright,
+  This is to be done by one skilled in the beneficial,\\
+  Having understood the path of peace.\\
+  He would be able, upright, very upright,\\
   Obedient, gentle, and not conceited.
 \end{english}
 
-Santussako ca subharo ca
-Appakicco ca sallahuka-vutti
-Sant’indriyo ca nipako ca
+Santussako ca subharo ca\\
+Appakicco ca sallahuka-vutti\\
+Sant’indriyo ca nipako ca\\
 Appagabbho kulesu ananugiddho
 
 \begin{english}
-  Content and easy to support,
-  Having little duties and a light livelihood;
-  Calm in faculties and prudent,
+  Content and easy to support,\\
+  Having little duties and a light livelihood;\\
+  Calm in faculties and prudent,\\
   Not impudent \& greedily attached to families.
 \end{english}
 
-Na ca khuddaṁ samācare kiñci
-Yena viññū pare upavadeyyuṁ
-Sukhino vā khemino hontu
+Na ca khuddaṁ samācare kiñci\\
+Yena viññū pare upavadeyyuṁ\\
+Sukhino vā khemino hontu\\
 Sabbe sattā bhavantu sukhit’attā
 
 \begin{english}
-  He would not do the slightest thing,
-  For which wise others would reproach.
-  Well and secure may [all beings] be;
+  He would not do the slightest thing,\\
+  For which wise others would reproach.\\
+  Well and secure may [all beings] be;\\
   May all beings be happy at heart.
 \end{english}
 
-Ye keci pāṇa-bhūt’atthi
-Tasā vā thāvarā vā anavasesā
-Dīghā vā ye mahantā vā
+Ye keci pāṇa-bhūt’atthi\\
+Tasā vā thāvarā vā anavasesā\\
+Dīghā vā ye mahantā vā\\
 Majjhimā rassakā aṇuka-thūlā
 
 \begin{english}
-  Whatever breathing beings are born,
-  Whether timid or firm – without remainder –
-  Whether they are long or they are great,
+  Whatever breathing beings are born,\\
+  Whether timid or firm – without remainder –\\
+  Whether they are long or they are great,\\
   Whether they are medium, short, minute or fat,
 \end{english}
 
@@ -8461,6 +8467,7 @@ Na hi jātu gabbha-seyyaṁ punar-etī’ti
 #+end_src
 ** Khandha-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Khandha-parittaṁ}
 [Virūpakkhehi me mettaṁ]
 Mettaṁ Erāpathehi me
 Chabyā-puttehi me mettaṁ
@@ -8542,6 +8549,7 @@ Namo sattannaṁ sammā-sambuddhānaṁ.
 #+end_src
 ** Buddha-Dhamma-Saṅgha-guṇā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Buddha-Dhamma-Saṅgha-guṇā}
 [Iti pi so bhagavā]
 Arahaṁ sammā-sambuddho
 Vijjā-caraṇa-sampanno
@@ -8594,7 +8602,8 @@ Anuttaraṁ puññakkhettaṁ lokassā’ti
 #+end_src
 ** Yaṅ kiñci ratanaṁ loke
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-[Yaṅ kiñci ratanaṁ loke]
+\subsection{Yaṅ kiñci ratanaṁ loke}
+[Yaṅ kiñci ratanaṁ loke]\\
 Vijjati vividhaṁ puthu
 Ratanaṁ buddha-samaṁ n’atthi
 Tasmā sotthī bhavantu te
@@ -8682,6 +8691,7 @@ Rogā vūpasamentu te
 #+end_src
 ** Bojjh’aṅga-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Bojjh’aṅga-parittaṁ}
 [Bojjh’aṅgo sati-saṅkhāto]
 Dhammānaṁ vicayo tathā
 Viriyam-pīti-passaddhi
@@ -8756,6 +8766,7 @@ Sotthi te hotu sabbadā
 #+end_src
 ** Abhaya-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Abhaya-parittaṁ}
 [Yan-dunnimittaṁ] avamaṅgalañ-ca
 Yo cāmanāpo sakuṇassa saddo
 Pāpaggaho dussupinaṁ akantaṁ
@@ -8796,6 +8807,7 @@ Saṅghānubhāvena vināsamentu
 #+end_src
 ** Devatā-uyyojana-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Devatā-uyyojana-gāthā}
 [Dukkhappattā] ca niddukkhā
 Bhayappattā ca nibbhayā
 Sokappattā ca nissokā
@@ -8848,6 +8860,7 @@ Rakkhaṁ bandhāmi sabbaso
 #+end_src
 ** Jaya-maṅgala-aṭṭha-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Jaya-maṅgala-aṭṭha-gāthā}
 [Bāhuṁ] sahassam-abhinimmita sāvudhan-taṁ
 Grīmekhalaṁ udita-ghora-sasena-māraṁ
 Dān’ādi-dhamma-vidhinā jitavāi mun’indo
@@ -8965,6 +8978,7 @@ Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 #+end_src
 ** Jaya-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Jaya-parittaṁ}
 [Mahā-kāruṇiko] nātho
 Hitāya sabba-pāṇinaṁ
 Pūretvā pāramī sabbā
@@ -9039,6 +9053,7 @@ Labhant’atthe padakkhiṇe
 #+end_src
 ** Bhavatu-sabba-maṅgalaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+\subsection{Bhavatu-sabba-maṅgalaṁ}
 [Bhavatu sabba-maṅgalaṁ]
 Rakkhantu sabba-devatā
 Sabba-buddhānubhāvena

@@ -1,4 +1,4 @@
 #+TITLE: SBS Pāli-English Recitations: Markdown
 #+AUTHOR: SBS Saṅgha
+#+format: Markdown
 # #+startup: fold
-#+property: header-args :tangle yes
