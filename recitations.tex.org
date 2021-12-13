@@ -956,7 +956,7 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
   Has come to craving's end
 \end{english}
 
-\suttaRef{Dhp 153-154}
+\suttaRef{[Dhp 153-154]}
 
 \clearpage
 #+end_src
@@ -1002,7 +1002,7 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
   Recollecting the Buddha's teaching
 \end{english}
 
-\suttaRef{SN 6.2}
+\suttaRef{[SN 6.2]}
 
 \begin{paritta}
   Na hi dhammo adhammo ca\\
@@ -1034,7 +1034,7 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
   The Dhamma-farer does not go on a bad course
 \end{english}
 
-\suttaRef{Thag 4.10}
+\suttaRef{[Thag 4.10]}
 
 \clearpage
 
@@ -1105,7 +1105,7 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
   Complete release from all suffering.
 \end{english}
 
-\suttaRef{Dhp 188-192}
+\suttaRef{[Dhp 188-192]}
 #+end_src
 
 ** The Pāṭimokkha Exhortation
@@ -1201,7 +1201,7 @@ Etaṁ buddhāna sāsanaṁ
   These are the teachings of all Buddhas
 \end{cprenglish}
 
-\suttaRef{Dhp 183-185}
+\suttaRef{[Dhp 183-185]}
 #+end_src
 ** The Three Characteristics
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
@@ -1248,7 +1248,7 @@ Etaṁ buddhāna sāsanaṁ
   This is the path to purity
 \end{english}
 
-\suttaRef{Dhp 183-185}
+\suttaRef{[Dhp 183-185]}
 
 \begin{twochants}
   Appakā te manussesu – Ye janā pāra-gāmino\\
@@ -1290,7 +1290,7 @@ Etaṁ buddhāna sāsanaṁ
   Not having anything
 \end{english}
 
-\suttaRef{Dhp 85-87.5}
+\suttaRef{[Dhp 85-87.5]}
 
 \clearpage
 #+end_src
@@ -1328,7 +1328,7 @@ Etaṁ buddhāna sāsanaṁ
   Desires stilled, one is released
 \end{english}
 
-\suttaRef{SN 22.22}
+\suttaRef{[SN 22.22]}
 
 \clearpage
 #+end_src
@@ -1486,7 +1486,7 @@ Etaṁ buddhāna sāsanaṁ
   Surely the ascetic life is better
 \end{english}
 
-\suttaRef{Thag 16.4 / MN 82}
+\suttaRef{[Thag 16.4 / MN 82]}
 
 \clearpage
 #+end_src
@@ -1608,7 +1608,7 @@ Etaṁ buddhāna sāsanaṁ
   The Deathless can still be reached
 \end{english}
 
-\suttaRef{Thag 16.10}
+\suttaRef{[Thag 16.10]}
 
 \clearpage
 #+end_src
@@ -1682,7 +1682,7 @@ Etaṁ buddhāna sāsanaṁ
   All these will never bear great fruits
 \end{english}
 
-\suttaRef{SN 2.8}
+\suttaRef{[SN 2.8]}
 
 \clearpage
 #+end_src
@@ -1708,7 +1708,7 @@ Etaṁ buddhāna sāsanaṁ
   With no other refuge
 \end{english}
 
-\suttaRef{SN 22.43}
+\suttaRef{[SN 22.43]}
 
 \begin{twochants}
   Appassutāyaṁ puriso – Balibaddova jīrati\\
@@ -1722,7 +1722,7 @@ Etaṁ buddhāna sāsanaṁ
   But his wisdom does not grow
 \end{english}
 
-\suttaRef{Dhp 152}
+\suttaRef{[Dhp 152]}
 
 \begin{twochants}
   Uyyuñjanti satīmanto – Na nikete ramanti te\\
@@ -1736,7 +1736,7 @@ Etaṁ buddhāna sāsanaṁ
   They leave home after home behind
 \end{english}
 
-\suttaRef{Dhp 91}
+\suttaRef{[Dhp 91]}
 
 \begin{twochants}
   Yaṁ pubbe taṁ visosehi – Pacchā te māhu kiñcanaṁ\\
@@ -1750,7 +1750,7 @@ Etaṁ buddhāna sāsanaṁ
   You will live at peace
 \end{english}
 
-\suttaRef{Snp 949}
+\suttaRef{[Snp 949]}
 
 \begin{twochants}
   Uṭṭhahatha nisīdatha – Ko attho supitena vo\\
@@ -1803,7 +1803,7 @@ Etaṁ buddhāna sāsanaṁ
   Draw out the dart from yourself
 \end{english}
 
-\suttaRef{Snp 333-336}
+\suttaRef{[Snp 333-336]}
 
 \begin{twochants}
   Piyato jāyatī soko – Piyato jāyatī bhayaṁ\\
@@ -1817,7 +1817,7 @@ Etaṁ buddhāna sāsanaṁ
   There is no sorrow  ̓  whence then fear?
 \end{english}
 
-\suttaRef{Dhp 212}
+\suttaRef{[Dhp 212]}
 
 \begin{twochants}
   Tiṭṭhateva nibbānaṁ
@@ -1843,7 +1843,7 @@ Etaṁ buddhāna sāsanaṁ
   A Tathāgata is one who shows the path
 \end{english}
 
-\suttaRef{MN 107}
+\suttaRef{[MN 107]}
 
 \begin{twochants}
   Tumhehi kiccam-ātappaṁ
@@ -1853,7 +1853,7 @@ Etaṁ buddhāna sāsanaṁ
   You yourselves must strive
 \end{english}
 
-\suttaRef{Dhp 276}
+\suttaRef{[Dhp 276]}
 
 \begin{twochants}
   Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ\\
@@ -1914,7 +1914,7 @@ Etaṁ buddhāna sāsanaṁ
   This is my instruction to you
 \end{english}
 
-\suttaRef{MN 19}
+\suttaRef{[MN 19]}
 
 \clearpage
 #+end_src
@@ -1976,7 +1976,7 @@ Etaṁ buddhāna sāsanaṁ
   So it was taught by the Peaceful Sage
 \end{english}
 
-\suttaRef{MN 131}
+\suttaRef{[MN 131]}
 
 \clearpage
 #+end_src
@@ -2060,7 +2060,7 @@ Know victory wherever they go\\
 And every place for them is safe\\
 These are the highest blessings
 
-\suttaRef{Snp 2.4}
+\suttaRef{[Snp 2.4]}
 
 \clearpage
 #+end_src
@@ -2117,7 +2117,7 @@ The pure-hearted one having clarity of vision\\
 Being freed from all sense-desires\\
 Is not born again into this world
 
-\suttaRef{Snp 1.8}
+\suttaRef{[Snp 1.8]}
 
 \clearpage
 #+end_src
@@ -2786,7 +2786,7 @@ N’atthidāni punabbhavo’ti
   There won’t be any further becoming
 \end{cprenglish}
 
-\suttaRef{SN 56.11}
+\suttaRef{[SN 56.11]}
 
 \clearpage
 
@@ -2897,7 +2897,7 @@ Ariyo aṭṭhaṅgiko maggo
   The Noble Eightfold Path
 \end{cprenglish}
 
-\suttaRef{DN 16}
+\suttaRef{[DN 16]}
 
 \clearpage
 #+end_src
@@ -2928,7 +2928,7 @@ Nīyanti takkarassa sammā dukkhakkhayāya
   Acting them out  ̓  leads to the complete destruction of suffering
 \end{cprenglish}
 
-/suttaRef{SN 46.19}
+/suttaRef{[SN 46.19]}
 
 Ye te bhikkhave bhikkhū
 
@@ -3113,7 +3113,7 @@ So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti
   At the mind thus concentrated
 \end{cprenglish}
 
-\suttaRef{SN 46.3}
+\suttaRef{[SN 46.3]}
 
 Ime kho bhikkhave satta bojjhaṅgā’ti
 
@@ -3121,7 +3121,7 @@ Ime kho bhikkhave satta bojjhaṅgā’ti
   Bhikkhus these are the Seven Factors of Awakening
 \end{cprenglish}
 
-\suttaRef{SN 46.22}
+\suttaRef{[SN 46.22]}
 
 \clearpage
 #+end_src
@@ -3638,7 +3638,7 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
   This is the Noble Eightfold Path
 \end{cprenglish}
 
-\suttaRef{SN 45.8}
+\suttaRef{[SN 45.8]}
 
 \clearpage
 #+end_src
@@ -3979,7 +3979,7 @@ Mahapphalā hoti mahānisaṁsā'ti
   So that it is of great fruit and great benefit.
 \end{english}
 
-\suttaRef{MN 118}
+\suttaRef{[MN 118]}
 
 \clearpage
 #+end_src
@@ -4602,7 +4602,7 @@ Eso dhammo eso vinayo etaṁ satthusāsanan’ti
   This is the Teacher’s teaching’
 \end{cprenglish}
 
-\suttaRef{AN 8.53}
+\suttaRef{[AN 8.53]}
 
 \clearpage
 #+end_src
@@ -4858,7 +4858,7 @@ Ime kho bhikkhave cattāro mahāpadesā’ti
   Bhikkhus these are the four great references
 \end{cprenglish}
 
-\suttaRef{AN 4.180}
+\suttaRef{[AN 4.180]}
 
 \clearpage
 #+end_src
@@ -5045,7 +5045,7 @@ Sāmaggiyā ekībhāvāya saṁvattanti
   To concord and unity
 \end{cprenglish}
 
-\suttaRef{MN 48}
+\suttaRef{[MN 48]}
 
 Ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha
 
@@ -5083,7 +5083,7 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā’ti
   That will lead to your welfare and happiness for a long time
 \end{cprenglish}
 
-\suttaRef{MN 104}
+\suttaRef{[MN 104]}
 
 \clearpage
 #+end_src
@@ -5306,7 +5306,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
   Only growth is to be expected for the bhikkhus  ̓  not decline
 \end{cprenglish}
 
-\suttaRef{AN 7.23}
+\suttaRef{[AN 7.23]}
 
 Yāvakīvañca bhikkhave bhikkhū
 
@@ -5369,7 +5369,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
   Only growth is to be expected for the bhikkhus  ̓  not decline
 \end{cprenglish}
 
-\suttaRef{AN 7.23-27}
+\suttaRef{[AN 7.23-27]}
 
 Ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattanti
 
@@ -5407,7 +5407,7 @@ Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti
   Bhikkhus these qualities lead to the non-decline of a bhikkhu who is a trainee.
 \end{cprenglish}
 
-\suttaRef{AN 6.22 \& 8.79}
+\suttaRef{[AN 6.22 \& 8.79]}
 #+end_src
 ** Striving According to the Dhamma
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -5640,7 +5640,7 @@ Alam-eva appamādena sampādetun'ti
   It is enough to strive for the goal without negligence
 \end{cprenglish}
 
-\suttaRef{SN 12.22}
+\suttaRef{[SN 12.22]}
 
 \clearpage
 #+end_src
@@ -5704,7 +5704,7 @@ Ayaṁ tathāgatassa pacchimā vācā
   These are the Tathāgata’s final words
 \end{cprenglish}
 
-\suttaRef{DN 16}
+\suttaRef{[DN 16]}
 
 \clearpage
 #+end_src
@@ -5776,7 +5776,7 @@ Abyāpajjha-paramatāyā’ti
   For the maximum freedom from disease
 \end{english}
 
-\suttaRef{MN 2}
+\suttaRef{[MN 2]}
 
 \clearpage
 #+end_src
@@ -5816,7 +5816,7 @@ Upekkhā vā pāṭikulyatā vā saṇṭhāti
   Either equanimity or disgust become settled in him
 \end{english}
 
-\suttaRef{AN 7.49}
+\suttaRef{[AN 7.49]}
 
 Sabbo panāyaṁ piṇḍa-pāto ajigucchanīyo
 
@@ -5836,7 +5836,7 @@ Ativiya jigucchanīyo jāyati
   It becomes disgusting indeed
 \end{english}
 
-\suttaRef{Trad}
+\suttaRef{[Trad]}
 
 \clearpage
 #+end_src
@@ -5897,7 +5897,7 @@ Tassa dāyādā bhavissanti
   Of such acts  ̓  they will be the heirs\\
 \end{english}
 
-\suttaRef{AN 3.65 \& 5.57}
+\suttaRef{[AN 3.65 \& 5.57]}
 
 \clearpage
 #+end_src
@@ -5947,7 +5947,7 @@ So above and below around and everywhere and to all as to myself\\
 I will abide pervading the all-encompassing world with a heart imbued with equanimity\\
 Abundant exalted immeasurable without hostility and without ill-will
 
-\suttaRef{DN 13}
+\suttaRef{[DN 13]}
 
 \clearpage
 #+end_src
@@ -6010,7 +6010,7 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
   Thus we should frequently recollect
 \end{english}
 
-\suttaRef{AN 5.57}
+\suttaRef{[AN 5.57]}
 
 \clearpage
 #+end_src
@@ -6133,7 +6133,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
   Bhikkhus these are the ten dhammas  ̓  which should be reflected upon again and again by one who has gone forth
 \end{english}
 
-\suttaRef{AN 10.48}
+\suttaRef{[AN 10.48]}
 
 \clearpage
 #+end_src
@@ -6211,7 +6211,7 @@ Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro 
   This then which is my body from the soles of the feet up and down from the crown of the head is a sealed bag of skin filled with unattractive things
 \end{english}
 
-\suttaRef{DN 22}
+\suttaRef{[DN 22]}
 
 \clearpage
 
@@ -6271,7 +6271,7 @@ abyāpajjha-paramatāyā'ti
   Whatever medicinal requisite for supporting the sick I used today without
   consideration was only to ward off painful feelings that have arisen for the
   maximum freedom from disease\\
-  \suttaRef{MI10}
+  \suttaRef{[MI10]}
 \end{english}
 
 \section[Reflection on the Off-Putting Qualities]{Reflection on the Off-Putting Qualities of the Requisites}
@@ -6387,7 +6387,7 @@ Sabbe sattā laddha-sampattito mā vigacchantu
 Sabbe sattā kammassakā kammadāyādā kammayonī kammabandhū kammapaṭisaraṇā
 yaṁ kammaṁ karissanti kalyāṇaṁ vā pāpakaṁ vā tassa dāyādā bhavissanti
 
-\suttaRef{MI288 AV88}
+\suttaRef{[MI288 AV88]}
 
 \section[The Unconditioned]{Reflection on the Unconditioned}
 
@@ -6424,7 +6424,7 @@ Yasmā ca kho bhikkhave atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
 Tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyati
 
 \begin{english}
-  Therefore is freedom possible from the world of the born the originated the created and the formed \suttaRef{Ud83}
+  Therefore is freedom possible from the world of the born the originated the created and the formed \suttaRef{[Ud83]}
 \end{english}
 
 \section{Reflection on the Thirty-Two Parts}
@@ -6499,7 +6499,7 @@ tacapariyanto pūro nānappakārassa asucino
   This then which is my body from the soles of the feet up and down from the crown of the head is a sealed bag of skin filled with unattractive things
 \end{english}
 
-\suttaRef{DN 22}
+\suttaRef{[DN 22]}
 
 \clearpage
 
@@ -6528,7 +6528,7 @@ Sabbe dhammā anattā
   All things are not-self
 \end{english}
 
-\suttaRef{Dhp 277-279}
+\suttaRef{[Dhp 277-279]}
 
 Addhuvaṁ jīvitaṁ
 
@@ -6566,7 +6566,7 @@ Maraṇaṁ me niyataṁ
   My death is certain
 \end{english}
 
-\suttaRef{Dhp A}
+\suttaRef{[Dhp A]}
 
 Vata
 
@@ -6622,7 +6622,7 @@ Niratthaṁ
   Useless
 \end{english}
 
-\suttaRef{Dhp 41}
+\suttaRef{[Dhp 41]}
 
 Aniccā vata saṅkhārā
 
@@ -6648,7 +6648,7 @@ Tesaṁ vūpasamo sukho
   Their stilling is true happiness
 \end{english}
 
-\suttaRef{???}
+\suttaRef{[???]}
 
 \clearpage
 #+end_src
@@ -6759,7 +6759,7 @@ Atha kho bhagavā udānaṁ udānesi:
 
 “Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño”ti. Itihidaṁ āyasmato koṇḍaññassa aññākoṇḍañño tveva nāmaṁ ahosī’ti.
 
-\suttaRef{SN 56.11}
+\suttaRef{[SN 56.11]}
 
 #+end_src
 ** The Discourse on Setting in Motion the Wheel of Dhamma
@@ -6854,7 +6854,7 @@ Then the Blessed One uttered this inspired utterance:
 
 In this way the Venerable Koṇḍañña acquired the name “Aññā Koṇḍañña—Koṇḍañña Who Has Understood.”
 
-\suttaRef{SN 56.11}
+\suttaRef{[SN 56.11]}
 #+end_src
 ** Anatta-lakkhaṇa Sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/suttas/anattalakkhana.tex
@@ -6955,7 +6955,7 @@ Yaṅkiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā b
 
 Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū’ti.
 
-\suttaRef{SN 22.59}
+\suttaRef{[SN 22.59]}
 #+end_src
 ** The Discourse on the Characteristic of Not-Self
 #+begin_src latex :tangle ./manuscript/tex/recitations/suttas/anattalakkhana-eng.tex
@@ -7047,7 +7047,7 @@ When he is disenchanted passion fades away. With the fading of passion he is lib
 
 That is what the Blessed One said. The bhikkhus of the group of five were glad and they approved of his words. Now during this utterance  ̓  the hearts of the bhikkhus of the group of five  ̓  were liberated from the taints through the cessation of clinging.
 
-\suttaRef{SN 22.59}
+\suttaRef{[SN 22.59]}
 
 #+end_src
 ** Āditta-Pariyāya Sutta
@@ -7119,7 +7119,7 @@ Nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ ‘Vimuttam’ 
 
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū’ti.
 
-\suttaRef{SN 35.28}
+\suttaRef{[SN 35.28]}
 #+end_src
 ** The Fire Sermon
 #+begin_src latex :tangle ./manuscript/tex/recitations/suttas/adittapariyaya-eng.tex
@@ -7195,7 +7195,7 @@ When he is disenchanted passion fades away. With the fading of passion he is lib
 
 That is what the Blessed One said. The bhikkhus were glad and they approved of his words. Now during this utterance  ̓  the hearts of those thousand bhikkhus  ̓  were liberated from the taints through the cessation of clinging.
 
-\suttaRef{SN 35.28}
+\suttaRef{[SN 35.28]}
 #+end_src
 * Anumodanā
 ** Cover/Title
@@ -7263,7 +7263,7 @@ Maṇi jotiraso yathā
 
 \begin{cprenglish}
   Or like a bright and shining gem\\
-  \suttaRef{DhpA.I.198}
+  \suttaRef{[DhpA.I.198]}
 \end{cprenglish}
 
 Sabb'ītiyo vivajjantu
@@ -7386,7 +7386,7 @@ Sadā sotthī bhavantu te
   May you always be at ease\\
 \end{cprenglish}
 
-\suttaRef{Khp 1.7 / Dhp 109 / Trad}
+\suttaRef{[Khp 1.7 / Dhp 109 / Trad]}
 
 \clearpage
 
@@ -7409,7 +7409,7 @@ Sadā sotthī bhavantu te
   Benefits the departed onesi
 \end{english}
 
-\suttaRef{Khp 1.7}
+\suttaRef{[Khp 1.7]}
 
 \begin{twochants}
   Icchitaṁ patthitaṁ tumhaṁ\\
@@ -7439,7 +7439,7 @@ Sadā sotthī bhavantu te
   May you be happy and live long
 \end{english}
 
-\suttaRef{Khp A}
+\suttaRef{[Khp A]}
 
 \begin{twochants}
   Abhivādana-sīlissa – Niccaṁ vuḍḍhāpacāyino\\
@@ -7453,7 +7453,7 @@ Sadā sotthī bhavantu te
   Long-life beauty  ̓  happiness and strength
 \end{english}
 
-\suttaRef{Dhp 109}
+\suttaRef{[Dhp 109]}
 
 
 #+end_src
@@ -7483,7 +7483,7 @@ Sadā sotthī bhavantu te
   May they be yours.
 \end{english}
 
-\suttaRef{Thai}
+\suttaRef{[Thai]}
 
 
 #+end_src
@@ -7493,19 +7493,32 @@ Sadā sotthī bhavantu te
 \section{Bhojana-dānānumodanā}
 
 \begin{twochants}
-  [Yo yassa bhojanaṁ deti] – So tassa deti pañcapi\\
-  Āyuṁ balaṁ sukhaṁ vaṇṇaṁ – Paṭibhānañca pañcamaṁi\\
-  Āyu-do bala-do dhīro – Vaṇṇa-do paṭibhāṇa-do\\
-  Sukhassa dātā medhāvī – Sukhaṁ so adhigacchati\\
-  Āyuṁ datvā balaṁ vaṇṇaṁ – Sukhañ-ca paṭibhāna-kaṁii\\
-  Dīgh’āyu yasavā hoti – Yattha yatthūpapajjati\\
-  Abhivādanasīlissa – Niccaṁ vuḍḍhāpacāyino\\
-  Cattāro dhammā vaḍḍhanti – Āyu vaṇṇo sukhaṁ balaṁ\\
-  Padakkhiṇaṁ kāyakammaṁ – Vācākammaṁ padakkhiṇaṁ\\
-  Padakkhiṇaṁ manokammaṁ – Paṇīdhi te padakkhiṇe\\
-  Padakkhiṇāni katvāna – Labhantatthe padakkhiṇe\\
-  Te atthaladdhā sukhitā – Virūḷhā Buddhasāsane\\
-  Arogā sukhitā hotha – Saha sabbehi ñātibhī
+  [Yo yassa bhojanaṁ deti]\\
+  So tassa deti pañcapi\\
+  Āyuṁ balaṁ sukhaṁ vaṇṇaṁ\\
+  Paṭibhānañca pañcamaṁi\\
+  Āyu-do bala-do dhīro\\
+  Vaṇṇa-do paṭibhāṇa-do\\
+  Sukhassa dātā medhāvī\\
+  Sukhaṁ so adhigacchati\\
+  Āyuṁ datvā balaṁ vaṇṇaṁ\\
+  Sukhañ-ca paṭibhāna-kaṁii\\
+  Dīgh’āyu yasavā hoti\\
+  Yattha yatthūpapajjati\\
+  Abhivādanasīlissa\\
+  Niccaṁ vuḍḍhāpacāyino\\
+  Cattāro dhammā vaḍḍhanti\\
+  Āyu vaṇṇo sukhaṁ balaṁ\\
+  Padakkhiṇaṁ kāyakammaṁ\\
+  Vācākammaṁ padakkhiṇaṁ\\
+  Padakkhiṇaṁ manokammaṁ\\
+  Paṇīdhi te padakkhiṇe\\
+  Padakkhiṇāni katvāna\\
+  Labhantatthe padakkhiṇe\\
+  Te atthaladdhā sukhitā\\
+  Virūḷhā Buddhasāsane\\
+  Arogā sukhitā hotha\\
+  Saha sabbehi ñātibhī
 \end{twochants}
 
 \bigskip
@@ -7540,7 +7553,7 @@ Sadā sotthī bhavantu te
   Together with all your relatives
 \end{english}
 
-\suttaRef{AN 5.37 / Dhp 109 / AN 3.155}
+\suttaRef{[AN 5.37 / Dhp 109 / AN 3.155]}
 
 
 #+end_src
@@ -7573,7 +7586,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
   Through the power of all the Buddhas, the power of all the Dhamma, the power of all the Saṅgha, the gem of the Buddha, the gem of the Dhamma, the gem of the Saṅgha, the power of the Triple Gem: the power of the 84,000 Dhamma aggregates, the power of the Tripitaka, the power of the Victor’s disciples: May all your diseases, all your fears, all your obstacles, all your dangers, all your bad visions, all your bad omens be destroyed. May there always be an increase of long life, wealth, glory, status, strength, beauty and happiness.
 \end{english}
 
-\suttaRef{MJG}
+\suttaRef{[MJG]}
 
 
 #+end_src
@@ -7630,7 +7643,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
   Rejoices, having attained the supreme.
 \end{english}
 
-\suttaRef{AN 5.32}
+\suttaRef{[AN 5.32]}
 
 
 #+end_src
@@ -7677,7 +7690,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
   Living beings in the next life.
 \end{english}
 
-\suttaRef{AN 5.36}
+\suttaRef{[AN 5.36]}
 
 
 #+end_src
@@ -7722,7 +7735,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
   May they be together with all their relatives.
 \end{english}
 
-\suttaRef{AN 3.155}
+\suttaRef{[AN 3.155]}
 #+end_src
 
 * Paritta
@@ -9699,7 +9712,7 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
   May darkness and delusion be dispelled
 \end{cprenglish}
 
-\suttaRef{Trad}
+\suttaRef{[Trad]}
 
 \clearpage
 
@@ -9766,7 +9779,7 @@ Khemappadañ-ca pappontu tesāsā sijjhataṁ subhā
   And may they all reach safety
 \end{cprenglish}
 
-\suttaRef{Thai}
+\suttaRef{[Thai]}
 
 \clearpage
 
@@ -9787,7 +9800,7 @@ Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
   May this be for your relatives  ̓  well and happy may the relatives be
 \end{cprenglish}
 
-\suttaRef{Thai}
+\suttaRef{[Thai]}
 
 \clearpage
 
@@ -9834,7 +9847,7 @@ Sabba-sampatti-siddhiyā
   For the attainment of all fortunes.
 \end{cprenglish}
 
-\suttaRef{Sri Lanka}
+\suttaRef{[Sri Lanka]}
 
 \clearpage
 
@@ -9891,7 +9904,7 @@ Yāva nibbānapattiyā
   Until the attainment of nibbāna
 \end{cprenglish}
 
-\suttaRef{Sri Lanka}
+\suttaRef{[Sri Lanka]}
 
 Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā
 
@@ -9929,7 +9942,7 @@ Paramāya pūjāya
   With the highest honour
 \end{cprenglish}
 
-\suttaRef{DN 16}
+\suttaRef{[DN 16]}
 
 Tasmā
 
@@ -9964,7 +9977,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
   May my merit be a condition for the attainment of Nibbāna
 \end{cprenglish}
 
-\suttaRef{Sri Lanka}
+\suttaRef{[Sri Lanka]}
 
 \clearpage
 
