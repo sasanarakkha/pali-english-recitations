@@ -1,13 +1,13 @@
 \documentclass[
-  final,
-  babelLanguage=british,
-  desktopVersion,
-  %showtrims,
-  %overleaf,
+final,
+babelLanguage=british,
+desktopVersion,
+% showtrims,
+% overleaf,
 ]{anecdote}
 
 \graphicspath{{./assets/photos/300dpi/}}
-%\graphicspath{{./assets/photos/300dpi/}}
+% \graphicspath{{./assets/photos/300dpi/}}
 
 % Page size: 210mm x 148mm (A5)
 %
@@ -59,6 +59,7 @@
 \input{./manuscript/tex/titlepage.tex}
 \input{./manuscript/tex/copyright.tex}
 \input{./manuscript/tex/dedication.tex}
+% \input{./manuscript/tex/purpose-and-benefits.tex}
 % \input{./manuscript/tex/abbreviations.tex}
 
 \cleartorecto
@@ -75,15 +76,15 @@
 \part{Pāli-English Recitations}
 
 {\raggedright
-\input{./manuscript/tex/recitations/homage.tex}
-\input{./manuscript/tex/recitations/verses.tex}
-\input{./manuscript/tex/recitations/teachings.tex}
-\input{./manuscript/tex/recitations/reflections.tex}
-\input{./manuscript/tex/recitations/suttas.tex}
-\input{./manuscript/tex/recitations/anumodana.tex}
-\input{./manuscript/tex/recitations/paritta.tex}
-\input{./manuscript/tex/recitations/funeral.tex}
-\input{./manuscript/tex/recitations/sharing-of-merits.tex}
+  \input{./manuscript/tex/recitations/homage.tex}
+  \input{./manuscript/tex/recitations/verses.tex}
+  \input{./manuscript/tex/recitations/teachings.tex}
+  \input{./manuscript/tex/recitations/reflections.tex}
+  \input{./manuscript/tex/recitations/cardinal-suttas.tex}
+  \input{./manuscript/tex/recitations/anumodana.tex}
+  \input{./manuscript/tex/recitations/paritta.tex}
+  \input{./manuscript/tex/recitations/funeral.tex}
+  \input{./manuscript/tex/recitations/sharing-of-merits.tex}
 }
 
 \appendix
@@ -94,9 +95,7 @@
 \part{Appendix}
 
 {\raggedright
-
-% \input{./manuscript/tex/pali-phonetics-and-pronunciation.tex}
-
+  \input{./manuscript/tex/pali-phonetics-and-pronunciation.tex}
 }
 
 \backmatter

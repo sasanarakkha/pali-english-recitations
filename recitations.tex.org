@@ -5532,7 +5532,7 @@ Aggena ca kho bhikkhave aggassa patti hoti
 Maṇḍapeyyam-idaṁ bhikkhave brahmacariyaṁ
 
 \begin{cprenglish}
-  Bhikkhus this holy life is like the cream of the milk
+  Bhikkhus this holy life is like a milkshake
 \end{cprenglish}
 
 Satthā sammukhī-bhūto
@@ -6220,289 +6220,6 @@ Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro 
 ** Recollection of Impermanence
 
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{Recollection After Using the Requisites}
-
-\begin{leader}
-  [Handa mayaṁ atīta-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{leader}
-
-\firstline{Ajja mayā apaccavekkhitvā yaṁ cīvaraṁ}
-
-Ajja mayā apaccavekkhitvā yaṁ cīvaraṁ paribhuttaṁ taṁ yāvadeva sītassa
-paṭighātāya uṇhassa paṭighātāya ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ
-paṭighātāya yāvadeva hirikopina paṭicchādan'atthaṁ
-
-\begin{english}
-  Whatever robe I used today without consideration was only to ward off cold
-  to ward off heat to ward off the touch of flies mosquitoes wind burning
-  and creeping things only for the sake of modesty
-\end{english}
-
-Ajja mayā apaccavekkhitvā yo piṇḍapāto paribhutto so n'eva davāya na madāya
-na maṇḍanāya na vibhūsanāya yāvad-eva imassa kāyassa ṭhitiyā yāpanāya
-vihiṁsūparatiyā brahmacariyānuggahāya iti purāṇañca vedanaṁ paṭihaṅkhāmi
-navañca vedanaṁ na uppādessāmi yātrā ca me bhavissati anavajjatā ca phāsuvihāro
-cā'ti
-
-\begin{english}
-  Whatever alms-food I used today without consideration was not for fun not
-  for pleasure not for fattening not for beautification only for the
-  maintenance and nourishment of this body for keeping it healthy for helping
-  with the Holy Life thinking thus `I will allay hunger without overeating so
-  that I may continue to live blamelessly and at ease'
-\end{english}
-
-Ajja mayā apaccavekkhitvā yaṁ senāsanaṁ paribhuttaṁ taṁ yāvadeva sītassa
-paṭighātāya uṇhassa paṭighātāya ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ
-paṭighātāya yāvadeva utuparissaya vinodanaṁ paṭisallānārāmatthaṁ
-
-\begin{english}
-  Whatever lodging I used today without consideration was only to ward off
-  cold to ward off heat to ward off the touch of flies mosquitoes wind
-  burning and creeping things only to remove the danger from weather and for
-  living in seclusion
-\end{english}
-
-Ajja mayā apaccavekkhitvā yo gilāna-paccayabhesajja-\\ parikkhāro paribhutto so
-yāvadeva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya
-abyāpajjha-paramatāyā'ti
-
-\begin{english}
-  Whatever medicinal requisite for supporting the sick I used today without
-  consideration was only to ward off painful feelings that have arisen for the
-  maximum freedom from disease\\
-  \suttaRef{[MI10]}
-\end{english}
-
-\section[Reflection on the Off-Putting Qualities]{Reflection on the Off-Putting Qualities of the Requisites}
-
-% Pali title Dhātu-paṭikūla-paccavekkhaṇa-pāṭho
-
-% This seems to be a modern compilation somewhat based on the MN 28 sub-commentary
-
-\begin{leader}
-  [Handa mayaṁ dhātu-paṭikūla-\\ paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{leader}
-
-\firstline{Yathā paccayaṁ pavattamānaṁ dhātu-mattam}
-
-[Yathā paccayaṁ] pavattamānaṁ dhātu-mattam-ev'etaṁ
-
-\packedtrline{Composed of only elements according to causes and conditions}
-
-Yad idaṁ cīvaraṁ tad upabhuñjako ca puggalo
-
-\packedtrline{Are these robes and so is the person wearing them}
-
-Dhātu-mattako nissatto nijjīvo suñño
-
-\packedtrline{Merely elements not a being without a soul\\ and empty of self}
-
-Sabbāni pana imāni cīvarāni ajigucchanīyāni
-
-\packedtrline{None of these robes are innately repulsive}
-
-Imaṁ pūti-kāyaṁ patvā ativiya jigucchanīyāni jāyanti
-
-\packedtrline{But touching this unclean body they become disgusting~indeed}
-
-Yathā paccayaṁ pavattamānaṁ dhātu-mattam-ev'etaṁ
-
-\packedtrline{Composed of only elements according to causes and conditions}
-
-Yad idaṁ piṇḍapāto tad upabhuñjako ca puggalo
-
-\packedtrline{Is this almsfood and so is the person eating it}
-
-Dhātu-mattako nissatto nijjīvo suñño
-
-\packedtrline{Merely elements not a being without a soul\\ and empty of self}
-
-Sabbo panāyaṁ piṇḍapāto ajigucchanīyo
-
-\packedtrline{None of this almsfood is innately repulsive}
-
-Imaṁ pūti-kāyaṁ patvā ativiya jigucchanīyo jāyati
-
-\packedtrline{But touching this unclean body it becomes disgusting~indeed}
-
-Yathā paccayaṁ pavattamānaṁ dhātu-mattam-ev'etaṁ
-
-\packedtrline{Composed of only elements according to causes and conditions}
-
-Yad idaṁ senāsanaṁ tad upabhuñjako ca puggalo
-
-\packedtrline{Is this dwelling and so is the person using it}
-
-Dhātu-mattako nissatto nijjīvo suñño
-
-\packedtrline{Merely elements not a being without a soul\\ and empty of self}
-
-Sabbāni pana imāni senāsanāni ajigucchanīyāni
-
-\packedtrline{None of these dwellings are innately repulsive}
-
-Imaṁ pūti-kāyaṁ patvā ativiya jigucchanīyāni jāyanti
-
-\packedtrline{But touching this unclean body they become disgusting~indeed}
-
-Yathā paccayaṁ pavattamānaṁ dhātu-mattam-ev'etaṁ
-
-\packedtrline{Composed of only elements according to causes and conditions}
-
-Yad idaṁ gilāna-paccaya-bhesajja-parikkhāro tad upabhuñjako ca puggalo
-
-\packedtrline{Is this medicinal requisite and so is the person that takes it}
-
-Dhātu-mattako nissatto nijjīvo suñño
-
-\packedtrline{Merely elements not a being without a soul\\ and empty of self}
-
-Sabbo panāyaṁ gilāna-paccaya-bhesajja-parikkhāro ajigucchanīyo
-
-\packedtrline{None of this medicinal requisite is innately repulsive}
-
-Imaṁ pūti-kāyaṁ patvā ativiya jigucchanīyo jāyati
-
-\packedtrline{But touching this unclean body it becomes disgusting~indeed}
-
-\section{Mettāpharaṇa}
-
-\begin{leader}
-  [Handa mayam mettāpharaṇaṁ karomase]
-\end{leader}
-
-\firstline{Ahaṁ sukhito homi niddukkho homi}
-
-[Ahaṁ sukhito homi] niddukkho homi avero homi abyāpajjho homi anīgho homi
-sukhī attānaṁ pariharāmi
-
-Sabbe sattā sukhitā hontu sabbe sattā averā hontu sabbe sattā abyāpajjhā
-hontu sabbe sattā anīghā hontu sabbe sattā sukhī attānaṁ pariharantu
-
-Sabbe sattā sabbadukkhā pamuccantu
-
-Sabbe sattā laddha-sampattito mā vigacchantu
-
-Sabbe sattā kammassakā kammadāyādā kammayonī kammabandhū kammapaṭisaraṇā
-yaṁ kammaṁ karissanti kalyāṇaṁ vā pāpakaṁ vā tassa dāyādā bhavissanti
-
-\suttaRef{[MI288 AV88]}
-
-\section[The Unconditioned]{Reflection on the Unconditioned}
-
-\begin{leader}
-  [Handa mayaṁ nibbāna-sutta-pāṭhaṁ bhaṇāmase]
-\end{leader}
-
-\firstline{Atthi bhikkhave ajātaṁ abhūtaṁ akataṁ}
-
-Atthi bhikkhave ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
-
-\begin{english}
-  There is an Unborn Unoriginated Uncreated and Unformed
-\end{english}
-
-No cetaṁ bhikkhave abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
-
-\begin{english}
-  If there was not this Unborn this Unoriginated this Uncreated this~Unformed
-\end{english}
-
-Na yidaṁ jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha
-
-\begin{english}
-  Freedom from the world of the born the originated the created the formed would not be possible
-\end{english}
-
-Yasmā ca kho bhikkhave atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
-
-\begin{english}
-  But since there is an Unborn Unoriginated Uncreated and Unformed
-\end{english}
-
-Tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyati
-
-\begin{english}
-  Therefore is freedom possible from the world of the born the originated the created and the formed \suttaRef{[Ud83]}
-\end{english}
-
-\section{Reflection on the Thirty-Two Parts}
-
-\begin{leader}
-  [Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase]
-\end{leader}
-
-\firstline{Ayaṁ kho me kāyo uddhaṁ pādatalā}
-
-[Ayaṁ kho] me kāyo uddhaṁ pādatalā adho kesamatthakā\\
-tacapariyanto pūro nānappakārassa asucino
-
-\begin{english}
-  This which is my body from the soles of the feet up and down from the crown of the head is a sealed bag of skin filled with unattractive things
-\end{english}
-
-Atthi imasmiṁ kāye
-
-\begin{english}
-  In this body there are
-\end{english}
-
-{\centering
-  \setArrayStretch{1}
-
-  \begin{tabular}{ r l }
-    kesā            & \tr{hair of the head} \\
-    lomā            & \tr{hair of the body} \\
-    nakhā           & \tr{nails} \\
-    dantā           & \tr{teeth} \\
-    taco            & \tr{skin} \\
-  \end{tabular}
-
-  \begin{tabular}{ r l }
-    maṁsaṁ          & \tr{flesh} \\
-    nahārū          & \tr{sinews} \\
-    aṭṭhī           & \tr{bones} \\
-    aṭṭhimiñjaṁ     & \tr{bone marrow} \\
-    vakkaṁ          & \tr{kidneys} \\
-    hadayaṁ         & \tr{heart} \\
-    yakanaṁ         & \tr{liver} \\
-    kilomakaṁ       & \tr{membranes} \\
-    pihakaṁ         & \tr{spleen} \\
-    papphāsaṁ       & \tr{lungs} \\
-    antaṁ           & \tr{bowels} \\
-    antaguṇaṁ       & \tr{entrails} \\
-    udariyaṁ        & \tr{undigested food} \\
-    karīsaṁ         & \tr{excrement} \\
-    pittaṁ          & \tr{bile} \\
-    semhaṁ          & \tr{phlegm} \\
-    pubbo           & \tr{pus} \\
-    lohitaṁ         & \tr{blood} \\
-    sedo            & \tr{sweat} \\
-    medo            & \tr{fat} \\
-    assu            & \tr{tears} \\
-    vasā            & \tr{grease} \\
-    kheḷo           & \tr{spittle} \\
-    siṅghāṇikā      & \tr{mucus} \\
-    lasikā          & \tr{oil of the joints} \\
-    muttaṁ          & \tr{urine} \\
-    matthaluṅgan'ti & \tr{brain} \\
-  \end{tabular}
-
-  \restoreArrayStretch
-}
-
-Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā\\
-tacapariyanto pūro nānappakārassa asucino
-
-\begin{english}
-  This then which is my body from the soles of the feet up and down from the crown of the head is a sealed bag of skin filled with unattractive things
-\end{english}
-
-\suttaRef{[DN 22]}
-
-\clearpage
-
 \section{Recollection of Impermanence}
 \paliTitle{Aniccānussati}
 
@@ -6648,19 +6365,19 @@ Tesaṁ vūpasamo sukho
   Their stilling is true happiness
 \end{english}
 
-\suttaRef{[???]}
+\suttaRef{[Trad]}
 
 \clearpage
 #+end_src
 * Cardinal Suttas
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/dhammacakkappavattana.tex
-\chapterOpeningPage{cardinalsuttas.pdf}
+#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
+\chapterOpeningPage{cardinal-suttas.pdf}
 
 \chapter{Cardinal Suttas}
 #+end_src
 ** Dhammacakkappavattana Sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/suttas/dhammacakkappavattana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
 \section{Dhammacakkappavattana-sutta}
 
 TODO: Shall we seperate and center this?
@@ -6763,7 +6480,7 @@ Atha kho bhagavā udānaṁ udānesi:
 
 #+end_src
 ** The Discourse on Setting in Motion the Wheel of Dhamma
-#+begin_src latex :tangle ./manuscript/tex/recitations/suttas/dhammacakkappavattana-eng.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana-eng.tex
 \section{The Discourse on Setting in Motion the Wheel of Dhamma}
 
 [Thus have I heard]
@@ -6857,7 +6574,7 @@ In this way the Venerable Koṇḍañña acquired the name “Aññā Koṇḍa�
 \suttaRef{[SN 56.11]}
 #+end_src
 ** Anatta-lakkhaṇa Sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/suttas/anattalakkhana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/anattalakkhana.tex
 \section{Anatta-lakkhaṇa-sutta}
 
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: “Bhikkhavo”ti  ̓  “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca.
@@ -6957,8 +6674,9 @@ Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhi
 
 \suttaRef{[SN 22.59]}
 #+end_src
+
 ** The Discourse on the Characteristic of Not-Self
-#+begin_src latex :tangle ./manuscript/tex/recitations/suttas/anattalakkhana-eng.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/anattalakkhana-eng.tex
 \section{The Discourse on the Characteristic of Not-Self}
 
 [Thus have I heard] on one occasion the Blessed One was dwelling at Benares  ̓  in the Deer Park at Isipatana. There he addressed the bhikkhus of the group of five: “Bhikkhus” – “Venerable Sir” they replied. The Blessed One said this:i
@@ -7051,7 +6769,7 @@ That is what the Blessed One said. The bhikkhus of the group of five were glad a
 
 #+end_src
 ** Āditta-Pariyāya Sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/suttas/adittapariyaya.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya.tex
 \section{Āditta-pariyāya-sutta}
 
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. Tatra kho bhagavā bhikkhū āmantesi:
@@ -7122,7 +6840,7 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Im
 \suttaRef{[SN 35.28]}
 #+end_src
 ** The Fire Sermon
-#+begin_src latex :tangle ./manuscript/tex/recitations/suttas/adittapariyaya-eng.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya-eng.tex
 \section{The Fire Sermon}
 
 [Thus have I heard] on one occasion the Blessed One was dwelling at Gayā  ̓  at Gayā’s Head  ̓  together with a thousand bhikkhus. There he addressed the bhikkhus:

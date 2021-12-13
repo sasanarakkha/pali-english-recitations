@@ -17,11 +17,6 @@ ebooks:
 four-times:
 	./helpers/four-times.sh
 
-tangle-code:
-	emacs --batch -L -l 'recitations.tex.org' --eval "(require 'org)" --eval '(org-babel-tangle "recitations.tex.org")'
-
-recitations.tex: tangle-code
-
 document:
 	cat $(FILE).fir | \
 		sed '/\\contentsfinish/d' | \
