@@ -29,12 +29,12 @@
   - [[#a-single-excellent-night][A Single Excellent Night]]
   - [[#the-highest-blessings][The Highest Blessings]]
   - [[#the-buddhas-words-on-loving-kindness][The Buddha’s Words on Loving-Kindness]]
-- [[#teachings][Teachings]]
+- [[#teachings][ Teachings]]
   - [[#covertitle-2][Cover/Title]]
   - [[#setting-in-motion-the-wheel-of-dhamma][Setting in Motion the Wheel of Dhamma]]
   - [[#requisites-for-awakening][Requisites for Awakening]]
   - [[#the-seven-factors-of-awakening][The Seven Factors of Awakening]]
-  - [[#the-noble-eightfold-path][The Noble Eightfold Path]]
+  - [[#the-noble-eightfold-path][The Noble E#ightfold Path]]
   - [[#mindfulness-of-breathing][Mindfulness of Breathing]]
   - [[#dependent-origination][Dependent Origination]]
   - [[#the-dhamma-in-brief][The Dhamma in Brief]]
@@ -5532,7 +5532,7 @@ Aggena ca kho bhikkhave aggassa patti hoti
 Maṇḍapeyyam-idaṁ bhikkhave brahmacariyaṁ
 
 \begin{cprenglish}
-  Bhikkhus this holy life is like the cream of the milk
+  Bhikkhus this holy life is like a milkshake
 \end{cprenglish}
 
 Satthā sammukhī-bhūto
