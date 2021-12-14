@@ -202,17 +202,17 @@
   BoldItalicFont = NunitoSans-SemiBoldItalic.ttf,
 ]{NunitoSans-Light.ttf}
 
-\newfontfamily\libertinusFont[
-  ItalicFont = LibertinusSerif-Italic.otf,
-  BoldFont = LibertinusSerif-Bold.otf,
-  BoldItalicFont = LibertinusSerif-BoldItalic.otf,
-]{LibertinusSerif-Regular.otf}
+% \newfontfamily\libertinusFont[
+%   ItalicFont = LibertinusSerif-Italic.otf,
+%   BoldFont = LibertinusSerif-Bold.otf,
+%   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
+% ]{LibertinusSerif-Regular.otf}
 
 \newfontfamily\sbsFont[
-  ItalicFont = SbsSerif-italic.ttf,
-  BoldFont = SbsSerif-bold.ttf,
-  BoldItalicFont = SbsSerif-boldItalic.ttf,
-]{SbsSerif-regular.ttf}
+  ItalicFont = SbsSerif-Italic.ttf,
+  BoldFont = SbsSerif-Bold.ttf,
+  BoldItalicFont = SbsSerif-BoldItalic.ttf,
+]{SbsSerif-Regular.ttf}
 
 
 % header and footer
@@ -232,8 +232,8 @@
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\sansFont
-\newcommand\subSectionFont\sansFont
+\newcommand\sectionFont\sbsFont
+\newcommand\subSectionFont\sbsFont
 
 \newcommand\instructionFont\sansFont
 
