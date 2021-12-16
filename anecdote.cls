@@ -167,12 +167,10 @@
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
-  SmallCapsFont = Crimson-Roman.otf,
-  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+  ItalicFont = LibertinusSerif-Italic.otf,
+  BoldFont = LibertinusSerif-Bold.otf,
+  BoldItalicFont = LibertinusSerif-BoldItalic.otf,
+]{LibertinusSerif-Regular.otf}
 
 \newfontfamily\crimsonRomanFont[
   SmallCapsFeatures= { LetterSpace = 0.2 },
@@ -202,38 +200,31 @@
   BoldItalicFont = NunitoSans-SemiBoldItalic.ttf,
 ]{NunitoSans-Light.ttf}
 
-% \newfontfamily\libertinusFont[
-%   ItalicFont = LibertinusSerif-Italic.otf,
-%   BoldFont = LibertinusSerif-Bold.otf,
-%   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
-% ]{LibertinusSerif-Regular.otf}
-
-\newfontfamily\sbsFont[
-  ItalicFont = SbsSerif-Italic.ttf,
-  BoldFont = SbsSerif-Bold.ttf,
-  BoldItalicFont = SbsSerif-BoldItalic.ttf,
-]{SbsSerif-Regular.ttf}
-
+\newfontfamily\libertinusFont[
+  ItalicFont = LibertinusSerif-Italic.otf,
+  BoldFont = LibertinusSerif-Bold.otf,
+  BoldItalicFont = LibertinusSerif-BoldItalic.otf,
+]{LibertinusSerif-Regular.otf}
 
 % header and footer
 
-\newcommand\headerFont\sbsFont
+\newcommand\headerFont\libertinusFont
 \newcommand\footerFont\headerFont
 \newcommand\pageNumFont\headerFont
 
 % chapter and section
 
-\newcommand\partNameFont\sbsFont
-\newcommand\partTitleFont\sbsFont
+\newcommand\partNameFont\libertinusFont
+\newcommand\partTitleFont\libertinusFont
 
 \newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\sbsFont
-\newcommand\chapterNumberFont\sbsFont
+\newcommand\chapterTitleFont\libertinusFont
+\newcommand\chapterNumberFont\libertinusFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\sbsFont
-\newcommand\subSectionFont\sbsFont
+\newcommand\sectionFont\libertinusFont
+\newcommand\subSectionFont\libertinusFont
 
 \newcommand\instructionFont\sansFont
 
@@ -295,7 +286,7 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
-\SetTracking[spacing={400,100,}]{encoding=*, family={SbsSerif-regular.ttf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={LibertinusSerif-Regular.otf}}{20}
 \SetTracking[spacing={600,100,}]{encoding=*, family={NunitoSans-Light.ttf}}{70}
 
 % === hyperref ===
@@ -1439,12 +1430,22 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  {%
-    \sectionFont\bfseries\fontsize{11}{17}\selectfont%
+  \centering%
+  \begin{minipage}[b][25pt][c]{0.8\linewidth}%
+    \centering%
+    \setlength{\parskip}{0pt}%
+    \rule{\linewidth}{0.4pt}%
+    \vfill%
+    %
+    \sectionFont\fontsize{11}{11}\selectfont%
     \color{section}%
-    \memRTLraggedright%
-    #1%
-  }%
+    \textbf{\textls*{\textsc{#1}}}%
+    %
+    \vfill%
+    \vspace*{-0.5\baselineskip - 0.8pt}%
+    \rule{\linewidth}{0.4pt}%
+  \end{minipage}%
+  \par%
 }
 
 \newcommand\subsectionFmt[1]{%
