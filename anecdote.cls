@@ -1439,7 +1439,12 @@ philo-sophical munindo amaravati thai-land}
     %
     \sectionFont\fontsize{11}{11}\selectfont%
     \color{section}%
-    \textbf{\textls*{\textsc{#1}}}%
+    \mbox{%
+      \textbf{\textls*{\textsc{#1}}}%
+      \if@mainmatter%
+        \hspace*{1em}\hyperref[schedule]{$\Leftarrow$}%
+      \fi%
+    }%
     %
     \vfill%
     \vspace*{-0.5\baselineskip - 0.8pt}%
