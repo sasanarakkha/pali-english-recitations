@@ -815,6 +815,20 @@ philo-sophical munindo amaravati thai-land}
   \vspace{0pt \@plus 5pt \@minus 0pt}%
 }
 
+% Breath mark is U+1D112. This character is often not included in typefaces.
+% Since it's identical to a right single quote mark (U+2019), we'll use that.
+% To distinguish it from a quote mark, we raise it higher, above the riser stems (such as d' or l').
+
+\newcommand\breathmark{%
+  \raisebox{0.25\baselineskip}{\symbol{"2019}}%
+}
+
+% A mark indicating a pause, using the middle dot (U+00B7).
+
+\newcommand\pausemark{%
+  \raisebox{-1pt}{\symbol{"00B7}}%
+}
+
 % glossary as item list
 
 \newenvironment{glossarydescription}%
