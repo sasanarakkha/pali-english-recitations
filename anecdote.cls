@@ -167,12 +167,10 @@
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
-  SmallCapsFont = Crimson-Roman.otf,
-  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+  ItalicFont = LibertinusSerif-Italic.otf,
+  BoldFont = LibertinusSerif-Bold.otf,
+  BoldItalicFont = LibertinusSerif-BoldItalic.otf,
+]{LibertinusSerif-Regular.otf}
 
 \newfontfamily\crimsonRomanFont[
   SmallCapsFeatures= { LetterSpace = 0.2 },
@@ -202,38 +200,31 @@
   BoldItalicFont = NunitoSans-SemiBoldItalic.ttf,
 ]{NunitoSans-Light.ttf}
 
-% \newfontfamily\libertinusFont[
-%   ItalicFont = LibertinusSerif-Italic.otf,
-%   BoldFont = LibertinusSerif-Bold.otf,
-%   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
-% ]{LibertinusSerif-Regular.otf}
-
-\newfontfamily\sbsFont[
-  ItalicFont = SbsSerif-Italic.ttf,
-  BoldFont = SbsSerif-Bold.ttf,
-  BoldItalicFont = SbsSerif-BoldItalic.ttf,
-]{SbsSerif-Regular.ttf}
-
+\newfontfamily\libertinusFont[
+  ItalicFont = LibertinusSerif-Italic.otf,
+  BoldFont = LibertinusSerif-Bold.otf,
+  BoldItalicFont = LibertinusSerif-BoldItalic.otf,
+]{LibertinusSerif-Regular.otf}
 
 % header and footer
 
-\newcommand\headerFont\sbsFont
+\newcommand\headerFont\libertinusFont
 \newcommand\footerFont\headerFont
 \newcommand\pageNumFont\headerFont
 
 % chapter and section
 
-\newcommand\partNameFont\sbsFont
-\newcommand\partTitleFont\sbsFont
+\newcommand\partNameFont\libertinusFont
+\newcommand\partTitleFont\libertinusFont
 
 \newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\sbsFont
-\newcommand\chapterNumberFont\sbsFont
+\newcommand\chapterTitleFont\libertinusFont
+\newcommand\chapterNumberFont\libertinusFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\sbsFont
-\newcommand\subSectionFont\sbsFont
+\newcommand\sectionFont\libertinusFont
+\newcommand\subSectionFont\libertinusFont
 
 \newcommand\instructionFont\sansFont
 
@@ -295,7 +286,7 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
-\SetTracking[spacing={400,100,}]{encoding=*, family={SbsSerif-regular.ttf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={LibertinusSerif-Regular.otf}}{20}
 \SetTracking[spacing={600,100,}]{encoding=*, family={NunitoSans-Light.ttf}}{70}
 
 % === hyperref ===
@@ -822,6 +813,36 @@ philo-sophical munindo amaravati thai-land}
     \FilledDiamondshape%
   \par}%
   \vspace{0pt \@plus 5pt \@minus 0pt}%
+}
+
+% Breath mark is U+1D112. This character is often not included in typefaces.
+% Since it's identical to a right single quote mark (U+2019), we'll use that.
+% To distinguish it from a quote mark, we raise it higher, above the riser stems (such as d' or l').
+
+\newcommand\breathmark{%
+  \raisebox{0.25\baselineskip}{\symbol{"2019}}%
+}
+
+% A mark indicating a pause, using the middle dot (U+00B7).
+
+\newcommand\pausemark{%
+  \raisebox{-1pt}{\symbol{"00B7}}%
+}
+
+% Navigation links at the bottom of the page
+% Places a link to the TOC page, and a link to the next chant in the schedule.
+%
+% #1 : label to the next chant
+\newcommand\bottomNav[1]{%
+  \vfill
+  \begin{minipage}{\linewidth}%
+    \centering
+    \hyperref[contents]{$\Leftarrow$}\hspace*{1em}%
+    \textbf{\textsc{\textls*{contents}}}%
+    \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
+    \textbf{\textsc{\textls*{next}}}\hspace*{1em}%
+    \hyperref[#1]{$\Rightarrow$}%
+  \end{minipage}%
 }
 
 % glossary as item list
@@ -1366,6 +1387,19 @@ philo-sophical munindo amaravati thai-land}
   \setlength{\afterchapskip}{\onelineskip}
 }
 
+\makechapterstyle{adrasteia-toc}{
+  \chapterstyle{adrasteia-frontmatter}
+  \renewcommand*\printchaptertitle[1]{%
+    {%
+      \centering%
+      \chaptitlefont\color{chaptertitle}%
+      \textbf{\textsc{\textls*{##1}}}%
+      \label{contents}%
+      \par%
+    }%
+  }
+}
+
 \makechapterstyle{adrasteia-appendix}{
   \chapterstyle{adrasteia}
   \renewcommand*\printchaptertitle[1]{%
@@ -1382,17 +1416,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \makechapterstyle{adrasteia-backmatter}{
-  \chapterstyle{adrasteia}
-  \renewcommand*\printchaptertitle[1]{%
-    {%
-      \centering%
-      \chaptitlefont\fontsize{13}{18}\selectfont\color{chaptertitle}%
-      \vspace*{12pt}%
-      \par
-      \textls*{\MakeUppercase{##1}}%
-      \par%
-    }%
-  }
+  \chapterstyle{adrasteia-frontmatter}
 }
 
 % Commands to assign the chapter styles to book parts. Use \renewcommand
@@ -1439,12 +1463,34 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  {%
-    \sectionFont\bfseries\fontsize{11}{17}\selectfont%
+  \centering%
+  \begin{minipage}[b][25pt][c]{0.8\linewidth}%
+    \centering%
+    \setlength{\parskip}{0pt}%
+    \rule{\linewidth}{0.4pt}%
+    \vfill%
+    %
+    \sectionFont\fontsize{11}{11}\selectfont%
     \color{section}%
-    \memRTLraggedright%
-    #1%
-  }%
+    \mbox{%
+      \textbf{\textls*{\textsc{#1}}}%
+      \if@mainmatter%
+        \hspace*{1em}\hyperref[schedule]{$\Leftarrow$}%
+      \fi%
+    }%
+    %
+    \ifsectionsubtitle%
+      \par
+      \vspace*{5pt}%
+      \@secSubTitle%
+      \sectionPaliTitleClear%
+    \fi
+    %
+    \vfill%
+    \vspace*{-0.5\baselineskip - 0.8pt}%
+    \rule{\linewidth}{0.4pt}%
+  \end{minipage}%
+  \par%
 }
 
 \newcommand\subsectionFmt[1]{%
@@ -1491,6 +1537,21 @@ philo-sophical munindo amaravati thai-land}
     #1%
   }%
   \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
+}
+
+\newif\ifsectionsubtitle
+\sectionsubtitlefalse
+
+\newcommand*\@secSubTitle{}
+
+\newcommand\sectionPaliTitle[1]{%
+  \renewcommand*\@secSubTitle{#1}%
+  \global\sectionsubtitletrue%
+}
+
+\newcommand\sectionPaliTitleClear{%
+  \renewcommand*\@secSubTitle{}%
+  \global\sectionsubtitlefalse%
 }
 
 % === Page geometry and layout ===

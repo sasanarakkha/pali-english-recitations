@@ -41,6 +41,10 @@ desktopVersion,
 
 %% === Load further packages ===
 
+% Using memoir's endnotes, called pagenotes
+\makepagenote
+\continuousnotenums
+
 %% === Hyphenation exceptions and corrections ===
 
 \hyphenation{London re-lin-quishes de-ter-mines}
@@ -59,13 +63,17 @@ desktopVersion,
 \input{./manuscript/tex/titlepage.tex}
 \input{./manuscript/tex/copyright.tex}
 \input{./manuscript/tex/dedication.tex}
-% \input{./manuscript/tex/schedule.tex}
+\input{./manuscript/tex/schedule.tex}
 % \input{./manuscript/tex/purpose-and-benefits.tex}
 % \input{./manuscript/tex/abbreviations.tex}
 
 \cleartorecto
 \pagestyle{toponerow-frontmatter}
+\chapterstyle{adrasteia-toc}
+
 \tableofcontents*
+
+\chapterstyle{adrasteia-frontmatter}
 
 % \clearpage
 % \listfirstlines*
@@ -103,6 +111,8 @@ desktopVersion,
 }
 
 \backmatter
+
+\printpagenotes
 
 \input{./manuscript/tex/copyright-details.tex}
 
