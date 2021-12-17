@@ -41,6 +41,10 @@ desktopVersion,
 
 %% === Load further packages ===
 
+% Using memoir's endnotes, called pagenotes
+\makepagenote
+\continuousnotenums
+
 %% === Hyphenation exceptions and corrections ===
 
 \hyphenation{London re-lin-quishes de-ter-mines}
@@ -103,6 +107,8 @@ desktopVersion,
 }
 
 \backmatter
+
+\printpagenotes
 
 \input{./manuscript/tex/copyright-details.tex}
 

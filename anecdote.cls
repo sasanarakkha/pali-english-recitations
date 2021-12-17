@@ -1373,17 +1373,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \makechapterstyle{adrasteia-backmatter}{
-  \chapterstyle{adrasteia}
-  \renewcommand*\printchaptertitle[1]{%
-    {%
-      \centering%
-      \chaptitlefont\fontsize{13}{18}\selectfont\color{chaptertitle}%
-      \vspace*{12pt}%
-      \par
-      \textls*{\MakeUppercase{##1}}%
-      \par%
-    }%
-  }
+  \chapterstyle{adrasteia-frontmatter}
 }
 
 % Commands to assign the chapter styles to book parts. Use \renewcommand
