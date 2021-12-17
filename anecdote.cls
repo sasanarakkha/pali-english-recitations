@@ -1479,6 +1479,13 @@ philo-sophical munindo amaravati thai-land}
       \fi%
     }%
     %
+    \ifsectionsubtitle%
+      \par
+      \vspace*{5pt}%
+      \@secSubTitle%
+      \sectionPaliTitleClear%
+    \fi
+    %
     \vfill%
     \vspace*{-0.5\baselineskip - 0.8pt}%
     \rule{\linewidth}{0.4pt}%
@@ -1530,6 +1537,21 @@ philo-sophical munindo amaravati thai-land}
     #1%
   }%
   \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
+}
+
+\newif\ifsectionsubtitle
+\sectionsubtitlefalse
+
+\newcommand*\@secSubTitle{}
+
+\newcommand\sectionPaliTitle[1]{%
+  \renewcommand*\@secSubTitle{#1}%
+  \global\sectionsubtitletrue%
+}
+
+\newcommand\sectionPaliTitleClear{%
+  \renewcommand*\@secSubTitle{}%
+  \global\sectionsubtitlefalse%
 }
 
 % === Page geometry and layout ===
