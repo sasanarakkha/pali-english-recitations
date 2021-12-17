@@ -829,6 +829,22 @@ philo-sophical munindo amaravati thai-land}
   \raisebox{-1pt}{\symbol{"00B7}}%
 }
 
+% Navigation links at the bottom of the page
+% Places a link to the TOC page, and a link to the next chant in the schedule.
+%
+% #1 : label to the next chant
+\newcommand\bottomNav[1]{%
+  \vfill
+  \begin{minipage}{\linewidth}%
+    \centering
+    \hyperref[contents]{$\Leftarrow$}\hspace*{1em}%
+    \textbf{\textsc{\textls*{contents}}}%
+    \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
+    \textbf{\textsc{\textls*{next}}}\hspace*{1em}%
+    \hyperref[#1]{$\Rightarrow$}%
+  \end{minipage}%
+}
+
 % glossary as item list
 
 \newenvironment{glossarydescription}%
@@ -1369,6 +1385,19 @@ philo-sophical munindo amaravati thai-land}
     }%
   }
   \setlength{\afterchapskip}{\onelineskip}
+}
+
+\makechapterstyle{adrasteia-toc}{
+  \chapterstyle{adrasteia-frontmatter}
+  \renewcommand*\printchaptertitle[1]{%
+    {%
+      \centering%
+      \chaptitlefont\color{chaptertitle}%
+      \textbf{\textsc{\textls*{##1}}}%
+      \label{contents}%
+      \par%
+    }%
+  }
 }
 
 \makechapterstyle{adrasteia-appendix}{
