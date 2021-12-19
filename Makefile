@@ -18,11 +18,6 @@ four-times:
 	./helpers/four-times.sh
 
 document:
-	cat $(FILE).fir | \
-		sed '/\\contentsfinish/d' | \
-		sort > $(FILE).fir.tmp
-	echo '\\contentsfinish' >> $(FILE).fir.tmp
-	mv $(FILE).fir.tmp $(FILE).fir
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 sass:
