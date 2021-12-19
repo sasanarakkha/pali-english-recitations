@@ -217,20 +217,20 @@
 \newcommand\partNameFont\libertinusFont
 \newcommand\partTitleFont\libertinusFont
 
-\newcommand\chapterNameFont\crimsonRomanFont
+\newcommand\chapterNameFont\libertinusFont
 \newcommand\chapterTitleFont\libertinusFont
 \newcommand\chapterNumberFont\libertinusFont
-\newcommand\chapterAuthorFont\crimsonRomanFont
-\newcommand\chapterNoteFont\crimsonRomanFont
+\newcommand\chapterAuthorFont\libertinusFont
+\newcommand\chapterNoteFont\libertinusFont
 
 \newcommand\sectionFont\libertinusFont
 \newcommand\subSectionFont\libertinusFont
 
-\newcommand\instructionFont\sansFont
+\newcommand\instructionFont\libertinusFont
 
 % quote
 
-\newcommand\sideruleQuoteFont\crimsonRomanFont
+\newcommand\sideruleQuoteFont\libertinusFont
 
 % toc
 
@@ -582,7 +582,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand{\suttaRef}[1]{%
-  \hfill {\itshape #1\par}%
+  \hfill {\fontsize{8}{8}\selectfont #1\par}%
 }
 
 % for longer sutta and book quotes
@@ -830,7 +830,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % Navigation links at the bottom of the page
-% Places a link to the TOC page, and a link to the next chant in the schedule.
+% Places a link to the Recitation Schedule, and a link to the next chant in the schedule.
 %
 % #1 : label to the next chant
 \newcommand\bottomNav[1]{%
@@ -1487,7 +1487,7 @@ philo-sophical munindo amaravati thai-land}
     \fi
     %
     \vfill%
-    \vspace*{-0.5\baselineskip - 0.8pt}%
+    % \vspace*{-0.5\baselineskip - 0.8pt}%
     \rule{\linewidth}{0.4pt}%
   \end{minipage}%
   \par%
@@ -1495,8 +1495,8 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\subsectionFmt[1]{%
   {%
-    \subSectionFont\fontsize{11}{17}\selectfont%
-    \itshape\color{section}%
+    \subSectionFont\fontsize{12}{18}\selectfont%
+    \scshape\bfseries\color{section}%
     \memRTLraggedright%
     \prul{#1}%
   }%
