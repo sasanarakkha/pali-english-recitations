@@ -1449,7 +1449,9 @@ philo-sophical munindo amaravati thai-land}
 %
 % With no glue, the space will be at the bottom of the text block instead.
 
-\setbeforesecskip{-3.5ex \@plus -1ex \@minus -.2ex}
+\setbeforesecskip{0pt}
+\setsechook{\clearpage}
+
 \setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
@@ -1487,7 +1489,8 @@ philo-sophical munindo amaravati thai-land}
     \fi
     %
     \vfill%
-    % \vspace*{-0.5\baselineskip - 0.8pt}%
+    \vspace*{-0.5\baselineskip}%
+    \vspace*{-0.8pt}%
     \rule{\linewidth}{0.4pt}%
   \end{minipage}%
   \par%
@@ -1498,7 +1501,7 @@ philo-sophical munindo amaravati thai-land}
     \subSectionFont\fontsize{12}{18}\selectfont%
     \scshape\bfseries\color{section}%
     \memRTLraggedright%
-    \prul{#1}%
+    #1%
   }%
 }
 
