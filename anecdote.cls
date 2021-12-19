@@ -1487,7 +1487,8 @@ philo-sophical munindo amaravati thai-land}
     \fi
     %
     \vfill%
-    % \vspace*{-0.5\baselineskip - 0.8pt}%
+    \vspace*{-0.5\baselineskip}%
+    \vspace*{-0.8pt}%
     \rule{\linewidth}{0.4pt}%
   \end{minipage}%
   \par%
