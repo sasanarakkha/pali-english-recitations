@@ -3006,7 +3006,7 @@ Evan-ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassana�
 N’eva tāvāhaṁ bhikkhave sadevake loke samārake sabrahmake\\
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\\
 Anuttaraṁ sammā-sambodhiṁ abhisambuddho\pagenote{%
-  Instead of the nominative “abhisambuddo” (Thai and Buddha Jayanti Pāli edition), one would usually expect the accusative or a quotation here, which is indeed what is found in the PTS and Chatta Saṅgāyana editions, giving “abhisambuddho’ti”. However, the anoumolous reading “abhisambuddho” finds support from Mahāvasutu: “yāvac cāhaṃ bhikṣavaḥ imāni catvāry āryasatyāni evaṃ triparivartaṃ dvādaśākāraṃ yathābhūtaṃ samyakprajñayā nābhyajñāsiṣaṃ na tāvad ahaṃ anuttarāṃ samyaksaṃbodhim abhisaṃbuddho pratijānehaṃ”, which according to Ven. Ānandajoti probably indicates that “abhisambuddho” is an old/original reading.}
+  Instead of the nominative “abhisambuddo” (Thai and Buddha Jayanti Pāli edition), one would usually expect the accusative or a quotation here, which is indeed what is found in the PTS and Chatta Saṅgāyana editions, giving “abhisambuddho’ti”. However, the anoumolous reading “abhisambuddho” finds support from Mahāvasutu: “yāvac cāhaṁ bhikṣavaḥ imāni catvāry āryasatyāni evaṁ triparivartaṁ dvādaśākāraṁ yathābhūtaṁ samyakprajñayā nābhyajñāsiṣaṁ na tāvad ahaṁ anuttarāṁ samyaksaṁbodhim abhisaṁbuddho pratijānehaṁ”, which according to Ven. Ānandajoti probably indicates that “abhisambuddho” is an old/original reading.}
 paccaññāsiṁ
 
 \begin{cprenglish}
@@ -10254,7 +10254,7 @@ ending in consonants. They are then pronounced as in `g\prul{e}t' and
 
 \textbf{c} as in an\prul{c}ient (like \prul{ch} but unaspirated)
 
-\textbf{ṃ, ṅ} as \prul{ng} in sa\prul{ng}
+\textbf{ṁ, ṅ} as \prul{ng} in sa\prul{ng}
 
 \textbf{ñ} as \prul{ny} in ca\prul{ny}on
 
@@ -10352,7 +10352,7 @@ in ‘mad dog’, or \textbf{gg} in ‘maggo’ as in ‘big gun’.
 
 \textbf{2.} \textbf{Aspirated consonants} like \textbf{bh, dh} etc.
 count as single consonant and don't get divided (Therefore
-\textbf{am·hā·kaṃ}, but \textbf{sa·dham·maṃ}, not \textbf{sad·ham·maṃ}
+\textbf{am·hā·kaṁ}, but \textbf{sa·dham·maṁ}, not \textbf{sad·ham·maṁ}
 or, another example: \textbf{Bud·dho} and not \textbf{Bu·ddho}).
 
 Precise pronunciation and correct separation of the syllables is
@@ -10438,7 +10438,7 @@ Thanks to all Saṅgha members who are willing to share this meaningful task amo
     Vin  & Vinaya Piṭaka       & MJG   & Mahā-jaya-maṅgala-gāthā \\
     DN   & Dīgha Nikāya        & Thai  & Composed...             \\
     MN   & Majjhima Nikāya     & Sri L & Composed...             \\
-    SN   & Saṃyutta Nikāya     &       & Tradtional...           \\
+    SN   & Saṁyutta Nikāya     &       & Tradtional...           \\
     AN   & Aṅguttara Nikāya    &       &                          \\
     Khp  & Khuddakapāṭha       &       &                 \\
     Dhp  & Dhammapada          &       &                 \\
