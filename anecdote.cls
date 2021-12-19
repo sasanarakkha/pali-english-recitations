@@ -1499,7 +1499,7 @@ philo-sophical munindo amaravati thai-land}
     \subSectionFont\fontsize{12}{18}\selectfont%
     \scshape\bfseries\color{section}%
     \memRTLraggedright%
-    \prul{#1}%
+    #1%
   }%
 }
 
