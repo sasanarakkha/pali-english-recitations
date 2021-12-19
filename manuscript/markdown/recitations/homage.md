@@ -2,327 +2,945 @@
 
 **Contents**
 
-- [Dedication of Offerings](#yo-so-bhagava)
-- [Dedication of Offerings (English)](#dedication)
-- [Preliminary Homage](#homage-pali)
-- [Preliminary Homage (English)](#homage-english)
-- [Homage to the Buddha](#buddha-pali)
-- [Homage to the Buddha (English)](#buddha-english)
-- [Homage to the Dhamma](#dhamma-pali)
-- [Homage to the Dhamma (English)](#dhamma-english)
-- [Homage to the Saṅgha](#sangha-pali)
-- [Homage to the Saṅgha (English)](#sangha-english)
-- [Salutation to the Triple Gem](#buddho-susuddho)
-- [Salutation to the Triple Gem (English)](#salutation-english)
-- [Closing Homage](#closing-pali)
-- [Closing Homage (English)](#closing-english)
+- [Dedication of Offerings](#dedication)
+- [Preliminary Homage](#homage)
+- [Homage to the Buddha](#buddha)
+- [Homage to the Dhamma](#dhamma)
+- [Homage to the Saṅgha](#sangha)
+- [Salutation to the Triple Gem (English)](#salutation)
+- [Closing Homage](#closing)
 
-## Dedication of Offerings<a id="yo-so-bhagava"></a>
+## Dedication of Offerings<a id="dedication"></a>
 
-[Yo so] bhagavā arahaṃ sammāsambuddho\
-Svākkhāto yena bhagavatā dhammo\
-Supaṭipanno yassa bhagavato sāvakasaṅgho\
-Tam-mayaṃ bhagavantaṃ sadhammaṃ sasaṅghaṃ\
-Imehi sakkārehi yathārahaṃ āropitehi abhipūjayāma\
-Sādhu no bhante bhagavā sucira-parinibbutopi\
-Pacchimā-janatānukampa-mānasā\
-Ime sakkāre duggata-paṇṇākāra-bhūte paṭiggaṇhātu\
-Amhākaṃ dīgharattaṃ hitāya sukhāya\
-Arahaṃ sammāsambuddho bhagavā\
-Buddhaṃ bhagavantaṃ abhivādemi\
-[Svākkhāto] bhagavatā dhammo\
-Dhammaṃ namassāmi\
-[Supaṭipanno] bhagavato sāvakasaṅgho\
-Saṅghaṃ namāmi
+[Yo so] bhagavā arahaṁ sammāsambuddho
 
-## Dedication of Offerings (English)<a id="dedication"></a>
+<div class="english">
 
-To the Blessed One, the Lord, who fully attained perfect enlightenment,\
-To the Teaching which he expounded so well,\
-And to the Blessed One's disciples who have practised well,\
-To these &ndash; the Buddha, the Dhamma, and the Saṅgha &ndash;\
-We render with offerings our rightful homage.\
-It is well for us that the Blessed One, having attained liberation,\
-Still had compassion for later generations.\
-May these simple offerings be accepted\
-For our long-lasting benefit and for the happiness it gives us.
+>  To the Blessed One the Worthy One who fully attained Perfect Enlightenment
 
-The Lord, the Perfectly Enlightened and Blessed One &ndash;\
-I render homage to the Buddha, the Blessed One.
+</div>
 
-The Teaching so completely explained by him &ndash;\
-I bow to the Dhamma.
+Svākkhāto yena bhagavatā dhammo
 
-The Blessed One's disciples who have practised well &ndash;\
-I bow to the Saṅgha.
+<div class="english">
 
-## Preliminary Homage<a id="homage-pali"></a>
+>  To the Teaching which he expounded so well
+
+</div>
+
+Supaṭipanno yassa bhagavato sāvakasaṅgho
+
+<div class="english">
+
+>  And to the Blessed One’s disciples who have practiced well
+
+</div>
+
+Tam-mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ
+
+<div class="english">
+
+>  To these the Buddha the Dhamma and the Saṅgha
+
+</div>
+
+Imehi sakkārehi yathārahaṁ āropitehi abhipūjayāma
+
+<div class="english">
+
+>  We render with offerings our rightful homage
+
+</div>
+
+Sādhu no bhante bhagavā sucira-parinibbutopi
+
+<div class="english">
+
+>  It is well for us that the Blessed One\\
+
+>  Having attained liberation
+
+</div>
+
+Pacchimā-janatānukampa-mānasā
+
+<div class="english">
+
+>  Still had compassion for later generations
+
+</div>
+
+Ime sakkāre duggata-paṇṇākāra-bhūte paṭiggaṇhātu
+
+<div class="english">
+
+>  May these simple offerings be accepted
+
+</div>
+
+Amhākaṁ dīgharattaṁ hitāya sukhāya
+
+<div class="english">
+
+>  For our long-lasting benefit and for the happiness it gives us
+
+</div>
+
+Arahaṁ sammāsambuddho bhagavā
+
+<div class="english">
+
+>  The Worthy One the Perfectly Enlightened and Blessed One
+
+</div>
+
+Buddhaṁ bhagavantaṁ abhivādemi\relax
+
+<div class="english">
+
+>  I render homage to the Buddha the Blessed One (Bow)
+
+</div>
+
+[Svākkhāto] bhagavatā dhammo
+
+<div class="english">
+
+>  The Teaching so completely explained by him
+
+</div>
+
+Dhammaṁ namassāmi
+
+<div class="english">
+
+>  I bow to the Dhamma (Bow)
+
+</div>
+
+[Supaṭipanno] bhagavato sāvakasaṅgho
+
+<div class="english">
+
+>  The Blessed One’s disciples who have practiced well
+
+</div>
+
+Saṅghaṁ namāmi
+
+<div class="english">
+
+>  I bow to the Saṅgha (Bow)
+
+</div>
+
+## Preliminary Homage<a id="preliminary-homage"></a>
 
 > [Handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase]
 
-Namo tassa bhagavato arahato sammāsambuddhassa (×3)
-
-## Preliminary Homage (English)<a id="homage-english"></a>
-
 > [Now let us pay preliminary homage to the Buddha.]
 
-Homage to the Blessed, Noble, and Perfectly Enlightened One. (×3)
+Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 
-## Homage to the Buddha<a id="buddha-pali"></a>
+<div class="english">
+
+> Homage to the Blessed Worthy and Perfectly Enlightened One [3x]
+
+</div>
+
+## Homage to the Buddha<a id="homage-buddha"></a>
 
 > [Handa mayaṃ buddhābhitthutiṃ karomase]
 
-Yo so tathāgato arahaṃ sammāsambuddho\
-Vijjācaraṇa-sampanno, sugato, lokavidū\
-Anuttaro purisadamma-sārathi\
-Satthā deva-manussānaṃ, buddho bhagavā.
+> [Now let us recite in praise of the Buddha]
 
-Yo imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ\
-Sassamaṇa-brāhmaṇiṃ pajaṃ sadeva-manussaṃ sayaṃ abhiññā sacchikatvā pavedesi\
-Yo dhammaṃ desesi ādi-kalyāṇaṃ majjhe-kalyāṇaṃ pariyosāna-kalyāṇaṃ\
-Sātthaṃ sabyañjanaṃ kevala-paripuṇṇaṃ parisuddhaṃ brahma-cariyaṃ pakāsesi\
-Tam-ahaṃ bhagavantaṃ abhipūjayāmi tam-ahaṃ bhagavantaṃ sirasā namāmi
+Yo so tathāgato arahaṁ sammāsambuddho
 
-## Homage to the Buddha (English)<a id="buddha-english"></a>
+<div class="english">
 
-> [Now let us chant in praise of the Buddha.]
+>  The Tathāgata is the Worthy One the Perfectly Enlightened One
 
-The Tathāgata is the Pure One, the Perfectly Enlightened One.\
-He is impeccable in conduct and understanding,\
-The Accomplished One,\
-The Knower of the Worlds.\
-He trains perfectly those who wish to be trained.\
-He is Teacher of gods and humans.\
-He is awake and holy.\
-In this world with its gods, demons, and kind spirits,\
-Its seekers and sages, celestial and human beings, he has by deep insight revealed the Truth.\
-He has pointed out the Dhamma: beautiful in the beginning, beautiful in the middle, beautiful in the end.\
-He has explained the Spiritual Life of complete purity in its essence and conventions.\
-I chant my praise to the Blessed One, I bow my head to the Blessed One.
+</div>
 
-## Homage to the Dhamma<a id="dhamma-pali"></a>
+Vijjācaraṇa-sampanno
 
-> [Handa mayaṃ dhammābhitthutiṃ karomase]
+<div class="english">
 
-Yo so svākkhāto bhagavatā dhammo\
-Sandiṭṭhiko, akāliko, ehipassiko, opanayiko\
-Paccattaṃ veditabbo viññūhi\
-Tam-ahaṃ dhammaṃ abhipūjayāmi tam-ahaṃ dhammaṃ sirasā namāmi
+> He is impeccable in conduct and understanding
 
-## Homage to the Dhamma (English)<a id="dhamma-english"></a>
+</div>
 
-> [Now let us chant in praise of the Dhamma.]
+Sugato
 
-The Dhamma is well expounded by the Blessed One,\
-Apparent here and now,\
-Timeless,\
-Encouraging investigation,\
-Leading inwards,\
-To be experienced individually by the wise.\
-I chant my praise to this Teaching, I bow my head to this Truth.
+<div class="english">
 
-## Homage to the Saṅgha<a id="sangha-pali"></a>
+>  The Accomplished One
 
-> [Handa mayaṃ saṅghābhitthutiṃ karomase]
+</div>
 
-Yo so supaṭipanno bhagavato sāvakasaṅgho\
-Ujupaṭipanno bhagavato sāvakasaṅgho\
-Ñāyapaṭipanno bhagavato sāvakasaṅgho\
-Sāmīcipaṭipanno bhagavato sāvakasaṅgho\
-Yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā\
-Esa bhagavato sāvakasaṅgho\
-Āhuneyyo, pāhuneyyo, dakkhiṇeyyo, añjali-karaṇīyo\
-Anuttaraṃ puññakkhettaṃ lokassa\
-Tam-ahaṃ saṅghaṃ abhipūjayāmi tam-ahaṃ saṅghaṃ sirasā namāmi
+Lokavidū
 
-## Homage to the Saṅgha (English)<a id="sangha-english"></a>
+<div class="english">
 
-> [Now let us chant in praise of the Saṅgha.]
+>  The Knower of the Worlds
 
-They are the Blessed One's disciples, who have practised well,\
-Who have practised directly,\
-Who have practised insightfully,\
-Those who practise with integrity &ndash;\
-That is the four pairs, the eight kinds of noble beings &ndash;\
-These are the Blessed One's disciples.\
-Such ones are worthy of gifts,\
-Worthy of hospitality,\
-Worthy of offerings,\
-Worthy of respect;\
-They give occasion for incomparable goodness to arise in the world.\
-I chant my praise to this Saṅgha, I bow my head to this Saṅgha.
+</div>
 
-## Salutation to the Triple Gem<a id="buddho-susuddho"></a>
+Anuttaro purisadamma-sārathi
 
-> [Handa mayaṃ ratanattaya-paṇāma-gāthāyo c'eva saṃvega-parikittana-pāṭhañca bhaṇāmase]
+<div class="english">
 
-Buddho susuddho karuṇā-mahaṇṇavo\
-Yo'ccanta-suddhabbara-ñāṇa-locano\
-Lokassa pāpūpakilesa-ghātako\
-Vandāmi buddhaṃ aham-ādarena taṃ\
-Dhammo padīpo viya tassa satthuno\
-Yo magga-pākāmata-bheda-bhinnako\
-Lokuttaro yo ca tad-attha-dīpano\
-Vandāmi dhammaṃ aham-ādarena taṃ\
-Saṅgho sukhettābhyati-khetta-saññito\
-Yo diṭṭha-santo sugatānubodhako\
-Lolappahīno ariyo sumedhaso\
-Vandāmi saṅghaṃ aham-ādarena taṃ\
-Iccevam-ekantabhipūja-neyyakaṃ vatthuttayaṃ vandayatābhisaṅkhataṃ\
-Puññaṃ mayā yaṃ mama sabbupaddavā mā hontu ve tassa pabhāva-siddhiyā
+>  Unsurpassed leader of persons to be tamedi
 
-Idha tathāgato loke uppanno arahaṃ sammāsambuddho\
-Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito\
-Mayan-taṃ dhammaṃ sutvā evaṃ jānāma
+</div>
 
-Jātipi dukkhā\
-Jarāpi dukkhā\
-Maraṇampi dukkhaṃ\
-Soka-parideva-dukkha-domanass'upāyāsāpi dukkhā\
-Appiyehi sampayogo dukkho\
-Piyehi vippayogo dukkho\
-Yamp'icchaṃ na labhati tampi dukkhaṃ\
+Satthā deva-manussānaṁ
+
+<div class="english">
+
+>  He is teacher of gods and humans
+
+</div>
+
+Buddho bhagavā
+
+<div class="english">
+
+> He is awake and holy
+
+</div>
+
+Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
+
+<div class="english">
+
+> In this world with its gods ̓ demons and kind spirits
+
+</div>
+
+Sassamaṇa-brāhmaṇiṁ pajaṁ sadeva-manussaṁ sayaṁ abhiññā sacchikatvā pavedesi
+
+<div class="english">
+
+> Its seekers and sages  ̓  celestial and human beings
+> He has by deep insight revealed the truth
+
+</div>
+
+Yo dhammaṁ desesi ādi-kalyāṇaṁ majjhe-kalyāṇaṁ pariyosāna-kalyāṇaṁ
+
+<div class="english">
+
+> He has pointed out the Dhamma
+> Beautiful in the beginning
+> Beautiful in the middle
+> Beautiful in the end
+
+</div>
+
+Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahma-cariyaṁ pakāsesi
+
+<div class="english">
+
+> He has explained the holy life of complete purity
+> In its essence and conventions
+
+</div>
+
+Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
+
+<div class="english">
+
+> I chant my praise to the Blessed One
+> I bow my head to the Blessed One (Bow)
+
+</div>
+
+## Homage to the Dhamma<a id="homage-dhamma"></a>
+
+>  [Handa mayaṁ dhammābhitthutiṁ karomase]
+>  [Now let us recite in praise of the Dhamma]
+
+Yo so svākkhāto bhagavatā dhammo
+
+<div class="english">
+
+>   The Dhamma is well-expounded by the Blessed One
+
+</div>
+
+Sandiṭṭhiko
+
+<div class="english">
+
+>  Apparent here and now
+
+</div>
+
+Akāliko
+
+<div class="english">
+
+>  Timeless
+
+</div>
+
+Ehipassiko
+
+<div class="english">
+
+> Encouraging investigation
+
+</div>
+
+Opanayiko
+
+<div class="english">
+
+> Leading inwards
+
+</div>
+
+Paccattaṁ veditabbo viññūhi
+
+<div class="english">
+
+> To be experienced individually by the wise
+
+</div>
+
+Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
+
+<div class="english">
+
+> I chant my praise to this teaching
+> I bow my head to this truth (Bow)
+
+</div>
+
+## Homage to the Saṅgha<a id="homage-sangha"></a>
+
+Handa mayaṁ saṅghābhitthutiṁ karomase
+
+<div class="english">
+
+> Now let us recite in praise of the Saṅgha
+
+</div>
+
+Yo so supaṭipanno bhagavato sāvakasaṅgho
+
+<div class="english">
+
+> They are the Blessed One’s disciples who have practiced well
+
+</div>
+
+Ujupaṭipanno bhagavato sāvakasaṅgho
+
+<div class="english">
+
+> Who have practiced directly
+
+</div>
+
+Ñāyapaṭipanno bhagavato sāvakasaṅgho
+
+<div class="english">
+
+> Who have practiced correctlyi
+
+</div>
+
+Sāmīcipaṭipanno bhagavato sāvakasaṅgho
+
+<div class="english">
+
+> Who have practiced properlyi
+
+</div>
+
+Yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā
+
+<div class="english">
+
+> That is the four pairs the eight kinds of Noble Beings
+
+</div>
+
+Esa bhagavato sāvakasaṅgho
+
+<div class="english">
+
+> These are the Blessed One’s disciples
+
+</div>
+
+Āhuneyyo
+
+<div class="english">
+
+> Such ones are worthy of gifts
+
+</div>
+
+Pāhuneyyo
+
+<div class="english">
+
+> Worthy of hospitality
+
+</div>
+
+Dakkhiṇeyyo
+
+<div class="english">
+
+> Worthy of offerings
+
+</div>
+
+Añjali-karaṇīyo
+
+<div class="english">
+
+> Worthy of respect
+
+</div>
+
+Anuttaraṁ puññakkhettaṁ lokassa
+
+<div class="english">
+
+> They give occasion for incomparable goodness to arise in the world
+
+</div>
+
+Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
+
+<div class="english">
+
+> I chant my praise to this Saṅgha
+> I bow my head to this Saṅgha (Bow)
+
+</div>
+
+## Salutation to the Triple Gem<a id="salutation"></a>
+
+> [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
+
+> [Now let us recite our salutation to the Triple Gem and a passage to arouse urgency]
+
+Buddho susuddho karuṇā-mahaṇṇavo
+
+<div class="english">
+
+> The Buddha absolutely pure with ocean-like compassion
+
+</div>
+
+Yo'ccanta-suddhabbara-ñāṇa-locano
+
+<div class="english">
+
+> Possessing the clear sight of wisdom
+
+</div>
+
+Lokassa pāpūpakilesa-ghātako
+
+<div class="english">
+
+> Destroyer of worldly self-corruption
+
+</div>
+
+Vandāmi buddhaṁ aham-ādarena taṁ
+
+<div class="english">
+
+> Devotedly indeed  ̓  that Buddha I revere
+
+</div>
+
+Dhammo padīpo viya tassa satthuno
+
+<div class="english">
+
+> The Teaching of the Lord is like a lamp
+
+</div>
+
+Yo magga-pākāmata-bheda-bhinnako
+
+<div class="english">
+
+> Divided into path and its fruit  ̓  the Deathless
+
+</div>
+
+Lokuttaro yo ca tad-attha-dīpano
+
+<div class="english">
+
+> And illuminating that goal  ̓  which is beyond the conditioned worldi
+
+</div>
+
+Vandāmi dhammaṁ aham-ādarena taṁ
+
+<div class="english">
+
+> Devotedly indeed  ̓  that Dhamma I revere
+
+</div>
+
+Saṅgho sukhettābhyati-khetta-saññito
+
+<div class="english">
+
+> The Saṅgha the most fertile ground for cultivation
+
+</div>
+
+Yo diṭṭha-santo sugatānubodhako
+
+<div class="english">
+
+> Those who have realised peace
+> Awakened after the Accomplished One
+
+</div>
+
+Lolappahīno ariyo sumedhaso
+
+<div class="english">
+
+> Noble and wise  ̓  all longing abandoned
+
+</div>
+
+Vandāmi saṅghaṁ aham-ādarena taṁ
+
+<div class="english">
+
+> Devotedly indeed  ̓  that Saṅgha I revere
+
+</div>
+
+Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
+
+<div class="english">
+
+>This salutation should be made\\
+> To that triad which is worthy
+
+</div>
+
+Puññaṁ mayā yaṁ mama sabbupaddavā
+
+<div class="english">
+
+> Through the power of such good action
+
+</div>
+
+Mā hontu ve tassa pabhāva-siddhiyā
+
+<div class="english">
+
+> May all obstacles disappear
+
+</div>
+
+Idha tathāgato loke uppanno arahaṁ sammāsambuddho
+
+<div class="english">
+
+>  One who knows things as they are  ̓  has arisen in this world
+>  And he is an Arahant  ̓  a perfectly awakened being
+
+</div>
+
+Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito
+
+<div class="english">
+
+>  Teaching the way leading out of delusion
+>  Calming and directing to perfect peace
+>  And leading to enlightenment
+>  This way he has made known
+
+</div>
+
+Mayan-taṁ dhammaṁ sutvā evaṁ jānāma
+
+<div class="english">
+
+>  Having heard the Teaching we know this
+
+</div>
+
+Jātipi dukkhā
+
+<div class="english">
+
+> Birth is dukkha
+
+</div>
+
+Jarāpi dukkhā
+
+<div class="english">
+
+> Ageing is dukkha
+
+</div>
+
+Maraṇampi dukkhaṁ
+
+<div class="english">
+
+> And death is dukkha
+
+</div>
+
+Soka-parideva-dukkha-domanass'upāyāsāpi dukkhā
+
+<div class="english">
+
+> Sorrow lamentation pain displeasurei and despair are dukkha
+
+</div>
+
+Appiyehi sampayogo dukkho
+
+<div class="english">
+
+> Association with the disliked is dukkha
+
+</div>
+
+Piyehi vippayogo dukkho
+
+<div class="english">
+
+> Separation from the liked is dukkha
+
+</div>
+
+Yamp'icchaṁ na labhati tampi dukkhaṁ
+
+<div class="english">
+
+> Not attaining one’s wishes is dukkha
+
+</div>
+
 Saṅkhittena pañcupādānakkhandhā dukkhā
 
-Seyyathīdaṃ\
-Rūpūpādānakkhandho\
-Vedanūpādānakkhandho\
-Saññūpādānakkhandho\
-Saṅkhārūpādānakkhandho\
+<div class="english">
+
+> In brief  ̓  the five aggregates of clinging are dukkhai
+
+</div>
+
+Seyyathīdaṁ
+
+<div class="english">
+
+> These are as follows
+
+</div>
+
+Rūpūpādānakkhandho
+
+<div class="english">
+
+> Attachment to form
+
+</div>
+
+Vedanūpādānakkhandho
+
+<div class="english">
+
+> Attachment to feeling
+
+</div>
+
+Saññūpādānakkhandho
+
+<div class="english">
+
+> Attachment to perception
+
+</div>
+
+Saṅkhārūpādānakkhandho
+
+<div class="english">
+
+> Attachment to volitional formations
+
+</div>
+
 Viññāṇūpādānakkhandho
 
-Yesaṃ pariññāya\
-Dharamāno so bhagavā evaṃ bahulaṃ sāvake vineti\
-Evaṃ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
+<div class="english">
 
-Rūpaṃ aniccaṃ\
-Vedanā aniccā\
-Saññā aniccā\
-Saṅkhārā aniccā\
-Viññāṇaṃ aniccaṃ\
-Rūpaṃ anattā\
-Vedanā anattā\
-Saññā anattā\
-Saṅkhārā anattā\
-Viññāṇaṃ anattā\
-Sabbe saṅkhārā aniccā\
-Sabbe dhammā anattā'ti
-
-Te mayaṃ otiṇṇāmha jātiyā jarā-maraṇena\
-Sokehi paridevehi dukkhehi domanassehi upāyāsehi\
-Dukkhotiṇṇā dukkha-paretā\
-Appeva nāmimassa kevalassa dukkha-kkhandhassa\
-antakiriyā paññāyethā'ti
-
-Cira-parinibbutampi taṃ bhagavantaṃ uddissa arahantaṃ sammāsambuddhaṃ\
-Saddhā agārasmā anagāriyaṃ pabbajitā\
-Tasmiṃ bhagavati brahma-cariyaṃ carāma\
-Bhikkhūnaṃ/Sīladharānaṃ sikkhāsājīva-samāpannā\
-Taṃ no brahma-cariyaṃ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṃvattatu
-
-## Salutation to the Triple Gem (English)<a id="salutation-english"></a>
-
-> [Now let us chant our salutation to the Triple Gem and a passage to arouse urgency.]
-
-The Buddha, absolutely pure, with ocean-like compassion,\
-Possessing the clear sight of wisdom,\
-Destroyer of worldly self-corruption &ndash;\
-Devotedly indeed, that Buddha I revere.\
-The Teaching of the Lord, like a lamp,\
-Illuminating the Path and its Fruit: the Deathless,\
-That which is beyond the conditioned world &ndash;\
-Devotedly indeed, that Dhamma I revere.\
-The Saṅgha, the most fertile ground for cultivation,\
-Those who have realized peace, awakened after the Accomplished One,\
-Noble and wise, all longing abandoned &ndash;\
-Devotedly indeed, that Saṅgha I revere.
-
-This salutation should be made to that which is worthy.\
-Through the power of such good action, may all obstacles disappear.\
-One who knows things as they are has come into this world; and he is an Arahant, a perfectly Awakened being,\
-Purifying the way leading out of delusion, calming and directing to perfect peace, and leading to enlightenment &ndash; this Way he has made known.
-
-Having heard the Teaching, we know this:\
-Birth is dukkha,\
-Ageing is dukkha,\
-And death is dukkha;\
-Sorrow, lamentation, pain, grief, and despair are dukkha;\
-Association with the disliked is dukkha;\
-Separation from the liked is dukkha;\
-Not attaining one's wishes is dukkha.\
-In brief, the five focuses of identity are dukkha.
-
-These are as follows:\
-Attachment to form,\
-Attachment to feeling,\
-Attachment to perception,\
-Attachment to mental formations,\
-Attachment to sense-consciousness.\
-For the complete understanding of this,\
-The Blessed One in his lifetime frequently instructed his disciples in just this way.
-
-In addition, he further instructed:\
-Form is impermanent,\
-Feeling is impermanent,\
-Perception is impermanent,\
-Mental formations are impermanent,\
-Sense-consciousness is impermanent;
-
-Form is not-self,\
-Feeling is not-self,\
-Perception is not-self,\
-Mental formations are not-self,\
-Sense-consciousness is not-self;\
-All conditions are transient,\
-There is no self in the created or the uncreated.\
-All of us are bound by birth, ageing, and death,\
-By sorrow, lamentation, pain, grief, and despair,\
-Bound by dukkha and obstructed by dukkha.\
-Let us all aspire to complete freedom from suffering.
-
-<div class="instr">
-
-> The following is chanted only by the monks and nuns.
+> Attachment to consciousness
 
 </div>
 
-Remembering the Blessed One, the Noble Lord, and Perfectly Enlightened One, who long ago attained Parinibbāna,\
-We have gone forth with faith from home to homelessness,\
-And like the Blessed One, we practise the Holy Life,\
-Being fully equipped with the bhikkhus'/nuns' system of training.\
-May this Holy Life lead us to the end of this whole mass of suffering.\
+Yesaṁ pariññāya
 
-<div class="instr">
+<div class="english">
 
-> An alternative version of the preceding section, which can be chanted by laypeople as well.
+> For the complete understanding of this
 
 </div>
 
-The Blessed One, who long ago attained Parinibbāna, is our refuge.\
-So too are the Dhamma and the Saṅgha.\
-Attentively we follow the pathway of that Blessed One, with all of our mindfulness and strength.\
-May then the cultivation of this practice\
-Lead us to the end of every kind of suffering.
+Dharamāno so bhagavā
 
-## Closing Homage<a id="closing-pali"></a>
+<div class="english">
 
-[Arahaṃ] sammāsambuddho bhagavā\
-Buddhaṃ bhagavantaṃ abhivādemi
+> The Blessed One in his lifetime
 
-[Svākkhāto] bhagavatā dhammo\
-Dhammaṃ namassāmi
+</div>
 
-[Supaṭipanno] bhagavato sāvakasaṅgho\
-Saṅghaṃ namāmi
+Evaṁ bahulaṁ sāvake vineti
 
-## Closing Homage (English)<a id="closing-english"></a>
+<div class="english">
 
-The Lord, the Perfectly Enlightened and Blessed One &ndash;\
-I render homage to the Buddha, the Blessed One.
+> Frequently instructed his disciples in just this way
 
-The Teaching, so completely explained by him &ndash;\
-I bow to the Dhamma.
+</div>
 
-The Blessed One's disciples, who have practised well &ndash;\
-I bow to the Saṅgha.
+Evaṁ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
 
+<div class="english">
+
+> In addition he further instructed
+
+</div>
+
+Rūpaṁ aniccaṁ
+
+<div class="english">
+
+> Form is impermanent
+
+</div>
+
+Vedanā aniccā
+
+<div class="english">
+
+> Feeling is impermanent
+
+</div>
+
+Saññā aniccā
+
+<div class="english">
+
+> Perception is impermanent
+
+</div>
+
+Saṅkhārā aniccā
+
+<div class="english">
+
+> Volitional formations are impermanent
+
+</div>
+
+Viññāṇaṁ aniccaṁ
+
+<div class="english">
+
+> Consciousness is impermanent
+
+</div>
+
+Rūpaṁ anattā
+
+<div class="english">
+
+> Form is not-self
+
+</div>
+
+Vedanā anattā
+
+<div class="english">
+
+> Feeling is not-self
+
+</div>
+
+Saññā anattā
+
+<div class="english">
+
+> Perception is not-self
+
+</div>
+
+Saṅkhārā anattā
+
+<div class="english">
+
+> Volitional formations are not-self
+
+</div>
+
+Viññāṇaṁ anattā
+
+<div class="english">
+
+> Consciousness is not-self
+
+</div>
+
+Sabbe saṅkhārā aniccā
+
+<div class="english">
+
+> All conditioned things are impermanent
+
+</div>
+
+Sabbe dhammā anattā't
+
+<div class="english">
+
+> All things are not-self
+
+</div>
+
+Te mayaṁ otiṇṇāmha jātiyā jarā-maraṇena
+
+<div class="english">
+
+> All of us are affected by birth  ̓  ageing and deathi
+
+</div>
+
+Sokehi paridevehi dukkhehi domanassehi upāyāsehi
+
+<div class="english">
+
+> By sorrow lamentation pain displeasure and despair
+
+</div>
+
+Dukkhotiṇṇā dukkha-paretā
+
+<div class="english">
+
+> Affected by dukkha and afflicted by dukkha
+
+</div>
+
+Appeva nāmimassa kevalassa dukkha-kkhandhassa antakiriyā paññāyethā'ti
+
+<div class="english">
+
+> Let us all aspire to complete freedom from suffering
+
+</div>
+
+Cira-parinibbutampi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
+
+<div class="english">
+
+> Remembering the Blessed One  ̓  the Worthy One  ̓  and Perfectly Enlightened One
+> Who long ago attained Parinibbāna
+
+</div>
+
+Saddhā agārasmā anagāriyaṁ pabbajitā
+
+<div class="english">
+
+>  We have gone forth with faith
+>  From home to homelessness
+
+</div>
+
+Tasmiṁ bhagavati brahma-cariyaṁ carāma
+
+<div class="english">
+
+> And like the Blessed One  ̓  we practice the holy life
+
+</div>
+
+Bhikkhūnaṁ sikkhāsājīva-samāpannā
+
+<div class="english">
+
+> Possessing the bhikkhus’ training and way of life
+
+</div>
+
+Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
+
+<div class="english">
+
+> May this holy life  ̓  lead us to the end of this whole mass of suffering
+
+</div>
+
+## Closing Homage<a id="closing"></a>
+
+[Arahaṁ] sammāsambuddho bhagavā
+
+<div class="english">
+
+> The Worthy One the Perfectly Enlightened and Blessed One
+
+</div>
+
+Buddhaṁ bhagavantaṁ abhivādemi
+
+<div class="english">
+
+> I render homage to the Buddha the Blessed One (Bow)
+
+</div>
+
+[Svākkhāto] bhagavatā dhammo
+
+<div class="english">
+
+> The Teaching so completely explained by him
+
+</div>
+
+Dhammaṁ namassāmi
+
+<div class="english">
+
+> I bow to the Dhamma (Bow)
+
+</div>
+
+[Supaṭipanno] bhagavato sāvakasaṅgho
+
+<div class="english">
+
+> The Blessed One’s disciples who have practiced well
+
+</div>
+
+Saṅghaṁ namāmi
+
+<div class="english">
+
+> I bow to the Saṅgha (Bow)
+
+</div>

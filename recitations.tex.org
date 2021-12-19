@@ -151,7 +151,6 @@ TODO: make page number conditional for schedule
   Closing Homage (Pāli-English)\\
 
   \bigskip
-  \clearpage
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 3}}}}\\
 
@@ -163,7 +162,7 @@ TODO: make page number conditional for schedule
   Sharing of All Merits\\
   Closing Homage (Pāli-English)\\
 
-  \bigskip
+  \clearpage
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 4}}}}\\
 
@@ -176,7 +175,6 @@ TODO: make page number conditional for schedule
   Closing Homage (Pāli-English)\\
 
   \bigskip
-  \clearpage
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 5}}}}\\
 
@@ -211,7 +209,7 @@ TODO: make page number conditional for schedule
   Uddissanādhiṭṭhāna\\
   Closing Homage (Pāli-English)\\
 
-  \bigskip
+  \medskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 8}}}}\\
 
@@ -225,8 +223,7 @@ TODO: make page number conditional for schedule
   The Highest Honour and Aspirations\\
   Closing Homage (Pāli-English)\\ %& \pageref{closing-homage} \\
 
-  \bigskip
-  \clearpage
+  \medskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 9}}}}\\
 
@@ -235,7 +232,7 @@ TODO: make page number conditional for schedule
   Sharing of Merits with the Devas (Pāli)\\
   Closing Homage (Pāli)\\
 
-  \bigskip
+  \medskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 10}}}}\\
 

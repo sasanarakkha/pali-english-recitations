@@ -1,650 +1,423 @@
-# Funeral Chants
+[Namo tassa] bhagavato arahato sammā-sambuddhassa [3x]
 
-**Contents**
+Homage to the Blessed, Worthy, and Perfectly Enlightened One
 
-- [Dhamma-saṅgaṇī-mātikā](#matika)
-- [Dhammasaṅgaṇī](#dhammasangani)
-- [Vibhaṅga](#vibhanga)
-- [Dhātukathā](#dhatukatha)
-- [Puggalapaññatti](#puggalapannatti)
-- [Kathāvatthu](#kathavatthu)
-- [Yamaka](#yamaka)
-- [Paṭṭhāna-mātikā-pāṭha](#patthana)
-- [Vipassanā-bhūmi-pāṭha](#vipassana-bhumi)
-- [Paṃsukūla](#pamsukula)
+[Kusalā dhammā]
+Akusalā dhammā
+Abyākatā dhammā
 
-## Dhamma-saṅgaṇī-mātikā<a id="matika"></a>
+[Wholesome dhammas]
+Unwholesome dhammas
+Undetermined dhammas
 
-Kusalā dhammā.\
-Akusalā dhammā.\
-Abyākatā dhammā.
+Sukhāya vedanāya sampayuttā dhammā
+Dukkhāya vedanāya sampayuttā dhammā
+Adukkhamasukhāya vedanāya sampayuttā dhammā
 
-<div class="english">
+Dhammas associated with pleasant feeling
+Dhammas associated with painful feeling
+Dhammas associated with neither-painful-nor-pleasant
 
-> Skillful phenomena,\
-> unskillful phenomena,\
-> undeclared phenomena.
+Vipākā dhammā
+Vipāka-dhamma-dhammā
+N’eva vipāka na vipāka-dhamma-dhammā
 
-</div>
+Consequential dhamma
+Subject to consequential dhamma
+Neither consequential nor subject to consequential dhamma
 
-Sukhāya vedanāya sampayuttā dhammā.\
-Dukkhāya vedanāya sampayuttā dhammā.\
-Adukkhamasukhāya vedanāya sampayuttā dhammā.
+Upādinn’upādāniyā dhammā
+Anupādinn’upādāniyā dhammā
+Anupādinnānupādāniyā dhammā
 
-<div class="english">
+Clung dhammas which can be clung to
+Unclung dhammas which can be clung to
+Unclung dhammas which cannot be clung to
 
-> Phenomena conjoined with pleasant feeling,\
-> phenomena conjoined with painful feeling,\
-> phenomena conjoined with neither-painful-nor-pleasant feeling.
+Saṅkiliṭṭha-saṅkilesikā dhammā
+Asaṅkiliṭṭha-saṅkilesikā dhammā
+Asaṅkiliṭṭhāsaṅkilesikā dhammā
 
-</div>
+Dhammas defiled and subject to defilements
+Dhammas undefiled but subject to defilements
+Dhammas neither defiled nor subject to defilements
 
-Vipākā dhammā.\
-Vipāka-dhamma-dhammā.\
-N'eva vipāka na vipāka-dhamma-dhammā.
+Savitakka-savicārā dhammā
+Avitakka-vicāra-mattā dhammā
+Avitakkāvicārā dhammā
 
-<div class="english">
+Dhammas with thought and examination
+Dhammas without thought but with examination
+Dhammas with neither thought nor examination
 
-> Phenomena that are kammic results,\
-> phenomena that have kammic results,\
-> phenomena that neither are nor have kammic results.
+Pīti-saha-gatā dhammā
+Sukha-saha-gatā dhammā
+Upekkhā-saha-gatā dhammā
 
-</div>
+Dhammas accompanied by rapture
+Dhammas accompanied by pleasure
+Dhammas accompanied by equanimity
 
-Upādinn'upādāniyā dhammā.\
-Anupādinn'upādāniyā dhammā.\
-Anupādinnānupādāniyā dhammā.
+Dassanena pahātabbā dhammā
+Bhāvanāya pahātabbā dhammā
+N’eva dassanena na bhāvanāya pahātabbā dhammā
 
-<div class="english">
+Dhammas abandoned by seeing
+Dhammas abandoned by development
+Dhammas abandoned by neither seeing nor development
 
-> Clung-to clingable phenomena,\
-> unclung-to clingable phenomena,\
-> unclung-to unclingable phenomena.
+Dassanena pahātabba-hetukā dhammā
+Bhāvanāya pahātabba-hetukā dhammā
+N’eva dassanena na bhāvanāya pahātabba-hetukā dhammā
 
-</div>
+Conditioned dhammas abandoned by seeing
+Conditioned dhammas abandoned by development
+Conditioned dhammas abandoned by neither seeing nor development
 
-Saṅkiliṭṭha-saṅkilesikā dhammā.\
-Asaṅkiliṭṭha-saṅkilesikā dhammā.\
-Asaṅkiliṭṭhāsaṅkilesikā dhammā.
+Ācaya-gāmino dhammā
+Apacaya-gāmino dhammā
+N’ev’ācaya-gāmino nāpacaya-gāmino dhammā
 
-<div class="english">
+Dhammas leading to building up
+Dhamma leading to dismantling
+Dhammas leading to neither building up nor dismantling
 
-> Defiled defiling phenomena,\
-> undefiled defiling phenomena,\
-> undefiled undefiling phenomena.
+Sekkhā dhammā
+Asekkhā dhammā
+N’eva sekkhā nāsekkhā dhammā
 
-</div>
+Dhammas of one in training
+Dhammas of one beyond training
+Dhammas of neither one in training nor one beyond training
 
-Savitakka-savicārā dhammā.\
-Avitakka-vicāra-mattā dhammā.\
-Avitakkāvicārā dhammā.
+Parittā dhammā
+Mahaggatā dhammā
+Appamāṇā dhammā
 
-<div class="english">
+Limited dhammas
+Exhalted dhammas
+Immeasurable dhammas
 
-> Phenomena accompanied by directed thought and evaluation,\
-> phenomena unaccompanied by directed thought but with a modicum of evaluation,\
-> phenomena unaccompanied by directed thought or evaluation.
-
-</div>
-
-Pīti-saha-gatā dhammā.\
-Sukha-saha-gatā dhammā.\
-Upekkhā-saha-gatā dhammā.
-
-<div class="english">
-
-> Phenomena accompanied with rapture,\
-> phenomena accompanied with pleasure,\
-> phenomena accompanied with equanimity.
-
-</div>
-
-Dassanena pahātabbā dhammā.\
-Bhāvanāya pahātabbā dhammā.\
-N'eva dassanena na bhāvanāya pahātabbā dhammā.
-
-<div class="english">
-
-> Phenomena to be abandoned through seeing,\
-> phenomena to be abandoned through developing,\
-> phenomena to be abandoned neither through seeing nor through developing.
-
-</div>
-
-Dassanena pahātabba-hetukā dhammā.\
-Bhāvanāya pahātabba-hetukā dhammā.\
-N'eva dassanena na bhāvanāya pahātabba-hetukā dhammā.
-
-<div class="english">
-
-> Phenomena connected to a cause that is to be abandoned through seeing,\
-> phenomena connected to a cause that is to be abandoned through developing,\
-> phenomena connected to a cause that is to be abandoned neither through seeing
-> nor through developing.
-
-</div>
-
-Ācaya-gāmino dhammā.\
-Apacaya-gāmino dhammā.\
-N'ev'ācaya-gāmino nāpacaya-gāmino dhammā.
-
-<div class="english">
-
-> Phenomena leading to accumulation,\
-> phenomena leading to diminution,\
-> phenomena leading neither to accumulation nor to diminution.
-
-</div>
-
-Sekkhā dhammā.\
-Asekkhā dhammā.\
-N'eva sekkhā nāsekkhā dhammā.
-
-<div class="english">
-
-> Phenomena of one in training,\
-> phenomena of one beyond training,\
-> phenomena neither of one in training nor of one beyond training.
-
-</div>
-
-Parittā dhammā.\
-Mahaggatā dhammā.\
-Appamāṇā dhammā.
-
-<div class="english">
-
-> Limited phenomena,\
-> expanded phenomena,\
-> immeasurable phenomena.
-
-</div>
-
-Paritt'ārammaṇā dhammā.\
-Mahaggat'ārammaṇā dhammā.\
-Appamāṇ'ārammaṇā dhammā.
-
-<div class="english">
-
-> Limited mind-object phenomena,\
-> expanded mind-object phenomena,\
-> immeasurable mind-object phenomena.
-
-</div>
-
-Hīnā dhammā.\
-Majjhimā dhammā.\
-Paṇītā dhammā.
-
-<div class="english">
-
-> Lowly phenomena,\
-> middling phenomena,\
-> exquisite phenomena.
-
-</div>
-
-Micchatta-niyatā dhammā.\
-Sammatta-niyatā dhammā.\
-Aniyatā dhammā.
-
-<div class="english">
-
-> Phenomena of certain wrongness,\
-> phenomena of certain rightness,\
-> uncertain phenomena.
-
-</div>
-
-Magg'ārammaṇā dhammā.\
-Magga-hetukā dhammā.\
-Maggādhipatino dhammā.
-
-<div class="english">
-
-> Path mind-object phenomena,\
-> path-causing phenomena,\
-> path-dominant phenomena.
-
-</div>
-
-Uppannā dhammā.\
-Anuppannā dhammā.\
-Uppādino dhammā.
-
-<div class="english">
-
-> Arisen phenomena,\
-> unarisen phenomena,\
-> phenomena bound to arise.
-
-</div>
-
-Atītā dhammā.\
-Anāgatā dhammā.\
-Paccuppannā dhammā.
-
-<div class="english">
-
-> Past phenomena,\
-> future phenomena,\
-> present phenomena.
-
-</div>
-
-Atīt'ārammaṇā dhammā.\
-Anāgat'ārammaṇā dhammā.\
-Paccuppann'ārammaṇā dhammā.
-
-<div class="english">
-
-> Past mind-object phenomena,\
-> future mind-object phenomena,\
-> present mind-object phenomena.
-
-</div>
-
-Ajjhattā dhammā.\
-Bahiddhā dhammā.\
-Ajjhatta-bahiddhā dhammā.
-
-<div class="english">
-
-> Internal phenomena,\
-> external phenomena,\
-> internal-and-external phenomena.
-
-</div>
-
-Ajjhatt'ārammaṇā dhammā.\
-Bahiddh'ārammaṇā dhammā.\
-Ajjhatta-bahiddh'ārammaṇā dhammā.
-
-<div class="english">
-
-> Internal mind-object phenomena,\
-> external mind-object phenomena,\
-> internal-and-external mind-object phenomena.
-
-</div>
-
-Sanidassana-sappaṭighā dhammā.\
-Anidassana-sappaṭighā dhammā.\
-Anidassanāppaṭighā dhammā.
-
-<div class="english">
-
-> Phenomena with surface and offering resistance,\
-> phenomena without surface but offering resistance,\
-> phenomena without surface offering no resistance.
-
-</div>
-
-*Dhammasaṅganī 1f*
-
-## Dhammasaṅgaṇī<a id="dhammasangani"></a>
-
-Kusalā dhammā, akusalā dhammā, abyākatā dhammā.
-
-Katame dhammā kusalā.
-
-Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti, somanassa-sahagataṃ
-ñāṇa-sampayuttaṃ, rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā
-rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā, yaṃ yaṃ vā panārabbha,
-tasmiṃ samaye phasso hoti, avikkhepo hoti, ye vā pana tasmiṃ samaye aññe pi atthi paṭicca-samuppannā arūpino dhammā, ime dhammā kusalā.
-
-*Dhammasaṅganī 56*
-
-## Vibhaṅga<a id="vibhanga"></a>
-
-Pañcakkhandhā rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho,
+Paritt’ārammaṇā dhammā
+Mahaggat’ārammaṇā dhammā
+Appamāṇ’ārammaṇā dhammā
+
+Dhammas from limited sense-obejcts
+Dhammas from exhalted sense-objects
+Dhammas from immeasurable sense-objects
+
+Hīnā dhammā
+Majjhimā dhammā
+Paṇītā dhammā
+
+Inferior dhammas
+Moderate dhammas
+Superior dhammas
+
+Micchatta-niyatā dhammā
+Sammatta-niyatā dhammā
+Aniyatā dhammā
+
+Certain wrong dhammas
+Certain correct dhammas
+Uncertain dhammas
+
+Magg’ārammaṇā dhammā
+Magga-hetukā dhammā
+Maggādhipatino dhammā
+
+Dhammas with the path as object
+Dhammas with the path as cause
+Dhammas with the path as predominant factor
+
+Uppannā dhammā
+Anuppannā dhammā
+Uppādino dhammā
+
+Arisen dhammas
+Unarisen dhammas
+Bound to arise dhammas
+
+Atītā dhammā
+Anāgatā dhammā
+Paccuppannā dhammā
+
+Past dhammas
+Future dhammas
+Present dhammas
+
+Atīt’ārammaṇā dhammā
+Anāgat’ārammaṇā dhammā
+Paccuppann’ārammaṇā dhammā
+
+Dhammas with past sense-objects
+Dhammas with future sense-objects
+Dhammas with present sense-objects
+
+Ajjhattā dhammā
+Bahiddhā dhammā
+Ajjhatta-bahiddhā dhammā
+
+Internal dhammas
+External dhammas
+Internal and external dhamams
+
+Ajjhatt’ārammaṇā dhammā
+Bahiddh’ārammaṇā dhammā
+Ajjhatta-bahiddh’ārammaṇā dhammā
+
+Dhammas with internal sense-objects
+Dhammas with external sense-objects
+Dhammas with internal and external sense-objects
+
+Sanidassana-sappaṭighā dhammā
+Anidassana-sappaṭighā dhammā
+Anidassanāppaṭighā dhammā
+
+Visible and reactive dhammas
+Non-visible and reactive dhammas
+Non-visible and unobstructive dhammas
+
+suttaRef{[Dhs 1]}
+
+[Pañcakkhandhā]:
+Rūpakkhandho, vedanākkhandho,
+saññākkhandho, saṅkhārakkhandho,
 viññāṇakkhandho.
 
-Tattha katamo rūpakkhandho.
+[The five aggregates]: The aggregate of form, the aggregateof feeling, the aggregate of perception, the aggregate of volitional formations, the aggregate of consciousness.
 
-Yaṃ kiñci rūpaṃ atītānāgata-paccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā
-sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, tad ekajjhaṃ
-abhisaññūhitvā abhisaṅkhipitvā, ayaṃ vuccati rūpakkhandho.
+suttaRef{[MN 109]}
 
-*Vibhaṅga 1*
+Dvā-das’āyatanāni:
+Cakkhv-āyatanaṁ rūp’āyatanaṁ,
+Sot’āyatanaṁ sadd’āyatanaṁ,
+Ghān’āyatanaṁ gandh’āyatanaṁ,
+Jivh’āyatanaṁ ras’āyatanaṁ,
+Kāy’āyatanaṁ phoṭṭhabb’āyatanaṁ,
+Man’āyatanaṁ dhamm’āyatanaṁ
 
-## Dhātukathā<a id="dhatukatha"></a>
+The eye-base, the form base
+The ear-base, the sound-base
+The nose-base, the odour-base
+The tongue-base, the flavour-base
+The body-base, the tangible-base
+The mind-base, the mind-object base.
 
-Saṅgaho asaṅgaho,\
-saṅgahitena asaṅgahitaṃ,\
-asaṅgahitena saṅgahitaṃ,\
-saṅgahitena saṅgahitaṃ,\
-asaṅgahitena asaṅgahitaṃ,\
-sampayogo vippayogo,\
-sampayuttena vippayuttaṃ,\
-vippayuttena sampayuttaṃ,\
-asaṅgahitaṃ.
+suttaRef{[MN 148]}
 
-*Dhātukathā 1*
+Aṭṭhārasa dhātuyo:
+Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu,
+Sota-dhātu sadda-dhātu sota-viññāṇa-dhātu,
+Ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu,
+Jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu,
+Kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu,
+Mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
 
-## Puggalapaññatti<a id="puggalapannatti"></a>
+Eighteen elements: The eye element, the form element, the eye-consciousness
+element;
+The ear element, the sound element, the ear-consciousness element;
+The nose element, the odour element, the nose-consciousness element;
+The tongue element, the flavour element, the tongue-consciousness element;
+The body element, the tangible element, the body-consciousness element;
+The mind element, the mind-object element, the mind-consciousness element.
 
-Cha paññattiyo khandhapaññatti, āyatanapaññatti, dhātupaññatti, saccapaññatti,
-indriyapaññatti, puggalapaññattī'ti.
+suttaRef{[MN 115]}
 
-Kittāvatā puggalānaṃ puggalapaññatti.
+Bā-vīsat’indriyāni:i
+Cakkhu’ndriyaṁ sot’indriyaṁ ghān’indriyaṁ
+jivh’indriyaṁ kāy’indriyaṁ man’indriyaṁ,
+itth’indriyaṁ puris’indriyaṁ jīvit’indriyaṁ,
+sukh’indriyaṁ dukkh’indriyaṁ
+somanass’indriyaṁ domanass’indriyaṁ upekkh’indriyaṁ,
+saddh’indriyaṁ viriy’indriyaṁ sat’indriyaṁ
+samādh’indriyaṁ paññ’indriyaṁ,
+anaññātañ-ñassāmīt’indriyaṁ aññ’indriyaṁ aññātāv’indriyaṁ.
 
-Samayavimutto, asamayavimutto,\
-kuppadhammo, akuppadhammo,\
-parihānadhammo, aparihānadhammo,\
-cetanābhabbo, anurakkhaṇābhabbo,\
-puthujjano, gotrabhū,\
-bhayūparato, abhayūparato,\
-bhabbāgamano, abhabbāgamano,\
-niyato, aniyato,\
-paṭipannako, phaleṭhito,\
-arahā, arahattāya paṭipanno.
+Twenty-two faculties: The eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mind faculty, faculty of feminity, faculty of masculinity, life faculty, pleasure faculty, pain faculty, happiness faculty, displeasure faculty, equanimity faculty, conviction faculty, energy faculty, mindfulness faculty, concentration faculty, wisdom faculty, the ‘I am knowing the unknown’ faculty, knowledge faculty, the faculty of one with complete knowledge.
 
-*Puggalapaññatti 1*
+suttaRef{[Vibh]}
 
-## Kathāvatthu<a id="kathavatthu"></a>
+Cattāri ariya-saccāni:
+Dukkhaṁ ariya-saccaṁ,
+Dukkha-samudayo ariya-saccaṁ,
+Dukkha-nirodho ariya-saccaṁ,
+Dukkha-nirodha-gāminī paṭipadā ariya-saccaṁ.
 
-Puggalo upalabbhati saccikaṭṭha-paramatthenā'ti.
+The four noble truths:
+The noble truth of dukkha
+The noble truth of the origin of dukkha
+The noble truth of the cessation of dukkha
+The noble truth of the way leading to the cessation of dukkhā
 
-Āmantā.
+suttaRef{[SN 56.24]}
 
-Yo saccikaṭṭho paramattho, tato so puggalo upalabbhati
-saccikaṭṭha-paramatthenā'ti.
-
-Na h’evaṃ vattabbe.
-
-Ājānāhi niggahaṃ. Hañci puggalo upalabbhati
-saccikaṭṭha-paramatthena, tena vata re vattabbe.
-
-Yo saccikaṭṭho paramattho, tato so puggalo upalabbhati
-saccikaṭṭha-paramatthenā'ti micchā.
-
-*Kathāvatthu 1*
-
-## Yamaka<a id="yamaka"></a>
-
-Ye keci kusalā dhammā, sabbe te kusalamūlā.\
-Ye vā pana kusalamūlā, sabbe te dhammā kusalā.\
-Ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlā.\
-Ye vā pana kusalamūlena ekamūlā, sabbe te dhammā kusalā.
-
-*Yamaka 1*
-
-## Paṭṭhāna-mātikā-pāṭha<a id="patthana"></a>
-
-Hetu-paccayo, ārammaṇa-paccayo,\
-adhipati-paccayo, anantara-paccayo,\
-samanantara-paccayo, saha-jāta-paccayo,
-
-<div class="english">
-
-> Root-cause condition, support condition,\
-> dominant condition, immediate condition,\
-> quite-immediate condition, born-simultaneously condition,
-
-</div>
-
-aññam-añña-paccayo, nissaya-paccayo,\
-upanissaya-paccayo, pure-jāta-paccayo,\
-pacchā-jāta-paccayo, āsevana-paccayo,
-
-<div class="english">
-
-> reciprocal condition, dependence condition,\
-> immediate-dependence condition, born-before condition,\
-> born-after condition, habit condition,
-
-</div>
-
-kamma-paccayo, vipāka-paccayo,\
-āhāra-paccayo, indriya-paccayo,\
-jhāna-paccayo, magga-paccayo,
-
-<div class="english">
-
-> action condition, result condition,\
-> nutriment condition, faculty condition,\
-> jhāna condition, path condition,
-
-</div>
-
-sampayutta-paccayo, vippayutta-paccayo,\
-atthi-paccayo, n'atthi-paccayo,\
-vigata-paccayo, avigata-paccayo.
-
-<div class="english">
-
-> conjoined-with condition, disjoined-from condition,\
-> condition when existing, condition when not existing,\
-> condition when without, condition when not without.
-
-</div>
-
-*Tika Paṭṭhāna 1*
-
-## Vipassanā-bhūmi-pāṭha<a id="vipassana-bhumi"></a>
-
-Pañcakkhandhā:\
-Rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho.
-
-<div class="english">
-
-> The five groups:\
-> The form group, the feeling group, the perception group, the fabrications
-> group, the consciousness group.
-
-</div>
-
-Dvā-das'āyatanāni:\
-Cakkhv-āyatanaṃ rūp'āyatanaṃ,\
-Sot'āyatanaṃ sadd'āyatanaṃ,\
-Ghān'āyatanaṃ gandh'āyatanaṃ,\
-Jivh'āyatanaṃ ras'āyatanaṃ\
-Kāy'āyatanaṃ phoṭṭhabb'āyatanaṃ\
-Man'āyatanaṃ dhamm'āyatanaṃ.
-
-<div class="english">
-
-> The twelve spheres:\
-> The eye-sphere, the form-sphere;\
-> the ear-sphere, the sound-sphere;\
-> the nose-sphere, the smell-sphere;\
-> the tongue-sphere, the taste-sphere;\
-> the body-sphere, the touch-sphere;\
-> the intellect-sphere, the ideas-sphere.
-
-</div>
-
-Aṭṭhārasa dhātuyo:\
-Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu,\
-Sota-dhātu sadda-dhātu sota-viññāṇa-dhātu,\
-Ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu,\
-Jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu,\
-Kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu,\
-Mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu.
-
-<div class="english">
-
-> The eighteen elements:\
-> The eye-element, form-element, eye-consciousness-element;\
-> the ear-element, sound-element, ear-consciousness-element;\
-> the nose-element, smell-element, nose-consciousness-element;\
-> the tongue-element, taste-element, tongue-consciousness-element;\
-> the body-element, touch-element, body-consciousness-element;\
-> the intellect-element, ideas-element, intellect-consciousness-element.
-
-</div>
-
-Bā-vīsat'indriyāni:\
-Cakkhu'ndriyaṃ sot'indriyaṃ ghān'indriyaṃ,\
-jivh'indriyaṃ kāy'indriyaṃ man'indriyaṃ,\
-Itth'indriyaṃ puris'indriyaṃ jīvit'indriyaṃ,\
-Sukh'indriyaṃ dukkh'indriyaṃ,\
-somanass'indriyaṃ domanass'indriyaṃ upekkh'indriyaṃ,\
-saddh'indriyaṃ viriy'indriyaṃ sat'indriyaṃ\
-samādh'indriyaṃ paññ'indriyaṃ,\
-Anaññātañ-ñassāmī-t'indriyaṃ aññ'indriyaṃ\
-aññātāv'indriyaṃ.
-
-<div class="english">
-
-> The twenty two facuties:\
-> The eye-faculty, ear-faculty, nose-faculty,\
-> tongue-faculty, body-faculty, intellect-faculty.\
-> Feminine-faculty, masculine-faculty, life-faculty.\
-> Bodily-pleasure-faculty, bodily-pain-faculty,\
-> mental-pleasure-facutly, mental-pain-faculty, equanimity-faculty.\
-> Faith-faculty, energy-faculty, mindfulness-faculty,\
-> concentration-faculty, wisdom-faculty.\
-> I am knowing the unknown-faculty, knowing-faculty,\
-> one who has fully known-faculty.
-
-</div>
-
-Cattāri ariya-saccāni:\
-Dukkhaṃ ariya-saccaṃ,\
-Dukkha-samudayo ariya-saccaṃ,\
-Dukkha-nirodho ariya-saccaṃ,\
-Dukkha-nirodha-gāminī paṭipadā ariya-saccaṃ.
-
-<div class="english">
-
-> The Four Noble Truths:\
-> The noble truth of suffering,\
-> the noble truth of the cause of suffering,\
-> the noble truth of the cessation of suffering,\
-> the noble truth of the way of practice leading to the cessation of suffering.
-
-</div>
-
-Avijjā-paccayā saṅkhārā,\
-Saṅkhāra-paccayā viññāṇaṃ,\
-Viññāṇa-paccayā nāma-rūpaṃ,\
-Nāma-rūpa-paccayā saḷ-āyatanaṃ,\
-Saḷ-āyatana-paccayā phasso,\
-Phassa-paccayā vedanā,\
-Vedanā-paccayā taṇhā,\
-Taṇhā-paccayā upādānaṃ,\
-Upādāna-paccayā bhavo,\
-Bhava-paccayā jāti,\
-Jāti-paccayā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā sambhavanti.\
+Avijjā-paccayā saṅkhārā,
+Saṅkhāra-paccayā viññāṇaṁ,
+Viññāṇa-paccayā nāma-rūpaṁ,
+Nāma-rūpa-paccayā saḷāyatanaṁ,
+Saḷāyatana-paccayā phasso,
+Phassa-paccayā vedanā,
+Vedanā-paccayā taṇhā,
+Taṇhā-paccayā upādānaṁ,
+Upādāna-paccayā bhavo,
+Bhava-paccayā jāti,
+Jāti-paccayā jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā sambhavanti.
 Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti.
 
-<div class="english">
-
-> With ignorance as a condition there are fabrications.\
-> With fabrications as a condition there is consciousness.\
-> With consciousness as a condition there are name-and-form.\
-> With name-and-form as a condition there are the six sense media.\
-> With the six sense media as a condition there is contact.\
-> With contact as a condition there is feeling.\
-> With feeling as a condition there is craving.\
-> With craving as a condition there is clinging.\
-> With clinging as a condition there is becoming.\
-> With becoming as a condition there is birth.\
-> With birth as a condition, aging and death, sorrow, lamentation, pain,\
-> distress and despair are originated.
-
-</div>
-
-Avijjāya tv-eva asesa-virāga-nirodhā saṅkhāra-nirodho,\
-Saṅkhāra-nirodhā viññāṇa-nirodho,\
-Viññāṇa-nirodhā nāma-rūpa-nirodho,\
-Nāma-rūpa-nirodhā saḷ-āyatana-nirodho,\
-Saḷ-āyatana-nirodhā phassa-nirodho,\
-Phassa-nirodhā vedanā-nirodho,\
-Vedanā-nirodhā taṇhā-nirodho,\
-Taṇhā-nirodhā upādāna-nirodho,\
-Upādāna-nirodhā bhava-nirodho,\
-Bhava-nirodhā jāti-nirodho,\
-Jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.\
+Avijjāya tv-eva asesa-virāga-nirodhā, saṅkhāra-nirodho,
+Saṅkhāra-nirodhā, viññāṇa-nirodho,
+Viññāṇa-nirodhā, nāma-rūpa-nirodho,
+Nāma-rūpa-nirodhā, saḷāyatana-nirodho,
+Saḷāyatana-nirodhā, phassa-nirodho,
+Phassa-nirodhā, vedanā-nirodho,
+Vedanā-nirodhā, taṇhā-nirodho,
+Taṇhā-nirodhā, upādāna-nirodho,
+Upādāna-nirodhā, bhava-nirodho,
+Bhava-nirodhā, jāti-nirodho,
+Jāti-nirodhā, jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā nirujjhanti.
 Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti.
 
-<div class="english">
+With ignorance as condition, volitional formations;
+With volitional formations as condition, consciousness;
+With consciousness as condition, name-and-form;
+With name-and-form as condition, the six sense bases;
+With the six sense bases as condition, contact;
+With contact as condition, feeling;
+With feeling as condition, craving;
+With craving as condition, clinging;
+With clinging as condition, existence;
+With existence as condition, birth;
+With birth as condition, ageing-and-death, sorrow, lamentation, pain, displeasure, and despair come to be.
+Such is the origin of this whole mass of suffering.
 
-> From the remainderless fading and cessation of that very ignorance there is the cessation of fabrications.\
-> From the cessation of fabrications there is the cessation of consciousness.\
-> From the cessation of consciousness there is the cessation of name-and-form.\
-> From the cessation of name-and-form there is the cessation of the six sense media.\
-> From the cessation of the six sense media there is the cessation of contact.\
-> From the cessation of contact there is the cessation of feeling.\
-> From the cessation of feeling there is the cessation of craving.\
-> From the cessation of craving there is the cessation of clinging.\
-> From the cessation of clinging there is the cessation of becoming.\
-> From the cessation of becoming there is the cessation of birth.\
-> From the cessation of birth, then aging and death, sorrow, lamentation, pain, distress and despair all cease.
->
-> Thus is the cessation of this entire mass of suffering and stress.
+But with the remainderless fading away and cessation of ignorance comes cessation of volitional formations;
+With the cessation of volitional formations, cessation of consciousness;
+With the cessation of consciousness, cessation of name-and-form;
+With the cessation of name-and-form, cessation of the six sense bases;
+With the cessation of the six sense bases, cessation of contact;
+With the cessation of contact, cessation of feeling;
+With the cessation of feeling, cessation of craving;
+With the cessation of craving, cessation of clinging;
+With the cessation of clinging, cessation of existence;
+With the cessation of existence, cessation of birth;
+With the cessation of birth, ageing-and-death, sorrow, lamentation, pain, displeasure, and despair cease.
+Such is the cessation of this whole mass of suffering.
 
-</div>
+suttaRef{[SN 12.1]}
 
-*M.III.15f; M.III.280f; M.III.62; M.III.249f; S.II.1f*
+[Hetu-paccayo], ārammaṇa-paccayo,
+adhipati-paccayo, anantara-paccayo,
+samanantara-paccayo, saha-jāta-paccayo,
+aññam-añña-paccayo, nissaya-paccayo,
+upanissaya-paccayo, pure-jāta-paccayo,
+pacchā-jāta-paccayo, āsevana-paccayo,
+kamma-paccayo, vipāka-paccayo,
+āhāra-paccayo, indriya-paccayo,
+jhāna-paccayo, magga-paccayo,
+sampayutta-paccayo, vippayutta-paccayo,
+atthi-paccayo, n’atthi-paccayo,
+vigata-paccayo, avigata-paccayo.
 
-## Paṃsukūla<a id="pamsukula"></a>
+[Root condition], sense-object condition,
+predominant condition, immediate condition,
+directly immediate condition, coexistent condition,
+reciprocity condition, dependence condition,
+sufficing condition, pre-existent condition,
+post-existent condition, repetition condition,
+action condition, result condition,
+nutriment condition, faculty condition,
+jhāna condition, path condition,
+associated condition, separated condition,
+existence condition, non-existence condition,
+disappeared condition, non-dissappeared condition.
 
-<div class="instr">
+suttaRef{[Dhs A]}
 
-> The following verses are often repeated three times.
->
-> (For the dead)
+[Adāsi me akāsi me] – Ñāti-mittā sakhā ca me
+Petānaṁ dakkhiṇaṁ dajjā – Pubbe katam-anussaraṁ
 
-</div>
+“He gave to me [gifts], he did [things] for me.
+They're my relatives, friends and pals.”
+To the deceased one should give offerings,
+Remembering what was done before.
 
-Aniccā vata saṅkhārā\
-Uppāda-vaya-dhammino\
-Uppajjitvā nirujjhanti\
-Tesaṃ vūpasamo sukho.
+Na hi ruṇṇaṁ vā soko vā – Yā v’aññā paridevanā
+Na taṁ petānam-atthāya – Evaṁ tiṭṭhanti ñātayo
 
-Sabbe sattā maranti ca\
-Mariṃsu ca marissare\
-Tath'evāhaṃ marissāmi\
-N'atthi me ettha saṃsayo.
+For neither weeping nor sorrow,
+Nor any form of lamentation
+Benefits the departed ones.
+Such is how the relatives remain.
 
-<div class="english">
+Ayañ-ca kho dakkhinā dinnā – Saṅghamhi supatiṭṭhitā
+Dīgharattaṁ hitāy’assa – Ṭhānaso upakappati
 
-> How inconstant are fabrications!\
-> Their nature: to arise and pass away.\
-> They disband as they are arising.\
-> Their total stilling is bliss.
+And this offering that has been given
+And firmly established in the Saṅgha,
+Would be for their long-term welfare
+And arrives there immediately.
 
-> All living beings are dying,\
-> have dies, and will die.\
-> In the same way, I will die:\
-> I have no doubt about this.
+So ñāti-dhammo ca ayaṁ nidassito – Petāna’pūjā ca katā uḷārā
+Balañ-ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan’ti
 
-</div>
+And the duty of relatives has been shown,
+And lofty honouring of the departed done;
+Strength has also been given to the bhikkhus,
+And much merit accumulated by you all.
 
-*D.II.157; S.I.6*
+suttaRef{[Khp 7]}
 
-Addhuvaṃ jīvitaṃ\
-Dhuvaṃ maraṇaṃ\
-Avassaṃ mayā maritabbaṃ\
-Maraṇapariyosānaṃ me jīvitaṃ\
-Jīvitaṃ me aniyataṃ\
-Maraṇaṃ me niyataṃ.
+[Aniccā vata saṅkhārā] – Uppāda-vaya-dhammino
+Uppajjitvā nirujjhanti – Tesaṁ vūpasamo sukho [3x]
 
-*DhpA.III.170*
+[Indeed, conditioned things cannot last]
+Their nature is to rise and cease; i
+Having arisen things must cease;
+Their stilling is true happiness.
 
-<div class="instr">
+suttaRef{[DN 16]}
 
-> (For the living)
+[Sabbe sattā] maranti ca – Mariṁsu ca marissare
+Tath’evāhaṁ marissāmi – N’atthi me ettha saṁsayo [3x]
 
-</div>
+[All living beings] are dying,
+Have died, and will die.
+In the same way, I will die,
+I have no doubt about this.
 
-Aciraṃ vat'ayaṃ kāyo\
-Paṭhaviṃ adhisessati\
-Chuḍḍho apeta-viññāṇo\
-Niratthaṃ va kaliṅgaraṃ.
+suttaRef{[Thai]}
 
-<div class="english">
+[Aciraṁ vat’ayaṁ kāyo] – Paṭhaviṁ adhisessati
+Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ [3x]
 
-> Not long, alas &ndash; and it will lie\
-> this body here, upon the earth!\
-> Rejected, void of consciousness\
-> and useless as a rotten log.
+[All too soon, this body]
+Will lie on the ground cast off,
+Bereft of consciousness,
+Like a useless scrap of wood.
 
-</div>
+suttaRef{[Dhp 41]}
 
-*Dhp 41*
+[Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā
+Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
 
+May every blessing come to be
+And all good spirits guard you well
+Through the power of all Buddhas
+May you always be at ease
 
+Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
+Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
+
+May every blessing come to be
+And all good spirits guard you well
+Through the power of all Dhammas
+May you always be at ease
+
+Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
+Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
+
+May every blessing come to be
+And all good spirits guard you well
+Through the power of all Saṅghas
+May you always be at ease
