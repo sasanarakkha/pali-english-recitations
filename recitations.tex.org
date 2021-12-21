@@ -123,7 +123,6 @@ TODO: make page number conditional for schedule
 
 * Recitation Schedule
 #+begin_src latex :tangle ./manuscript/tex/schedule.tex
-\clearpage
 \section{Recitation Schedule}
 \label{schedule}
 
@@ -248,6 +247,7 @@ TODO: make page number conditional for schedule
 * The Purpose and Benefits of Dhamma Recitation
 #+begin_src latex :tangle ./manuscript/tex/purpose-and-benefits.tex
 \section{The Purpose and Benefits of Dhamma Recitation}
+% % TODO: remove bars here and and line break after Benefits
 \label{purpose-and-benefits}
 
 \subsection{Historical Background}
@@ -270,33 +270,39 @@ In the discourses the Buddha is often depicted taking up the topic of recitation
   “He has learned much, remembers what he has learned, and accumulates what he has learned. Those teachings that are good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, which proclaim the perfectly complete and pure spiritual life—such teachings as these he has learned much of, retained in mind, recited verbally, mentally investigated, and penetrated well by view. This is the fifth cause and condition that leads to obtaining the wisdom fundamental to the spiritual life.” (AN 8.2)\\
 \end{quote}
 
-TODO: should we use suttaRef here too?
+% TODO: should we use suttaRef here too?
 
 In our current age of easy access to Dhamma books and multimedia, it is tempting to conclude that it is now not necessary anymore to memorize large bodies of texts for the sake of transmission, and that we are blessed with being able to read any of the texts at any time, from the comfort of our kuṭis or living rooms. And blessed we are. Nonetheless, even today recitation has benefits that surpass a regular silent reading, or even reading out loud. As seen in the earlier quote from AN 8.2, the Buddha doesn’t only speak about reciting the texts verbally, but also about retaining them in mind and investigating them mentally. This is where the benefits of recitation differ considerably from a more casual reading, or even from chanting with the help of a chanting book. By means of committing a text to memory, it lives much deeper within our minds and hearts, and we can reflect on it whenever and wherever. Dhamma that has been well-memorized, is always with us. The Buddha’s teachings become accessible in the very moment we need them, without having to resort to a book or an e-reader.\\
 
 Since right view is the first of eight path factors, it is of great importance for progress on the path to keep the Buddha’s teachings in mind, so that they can shape our views and perspectives; keeping them in memory in such a way that one can recognize their relevance whenever a situation in life occurs when they naturally manifest, or when they are most necessary to intentionally recall. Recollecting the Dhamma can be a source of joy, leading to rapture, tranquility, and concentration (AN 5.26); factors that can lead to a pleasant abiding here and now. It can also help to abandon drowsiness (AN 7.61), as well as speed up recovery from illness (AN 46.16), or to achieve a stage of awakening even on the deathbed (AN 6.56). In fact, reciting the Dhamma is one of the occasions that can even bring about the attainment of final liberation (AN 5.26).\\
 
-Though the bhikkhu Phagguṇa’s mind had not yet been liberated from the five lower fetters, when he heard that discourse on the Dhamma, his mind was liberated from them… There are, Ānanda, these six benefits of listening to the Dhamma at the proper time and of examining the meaning at the proper time. What six?\\
+\begin{quote}
+  Though the bhikkhu Phagguṇa’s mind had not yet been liberated from the five lower fetters, when he heard that discourse on the Dhamma, his mind was liberated from them… There are, Ānanda, these six benefits of listening to the Dhamma at the proper time and of examining the meaning at the proper time. What six?\\
 
-…At the time of his death he does not get to see the Tathāgata or a disciple of the Tathāgata, but he ponders, examines, and mentally inspects the Dhamma as he has heard it and learned it. As he does so, his mind is liberated in the unsurpassed extinction of the acquisitions. This is the sixth benefit of examining the meaning at the proper time. (AN 6.56)\\
+  …At the time of his death he does not get to see the Tathāgata or a disciple of the Tathāgata, but he ponders, examines, and mentally inspects the Dhamma as he has heard it and learned it. As he does so, his mind is liberated in the unsurpassed extinction of the acquisitions. This is the sixth benefit of examining the meaning at the proper time. (AN 6.56)\\
 
-In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage. (AN 5.26)\\
+  In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage. (AN 5.26)\\
+\end{quote}
 
 \subsection{Benefits for Rebirth}
 
 The depth to which a mere reading of a text penetrates the mind is incomparable to the depth of penetration that can be reached by memorization. AN 4.191 depicts monks who have memorized the Dhamma, and are subsequently reborn in circumstances with little to no exposure to the Dhamma. The sutta explains that not only in the current lifetime, but also in lifetimes ahead, the Dhamma that was previously memorized will be accessible and has a chance of being re-cognized or recollected even in a future existence e.g. as a deva. With the support of sufficient samādhi, not only can the Dhamma be recollected, but even one’s past lives:\\
 
-“Bhikkhus, …there are things to be realized by memory… And what are the things to be realized by memory? One’s past abodes are to be realized by memory. “ (AN 4.189)\\
+\begin{quote}
+  “Bhikkhus, …there are things to be realized by memory… And what are the things to be realized by memory? One’s past abodes are to be realized by memory. “ (AN 4.189)\\
+\end{quote}
 
 \subsection{Benefits for Communal Life}
 
 Besides being of benefit to one’s own Dhamma practice, and the benefits during future lifetimes, reciting the Dhamma can also have a beneficial impact on communal life. Accounts of the Buddhist councils (saṅgīti; lit. recitations) show that in all these important events of Buddhist history when the extended Saṅgha family came together, the DhammaVinaya was recited together, as a means to remain aligned with the teachings and to foster harmony. Another feature of monastic communities, is the fortnightly recitation of the Pātimokkha, the rules for monks and nuns, in which even solitary forest dwellers, including Arahants, were encouraged by the Buddha to participate, as they make their way to the nearest monastery in the vicinity (Mv.II.5.5). Recitation of texts together, not only strengthens a common commitment to the DhammaVinaya, but in a more practical way, it also enables monastics to chant in sync and unison when reciting together with their spiritual companions. This not only increases clarity and understanding, but also makes for a more homogenous listening experience at a ceremony, e.g. a dāna or bereavement service conducted by monastics. Furthermore, the coming together frequently to recite the Buddha’s teachings, creates a bond among Saṅgha members and leads to their growth. This would not be so if everyone recites the Dhamma on his own.\\
 
-And what, bhikkhus, are the seven principles of non-decline? (1) “As long as the bhikkhus assemble often and hold frequent assemblies, only growth is to be expected for them, not decline. (2) “As long as the bhikkhus assemble in harmony, adjourn in harmony, and conduct the affairs of the Saṅgha in harmony, only growth is to be expected for them, not decline. (AN 7.23)\\
+\begin{quote}
+  And what, bhikkhus, are the seven principles of non-decline? (1) “As long as the bhikkhus assemble often and hold frequent assemblies, only growth is to be expected for them, not decline. (2) “As long as the bhikkhus assemble in harmony, adjourn in harmony, and conduct the affairs of the Saṅgha in harmony, only growth is to be expected for them, not decline. (AN 7.23)\\
+\end{quote}
 
 \subsection{Recitation Among Monastics}
 
-While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha’s time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that “if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation." (Cv.VIII.12.2-11)\\
+While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha’s time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that \textit{“if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation."} (Cv.VIII.12.2-11)\\
 
 BMC I mentions that the Vibhaṅga to Pācittiya 4 lists four ways in which a person might be trained to be a reciter of a text:\\
 1. The teacher and student recite in unison, i.e. beginning together and ending together.\\
@@ -312,7 +318,7 @@ The Commentary says that a learned bhikkhu must have memorized:\\
 • A discourse that is helpful as a guide for sermon-giving.\\
 • Three kinds of anumodanā (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.\\
 
-Lastly, when monastics from other sects wanted to become monks in the Buddha’s dispensation, they typically had to undergo a four-month probation period. However, “a probationer fails in his probation and is not to be accepted … if he does not have a keen desire for recitation.” (Mv.I.38.5-10)\\
+Lastly, when monastics from other sects wanted to become monks in the Buddha’s dispensation, they typically had to undergo a four-month probation period. However, \textit{“a probationer fails in his probation and is not to be accepted … if he does not have a keen desire for recitation.”} (Mv.I.38.5-10)\\
 
 Once again, we can see the immense emphasis that was placed on memorization and recitation, starting already during the Buddha’s own ministry, and having continued all the way to the 21st century, where we can still find monks who are able to memorize the entirety of the Tipiṭaka.\\
 
@@ -334,11 +340,8 @@ See chapter “Pāli Phonetics \& Pronunciation” in the Appendix\\
 
 \subsection{Sources}
 Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context, Analayo, Canadian Journal of Buddhist Studies, 2007-3\\
-
 Ancient Indian Education and Mindfulness, Anālayo, Springer Science+Business Media, 2019\\
-
 Cognitive Psychology, Hove: Psychology Press, Eysenck, M. W. et al., 1992/2005\\
-
 The Buddhist Monastic Code II, Ṭhānissaro Bhikkhu, Metta Forest Monastery, 2013
 #+end_src
 * Homage to the Triple Gem
@@ -634,10 +637,10 @@ Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 \label{homage-sangha}
 
 \begin{leader}
-  Handa mayaṁ saṅghābhitthutiṁ karomase
+  [Handa mayaṁ saṅghābhitthutiṁ karomase]
 \end{leader}
 \begin{leader}
-  Now let us recite in praise of the Saṅgha
+  [Now let us recite in praise of the Saṅgha]
 \end{leader}
 
 Yo so supaṭipanno bhagavato sāvakasaṅgho
@@ -729,7 +732,10 @@ Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
   [Now let us recite our salutation to the Triple Gem and a passage to arouse urgency]
 \end{leader}
 
-\firstline{Buddho susuddho karuṇā-mahaṇṇavo}
+% % % TODO: choose center or leader
+\begin{center}
+  [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
+\end{center}
 
 Buddho susuddho karuṇā-mahaṇṇavo
 
@@ -1696,7 +1702,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{twochants}
   Tasmā hi paññāva dhanena seyyā\\
-  Yāya vosānamidhādhigacchati|\
+  Yāya vosānamidhādhigacchati\\
   Abyositattā hi bhavābhavesu\\
   Pāpāni kammāni karoti mohā
 \end{twochants}
@@ -2880,14 +2886,14 @@ Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññeyyan’ti
 
 \begin{cprenglish}
   This Noble Truth of dukkha\pagenote{%
-    Orig: “Now this Noble Truth of dukkha”}
+    Orig: “Now this Noble Truth of dukkha”}\\
   Should be completely understood
 \end{cprenglish}
 
 Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññātan’ti
 
 \begin{cprenglish}
-  This Noble Truth of dukkha
+  This Noble Truth of dukkha\\
   Has been completely understood
 \end{cprenglish}
 
@@ -2912,14 +2918,14 @@ Vijjā udapādi\\
 Taṁ kho pan’idaṁ dukkha-samudayo ariya-saccaṁ pahātabban’ti
 
 \begin{cprenglish}
-  This origin of dukkha
+  This origin of dukkha\\
   Should be abandoned
 \end{cprenglish}
 
 Taṁ kho pan’idaṁ dukkha-samudayo ariya-saccaṁ pahīnan’ti
 
 \begin{cprenglish}
-  This origin of dukkha
+  This origin of dukkha\\
   Has been abandoned
 \end{cprenglish}
 
@@ -2944,14 +2950,14 @@ Vijjā udapādi\\
 Taṁ kho pan’idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban’ti
 
 \begin{cprenglish}
-  This cessation of dukkha
+  This cessation of dukkha\\
   Should be experienced directly
 \end{cprenglish}
 
 Taṁ kho pan’idaṁ dukkha-nirodho ariya-saccaṁ sacchikatan’ti
 
 \begin{cprenglish}
-  This cessation of dukkha
+  This cessation of dukkha\\
   Has been experienced directly
 \end{cprenglish}
 
@@ -2977,14 +2983,14 @@ Vijjā udapādi\\
 Taṁ kho pan’idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvetabban’ti
 
 \begin{cprenglish}
-  This way of practice \breathmark\ leading to the cessation of dukkha
+  This way of practice \breathmark\ leading to the cessation of dukkha\\
   Should be developed
 \end{cprenglish}
 
 Taṁ kho pan’idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvitan’ti
 
 \begin{cprenglish}
-  This way of practice \breathmark\ leading to the cessation of dukkha
+  This way of practice \breathmark\ leading to the cessation of dukkha\\
   Has been developed
 \end{cprenglish}
 
@@ -3066,10 +3072,6 @@ N’atthidāni punabbhavo’ti
 \end{cprenglish}
 
 \suttaRef{[SN 56.11]}
-
-\clearpage
-
-
 #+end_src
 ** Anupubba-sikkhā
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -3142,7 +3144,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \begin{leader}
   [Now let us recite the Gradual Training]
 \end{leader}
-
+% % % TODO: justify?
 “A householder or householder’s son \breathmark\ or one born in some other clan hears the Dhamma. On hearing the Dhamma he acquires faith in the Tathāgata. Possessing that faith he considers thus: ‘Household life is crowded and dusty \breathmark\ life gone forth is wide open. It is not easy while living at home \breathmark\ to lead the holy life utterly perfect and pure \breathmark\ as a polished shell. Suppose I shave off my hair and beard \breathmark\ put on the ochre robe \breathmark\ and go forth from home to homelessness.’ On a later occasion \breathmark\ abandoning a small or large fortune \breathmark\ abandoning a small or large circle of relatives \breathmark\ he shaves off his hair and beard \breathmark\ puts on the ochre robe \breathmark\ and goes forth from home to homelessness.”
 
 \suttaRef{[MN 27 / 38 / 51]}
@@ -4261,7 +4263,7 @@ Sukha-paṭisaṁvedī passasissāmī'ti sikkhati
   `I shall breathe out experiencing pleasure’
 \end{cprenglish}
 
-TODO: choose cprenglish or english and also find difference between quotes
+% % TODO: choose cprenglish or english and also find difference between quotes
 
 \begin{english}
   He trains thus:\\
@@ -6016,7 +6018,7 @@ Maṇḍapeyyam-idaṁ bhikkhave brahmacariyaṁ
 \begin{cprenglish}
   Bhikkhus this holy life is like a milkshake\pagenote{%
     Orig: “like the cream of the milk”; maṇḍapeyya is a Pāli idiom, meaning ‘of the best quality (lit. to be drunk like cream)’}
-  TODO: choose a final translation and alter the footnote accordingly
+  % % TODO: choose a final translation and alter the footnote accordingly
 \end{cprenglish}
 
 Satthā sammukhī-bhūto
@@ -6078,7 +6080,7 @@ Tesaṁ te kārā amhesu
   Supports for the sick and medicinal requisites\pagenote{%
     Orig: “And supports for the sick”}\\
   Given by others for our support
-  TODO: replace all „ to “
+  % % TODO: replace all „ to “
 \end{cprenglish}
 
 Mahapphalā bhavissanti mahā-nisaṁsā'ti
@@ -6919,7 +6921,7 @@ Tesaṁ vūpasamo sukho
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
 \section{Dhammacakkappavattana-sutta}
 
-TODO: Shall we seperate and center this?
+% % TODO: Shall we seperate and center this?
 [Evaṁ me sutaṁ]
 
 Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
@@ -6979,7 +6981,7 @@ Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvitanti 
 
 Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddham ahosi athāham bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
 
-Ñāṇañca pana me dassanaṁ udapādi. TODO: period missing here in original
+Ñāṇañca pana me dassanaṁ udapādi. % % TODO: period missing here in original
 
 “Akuppā me vimutti ayamantimā jāti natthidāni punabbhavo”ti.
 
@@ -7120,7 +7122,7 @@ In this way the Venerable Koṇḍañña acquired the name “Aññā Koṇḍa�
 
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: “Bhikkhavo”ti \breathmark\ “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca.
 
-TODO: endnote 114-120 note working in cardinal suttas section
+% % TODO: endnote 114-120 note working in cardinal suttas section
 
 Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ “Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī”ti.
 
@@ -7479,7 +7481,7 @@ That is what the Blessed One said. The bhikkhus were glad and they approved of h
 
 \begin{cprenglish}
   Just as rivers full of water
-  TODO: endnotes in parittas aren't working
+  % % TODO: endnotes in parittas aren't working
 \end{cprenglish}
 
 Paripūrenti sāgaraṁ
@@ -7678,7 +7680,7 @@ Sadā sotthī bhavantu te
 
 \begin{twochants}
   Icchitaṁ patthitaṁ tumhaṁ – Khippam-eva samijjhatu\\
-  TODO: indent Sabbe pūrentu saṅkappā\\
+  % % TODO: indent Sabbe pūrentu saṅkappā\\
   Cando paṇṇa-raso yathā – Maṇi joti-raso yathāi
 \end{twochants}
 
@@ -7725,7 +7727,7 @@ Sadā sotthī bhavantu te
 \label{ratanattayanubhavadi-gatha}
 
 Ratanattay'ānubhāvena – Ratanattaya-tejasā\\
-TODO: indent Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā\\
+% % TODO: indent Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā\\
 Anekā antarāyā pi – Vinassantu asesato\\
 Jaya-siddhi dhanaṁ lābhaṁ – Sotthi bhāgyaṁ sukhaṁ balaṁ\\
 Siri āyu ca vaṇṇo ca – Bhogaṁ vuḍḍhī ca yasavā\\
@@ -7817,7 +7819,7 @@ Saha sabbehi ñātibhī
 \label{culla-mangala-cakka-vala}
 
 [Sabba-buddh'ānubhāvena]\\
-TODO: indentSabba-dhamm'ānubhāvena\\
+% % TODO: indentSabba-dhamm'ānubhāvena\\
 Sabba-saṅgh'ānubhāvena\\
 Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ\\
 Tiṇṇaṁ ratanānaṁ ānubhāvena\\
@@ -8605,7 +8607,7 @@ Byārosanā paṭīgha-saññā – Nāññam-aññassa dukkham-iccheyya
 Mātā yathā niyaṁ puttaṁ – Āyusā eka-puttam-anurakkhe\\
 Evam pi sabba-bhūtesu – Mānasam-bhāvaye aparimāṇaṁ
 
-% \begin{english} TODO: something here prevents xport
+% \begin{english} % % TODO: something here prevents xport
 %   Just as a mother [her] own child,\\
 %   [Her] only child, would protect with [her] life;\\
 %   Thus also, towards all beings,\\
@@ -8962,7 +8964,7 @@ Pāpaggaho dussupinaṁ akantaṁ – Saṅghānubhāvena vināsamentu
 [Dukkhappattā] ca niddukkhā – Bhayappattā ca nibbhayā\\
 Sokappattā ca nissokā – Hontu sabbe pi pāṇino
 
-% \begin{english} TODO: something here prevents xport
+% \begin{english} % % TODO: something here prevents xport
 %   [May] sufferers be without suffering,\\
 %   The fear-struck be without fear,\\
 %   The grief-stricken be without grief\\
@@ -9731,7 +9733,7 @@ Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ \hfill{[3x]}
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \subsection{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavtu}
-TODO: change title after bhante confirm
+% % TODO: change title after bhante confirm
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā\\
 Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
 
@@ -10120,7 +10122,7 @@ Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
 Dutiyampi ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
 Tatiyampi ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
 
-TODO: indent I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.i\\
+% % TODO: indent I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.i\\
 For the second time, I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.\\
 For the third time, I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.
 #+end_src
@@ -10216,9 +10218,9 @@ Response: Sādhu, sādhu, sādhu\\
 #+begin_src latex :tangle ./manuscript/tex/phonetics-pronunciation.tex
 \chapter{Pāli Phonetics and Pronunciation}
 
-TODO: Insert graph here
+% % TODO: Insert graph here
 
-TODO: Compare to ours and decide which one.
+% % TODO: Compare to ours and decide which one.
 Pāli is the original scriptural language of Theravāda Buddhism. It was a spoken
 language, closely related to Sanskrit, with no written script of its own. As
 written forms have emerged, they have been in the letterings of other languages

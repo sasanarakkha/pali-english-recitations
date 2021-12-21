@@ -16,6 +16,7 @@
 
 <div class="english">
 
+
 >  To the Blessed One the Worthy One who fully attained Perfect Enlightenment
 
 </div>
@@ -145,6 +146,13 @@ Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 <div class="english">
 
 > Homage to the Blessed Worthy and Perfectly Enlightened One [3x]
+
+</div>
+
+
+<div class="english">
+
+>
 
 </div>
 

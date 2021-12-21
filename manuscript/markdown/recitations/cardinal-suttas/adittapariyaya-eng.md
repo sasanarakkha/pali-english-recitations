@@ -1,4 +1,4 @@
-section{The Fire Sermon}
+<!-- section{The Fire Sermon} -->
 
 [Thus have I heard] on one occasion the Blessed One was dwelling at Gayā  ̓  at Gayā’s Head  ̓  together with a thousand bhikkhus. There he addressed the bhikkhus:
 

@@ -1,4 +1,4 @@
-section{The Discourse on the Characteristic of Not-Self}
+<!-- section{The Discourse on the Characteristic of Not-Self} -->
 
 [Thus have I heard] on one occasion the Blessed One was dwelling at Benares  ̓  in the Deer Park at Isipatana. There he addressed the bhikkhus of the group of five: “Bhikkhus” – “Venerable Sir” they replied. The Blessed One said this:i
 

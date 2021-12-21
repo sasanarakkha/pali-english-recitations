@@ -234,8 +234,8 @@
 
 % toc
 
-\newcommand\tocFont\sansLightFont
-\newcommand\tocFontOldNum\sansLightFont
+\newcommand\tocFont\libertinusFont
+\newcommand\tocFontOldNum\libertinusFont
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -1472,7 +1472,7 @@ philo-sophical munindo amaravati thai-land}
     \rule{\linewidth}{0.4pt}%
     \vfill%
     %
-    \sectionFont\fontsize{11}{11}\selectfont%
+    \sectionFont\fontsize{16}{12}\selectfont%
     \color{section}%
     \mbox{%
       \textbf{\textls*{\textsc{#1}}}%
@@ -1498,7 +1498,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\subsectionFmt[1]{%
   {%
-    \subSectionFont\fontsize{12}{18}\selectfont%
+    \subSectionFont\fontsize{14}{18}\selectfont%
     \scshape\bfseries\color{section}%
     \memRTLraggedright%
     #1%
@@ -1548,6 +1548,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand*\@secSubTitle{}
 
 \newcommand\sectionPaliTitle[1]{%
+% {\fontsize{8}{8}\selectfont #1\par}
   \renewcommand*\@secSubTitle{#1}%
   \global\sectionsubtitletrue%
 }

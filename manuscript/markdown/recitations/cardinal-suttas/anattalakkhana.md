@@ -1,4 +1,4 @@
-section{Anatta-lakkhaṇa-sutta}
+<!-- section{Anatta-lakkhaṇa-sutta} -->
 
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: “Bhikkhavo”ti  ̓  “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca.
 
@@ -11,7 +11,6 @@ Vedanā anattā  ̓  vedanā ca hidaṁ bhikkhave attā abhavissa  ̓  nayidaṁ
 Yasmā ca kho bhikkhave vedanā anattā  ̓  tasmā vedanā ābādhāya saṁvattati  ̓  na ca labbhati vedanāya  ̓  “Evaṁ me vedanā hotu  ̓  evaṁ me vedanā mā ahosī”ti.
 
 Saññā anattā  ̓  saññā ca hidaṁ bhikkhave attā abhavissa  ̓  nayidaṁ saññā ābādhāya saṁvatteyya  ̓  labbhetha ca saññāya  ̓  “Evaṁ me saññā hotu  ̓  evaṁ me saññā mā ahosī”ti.
->>>>>>> main
 
 Yasmā ca kho bhikkhave saññā anattā  ̓  tasmā saññā ābādhāya saṁvattati  ̓  na ca labbhati saññāya  ̓  “Evaṁ me saññā hotu  ̓  evaṁ me saññā mā ahosī”ti.
 

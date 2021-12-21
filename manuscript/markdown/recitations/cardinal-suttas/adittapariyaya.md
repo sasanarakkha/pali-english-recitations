@@ -1,4 +1,4 @@
-section{Āditta-pariyāya-sutta}
+<!-- section{Āditta-pariyāya-sutta} -->
 
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. Tatra kho bhagavā bhikkhū āmantesi:
 

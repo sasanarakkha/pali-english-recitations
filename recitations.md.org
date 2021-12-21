@@ -98,9 +98,9 @@
   - [[#vipassanā-bhūmi-pāṭho][Vipassanā-bhūmi-pāṭho]]
   - [[#paṭṭhāna-mātikā-pāṭho][Paṭṭhāna-mātikā-pāṭho]]
   - [[#adāsi-me-ādi-gāthā][Adāsi-me ādi gāthā]]
-  - [[#paṁsu-kūla-for-the-dead][Paṁsu-kūla for the dead]]
-  - [[#paṁsu-kūla-for-the-living][Paṁsu-kūla for the living]]
-  - [[#ratanattayānubhāvādi-gāthā-1][Ratanattay’ānubhāv’ādi-gāthā]]
+  - [[#paṁsu-kūla-for-the-dead][Paṁsu-kūla for the Dead]]
+  - [[#paṁsu-kūla-for-the-living][Paṁsu-kūla for the Living]]
+  - [[#bhavatu-sabba-maṅgalaṁ-1][Bhavatu-sabba-maṅgalaṁ]]
 - [[#sharing-of-merits][Sharing of Merits]]
   - [[#contents-8][Contents]]
   - [[#sharing-and-aspirations][Sharing and Aspirations]]
@@ -119,89 +119,89 @@
 * Recitation Schedule
 #+begin_src markdown :tangle ./manuscript/markdown/schedule.md
 
-Set 1
-The Buddha’s First Exclamation
-Setting in Motion the Wheel of Dhamma
-Going to True and False Refuges
-The Four Great References
-The Pāṭimokkha Exhortation
-The Buddha's Final Instruction
-Uddissanādhiṭṭhāna
-Closing Homage (Pāli-English)
+Set 1\
+The Buddha’s First Exclamation\
+Setting in Motion the Wheel of Dhamma\
+Going to True and False Refuges\
+The Four Great References\
+The Pāṭimokkha Exhortation\
+The Buddha's Final Instruction\
+Uddissanādhiṭṭhāna\
+Closing Homage (Pāli-English)\
 
-Set 2
-The Discourse on the Characteristic of Not-Self
-The Fire Sermon
-The Gradual Training
-Sharing and Aspirations
-Closing Homage (English)
+Set 2\
+The Discourse on the Characteristic of Not-Self\
+The Fire Sermon\
+The Gradual Training\
+Sharing and Aspirations\
+Closing Homage (English)\
 
-Set 3
-The Noble Eightfold Path
-The Repulsiveness of Food
-Requisites for Awakening
-Principles of Non-Decline
-On Protection
-Sharing of All Merits
-Closing Homage (Pāli-English)
+Set 3\
+The Noble Eightfold Path\
+The Repulsiveness of Food\
+Requisites for Awakening\
+Principles of Non-Decline\
+On Protection\
+Sharing of All Merits\
+Closing Homage (Pāli-English)\
 
-Set 4
-Morning Chanting
-Universal Well-Being
-The Seven Factors of Awakening
-The Buddha’s Words on Loving-Kindness
-Sharing of Merits with the Departed (Pāli-English)
-Sharing of Merits with the Devas (Pāli)
-Closing Homage (Pāli-English)
+Set 4\
+Morning Chanting\
+Universal Well-Being\
+The Seven Factors of Awakening\
+The Buddha’s Words on Loving-Kindness\
+Sharing of Merits with the Departed (Pāli-English)\
+Sharing of Merits with the Devas (Pāli)\
+Closing Homage (Pāli-English)\
 
-Set 5
-Mindfulness of Breathing
-The Highest Blessings
-The Three Characteristics
-The Four Requisites
-Five Subjects for Frequent Recollection
-The Thirty-Two Body Parts
-Principles of Cordiality
-The Highest Honour and Aspirations
-Closing Homage (Pāli-English)
+Set 5\
+Mindfulness of Breathing\
+The Highest Blessings\
+The Three Characteristics\
+The Four Requisites\
+Five Subjects for Frequent Recollection\
+The Thirty-Two Body Parts\
+Principles of Cordiality\
+The Highest Honour and Aspirations\
+Closing Homage (Pāli-English)\
 
-Set 6
-Anatta-Lakkhaṇa Sutta
-Striving According to the Dhamma
-The Divine Abidings
-Ten Subjects for Frequent Reflection By One Gone Forth
-Sharing and Aspirations
-Closing Homage (Pāli-English)
+Set 6\
+Anatta-Lakkhaṇa Sutta\
+Striving According to the Dhamma\
+The Divine Abidings\
+Ten Subjects for Frequent Reflection By One Gone Forth\
+Sharing and Aspirations\
+Closing Homage (Pāli-English)\
 
-Set 7
-Dependent Origination
-The Dhamma in Brief
-Uddissanādhiṭṭhāna
-Closing Homage (Pāli-English)
+Set 7\
+Dependent Origination\
+The Dhamma in Brief\
+Uddissanādhiṭṭhāna\
+Closing Homage (Pāli-English)\
 
-Set 8
-Āditta-Pariyāya Sutta
-The Burdens
-Respect for the Dhamma
-A Single Excellent Night
-From the Elder Raṭṭhapāla
-From the Elder Pārāpariya
-Miscellaneous Verses
-The Highest Honour and Aspirations
-Closing Homage (Pāli-English)
+Set 8\
+Āditta-Pariyāya Sutta\
+The Burdens\
+Respect for the Dhamma\
+A Single Excellent Night\
+From the Elder Raṭṭhapāla\
+From the Elder Pārāpariya\
+Miscellaneous Verses\
+The Highest Honour and Aspirations\
+Closing Homage (Pāli-English)\
 
-Set 9
-Paritta Chants (Pāli)
-Sharing of Merits with the Departed (Pāli)
-Sharing of Merits with the Devas (Pāli)
-Closing Homage (Pāli)
+Set 9\
+Paritta Chants (Pāli)\
+Sharing of Merits with the Departed (Pāli)\
+Sharing of Merits with the Devas (Pāli)\
+Closing Homage (Pāli)\
 
-Set 10
-Funeral Chants (Pāli)
-Recollection of Impermanence
-Anumodanā Chants (Pāli)
-Just as Rivers
-Sharing of All Merits
+Set 10\
+Funeral Chants (Pāli)\
+Recollection of Impermanence\
+Anumodanā Chants (Pāli)\
+Just as Rivers\
+Sharing of All Merits\
 #+end_src
 * The Purpose and Benefits of Dhamma Recitation
 #+begin_src markdown :tangle ./manuscript/markdown/purpose-and-benefits.md
@@ -295,7 +295,7 @@ The Buddhist Monastic Code II, Ṭhānissaro Bhikkhu, Metta Forest Monastery, 20
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
 # Morning Chanting
 
-,**Contents**
+**Contents**
 
 - [Dedication of Offerings](#dedication)
 - [Preliminary Homage](#homage)
@@ -1279,7 +1279,7 @@ Saṅghaṁ namāmi
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
 # Verses
 
-,**Contents**
+**Contents**
 
 - [The Buddha's First Exclamation](#first-exclamation)
 - [Respect for the Dhamma](#respect-for-the-dhamma)
@@ -2485,13 +2485,20 @@ suttaRef{[Snp 1.8]}
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
 # Teachings
 
-,**Contents**
+**Contents**
 
-- [](#)
-
-chapterOpeningPage{teachings.pdf}
-
-chapter{Teachings}
+- [Setting in Motion the Wheel of Dhamma](#wheel-of-dhamma-abridged)
+- [Requisites for Awakening](#requisites-for-awakening)
+- [The Seven Factors of Awakening](#seven-factors-awakening)
+- [The Noble Eightfold Path](#noble-eightfold-path)
+- [Mindfulness of Breathing](#mindfulness-of-breathing)
+- [Dependent Origination](#dependent-origination)
+- [The Dhamma in Brief](#dhamma-in-brief)
+- [The Four Great References](#great-references)
+- [Principles of Cordiality](#cordiality)
+- [Principles of Non-Decline](#non-decline)
+- [Striving According to the Dhamma](#striving)
+- [The Buddha’s Final Instruction](#final-instruction)
 #+end_src
 ** Setting in Motion the Wheel of Dhamma
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
@@ -7112,10 +7119,16 @@ suttaRef{[DN 16]}
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md 
 # Reflections
 
-,**Contents**
+**Contents**
 
-- [](#)
-
+- [The Four Requisites](#)
+- [The Repulsiveness of Food](#)
+- [Universal Well-Being](#)
+- [The Divine Abidings](#)
+- [Five Subjects for Frequent Recollection](#)
+- [Ten Subjects for Frequent Reflection by One Gone Forth](#)
+- [The Thirty-Two Body Parts](#)
+- [Recollection of Impermanence](#)
 #+end_src
 ** The Four Requisites
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
@@ -7854,13 +7867,14 @@ suttaRef{[Trad]}
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/cardinal-suttas/dhammacakkappavattana.md
 # Cardinal Suttas
 
-,**Contents**
+**Contents**
 
-- [](#)
-
-chapterOpeningPage{cardinal-suttas.pdf}
-
-chapter{Cardinal Suttas}
+- [Dhammacakkappavattana Sutta](#dhammacakka)
+- [The Discourse on Setting in Motion the Wheel of Dhamma](#wheel-of-dhamma-full)
+- [Anatta-lakkhaṇa Sutta](#anatta-lakkhana)
+- [The Discourse on the Characteristic of Not-Self](#characteristic-not-self)
+- [Āditta-Pariyāya Sutta](#aditta-pariyaya)
+- [The Fire Sermon](#fire-sermon)
 #+end_src
 ** Dhammacakkappavattana Sutta
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/cardinal-suttas/dhammacakkappavattana.md
@@ -8405,13 +8419,16 @@ suttaRef{[SN 35.28]}
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/anumodana.md
 # Anomodanā
 
-,**Contents**
+**Contents**
 
-- [](#)
-
-chapterOpeningPage{anumodana.pdf}
-
-chapter{Anumodanā}
+- [Just as Rivers](#just-as-rivers)
+- [Yathā vāri-vahā pūrā](#yatha-vari)
+- [Ratanattayānubhāv’ādi-gāthā](#ratanattayanubha)
+- [Bhojana-dānānumodanā](#bhojana)
+- [Culla-maṅgala-cakka-vāḷa](#culla-mangala)
+- [Aggappasāda-sutta-gāthā](#aggappasada)
+- [Kāla-dāna-sutta-gāthā](#kala-dana)
+- [So attha-laddho](#so-attha-laddho)
 #+end_src
 
 ** Just as Rivers
@@ -8993,29 +9010,41 @@ suttaRef{[AN 3.155]}
 
 **Contents**
 
-- [](#)
-
-chapterOpeningPage{paritta.pdf}
-
-chapter{Paritta}
+- [Devā-ārādhanā](#deva-aradhana)
+- [Pubba-bhāga-nama-kāra-pāṭho](#pubba-bhaga)
+- [Saraṇa-gamana-pāṭho](#sarana-gamana)
+- [Nama-kāra-siddhi-gāthā](#nama-kara)
+- [Namo-kāra-aṭṭhaka](#namo-kara)
+- [Maṅgala-sutta](#mangala)
+- [Ratana-sutta](#ratana)
+- [Karaṇīya-metta-sutta](#karaniya)
+- [Khandha-parittaṁ](#khandha)
+- [Buddha-Dhamma-Saṅgha-guṇā](#buddha-dhamma-sangha)
+- [Yaṅ kiñci ratanaṁ loke](#yan-kinci)
+- [Bojjh’aṅga-parittaṁ](#bojjhanga)
+- [Abhaya-parittaṁ](#abhaya)
+- [Devatā-uyyojana-gāthā](#devata-uyyojana)
+- [Jaya-maṅgala-aṭṭha-gāthā](#jaya-mangala)
+- [Jaya-parittaṁ](#jaya)
+- [Bhavatu-sabba-maṅgalaṁ](#bhavatu)
 #+end_src
 
 ** Devā-ārādhanā
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/paritta.md
 subsection{Devā-ārādhanā}
 
-Pharitvāna mettaṁ samettā bhadantā
-Avikkhitta-cittā parittaṁ bhaṇantu
-Sagge kāme ca rūpe
-Giri-sikhara-taṭe c’antalikkhe vimāne
-Dīpe raṭṭhe ca gāme
-Taru-vana-gahane
-Geha-vatthumhi khette
-Bhummā c’āyantu devā
-Jala-thala-visame
-Yakkha-gandhabba-nāgā
-Tiṭṭhantā santike yaṁ
-Muni-vara-vacanaṁ
+Pharitvāna mettaṁ samettā bhadantā\
+Avikkhitta-cittā parittaṁ bhaṇantu\
+Sagge kāme ca rūpe\
+Giri-sikhara-taṭe c’antalikkhe vimāne\
+Dīpe raṭṭhe ca gāme\
+Taru-vana-gahane\
+Geha-vatthumhi khette\
+Bhummā c’āyantu devā\
+Jala-thala-visame\
+Yakkha-gandhabba-nāgā\
+Tiṭṭhantā santike yaṁ\
+Muni-vara-vacanaṁ\
 Sādhavo me suṇantu
 
 <div class="english">
@@ -10445,9 +10474,16 @@ suttaRef{[Trad]}
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/sharing-of-merits.md
 # Funeral Recitations
 
-,**Contents**
+**Contents**
 
-- [](#)
+- [Pubba-bhāga-nama-kāra-pāṭho](#pubba-bhaga)
+- [Dhamma-saṅgaṇī-mātikā](#dhamma-sangani)
+- [Vipassanā-bhūmi-pāṭho](#vipassana-bhumi)
+- [Paṭṭhāna-mātikā-pāṭho](#patthana-matika)
+- [Adāsi-me ādi gāthā](#adasi-me)
+- [Paṁsu-kūla for the Dead](#pamsu-kula-dead)
+- [Paṁsu-kūla for the Living](#pamsu-kula-living)
+- [Bhavatu-sabba-maṅgalaṁ](#bhavatu)
 
 #+end_src
 ** Pubba-bhāga-nama-kāra-pāṭho
@@ -10967,7 +11003,7 @@ Balañ-ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan�
 
 suttaRef{[Khp 7]}
 #+end_src
-** Paṁsu-kūla for the dead
+** Paṁsu-kūla for the Dead
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/funeral.md
 [Aniccā vata saṅkhārā] – Uppāda-vaya-dhammino
 Uppajjitvā nirujjhanti – Tesaṁ vūpasamo sukho [3x]
@@ -10997,7 +11033,7 @@ Tath’evāhaṁ marissāmi – N’atthi me ettha saṁsayo [3x]
 
 suttaRef{[Thai]}
 #+end_src
-** Paṁsu-kūla for the living
+** Paṁsu-kūla for the Living
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/funeral.md
 [Aciraṁ vat’ayaṁ kāyo] – Paṭhaviṁ adhisessati
 Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ [3x]
@@ -11011,7 +11047,7 @@ Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ [3x]
 
 suttaRef{[Dhp 41]}
 #+end_src
-** Ratanattay’ānubhāv’ādi-gāthā
+** Bhavatu-sabba-maṅgalaṁ
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/funeral.md
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā
 Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
@@ -11055,9 +11091,13 @@ Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/sharing-of-merits.md
 # Sharing of Merits
 
-,**Contents**
+**Contents**
 
-- [](#)
+- [Sharing and Aspirations](#sharing-aspirations)
+- [Sharing of All Merits](#sharing-all-merits)
+- [Sharing of Merits with the Departed](#merits-departed)
+- [Sharing of Merits with the Devas](#merits-devas)
+- [The Highest Honour and Aspirations](#highest-honour-aspirations)
 #+end_src
 ** Sharing and Aspirations
 
@@ -11412,16 +11452,19 @@ suttaRef{[Sri Lanka]}
 #+begin_src markdown :tangle ./manuscript/markdown/appendix.md
 # Appendix
 
-,**Contents**
+**Contents**
 
-- [](#)
-
+- [The Three Refuges & Five/Eight Trainings](#refuges-trainings)
+- [Pāli Phonetics & Pronunciation](#phonetics-pronunciation)
+- [Chanting Leader Guidelines](#guidelines)
+- [Abbreviations](#abbreviations)
+- [Endnotes](#endnotes)
 #+end_src
 
 ** The Three Refuges & Five/Eight Trainings
 *** Contents
 #+begin_src markdown :tangle ./manuscript/markdown/refuge-trainings.md
-chapter{The Three Refuges & Five/Eight Trainings}
+<!-- chapter{The Three Refuges & Five/Eight Trainings} -->
 #+end_src
 *** Requesting the Three Refuges & Five/Eight Trainings
 #+begin_src markdown :tangle ./manuscript/markdown/refuge-trainings.md
