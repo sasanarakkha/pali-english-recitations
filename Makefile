@@ -1,3 +1,4 @@
+
 FILE=main
 
 LATEX=lualatex
@@ -6,7 +7,6 @@ BIBTEX=bibtex
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error -synctex=1
 
 all: document
-
 
 dist:
 	./helpers/dist.sh

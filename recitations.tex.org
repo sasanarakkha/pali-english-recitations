@@ -6,6 +6,7 @@
 TOOO: make notes lines closer
 TODO: notes hyperlink back to location
 TODO: make page number conditional for schedule
+TODO: if possible move breathmark slightly right
 
 * Table of Contents :toc:
 - [[#recitation-schedule][Recitation Schedule]]
@@ -244,6 +245,7 @@ TODO: make page number conditional for schedule
 
 \end{center}
 #+end_src
+
 * The Purpose and Benefits of Dhamma Recitation
 #+begin_src latex :tangle ./manuscript/tex/purpose-and-benefits.tex
 \section{The Purpose and Benefits of Dhamma Recitation}
@@ -1149,10 +1151,22 @@ Dhammaṁ namassāmi
 Saṅghaṁ namāmi
 
 \begin{cprenglish}
-  I bow to the Saṅgha \hfill{(Bow)}
+  I bow to the Saṅgha \hfill{(Bow)}\\
 \end{cprenglish}
 
-\bottomNav{universal-well-being}
+\null
+\vfill
+
+\begin{minipage}[b][25pt][c]{0.8\linewidth}
+  \begin{center}
+    \textsc{Content\\
+      \rule{\linewidth}{0.8pt}
+      Set 1 \hspace{0.01cm} — \hspace{0.01cm} Set 2 \hspace{0.01cm} — \hspace{0.01cm} Set 3 \hspace{0.01cm} — \hspace{0.01cm} Set 4 \hspace{0.01cm} — \hspace{0.01cm} Set 5\\
+      Set 6 — Set 7 — Set 8 — Set 9 — Set 10}
+  \end{center}
+\end{minipage}
+
+% \bottomNav{universal-well-being}
 #+end_src
 
 * Verses
@@ -10424,52 +10438,61 @@ Thanks to all Saṅgha members who are willing to share this meaningful task amo
 #+end_src
 ** Abbreviations
 #+begin_src latex :tangle ./manuscript/tex/abbreviations.tex
-\chapter{Abbreviations}
+\section{Abbreviations}
 
-\thispagestyle{empty}
+% \thispagestyle{empty}
 
-{\subsectionFmt{Abbreviations used in the text}}
-\bigskip
+% {\subsectionFmt{Abbreviations used in the text}}
+% \bigskip
 
-{\raggedright
-  \fontsize{10}{14}\selectfont
+% {\raggedright
+% \fontsize{10}{14}\selectfont
 
-  \begin{tabular}{@{}ll@{}}
-    [...] = Only recited by the leader \\
-    \breathmark\    = Take a breath               \\
-  \end{tabular}
+\begin{center}
+\begin{tabular}{@{}lll@{}}
+  [...] & = & Only recited by the leader \\
+  \breathmark\ & = & Take a breath \\
+\end{tabular}
 
-  \begin{tabular}{@{}llll@{}}
-    Vin  & Vinaya Piṭaka       & MJG   & Mahā-jaya-maṅgala-gāthā \\
-    DN   & Dīgha Nikāya        & Thai  & Composed...             \\
-    MN   & Majjhima Nikāya     & Sri L & Composed...             \\
-    SN   & Saṁyutta Nikāya     &       & Tradtional...           \\
-    AN   & Aṅguttara Nikāya    &       &                          \\
-    Khp  & Khuddakapāṭha       &       &                 \\
-    Dhp  & Dhammapada          &       &                 \\
-    Ud   & Udāna               &       &                 \\
-    Snp  & Sutta Nipāta        &       &                 \\
-    Thag & Theragāthā          &       &                 \\
-    Ja   & Jātaka              &       &                 \\
-    Ps   & Paṭisambhidāmagga   &       &                 \\
-    Vibh & Abhidhamma Vibhaṅga &       &                 \\
-    A    & Aṭṭhakathā          &       &                 \\
-    Dhs  & Dhammasaṅganī       &       &                 \\
-    A    & Aṭṭhakathā          &       &                 \\
+% Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
+% P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
 
-  \end{tabular}
+\begin{tabular}{@{}ll@{}}
+  Vin   & Vinaya Piṭaka           \\
+  DN    & Dīgha Nikāya            \\
+  MN    & Majjhima Nikāya         \\
+  SN    & Saṁyutta Nikāya         \\
+  AN    & Aṅguttara Nikāya        \\
+  Khp   & Khuddakapāṭha           \\
+  Dhp   & Dhammapada              \\
+  Ud    & Udāna                   \\
+  Snp   & Sutta Nipāta            \\
+  Thag  & Theragāthā              \\
+  Ja    & Jātaka                  \\
+  Ps    & Paṭisambhidāmagga       \\
+  Vibh  & Abhidhamma Vibhaṅga     \\
+  A     & Aṭṭhakathā              \\
+  Dhs   & Dhammasaṅganī           \\
+  A     & Aṭṭhakathā              \\
+  A     & Aṭṭhakathā              \\
+  MJG   & Mahā-jaya-maṅgala-gāthā \\
+  Thai  & Composed...             \\
+  Sri L & Composed...             \\
+  Trad  & Tradtional...           \\
+\end{tabular}
+\end{center}
 
-  \bigskip
+% \bigskip
 
-  Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
-  P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
+% Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
+% P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
 
-  References to shorter texts consisting of verses such as the Dhammapada, Udāna,
-  Itivuttaka, Theragāthā, Therīgāthā or Sutta Nipāta are to the verse number or
-  chapter and verse number. The other longer texts are referred to by volume and
-  page number of the PTS edition.
+% References to shorter texts consisting of verses such as the Dhammapada, Udāna,
+% Itivuttaka, Theragāthā, Therīgāthā or Sutta Nipāta are to the verse number or
+% chapter and verse number. The other longer texts are referred to by volume and
+% page number of the PTS edition.
 
-}
+% }
 #+end_src
 
 ** Endnotes

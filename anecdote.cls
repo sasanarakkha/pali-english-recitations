@@ -820,13 +820,13 @@ philo-sophical munindo amaravati thai-land}
 % To distinguish it from a quote mark, we raise it higher, above the riser stems (such as d' or l').
 
 \newcommand\breathmark{%
-  \raisebox{0.25\baselineskip}{\symbol{"2019}}%
-}
+  \raisebox{-0.10\baselineskip}{\fontsize{18}{18}\bfseries\symbol{"2019}}%
+ }
 
 % A mark indicating a pause, using the middle dot (U+00B7).
 
 \newcommand\pausemark{%
-  \raisebox{-1pt}{\symbol{"00B7}}%
+  \raisebox{-1pt}{\fontsize{20}{20}\bfseries\symbol{"00B7}}%
 }
 
 % Navigation links at the bottom of the page
@@ -1466,7 +1466,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\sectionFmt[1]{%
   \centering%
-  \begin{minipage}[b][25pt][c]{0.8\linewidth}%
+  \begin{minipage}[b][25pt][c]{1.0\linewidth}%
     \centering%
     \setlength{\parskip}{0pt}%
     \rule{\linewidth}{0.4pt}%
