@@ -468,13 +468,13 @@ Saṅghaṁ namāmi
 \section{Preliminary Homage}
 \label{preliminary-homage}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase]
-\end{leader}
+\end{center}
 
-\begin{leader}
+\begin{center}
   [Now let us pay preliminary homage to the Buddha.]
-\end{leader}
+\end{center}
 
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
@@ -489,12 +489,12 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Homage to the Buddha}
 \label{homage-buddha}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ buddhābhitthutiṁ karomase]
-\end{leader}
-\begin{leader}
+\end{center}
+\begin{center}
   [Now let us recite in praise of the Buddha]
-\end{leader}
+\end{center}
 
 Yo so tathāgato arahaṁ sammāsambuddho
 
@@ -581,12 +581,12 @@ Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
 \section{Homage to the Dhamma}
 \label{homage-dhamma}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ dhammābhitthutiṁ karomase]
-\end{leader}
-\begin{leader}
+\end{center}
+\begin{center}
   [Now let us recite in praise of the Dhamma]
-\end{leader}
+\end{center}
 
 Yo so svākkhāto bhagavatā dhammo
 
@@ -636,12 +636,12 @@ Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 \section{Homage to the Saṅgha}
 \label{homage-sangha}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ saṅghābhitthutiṁ karomase]
-\end{leader}
-\begin{leader}
+\end{center}
+\begin{center}
   [Now let us recite in praise of the Saṅgha]
-\end{leader}
+\end{center}
 
 Yo so supaṭipanno bhagavato sāvakasaṅgho
 
@@ -725,12 +725,12 @@ Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
 \section{Salutation to the Triple Gem}
 \label{salutation}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
-\end{leader}
-\begin{leader}
+\end{center}
+\begin{center}
   [Now let us recite our salutation to the Triple Gem and a passage to arouse urgency]
-\end{leader}
+\end{center}
 
 % % % TODO: choose center or leader
 \begin{center}
@@ -1164,9 +1164,13 @@ Saṅghaṁ namāmi
 #+end_src
 ** The Buddha's First Exclamation
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{The Buddha's First Exclamation}
 \sectionPaliTitle{Buddha-paṭhama-bhāsita}
+\section{The Buddha's First Exclamation}
 \label{buddhas-first-exclamation}
+
+\begin{center}
+  [Handa mayaṁ buddha-paṭhama-bhāsita-gāthāyo bhaṇāmase]
+\end{center}
 
 \begin{twochants}
   Aneka-jāti-saṁsāraṁ – Sandhāvissaṁ anibbisaṁ\\
@@ -1197,14 +1201,17 @@ Saṅghaṁ namāmi
 
 \suttaRef{[Dhp 153-154]}
 
-\clearpage
 #+end_src
 
 ** Respect for the Dhamma
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{Respect for the Dhamma}
 \sectionPaliTitle{Dhamma-gārava}
+\section{Respect for the Dhamma}
 \label{respect-for-the-dhamma}
+
+\begin{center}
+  [Handa mayaṁ dhamma-gārav’ādi-gāthāyo bhaṇāmase]
+\end{center}
 
 \begin{twochants}
   Ye ca atītā sambuddhā – Ye ca buddhā anāgatā \\
@@ -1285,8 +1292,8 @@ Dhammo pāpeti suggatiṁ
 #+end_src
 ** Going to True and False Refuges
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{Going to True and False Refuges}
 \sectionPaliTitle{Khemākhema-saraṇa-gamana}
+\section{Going to True and False Refuges}
 \label{true-false-refuges}
 
 \begin{twochants}
@@ -1355,13 +1362,13 @@ Dhammo pāpeti suggatiṁ
 
 ** The Pāṭimokkha Exhortation
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{The Pāṭimokkha Exhortation}
 \sectionPaliTitle{Ovāda-pāṭimokkha-gāthā}
+\section{The Pāṭimokkha Exhortation}
 \label{patimokkha-exhortation}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 Sabba-pāpassa akaraṇaṁ\pagenote{%
   There are two variations as to the sequence of these three verses. The sequence used here follows the sequence of Dhp 183 (Sabba pāpassa…), Dhp 184 (Khantī paramaṁ…), Dhp 185 (Anūpavādo…). In contrast, the sequence Dhp 184, 183, 185 is commonly known as the “Ovādapātimokkha”, and occurs at DN 14.}
@@ -1452,13 +1459,13 @@ Etaṁ buddhāna sāsanaṁ
 #+end_src
 ** The Three Characteristics
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{The Three Characteristics}
 \sectionPaliTitle{Ti-lakkhaṇā}
+\section{The Three Characteristics}
 \label{three-characteristics}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ ti-lakkhaṇ’ādi-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 \begin{twochants}
   Sabbe saṅkhārā aniccā’ti – Yadā paññāya passati\\
@@ -1550,13 +1557,13 @@ Etaṁ buddhāna sāsanaṁ
 
 ** The Burdens
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{The Burdens}
 \sectionPaliTitle{Bhārā}
+\section{The Burdens}
 \label{burdens}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ bhāra-sutta-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 \begin{twochants}
   Bhārā have pañcakkhandhā – Bhāra-hāro ca puggalo \\
@@ -1590,13 +1597,13 @@ Etaṁ buddhāna sāsanaṁ
 
 ** From the Elder Raṭṭhapāla
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{From the Elder Raṭṭhapāla}
 \sectionPaliTitle{Raṭṭhapāla-thera-gāthā}
+\section{From the Elder Raṭṭhapāla}
 \label{ratthapala}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ raṭṭhapālatthera-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 \begin{twochants}
   Passa cittakataṁ bimbaṁ – Arukāyaṁ samussitaṁ\\
@@ -1749,13 +1756,13 @@ Etaṁ buddhāna sāsanaṁ
 
 ** From the Elder Pārāpariya
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{From the Elder Pārāpariya}
 \sectionPaliTitle{Pārāpariya-thera-gāthā}
+\section{From the Elder Pārāpariya}
 \label{parapariya}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ pārāpariyatthera-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 \begin{twochants}
   Aññathā lokanāthamhi – Tiṭṭhante purisuttame\\
@@ -1871,13 +1878,13 @@ Etaṁ buddhāna sāsanaṁ
 #+end_src
 ** On Protection
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{On Protection}
 \sectionPaliTitle{Tāyana-gāthā}
+\section{On Protection}
 \label{protection}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ Tāyana-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 \begin{twochants}
   Chinda sotaṁ parakkamma – Kāme panūda brāhmaṇa\\
@@ -1948,13 +1955,13 @@ Etaṁ buddhāna sāsanaṁ
 
 ** Miscellaneous Verses
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{Misecellaneous Verses}
 \sectionPaliTitle{Pakiṇṇaka-gāthā}
+\section{Misecellaneous Verses}
 \label{misc-verses}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 \begin{twochants}
   Attadīpā bhikkhave viharatha attasaraṇā anaññasaraṇā\\
@@ -2182,13 +2189,13 @@ Etaṁ buddhāna sāsanaṁ
 
 ** A Single Excellent Night
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{A Single Excellent Night}
 \sectionPaliTitle{Bhadd-eka-ratta}
+\section{A Single Excellent Night}
 \label{single-excellent-night}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ bhadd’eka-ratta-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 \begin{twochants}
   Atītaṁ nānvāgameyya – Nappaṭikaṅkhe anāgataṁ\\
@@ -2248,14 +2255,14 @@ Etaṁ buddhāna sāsanaṁ
 
 ** The Highest Blessings
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{The Highest Blessings}
 \sectionPaliTitle{Maṅgala-sutta}
+\section{The Highest Blessings}
 \label{highest-blessings}
 
-\begin{leader}
+\begin{center}
   [Now let us recite the verses on the Highest Blessings\pagenote{%
     “The term “blessing” is used throughout this chanting book to convey the meaning of “support”, or “a beneficial thing”, without implying the underlying Christian connotations this term may have in popular use.}]
-\end{leader}
+\end{center}
 
 Thus have I heard that the Blessed One\\
 Was dwelling at Sāvatthī\pagenote{%
@@ -2337,13 +2344,13 @@ These are the highest blessings
 
 ** The Buddha’s Words on Loving-Kindness
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
-\section{The Buddha's Words on Loving-Kindness}
 \sectionPaliTitle{Karaṇīya-metta-sutta}
+\section{The Buddha's Words on Loving-Kindness}
 \label{words-on-loving-kindness}
 
-\begin{leader}
+\begin{center}
   [Now let us recite the Buddha’s words on loving-kindness]
-\end{leader}
+\end{center}
 
 This is what should be done\\
 By one who is skilled in goodness\\
@@ -2405,13 +2412,13 @@ Is not born again into this world
 #+end_src
 ** Setting in Motion the Wheel of Dhamma
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{Setting in Motion the Wheel of Dhamma}
 \sectionPaliTitle{Dhamma-cakkappavattana}
+\section{Setting in Motion the Wheel of Dhamma}
 \label{wheel-of-dhamma-abridged}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Dveme bhikkhave antā
 
@@ -3075,12 +3082,12 @@ N’atthidāni punabbhavo’ti
 #+end_src
 ** Anupubba-sikkhā
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{Anupubba-sikkhā}
 \sectionPaliTitle{Satta-sambojjhaṅgā}
+\section{Anupubba-sikkhā}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ anupubba-sikkha-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ‘sambādho gharāvāso rajopatho abbhokāso pabbajjā. Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.
 
@@ -3141,9 +3148,9 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \section{The Gradual Training}
 \label{gradual-training}
 
-\begin{leader}
+\begin{center}
   [Now let us recite the Gradual Training]
-\end{leader}
+\end{center}
 % % % TODO: justify?
 “A householder or householder’s son \breathmark\ or one born in some other clan hears the Dhamma. On hearing the Dhamma he acquires faith in the Tathāgata. Possessing that faith he considers thus: ‘Household life is crowded and dusty \breathmark\ life gone forth is wide open. It is not easy while living at home \breathmark\ to lead the holy life utterly perfect and pure \breathmark\ as a polished shell. Suppose I shave off my hair and beard \breathmark\ put on the ochre robe \breathmark\ and go forth from home to homelessness.’ On a later occasion \breathmark\ abandoning a small or large fortune \breathmark\ abandoning a small or large circle of relatives \breathmark\ he shaves off his hair and beard \breathmark\ puts on the ochre robe \breathmark\ and goes forth from home to homelessness.”
 
@@ -3209,13 +3216,13 @@ for the world \breathmark\ he abides with a mind free from longing \breathmark\ 
 #+end_src
 ** Requisites for Awakening
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{Requisites for Awakening}
 \sectionPaliTitle{Bodhipakkihya-dhammā}
+\section{Requisites for Awakening}
 \label{requisites-for-awakening}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Bhikkhave ye te mayā dhammā abhiññā desitā
 
@@ -3319,13 +3326,13 @@ Ariyo aṭṭhaṅgiko maggo
 #+end_src
 ** The Seven Factors of Awakening
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{The Seven Factors of Awakening}
 \sectionPaliTitle{Satta-sambojjhaṅgā}
+\section{The Seven Factors of Awakening}
 \label{seven-awakening-factors}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
 
@@ -3544,13 +3551,13 @@ Ime kho bhikkhave satta bojjhaṅgā’ti
 #+end_src
 ** The Noble Eightfold Path
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{The Noble Eightfold Path}
 \sectionPaliTitle{Ariy’aṭṭhaṅgika-magga}
+\section{The Noble Eightfold Path}
 \label{noble-eightfold-path}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Ayam-eva ariyo aṭṭh'aṅgiko maggo
 
@@ -4070,13 +4077,13 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 #+end_src
 ** Mindfulness of Breathing
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{Mindfulness of Breathing}
 \sectionPaliTitle{Ānāpānassati}
+\section{Mindfulness of Breathing}
 \label{mindfulness-of-breathing}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Ānāpānassati bhikkhave bhāvitā bahulī-katā
 
@@ -4438,17 +4445,17 @@ Mahapphalā hoti mahānisaṁsā'ti
 
 ** Dependent Origination
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{Dependent Origination}
 \sectionPaliTitle{Paṭicca samuppāda}
+\section{Dependent Origination}
 \label{dependent-origination}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ bhaṇāmase]
-\end{leader}
-\begin{leader}
+\end{center}
+\begin{center}
   [Now let us recite the Analysis of Dependent Origination\pagenote{%
     Lit.: “the 'Discourse Analysis' from the 'Analysis of Dependent Origination'”  The “Discourse Analysis” is a sub-chapter (Abh.Vibh.130f) from the “Analysis of Dependent Origination”, which is part of the 2nd book of the Abhidhammapiṭaka called the “Vibhaṅga”. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the Suttapiṭaka.}]
-\end{leader}
+\end{center}
 
 Avijjā-paccayā saṅkhārā
 
@@ -4975,13 +4982,13 @@ Tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti
 #+end_src
 ** The Dhamma in Brief
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{The Dhamma in Brief}
 \sectionPaliTitle{Saṅkhitta-dhamma}
+\section{The Dhamma in Brief}
 \label{dhamma-in-brief}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Mahāpajāpatī Gotamī yena bhagavā tenupasaṅkami \breathmark\ upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etadavoca:
 
@@ -5084,13 +5091,13 @@ Eso dhammo eso vinayo etaṁ satthusāsanan’ti
 #+end_src
 ** The Four Great References
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{The Four Great References}
 \sectionPaliTitle{Cattāro mahāpadesā}
+\section{The Four Great References}
 \label{four-great-references}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Katame bhikkhave cattāro mahāpadesā
 
@@ -5341,13 +5348,13 @@ Ime kho bhikkhave cattāro mahāpadesā’ti
 #+end_src
 ** Principles of Cordiality
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{Principles of Cordiality}
 \sectionPaliTitle{Cha sāraṇīya-dhammā}
+\section{Principles of Cordiality}
 \label{principles-of-cordiality}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Chayime bhikkhave dhammā sāraṇīyā
 
@@ -5567,13 +5574,13 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā’ti
 #+end_src
 ** Principles of Non-Decline
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{Principles of Non-Decline}
 \sectionPaliTitle{Aparihāniya-dhammā}
+\section{Principles of Non-Decline}
 \label{principles-of-non-decline}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Katame bhikkhave satta aparihāniyā dhammā
 
@@ -5891,13 +5898,13 @@ Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti
 #+end_src
 ** Striving According to the Dhamma
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{Striving According to the Dhamma}
 \sectionPaliTitle{Dhamma-pahaṁsāna}
+\section{Striving According to the Dhamma}
 \label{striving-according-to-dhamma}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Evaṁ svākkhāto bhikkhave mayā dhammo
 
@@ -6138,13 +6145,13 @@ Alam-eva appamādena sampādetun'ti\pagenote{%
 #+end_src
 ** The Buddha’s Final Instruction
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
-\section{The Buddha's Final Instruction}
 \sectionPaliTitle{Buddha-pacchima-ovāda}
+\section{The Buddha's Final Instruction}
 \label{buddhas-final-instruction}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase]
-\end{leader}
+\end{center}
 
 Siyā kho tumhākaṁ evamassa
 
@@ -6212,13 +6219,13 @@ Ayaṁ tathāgatassa pacchimā vācā
 #+end_src
 ** The Four Requisites
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{The Four Requisites}
 \sectionPaliTitle{Cattaro parrikhārā}
+\section{The Four Requisites}
 \label{four-requisites}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\\
 Yāvadeva sītassa paṭighātāya\\
@@ -6277,13 +6284,13 @@ Abyāpajjha-paramatāyā’ti
 #+end_src
 ** The Repulsiveness of Food
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{The Repulsiveness of Food}
 \sectionPaliTitle{Āhāra-paṭikūla-paccavekkhaṇa-pāṭho}
+\section{The Repulsiveness of Food}
 \label{repulsiveness-of-food}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Āhāre paṭikūlasaññāparicitena bhikkhave \breathmark\ bhikkhuno cetasā bahulaṁ viharato
 
@@ -6338,12 +6345,13 @@ Ativiya jigucchanīyo jāyati
 #+end_src
 ** Universal Well-Being
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{Universal Well-Being}
 \sectionPaliTitle{Mettā-pharaṇa}
+\section{Universal Well-Being}
+\label{universal-well-being}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ mettāpharaṇaṁ karomase]
-\end{leader}
+\end{center}
 
 Ahaṁ sukhito homi\\
 Niddukkho homi\\
@@ -6364,9 +6372,9 @@ Yaṁ kammaṁ karissanti\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādā bhavissanti
 
-\begin{leader}
+\begin{center}
   [Now let us recite the reflections on universal well-being]
-\end{leader}
+\end{center}
 
 \begin{english}
   May I abide in well-being\\
@@ -6401,13 +6409,13 @@ Tassa dāyādā bhavissanti
 #+end_src
 ** The Divine Abidings
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{The Divine Abidings}
 \sectionPaliTitle{Brahmavihārā}
+\section{The Divine Abidings}
 \label{divine-abidings}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ caturappamaññā obhāsanaṁ karomase]
-\end{leader}
+\end{center}
 
 Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 
@@ -6418,9 +6426,9 @@ Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ ta
 
 Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
 
-\begin{leader}
+\begin{center}
   [Now let us make the Four Boundless Qualities shine forth]
-\end{leader}
+\end{center}
 
 I will abide pervading one quarter with a heart imbued with loving-kindness\\
 Likewise the second likewise the third likewise the fourth\\
@@ -6453,13 +6461,13 @@ Abundant exalted immeasurable without hostility and without ill-will
 #+end_src
 ** Five Subjects for Frequent Recollection
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{Five Subjects for Frequent Recollection}
 \sectionPaliTitle{Pañca-abhiṇha-paccavekkhaṇā}
+\section{Five Subjects for Frequent Recollection}
 \label{five-recollections}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Jarā-dhammomhi jaraṁ anatīto
 
@@ -6519,13 +6527,13 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 #+end_src
 ** Ten Subjects for Frequent Reflection by One Gone Forth
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{Ten Subjects for Frequent Recollection}
 \sectionPaliTitle{Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā}
+\section{Ten Subjects for Frequent Recollection}
 \label{ten-recollections}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Dasa ime bhikkhave dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā\\
@@ -6648,13 +6656,13 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 #+end_src
 ** The Thirty-Two Body Parts
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{The Thirty-Two Parts}
 \sectionPaliTitle{Dvattiṁsākārapaccavekkhaṇa}
+\section{The Thirty-Two Parts}
 \label{32-parts}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 
@@ -6730,15 +6738,14 @@ Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro 
 
 #+end_src
 ** Recollection of Impermanence
-
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
-\section{Recollection of Impermanence}
 \sectionPaliTitle{Aniccānussati}
+\section{Recollection of Impermanence}
 \label{recollection-impermanence}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase]
-\end{leader}
+\end{center}
 
 Sabbe saṅkhārā anicca
 
@@ -7473,8 +7480,8 @@ That is what the Blessed One said. The bhikkhus were glad and they approved of h
 
 ** Just as Rivers
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-\section{Just as Rivers}
 \sectionPaliTitle{Yathā vāri-vahā pūrā}
+\section{Just as Rivers}
 \label{just-as-rivers}
 
 [Yathā vāri-vahā pūrā]
@@ -8331,214 +8338,214 @@ Sabbattha sotthiṁ gacchanti – Tan-tesaṁ maṅgalam-uttaman’ti
 #+end_src
 ** Ratana-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-% \subsection{Ratana-sutta}
+\subsection{Ratana-sutta}
 \label{ratana-sutta}
-% [Yānīdha] bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
-% Sabb’eva bhūtā sumanā bhavantu – Atho pi sakkacca suṇantu bhāsitaṁ
+[Yānīdha] bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
+Sabb’eva bhūtā sumanā bhavantu – Atho pi sakkacca suṇantu bhāsitaṁ
 
-% \begin{english}
-%   Whatever beings are gathered here,\\
-%   Whether of the earth or in the sky,\\
-%   May all beings indeed be happy\\
-%   And then listen carefully to what is said.
-% \end{english}
+\begin{english}
+  Whatever beings are gathered here,\\
+  Whether of the earth or in the sky,\\
+  May all beings indeed be happy\\
+  And then listen carefully to what is said.
+\end{english}
 
-% Tasmā hi bhūtā nisāmetha sabbe – Mettaṁ karotha mānusiyā pajāya\\
-% Divā ca ratto ca haranti ye baliṁ – Tasmā hi ne rakkhatha appamattā
+Tasmā hi bhūtā nisāmetha sabbe – Mettaṁ karotha mānusiyā pajāya\\
+Divā ca ratto ca haranti ye baliṁ – Tasmā hi ne rakkhatha appamattā
 
-% \begin{english}
-%   Therefore, O beings, all of you listen;\\
-%   Show loving-kindness to the human population,\\
-%   Who day and night bring you offerings;\\
-%   Therefore, being heedful, protect them.
-% \end{english}
+\begin{english}
+  Therefore, O beings, all of you listen;\\
+  Show loving-kindness to the human population,\\
+  Who day and night bring you offerings;\\
+  Therefore, being heedful, protect them.
+\end{english}
 
-% Yaṅ kiñci vittaṁ idha vā huraṁ vā – Saggesu vā yaṁ ratanaṁ paṇītaṁ\\
-% Na no samaṁ atthi tathāgatena – Idam-pi buddhe ratanaṁ paṇītaṁ\\
-% Etena saccena suvatthi hotu
+Yaṅ kiñci vittaṁ idha vā huraṁ vā – Saggesu vā yaṁ ratanaṁ paṇītaṁ\\
+Na no samaṁ atthi tathāgatena – Idam-pi buddhe ratanaṁ paṇītaṁ\\
+Etena saccena suvatthi hotu
 
-% \begin{english}
-%   Whatever the treasures are here or beyond,\\
-%   Whatever the precious jewel in the heavens,\\
-%   There is none equal to the Thus-gone.\\
-%   In the Buddha is this sublime jewel.\\
-%   By this truth, may there be well-being.
-% \end{english}
+\begin{english}
+  Whatever the treasures are here or beyond,\\
+  Whatever the precious jewel in the heavens,\\
+  There is none equal to the Thus-gone.\\
+  In the Buddha is this sublime jewel.\\
+  By this truth, may there be well-being.
+\end{english}
 
-% Khayaṁ virāgaṁ amataṁ paṇītaṁ – Yad-ajjhagā sakya-munī samāhito\\
-% Na tena dhammena sam’atthi kiñci – Idam-pi dhamme ratanaṁ paṇītaṁ\\
-% Etena saccena suvatthi hotu
+Khayaṁ virāgaṁ amataṁ paṇītaṁ – Yad-ajjhagā sakya-munī samāhito\\
+Na tena dhammena sam’atthi kiñci – Idam-pi dhamme ratanaṁ paṇītaṁ\\
+Etena saccena suvatthi hotu
 
-% \begin{english}
-%   Destruction, dispassion, the deathless, the sublime,\\
-%   Which Sakyamuni, concentrated, attained:\\
-%   There is nothing equal to that Dhamma.\\
-%   This too is the sublime gem in the Dhamma:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  Destruction, dispassion, the deathless, the sublime,\\
+  Which Sakyamuni, concentrated, attained:\\
+  There is nothing equal to that Dhamma.\\
+  This too is the sublime gem in the Dhamma:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Yam buddha-seṭṭho parivaṇṇayī suciṁ – Samādhim-ānantarikaññam-āhu\\
-% Samādhinā tena samo na vijjati – Idam-pi dhamme ratanaṁ paṇītaṁ\\
-% Etena saccena suvatthi hotu
+Yam buddha-seṭṭho parivaṇṇayī suciṁ – Samādhim-ānantarikaññam-āhu\\
+Samādhinā tena samo na vijjati – Idam-pi dhamme ratanaṁ paṇītaṁ\\
+Etena saccena suvatthi hotu
 
-% \begin{english}
-%   The purity that the supreme Buddha praised,\\
-%   Which they call concentration without interval\\
-%   The equal of that concentration does not exist.\\
-%   This too is the sublime gem in the Dhamma:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  The purity that the supreme Buddha praised,\\
+  Which they call concentration without interval\\
+  The equal of that concentration does not exist.\\
+  This too is the sublime gem in the Dhamma:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Ye puggalā aṭṭha sataṁ pasatthā – Cattāri etāni yugāni honti\\
-% Te dakkhiṇeyyā sugatassa sāvakā – Etesu dinnāni mahapphalāni\\
-% Idam-pi saṅghe ratanaṁ paṇītaṁ
-% Etena saccena suvatthi hotu
+Ye puggalā aṭṭha sataṁ pasatthā – Cattāri etāni yugāni honti\\
+Te dakkhiṇeyyā sugatassa sāvakā – Etesu dinnāni mahapphalāni\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ
+Etena saccena suvatthi hotu
 
-% \begin{english}
-%   The eight persons praised by the good\\
-%   Constitute these four pairs.\\
-%   These, worthy of offerings, are the Fortunate One’s disciples;\\
-%   Gifts given to them yield abundant fruit.\\
-%   This too is the sublime gem in the Sangha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  The eight persons praised by the good\\
+  Constitute these four pairs.\\
+  These, worthy of offerings, are the Fortunate One’s disciples;\\
+  Gifts given to them yield abundant fruit.\\
+  This too is the sublime gem in the Sangha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Ye suppayuttā manasā daḷhena – Nikkāmino gotama-sāsanamhi\\
-% Te patti-pattā amataṁ vigayha – Laddhā mudhā nibbutiṁ bhuñjamānā\\
-% Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Ye suppayuttā manasā daḷhena – Nikkāmino gotama-sāsanamhi\\
+Te patti-pattā amataṁ vigayha – Laddhā mudhā nibbutiṁ bhuñjamānā\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
-% \begin{english}
-%   Those who strived well with a firm mind,\\
-%   Who are desireless in Gotama’s teaching,\\
-%   Have reached attainment, having plunged into the deathless,\\
-%   Enjoying perfect peace obtained free of charge.\\
-%   This too is the sublime gem in the Sangha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  Those who strived well with a firm mind,\\
+  Who are desireless in Gotama’s teaching,\\
+  Have reached attainment, having plunged into the deathless,\\
+  Enjoying perfect peace obtained free of charge.\\
+  This too is the sublime gem in the Sangha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Yath’inda-khīlo paṭhaviṁ sito siyā – Catubbhi vātebhi asampakampiyo\\
-% Tathūpamaṁ sappurisaṁ vadāmi – Yo ariya-saccāni avecca passati\\
-% Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Yath’inda-khīlo paṭhaviṁ sito siyā – Catubbhi vātebhi asampakampiyo\\
+Tathūpamaṁ sappurisaṁ vadāmi – Yo ariya-saccāni avecca passati\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
-% \begin{english}
-%   As a gate post, planted in the ground,\\
-%   Would be unshakable by the four winds,\\
-%   Similarly I speak of the good person\\
-%   Who, having experienced them, sees the noble truths.\\
-%   This too is the sublime gem in the Sangha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  As a gate post, planted in the ground,\\
+  Would be unshakable by the four winds,\\
+  Similarly I speak of the good person\\
+  Who, having experienced them, sees the noble truths.\\
+  This too is the sublime gem in the Sangha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Ye ariya-saccāni vibhāvayanti – Gambhīra-paññena sudesitāni\\
-% Kiñ-cāpi te honti bhusappamattā – Na te bhavaṁ aṭṭhamam-ādiyanti\\
-% Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Ye ariya-saccāni vibhāvayanti – Gambhīra-paññena sudesitāni\\
+Kiñ-cāpi te honti bhusappamattā – Na te bhavaṁ aṭṭhamam-ādiyanti\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
-% \begin{english}
-%   Those who have cognized the noble truths\\
-%   Well taught by the one of deep wisdom,\\
-%   Even if they are extremely heedless,\\
-%   Do not take an eighth existence.\\
-%   This too is the sublime gem in the Sangha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  Those who have cognized the noble truths\\
+  Well taught by the one of deep wisdom,\\
+  Even if they are extremely heedless,\\
+  Do not take an eighth existence.\\
+  This too is the sublime gem in the Sangha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Sahā v’assa dassana-sampadāya – Tay’assu dhammā jahitā bhavanti\\
-% Sakkāya-diṭṭhi vicikicchitañ-ca – Sīlabbataṁ vā pi yad-atthi kiñci\\
-% Catūh’apāyehi ca vippamutto – Cha cābhiṭhānāni abhabbo kātuṁ\\
-% Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Sahā v’assa dassana-sampadāya – Tay’assu dhammā jahitā bhavanti\\
+Sakkāya-diṭṭhi vicikicchitañ-ca – Sīlabbataṁ vā pi yad-atthi kiñci\\
+Catūh’apāyehi ca vippamutto – Cha cābhiṭhānāni abhabbo kātuṁ\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
-% \begin{english}
-%   Together with one’s achievement of vision\\
-%   Three things are discarded:\\
-%   The view of the personal entity and doubt,\\
-%   And whatever good behavior and observances there are.\\
-%   One is also freed from the four planes of misery\\
-%   And is incapable of doing six deeds.\\
-%   This too is the sublime gem in the Sangha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  Together with one’s achievement of vision\\
+  Three things are discarded:\\
+  The view of the personal entity and doubt,\\
+  And whatever good behavior and observances there are.\\
+  One is also freed from the four planes of misery\\
+  And is incapable of doing six deeds.\\
+  This too is the sublime gem in the Sangha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Kiñ-cāpi so kammaṁ karoti pāpakaṁ – Kāyena vācā uda cetasā vā\\
-% Abhabbo so tassa paṭicchadāya – Abhabbatā diṭṭha-padassa vuttā\\
-% Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Kiñ-cāpi so kammaṁ karoti pāpakaṁ – Kāyena vācā uda cetasā vā\\
+Abhabbo so tassa paṭicchadāya – Abhabbatā diṭṭha-padassa vuttā\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
-% \begin{english}
-%   Although one does a bad deed\\
-%   By body, speech, or mind,\\
-%   One is incapable of concealing it;\\
-%   Such inability is stated for one who has seen the state.\\
-%   This too is the sublime gem in the Sangha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  Although one does a bad deed\\
+  By body, speech, or mind,\\
+  One is incapable of concealing it;\\
+  Such inability is stated for one who has seen the state.\\
+  This too is the sublime gem in the Sangha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Vanappagumbe yathā phussi-t-agge – Gimhāna-māse paṭhamasmiṁ gimhe\\
-% Tathūpamaṁ dhamma-varaṁ adesayi – Nibbāna-gāmiṁ paramaṁ hitāya\\
-% Idam-pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Vanappagumbe yathā phussi-t-agge – Gimhāna-māse paṭhamasmiṁ gimhe\\
+Tathūpamaṁ dhamma-varaṁ adesayi – Nibbāna-gāmiṁ paramaṁ hitāya\\
+Idam-pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
-% \begin{english}
-%   Like a woodland thicket with flowering crests\\
-%   In a summer month, in the first of the summer,\\
-%   Just so he taught the excellent Dhamma,\\
-%   Leading to nibbāna, for the supreme welfare.\\
-%   This too is the sublime gem in the Buddha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  Like a woodland thicket with flowering crests\\
+  In a summer month, in the first of the summer,\\
+  Just so he taught the excellent Dhamma,\\
+  Leading to nibbāna, for the supreme welfare.\\
+  This too is the sublime gem in the Buddha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Varo varaññū vara-do var’āharo – Anuttaro dhamma-varaṁ adesayi\\
-% Idam-pi buddhe ratanaṁ paṇītaṁ
+Varo varaññū vara-do var’āharo – Anuttaro dhamma-varaṁ adesayi\\
+Idam-pi buddhe ratanaṁ paṇītaṁ
 
-% \begin{english}
-%   The excellent one, knower of the excellent,\\
-%   Giver of the excellent, bringer of the excellent,\\
-%   The unsurpassed one taught the excellent Dhamma.\\
-%   This too is the sublime gem in the Buddha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  The excellent one, knower of the excellent,\\
+  Giver of the excellent, bringer of the excellent,\\
+  The unsurpassed one taught the excellent Dhamma.\\
+  This too is the sublime gem in the Buddha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Khīṇaṁ purāṇaṁ navaṁ n’atthi sambhavaṁ – Viratta-citt’āyatike bhavasmiṁ\\
-% Te khīṇa-bījā aviruḷhi-chandā – Nibbanti dhīrā yathā’yam padīpo\\
-% Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Khīṇaṁ purāṇaṁ navaṁ n’atthi sambhavaṁ – Viratta-citt’āyatike bhavasmiṁ\\
+Te khīṇa-bījā aviruḷhi-chandā – Nibbanti dhīrā yathā’yam padīpo\\
+Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
-% \begin{english}
-%   The old is destroyed, there is no new origination,\\
-%   Their minds are dispassionate toward future existence.\\
-%   With seeds destroyed, with no desire for growth,\\
-%   Those wise ones are extinguished like this lamp.\\
-%   This too is the sublime gem in the Sangha:\\
-%   By this truth, may there be safety!
-% \end{english}
+\begin{english}
+  The old is destroyed, there is no new origination,\\
+  Their minds are dispassionate toward future existence.\\
+  With seeds destroyed, with no desire for growth,\\
+  Those wise ones are extinguished like this lamp.\\
+  This too is the sublime gem in the Sangha:\\
+  By this truth, may there be safety!
+\end{english}
 
-% Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
-% Tathāgataṁ deva-manussa-pūjitaṁ – Buddhaṁ namassāma suvatthi hotu
+Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
+Tathāgataṁ deva-manussa-pūjitaṁ – Buddhaṁ namassāma suvatthi hotu
 
-% \begin{english}
-%   Whatever beings are gathered here,\\
-%   Whether of the earth or in the sky,\\
-%   We pay homage to the thus-gone Buddha,\\
-%   Venerated by devas and humans: may there be safety!
-% \end{english}
+\begin{english}
+  Whatever beings are gathered here,\\
+  Whether of the earth or in the sky,\\
+  We pay homage to the thus-gone Buddha,\\
+  Venerated by devas and humans: may there be safety!
+\end{english}
 
-% Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
-% Tathāgataṁ deva-manussa-pūjitaṁ – Dhammaṁ namassāma suvatthi hotu
+Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
+Tathāgataṁ deva-manussa-pūjitaṁ – Dhammaṁ namassāma suvatthi hotu
 
-% \begin{english}
-%   Whatever beings are gathered here,\\
-%   Whether of the earth or in the sky,\\
-%   We pay homage to the thus-gone Dhamma,\\
-%   Venerated by devas and humans: may there be safety!
-% \end{english}
+\begin{english}
+  Whatever beings are gathered here,\\
+  Whether of the earth or in the sky,\\
+  We pay homage to the thus-gone Dhamma,\\
+  Venerated by devas and humans: may there be safety!
+\end{english}
 
-% Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
-% Tathāgataṁ deva-manussa-pūjitaṁ – Saṅghaṁ namassāma suvatthi hotu
+Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
+Tathāgataṁ deva-manussa-pūjitaṁ – Saṅghaṁ namassāma suvatthi hotu
 
-% \begin{english}
-%   Whatever beings are gathered here,\\
-%   Whether of the earth or in the sky,\\
-%   We pay homage to the thus-gone Sangha,\\
-%   Venerated by devas and humans: may there be safety!
-% \end{english}
+\begin{english}
+  Whatever beings are gathered here,\\
+  Whether of the earth or in the sky,\\
+  We pay homage to the thus-gone Sangha,\\
+  Venerated by devas and humans: may there be safety!
+\end{english}
 
-% \suttaRef{[Snp 2.1]}
+\suttaRef{[Snp 2.1]}
 #+end_src
 ** Karaṇīya-metta-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
@@ -8607,12 +8614,12 @@ Byārosanā paṭīgha-saññā – Nāññam-aññassa dukkham-iccheyya
 Mātā yathā niyaṁ puttaṁ – Āyusā eka-puttam-anurakkhe\\
 Evam pi sabba-bhūtesu – Mānasam-bhāvaye aparimāṇaṁ
 
-% \begin{english} % % TODO: something here prevents xport
-%   Just as a mother [her] own child,\\
-%   [Her] only child, would protect with [her] life;\\
-%   Thus also, towards all beings,\\
-%   He would develop the mind without measure.
-% \end{english}
+\begin{english}
+  Just as a mother [her] own child,\\\relax
+  [Her] only child, would protect with [her] life; \\
+  Thus also, towards all beings,\\
+  He would develop the mind without measure.
+\end{english}
 
 Mettañ-ca sabba-lokasmiṁ – Mānasam-bhāvaye aparimāṇaṁ\\
 Uddhaṁ adho ca tiriyañ-ca – Asambādhaṁ averaṁ asapattaṁ
@@ -8964,12 +8971,12 @@ Pāpaggaho dussupinaṁ akantaṁ – Saṅghānubhāvena vināsamentu
 [Dukkhappattā] ca niddukkhā – Bhayappattā ca nibbhayā\\
 Sokappattā ca nissokā – Hontu sabbe pi pāṇino
 
-% \begin{english} % % TODO: something here prevents xport
-%   [May] sufferers be without suffering,\\
-%   The fear-struck be without fear,\\
-%   The grief-stricken be without grief\\
-%   [Thus] may all beings be.
-% \end{english}
+\begin{english}
+  [May] sufferers be without suffering,\\
+  The fear-struck be without fear,\\
+  The grief-stricken be without grief\\\relax
+  [Thus] may all beings be.
+\end{english}
 
 Ettāvatā ca amhehi – Sambhataṁ puñña-sampadaṁ\\
 Sabbe devā anumodantui – Sabba-sampatti-siddhiyā
@@ -9772,15 +9779,14 @@ Sabba-saṅghānubhāvena – Sadā sotthī \breathmark\ bhavantu te
 \chapter{Sharing of Merits}
 #+end_src
 ** Sharing and Aspirations
-
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
-\section{Sharing and Aspirations}
 \sectionPaliTitle{Uddissanādhiṭṭhānā}
+\section{Sharing and Aspirations}
 \label{sharing-aspirations}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 Iminā puññakammena upajjhāyā guṇuttarā\\
 Ācariyūpakārā ca mātāpitā ca ñātakā\\
@@ -9800,9 +9806,9 @@ Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ\\
 Tesottamānubhāvena mārokāsaṁ labhantu mā
 
 
-\begin{leader}
+\begin{center}
   [Now let us recite the verses of sharing and aspiration]
-\end{leader}
+\end{center}
 
 \begin{cprenglish}
   Through the goodness that arises from my practice\\
@@ -9839,13 +9845,13 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 #+end_src
 ** Sharing of All Merits
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
-\section{Sharing of All Merits}
 \sectionPaliTitle{Sabba-patti-dāna}
+\section{Sharing of All Merits}
 \label{sharing-all-merits}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase]
-\end{leader}
+\end{center}
 
 Puññass’idāni katassa yān’aññāni katāni me\\
 Tesañ-ca bhāgino hontu sattānantāppamāṇakā
@@ -9907,8 +9913,8 @@ Khemappadañ-ca pappontu tesāsā sijjhataṁ subhā
 #+end_src
 ** Sharing of Merits with the Departed
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
-\section{Sharing of Merits with the Departed}
 \sectionPaliTitle{Peta-patti-dāna}
+\section{Sharing of Merits with the Departed}
 \label{sharing-merits-departed}
 
 [Idaṁ me ñātinaṁ hotu] sukhitā hontu ñātayo\\
@@ -9929,8 +9935,8 @@ Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 #+end_src
 ** Sharing of Merits with the Devas
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
-\section{Sharing of Merits with the Devas}
 \sectionPaliTitle{Devata-patti-dāna}
+\section{Sharing of Merits with the Devas}
 \label{sharing-merits-devas}
 
 [Ettāvatā ca amhehi] – Sambhataṁ puñña-sampadaṁ\\
@@ -9971,13 +9977,13 @@ Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 #+end_src
 ** The Highest Honour and Aspirations
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
-\section{The Highest Honour and Aspirations}
 \sectionPaliTitle{Paramāya pūjāyañca paṇidhiñca}
+\section{The Highest Honour and Aspirations}
 \label{highest-honour-aspirations}
 
-\begin{leader}
+\begin{center}
   [Handa mayaṁ buddhapūjañca paṇidhiñca karomase]
-\end{leader}
+\end{center}
 
 Buddhaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi
 
