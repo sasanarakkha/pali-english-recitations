@@ -1450,7 +1450,13 @@ philo-sophical munindo amaravati thai-land}
 % With no glue, the space will be at the bottom of the text block instead.
 
 \setbeforesecskip{0pt}
-\setsechook{\clearpage}
+
+\setsechook{%
+  % New page for each section.
+  \clearpage%
+  % Empty the default section number printing, so that we can handle it.
+  \setsecnumformat{}%
+}
 
 \setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
@@ -1462,38 +1468,73 @@ philo-sophical munindo amaravati thai-land}
 
 % Roman numerals for section numbering.
 %\renewcommand*{\thesection}{\roman{section}}
-%\setsechook{\setsecnumformat{\thesection.\space}}
+
+\newlength\sectionTitleLength
 
 \newcommand\sectionFmt[1]{%
-  \centering%
-  \begin{minipage}[b][25pt][c]{1.0\linewidth}%
-    \centering%
-    \setlength{\parskip}{0pt}%
-    \rule{\linewidth}{0.4pt}%
-    \vfill%
-    %
-    \sectionFont\fontsize{16}{12}\selectfont%
+  % A box with contains the entire ruled title
+  \begin{minipage}{\linewidth}%
+    \raggedright%
+    \sectionFont\fontsize{16}{16}\selectfont%
     \color{section}%
-    \mbox{%
+    \setlength{\parskip}{4pt}%
+    %
+    % Top rule
+    \rule{\linewidth}{0.4pt}%
+    \linebreak%
+    % Measure the length of the section title at the current point size
+    \setlength{\sectionTitleLength}{\widthof{\mbox{\textbf{\textls*{\textsc{#1}}}}}}%
+    %
+    % Box for the section number
+    \begin{minipage}[t]{0.1\linewidth}%
+      \raggedright%
+      \textbf{\textls*{\textsc{\thesection}}}%
+    \end{minipage}%
+    %
+    % Box for the section title text
+    \begin{minipage}[t]{0.8\linewidth}%
+      \centering%
       \textbf{\textls*{\textsc{#1}}}%
-      \if@mainmatter%
-        \hspace*{1em}\hyperref[schedule]{$\Leftarrow$}%
-      \fi%
-    }%
+    \end{minipage}%
     %
+    % If in the mainmatter,
+    % box for the arrow link back to the schedule.
+    \if@mainmatter%
+      \begin{minipage}[t]{0.1\linewidth}%
+        \raggedleft%
+        \hyperref[schedule]{$\Leftarrow$}%
+      \end{minipage}%
+    \fi%
+    %
+    % New paragraph.
+    \par%
     \ifsectionsubtitle%
-      \par
+      %
+      % Print the subtitle if it has been set with \sectionPaliTitle, then reset
+      % it so following sections don't use the same value.
       \vspace*{5pt}%
-      \@secSubTitle%
-      \sectionPaliTitleClear%
-    \fi
+      \parbox{\linewidth}{%
+        \centering%
+        \@secSubTitle%
+        \sectionPaliTitleClear%
+      }%
+      %
+      % Adjust the spacing before the bottom rule.
+      \vspace*{-0.5\baselineskip}%
+      \par%
+    \else%
+      %
+      % If there is no subtitle, and the title is a single line, adjust the spacing.
+      \ifdimcomp{\sectionTitleLength}{<}{\linewidth}{%
+        \vspace*{-0.5\baselineskip}%
+        \vspace*{-4pt}%
+        \par%
+      }{}%
+    \fi%
     %
-    \vfill%
-    \vspace*{-0.5\baselineskip}%
-    \vspace*{-0.8pt}%
+    % Bottom rule
     \rule{\linewidth}{0.4pt}%
   \end{minipage}%
-  \par%
 }
 
 \newcommand\subsectionFmt[1]{%
