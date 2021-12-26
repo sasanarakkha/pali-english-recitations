@@ -1487,8 +1487,14 @@ philo-sophical munindo amaravati thai-land}
     %
     % Box for the section number
     \begin{minipage}[t]{0.1\linewidth}%
-      \raggedright%
-      \textbf{\textls*{\textsc{\thesection}}}%
+      % Only print the section number in the mainmatter,
+      % but the empty box is necessary for horizontal spacing.
+      \if@mainmatter%
+        \raggedright%
+        \textbf{\textls*{\textsc{\thesection}}}%
+      \else%
+        \mbox{}%
+      \fi%
     \end{minipage}%
     %
     % Box for the section title text
@@ -1497,14 +1503,16 @@ philo-sophical munindo amaravati thai-land}
       \textbf{\textls*{\textsc{#1}}}%
     \end{minipage}%
     %
-    % If in the mainmatter,
-    % box for the arrow link back to the schedule.
-    \if@mainmatter%
-      \begin{minipage}[t]{0.1\linewidth}%
+    % Box for the arrow link back to the schedule.
+    \begin{minipage}[t]{0.1\linewidth}%
+      % Only print content in the mainmatter.
+      \if@mainmatter%
         \raggedleft%
         \hyperref[schedule]{$\Leftarrow$}%
-      \end{minipage}%
-    \fi%
+      \else%
+        \mbox{}%
+      \fi%
+    \end{minipage}%
     %
     % New paragraph.
     \par%
