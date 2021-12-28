@@ -12,6 +12,8 @@ TODO: sections runs past page, how to fold to second line
 TODO: hyperlink text not arrow
 TODO: pali subtitle smaller text
 TODO: make quotes italic auto, or add manually
+TODO: make second section type that isn't subsection
+TODO: endnotes log (in the back) has random indentation for some notes
 
 * Table of Contents :toc:
 - [[#recitation-schedule][Recitation Schedule]]
@@ -258,7 +260,7 @@ TODO: make quotes italic auto, or add manually
 % % TODO: remove bars here and and line break after Benefits
 \label{purpose-and-benefits}
 
-\subsection{Historical Background}
+\subsection*{Historical Background}
 
 After finding the path to \textit{Nibbāna} and some initial hesitation, the Buddha eventually decided to teach the Dhamma (MN 26). His first disciples were a group of five monks, and with the awakening of one of them, Ven. Kondañña, the wheel of Dhamma was set in motion (SN 56.11). While these first disciples were taught exclusively by the Buddha himself, soon afterwards more monks reached the final goal. Subsequently, the Buddha sent out the first sixty arahants to teach the Dhamma (SN 4.5, Vin I 20).\\
 
@@ -266,11 +268,11 @@ During that period of ancient India, religious texts were not commonly written d
 
 A passage that illustrates the Buddha’s own appreciation of recitation, stems from a conversation he had with a monk who had gone forth just recently. Without warning, the Buddha asked him to recite the Dhamma. The newly ordained monk recited the \textit{Aṭṭhakavagga} of \textit{Sutta Nipāta} (Ud 5.6). The Buddha was pleased and complimented the monk on his skills in remembering, keeping in mind, articulating, and enunciating of the texts. This highlights the Buddha’s emphasis that recitation of the Dhamma was meant to be taken seriously by his ordained disciples.\\
 
-\subsection{The Workings of Memory}
+\subsection*{The Workings of Memory}
 
 Contrary to our intuition, memory doesn’t function like a scanner or copying machine that takes a snapshot of a text or event, and saves it for later. Instead, anecdotal memory works in a relational manner. The brain links new information that comes in through any of the 6 senses to concepts based on memories from the past. We understand new things in the light of and from the perspective of, things we already know. Likewise, we “remember” old things through the filters and biases of the present moment. “It is so natural for us to draw inferences that we are often unaware that we are doing so” (Eysenck, 1992/2005). This interplay between past and present gives our memory great potential due to its seemingly unlimited storage capacity (the Buddha recollected past lifetimes from memory, counting back many eons of world-dissolution and evolution). At the same time the interplay between past and future also makes memory inherently unreliable. The importance of memorization becomes clear. When texts are memorized literally, personal interpretation, biases, and coloring by past experiences and present circumstances have less opportunity to distort the information. Accuracy increases further if one checks the memorized text from time to time against its original, either by looking it up in a book, or by reciting it together with others. In this way, differences become apparent straight away.\\
 
-\subsection{Benefits for Dhamma Practice}
+\subsection*{Benefits for Dhamma Practice}
 
 In the discourses the Buddha is often depicted taking up the topic of recitation when explaining to monks the proper way to learn the teachings, and make these teachings the vessel within which their own wisdom can grow.\\
 
@@ -292,7 +294,7 @@ Since right view is the first of eight path factors, it is of great importance f
   In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage. (AN 5.26)\\
 \end{quote}
 
-\subsection{Benefits for Rebirth}
+\subsection*{Benefits for Rebirth}
 
 The depth to which a mere reading of a text penetrates the mind is incomparable to the depth of penetration that can be reached by memorization. AN 4.191 depicts monks who have memorized the Dhamma, and are subsequently reborn in circumstances with little to no exposure to the Dhamma. The sutta explains that not only in the current lifetime, but also in lifetimes ahead, the Dhamma that was previously memorized will be accessible and has a chance of being re-cognized or recollected even in a future existence e.g. as a deva. With the support of sufficient samādhi, not only can the Dhamma be recollected, but even one’s past lives:\\
 
@@ -300,7 +302,7 @@ The depth to which a mere reading of a text penetrates the mind is incomparable 
   “Bhikkhus, …there are things to be realized by memory… And what are the things to be realized by memory? One’s past abodes are to be realized by memory. “ (AN 4.189)\\
 \end{quote}
 
-\subsection{Benefits for Communal Life}
+\subsection*{Benefits for Communal Life}
 
 Besides being of benefit to one’s own Dhamma practice, and the benefits during future lifetimes, reciting the Dhamma can also have a beneficial impact on communal life. Accounts of the Buddhist councils (\textit{saṅgīti}; lit. recitations) show that in all these important events of Buddhist history when the extended Saṅgha family came together, the DhammaVinaya was recited together, as a means to remain aligned with the teachings and to foster harmony. Another feature of monastic communities, is the fortnightly recitation of the \textit{Pātimokkha}, the rules for monks and nuns, in which even solitary forest dwellers, including Arahants, were encouraged by the Buddha to participate, as they make their way to the nearest monastery in the vicinity (Mv.II.5.5). Recitation of texts together, not only strengthens a common commitment to the DhammaVinaya, but in a more practical way, it also enables monastics to chant in sync and unison when reciting together with their spiritual companions. This not only increases clarity and understanding, but also makes for a more homogenous listening experience at a ceremony, e.g. a dāna or bereavement service conducted by monastics. Furthermore, the coming together frequently to recite the Buddha’s teachings, creates a bond among Saṅgha members and leads to their growth. This would not be so if everyone recites the Dhamma on his own.\\
 
@@ -308,7 +310,7 @@ Besides being of benefit to one’s own Dhamma practice, and the benefits during
   And what, bhikkhus, are the seven principles of non-decline? (1) “As long as the bhikkhus assemble often and hold frequent assemblies, only growth is to be expected for them, not decline. (2) “As long as the bhikkhus assemble in harmony, adjourn in harmony, and conduct the affairs of the Saṅgha in harmony, only growth is to be expected for them, not decline. (AN 7.23)\\
 \end{quote}
 
-\subsection{Recitation Among Monastics}
+\subsection*{Recitation Among Monastics}
 
 While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha’s time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that \textit{“if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation."} (Cv.VIII.12.2-11)\\
 
@@ -338,7 +340,7 @@ Lastly, when monastics from other sects wanted to become monks in the Buddha’s
 
 Once again, we can see the immense emphasis that was placed on memorization and recitation, starting already during the Buddha’s own ministry, and having continued all the way to the 21st century, where we can still find monks who are able to memorize the entirety of the \textit{Tipiṭaka}.\\
 
-\subsection{What to Recite}
+\subsection*{What to Recite}
 
 While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is: the selection of texts for recitation and memorization, there being such a vast amount of teachings that the Buddha left behind. What is essential - what is secondary? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the “Wings of Awakening” (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are the Discourse on Setting in Motion the Wheel of Dhamma (\textit{Dhammacakkappavattanasutta}), the Gradual Training, and The Dhamma in Brief. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one’s path to liberation. Practicing accordingly, further recollection and recitation of such teachings also helps to correctly assess one’s own progress on the path.\\
 
@@ -350,11 +352,11 @@ Lastly, this Recitation Book also includes passages that illuminate how to estab
 
 To summarize, memorization of the Dhamma and group recitation fulfill a variety of different purposes and benefits, ranging all the way from the mundane aspects such as the ability to recite in unison, the fostering of communal harmony, all the way to the attainment of final liberation.\\
 
-\subsection{How to Recite}
+\subsection*{How to Recite}
 
 See chapter “Pāli Phonetics \& Pronunciation” in the Appendix\\
 
-\subsection{Sources}
+\subsection*{Sources}
 Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context, Analayo, Canadian Journal of Buddhist Studies, 2007-3\\
 \\
 Ancient Indian Education and Mindfulness, Anālayo, Springer Science+Business Media, 2019\\
@@ -1174,12 +1176,12 @@ Saṅghaṁ namāmi
 \null
 \vfill
 
-\begin{minipage}[b][25pt][c]{0.8\linewidth}
+\begin{minipage}[b][25pt][c]{1.0\linewidth}
   \begin{center}
-    \textsc{Content\\
+    \textbf{\textsc{Content\\
       \rule{\linewidth}{0.8pt}
       Set 1 \hspace{0.01cm} — \hspace{0.01cm} Set 2 \hspace{0.01cm} — \hspace{0.01cm} Set 3 \hspace{0.01cm} — \hspace{0.01cm} Set 4 \hspace{0.01cm} — \hspace{0.01cm} Set 5\\
-      Set 6 — Set 7 — Set 8 — Set 9 — Set 10}
+      Set 6 — Set 7 — Set 8 — Set 9 — Set 10}}
   \end{center}
 \end{minipage}
 
@@ -6601,7 +6603,7 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 ** Ten Subjects for Frequent Reflection by One Gone Forth
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
 \sectionPaliTitle{Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā}
-\section[Ten Subjects for Frequent Reflection by One Gone Forth]{Ten Subjects for Frequent Reflection by One Gone Forth}
+\section{Ten Subjects for Frequent Reflection by One Gone Forth}
 \label{ten-recollections}
 
 \begin{center}
@@ -7001,7 +7003,6 @@ Tesaṁ vūpasamo sukho
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
 \section{Dhammacakkappavattana-sutta}
 
-% % TODO: Shall we seperate and center this?
 [Evaṁ me sutaṁ]
 
 Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
@@ -10187,313 +10188,339 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 #+end_src
 
 ** The Three Refuges & Five/Eight Trainings
-*** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
-\chapter{The Three Refuges \& Five/Eight Trainings}
-#+end_src
 *** Requesting the Three Refuges & Five/Eight Trainings
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
+\section{The Three Refuges \& Five/Eight Trainings}
+% TODO: center these subsections
 \subsection{Requesting the Three Refuges \& Five/Eight Trainings}
 
+\begin{center}
 (After bowing three times, with hands joined in añjali, recite as follows)\\
+\end{center}
 
 Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
 Dutiyampi ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
 Tatiyampi ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
 
-% % TODO: indent I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.i\\
+\begin{english}
+I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.i\\
 For the second time, I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.\\
 For the third time, I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.
+\end{english}
 #+end_src
 *** Undertaking the Three Refuges
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 \subsection{Undertaking the Three Refuges}
 
+\begin{center}
 (Repeat line by line after the leader)\\
+\end{center}
+
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
+
+
+\begin{english}
 Homage to the Blessed, Worthy, and Perfectly Enlightened One \hfill{[3x]}\\
+\end{english}
+
 Buddhaṁ saraṇaṁ gacchāmi\\
 Dhammaṁ saraṇaṁ gacchāmi\\
 Saṅghaṁ saraṇaṁ gacchāmi\\
+
+\begin{english}
 To the Buddha I go for refuge\\
 To the Dhamma I go for refuge\\
 To the Saṅgha I go for refuge.\\
+\end{english}
+
 Dutiyampi buddhaṁ saraṇaṁ gacchāmi\\
 Dutiyampi dhammaṁ saraṇaṁ gacchāmi\\
 Dutiyampi saṅghaṁ saraṇaṁ gacchāmi\\
+
+\begin{english}
 For the second time, to the Buddha I go for refuge\\
 For the second time, to the Dhamma I go for refuge\\
 For the second time, to the Saṅgha I go for refuge.\\
+\end{english}
+
 Tatiyampi buddhaṁ saraṇaṁ gacchāmi\\
 Tatiyampi dhammaṁ saraṇaṁ gacchāmi\\
 Tatiyampi saṅghaṁ saraṇaṁ gacchāmi\\
+
+\begin{english}
 For the third time, to the Buddha I go for refuge.\\
 For the third time, to the Dhamma I go for refuge.\\
 For the third time, to the Saṅgha I go for refuge.\\
-Leader:         Tisaraṇa-gamanaṁ niṭṭhitaṁ\\
+\end{english}
+
+Leader: Tisaraṇa-gamanaṁ niṭṭhitaṁ\\
+
+\begin{english}
 This completes the going to the Three Refuges.\\
-Response:     Āma bhante\\
+\end{english}
+
+Response: Āma bhante\\
+
+\begin{english}
 Yes, Venerable Sir.\\
+\end{english}
 
-
+\begin{center}
 (Bow three times)\\
+\end{center}
 #+end_src
 *** Undertaking the Five Trainings
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 \subsection{Undertaking the Five Trainings}
 
+\begin{center}
 (To undertake the trainings, repeat each training after the leader)\\
+\end{center}
+
 Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the trainingi to refrain from taking the life of any living being.\\
+\end{english}
+
 Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from taking that which is not given.\\
+\end{english}
+
 Kāmesu micchācārā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from sexual misconduct.\\
+\end{english}
+
 Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from lying.\\
+\end{english}
+
 Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from consuming intoxicating\\
 drink and drugs that lead to carelessness.ii\\
+\end{english}
+
 Leader: Appamādena sampādetha\\
+
+\begin{english}
 Perfect yourselves not being negligent.\\
+\end{english}
+
 Response: Sādhu, sādhu, sādhu\\
 
+\begin{center}
 (Bow three times)\\
+\end{center}
 #+end_src
 *** Undertaking the Eight Trainings
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 \subsection{Undertaking the Eight Trainings}
 
+\begin{center}
 (To undertake the trainings, repeat each training after the leader)\\
+\end{center}
+
 Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from taking the life of any living being.\\
+\end{english}
+
 Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from taking that which is not given.\\
+\end{english}
+
 Abrahmacariyā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from any intentional sexual activity.\\
+\end{english}
+
 Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from lying.\\
+\end{english}
+
 Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from consuming intoxicating drink and drugs thati lead to carelessness.\\
+\end{english}
+
 Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from eating after noon.ii\\
+\end{english}
+
 Nacca-gīta-vādita-visūkadassanā mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from dancing, singing, music and going to entertainments; from perfumes, beautification and adornments.iii\\
+\end{english}
+
 Uccāsayana-mahāsayanā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+
+\begin{english}
 I undertake the training to refrain from lying on a high or luxurious sleeping place.\\
+\end{english}
+
 Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}\\
+
+\begin{english}
 I undertake these Eight Trainings.\\
+\end{english}
+
 Leader: Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye\\
+
+\begin{english}
 These Eight Trainings\\
 have virtue as a vehicle for happiness,\\
 have virtue as a vehicle for good fortune,\\
 have virtue as a vehicle for liberation.\\
 Therefore let virtue be purified.iv\\
+\end{english}
+
 Response: Sādhu, sādhu, sādhu\\
 
+\begin{center}
 (Bow three times)\\
+\end{center}
 #+end_src
 ** Pāli Phonetics & Pronunciation
 #+begin_src latex :tangle ./manuscript/tex/phonetics-pronunciation.tex
-\chapter{Pāli Phonetics and Pronunciation}
+\section{Pāli Phonetics and Pronunciation}
 
 % % TODO: Insert graph here
+% \includegraphics[width=0.5\textwidth]{./assets/photos/warder-pali-alphabet-table/Warder Pali Alphabet Table.png}
 
-% % TODO: Compare to ours and decide which one.
-Pāli is the original scriptural language of Theravāda Buddhism. It was a spoken
-language, closely related to Sanskrit, with no written script of its own. As
-written forms have emerged, they have been in the letterings of other languages
-(e.g. Devanagari, Sinhalese, Burmese, Khmer, Thai, Roman). The Roman lettering
-used here is pronounced as in English, with the following clarifications:
+\begin{justify}
+Pāli is the original scriptural language of Theravāda Buddhism. It was a spoken language, closely related to Sanskrit, with no written script of its own. As written forms have emerged, they have been in the letterings of other languages (e.g. Devanagari, Sinhalese, Burmese, Khmer, Thai, Roman). The Roman lettering used here is pronounced as in English, with the following clarifications:
+\end{justify}
 
-\section*{Vowels}
+\medskip
 
-{\centering
-
+\textbf{Vowels} are of two types:
+% TODO: good but still textual overlap
+\begin{minipage}{.5\textwidth}
   \begin{tabular}{@{} ll @{}}
-    Short & Long\\
-    \textbf{a} as in magm\prul{a} &
-                                    \textbf{ā} as in f\prul{a}ther\\
-    \textbf{i} as in l\prul{i}ter &
-                                    \textbf{ī} as in mach\prul{i}ne\\
-    \textbf{u} as in p\prul{u}t &
-                                  \textbf{ū} as in r\prul{u}le\\
-          & \textbf{e} as in \prul{e}nd\\
-          & \textbf{o} as in m\prul{o}re\\
+    \textbf{Short} & \textbf{Long}\\
+    \textbf{a} as in magm\prul{a} & \textbf{ā} as in f\prul{a}ther\\
+    \textbf{i} as in l\prul{i}ter & \textbf{ī} as in mach\prul{i}ne\\
+    \textbf{u} as in p\prul{u}t   & \textbf{ū} as in r\prul{u}le\\
+                   & \textbf{e} as in \prul{e}nd\\
+                   & \textbf{o} as in m\prul{o}re\\
   \end{tabular}
+\end{minipage}% This must go next to `\end{minipage}`
+\begin{minipage}{.5\textwidth}
+  Exceptions: e and o change to short sounds in syllables ending in double consonants. They are then pronounced as in “pet” and “soft” respectively. (eg. sotthi)
+\end{minipage}
 
-}
+\begin{justify}
+\textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, i.e., \textbf{lh}, \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. ‘jivhā’ or ‘muḷho’).  Examples: \textbf{th} as t in tongue. (never pronounced as in “the”) \textbf{ph} as p in palate (never pronounced as in “photo”).
+\end{justify}
 
-Exceptions: \textbf{e} and \textbf{o} change to short sounds in syllables
-ending in consonants. They are then pronounced as in `g\prul{e}t' and
-`\prul{o}x', respectively.
+\begin{justify}
+These are distinct from the hard, crisp sound of the single consonant, e.g. th as in “Thomas” (not as in “thin”) or ph as in “puff” (not as in “phone”).
+\end{justify}
 
-\section*{Consonants}
+\textbf{ḍ} , \textbf{ḍh} , \textbf{ḷ} , \textbf{ṇ} , \textbf{ṭ} , \textbf{ṭh}
 
-\textbf{c} as in an\prul{c}ient (like \prul{ch} but unaspirated)
+\begin{justify}
+These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the palate.
+\end{justify}
 
-\textbf{ṁ, ṅ} as \prul{ng} in sa\prul{ng}
+\textbf{Miscellaneous}
+\begin{justify}
+The semivowel “\textbf{v}” is pronounced as in “\textbf{w}e” “\textbf{ñ}” is pronounced as in “ca\textbf{ny}on” The pure nasal “\textbf{ṁ}” and voiced nasal “\textbf{ṅ}” are pronounced as in “su\textbf{ng}”.
+\end{justify}
 
-\textbf{ñ} as \prul{ny} in ca\prul{ny}on
+\begin{justify}
+As an aid to understanding, \textbf{hyphens} (-) have often been inserted in longer Pāli compounds, in order to indicate the separate words that make up the compound. This should not affect the pronunciation during recitation in any way. In order to not suggest unintended pauses in the flow of the recitation, punctuation marks (commas, periods, colons and semicolons) were removed for most chants. \textbf{Line breaks} within a sentence indicate that a short breathing pause is inserted, but indented line breaks indicate that recitation continues without a breathing pause.
+\end{justify}
 
-\textbf{v} rather softer than the English \prul{v}; near \prul{w}
+\begin{justify}
+Elsewhere, \textbf{breath marks} ( \breathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously as within one’s capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets }[…] serve as an introduction, and are recited only by the leader. Except for Pāli paritta and funeral chants, there is a pause after […], before the rest of the group joins in.
+\end{justify}
 
-\subsection{Aspirated consonants}
-
-\textbf{bh ch dh ḍh gh jh kh ph th ṭh}
-
-These two-lettered notations with \prul{h} denote an aspirated, airy sound,
-distinct from the hard, crisp sound of the single consonant. They should be
-considered as one unit.
-
-However, the other combinations with \textbf{h,} i.e., \textbf{lh, mh, ñh,} and
-\textbf{vh,} do count as two consonants (for example in the Pāli words
-‘ji\textbf{vh}ā’ or ‘mu\textbf{ḷh}o’).
-
-\subsection{Examples}
-
-\textbf{th} as \prul{t} in \prul{t}ongue. (Never pronounced as in `\prul{th}e'.)
-
-\textbf{ph} as \prul{p} in \prul{p}alate. (Never pronounced as in `\prul{ph}oto'.)
-
-These are distinct from the hard, crisp sound of the single consonant, e.g.
-\textbf{th} as in `\prul{Th}omas' (not as in `\prul{th}in') or \textbf{ph} as
-in `\prul{p}uff' (not as in `\prul{ph}one').
-
-\subsection{Retroflex consonants}
-
-\textbf{ḍ ḍh ḷ ṇ ṭ ṭh}
-
-These retroflex consonants have no English equivalents. They are sounded
-by curling the tip of the tongue back against the palate.
-
-\section*{Chanting technique}
-
-Once you have grasped the system of Pāli pronunciation and the following
-chanting technique, it allows you to chant a text in Pāli from sight
-with the correct rhythm.
-
-\textbf{Unstressed syllables} end in a short \textbf{a, i} or
-\textbf{u}. All other syllables are stressed. Stressed syllables take
-twice the time of unstressed syllables --- rather like two beats in a bar
-of music compared to one. This is what gives the chanting its particular
-rhythm.
-
-\begin{centering}
-
-  {\setlength{\tabcolsep}{1.45pt}%
-    \fontsize{8}{13}\selectfont
-    \begin{tabular}{@{} ccc c ccccc c ccccc c ccccccc @{}}
-      BUD & · & DHO & \hsp & SU & · & SUD & · & DHO & \hsp & KA & · & RU & · & ṆĀ & \hsp & MA & · & HAṆ & · & ṆA & · & VO\\
-      1  &   & 1   &      & ½  &   & 1   &   & 1   &      & ½  &   & ½  &   & 1  &      & ½  &   & 1   &   & ½  &   & 1\\
-    \end{tabular}%
-  }
-
-\end{centering}
-
-Two details that are important when separating the syllables:
-
-\textbf{1.} Syllables with double letters get divided in this way:
-
-\begin{centering}
-
-  \begin{minipage}{0.8\linewidth}
-    \fontsize{8}{13}\selectfont
-    \begin{multicols}{2}
-      \setlength{\tabcolsep}{1.8pt}%
-
-      \begin{tabular}{@{} rrcccl @{}}
-        & A & · & NIC & · & CA   \\
-        & ½ &   &  1  &   & ½    \\
-        (not & A & · & NI  & · & CCA) \\
-        & ½ &   & ½   &   & ½    \\
-      \end{tabular}
-
-      \columnbreak
-
-      \begin{tabular}{@{} rrcccl @{}}
-        & PUG & · & GA  & · & LĀ \\
-        &  1  &   &  ½  &   &  1 \\
-        (not & PU  & · & GGA & · & LĀ)\\
-        &  ½  &   &  ½  &   &  1 \\
-      \end{tabular}
-
-    \end{multicols}
-  \end{minipage}
-
-\end{centering}
-
-\vspace*{\parskip}
-
-They are always enunciated separately, e.g. \textbf{dd} in ‘uddeso’ as
-in ‘mad dog’, or \textbf{gg} in ‘maggo’ as in ‘big gun’.
-
-\textbf{2.} \textbf{Aspirated consonants} like \textbf{bh, dh} etc.
-count as single consonant and don't get divided (Therefore
-\textbf{am·hā·kaṁ}, but \textbf{sa·dham·maṁ}, not \textbf{sad·ham·maṁ}
-or, another example: \textbf{Bud·dho} and not \textbf{Bu·ddho}).
-
-Precise pronunciation and correct separation of the syllables is
-especially important when someone is interested in learning Pāli and to
-understand and memorize the meaning of Suttas and other chants,
-otherwise the meaning of it will get distorted.
-
-\textbf{An example to illustrate this:}
-
-The Pāli word ‘\textbf{sukka}’ means ‘bright’; ‘\textbf{sukkha}’ means
-‘dry’; ‘\textbf{sukha}’ --- ‘happiness’; ‘\textbf{suka}’ --- ‘parrot’ and
-‘\textbf{sūka}’ --- ‘bristles on an ear of barley’.
-
-So if you chant ‘\textbf{sukha}’ with a ‘\textbf{k}’ instead of a
-‘\textbf{kh}’, you would chant ‘parrot’ instead of ‘happiness’.
-
-A general rule of thumb for understanding the practice of chanting is to
-listen carefully to what the leader and the group are chanting and to
-follow, keeping the same pitch, tempo and speed. All voices should blend
-together as one.
 #+end_src
+
 ** Chanting Leader Guidelines
 #+begin_src latex :tangle ./manuscript/tex/guidelines.tex
-\chapter{Chanting Leader Guidelines}
+\section{Chanting Leader Guidelines}
 
-It is both a great honour and also a great responsibility to lead a group of fellow Dhamma practitioners through Dhamma recitations. These guidelines provide tips that can help facilitate a smooth and enjoyable experience for the group of participants, as well as for the chanting leader himself.\\
+\begin{justify}
+It is both a great honour and also a great responsibility to lead a group of fellow Dhamma practitioners through Dhamma recitations. These guidelines provide tips that can help facilitate a smooth and enjoyable experience for the group of participants, as well as for the chanting leader himself.
+\end{justify}
 
-To bring value to the community, the following pointsshould be considered:\\
-• Accurate Pāli Pronunciation\\
-• Sufficient Audibility \& Volume\\
-• A Speed that Others Can Follow\\
-• Maintaining the Speed Throughout the Recitation\\
-• A Pitch that Others Can Follow\\
-• Maintaining the Pitch Throughout the Recitation\\
-• Continuity\\
-Here some notes on why and how to accomplish above objectives:\\
+To bring value to the community, the following pointsshould be considered:
+\begin{itemize}
+\item Accurate Pāli Pronunciation
+\item Sufficient Audibility \& Volume
+\item A Speed that Others Can Follow
+\item Maintaining the Speed Throughout the Recitation
+\item A Pitch that Others Can Follow
+\item Maintaining the Pitch Throughout the Recitation
+\item Continuity
+\end{itemize}
+Here some notes on why and how to accomplish above objectives:
 
-\section{Accurate Pāli Pronunciation}
-Within the domain of Pāli pronunciation, the chanting leader shall take special care of long and short syllables, since this would otherwise result in a disunited recitation with those who do take care of long and short syllables. To obtain good Pāli pronunciation, frequently chanting with those who have good pronunciation, or listening and chant along with audio recordings of well-pronounced Pāli recitations, can go a long way. This helps to identify and even out idiosyncrasies that may have arisen. Of course, all other elements of accurate Pāli pronunciation too shall be integrated as much as possible (voiceless vs. voiced, aspirate vs. non-aspirate consonants etc.), but the difference between long and short syllables is the most important one in the present context.\\
+\subsection*{Accurate Pāli Pronunciation}
+\begin{justify}
+Within the domain of Pāli pronunciation, the chanting leader shall take special care of long and short syllables, since this would otherwise result in a disunited recitation with those who do take care of long and short syllables. To obtain good Pāli pronunciation, frequently chanting with those who have good pronunciation, or listening and chant along with audio recordings of well-pronounced Pāli recitations, can go a long way. This helps to identify and even out idiosyncrasies that may have arisen. Of course, all other elements of accurate Pāli pronunciation too shall be integrated as much as possible (voiceless vs. voiced, aspirate vs. non-aspirate consonants etc.), but the difference between long and short syllables is the most important one in the present context.
+\end{justify}
 
-\section{Sufficient Audibility \& Volume}
-In order for others to be able to follow the chanting style of the chanting leader accurately, it is tantamount that he is clearly audible. The voice of the chanting leader should be louder than that of the loudest group member, so that others can follow the chanting leader’s lead with ease, rather than having to make an effort to find his voice. This is not to say that the chanting leader needs to blast everyone to such a degree that only his voice can be heard. This would defeat the purpose of group recitation. As often in Dhamma practice, a healthy balance between extremes needs to be found. However, when in doubt it is preferable if the chanting leader errs on the side of ‘too loud’, rather than ‘too soft’. Both newcomers, as well as those who have memorized the chants, but are not yet fully proficient in their recollection of the chants, benefit greatly from a chanting leader whose voice has a decent volume and is clearly audible. While some individuals naturally have a voice that resonates strongly, or have trained their voice to that extent, those who are not so disposed may use a microphone for support. Using a microphone also allows the chanting leader to recite in a more relaxed manner, rather than having to constantly make sure that his voice carries to all corners of the room or hall. For chanting periods that take more than 20 minutes, there is a tendency for one’s voice to become softer and thus less penetrating compared to the beginning of the chanting session. Again, a microphone or increased effort can help to remedy this tendency.\\
+\subsection*{Sufficient Audibility \& Volume}
+\begin{justify}
+In order for others to be able to follow the chanting style of the chanting leader accurately, it is tantamount that he is clearly audible. The voice of the chanting leader should be louder than that of the loudest group member, so that others can follow the chanting leader’s lead with ease, rather than having to make an effort to find his voice. This is not to say that the chanting leader needs to blast everyone to such a degree that only his voice can be heard. This would defeat the purpose of group recitation. As often in Dhamma practice, a healthy balance between extremes needs to be found. However, when in doubt it is preferable if the chanting leader errs on the side of ‘too loud’, rather than ‘too soft’. Both newcomers, as well as those who have memorized the chants, but are not yet fully proficient in their recollection of the chants, benefit greatly from a chanting leader whose voice has a decent volume and is clearly audible. While some individuals naturally have a voice that resonates strongly, or have trained their voice to that extent, those who are not so disposed may use a microphone for support. Using a microphone also allows the chanting leader to recite in a more relaxed manner, rather than having to constantly make sure that his voice carries to all corners of the room or hall. For chanting periods that take more than 20 minutes, there is a tendency for one’s voice to become softer and thus less penetrating compared to the beginning of the chanting session. Again, a microphone or increased effort can help to remedy this tendency.
+\end{justify}
 
-\section{A Speed that Others Can Follow}
-Everyone has a preferred speed at which one finds it pleasant to recite. It is helpful for the chanting leader to choose a speed that allows him to maintain a clear pronunciation of Pāli terms. Even if one is able to chant accurately at high speed, it would be very difficult for newcomers and those who are not familiar with Pāli, to follow along. Pāli is not our mother tongue, and fluent reading requires a lot of skill and practice. It is therefore important when chanting with others, to choose a speed that they can follow along comfortably, without causing them to feel stressed by the end of the chant, as if having participated in a rap battle. Choosing a more meditative pace also allows the mind to process the Dhamma while reciting it; a task that is not easy for beginners. Nonethless, slowing down helps greatly to allow for reflections and insights to arise during Dhamma recitation. At the same time, if the pace is too slow, some individuals may feel bored, or even fall asleep. Again, the right speed usually lies somewhere between the extremes. Private recitation in one’s kuṭi or walking path, undertaken for the sake of maintaining chants in memory by rehearsing them from time to time, is usually done much faster than how one would recite with a group. This allows one to rehearse large amounts of texts in short time, which is useful when wanting to maintain a large body of chants in memory. In contrast, group rezitation should follow a more moderate pace, to fulfill the earlier mentioned objectives.\\
+\subsection*{A Speed that Others Can Follow}
+\begin{justify}
+Everyone has a preferred speed at which one finds it pleasant to recite. It is helpful for the chanting leader to choose a speed that allows him to maintain a clear pronunciation of Pāli terms. Even if one is able to chant accurately at high speed, it would be very difficult for newcomers and those who are not familiar with Pāli, to follow along. Pāli is not our mother tongue, and fluent reading requires a lot of skill and practice. It is therefore important when chanting with others, to choose a speed that they can follow along comfortably, without causing them to feel stressed by the end of the chant, as if having participated in a rap battle. Choosing a more meditative pace also allows the mind to process the Dhamma while reciting it; a task that is not easy for beginners. Nonethless, slowing down helps greatly to allow for reflections and insights to arise during Dhamma recitation. At the same time, if the pace is too slow, some individuals may feel bored, or even fall asleep. Again, the right speed usually lies somewhere between the extremes. Private recitation in one’s kuṭi or walking path, undertaken for the sake of maintaining chants in memory by rehearsing them from time to time, is usually done much faster than how one would recite with a group. This allows one to rehearse large amounts of texts in short time, which is useful when wanting to maintain a large body of chants in memory. In contrast, group rezitation should follow a more moderate pace, to fulfill the earlier mentioned objectives.
 
-A regular chanting leader may ask for feedback from others, whether they find his chanting speed comfortable to chant along with, or whether they find it too fast or slow. The experience of newcomers should find special consideration.\\
+A regular chanting leader may ask for feedback from others, whether they find his chanting speed comfortable to chant along with, or whether they find it too fast or slow. The experience of newcomers should find special consideration.
+\end{justify}
 
-\section{Maintaining the Speed Throughout the Recitation}
-Once a suitable speed has been chosen to start one’s recitation (see previous point), it may be challenging to maintain the chosen speed throughout the chant, or even throughout the entire chanting session. For most individuals there is a natural tendency to speed up as time goes by. It is the chanting leader’s task to prevent that from happening, unless he finds out that the speed he has chosen at the beginning of the chant is too fast or slow for himself and/or others. The ideal time for speed adjustments is between two chants; not during a chant. The introduction line e.g. “Handa mayaṁ…”, or “Evaṁ me sutaṁ” can be used as an indicator for how fast or slow the chanting leader wants to recite, whereas the rest of the group shall follow whatever speed the chanting leader has chosen. If another group member, especially one with a strong and predominant voice has a tendency to change speed midway, or lengthen/shorten/skip syllables due to inaccurate Pāli pronunciation, the chanting leader must not follow his lead. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request if he would be willing to chant more softly, so that other group members can more accurately and easily follow the chanting leader’s lead.\\
+\subsection*{Maintaining the Speed Throughout the Recitation}
+\begin{justify}
+Once a suitable speed has been chosen to start one’s recitation (see previous point), it may be challenging to maintain the chosen speed throughout the chant, or even throughout the entire chanting session. For most individuals there is a natural tendency to speed up as time goes by. It is the chanting leader’s task to prevent that from happening, unless he finds out that the speed he has chosen at the beginning of the chant is too fast or slow for himself and/or others. The ideal time for speed adjustments is between two chants; not during a chant. The introduction line e.g. “Handa mayaṁ…”, or “Evaṁ me sutaṁ” can be used as an indicator for how fast or slow the chanting leader wants to recite, whereas the rest of the group shall follow whatever speed the chanting leader has chosen. If another group member, especially one with a strong and predominant voice has a tendency to change speed midway, or lengthen/shorten/skip syllables due to inaccurate Pāli pronunciation, the chanting leader must not follow his lead. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request if he would be willing to chant more softly, so that other group members can more accurately and easily follow the chanting leader’s lead.
+\end{justify}
 
-\section{A Pitch that Others Can Follow}
-Much of what has been stated in the chapters about chanting speed, applies equally to one’s chanting pitch. Everyone has his own preferred pitch, at which his voice sounds most natural and requires the least effort to produce sound. It is helpful for the chanting leader to choose a pitch that is not too far from his natural pitch; otherwise it can become very exhausting, especially when recitation continues for longer periods. However, a certain degree of adjustment may be necessary on the part of the chanting leader, if his natural pitch happens to be far outside the average person’s range. Whether it is very high or very low, it can be difficult for others to tune in to, if the chanting leader’s pitch is very different from their own. A regular chanting leader can learn by asking for feedback from others, as to whether they find his pitch comfortable to chant along with, or whether they find it too high or too low. If it turns out that many people point out they find his pitch to be very high or low, he may deliberately adjust his pitch, while still remaining within his own comfort zone. Listening to a reference note before starting to recite, may be helpful for the chanting leader to hit the right pitch every time. A musical ear too can help, but this is very difficult to train; some even claim it’s impossible to develop. Someone who aspires to polish his skills in this area and would like to learn one or two tricks for how to find his own comfortable pitch every time he starts to lead a chant, can privately approach me for some guidance.\\
+\subsection*{A Pitch that Others Can Follow}
+\begin{justify}
+Much of what has been stated in the chapters about chanting speed, applies equally to one’s chanting pitch. Everyone has his own preferred pitch, at which his voice sounds most natural and requires the least effort to produce sound. It is helpful for the chanting leader to choose a pitch that is not too far from his natural pitch; otherwise it can become very exhausting, especially when recitation continues for longer periods. However, a certain degree of adjustment may be necessary on the part of the chanting leader, if his natural pitch happens to be far outside the average person’s range. Whether it is very high or very low, it can be difficult for others to tune in to, if the chanting leader’s pitch is very different from their own. A regular chanting leader can learn by asking for feedback from others, as to whether they find his pitch comfortable to chant along with, or whether they find it too high or too low. If it turns out that many people point out they find his pitch to be very high or low, he may deliberately adjust his pitch, while still remaining within his own comfort zone. Listening to a reference note before starting to recite, may be helpful for the chanting leader to hit the right pitch every time. A musical ear too can help, but this is very difficult to train; some even claim it’s impossible to develop. Someone who aspires to polish his skills in this area and would like to learn one or two tricks for how to find his own comfortable pitch every time he starts to lead a chant, can privately approach me for some guidance.
+\end{justify}
 
-\section{Maintaining the Pitch Throughout the Recitation}
-Once a suitable pitch has been chosen to start one’s recitation (see previous point), it can be a challenging task to maintain the chosen pitch throughout the chant, what more throughout the entire chanting session. For many individuals there is a natural tendency to gradually drag the pitch lower and lower as time goes by. It is the chanting leader’s task to prevent that from happening, unless he feels that the pitch he has chosen at the beginning of the chant is too high or low for himself and/or others. In this case, the ideal time for making pitch corrections, is between two chants. The introduction line e.g. “Handa mayaṁ…” sets the tone, whereby the rest of the group shall tune in at whatever pitch the chanting leader has chosen. Once a certain pitch has been started, try to maintain it throughout the chant. If another group member, especially one with a strong and predominant voice, has a tendency to change pitch midway, try not to follow his lead but keep chanting in the original pitch. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request if he would be willing to chant more softly, so that other group members can more accurately and easily follow the chanting leader’s lead.\\
+\subsection*{Maintaining the Pitch Throughout the Recitation}
+\begin{justify}
+Once a suitable pitch has been chosen to start one’s recitation (see previous point), it can be a challenging task to maintain the chosen pitch throughout the chant, what more throughout the entire chanting session. For many individuals there is a natural tendency to gradually drag the pitch lower and lower as time goes by. It is the chanting leader’s task to prevent that from happening, unless he feels that the pitch he has chosen at the beginning of the chant is too high or low for himself and/or others. In this case, the ideal time for making pitch corrections, is between two chants. The introduction line e.g. “Handa mayaṁ…” sets the tone, whereby the rest of the group shall tune in at whatever pitch the chanting leader has chosen. Once a certain pitch has been started, try to maintain it throughout the chant. If another group member, especially one with a strong and predominant voice, has a tendency to change pitch midway, try not to follow his lead but keep chanting in the original pitch. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request if he would be willing to chant more softly, so that other group members can more accurately and easily follow the chanting leader’s lead.
+\end{justify}
 
-\section{Continuity}
-Individuals who do not know how to recite a particular text due to moderate prior exposure, as well as those who have memorized a text poorly, rely heavily on the chanting leader. They benefit greatly from a chanting leader whose voice can be heard throughout the entire chant. Continuity can be difficult to maintain when there is a need to breathe at places other than those when there is a breath mark, or when having to cough. At such times a chanting leader can help the group by choosing his pauses skilfully. It is particularly at the beginning of sentences/lines that certain group members may get stuck due to a lapse of memory. It is here when the voice of the chanting leader can be very helpful to get them back on track. Likewise, at the end of long lines/sentences, the chanting leader’s voice is important. Some members of the group may have run out of breath midway, and may therfore skip the last few words and start chanting again only at the next line, whereupon one may notice that the overall volume has decreased towards the end of the sentence. Here too it is important that at least the chanting leader continues until the very end of the sentence. The importance of the chanting leader’s voice to be present at the beginning and end of the line/sentence, makes the middle of the sentence the ideal time for a short breathing break for him, if necessary. In the middle of sentences, the absence of his voice may barely be noticed, since the rest of the group keeps the chant going. The second-best choice for a short break is the end of the line, whereas for the beginning of lines it is an absolute must for the chanting leader’s voice to be present. In this way he helps to keep the chant going without interruption, and those who recite by heart can trust and rely on the chanting leader’s voice for their support.\\
+\subsection*{Continuity}
+\begin{justify}
+Individuals who do not know how to recite a particular text due to moderate prior exposure, as well as those who have memorized a text poorly, rely heavily on the chanting leader. They benefit greatly from a chanting leader whose voice can be heard throughout the entire chant. Continuity can be difficult to maintain when there is a need to breathe at places other than those when there is a breath mark, or when having to cough. At such times a chanting leader can help the group by choosing his pauses skilfully. It is particularly at the beginning of sentences/lines that certain group members may get stuck due to a lapse of memory. It is here when the voice of the chanting leader can be very helpful to get them back on track. Likewise, at the end of long lines/sentences, the chanting leader’s voice is important. Some members of the group may have run out of breath midway, and may therfore skip the last few words and start chanting again only at the next line, whereupon one may notice that the overall volume has decreased towards the end of the sentence. Here too it is important that at least the chanting leader continues until the very end of the sentence. The importance of the chanting leader’s voice to be present at the beginning and end of the line/sentence, makes the middle of the sentence the ideal time for a short breathing break for him, if necessary. In the middle of sentences, the absence of his voice may barely be noticed, since the rest of the group keeps the chant going. The second-best choice for a short break is the end of the line, whereas for the beginning of lines it is an absolute must for the chanting leader’s voice to be present. In this way he helps to keep the chant going without interruption, and those who recite by heart can trust and rely on the chanting leader’s voice for their support.
+\end{justify}
 
-\section{Summary}
-The above points and principles are meant to function as a guideline for aspiring chanting leaders to make their own experience as smooth as possible, without having to be stressed or insecure about making mistakes. Moreover, the rest of the group benefit from well-trained chanting leaders, who give their fellow Saṅgha members a sense of ease and comfort while reciting the words of the Buddha, allowing them to reflect on the meaning along the way. After all, recitation of the Dhamma is one of the gateways to liberation (AN 5.209).\\
+\subsection*{Summary}
+\begin{justify}
+The above points and principles are meant to function as a guideline for aspiring chanting leaders to make their own experience as smooth as possible, without having to be stressed or insecure about making mistakes. Moreover, the rest of the group benefit from well-trained chanting leaders, who give their fellow Saṅgha members a sense of ease and comfort while reciting the words of the Buddha, allowing them to reflect on the meaning along the way. After all, recitation of the Dhamma is one of the gateways to liberation (AN 5.209).
+\end{justify}
+
+\begin{justify}
 Thanks to all Saṅgha members who are willing to share this meaningful task among themselves, by taking turns as chanting leaders.
+\end{justify}
 #+end_src
 ** Abbreviations
 #+begin_src latex :tangle ./manuscript/tex/abbreviations.tex
