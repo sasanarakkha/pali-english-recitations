@@ -142,116 +142,125 @@ TODO: add a label where the links should go (\label{set-1}), and use: \hyperref[
 
   \textsc{
     \hyperref[buddhas-first-exclamation]{The Buddha's First Exclamation}\\
-    Setting in Motion the Wheel of Dhamma\\
-    Going to True and False Refuges\\
-    The Four Great References\\
-    The Pāṭimokkha Exhortation\\
-    The Buddha's Final Instruction\\
-    Uddissanādhiṭṭhāna\\
-    Closing Homage (Pāli-English)}\\
+    \hyperref[wheel-of-dhamma-abridged]{Setting in Motion the Wheel of Dhamma}\\
+    \hyperref[true-false-refuges]{Going to True and False Refuges}\\
+    \hyperref[four-great-references]{The Four Great References}\\
+    \hyperref[patimokkha-exhortation]{The Pāṭimokkha Exhortation}\\
+    \hyperref[buddhas-final-instruction]{The Buddha's Final Instruction}\\
+    \hyperref[uddissanadhitthana]{Uddissanādhiṭṭhāna}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\
 
   \bigskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 2}}}}\\
 
-  \textsc{The Discourse on the Characteristic of Not-Self\\
-    The Fire Sermon\\
-    The Gradual Training\\
-    Sharing and Aspirations\\
-    Closing Homage (Pāli-English)}\\
+  \textsc{
+    \hyperref[characteristic-of-not-self]{The Discourse on the Characteristic of Not-Self}\\
+    \hyperref[fire-sermon]{The Fire Sermon}\\
+    \hyperref[gradual-training]{The Gradual Training}\\
+    \hyperref[noble-eightfold-path]{Sharing and Aspirations}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\
 
   \bigskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 3}}}}\\
 
-  \textsc{The Noble Eightfold Path\\
-    The Repulsiveness of Food\\
-    Requisites for Awakening\\
-    Principles of Non-Decline\\
-    On Protection\\
-    Sharing of All Merits\\
-    Closing Homage (Pāli-English)}\\
+  \textsc{
+    \hyperref[noble-eightfold-path]{The Noble Eightfold Path}\\
+    \hyperref[repulsiveness-of-food]{The Repulsiveness of Food}\\
+    \hyperref[requisites-for-awakening]{Requisites for Awakening}\\
+    \hyperref[principles-of-non-decline]{Principles of Non-Decline}\\
+    \hyperref[protection]{On Protection}\\
+    \hyperref[sharing-all-merits]{Sharing of All Merits}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\
 
   \clearpage
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 4}}}}\\
 
-  \textsc{Morning Chanting\\
-    Universal Well-Being\\
-    The Seven Factors of Awakening\\
-    The Buddha’s Words on Loving-Kindness\\
-    Sharing of Merits with the Departed (Pāli-English)\\
-    Sharing of Merits with the Devas (Pāli)\\
-    Closing Homage (Pāli-English)}\\
+  \textsc{
+    \hyperref[dedication-of-offerings]{Homage to the Triple Gem}\\
+    \hyperref[universal-well-being]{Universal Well-Being}\\
+    \hyperref[seven-factors-of-awakening]{The Seven Factors of Awakening}\\
+    \hyperref[words-on-loving-kindness]{The Buddha’s Words on Loving-Kindness}\\
+    \hyperref[sharing-merits-departed]{Sharing of Merits with the Departed (Pāli-English)}\\
+    \hyperref[sharing-merits-devas]{Sharing of Merits with the Devas (Pāli)}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\
 
   \bigskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 5}}}}\\
 
-  \textsc{Mindfulness of Breathing\\
-    The Highest Blessings\\
-    The Three Characteristics\\
-    The Four Requisites\\
-    Five Subjects for Frequent Recollection\\
-    The Thirty-Two Body Parts\\
-    Principles of Cordiality\\
-    The Highest Honour and Aspirations\\
-    Closing Homage (Pāli-English)}\\
+  \textsc{
+    \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing}\\
+    \hyperref[highest-blessings]{The Highest Blessings}\\
+    \hyperref[three-characteristics]{The Three Characteristics}\\
+    \hyperref[four-requisites]{The Four Requisites}\\
+    \hyperref[five-recollections]{Five Subjects for Frequent Recollection}\\
+    \hyperref[32-parts]{The Thirty-Two Body Parts}\\
+    \hyperref[principles-of-cordiality]{Principles of Cordiality}\\
+    \hyperref[highest-honour-aspirations]{The Highest Honour and Aspirations}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\
 
   \bigskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 6}}}}\\
 
-  \textsc{Anatta-Lakkhaṇa Sutta\\
-    Striving According to the Dhamma\\
-    The Divine Abidings\\
-    Ten Subjects for Frequent Reflection By One Gone Forth\\
-    Sharing and Aspirations\\
-    Closing Homage (Pāli-English)}\\
+  \textsc{
+    \hyperref[anatta-lakkhana]{Anatta-Lakkhaṇa Sutta}\\
+    \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma}\\
+    \hyperref[divine-abidings]{The Divine Abidings}\\
+    \hyperref[ten-recollections]{Ten Subjects for Frequent Reflection By One Gone Forth}\\
+    \hyperref[sharing-aspirations]{Sharing and Aspirations}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\
 
   \bigskip
   \clearpage
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 7}}}}\\
 
-  \textsc{Dependent Origination\\
-    The Dhamma in Brief\\
-    Uddissanādhiṭṭhāna\\
-    Closing Homage (Pāli-English)}\\
+  \textsc{
+    \hyperref[dependent-origination]{Dependent Origination}\\
+    \hyperref[dhamma-in-brief]{The Dhamma in Brief}\\
+    \hyperref[uddissanadhitthana]{Uddissanādhiṭṭhāna}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\
 
   \medskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 8}}}}\\
 
-  \textsc{Āditta-Pariyāya Sutta\\
-    The Burdens\\
-    Respect for the Dhamma\\
-    A Single Excellent Night\\
-    From the Elder Raṭṭhapāla\\
-    From the Elder Pārāpariya\\
-    Miscellaneous Verses\\
-    The Highest Honour and Aspirations\\
-    Closing Homage (Pāli-English)}\\ %& \pageref{closing-homage} \\
+  \textsc{
+    \hyperref[aditta-pariyaya]{Āditta-Pariyāya Sutta}\\
+    \hyperref[burdens]{The Burdens}\\
+    \hyperref[respect-for-the-dhamma]{Respect for the Dhamma}\\
+    \hyperref[single-excellent-night]{A Single Excellent Night}\\
+    \hyperref[ratthapala]{From the Elder Raṭṭhapāla}\\
+    \hyperref[parapariya]{From the Elder Pārāpariya}\\
+    \hyperref[misc-verses]{Miscellaneous Verses}\\
+    \hyperref[highest-honour-aspirations]{The Highest Honour and Aspirations}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\ %& \pageref{closing-homage} \\
 
   \medskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 9}}}}\\
 
-  \textsc{Paritta Chants (Pāli)\\
-    Sharing of Merits with the Departed (Pāli)\\
-    Sharing of Merits with the Devas (Pāli)\\
-    Closing Homage (Pāli)}\\
+  \textsc{
+    \hyperref[deva-aradhana]{Paritta Chants (Pāli)}\\
+    \hyperref[sharing-merits-departed]{Sharing of Merits with the Departed (Pāli)}\\
+    \hyperref[sharing-merits-devas]{Sharing of Merits with the Devas (Pāli)}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli)}}\\
 
   \medskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 10}}}}\\
 
-  \textsc{Funeral Chants (Pāli)\\
-    Recollection of Impermanence\\
-    Anumodanā Chants (Pāli)\\
-    Just as Rivers\\
-    Sharing of All Merits\\
-    Closing Homage (Pāli-English)}\\
+  \textsc{
+    \hyperref[pubba-bhaga-nama-kara-patho]{Funeral Chants (Pāli)}\\
+    \hyperref[recollection-impermanence]{Recollection of Impermanence}\\
+    \hyperref[yatha-vari-vaha-pura]{Anumodanā Chants (Pāli)}\\
+    \hyperref[just-as-rivers]{Just as Rivers}\\
+    \hyperref[sharing-all-merits]{Sharing of All Merits}\\
+    \hyperref[closing-homage]{Closing Homage (Pāli-English)}}\\
 
 \end{center}
 #+end_src
@@ -1137,6 +1146,7 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 
 \bottomNav{universal-well-being}
 #+end_src
+
 ** Closing Homage
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 \section{Closing Homage}
@@ -1238,7 +1248,7 @@ Saṅghaṁ namāmi
 
 \suttaRef{[Dhp 153-154]}
 
-\bottomNav{words-on-loving-kindness}
+\bottomNav{wheel-of-dhamma-abridged}
 #+end_src
 
 ** Respect for the Dhamma
@@ -1313,8 +1323,6 @@ Dhammo pāpeti suggatiṁ
     This line is missing in Wat Pah Nanachat chanting book.}
 \end{paritta}
 
-
-
 \begin{english}
   The Dhamma guards those who live in line with it\\
   And leads to happiness when practised well\\
@@ -1324,7 +1332,7 @@ Dhammo pāpeti suggatiṁ
 
 \suttaRef{[Thag 4.10]}
 
-\bottomNav{}
+\bottomNav{single-excellent-night}
 #+end_src
 ** Going to True and False Refuges
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
@@ -1395,7 +1403,7 @@ Dhammo pāpeti suggatiṁ
 
 \suttaRef{[Dhp 188-192]}
 
-\bottomNav{}
+\bottomNav{four-great-references}
 #+end_src
 
 ** The Pāṭimokkha Exhortation
@@ -1495,7 +1503,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \suttaRef{[Dhp 183-185]}
 
-\bottomNav{}
+\bottomNav{buddhas-final-instruction}
 #+end_src
 ** The Three Characteristics
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
@@ -1592,7 +1600,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \suttaRef{[Dhp 85-87.5]}
 
-\bottomNav{}
+\bottomNav{four-requisites}
 #+end_src
 
 ** The Burdens
@@ -1632,7 +1640,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \suttaRef{[SN 22.22]}
 
-\bottomNav{}
+\bottomNav{respect-for-the-dhamma}
 #+end_src
 
 ** From the Elder Raṭṭhapāla
@@ -1791,7 +1799,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \suttaRef{[Thag 16.4 / MN 82]}
 
-\bottomNav{}
+\bottomNav{parapariya}
 #+end_src
 
 ** From the Elder Pārāpariya
@@ -1914,7 +1922,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \suttaRef{[Thag 16.10]}
 
-\bottomNav{}
+\bottomNav{misc-verses}
 #+end_src
 ** On Protection
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
@@ -1990,7 +1998,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \suttaRef{[SN 2.8]}
 
-\bottomNav{}
+\bottomNav{sharing-all-merits}
 #+end_src
 
 ** Miscellaneous Verses
@@ -2224,7 +2232,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \suttaRef{[MN 19]}
 
-\bottomNav{}
+\bottomNav{highest-honour-aspirations}
 #+end_src
 
 ** A Single Excellent Night
@@ -2290,7 +2298,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \suttaRef{[MN 131]}
 
-\bottomNav{}
+\bottomNav{ratthapala}
 #+end_src
 
 ** The Highest Blessings
@@ -2379,7 +2387,7 @@ These are the highest blessings
 
 \suttaRef{[Snp 2.4]}
 
-\bottomNav{}
+\bottomNav{three-characteristics}
 #+end_src
 
 ** The Buddha’s Words on Loving-Kindness
@@ -2440,7 +2448,7 @@ Is not born again into this world
 
 \suttaRef{[Snp 1.8]}
 
-
+\bottomNav{sharing-merits-departed}
 #+end_src
 
 * Teachings
@@ -3120,7 +3128,7 @@ N’atthidāni punabbhavo’ti
 
 \suttaRef{[SN 56.11]}
 
-\bottomNav{words-on-loving-kindness}
+\bottomNav{true-false-refuges}
 #+end_src
 ** Anupubba-sikkhā
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -3297,7 +3305,7 @@ for the world \breathmark\ he abides with a mind free from longing \breathmark\ 
 
 \suttaRef{[MN 107]}
 
-\bottomNav{}
+\bottomNav{sharing-aspirations}
 #+end_src
 ** Requisites for Awakening
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -3407,7 +3415,7 @@ Ariyo aṭṭhaṅgiko maggo
 
 \suttaRef{[DN 16]}
 
-\bottomNav{}
+\bottomNav{principles-of-non-decline}
 #+end_src
 ** The Seven Factors of Awakening
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -4158,7 +4166,7 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 
 \suttaRef{[SN 45.8]}
 
-\bottomNav{}
+\bottomNav{repulsiveness-of-food}
 #+end_src
 ** Mindfulness of Breathing
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -4525,7 +4533,7 @@ Mahapphalā hoti mahānisaṁsā'ti
 
 \suttaRef{[MN 118]}
 
-\bottomNav{}
+\bottomNav{highest-blessings}
 #+end_src
 
 ** Dependent Origination
@@ -5063,7 +5071,7 @@ Tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti
 
 \suttaRef{Vibh 130 / SN 12.2}
 
-\bottomNav{}
+\bottomNav{dhamma-in-brief}
 #+end_src
 
 ** The Dhamma in Brief
@@ -5173,7 +5181,7 @@ Eso dhammo eso vinayo etaṁ satthusāsanan’ti
 
 \suttaRef{[AN 8.53]}
 
-\bottomNav{}
+\bottomNav{uddissanadhitthana}
 #+end_src
 ** The Four Great References
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -5430,7 +5438,7 @@ Ime kho bhikkhave cattāro mahāpadesā’ti
 
 \suttaRef{[AN 4.180]}
 
-\bottomNav{}
+\bottomNav{patimokkha-exhortation}
 #+end_src
 ** Principles of Cordiality
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -5656,7 +5664,7 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā’ti
 
 \suttaRef{[MN 104]}
 
-\bottomNav{}
+\bottomNav{highest-honour-aspirations}
 #+end_src
 ** Principles of Non-Decline
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -5982,7 +5990,7 @@ Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti
 
 \suttaRef{[AN 6.22 \& 8.79]}
 
-\bottomNav{}
+\bottomNav{protection}
 #+end_src
 ** Striving According to the Dhamma
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -6229,7 +6237,7 @@ Alam-eva appamādena sampādetun'ti\pagenote{%
 
 \suttaRef{[SN 12.22]}
 
-\bottomNav{}
+\bottomNav{divine-abidings}
 #+end_src
 ** The Buddha’s Final Instruction
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -6295,7 +6303,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 \suttaRef{[DN 16]}
 
-\bottomNav{}
+\bottomNav{uddissanadhitthana}
 #+end_src
 
 * Reflections
@@ -6368,7 +6376,7 @@ Abyāpajjha-paramatāyā’ti
 
 \suttaRef{[MN 2]}
 
-\bottomNav{}
+\bottomNav{five-recollections}
 #+end_src
 ** The Repulsiveness of Food
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
@@ -6429,7 +6437,7 @@ Ativiya jigucchanīyo jāyati
 
 \suttaRef{[Trad]}
 
-\bottomNav{}
+\bottomNav{requisites-for-awakening}
 #+end_src
 ** Universal Well-Being
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
@@ -6545,7 +6553,7 @@ Abundant exalted immeasurable without hostility and without ill-will
 
 \suttaRef{[DN 13]}
 
-\bottomNav{}
+\bottomNav{ten-recollections}
 #+end_src
 ** Five Subjects for Frequent Recollection
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
@@ -6611,7 +6619,7 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 
 \suttaRef{[AN 5.57]}
 
-\bottomNav{}
+\bottomNav{32-parts}
 #+end_src
 ** Ten Subjects for Frequent Reflection by One Gone Forth
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
@@ -6740,7 +6748,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
 \suttaRef{[AN 10.48]}
 
-\bottomNav{}
+\bottomNav{sharing-aspirations}
 #+end_src
 ** The Thirty-Two Body Parts
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
@@ -6821,7 +6829,7 @@ Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro 
 
 \suttaRef{[DN 22]}
 
-\bottomNav{}
+\bottomNav{principles-of-cordiality}
 #+end_src
 ** Recollection of Impermanence
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
@@ -6976,7 +6984,7 @@ Tesaṁ vūpasamo sukho
 
 \suttaRef{[Trad]}
 
-\bottomNav{}
+\bottomNav{yatha-vari-vaha-pura}
 #+end_src
 * Cardinal Suttas
 ** Cover/Title
@@ -7311,7 +7319,7 @@ Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhi
 
 \suttaRef{[SN 22.59]}
 
-\bottomNav{}
+\bottomNav{striving-according-to-dhamma}
 #+end_src
 
 ** The Discourse on the Characteristic of Not-Self
@@ -7407,7 +7415,7 @@ That is what the Blessed One said. The bhikkhus of the group of five were glad a
 
 \suttaRef{[SN 22.59]}
 
-\bottomNav{}
+\bottomNav{fire-sermon}
 #+end_src
 ** Āditta-Pariyāya Sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya.tex
@@ -7481,7 +7489,7 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Im
 
 \suttaRef{[SN 35.28]}
 
-\bottomNav{}
+\bottomNav{burdens}
 #+end_src
 ** The Fire Sermon
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya-eng.tex
@@ -7560,7 +7568,7 @@ That is what the Blessed One said. The bhikkhus were glad and they approved of h
 
 \suttaRef{[SN 35.28]}
 
-\bottomNav{}
+\bottomNav{gradual-training}
 #+end_src
 * Anumodanā
 ** Cover/Title
@@ -7753,7 +7761,7 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[Khp 1.7 / Dhp 109 / Trad]}
 
-\bottomNav{}
+\bottomNav{sharing-all-merits}
 #+end_src
 
 ** Yathā vāri-vahā pūrā
@@ -8088,7 +8096,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 
 \suttaRef{[AN 3.155]}
 
-\bottomNav{}
+\bottomNav{just-as-rivers}
 #+end_src
 
 * Paritta
@@ -9325,7 +9333,7 @@ Sabba-saṅghānubhāvena – Sadā sotthī bhavantu te
 
 \suttaRef{[Trad]}
 
-\bottomNav{}
+\bottomNav{sharing-merits-departed}
 #+end_src
 * Funeral Recitations
 ** Pubba-bhāga-nama-kāra-pāṭho
@@ -9867,7 +9875,7 @@ Sabba-saṅghānubhāvena – Sadā sotthī \breathmark\ bhavantu te
 
 \suttaRef{[Trad]}
 
-\bottomNav{}
+\bottomNav{recollection-impermanence}
 #+end_src
 * Sharing of Merits
 ** Cover/Title
@@ -9903,13 +9911,14 @@ Buddhādhipavaro nātho dhammo nātho varuttamo\\
 Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ\\
 Tesottamānubhāvena mārokāsaṁ labhantu mā
 
-\bottomNav{}
+\bottomNav{closing-homage}
 
 \clearpage
 
 \begin{center}
   [Now let us recite the verses of sharing and aspiration]
 \end{center}
+\label{uddissanadhitthana} %TODO: link to here
 
 \begin{english}
   Through the goodness that arises from my practice\\
@@ -9940,7 +9949,7 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 
 \suttaRef{[Trad]}
 
-\bottomNav{}
+\bottomNav{closing-homage}
 #+end_src
 ** Sharing of All Merits
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
@@ -10006,7 +10015,7 @@ Khemappadañ-ca pappontu tesāsā sijjhataṁ subhā
 
 \suttaRef{[Thai]}
 
-\bottomNav{}
+\bottomNav{closing-homage}
 #+end_src
 ** Sharing of Merits with the Departed
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
@@ -10026,7 +10035,7 @@ Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 
 \suttaRef{[Thai]}
 
-\bottomNav{}
+\bottomNav{sharing-merits-devas}
 #+end_src
 ** Sharing of Merits with the Devas
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
@@ -10066,7 +10075,7 @@ Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 
 \suttaRef{[Sri Lanka]}
 
-\bottomNav{}
+\bottomNav{closing-homage}
 #+end_src
 ** The Highest Honour and Aspirations
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
@@ -10195,7 +10204,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 \suttaRef{[Sri Lanka]}
 
-\bottomNav{}
+\bottomNav{closing-homage}
 #+end_src
 * Appendix
 ** Cover/Title
