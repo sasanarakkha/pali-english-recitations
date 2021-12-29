@@ -308,7 +308,7 @@
 % Colors: in the desktop version, use colored link text
 \hypersetup{
   colorlinks=true,
-  linkcolor=link,
+  linkcolor=black,
   citecolor=link,
   filecolor=link,
   urlcolor=link,
@@ -1597,7 +1597,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand*\@secSubTitle{}
 
 \newcommand\sectionPaliTitle[1]{%
-% {\fontsize{8}{8}\selectfont #1\par}
+  % \fontsize{8}{8}\selectfont #1\par
   \renewcommand*\@secSubTitle{#1}%
   \global\sectionsubtitletrue%
 }
