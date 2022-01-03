@@ -9836,7 +9836,7 @@ Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ \hfill{[3x]}
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \subsection{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavtu}
-% % TODO: change title after bhante confirm
+
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā\\
 Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
 
