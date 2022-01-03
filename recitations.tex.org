@@ -3234,7 +3234,7 @@ from these \breathmark\ nor does he repeat here what he has heard elsewhere \bre
 \end{justify}
 
 \begin{justify}
-“He abstains from running errands and messages. He abstains from buying and selling. He abstains from false weights \breathmark\ false metals \breathmark\ and false measures. He abstains from accepting bribes \breathmark\ deceiving \breathmark\ defrauding \breathmark\ and trickery. He abstains fromwounding \breathmark\ murdering \breathmark\ binding \breathmark\ robbery \breathmark\ plunder and violence.”
+“He abstains from running errands and messages. He abstains from buying and selling. He abstains from false weights \breathmark\ false metals \breathmark\ and false measures. He abstains from accepting bribes \breathmark\ deceiving \breathmark\ defrauding \breathmark\ and trickery. He abstains from wounding \breathmark\ murdering \breathmark\ binding \breathmark\ robbery \breathmark\ plunder and violence.”
 \end{justify}
 
 \begin{justify}
@@ -3266,7 +3266,7 @@ from these \breathmark\ nor does he repeat here what he has heard elsewhere \bre
 \end{justify}
 
 \begin{justify}
-“After his meal \breathmark\ on returning from almsround he sits down \breathmark\ having crossed his legs \breathmark\ sets his body erect \breathmark\ having established mindfulness in front of him. Abandoning longing\pagenote{%
+“After his meal on returning from almsround he sits down \breathmark\ having crossed his legs \breathmark\ sets his body erect \breathmark\ having established mindfulness in front of him. Abandoning longing\pagenote{%
   Orig: “covetousness”}
 for the world \breathmark\ he abides with a mind free from longing \breathmark\ he purifies his mind from longing. Abandoning ill will and hatred \breathmark\ he abides with a mind free from ill will \breathmark\ compassionate for the welfare of all living beings \breathmark\ he purifies his mind from ill will and hatred. Abandoning sloth and torpor \breathmark\ he abides free from sloth and torpor \breathmark\ percipient of light \breathmark\ mindful and fully aware \breathmark\ he purifies his mind from sloth and torpor. Abandoning restlessness and remorse \breathmark\ he abides unagitated \breathmark\ with a mind inwardly peaceful \breathmark\ he purifies his mind from restlessness and remorse. Abandoning doubt \breathmark\ he abides having gone beyond doubt \breathmark\ unperplexed about wholesome states \breathmark\ he purifies his mind from doubt.”
 \end{justify}
