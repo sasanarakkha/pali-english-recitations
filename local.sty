@@ -23,14 +23,14 @@
 
 \newenvironment{leader}%
   {\list{}{%
-  \parskip 0pt%
+  \parskip 4pt%
   \topsep 0pt%
   \listparindent 0em%
   \itemindent    0pt%
   \leftmargin    \leaderIndent%
   \rightmargin   0pt%
-  \parsep        \z@ \@plus\p@}
-  \item[] \raggedright}%
+  \parsep        0pt}
+  \item[] \centering}%
   {\endlist}
 
 \newcommand{\instr}[1]{%
@@ -150,6 +150,18 @@
     \listparindent 0em%
     \itemindent    0em%
     \leftmargin    \leaderIndent%
+    \rightmargin   0em%
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
+\newenvironment{englishlong}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    -2em%
+    \leftmargin    4em %\leaderIndent%
     \rightmargin   0em%
     \parsep        \z@ \@plus\p@%
   }%

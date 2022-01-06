@@ -308,7 +308,7 @@
 % Colors: in the desktop version, use colored link text
 \hypersetup{
   colorlinks=true,
-  linkcolor=black,
+  linkcolor=link,
   citecolor=link,
   filecolor=link,
   urlcolor=link,
@@ -912,12 +912,6 @@ philo-sophical munindo amaravati thai-land}
   \bookmarksetup{startatroot}%
 }
 
-\renewenvironment{quote}%
-{\small
-\list{}{\rightmargin\leftmargin}%
-\item[]}%
-{\endlist}
-
 \newcommand\quoteref[1]{%
 \par
 {\footnotesize #1}
@@ -1500,6 +1494,7 @@ philo-sophical munindo amaravati thai-land}
     % Box for the section title text
     \begin{minipage}[t]{0.8\linewidth}%
       \centering%
+      % To hyperlink the text only, put \hyperref around the below
       \textbf{\textls*{\textsc{#1}}}%
     \end{minipage}%
     %
@@ -1523,6 +1518,8 @@ philo-sophical munindo amaravati thai-land}
       \vspace*{5pt}%
       \parbox{\linewidth}{%
         \centering%
+        % font size for paliTitle
+        \fontsize{8}{8}\selectfont
         \@secSubTitle%
         \sectionPaliTitleClear%
       }%
