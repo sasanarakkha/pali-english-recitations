@@ -1299,7 +1299,7 @@ philo-sophical munindo amaravati thai-land}
 % Sub-sub-section is only used in the Sri Lankan chants chapter, but it helps
 % the content separation to still number them.
 
-\setsecnumdepth{subsection}
+\setsecnumdepth{chapter}
 
 % define chapter styles with "fantasy" names
 
@@ -1483,12 +1483,14 @@ philo-sophical munindo amaravati thai-land}
     \begin{minipage}[t]{0.1\linewidth}%
       % Only print the section number in the mainmatter,
       % but the empty box is necessary for horizontal spacing.
-      \if@mainmatter%
-        \raggedright%
-        \textbf{\textls*{\textsc{\thesection}}}%
-      \else%
-        \mbox{}%
-      \fi%
+      % \if@mainmatter%
+      %   \raggedright%
+      %   \textbf{\textls*{\textsc{\thesection}}}%
+      % \else%
+      %   \mbox{}%
+      % \fi%
+      % No section number, but minipage needs content (an empty box).
+      \mbox{}%
     \end{minipage}%
     %
     % Box for the section title text
