@@ -1469,7 +1469,7 @@ philo-sophical munindo amaravati thai-land}
   % A box with contains the entire ruled title
   \begin{minipage}{\linewidth}%
     \raggedright%
-    \sectionFont\fontsize{16}{16}\selectfont%
+    \sectionFont\fontsize{15}{15}\selectfont%
     \color{section}%
     \setlength{\parskip}{4pt}%
     %
@@ -1517,17 +1517,17 @@ philo-sophical munindo amaravati thai-land}
       %
       % Print the subtitle if it has been set with \sectionPaliTitle, then reset
       % it so following sections don't use the same value.
-      \vspace*{5pt}%
+      \vspace*{0pt}%
       \parbox{\linewidth}{%
         \centering%
         % font size for paliTitle
-        \fontsize{8}{8}\selectfont
+        \fontsize{12}{12}\selectfont
         \@secSubTitle%
         \sectionPaliTitleClear%
       }%
       %
       % Adjust the spacing before the bottom rule.
-      \vspace*{-0.5\baselineskip}%
+      \vspace*{-0.8\baselineskip}%
       \par%
     \else%
       %

@@ -23,13 +23,13 @@
 
 \newenvironment{leader}%
   {\list{}{%
-  \parskip 4pt%
+  \parskip 6pt%
   \topsep 0pt%
   \listparindent 0em%
   \itemindent    0pt%
-  \leftmargin    \leaderIndent%
+  \leftmargin    0pt %\leaderIndent%
   \rightmargin   0pt%
-  \parsep        0pt}
+  \parsep        -8pt}
   \item[] \centering}%
   {\endlist}
 
@@ -151,18 +151,20 @@
     \itemindent    0em%
     \leftmargin    \leaderIndent%
     \rightmargin   0em%
-    \parsep        \z@ \@plus\p@%
+    \fontsize{12}{18}\selectfont
+    \parsep        -0.4em %\z@ \@plus\p@%
   }%
   \item[] \raggedright\itshape}%
   {\endlist}
 
-\newenvironment{englishlong}%
+\newenvironment{english-hang}%
   {\list{}{%
     \topsep 0pt
     \listparindent 0em%
-    \itemindent    -2em%
-    \leftmargin    4em %\leaderIndent%
+    \itemindent    -0.5em%
+    \leftmargin    2em %\leaderIndent%
     \rightmargin   0em%
+    \fontsize{12}{10}\selectfont
     \parsep        \z@ \@plus\p@%
   }%
   \item[] \raggedright\itshape}%
@@ -191,6 +193,19 @@
       \parsep        \z@ \@plus\p@%
     }%
   \item[] \raggedright\itshape}%
+  {\endlist}
+
+\newenvironment{pali-hang}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    -0.5em%
+    \leftmargin    0.5em %2.5em %\leaderIndent%
+    \rightmargin   0em%
+    % \fontsize{12}{10}\selectfont
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \raggedright}%
   {\endlist}
 
 \newcommand\tr[1]{\textit{#1}}

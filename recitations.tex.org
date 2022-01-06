@@ -7,9 +7,7 @@ TOOO: make notes lines closer
 -- read chapter 12, memoir documentation
 TODO: notes hyperlink back to location
 -- follow the example on endnote 2
-TODO: remove chapter/section numbering
 TODO: endnotes log (in the back) has random indentation for some notes
-TODO: make english font slightly smaller than pali
 TODO: solve hangindent, perhaps manually by line
 -- copy environemnts
 TODO: make conditionals to remeove digital assets for print
@@ -128,7 +126,6 @@ TODO: make page number conditional for schedule
   - [[#pāli-phonetics--pronunciation][Pāli Phonetics & Pronunciation]]
   - [[#chanting-leader-guidelines][Chanting Leader Guidelines]]
   - [[#abbreviations][Abbreviations]]
-  - [[#endnotes][Endnotes]]
 
 * Recitation Schedule
 #+begin_src latex :tangle ./manuscript/tex/schedule.tex
@@ -157,7 +154,7 @@ TODO: make page number conditional for schedule
     \hyperref[characteristic-of-not-self]{The Discourse on the Characteristic of Not-Self} \pageref{characteristic-of-not-self}\\
     \hyperref[fire-sermon]{The Fire Sermon} \pageref{fire-sermon}\\
     \hyperref[gradual-training]{The Gradual Training} \pageref{gradual-training}\\
-    \hyperref[noble-eightfold-path]{Sharing and Aspirations} \pageref{noble-eightfold-path}\\
+    \hyperref[sharing-aspirations]{Sharing and Aspirations} \pageref{sharing-aspirations}\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
 
   \bigskip
@@ -357,7 +354,7 @@ While recitation and memorization of the Dhamma yields several benefits, and one
 
 Besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are the Discourse on the Characteristics of Not-Self (\textit{Anatta-lakkhaṇa Sutta}), the Fire Sermon (\textit{Āditta-Pariyāya Sutta}), the Buddha’s First and Final Words, Mindfulness of Breathing, and Dependent Origination. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.\\
 
-From these profound teachings we can take a step back to the practical, day-to-day perceptions that the Buddha specifically recommended to be frequently reflected upon. In this category we find the 5 and 10 Subjects for Frequent Recollection, also the Reflections on The Four Requisites, and a separate reflection on The Repulsiveness of Food. Recollection of Impermanence, The 3 Characteristics, and The Thirty-Two Body Parts are also frequently mentioned in the discourses. Perceptions that are closely related to the 2nd path factor of the noble eightfold path, i.e. right thought (\textit{sammā saṇkappa}), are the Mettasutta and The Divine Abidings. Perceptions that arouse the four \textit{Brahmavihāras} can seamlessly lead the practitioner towards the 8th path factor, \textit{sammā samādhi}. At times when energy is lacking, however, chants that inspire, motivate, or arouse urgency, can be used to heat up and revitalize the practice. This is where Striving According to the Dhamma, The Burdens, Respect for the Dhamma, and the Miscellaneous Verses can come to the rescue.\\
+From these profound teachings we can take a step back to the practical, day-to-day perceptions that the Buddha specifically recommended to be frequently reflected upon. In this category we find the 5 and 10 Subjects for Frequent Recollection, also the Reflections on The Four Requisites, and a separate reflection on The Repulsiveness of Food. Recollection of Impermanence, The 3 Characteristics, and The Thirty-Two Body Parts are also frequently mentioned in the discourses. Perceptions that are closely related to the 2nd path factor of the noble eightfold path, i.e. right thought (\textit{sammā saṇkappa}), are the \textit{Mettasutta} and The Divine Abidings. Perceptions that arouse the four \textit{Brahmavihāras} can seamlessly lead the practitioner towards the 8th path factor, \textit{sammā samādhi}. At times when energy is lacking, however, chants that inspire, motivate, or arouse urgency, can be used to heat up and revitalize the practice. This is where Striving According to the Dhamma, The Burdens, Respect for the Dhamma, and the Miscellaneous Verses can come to the rescue.\\
 
 Lastly, this Recitation Book also includes passages that illuminate how to establish good relations among fellow practitioners, such as the Principles of Cordiality, Principles of Non-Decline, and The Four Great References. Also included are chants that monks commonly perform as services to the laity, such as Anumodanā, Sharing of Merits, and Funeral Chants.\\
 
@@ -391,7 +388,7 @@ The Buddhist Monastic Code II, Ṭhānissaro Bhikkhu, Metta Forest Monastery, 20
 
 [Yo so] bhagavā arahaṁ sammāsambuddho
 
-\begin{englishlong}
+\begin{english-hang}
   To the Blessed One the Worthy One\label{hl-1}\pagenote{%
     Orig: “The Lord”. The underlying Pāli term is “Arahant”. “Lord”,
     however, has connotations that do not fit well to the way the Buddha is
@@ -407,7 +404,7 @@ The Buddhist Monastic Code II, Ṭhānissaro Bhikkhu, Metta Forest Monastery, 20
     therefore been consistently translated as “Worthy One”, thus substituting
     previous translations as “The Lord”, “Noble One” etc. \hyperref[hl-1]{Back}}
   who fully attained Perfect Enlightenment
-\end{englishlong}
+\end{english-hang}
 
 Svākkhāto yena bhagavatā dhammo
 
@@ -500,18 +497,18 @@ Saṅghaṁ namāmi
 \section{Preliminary Homage}
 \label{preliminary-homage}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase]
-\end{center}
+\end{leader}
 
-\begin{center}
+\begin{leader}
   [Now let us pay preliminary homage to the Buddha.]
-\end{center}
+\end{leader}
 
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{english}
-  Homage to the Blessed Worthy and Perfectly Enlightened One [3x]
+  Homage to the Blessed Worthy and Perfectly Enlightened One \hfill{[3x]}
 \end{english}
 
 
@@ -521,12 +518,12 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Homage to the Buddha}
 \label{homage-buddha}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ buddhābhitthutiṁ karomase]
-\end{center}
-\begin{center}
+\end{leader}
+\begin{leader}
   [Now let us recite in praise of the Buddha]
-\end{center}
+\end{leader}
 
 Yo so tathāgato arahaṁ sammāsambuddho
 
@@ -577,14 +574,18 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
   In this world with its gods ̓ demons and kind spirits
 \end{english}
 
-Sassamaṇa-brāhmaṇiṁ pajaṁ sadeva-manussaṁ sayaṁ abhiññā sacchikatvā pavedesi
+\begin{pali-hang}
+  Sassamaṇa-brāhmaṇiṁ pajaṁ sadeva-manussaṁ sayaṁ abhiññā sacchikatvā pavedesi
+\end{pali-hang}
 
 \begin{english}
   Its seekers and sages \breathmark\ celestial and human beings\\
   He has by deep insight revealed the truth
 \end{english}
 
+\begin{pali-hang}
 Yo dhammaṁ desesi ādi-kalyāṇaṁ majjhe-kalyāṇaṁ pariyosāna-kalyāṇaṁ
+\end{pali-hang}
 
 \begin{english}
   He has pointed out the Dhamma\\
@@ -593,7 +594,9 @@ Yo dhammaṁ desesi ādi-kalyāṇaṁ majjhe-kalyāṇaṁ pariyosāna-kalyā�
   Beautiful in the end\\
 \end{english}
 
+\begin{pali-hang}
 Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahma-cariyaṁ pakāsesi
+\end{pali-hang}
 
 \begin{english}
   He has explained the holy life of complete purity\pagenote{%
@@ -601,7 +604,10 @@ Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahma-cariyaṁ
   In its essence and conventions
 \end{english}
 
+\begin{pali-hang}
 Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
+\end{pali-hang}
+
 \begin{english}
   I chant my praise to the Blessed One\\
   I bow my head to the Blessed One \hfill{(Bow)}
@@ -613,12 +619,12 @@ Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
 \section{Homage to the Dhamma}
 \label{homage-dhamma}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ dhammābhitthutiṁ karomase]
-\end{center}
-\begin{center}
+\end{leader}
+\begin{leader}
   [Now let us recite in praise of the Dhamma]
-\end{center}
+\end{leader}
 
 Yo so svākkhāto bhagavatā dhammo
 
@@ -656,7 +662,9 @@ Paccattaṁ veditabbo viññūhi
   To be experienced individually by the wise
 \end{english}
 
+\begin{pali-hang}
 Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
+\end{pali-hang}
 
 \begin{english}
   I chant my praise to this teaching\\
@@ -668,12 +676,12 @@ Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 \section{Homage to the Saṅgha}
 \label{homage-sangha}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ saṅghābhitthutiṁ karomase]
-\end{center}
-\begin{center}
+\end{leader}
+\begin{leader}
   [Now let us recite in praise of the Saṅgha]
-\end{center}
+\end{leader}
 
 Yo so supaṭipanno bhagavato sāvakasaṅgho
 
@@ -744,7 +752,9 @@ Anuttaraṁ puññakkhettaṁ lokassa
   They give occasion for incomparable goodness to arise in the world
 \end{english}
 
+\begin{pali-hang}
 Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
+\end{pali-hang}
 
 \begin{english}
   I chant my praise to this Saṅgha\\
@@ -757,17 +767,12 @@ Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
 \section{Salutation to the Triple Gem}
 \label{salutation}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
-\end{center}
-\begin{center}
-  [Now let us recite our salutation to the Triple Gem and a passage to arouse urgency]
-\end{center}
-
-% % % TODO: choose center or leader
-\begin{center}
-  [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
-\end{center}
+\end{leader}
+\begin{leader}
+ 〈 Now let us recite our salutation to the Triple Gem and a passage to arouse urgency 〉
+\end{leader}
 
 Buddho susuddho karuṇā-mahaṇṇavo
 
@@ -809,10 +814,10 @@ Yo magga-pākāmata-bheda-bhinnako
 
 Lokuttaro yo ca tad-attha-dīpano
 
-\begin{english}
+\begin{english-hang}
   And illuminating that goal \breathmark\ which is beyond the conditioned world\pagenote{%
     Orig: “That which is beyond the conditioned world”}
-\end{english}
+\end{english-hang}
 
 Vandāmi dhammaṁ aham-ādarena taṁ
 
@@ -1191,12 +1196,12 @@ Saṅghaṁ namāmi
 \vfill
 
 \begin{minipage}[b][25pt][c]{1.0\linewidth}
-  \begin{center}
+  \begin{leader}
     \textbf{\textsc{\hyperref[schedule]{Content}\\
         \rule{\linewidth}{0.8pt}
         \hyperref[buddhas-first-exclamation]{Set 1} \hspace{0.01cm} — \hspace{0.01cm} \hyperref[characteristic-of-not-self]{Set 2} \hspace{0.01cm} — \hspace{0.01cm} \hyperref[noble-eightfold-path]{Set 3} \hspace{0.01cm} — \hspace{0.01cm} \hyperref[dedication-of-offerings]{Set 4} \hspace{0.01cm} — \hspace{0.01cm} \hyperref[mindfulness-of-breathing]{Set 5}\\
         \hyperref[anatta-lakkhana]{Set 6} — \hyperref[dependent-origination]{Set 7} — \hyperref[aditta-pariyaya]{Set 8} — \hyperref[deva-aradhana]{Set 9} — \hyperref[pubba-bhaga-nama-kara-patho]{Set 10}}}
-  \end{center}
+  \end{leader}
 \end{minipage}
 
 #+end_src
@@ -1214,9 +1219,9 @@ Saṅghaṁ namāmi
 \section{The Buddha's First Exclamation}
 \label{buddhas-first-exclamation}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ buddha-paṭhama-bhāsita-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Aneka-jāti-saṁsāraṁ – Sandhāvissaṁ anibbisaṁ\\
@@ -1256,9 +1261,9 @@ Saṅghaṁ namāmi
 \section{Respect for the Dhamma}
 \label{respect-for-the-dhamma}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ dhamma-gārav’ādi-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Ye ca atītā sambuddhā – Ye ca buddhā anāgatā \\
@@ -1339,9 +1344,9 @@ Dhammo pāpeti suggatiṁ
 \section{Going to True and False Refuges}
 \label{true-false-refuges}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\\
 Ārāma-rukkha-cetyāni – Manussā bhaya-tajjitā\\
@@ -1405,9 +1410,9 @@ Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
 \section{The Pāṭimokkha Exhortation}
 \label{patimokkha-exhortation}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 Sabba-pāpassa akaraṇaṁ\pagenote{%
   There are two variations as to the sequence of these three verses. The sequence used here follows the sequence of Dhp 183 (Sabba pāpassa…), Dhp 184 (Khantī paramaṁ…), Dhp 185 (Anūpavādo…). In contrast, the sequence Dhp 184, 183, 185 is commonly known as the “Ovādapātimokkha”, and occurs at DN 14.}
@@ -1504,9 +1509,9 @@ Etaṁ buddhāna sāsanaṁ
 \section{The Three Characteristics}
 \label{three-characteristics}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ ti-lakkhaṇ’ādi-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Sabbe saṅkhārā aniccā’ti – Yadā paññāya passati\\
@@ -1602,9 +1607,9 @@ Etaṁ buddhāna sāsanaṁ
 \section{The Burdens}
 \label{burdens}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ bhāra-sutta-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Bhārā have pañcakkhandhā – Bhāra-hāro ca puggalo \\
@@ -1642,9 +1647,9 @@ Etaṁ buddhāna sāsanaṁ
 \section{From the Elder Raṭṭhapāla}
 \label{ratthapala}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ raṭṭhapālatthera-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Passa cittakataṁ bimbaṁ – Arukāyaṁ samussitaṁ\\
@@ -1801,9 +1806,9 @@ Etaṁ buddhāna sāsanaṁ
 \section{From the Elder Pārāpariya}
 \label{parapariya}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ pārāpariyatthera-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Aññathā lokanāthamhi – Tiṭṭhante purisuttame\\
@@ -1923,9 +1928,9 @@ Etaṁ buddhāna sāsanaṁ
 \section{On Protection}
 \label{protection}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ Tāyana-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Chinda sotaṁ parakkamma – Kāme panūda brāhmaṇa\\
@@ -2000,9 +2005,9 @@ Etaṁ buddhāna sāsanaṁ
 \section{Misecellaneous Verses}
 \label{misc-verses}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Attadīpā bhikkhave viharatha attasaraṇā anaññasaraṇā\\
@@ -2234,9 +2239,9 @@ Etaṁ buddhāna sāsanaṁ
 \section{A Single Excellent Night}
 \label{single-excellent-night}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ bhadd’eka-ratta-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 \begin{twochants}
   Atītaṁ nānvāgameyya – Nappaṭikaṅkhe anāgataṁ\\
@@ -2300,10 +2305,10 @@ Etaṁ buddhāna sāsanaṁ
 \section{The Highest Blessings}
 \label{highest-blessings}
 
-\begin{center}
+\begin{leader}
   [Now let us recite the verses on the Highest Blessings\pagenote{%
     “The term “blessing” is used throughout this chanting book to convey the meaning of “support”, or “a beneficial thing”, without implying the underlying Christian connotations this term may have in popular use.}]
-\end{center}
+\end{leader}
 
 Thus have I heard that the Blessed One\\
 Was dwelling at Sāvatthī\pagenote{%
@@ -2389,9 +2394,9 @@ These are the highest blessings
 \section{The Buddha's Words on Loving-Kindness}
 \label{words-on-loving-kindness}
 
-\begin{center}
+\begin{leader}
   [Now let us recite the Buddha’s words on loving-kindness]
-\end{center}
+\end{leader}
 
 This is what should be done\\
 By one who is skilled in goodness\\
@@ -2457,9 +2462,9 @@ Is not born again into this world
 \section{Setting in Motion the Wheel of Dhamma}
 \label{wheel-of-dhamma-abridged}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Dveme bhikkhave antā
 
@@ -3128,9 +3133,9 @@ N’atthidāni punabbhavo’ti
 \sectionPaliTitle{Satta-sambojjhaṅgā}
 \section{Anupubba-sikkhā}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ anupubba-sikkha-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ‘sambādho gharāvāso rajopatho abbhokāso pabbajjā. Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.
 
@@ -3194,8 +3199,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \begin{leader}
   [Now let us recite the Gradual Training]
 \end{leader}
-% % % TODO: justify?
-
+% remove space here
 \begin{justify}
   “A householder or householder’s son \breathmark\ or one born in some other clan hears the Dhamma. On hearing the Dhamma he acquires faith in the Tathāgata. Possessing that faith he considers thus: ‘Household life is crowded and dusty \breathmark\ life gone forth is wide open. It is not easy while living at home \breathmark\ to lead the holy life utterly perfect and pure \breathmark\ as a polished shell. Suppose I shave off my hair and beard \breathmark\ put on the ochre robe \breathmark\ and go forth from home to homelessness.’ On a later occasion \breathmark\ abandoning a small or large fortune \breathmark\ abandoning a small or large circle of relatives \breathmark\ he shaves off his hair and beard \breathmark\ puts on the ochre robe \breathmark\ and goes forth from home to homelessness.”
 \end{justify}
@@ -3306,9 +3310,9 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \section{Requisites for Awakening}
 \label{requisites-for-awakening}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Bhikkhave ye te mayā dhammā abhiññā desitā
 
@@ -3416,9 +3420,9 @@ Ariyo aṭṭhaṅgiko maggo
 \section{The Seven Factors of Awakening}
 \label{seven-factors-of-awakening}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
 
@@ -3641,9 +3645,9 @@ Ime kho bhikkhave satta bojjhaṅgā’ti
 \section{The Noble Eightfold Path}
 \label{noble-eightfold-path}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Ayam-eva ariyo aṭṭh'aṅgiko maggo
 
@@ -4167,9 +4171,9 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 \section{Mindfulness of Breathing}
 \label{mindfulness-of-breathing}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Ānāpānassati bhikkhave bhāvitā bahulī-katā
 
@@ -4535,13 +4539,13 @@ Mahapphalā hoti mahānisaṁsā'ti
 \section{Dependent Origination}
 \label{dependent-origination}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ bhaṇāmase]
-\end{center}
-\begin{center}
+\end{leader}
+\begin{leader}
   [Now let us recite the Analysis of Dependent Origination\pagenote{%
     Lit.: “the 'Discourse Analysis' from the 'Analysis of Dependent Origination'”  The “Discourse Analysis” is a sub-chapter (Abh.Vibh.130f) from the “Analysis of Dependent Origination”, which is part of the 2nd book of the Abhidhammapiṭaka called the “Vibhaṅga”. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the Suttapiṭaka.}]
-\end{center}
+\end{leader}
 
 Avijjā-paccayā saṅkhārā
 
@@ -5073,9 +5077,9 @@ Tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti
 \section{The Dhamma in Brief}
 \label{dhamma-in-brief}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Mahāpajāpatī Gotamī yena bhagavā tenupasaṅkami \breathmark\ upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etadavoca:
 
@@ -5182,9 +5186,9 @@ Eso dhammo eso vinayo etaṁ satthusāsanan’ti
 \section{The Four Great References}
 \label{four-great-references}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Katame bhikkhave cattāro mahāpadesā
 
@@ -5439,9 +5443,9 @@ Ime kho bhikkhave cattāro mahāpadesā’ti
 \section{Principles of Cordiality}
 \label{principles-of-cordiality}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Chayime bhikkhave dhammā sāraṇīyā
 
@@ -5665,9 +5669,9 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā’ti
 \section{Principles of Non-Decline}
 \label{principles-of-non-decline}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Katame bhikkhave satta aparihāniyā dhammā
 
@@ -5991,9 +5995,9 @@ Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti
 \section{Striving According to the Dhamma}
 \label{striving-according-to-dhamma}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Evaṁ svākkhāto bhikkhave mayā dhammo
 
@@ -6238,9 +6242,9 @@ Alam-eva appamādena sampādetun'ti\pagenote{%
 \section{The Buddha's Final Instruction}
 \label{buddhas-final-instruction}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase]
-\end{center}
+\end{leader}
 
 Siyā kho tumhākaṁ evamassa
 
@@ -6312,9 +6316,9 @@ Ayaṁ tathāgatassa pacchimā vācā
 \section{The Four Requisites}
 \label{four-requisites}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\\
 Yāvadeva sītassa paṭighātāya\\
@@ -6377,9 +6381,9 @@ Abyāpajjha-paramatāyā’ti
 \section{The Repulsiveness of Food}
 \label{repulsiveness-of-food}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Āhāre paṭikūlasaññāparicitena bhikkhave \breathmark\ bhikkhuno cetasā bahulaṁ viharato
 
@@ -6438,9 +6442,9 @@ Ativiya jigucchanīyo jāyati
 \section{Universal Well-Being}
 \label{universal-well-being}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ mettāpharaṇaṁ karomase]
-\end{center}
+\end{leader}
 
 Ahaṁ sukhito homi\\
 Niddukkho homi\\
@@ -6461,9 +6465,9 @@ Yaṁ kammaṁ karissanti\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādā bhavissanti
 
-\begin{center}
+\begin{leader}
   [Now let us recite the reflections on universal well-being]
-\end{center}
+\end{leader}
 
 \begin{english}
   May I abide in well-being\\
@@ -6502,9 +6506,9 @@ Tassa dāyādā bhavissanti
 \section{The Divine Abidings}
 \label{divine-abidings}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ caturappamaññā obhāsanaṁ karomase]
-\end{center}
+\end{leader}
 
 Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 
@@ -6515,9 +6519,9 @@ Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ ta
 
 Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
 
-\begin{center}
+\begin{leader}
   [Now let us make the Four Boundless Qualities shine forth]
-\end{center}
+\end{leader}
 
 I will abide pervading one quarter with a heart imbued with loving-kindness\\
 Likewise the second likewise the third likewise the fourth\\
@@ -6554,9 +6558,9 @@ Abundant exalted immeasurable without hostility and without ill-will
 \section{Five Subjects for Frequent Recollection}
 \label{five-recollections}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Jarā-dhammomhi jaraṁ anatīto
 
@@ -6620,9 +6624,9 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 \section{Ten Subjects for Frequent Reflection by One Gone Forth}
 \label{ten-recollections}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Dasa ime bhikkhave dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā\\
@@ -6749,9 +6753,9 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 \section{The Thirty-Two Parts}
 \label{32-parts}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 
@@ -6830,9 +6834,9 @@ Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro 
 \section{Recollection of Impermanence}
 \label{recollection-impermanence}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase]
-\end{center}
+\end{leader}
 
 Sabbe saṅkhārā anicca
 
@@ -9880,11 +9884,11 @@ Sabba-saṅghānubhāvena – Sadā sotthī \breathmark\ bhavantu te
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
 \sectionPaliTitle{Uddissanādhiṭṭhānā}
 \section{Sharing and Aspirations}
-\label{sharing-aspirations}
+\label{uddissanadhitthana}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 Iminā puññakammena upajjhāyā guṇuttarā\\
 Ācariyūpakārā ca mātāpitā ca ñātakā\\
@@ -9907,10 +9911,9 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 
 \clearpage
 
-\begin{center}
+\begin{leader}
   [Now let us recite the verses of sharing and aspiration]
-\end{center}
-\label{uddissanadhitthana} %TODO: link to here
+\end{leader}
 
 \begin{english}
   Through the goodness that arises from my practice\\
@@ -9949,9 +9952,9 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 \section{Sharing of All Merits}
 \label{sharing-all-merits}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase]
-\end{center}
+\end{leader}
 
 Puññass’idāni katassa yān’aññāni katāni me\\
 Tesañ-ca bhāgino hontu sattānantāppamāṇakā
@@ -10075,9 +10078,9 @@ Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 \section{The Highest Honour and Aspirations}
 \label{highest-honour-aspirations}
 
-\begin{center}
+\begin{leader}
   [Handa mayaṁ buddhapūjañca paṇidhiñca karomase]
-\end{center}
+\end{leader}
 
 Buddhaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi
 
@@ -10236,7 +10239,6 @@ For the third time, I, Venerable Sir, request the Three Refuges and the Five/Eig
 \end{center}
 
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
-
 
 \begin{english}
 Homage to the Blessed, Worthy, and Perfectly Enlightened One \hfill{[3x]}\\
@@ -10598,9 +10600,4 @@ Thanks to all Saṅgha members who are willing to share this meaningful task amo
 % page number of the PTS edition.
 
 % }
-#+end_src
-
-** Endnotes
-#+begin_src latex :tangle ./manuscript/tex/appendix.tex
-
 #+end_src
