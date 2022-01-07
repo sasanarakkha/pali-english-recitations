@@ -6,7 +6,10 @@ BIBTEX=bibtex
 
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error -synctex=1
 
+tangle := $(shell org-tangle ./recitations.tex.org)
+
 all: document
+
 
 dist:
 	./helpers/dist.sh

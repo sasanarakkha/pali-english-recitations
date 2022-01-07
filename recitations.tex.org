@@ -1155,7 +1155,9 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
     Orig: “Being fully equipped with the bhikkhus’ system of training”}
 \end{english}
 
+\begin{pali-hang}
 Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
+\end{pali-hang}
 
 \begin{english}
   May this holy life \breathmark\ lead us to the end of this whole mass of suffering
@@ -1316,10 +1318,10 @@ Saṅghaṁ namāmi
 
 \suttaRef{[SN 6.2]}
 
-Na hi dhammo adhammo ca\\
-Ubho sama-vipākino\\
-Adhammo nirayaṁ neti\\
-Dhammo pāpeti suggatiṁ
+\begin{twochants}
+Na hi dhammo adhammo ca – Ubho sama-vipākino\\
+Adhammo nirayaṁ neti – Dhammo pāpeti suggatiṁ
+\end{twochants}
 
 \begin{english}
   What is true Dhamma and what's\pagenote{%
@@ -1332,13 +1334,11 @@ Dhammo pāpeti suggatiṁ
   True Dhamma takes one on a good course
 \end{english}
 
-\begin{paritta}
   Dhammo have rakkhati dhamma-cāriṁ\\
   Dhammo suciṇṇo sukham-āvahāti\\
   Esānisaṁso dhamme suciṇṇe\\
   Na duggatiṁ gacchati dhamma-cārī\pagenote{%
     This line is missing in Wat Pah Nanachat chanting book.}
-\end{paritta}
 
 \begin{english}
   The Dhamma guards those who live in line with it\\
@@ -2329,6 +2329,8 @@ Was dwelling at Sāvatthī\pagenote{%
 Residing at the Jeta’s Grove\\
 In Anāthapiṇḍika’s Park
 
+\bigskip
+\begin{}
 Then in the dark of the night\\
 A radiant deva illuminated all Jeta’s Grove\\
 She bowed down low before the Blessed One\\
