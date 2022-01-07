@@ -850,7 +850,9 @@ Vandāmi saṅghaṁ aham-ādarena taṁ
   Devotedly indeed \breathmark\ that Saṅgha I revere
 \end{english}
 
+\begin{pali-hang}
 Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
+\end{pali-hang}
 
 \begin{english}
   This salutation should be made\\
@@ -879,7 +881,9 @@ Idha tathāgato loke uppanno arahaṁ sammāsambuddho
   And he is an Arahant \breathmark\ a perfectly awakened being
 \end{english}
 
+\begin{pali-hang}
 Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito
+\end{pali-hang}
 
 \begin{english}
   Teaching the way leading out of delusion\pagenote{%
@@ -1002,7 +1006,9 @@ Evaṁ bahulaṁ sāvake vineti
   Frequently instructed his disciples in just this way
 \end{english}
 
+\begin{pali-hang}
 Evaṁ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
+\end{pali-hang}
 
 \begin{english}
   In addition he further instructed
@@ -1109,16 +1115,23 @@ Dukkhotiṇṇā dukkha-paretā
     Orig: “All of us are bound by birth ageing and death”}
 \end{english}
 
+\begin{pali-hang}
 Appeva nāmimassa kevalassa dukkha-kkhandhassa antakiriyā paññāyethā'ti
+\end{pali-hang}
 
 \begin{english}
   Let us all aspire to complete freedom from suffering
 \end{english}
 
+\begin{pali-hang}
 Cira-parinibbutampi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
+\end{pali-hang}
+
+\begin{english-hang}
+  Remembering the Blessed One \breathmark\ the Worthy One \breathmark\ and Perfectly Enlightened One\\
+\end{english-hang}
 
 \begin{english}
-  Remembering the Blessed One \breathmark\ the Worthy One \breathmark\ and Perfectly Enlightened One\\
   Who long ago attained Parinibbāna
 \end{english}
 
