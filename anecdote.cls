@@ -582,7 +582,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand{\suttaRef}[1]{%
-  \hfill {\fontsize{8}{8}\selectfont #1\par}%
+  \hfill {\fontsize{8}{0}\selectfont #1\par}%
 }
 
 % for longer sutta and book quotes
@@ -1517,7 +1517,7 @@ philo-sophical munindo amaravati thai-land}
       %
       % Print the subtitle if it has been set with \sectionPaliTitle, then reset
       % it so following sections don't use the same value.
-      \vspace*{0pt}%
+      \vspace*{-4pt}%
       \parbox{\linewidth}{%
         \centering%
         % font size for paliTitle

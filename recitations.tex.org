@@ -772,7 +772,7 @@ Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
   [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
 \end{leader}
 \begin{leader}
- 〈 Now let us recite our salutation to the Triple Gem and a passage to arouse urgency 〉
+  〈 Now let us recite our salutation to the Triple Gem and a passage to arouse urgency 〉
 \end{leader}
 
 Buddho susuddho karuṇā-mahaṇṇavo
@@ -852,7 +852,7 @@ Vandāmi saṅghaṁ aham-ādarena taṁ
 \end{english}
 
 \begin{pali-hang}
-Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
+  Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
 \end{pali-hang}
 
 \begin{english}
@@ -883,7 +883,7 @@ Idha tathāgato loke uppanno arahaṁ sammāsambuddho
 \end{english}
 
 \begin{pali-hang}
-Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito
+  Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito
 \end{pali-hang}
 
 \begin{english}
@@ -1008,7 +1008,7 @@ Evaṁ bahulaṁ sāvake vineti
 \end{english}
 
 \begin{pali-hang}
-Evaṁ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
+  Evaṁ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
 \end{pali-hang}
 
 \begin{english}
@@ -1117,15 +1117,19 @@ Dukkhotiṇṇā dukkha-paretā
 \end{english}
 
 \begin{pali-hang}
-Appeva nāmimassa kevalassa dukkha-kkhandhassa antakiriyā paññāyethā'ti
+  Appeva nāmimassa kevalassa dukkha-kkhandhassa antakiriyā paññāyethā'ti
 \end{pali-hang}
 
 \begin{english}
   Let us all aspire to complete freedom from suffering
 \end{english}
 
+\begin{center}
+  \textit{\textbf{(The following is recited only by the bhikkhus)}}
+\end{center}
+
 \begin{pali-hang}
-Cira-parinibbutampi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
+  Cira-parinibbutampi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
 \end{pali-hang}
 
 \begin{english-hang}
@@ -1157,7 +1161,7 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 \end{english}
 
 \begin{pali-hang}
-Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
+  Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
 \end{pali-hang}
 
 \begin{english}
@@ -1244,12 +1248,12 @@ Saṅghaṁ namāmi
   Gaha-kāraṁ gavesanto – Dukkhā jāti punappunaṁ\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   For many lifetimes in the round of birth\\
   Wandering on endlessly\\
   For the builder of this house I searched\\
   How painful is repeated birth.
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Gaha-kāraka diṭṭho'si – Puna gehaṁ na kāhasi\\
@@ -1257,14 +1261,14 @@ Saṅghaṁ namāmi
   Visaṅkhāra-gataṁ cittaṁ – Taṇhānaṁ khayam-ajjhagā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   House-builder you've been seen\\
   Another home you will not build\\
   All your rafters have been snapped\\
   Dismantled is your ridge-pole\\
   The non-constructing mind\\
   Has come to craving's end
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhp 153-154]}
 
@@ -1286,36 +1290,36 @@ Saṅghaṁ namāmi
   Yo c'etarahi sambuddho – Bahunnaṁ soka-nāsano \\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   All the Buddhas of the past\\
   All the Buddhas yet to come\\
   The Buddha of this current age\\
   Dispellers of much sorrow
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Sabbe saddhamma-garuno – Vihariṁsu viharanti ca\\
   Atho pi viharissanti – Esā buddhāna dhammatā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Those having lived or living now\\
   Those living in the future\\
   All do revere the True Dhamma\\
   That is the nature of all Buddhas
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Tasmā hi atta-kāmena – Mahattam-abhikaṅkhatā\\
   Saddhammo garu-kātabbo – Saraṁ buddhāna sāsanaṁ\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Therefore desiring one's own welfare\\
   Pursuing greatest aspirations\\
   One should revere the True Dhamma\\
   Recollecting the Buddha's teaching
-\end{english}
+\end{english-verses}
 
 \suttaRef{[SN 6.2]}
 
@@ -1324,7 +1328,7 @@ Na hi dhammo adhammo ca – Ubho sama-vipākino\\
 Adhammo nirayaṁ neti – Dhammo pāpeti suggatiṁ
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   What is true Dhamma and what's\pagenote{%
     Orig: ``what not'': What not is usually followed by what is similar.}
   not\\
@@ -1333,7 +1337,7 @@ Adhammo nirayaṁ neti – Dhammo pāpeti suggatiṁ
     Orig: ``lack of Dhamma'' This translation is problematic, because a mere ``lack of Dhamma'' does not lead to rebirth in hell; otherwise all non-Buddhists would be destined to hell. In reality, it is the view and practice of ``wrong Dhamma'' that leads to hell, which is also substantiated by the Commentary, which defines ``adhamma'' as the opposite (paṭipakkha) of true Dhamma.}
   Dhamma leads to hell realms\\
   True Dhamma takes one on a good course
-\end{english}
+\end{english-verses}
 
   Dhammo have rakkhati dhamma-cāriṁ\\
   Dhammo suciṇṇo sukham-āvahāti\\
@@ -1341,12 +1345,12 @@ Adhammo nirayaṁ neti – Dhammo pāpeti suggatiṁ
   Na duggatiṁ gacchati dhamma-cārī\pagenote{%
     This line is missing in Wat Pah Nanachat chanting book.}
 
-\begin{english}
+\begin{english-verses}
   The Dhamma guards those who live in line with it\\
   And leads to happiness when practised well\\
   This is the blessing of well-practised Dhamma\\
   The Dhamma-farer does not go on a bad course
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Thag 4.10]}
 
@@ -1365,53 +1369,53 @@ Adhammo nirayaṁ neti – Dhammo pāpeti suggatiṁ
 Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\\
 Ārāma-rukkha-cetyāni – Manussā bhaya-tajjitā\\
 
-\begin{english}
+\begin{english-verses}
   To many refuges they go\\
   To mountain slopes and forest glades\\
   To parkland shrines and sacred sites\\
   People overcome by fear
-\end{english}
+\end{english-verses}
 
 N'etaṁ kho saraṇaṁ khemaṁ – N'etaṁ saraṇam-uttamaṁ\\
 N'etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccati\\
 
-\begin{english}
+\begin{english-verses}
   Such a refuge is not secure\\
   Such a refuge is not supreme\\
   Such a refuge does not bring\\
   Complete release from all suffering\pagenote{%
     Orig: ``from suffering''}
-\end{english}
+\end{english-verses}
 
 Yo ca buddhañ-ca dhammañ-ca – Saṅghañ-ca saraṇaṁ gato\\
 Cattāri ariya-saccāni – Sammappaññāya passati\\
 
-\begin{english}
+\begin{english-verses}
   Whoever goes to refuge\\
   In the Triple Gem\\
   Sees with right discernment\\
   The Four Noble Truths
-\end{english}
+\end{english-verses}
 
 Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
 Ariyañ-c'aṭṭh'aṅgikaṁ maggaṁ – Dukkhūpasama-gāminaṁ\\
 
-\begin{english}
+\begin{english-verses}
   Suffering and its origin\\
   And that which lies beyond\\
   The Noble Eightfold Path\\
   That leads the way to suffering's end.
-\end{english}
+\end{english-verses}
 
 Etaṁ kho saraṇaṁ khemaṁ – Etaṁ saraṇam-uttamaṁ\\
 Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
 
-\begin{english}
+\begin{english-verses}
   Such a refuge is secure\\
   Such a refuge is supreme\\
   Such a refuge truly brings\\
   Complete release from all suffering.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhp 188-192]}
 
@@ -1532,39 +1536,39 @@ Etaṁ buddhāna sāsanaṁ
   Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   ``All conditioned things are impermanent''\pagenote{%
     Orig: ``Impermanent are all conditioned things''}\\
   When with wisdom this is seen\\
   One feels weary of all dukkha\pagenote{%
     ``Dukkha'' here refers to the five aggregates themselves, as explained in SN 56.11: ``The five aggregates of clinging are dukkha''. Along similar lines, the five aggregates are called ``burdens'' in SN 22.22.}\\
   This is the path to purity
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Sabbe saṅkhārā dukkhā’ti – Yadā paññāya passati\\
   Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   ``All conditioned things are dukkha''\\
   When with wisdom this is seen\\
   One feels weary of all dukkha\\
   This is the path to purity
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Sabbe dhammā anattā’ti – Yadā paññāya passati\\
   Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   ``All things are not-self''\pagenote{%
     Orig: ``Dukkha are all conditioned things''}\\
   When with wisdom this is seen\\
   One feels weary of all dukkha\\
   This is the path to purity
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhp 183-185]}
 
@@ -1573,24 +1577,24 @@ Etaṁ buddhāna sāsanaṁ
   Athāyaṁ itarā pajā – Tīram-evānudhāvati\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Few amongst humankind\\
   Are those who go beyond\\
   Yet there are the many folks\\
   Ever wandering on this shore
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Ye ca kho sammad-akkhāte – Dhamme dhammānuvattino\\
   Te janā pāram-essanti – Maccu-dheyyaṁ suduttaraṁ\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Wherever Dhamma is well-taught\\
   Those who train in line with it\\
   Are the ones who will cross over\\
   The realm of death so hard to flee
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Kaṇhaṁ dhammaṁ vippahāya – Sukkaṁ bhāvetha paṇḍito\\
@@ -1598,7 +1602,7 @@ Etaṁ buddhāna sāsanaṁ
   Tatrābhiratim-iccheyya – Hitvā kāme akiñcano
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Abandoning the darker states\\
   The wise pursue the bright\\
   Gone from home to homelessness\pagenote{%
@@ -1608,7 +1612,7 @@ Etaṁ buddhāna sāsanaṁ
   Such rare delight one should desire\\
   Sense pleasures cast away\\
   Not having anything
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhp 85-87.5]}
 
@@ -1630,25 +1634,25 @@ Etaṁ buddhāna sāsanaṁ
   Bhār'ādānaṁ dukkhaṁ loke – Bhāra-nikkhepanaṁ sukhaṁ \\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   The five aggregates indeed are burdens\\
   The beast of burden is the person\pagenote{%
     Orig: ``The beast of burden though is man''. The Pāli word ``puggalo'' stands in masculine, which is the expected grammatical form even if a term refers to males and females alike, as is probably the case here. Furthermore, the phrase ``beast of burden'' is an English idiomatic expression, signifying ``an animal used for heavy work such as carrying or pulling things'' (Oxford dictionary).}\\
   In this world to take up burdens is dukkha\\
   Putting them down brings happiness
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Nikkhipitvā garuṁ bhāraṁ – Aññaṁ bhāraṁ anādiya\\
   Samūlaṁ taṇhaṁ abbuyha – Nicchāto parinibbuto\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   A heavy burden cast away\\
   Not taking on another load\\
   With craving pulled out from the root\\
   Desires stilled, one is released
-\end{english}
+\end{english-verses}
 
 \suttaRef{[SN 22.22]}
 
@@ -1670,60 +1674,60 @@ Etaṁ buddhāna sāsanaṁ
   Āturaṁ bahusaṅkappaṁ – Yassa natthi dhuvaṁ ṭhiti\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   See this fancy puppet\\
   A body built of sores\\
   Diseased \breathmark\ obsessed over\\
   Which does not last at all
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Passa cittakataṁ rūpaṁ – Maṇinā kuṇḍalena ca\\
   Aṭṭhiṁ tacena onaddhaṁ – Saha vatthehi sobhati\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   See this fancy figure\\
   With its gems and earrings\\
   It is bones wrapped in skin\\
   Made pretty by its clothes
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Alattakakatā pādā – Mukhaṁ cuṇṇakamakkhitaṁ\\
   Alaṁ bālassa mohāya – No ca pāragavesino\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Feet adorned with henna dye\\
   And powder smeared upon its face\\
   May be enough to beguile a fool\\
   But not a seeker of the far shore
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Aṭṭhapadakatā kesā – Nettā añjanamakkhitā\\
   Alaṁ bālassa mohāya – No ca pāragavesino\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Hair in eight braids\\
   And eyeliner\\
   May be enough to beguile a fool\\
   But not a seeker of the far shore
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Añjanīva navā cittā – Pūtikāyo alaṅkato\\
   Alaṁ bālassa mohāya – No ca pāragavesino\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   A rotting body all adorned\\
   Like a freshly painted unguent pot\\
   May be enough to beguile a fool\\
   But not a seeker of the far shore
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Passāmi loke sadhane manusse\\
@@ -1732,12 +1736,12 @@ Etaṁ buddhāna sāsanaṁ
   Bhiyyova kāme abhipatthayanti
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   I see rich people in the world\\
   Who from delusion give not the wealth they’ve earned\\
   Greedily they hoard their riches\\
   Yearning for ever more sense pleasures
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Rājā ca aññe ca bahū manussā\\
@@ -1746,12 +1750,12 @@ Etaṁ buddhāna sāsanaṁ
   Kāmehi lokamhi na hatthi titti
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Not just the king but others too\\
   Reach death not rid of craving\\
   They leave the body still wanting\\
   For in this world sense pleasures never satisfy
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Na dīghamāyuṁ labhate dhanena\\
@@ -1760,12 +1764,12 @@ Etaṁ buddhāna sāsanaṁ
   Asassataṁ vippariṇāma-dhammaṁ
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Longevity is not gained by riches\\
   Nor does wealth banish ageing\\
   For the wise say this life is short\\
   Subject to change \breathmark\ and not eternal
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Tasmā hi paññāva dhanena seyyā\\
@@ -1774,12 +1778,12 @@ Etaṁ buddhāna sāsanaṁ
   Pāpāni kammāni karoti mohā
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Therefore wisdom is much better than wealth\\
   By which one reaches perfection in this life\\
   People through ignorance do evil deeds\\
   Failing to reach the goal \breathmark\ from life to life
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Kāmā hi citrā madhurā manoramā\\
@@ -1788,12 +1792,12 @@ Etaṁ buddhāna sāsanaṁ
   Tasmā ahaṁ pabbajitomhi rāja
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Sense pleasures are diverse \breathmark\ sweet \breathmark\ delightful\\
   Appearing in disguise they disturb the mind\\
   Seeing danger in the cords of sense pleasure\\
   Therefore I went forth O King
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Dumapphalānīva patanti māṇavā\\
@@ -1802,12 +1806,12 @@ Etaṁ buddhāna sāsanaṁ
   Apaṇṇakaṁ sāmaññameva seyyo
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   As fruits fall from a tree \breathmark\ so people fall\\
   Young and old \breathmark\ when the body breaks up\\
   Seeing this too I went forth O King\\
   Surely the ascetic life is better
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Thag 16.4 / MN 82]}
 
@@ -1829,108 +1833,108 @@ Etaṁ buddhāna sāsanaṁ
   Iriyaṁ āsi bhikkhūnaṁ – Aññathā dāni dissati\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   The behavior of the bhikkhus\\
   These days seems different\\
   From when the protector of the world\\
   The best of men was still here
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Sītavātaparittāṇaṁ – Hirikopīnachādanaṁ\\
   Mattaṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itarītare\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Their robes were just for modesty\\
   And protection from cold and wind\\
   They ate in moderation\\
   Content with whatever they were offered
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Paṇītaṁ yadi vā lūkhaṁ – Appaṁ vā yadi vā bahuṁ\\
   Yāpanatthaṁ abhuñjiṁsu – Agiddhā nādhimucchitā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Whether food was refined or rough\\
   A little or a lot\\
   They ate only for sustenance\\
   Without greed or gluttony
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Jīvitānaṁ parikkhāre – Bhesajje atha paccaye\\
   Na bāḷhaṁ ussukā āsuṁ – Yathā te āsavakkhaye\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   They were not so eager\\
   For the requisites of life\\
   Such as tonics and other supplies\\
   As they were for destructing the defilements
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Araññe rukkhamūlesu – Kandarāsu guhāsu ca\\
   Vivekamanubrūhantā – Vihaṁsu tapparāyaṇā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   In the wilderness \breathmark\ at the foot of a tree\\
   In caves and caverns\\
   Fostering seclusion\\
   They lived with that as their final goal
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Nīcā niviṭṭhā subharā – Mudū atthaddhamānasā\\
   Abyāsekā amukharā – Atthacintā vasānugā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   They were used to simple things \breathmark\ easy to look after\\
   Gentle \breathmark\ not stubborn at heart\\
   Unsullied \breathmark\ not gossipy\\
   Their thoughts were intent on the goal
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Tato pāsādikaṁ āsi – Gataṁ bhuttaṁ nisevitaṁ\\
   Siniddhā teladhārāva – Ahosi iriyāpatho\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   That’s why they inspired confidence\\
   In their movements eating and practice\\
   Their deportment was as smooth\\
   As a stream of oil
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Yathā kaṇṭakaṭṭhānamhi – Careyya anupāhano\\
   Satiṁ upaṭṭhapetvāna – Evaṁ gāme munī care\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   When barefoot on a thorny path\\
   One would walk\\
   Quite mindfully\\
   That’s how a sage should walk in the village
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Saritvā pubbake yogī – Tesaṁ vattamanussaraṁ\\
   Kiñcāpi pacchimo kālo – Phuseyya amataṁ padaṁ\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Remembering the meditators of old\\
   And recollecting their conduct\\
   Even in the latter days\\
   The Deathless can still be reached
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Thag 16.10]}
 
@@ -1951,62 +1955,62 @@ Etaṁ buddhāna sāsanaṁ
   Nappahāya muni kāme – Nekattam-upapajjati\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Exert yourself and cut the stream\\
   Discard sense pleasures holy man\\
   Not letting sensual pleasures go\\
   A sage will not reach unity\pagenote{%
     `Unity'here refers to unity of mind due to concentration (samādhi, cittass-ekaggatā). Nekatta = na + ekatta [abstr. fr. eka].}
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Kayirā ce kayirāthenaṁ – Daḷham-enaṁ parakkame\\
   Sithilo hi paribbājo – Bhiyyo ākirate rajaṁ\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Vigorously with all one’s strength\\
   It should be done what should be done\\
   A lax monastic life stirs up\\
   The dust of defilements all the more\pagenote{%
     Orig: ``The dust of passions all the more''. The Pāli only speaks of stirring up dust, but the commentary explains that it refers to the dust of kilesā. As a translation for kilesā, the term ``defilements'' has a broader scope than just ``passions, wherefore the former has been given preference. }
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Akataṁ dukkaṭaṁ seyyo – Pacchā tappati dukkaṭaṁ\\
   Katañ-ca sukataṁ seyyo – Yaṁ katvā nānutappati\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Better is not to do bad deeds\\
   That afterwards would bring remorse\\
   It’s rather good deeds one should do\\
   Which having done one won’t regret
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Kuso yathā duggahito – Hattham-evānukantati\\
   Sāmaññaṁ dupparāmaṭṭhaṁ – Nirayāy’ūpakaḍḍhati\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   As kusa grass when wrongly grasped\\
   Will only cut into one’s hand\\
   So does the monk’s life wrongly led\\
   Indeed drag one to hellish states
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Yaṁ-kiñci sithilaṁ kammaṁ – Saṅkiliṭṭhañ-ca yaṁ vataṁ\\
   Saṅkassaraṁ brahma-cariyaṁ – Na taṁ hoti mahapphalan’ti\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Whatever deed that’s slackly done\\
   Whatever vow corruptly kept\\
   The holy life led in doubtful ways\\
   All these will never bear great fruits
-\end{english}
+\end{english-verses}
 
 \suttaRef{[SN 2.8]}
 
@@ -2028,12 +2032,12 @@ Etaṁ buddhāna sāsanaṁ
   Dhammadīpā dhammasaraṇā anaññasaraṇā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Bhikkhus dwell with yourselves as an island\\
   With yourselves as a refuge \breathmark\ with no other refuge\\
   With the Dhamma as an island \breathmark\ with the Dhamma as a refuge\\
   With no other refuge
-\end{english}
+\end{english-verses}
 
 \suttaRef{[SN 22.43]}
 
@@ -2042,12 +2046,12 @@ Etaṁ buddhāna sāsanaṁ
   Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   The man of little learning\\
   Grows old like an ox\\
   He grows only in bulk\\
   But his wisdom does not grow
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhp 152]}
 
@@ -2056,12 +2060,12 @@ Etaṁ buddhāna sāsanaṁ
   Haṁsāva pallalaṁ hitvā – Okamokaṁ jahanti te\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   The mindful ones exert themselves\\
   They are not attached to any home\\
   Like swans that abandon the lake\\
   They leave home after home behind
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhp 91]}
 
@@ -2070,12 +2074,12 @@ Etaṁ buddhāna sāsanaṁ
   Majjhe ce no gahessasi – Upasanto carissasi\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Dry up what pertains to the past\\
   Let there be nothing afterward\\
   If you do not grasp in the middle\\
   You will live at peace
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Snp 949]}
 
@@ -2084,24 +2088,24 @@ Etaṁ buddhāna sāsanaṁ
   Āturānañhi kā niddā – Sallaviddhāna ruppataṁ\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Arouse yourselves \breathmark\ sit up!\\
   What good to you is sleeping?\\
   For what sleep can there be for the afflicted\\
   For those injured \breathmark\ pierced by the dart?
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā\\
   Mā vo pamatte viññāya – Maccurājā amohayittha vasānuge\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Arouse yourselves \breathmark\ sit up!\\
   Train vigorously for the state of peace\\
   Let not the King of Death catch you heedless\\
   And delude you when under his control
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Yāya devā manussā ca – Sitā tiṭṭhanti atthikā\\
@@ -2109,27 +2113,27 @@ Etaṁ buddhāna sāsanaṁ
   Khaṇātītā hi socanti – Nirayamhi samappitā\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Cross over this attachment\\
   By which devas and human beings\\
   Full of need are held fast\\
   Don’t let the opportunity pass you by\\
   For those who have missed the opportunity\\
   Sorrow when they arrive in hell
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Pamādo rajo pamādo – Pamādānupatito rajo\\
   Appamādena vijjāya – Abbahe sallamattanoti\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Heedlessness is dust always\\
   Dust follows upon heedlessness\pagenote{%
     The meaning of this statement is somewhat cryptic. The Commentary explains as follows: pamādo rajo = heedlessness is dust; pamādo pamādānupatito rajo = the dust that follows heedlessness is (also) heedlessness; the Commentary further explains that this is about procrastination e.g. ``I am still young, so can afford to be heedless; maybe later I'll be heedful''.}\\
   By heedfulness by clear knowledge\\
   Draw out the dart from yourself
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Snp 333-336]}
 
@@ -2138,12 +2142,12 @@ Etaṁ buddhāna sāsanaṁ
   Piyato vippamuttassa – Natthi soko kuto bhayaṁ\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   From endearment springs sorrow\\
   From endearment springs fear\\
   For one who is free from endearment\\
   There is no sorrow \breathmark\ whence then fear?
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhp 212]}
 
@@ -2188,11 +2192,11 @@ Etaṁ buddhāna sāsanaṁ
   Hitesinā anukampakena anukampaṁ upādāya\\
 \end{twochants}
 
-\begin{english}
+\begin{english-verses}
   Bhikkhus what should be done for his disciples\\
   Out of compassion by a teacher\\
   Who seek their welfare and has compassion for them
-\end{english}
+\end{english-verses}
 
 \begin{twochants}
   Kataṁ vo taṁ mayā
@@ -4891,7 +4895,7 @@ Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
 
 Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ
 
-\begin{english--hang}
+\begin{english-hang}
   The eye-base ear-base nose-base tongue-base body-base mind-base
 \end{english-hang}
 
@@ -4931,10 +4935,10 @@ Tattha katamā phassa-paccayā vedanā
 Cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā
 \end{pali-hang}
 
-\begin{english}
-  Feeling born of eye-contact \breathmark\ feeling born of ear-contact  ̓
+\begin{english-hang}
+  Feeling born of eye-contact \breathmark\ feeling born of ear-contact \breathmark\
   feeling born of nose-contact \breathmark\ feeling born of tongue-contact \breathmark\ feeling born of body-contact \breathmark\ feeling born of mind-contact
-\end{english}
+\end{english-hang}
 
 Ayaṁ vuccati phassa-paccayā vedanā
 
@@ -4948,11 +4952,13 @@ Tattha katamā vedanā-paccayā taṇhā
   Therein what is 'craving' \breathmark\ arising from feeling as a condition?
 \end{english}
 
+\begin{pali-hang}
 Rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Craving for forms \breathmark\ craving for sounds \breathmark\ craving for odours \breathmark\ craving for flavours \breathmark\ craving for tangibles \breathmark\ craving for mind-objects
-\end{english}
+\end{english-hang}
 
 Ayaṁ vuccati vedanā-paccayā taṇhā
 
@@ -4966,12 +4972,14 @@ Tattha katamaṁ taṇhā-paccayā upādānaṁ
   Therein what is 'clinging' \breathmark\ arising from craving as a condition?
 \end{english}
 
+\begin{pali-hang}
 Kāmupādānaṁ diṭṭhupādānaṁ sīlabbatupādānaṁ attavādupādānaṁ
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Clinging to sensuality \breathmark\ clinging to views \breathmark\ clinging to rules and rituals \breathmark\ clinging to a sense of self\pagenote{%
     The term vāda in attavādupādāna does here not necessarily refer to ``a doctrine'' of self, but rather to a person’s sense of being someone; the sense of being or having a self. This is not exactly the same as personality view, which is destroyed already at the stage of stream-entry. The lingering sense of having a self may continue for a while, despite of having already intellectually and/or experientially understood that there is no self to be found in relation to the five aggregates; just as conceit (māna) is overcome only by the path to Arahantship, despite of having uprooted personality view already at the stage of stream-entry.}
-\end{english}
+\end{english-hang}
 
 Idaṁ vuccati taṇhā-paccayā upādānaṁ
 
@@ -4988,9 +4996,9 @@ Tattha katamo upādāna-paccayā bhavo
 Kāmabhavo rūpabhavo arūpabhavo\pagenote{%
   Here the Vibh. differs substantially from the analysis found in the suttas. It introduces a distinction between action becoming (kammabhava) and rebirth becoming (upapattipbhava). Kammabhava is taken to refer to wholesome, unwholesome and imperturpable actions; upapattibhava is taken to refer to sense/form/formless-sphere becoming, percipient/non-percipient/neither-percipient-nor-non-percipient becoming, one/four/five-component becoming. But since AN 3.76 says that kamma (together with consciousness and craving) is a condition for bhava (if no kamma…then no becoming in the sense-sphere etc. would be discerned), it is not fit to say that kamma itself is a form of bhava (kammabhava). However, it would go too far for the purpose of this chanting book, to discuss further implications of the analysis found in Vibh. For the sake of simplicity and emphasis on the earliest strata of the Buddha’s teachings, we substituted the passage from Vibh. with the passage from SN 12.2, which defines becoming (bhava) simply as sense/form/formless-sphere becoming. Understood in this way, becoming (bhava) functions as an intermediary between clinging and birth, highlighting the gradual process of how rebirth in one of the three planes of existence takes place. This can even include an interim period between death and birth; thus it is called ``becoming'', rather than instant birth straight after death.}
 
-\begin{english}
+\begin{english-hang}
   Sense-sphere becoming form-sphere becoming formless-sphere becoming
-\end{english}
+\end{english-hang}
 
 Ayaṁ vuccati upādāna-paccayā bhavo
 
@@ -5004,12 +5012,14 @@ Tattha katamā bhava-paccayā jāti
   Therein what is 'birth' \breathmark\ arising from becoming as a condition?
 \end{english}
 
+\begin{pali-hang}
 Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti \breathmark\ sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho\pagenote{%
   While SN 12.2 does not contain a full elaboration on all types of dukkha, a similar analysis is found in DN 22.}
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   The birth of various beings among the various classes of beings \breathmark\ their being born \breathmark\ descent \breathmark\ production \breathmark\ appearance of the aggregates \breathmark\ obtaining of the sense-bases
-\end{english}
+\end{english-hang}
 
 Ayaṁ vuccati bhava-paccayā jāti
 
@@ -5029,13 +5039,15 @@ Tattha katamo soko
   Therein what is sorrow?
 \end{english}
 
+\begin{pali-hang}
 Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ soko socanā socitattaṁ \breathmark\ antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view\pagenote{%
     While SN 12.2 does not contain an elaboration on the different types of misfortune (vyasana), it is found in DN 33, AN 4.192, and AN 5.130. Diṭṭhi here does not mean just any view, but ``right view''. The loss of other views would not be particularly unfortunate from a Buddhist perspective, especially the loss of wrong view could be regarded as a great blessing. The right view that is lost in this example is not the right view of a noble disciple, but the right view of a worldling (puthujjana), whose right view is not unshakeable and who may or may not change his view later on throughout the course of the present life or subsequent births.}
   \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the sorrow \breathmark\ sorrowing \breathmark\ sorrowfulness \breathmark\ inner sorrow \breathmark\ extensive inner sorrow \breathmark\ the mind’s thorough burning \breathmark\ displeasure \breathmark\ the dart of sorrow
-\end{english}
+\end{english-hang}
 
 Ayaṁ vuccati soko
 
@@ -5049,11 +5061,13 @@ Tattha katamo paridevo
   Therein what is lamentation?
 \end{english}
 
+\begin{pali-hang}
 Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ \breathmark\ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the wail and lament \breathmark\ wailing and lamenting \breathmark\ bewailing and lamentation \breathmark\ sorrowful talk \breathmark\ senseless \breathmark\ confused \breathmark\ sorrowful murmur \breathmark\ sorrowful murmuring \breathmark\ sorrowful murmuration
-\end{english}
+\end{english-hang}
 
 Ayaṁ vuccati paridevo
 
@@ -5069,9 +5083,9 @@ Tattha katamaṁ dukkhaṁ?
 
 Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ \breathmark\ kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ kāyasamphassajā asātā dukkhā vedanā
 
-\begin{english}
+\begin{english-hang}
   The bodily discomfort \breathmark\ bodily pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of body-contact \breathmark\ the uncomfortable painful feeling that is born of body-contact
-\end{english}
+\end{english-hang}
 
 Idaṁ vuccati dukkhaṁ
 
@@ -5085,11 +5099,13 @@ Tattha katamaṁ domanassaṁ
   Therein what is displeasure?
 \end{english}
 
+\begin{pali-hang}
 Yaṁ cetasikaṁ asātaṁ cetasikaṁ dukkhaṁ \breathmark\ cetosamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ cetosamphassajā asātā dukkhā vedanā
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   The mental discomfort \breathmark\ mental pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of mind-contact \breathmark\ the uncomfortable painful feeling that is born of mind-contact
-\end{english}
+\end{english-hang}
 
 Idaṁ vuccati domanassaṁ
 
@@ -5103,11 +5119,13 @@ Tattha katamo upāyāso
   Therein what is despair?
 \end{english}
 
+\begin{pali-hang}
 Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the trouble and despair \breathmark\ tribulation and desperation
-\end{english}
+\end{english-hang}
 
 Ayaṁ vuccati upāyāso
 
@@ -5121,577 +5139,27 @@ Evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti:
   ``Such is the origin of this whole mass of suffering'' means this:
 \end{english}
 
+\begin{pali-hang}
 Evametassa kevalassa dukkhakkhandhassa saṅgati hoti \breathmark\ samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Such is the combination \breathmark\ composition \breathmark\ collocation \breathmark\ manifestation \breathmark\ of this whole mass of suffering
-\end{english}
+\end{english-hang}
 
+\begin{pali-hang}
 Tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti
+\end{pali-hang}
 
 \begin{english}
   Therefore it is called\\
   ``Such is the origin of this whole mass of suffering''
 \end{english}
 
-\suttaRef{Vibh 130 / SN 12.2}
+\suttaRef{[Vibh 130 / SN 12.2]}
 
 \bottomNav{dhamma-in-brief}
 #+end_src
-
-#+RESULTS:
-#+begin_example
-\sectionPaliTitle{Paṭicca samuppāda}
-\section{Dependent Origination}
-\label{dependent-origination}
-
-\begin{leader}
-  [Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ bhaṇāmase]
-\end{leader}
-\begin{leader}
-  [Now let us recite the Analysis of Dependent Origination\pagenote{%
-    Lit.: ``the 'Discourse Analysis' from the 'Analysis of Dependent Origination'''  The ``Discourse Analysis'' is a sub-chapter (Abh.Vibh.130f) from the ``Analysis of Dependent Origination'', which is part of the 2nd book of the Abhidhammapiṭaka called the ``Vibhaṅga''. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the Suttapiṭaka.}]
-\end{leader}
-
-Avijjā-paccayā saṅkhārā
-
-\begin{english}
-  From ignorance as a\pagenote{%
-    Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (adhipati-paccaya) for the subsequent conditioned thing to arise.}
-  condition arise\pagenote{%
-    Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``sambhavati'' from ``Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanassupāyāsā sambhavanti'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}
-  formations
-\end{english}
-
-Saṅkhāra-paccayā viññāṇaṁ
-
-\begin{english}
-  From formations as a condition arises consciousness
-\end{english}
-
-Viññāṇa-paccayā nāmarūpaṁ
-
-\begin{english}
-  From consciousness as a condition arises name-and-form\pagenote{%
-    In the context of dependent origination, the compound ``nāmarūpa'' is translated as ``mind-and-body'' in order to cover the entirety of what is conventionally called ``a being, a person''. In other contexts, particularly if used separately, these terms may have other connotations.}
-\end{english}
-
-Nāmarūpa-paccayā saḷāyatanaṁ
-
-\begin{english}
-  From name-and-form as a condition arises the sixfold-sense-base
-\end{english}
-
-Saḷāyatana-paccayā phasso
-
-\begin{english}
-  From the sixfold-sense-base as a condition arises contact
-\end{english}
-
-Phassa-paccayā vedanā
-
-\begin{english}
-  From contact as a condition arises feeling
-\end{english}
-
-Vedanā-paccayā taṇhā
-
-\begin{english}
-  From feeling as a condition arises craving
-\end{english}
-
-Taṇhā-paccayā upādānaṁ
-
-\begin{english}
-  From craving as a condition arises clinging
-\end{english}
-
-Upādāna-paccayā bhavo
-
-\begin{english}
-  From clinging as a condition arises becoming
-\end{english}
-
-Bhava-paccayā jāti
-
-\begin{english}
-  From becoming as a condition arises birth
-\end{english}
-
-\begin{pali-hang}
-Jāti-paccayā jarāmaraṇaṁ soka parideva dukkha domanssupāyāsā sambhavanti
-\end{pali-hang}
-
-\begin{english}
-  From birth as a condition arise ageing-and-death\\
-  Sorrow lamentation pain displeasure and despair
-\end{english}
-
-Evametassa kevalassa dukkhakkhandhassa samudayo hoti
-
-\begin{english}
-  Such is the origin of this whole mass of suffering
-\end{english}
-
-Tattha katamā avijjā
-
-\begin{english}
-  Therein what is ignorance?
-\end{english}
-
-\begin{pali-hang}
-Dukkhe aññāṇaṁ dukkhasamudaye aññāṇaṁ dukkhanirodhe aññāṇaṁ dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ
-\end{pali-hang}
-
-TODO: this doesn't look good
-
-\begin{english-hang}
-  Not knowing suffering \breathmark\ not knowing the origin of suffering \breathmark\ not knowing the cessation of suffering \breathmark\ not knowing the way of practice leading to the cessation of suffering
-\end{english-hang}
-
-Ayaṁ vuccati avijjā
-
-\begin{english}
-  This is called 'ignorance'
-\end{english}
-
-Tattha katame avijjā-paccayā saṅkhārā
-
-\begin{english-hang}
-  Therein what are 'formations' \breathmark\ arising\pagenote{%
-    Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``sambhavati'' from ``Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanassupāyāsā sambhavanti'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}
-  from ignorance as a condition?\pagenote{%
-    To render as ``Therein what is from ignorance as a condition arise formations.'' would be misleading, because it is not the conditioned relationship between A and B (here: ignorance and formations) that gets elaborated upon in the following lines, but it is only the term B (here: formations), that gets defined. Hence the preferable translation: ``Therein what are 'formations', arising from ignorance as a condition?''}
-\end{english-hang}
-
-Puññābhisaṅkhāro apuññābhisaṅkhāro āneñjābhisaṅkhāro\pagenote{%
-  SN 12.51 explains: ``Bhikkhus, if a person immersed in ignorance generates a meritorious volitional formation, consciousness fares on to the meritorious; if he generates a demeritorious volitional formation, consciousness fares on to the demeritorious; if he generates an imperturbable volitional formation, consciousness fares on to the imperturbable.''}\\
-Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
-
-\begin{english}
-  Heightened formation of wholesomeness\\
-  Heightened formation of unwholesomeness\\
-  Heightened formation of imperturbability\\
-  The bodily formation \breathmark\ the verbal formation \breathmark\ the mental formation
-\end{english}
-
-Tattha katamo puññābhisaṅkhāro
-
-\begin{english}
-  Therein what is 'heightened formation of wholesomeness'?
-\end{english}
-
-\begin{pali-hang}
-Kusalā cetanā kāmāvacarā rūpāvacarā dānamayā sīlamayā bhāvanāmayā
-\end{pali-hang}
-
-\begin{english-hang}
-  Skillful volition of the sense-sphere \breathmark\ of the form-sphere \breathmark\ connected with giving \breathmark\ connected with virtue \breathmark\ connected with meditation
-\end{english-hang}
-
-Ayaṁ vuccati puññābhisaṅkhāro
-
-\begin{english}
-  This is called 'heightened formation of wholesomeness'
-\end{english}
-
-Tattha katamo apuññābhisaṅkhāro
-
-\begin{english}
-  Therein what is 'heightened formation of unwholesomeness'?
-\end{english}
-
-Akusalā cetanā kāmāvacarā
-
-\begin{english}
-  Unskillful volition of the sense-sphere
-\end{english}
-
-Ayaṁ vuccati apuññābhisaṅkhāro
-
-\begin{english}
-  This is called 'heightened formation of unwholesomeness'
-\end{english}
-
-Tattha katamo āneñjābhisaṅkhāro
-
-\begin{english}
-  Therein what is 'heightened formation of imperturbability'?
-\end{english}
-
-Kusalā cetanā arūpāvacarā
-
-\begin{english}
-  Skillful volition of the formless-sphere
-\end{english}
-
-Ayaṁ vuccati āneñjābhisaṅkhāro
-
-\begin{english}
-  This is called 'heightened formation of imperturbability'
-\end{english}
-
-Tattha katamo kāyasaṅkhāro
-
-\begin{english}
-  Therein what is 'the bodily formation'?
-\end{english}
-
-\begin{pali-hang}
-Kāyasañcetanā kāyasaṅkhāro vacīsañcetanā vacīsaṅkhāro manosañcetanā cittasaṅkhāro\pagenote{%
-  Further explained in SN 12.25}
-\end{pali-hang}
-
-\begin{english}
-  Volition associated with the body is the bodily formation\\
-  Volition associated with speech is the verbal formation\\
-  Volition associated with the mind is the mental\pagenote{%
-    Manosañcetanā cittasaṅkhāro is translated here as ``volition associated with the mind is the mental formation''. Despite of mano and citta having in certain contexts different shades of meaning, both were translated here as ``mind''. Generally speaking mano refers more to the intellectual, whereas citta covers more the emotional/affective aspects of the mind. A detailed analysis of these terms can be found in Rune E. A. Johansson’s ``Citta, Mano, Viññāṇa — a Psychosemantic Investigation''.}
-  formation
-\end{english}
-
-Ime vuccanti avijjā-paccayā saṅkhārā
-
-\begin{english}
-  These are called 'formations' \breathmark\ arising from ignorance as a condition
-\end{english}
-
-Tattha katamaṁ saṅkhāra-paccayā viññāṇaṁ
-
-\begin{english-hang}
-  Therein what is 'consciousness' \breathmark\ arising from formations as a condition?
-\end{english-hang}
-
-\begin{pali-hang}
-Cakkhuviññāṇaṁ sotaviññāṇaṁ ghānaviññāṇaṁ jivhāviññāṇaṁ kāyaviññāṇaṁ manoviññāṇaṁ
-\end{pali-hang}
-
-\begin{english-hang}
-  Eye-consciousness ear-consciousness nose-consciousness tongue-consciousness body-consciousness mind-consciousness
-\end{english-hang}
-
-Idaṁ vuccati saṅkhāra-paccayā viññāṇaṁ
-
-\begin{english}
-  This is called 'consciousness' \breathmark\ arising from formations as a condition
-\end{english}
-
-Tattha katamaṁ viññāṇa-paccayā nāmarūpaṁ
-
-\begin{english-hang}
-  Therein what is 'name-and-form' \breathmark\ arising from consciousness as a condition?
-\end{english-hang}
-
-Atthi nāmaṁ atthi rūpaṁ
-
-\begin{english}
-  There is name \breathmark\ there is form
-\end{english}
-
-Tattha katamaṁ nāmaṁ
-
-\begin{english}
-  Therein what is name?
-\end{english}
-
-Vedanā saññā cetanā phasso manasikāro\pagenote{%
-  Vibh 130 defines nāma as ``vedanākkhandho saññākkhandho saṅkhārakkhandho''. For consistency with the discourses, I substituted this for the standard definition as found in e.g. SN 12.2.}
-
-\begin{english}
-  Feeling perception volition contact and attention
-\end{english}
-
-Idaṁ vuccati nāmaṁ
-
-\begin{english}
-  This is called 'name'
-\end{english}
-
-Tattha katamaṁ rūpaṁ
-
-\begin{english}
-  Therein what is form?
-\end{english}
-
-Cattāro mahābhūtā catunnañca mahābhūtānaṁ upādāya rūpaṁ
-
-\begin{english-hang}
-  The four great elements and form dependent on the four great elements
-\end{english-hang}
-
-Idaṁ vuccati rūpaṁ
-
-\begin{english}
-  This is called 'form'
-\end{english}
-
-Iti idañca nāmaṁ idañca rūpaṁ
-
-\begin{english}
-  Thus is this name and this form
-\end{english}
-
-Idaṁ vuccati viññāṇa-paccayā nāmarūpaṁ
-
-\begin{english-hang}
-  This is called 'name-and-form' \breathmark\ arising from consciousness as a condition
-\end{english-hang}
-
-Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
-
-\begin{english}
-  Therein what is 'the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition?
-\end{english}
-
-Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ
-
-\begin{english--hang}
-  The eye-base ear-base nose-base tongue-base body-base mind-base
-\end{english-hang}
-
-Idaṁ vuccati nāmarūpa-paccayā saḷāyatanaṁ
-
-\begin{english-hang}
-  This is called 'the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition
-\end{english-hang}
-
-Tattha katamo saḷāyatana-paccayā phasso
-
-\begin{english-hang}
-  Therein what is 'contact' \breathmark\ arising from the sixfold-sense-base as a condition?
-\end{english-hang}
-
-\begin{pali-hang}
-Cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso manosamphasso
-\end{pali-hang}
-
-\begin{english-hang}
-  Eye-contact ear-contact nose-contact tongue-contact body-contact mind-contact
-\end{english-hang}
-
-Ayaṁ vuccati saḷāyatana-paccayā phasso
-
-\begin{english-hang}
-  This is called 'contact' \breathmark\ arising from the sixfold-sense-base as a condition
-\end{english-hang}
-
-Tattha katamā phassa-paccayā vedanā
-
-\begin{english}
-  Therein what is 'feeling' \breathmark\ arising from contact as a condition?
-\end{english}
-
-\begin{pali-hang}
-Cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā
-\end{pali-hang}
-
-\begin{english}
-  Feeling born of eye-contact \breathmark\ feeling born of ear-contact  ̓
-  feeling born of nose-contact \breathmark\ feeling born of tongue-contact \breathmark\ feeling born of body-contact \breathmark\ feeling born of mind-contact
-\end{english}
-
-Ayaṁ vuccati phassa-paccayā vedanā
-
-\begin{english}
-  This is called 'feeling' \breathmark\ arising from contact as a condition
-\end{english}
-
-Tattha katamā vedanā-paccayā taṇhā
-
-\begin{english}
-  Therein what is 'craving' \breathmark\ arising from feeling as a condition?
-\end{english}
-
-Rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā
-
-\begin{english}
-  Craving for forms \breathmark\ craving for sounds \breathmark\ craving for odours \breathmark\ craving for flavours \breathmark\ craving for tangibles \breathmark\ craving for mind-objects
-\end{english}
-
-Ayaṁ vuccati vedanā-paccayā taṇhā
-
-\begin{english}
-  This is called 'craving' \breathmark\ arising from feeling as a condition
-\end{english}
-
-Tattha katamaṁ taṇhā-paccayā upādānaṁ
-
-\begin{english}
-  Therein what is 'clinging' \breathmark\ arising from craving as a condition?
-\end{english}
-
-Kāmupādānaṁ diṭṭhupādānaṁ sīlabbatupādānaṁ attavādupādānaṁ
-
-\begin{english}
-  Clinging to sensuality \breathmark\ clinging to views \breathmark\ clinging to rules and rituals \breathmark\ clinging to a sense of self\pagenote{%
-    The term vāda in attavādupādāna does here not necessarily refer to ``a doctrine'' of self, but rather to a person’s sense of being someone; the sense of being or having a self. This is not exactly the same as personality view, which is destroyed already at the stage of stream-entry. The lingering sense of having a self may continue for a while, despite of having already intellectually and/or experientially understood that there is no self to be found in relation to the five aggregates; just as conceit (māna) is overcome only by the path to Arahantship, despite of having uprooted personality view already at the stage of stream-entry.}
-\end{english}
-
-Idaṁ vuccati taṇhā-paccayā upādānaṁ
-
-\begin{english}
-  This is called 'clinging' \breathmark\ arising from craving as a condition
-\end{english}
-
-Tattha katamo upādāna-paccayā bhavo
-
-\begin{english}
-  Therein what is 'becoming' \breathmark\ arising from clinging as a condition?
-\end{english}
-
-Kāmabhavo rūpabhavo arūpabhavo\pagenote{%
-  Here the Vibh. differs substantially from the analysis found in the suttas. It introduces a distinction between action becoming (kammabhava) and rebirth becoming (upapattipbhava). Kammabhava is taken to refer to wholesome, unwholesome and imperturpable actions; upapattibhava is taken to refer to sense/form/formless-sphere becoming, percipient/non-percipient/neither-percipient-nor-non-percipient becoming, one/four/five-component becoming. But since AN 3.76 says that kamma (together with consciousness and craving) is a condition for bhava (if no kamma…then no becoming in the sense-sphere etc. would be discerned), it is not fit to say that kamma itself is a form of bhava (kammabhava). However, it would go too far for the purpose of this chanting book, to discuss further implications of the analysis found in Vibh. For the sake of simplicity and emphasis on the earliest strata of the Buddha’s teachings, we substituted the passage from Vibh. with the passage from SN 12.2, which defines becoming (bhava) simply as sense/form/formless-sphere becoming. Understood in this way, becoming (bhava) functions as an intermediary between clinging and birth, highlighting the gradual process of how rebirth in one of the three planes of existence takes place. This can even include an interim period between death and birth; thus it is called ``becoming'', rather than instant birth straight after death.}
-
-\begin{english}
-  Sense-sphere becoming form-sphere becoming formless-sphere becoming
-\end{english}
-
-Ayaṁ vuccati upādāna-paccayā bhavo
-
-\begin{english}
-  This is called 'becoming' \breathmark\ arising from clinging as a condition
-\end{english}
-
-Tattha katamā bhava-paccayā jāti
-
-\begin{english}
-  Therein what is 'birth' \breathmark\ arising from becoming as a condition?
-\end{english}
-
-Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti \breathmark\ sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho\pagenote{%
-  While SN 12.2 does not contain a full elaboration on all types of dukkha, a similar analysis is found in DN 22.}
-
-\begin{english}
-  The birth of various beings among the various classes of beings \breathmark\ their being born \breathmark\ descent \breathmark\ production \breathmark\ appearance of the aggregates \breathmark\ obtaining of the sense-bases
-\end{english}
-
-Ayaṁ vuccati bhava-paccayā jāti
-
-\begin{english}
-  This is called 'birth' \breathmark\ arising from becoming as a condition
-\end{english}
-
-Tattha katamaṁ jāti-paccayā jarāmaraṇaṁ
-
-\begin{english}
-  This is called 'ageing-and-death' \breathmark\ arising from birth as a condition
-\end{english}
-
-Tattha katamo soko
-
-\begin{english}
-  Therein what is sorrow?
-\end{english}
-
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ soko socanā socitattaṁ \breathmark\ antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
-
-\begin{english}
-  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view\pagenote{%
-    While SN 12.2 does not contain an elaboration on the different types of misfortune (vyasana), it is found in DN 33, AN 4.192, and AN 5.130. Diṭṭhi here does not mean just any view, but ``right view''. The loss of other views would not be particularly unfortunate from a Buddhist perspective, especially the loss of wrong view could be regarded as a great blessing. The right view that is lost in this example is not the right view of a noble disciple, but the right view of a worldling (puthujjana), whose right view is not unshakeable and who may or may not change his view later on throughout the course of the present life or subsequent births.}
-  \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the sorrow \breathmark\ sorrowing \breathmark\ sorrowfulness \breathmark\ inner sorrow \breathmark\ extensive inner sorrow \breathmark\ the mind’s thorough burning \breathmark\ displeasure \breathmark\ the dart of sorrow
-\end{english}
-
-Ayaṁ vuccati soko
-
-\begin{english}
-  This is called 'sorrow'
-\end{english}
-
-Tattha katamo paridevo
-
-\begin{english}
-  Therein what is lamentation?
-\end{english}
-
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ \breathmark\ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
-
-\begin{english}
-  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the wail and lament \breathmark\ wailing and lamenting \breathmark\ bewailing and lamentation \breathmark\ sorrowful talk \breathmark\ senseless \breathmark\ confused \breathmark\ sorrowful murmur \breathmark\ sorrowful murmuring \breathmark\ sorrowful murmuration
-\end{english}
-
-Ayaṁ vuccati paridevo
-
-\begin{english}
-  This is called 'lamentation'
-\end{english}
-
-Tattha katamaṁ dukkhaṁ?
-
-\begin{english}
-  Therein what is pain?
-\end{english}
-
-Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ \breathmark\ kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ kāyasamphassajā asātā dukkhā vedanā
-
-\begin{english}
-  The bodily discomfort \breathmark\ bodily pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of body-contact \breathmark\ the uncomfortable painful feeling that is born of body-contact
-\end{english}
-
-Idaṁ vuccati dukkhaṁ
-
-\begin{english}
-  This is called 'pain'
-\end{english}
-
-Tattha katamaṁ domanassaṁ
-
-\begin{english}
-  Therein what is displeasure?
-\end{english}
-
-Yaṁ cetasikaṁ asātaṁ cetasikaṁ dukkhaṁ \breathmark\ cetosamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ cetosamphassajā asātā dukkhā vedanā
-
-\begin{english}
-  The mental discomfort \breathmark\ mental pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of mind-contact \breathmark\ the uncomfortable painful feeling that is born of mind-contact
-\end{english}
-
-Idaṁ vuccati domanassaṁ
-
-\begin{english}
-  This is called 'displeasure'
-\end{english}
-
-Tattha katamo upāyāso
-
-\begin{english}
-  Therein what is despair?
-\end{english}
-
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
-
-\begin{english}
-  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the trouble and despair \breathmark\ tribulation and desperation
-\end{english}
-
-Ayaṁ vuccati upāyāso
-
-\begin{english}
-  This is called 'despair'
-\end{english}
-
-Evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti:
-
-\begin{english}
-  ``Such is the origin of this whole mass of suffering'' means this:
-\end{english}
-
-Evametassa kevalassa dukkhakkhandhassa saṅgati hoti \breathmark\ samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
-
-\begin{english}
-  Such is the combination \breathmark\ composition \breathmark\ collocation \breathmark\ manifestation \breathmark\ of this whole mass of suffering
-\end{english}
-
-Tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti
-
-\begin{english}
-  Therefore it is called\\
-  ``Such is the origin of this whole mass of suffering''
-\end{english}
-
-\suttaRef{Vibh 130 / SN 12.2}
-
-\bottomNav{dhamma-in-brief}
-#+end_example
 
 ** The Dhamma in Brief
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -5703,11 +5171,13 @@ Tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti
   [Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase]
 \end{leader}
 
+\begin{pali-hang}
 Mahāpajāpatī Gotamī yena bhagavā tenupasaṅkami \breathmark\ upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etadavoca:
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Mahāpajāpatī Gotamī approached the Blessed One \breathmark\ paid homage to him \breathmark\ then standing to one side she said:
-\end{english}
+\end{english-hang}
 
 Sādhu me bhante bhagavā saṅkhittena dhammaṁ desetu
 
@@ -5880,9 +5350,9 @@ Bahussutā āgatāgamā
 
 Dhammadharā vinayadharā mātikādharā
 
-\begin{english}
+\begin{english-hang}
   Experts on the Dhamma \breathmark\ experts on the Vinaya \breathmark\ experts on the outlines
-\end{english}
+\end{english-hang}
 
 Tesaṁ me therānaṁ sammukhā sutaṁ
 
@@ -5916,9 +5386,9 @@ Bahussuto āgatāgamo
 
 Dhammadharo vinayadharo mātikādharo
 
-\begin{english}
+\begin{english-hang}
   An expert on the Dhamma \breathmark\ an expert on the Vinaya \breathmark\ an expert on the outlines
-\end{english}
+\end{english-hang}
 
 Tassa me therassa sammukhā sutaṁ
 
@@ -5935,7 +5405,7 @@ Sammukhā paṭiggahitaṁ
 Ayaṁ dhammo ayaṁ vinayo idaṁ satthusāsanan’ti
 
 \begin{english}
-  ``This is the Dhamma \breathmark\ this is the Vinaya
+  ``This is the Dhamma \breathmark\ this is the Vinaya\\
   This is the Teacher’s teaching!''
 \end{english}
 
@@ -5987,7 +5457,9 @@ Niṭṭhamettha gantabbaṁ:
   You should draw the conclusion:
 \end{english}
 
+\begin{pali-hang}
 Addhā idaṁ na ceva tassa bhagavato vacanaṁ arahato sammāsambuddhassa
+\end{pali-hang}
 
 \begin{english}
   Surely this is not the word of the Blessed One\\
@@ -6018,7 +5490,9 @@ Niṭṭhamettha gantabbaṁ
   You should draw the conclusion:
 \end{english}
 
+\begin{pali-hang}
 Addhā idaṁ tassa bhagavato vacanaṁ arahato sammāsambuddhassa
+\end{pali-hang}
 
 \begin{english}
   Surely this is the word of the Blessed One\\
@@ -6111,11 +5585,13 @@ Idha bhikkhave bhikkhuno
   Here bhikkhus a bhikkhu
 \end{english}
 
+\begin{pali-hang}
 Mettaṁ kāyakammaṁ vacīkammaṁ manokammaṁ paccupaṭṭhitaṁ hoti
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Maintains bodily \breathmark\ verbal \breathmark\ and mental acts of loving-kindness
-\end{english}
+\end{english-hang}
 
 Sabrahmacārīsu āvi ceva raho ca
 
@@ -6167,9 +5643,9 @@ Akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni
 
 Viññuppasatthāni aparāmaṭṭhāni samādhi-saṁvattanikāni
 
-\begin{english}
+\begin{english-hang}
   Commended by the wise \breathmark\ not misapprehended \breathmark\ and conducive to concentration
-\end{english}
+\end{english-hang}
 
 Tathārūpesu sīlesu sīlasāmaññagato viharati
 
@@ -6369,9 +5845,9 @@ Paññattaṁ na samucchindissanti
 
 Yathāpaññattesu sikkhāpadesu samādāya vattissanti
 
-\begin{english}
+\begin{english-hang}
   But undertake and follow the training rules \breathmark\ as they have been decreed
-\end{english}
+\end{english-hang}
 
 Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
@@ -6429,9 +5905,9 @@ Yāvakīvañca bhikkhave bhikkhū
 
 Uppannāya taṇhāya ponobhavikāya na vasaṁ gacchissanti
 
-\begin{english}
+\begin{english-hang}
   Do not come under the control of arisen craving \breathmark\ that leads to renewed existence
-\end{english}
+\end{english-hang}
 
 Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
@@ -6477,9 +5953,9 @@ Paccattaññeva satiṁ upaṭṭhāpessanti:
 
 Āgatā ca pesalā sabrahmacārī phāsuṁ vihareyyun’ti
 
-\begin{english}
+\begin{english-hang}
   And how can well-behaved fellow monks who are here \breathmark\ dwell at ease?’
-\end{english}
+\end{english-hang}
 
 Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
@@ -6487,11 +5963,13 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
+\begin{pali-hang}
 Yāvakīvañca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Bhikkhus as long as these seven principles of non-decline \breathmark\ continue among the bhikkhus
-\end{english}
+\end{english-hang}
 
 Imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti
 
@@ -6525,13 +6003,15 @@ Asubhasaññaṁ bhāvessanti ādīnavasaññaṁ bhāvessanti
   The perception of unattractiveness \breathmark\ the perception of danger
 \end{english}
 
+\begin{pali-hang}
 Pahānasaññaṁ bhāvessanti virāgasaññaṁ bhāvessanti nirodhasaññaṁ bhāvessanti
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   The perception of abandoning \breathmark\ the perception of dispassion  ̓
   the perception of cessation\pagenote{%
     In Girimānandasutta (AN 10.60) the Buddha instruced Ven. Ānanda: ``If, Ānanda, you visit the (severely sick) bhikkhu Girimānanda and speak to him about ten perceptions, it is possible that on hearing about them his affliction will immediately subside.'' Then the same seven perceptions as above are mentioned, with the addition of the following three: 8. the perception of non-delight in the entire world; 9. the perception of impermanence in all conditioned phenomena, and 10. mindfulness of breathing. Girimānandasutta concludes: ``Then, when the Venerable Ānanda had learned these ten perceptions from the Blessed One, he went to the Venerable Girimānanda and spoke to him about them. When the Venerable Girimānanda heard about these ten perceptions, his affliction immediately subsided.''}
-\end{english}
+\end{english-hang}
 
 Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
@@ -6551,7 +6031,9 @@ Hirimanto bhavissanti ottappino bhavissanti bahussutā bhavissanti
   Develop moral shame \breathmark\ moral dread \breathmark\ learnedness
 \end{english}
 
+\begin{pali-hang}
 Āraddhavīriyā bhavissanti satimanto bhavissanti paññavanto bhavissanti
+\end{pali-hang}
 
 \begin{english}
   Become energetic \breathmark\ mindful and wise
@@ -6559,9 +6041,9 @@ Hirimanto bhavissanti ottappino bhavissanti bahussutā bhavissanti
 
 Na oramattakena visesādhigamena antarāvosānaṁ āpajjissanti
 
-\begin{english}
+\begin{english-hang}
   Do not stop midway on account of some minor achievement of distinction
-\end{english}
+\end{english-hang}
 
 Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
@@ -6571,13 +6053,17 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \suttaRef{[AN 7.23-27]}
 
+\begin{pali-hang}
 Ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattanti
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Bhikkhus these qualities lead to the non-decline of a bhikkhu who is a trainee
-\end{english}
+\end{english-hang}
 
+\begin{pali-hang}
 Na kammārāmatā na bhassārāmatā na niddārāmatā na saṅgaṇikārāmatā
+\end{pali-hang}
 
 \begin{english}
   Not taking delight in work \breathmark\ in talk \breathmark\ in sleep \breathmark\ in company
@@ -6601,11 +6087,13 @@ Sovacassatā kalyāṇamittatā
   Being easy to correct and good friendship
 \end{english}
 
+\begin{pali-hang}
 Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   Bhikkhus these qualities lead to the non-decline of a bhikkhu who is a trainee.
-\end{english}
+\end{english-hang}
 
 \suttaRef{[AN 6.22 \& 8.79]}
 
@@ -6671,8 +6159,10 @@ Sarīre upasussatu maṁsa-lohitaṁ
   And let the flesh and blood in this body wither away
 \end{english}
 
+\begin{pali-hang}
 Yaṁ taṁ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṁ\\
 Na taṁ apāpuṇitvā\\
+\end{pali-hang}
 Vīriyassa saṇṭhānaṁ bhavissatī’ti
 
 \begin{english}
@@ -6738,9 +6228,9 @@ Aggena ca kho bhikkhave aggassa patti hoti
 Maṇḍapeyyam-idaṁ bhikkhave brahmacariyaṁ
 
 \begin{english}
-  Bhikkhus this holy life is like a milkshake\pagenote{%
+  Bhikkhus this holy life is like a Milchgetränk\pagenote{%
     Orig: ``like the cream of the milk''; maṇḍapeyya is a Pāli idiom, meaning `of the best quality (lit. to be drunk like cream)’}
-  TODO: choose a final translation and alter the footnote accordingly
+% TODO: choose a final translation and alter the footnote accordingly
 \end{english}
 
 Satthā sammukhī-bhūto
@@ -6947,11 +6437,12 @@ Uṇhassa paṭighātāya\\
 Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya\\
 Yāvadeva hirikopina-paṭicchādanatthaṁ
 
-\begin{english}
+\begin{english-verses}
   Wisely reflecting \breathmark\ I use the robe\\
-  Only to ward off cold \breathmark\ to ward off heat \breathmark\ to ward off the touch of flies \breathmark\ mosquitoes wind burning and creeping things\\
+  % TODO: hang does not work well here, leaves too much space b4 and after
+  Only to ward off cold \breathmark\ to ward off heat \breathmark\ to ward off the touch of \mbox{flies}~\breathmark\ mosquitoes wind burning and creeping things\\
   Only for the sake of modesty
-\end{english}
+\end{english-verses}
 
 Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevāmi\\
 Neva davāya na madāya na maṇḍanāya na vibhūsanāya\\
@@ -6961,14 +6452,14 @@ Iti purāṇañca vedanaṁ paṭihaṅkhāmi\\
 Navañca vedanaṁ na uppādessāmi\\
 Yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’ti
 
-\begin{english}
+\begin{english-verses}
   Wisely reflecting \breathmark\ I use almsfood\\
   Not for fun \breathmark\ not for pleasure \breathmark\ not for fattening \breathmark\ not for beautification\\
   Only for the maintenance and nourishment of this body\\
   For keeping it healthy \breathmark\ for helping with the holy life\\
   Thinking thus: ``I will allay hunger without overeating\\
   So that I may continue to live blamelessly and at ease''
-\end{english}
+\end{english-verses}
 
 Paṭisaṅkhā yoniso senāsanaṁ paṭisevāmi\\
 Yāvadeva sītassa paṭighātāya\\
@@ -6976,21 +6467,21 @@ Uṇhassa paṭighātāya\\
 Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya\\
 Yāvadeva utuparissaya-vinodanaṁ paṭisallānārāmatthaṁ
 
-\begin{english}
+\begin{english-verses}
   Wisely reflecting \breathmark\ I use the lodging\\
   Only to ward off cold \breathmark\ to ward off heat \breathmark\ to ward off the touch of flies \breathmark\ mosquitoes wind burning and creeping things\\
   Only to remove the danger from weather \breathmark\ and for living in seclusion
-\end{english}
+\end{english-verses}
 
 Paṭisaṅkhā yoniso gilāna-paccaya-bhesajja-parikkhāraṁ paṭisevāmi\\
 Yāvadeva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya\\
 Abyāpajjha-paramatāyā’ti
 
-\begin{english}
+\begin{english-verses}
   Wisely reflecting \breathmark\ I use supports for the sick and medicinal requisites\\
   Only to ward off painful feelings that have arisen\\
   For the maximum freedom from disease
-\end{english}
+\end{english-verses}
 
 \suttaRef{[MN 2]}
 
@@ -7006,7 +6497,9 @@ Abyāpajjha-paramatāyā’ti
   [Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
 \end{leader}
 
+\begin{pali-hang}
 Āhāre paṭikūlasaññāparicitena bhikkhave \breathmark\ bhikkhuno cetasā bahulaṁ viharato
+\end{pali-hang}
 
 \begin{english}
   When a bhikkhu often dwells with a mind\\
@@ -7086,11 +6579,13 @@ Yaṁ kammaṁ karissanti\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādā bhavissanti
 
+\clearpage
+
 \begin{leader}
   [Now let us recite the reflections on universal well-being]
 \end{leader}
 
-\begin{english}
+\begin{english-verses}
   May I abide in well-being\\
   In freedom from affliction\\
   In freedom from hostility\\
@@ -7103,9 +6598,13 @@ Tassa dāyādā bhavissanti
   In freedom from anxiety\\
   And may they maintain well-being in themselves\\
   May all beings be released from all suffering\\
+\end{english-verses}
+\begin{english-hang}
   And may they not be parted from the good fortune they have attained\pagenote{%
     In the original version, this line is followed by ``When they act upon intention'', which is not found in the Pāli, and is potentially misleading, giving the implication that intention alone is not enough to count as kamma.}
-
+\end{english-hang}
+% TODO: hang doesn't look good here
+\begin{english-verses}
   All beings are the owners of their kamma\pagenote{%
     Orig: ``All beings are the owners of their action and inherit its results. Their future is born from such action, companion to such action, and its results will be their home. All actions with intention, be they skilful or harmful, of such acts they will be the heirs.'' For the sake of consistency with other chants within this chanting book, the original version was substituted with the one found in the ``Five subjects for frequent recollection'', and ``Ten subjects for frequent recollection by one who has gone forth''.}\\
   Heirs to their kamma\\
@@ -7115,7 +6614,7 @@ Tassa dāyādā bhavissanti
   Whatever kamma they shall do\\
   Either skillful or harmful\\
   Of such acts \breathmark\ they will be the heirs\\
-\end{english}
+\end{english-verses}
 
 \suttaRef{[AN 3.65 \& 5.57]}
 
@@ -7131,43 +6630,108 @@ Tassa dāyādā bhavissanti
   [Handa mayaṁ caturappamaññā obhāsanaṁ karomase]
 \end{leader}
 
+\begin{pali-hang}
 Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+\end{pali-hang}
 
-Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ
-Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+\medskip
 
+\begin{pali-hang}
+Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+\end{pali-hang}
+
+\medskip
+
+\begin{pali-hang}
 Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+\end{pali-hang}
 
+\medskip
+
+\begin{pali-hang}
 Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
+\end{pali-hang}
+
+\clearpage
 
 \begin{leader}
   [Now let us make the Four Boundless Qualities shine forth]
 \end{leader}
 
+\begin{english-hang}
 I will abide pervading one quarter with a heart imbued with loving-kindness\\
+\end{english-hang}
+
+\begin{english}
 Likewise the second likewise the third likewise the fourth\\
 So above and below around and everywhere and to all as to myself\\
+\end{english}
+
+\begin{english-hang}
 I will abide pervading the all-encompassing world with a heart imbued with loving-kindness\\
-Abundant exalted immeasurable without hostility and without ill-will
+\end{english-hang}
 
+\begin{english-hang}
+Abundant exalted immeasurable without hostility and without ill-will
+\end{english-hang}
+
+\medskip
+
+\begin{english-hang}
 I will abide pervading one quarter with a heart imbued with compassion\\
+\end{english-hang}
+
+\begin{english}
 Likewise the second likewise the third likewise the fourth\\
 So above and below around and everywhere and to all as to myself\\
-I will abide pervading the all-encompassing world with a heart imbued with compassion\\
-Abundant exalted immeasurable without hostility and without ill-will
+\end{english}
 
+\begin{english-hang}
+I will abide pervading the all-encompassing world with a heart imbued with compassion\\
+\end{english-hang}
+
+\begin{english-hang}
+Abundant exalted immeasurable without hostility and without ill-will
+\end{english-hang}
+
+\medskip
+
+\begin{english-hang}
 I will abide pervading one quarter with a heart imbued with gladness\pagenote{%
   Orig: ``a heart imbued with gladness''}\\
-Likewise the second likewise the third likewise the fourth\\
-So above and below around and everywhere and to all as to myself\\
-I will abide pervading the all-encompassing world with a heart imbued with gladness\\
-Abundant exalted immeasurable without hostility and without ill-will
+\end{english-hang}
 
-I will abide pervading one quarter with a heart imbued with equanimity\\
+\begin{english}
 Likewise the second likewise the third likewise the fourth\\
 So above and below around and everywhere and to all as to myself\\
-I will abide pervading the all-encompassing world with a heart imbued with equanimity\\
+\end{english}
+
+\begin{english-hang}
+I will abide pervading the all-encompassing world with a heart imbued with gladness\\
+\end{english-hang}
+
+\begin{english-hang}
 Abundant exalted immeasurable without hostility and without ill-will
+\end{english-hang}
+
+\medskip
+
+\begin{english-hang}
+I will abide pervading one quarter with a heart imbued with equanimity\\
+\end{english-hang}
+
+\begin{english}
+Likewise the second likewise the third likewise the fourth\\
+So above and below around and everywhere and to all as to myself\\
+\end{english}
+
+\begin{english-hang}
+I will abide pervading the all-encompassing world with a heart imbued with equanimity\\
+\end{english-hang}
+
+\begin{english-hang}
+Abundant exalted immeasurable without hostility and without ill-will
+\end{english-hang}
 
 \suttaRef{[DN 13]}
 
@@ -7212,7 +6776,10 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
   Will become separated from me
 \end{english}
 
+\begin{pali-hang}
 Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\\
+\end{pali-hang}
+% TODO: hang indent looks weird here
 Yaṁ kammaṁ karissāmi\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādo bhavissāmi
@@ -7253,28 +6820,39 @@ Dasa ime bhikkhave dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā\\
 Katame dasa
 
-\begin{english}
+\begin{english-hang}
   Bhikkhus there are these ten dhammas\pagenote{%
     Orig: ``Bhikkhus there are ten dhammas''}
   \breathmark\ which should be reflected upon again and again by one who has gone forth\\
+\end{english-hang}
+
+\begin{english}
   What are these ten?
 \end{english}
 
+\begin{pali-hang}
 Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+\end{pali-hang}
 
 \begin{english}
   ``I have reached a state of castelessness''\pagenote{%
     Orig: ``I am no longer living according to worldly aims and values''}\\
-  This should be reflected upon again and again by one who has gone forth
 \end{english}
+
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
 
 Parapaṭibaddhā me jīvikā’ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
-  ``My very life is sustained through the gifts of others''
-  This should be reflected upon again and again by one who has gone forth
+  ``My very life is sustained through the gifts of others''\\
 \end{english}
+
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
 
 Añño me ākappo karaṇīyo'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
@@ -7282,24 +6860,35 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \begin{english}
   ``Now my conduct should be different from before''\pagenote{%
     Orig: `I should strive to abandon my former habits'}\\
-  This should be reflected upon again and again by one who has gone forth
 \end{english}
+
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
 
 Kacci nu kho me attā sīlato na upavadatī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
   ``Does regret over my conduct arise in my mind?''\\
-  This should be reflected upon again and again by one who has gone forth
 \end{english}
 
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
+
+\begin{pali-hang}
 Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti\\
+\end{pali-hang}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
   ``Could my spiritual companions find fault with my conduct?''\\
-  This should be reflected upon again and again by one who has gone forth
 \end{english}
+
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
 
 Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
@@ -7308,10 +6897,16 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   ``All that is mine beloved and pleasing\\
   Will become otherwise\\
   Will become separated from me''\\
-  This should be reflected upon again and again by one who has gone forth
 \end{english}
 
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
+
+\begin{pali-hang}
 Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\\
+\end{pali-hang}
+% TODO: hang is off here
 Yaṁ kammaṁ karissāmi\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādo bhavissāmī'ti\\
@@ -7327,8 +6922,11 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Either skillful or harmful\\
   Of such acts \breathmark\ I will be the heir''\pagenote{%
     Orig: ``For good or for ill, Of that I will be the heir`` For the sake of consistency with other passages which were translated differently, this translation has been chosen.}\\
-  This should be reflected upon again and again by one who has gone forth
 \end{english}
+
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
 
 `Kathambhūtassa me rattindivā vītipatantī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
@@ -7336,33 +6934,50 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \begin{english}
   ``The days and nights are relentlessly passing\\
   How well am I spending my time?''\\
-  This should be reflected upon again and again by one who has gone forth
 \end{english}
+
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
 
 Kacci nu kho'haṁ suññāgāre abhiramāmī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
   ``Do I delight in solitude or not?''\\
-  This should be reflected upon again and again by one who has gone forth by one who has gone forth
 \end{english}
 
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth by one who has gone forth
+\end{english-hang}
+
+\begin{pali-hang}
 Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana viseso adhigato\\
+\end{pali-hang}
+
+\begin{pali-hang}
 So’haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī’ti\\
+\end{pali-hang}
+% TODO: hang is off here
+\begin{pali-hang}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+\end{pali-hang}
 
 \begin{english}
   ``Has my practice borne fruit with freedom or insight\\
   So that at the end of my life \breathmark\ I need not feel ashamed when questioned by my spiritual companions?''\\
-  This should be reflected upon again and again by one who has gone forth
 \end{english}
+
+\begin{english-hang}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hang}
 
 Ime kho bhikkhave dasa dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
-\begin{english}
+\begin{english-hang}
   Bhikkhus these are the ten dhammas \breathmark\ which should be reflected upon again and again by one who has gone forth
-\end{english}
+\end{english-hang}
 
 \suttaRef{[AN 10.48]}
 
