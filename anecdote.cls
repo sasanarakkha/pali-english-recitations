@@ -361,7 +361,9 @@
 % It is more effective to \mbox{...} the words to avoid hyphenation.
 \brokenpenalty=5000 % penalty for page break after a hyphenated line
 
-\RequirePackage[defaultlines=2,all]{nowidow}
+% NOTE: This package is best for prose text. Here it creates unexpected page breaks,
+% and complicates the endnotes formatting.
+% \RequirePackage[defaultlines=2,all]{nowidow}
 
 % === common hyphenation exceptions and corrections ===
 
@@ -1674,10 +1676,17 @@ philo-sophical munindo amaravati thai-land}
 
 \setlength{\footskip}{15pt}
 
-% Fixes these warnings:
-%
+% Adjust spacing to avoid warning
+% Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
+\addtolength{\headheight}{6pt}
+\addtolength{\headsep}{-5pt}
+
+% Increase overfull and underfull tolerance to avoid too many warnings such as
 % Overfull \vbox (1.4pt too high) has occurred while \output is active
-\addtolength{\headheight}{2pt}
+% Underfull \hbox (badness 10000) in paragraph at lines 150--151
+\vfuzz=5pt
+\hfuzz=5pt
+\hbadness=10000
 
 %\marginparmargin{outer}
 \sideparmargin{left}
