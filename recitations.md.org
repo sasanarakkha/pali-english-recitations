@@ -7116,7 +7116,7 @@ suttaRef{[DN 16]}
 
 * Reflections
 ** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md 
+#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
 # Reflections
 
 **Contents**
@@ -10456,7 +10456,7 @@ Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
 </div>
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
-Sabba-saṅghānubhāvena – Sadā sotthī bhavantu te
+Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
 
 <div class="english">
 
