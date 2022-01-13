@@ -499,11 +499,12 @@ Saṅghaṁ namāmi
 \label{preliminary-homage}
 
 \begin{leader}
-  [Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase]
+  〈 Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ 〉
+
 \end{leader}
 
 \begin{leader}
-  [Now let us pay preliminary homage to the Buddha.]
+  〈 Now let us pay preliminary homage to the Buddha 〉
 \end{leader}
 
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
@@ -520,10 +521,11 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \label{homage-buddha}
 
 \begin{leader}
-  [Handa mayaṁ buddhābhitthutiṁ karomase]
+  〈 Handa mayaṁ buddhābhitthutiṁ 〉
+
 \end{leader}
 \begin{leader}
-  [Now let us recite in praise of the Buddha]
+  〈 Now let us recite in praise of the Buddha 〉
 \end{leader}
 
 Yo so tathāgato arahaṁ sammāsambuddho
@@ -621,10 +623,11 @@ Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
 \label{homage-dhamma}
 
 \begin{leader}
-  [Handa mayaṁ dhammābhitthutiṁ karomase]
+  〈 Handa mayaṁ dhammābhitthutiṁ 〉
+
 \end{leader}
 \begin{leader}
-  [Now let us recite in praise of the Dhamma]
+  〈 Now let us recite in praise of the Dhamma 〉
 \end{leader}
 
 Yo so svākkhāto bhagavatā dhammo
@@ -678,10 +681,10 @@ Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 \label{homage-sangha}
 
 \begin{leader}
-  [Handa mayaṁ saṅghābhitthutiṁ karomase]
+  〈 Handa mayaṁ saṅghābhitthutiṁ 〉
 \end{leader}
 \begin{leader}
-  [Now let us recite in praise of the Saṅgha]
+  〈 Now let us recite in praise of the Saṅgha 〉
 \end{leader}
 
 Yo so supaṭipanno bhagavato sāvakasaṅgho
@@ -769,7 +772,8 @@ Anuttaraṁ puññakkhettaṁ lokassa
 \label{salutation}
 
 \begin{leader}
-  [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
+  〈 Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca 〉
+
 \end{leader}
 \begin{leader}
   〈 Now let us recite our salutation to the Triple Gem and a passage to arouse urgency 〉
@@ -1240,7 +1244,8 @@ Saṅghaṁ namāmi
 \label{buddhas-first-exclamation}
 
 \begin{leader}
-  [Handa mayaṁ buddha-paṭhama-bhāsita-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ buddha-paṭhama-bhāsita-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -1282,7 +1287,8 @@ Saṅghaṁ namāmi
 \label{respect-for-the-dhamma}
 
 \begin{leader}
-  [Handa mayaṁ dhamma-gārav'ādi-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ dhamma-gārav'ādi-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -1363,7 +1369,8 @@ Na duggatiṁ gacchati dhamma-cārī\pagenote{%
 \label{true-false-refuges}
 
 \begin{leader}
-  [Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo 〉
+
 \end{leader}
 
 Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\\
@@ -1429,7 +1436,8 @@ Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
 \label{patimokkha-exhortation}
 
 \begin{leader}
-  [Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ ovāda-pāṭimokkha-gāthāyo 〉
+
 \end{leader}
 
 Sabba-pāpassa akaraṇaṁ\pagenote{%
@@ -1528,7 +1536,8 @@ Etaṁ buddhāna sāsanaṁ
 \label{three-characteristics}
 
 \begin{leader}
-  [Handa mayaṁ ti-lakkhaṇ'ādi-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ ti-lakkhaṇ'ādi-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -1626,7 +1635,8 @@ Etaṁ buddhāna sāsanaṁ
 \label{burdens}
 
 \begin{leader}
-  [Handa mayaṁ bhāra-sutta-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ bhāra-sutta-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -1666,7 +1676,8 @@ Etaṁ buddhāna sāsanaṁ
 \label{ratthapala}
 
 \begin{leader}
-  [Handa mayaṁ raṭṭhapālatthera-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ raṭṭhapālatthera-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -1825,7 +1836,8 @@ Etaṁ buddhāna sāsanaṁ
 \label{parapariya}
 
 \begin{leader}
-  [Handa mayaṁ pārāpariyatthera-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ pārāpariyatthera-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -1947,7 +1959,8 @@ Etaṁ buddhāna sāsanaṁ
 \label{protection}
 
 \begin{leader}
-  [Handa mayaṁ Tāyana-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ Tāyana-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -2024,7 +2037,8 @@ Etaṁ buddhāna sāsanaṁ
 \label{misc-verses}
 
 \begin{leader}
-  [Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ pakiṇṇaka-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -2258,7 +2272,8 @@ Etaṁ buddhāna sāsanaṁ
 \label{single-excellent-night}
 
 \begin{leader}
-  [Handa mayaṁ bhadd'eka-ratta-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ bhadd'eka-ratta-gāthāyo 〉
+
 \end{leader}
 
 \begin{twochants}
@@ -2324,8 +2339,8 @@ Etaṁ buddhāna sāsanaṁ
 \label{highest-blessings}
 
 \begin{leader}
-  [Now let us recite the verses on the Highest Blessings\pagenote{%
-    ``The term ``blessing'' is used throughout this chanting book to convey the meaning of ``support'', or ``a beneficial thing'', without implying the underlying Christian connotations this term may have in popular use.}]
+  〈 Now let us recite the verses on the Highest Blessings\pagenote{%
+    ``The term ``blessing'' is used throughout this chanting book to convey the meaning of ``support'', or ``a beneficial thing'', without implying the underlying Christian connotations this term may have in popular use.} 〉
 \end{leader}
 
 Thus have I heard that the Blessed One\\
@@ -2439,7 +2454,7 @@ These are the highest blessings
 \label{words-on-loving-kindness}
 
 \begin{leader}
-  [Now let us recite the Buddha's words on loving-kindness]
+  〈 Now let us recite the Buddha's words on loving-kindness 〉
 \end{leader}
 
 This is what should be done\\
@@ -2507,7 +2522,8 @@ Is not born again into this world
 \label{wheel-of-dhamma-abridged}
 
 \begin{leader}
-  [Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ 〉
+
 \end{leader}
 
 Dveme bhikkhave antā
@@ -3194,7 +3210,8 @@ N'atthidāni punabbhavo'ti
 \section{Anupubba-sikkhā}
 
 \begin{leader}
-  [Handa mayaṁ anupubba-sikkha-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ anupubba-sikkha-pāṭhaṁ 〉
+
 \end{leader}
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: `sambādho gharāvāso rajopatho abbhokāso pabbajjā. Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.
@@ -3257,7 +3274,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \label{gradual-training}
 
 \begin{leader}
-  [Now let us recite the Gradual Training]
+  〈 Now let us recite the Gradual Training 〉
 \end{leader}
 % remove space here
 \begin{justify}
@@ -3371,7 +3388,8 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \label{requisites-for-awakening}
 
 \begin{leader}
-  [Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ 〉
+
 \end{leader}
 
 Bhikkhave ye te mayā dhammā abhiññā desitā
@@ -3481,7 +3499,8 @@ Ariyo aṭṭhaṅgiko maggo
 \label{seven-factors-of-awakening}
 
 \begin{leader}
-  [Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ 〉
+
 \end{leader}
 
 Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
@@ -3708,7 +3727,8 @@ Ime kho bhikkhave satta bojjhaṅgā'ti
 \label{noble-eightfold-path}
 
 \begin{leader}
-  [Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ 〉
+
 \end{leader}
 
 Ayam-eva ariyo aṭṭh'aṅgiko maggo
@@ -4242,7 +4262,8 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 \label{mindfulness-of-breathing}
 
 \begin{leader}
-  [Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ 〉
+
 \end{leader}
 
 Ānāpānassati bhikkhave bhāvitā bahulī-katā
@@ -4596,11 +4617,12 @@ Mahapphalā hoti mahānisaṁsā'ti
 \label{dependent-origination}
 
 \begin{leader}
-  [Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ bhaṇāmase]
+  〈 Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ 〉
+
 \end{leader}
 \begin{leader}
-  [Now let us recite the Analysis of Dependent Origination\pagenote{%
-    Lit.: ``the 'Discourse Analysis' from the 'Analysis of Dependent Origination'''  The ``Discourse Analysis'' is a sub-chapter (Abh.Vibh.130f) from the ``Analysis of Dependent Origination'', which is part of the 2nd book of the \textit{Abhidhammapiṭaka} called the ``\textit{Vibhaṅga}''. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the \textit{Suttapiṭaka}.}]
+  〈 Now let us recite the Analysis of Dependent Origination\pagenote{%
+    Lit.: ``the 'Discourse Analysis' from the 'Analysis of Dependent Origination'''  The ``Discourse Analysis'' is a sub-chapter (Abh.Vibh.130f) from the ``Analysis of Dependent Origination'', which is part of the 2nd book of the \textit{Abhidhammapiṭaka} called the ``\textit{Vibhaṅga}''. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the \textit{Suttapiṭaka}.} 〉
 \end{leader}
 
 Avijjā-paccayā saṅkhārā
@@ -5168,7 +5190,8 @@ Evametassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 \label{dhamma-in-brief}
 
 \begin{leader}
-  [Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ 〉
+
 \end{leader}
 
 \begin{pali-hang}
@@ -5279,7 +5302,8 @@ Eso dhammo eso vinayo etaṁ satthusāsanan'ti
 \label{four-great-references}
 
 \begin{leader}
-  [Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ 〉
+
 \end{leader}
 
 Katame bhikkhave cattāro mahāpadesā
@@ -5540,7 +5564,8 @@ Ime kho bhikkhave cattāro mahāpadesā'ti
 \label{principles-of-cordiality}
 
 \begin{leader}
-  [Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ 〉
+
 \end{leader}
 
 Chayime bhikkhave dhammā sāraṇīyā
@@ -5768,7 +5793,8 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā'ti
 \label{principles-of-non-decline}
 
 \begin{leader}
-  [Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ 〉
+
 \end{leader}
 
 Katame bhikkhave satta aparihāniyā dhammā
@@ -6106,7 +6132,8 @@ Sovacassatā kalyāṇamittatā
 \label{striving-according-to-dhamma}
 
 \begin{leader}
-  [Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ 〉
+
 \end{leader}
 
 Evaṁ svākkhāto bhikkhave mayā dhammo
@@ -6354,7 +6381,8 @@ Alam-eva appamādena sampādetun'ti\pagenote{%
 \label{buddhas-final-instruction}
 
 \begin{leader}
-  [Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase]
+  〈 Handa mayaṁ buddha-pacchima-ovāda 〉
+
 \end{leader}
 
 Siyā kho tumhākaṁ evamassa
@@ -6428,7 +6456,8 @@ Ayaṁ tathāgatassa pacchimā vācā
 \label{four-requisites}
 
 \begin{leader}
-  [Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ 〉
+
 \end{leader}
 
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\\
@@ -6494,7 +6523,8 @@ Abyāpajjha-paramatāyā'ti
 \label{repulsiveness-of-food}
 
 \begin{leader}
-  [Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ 〉
+
 \end{leader}
 
 \begin{pali-hang}
@@ -6557,7 +6587,8 @@ Ativiya jigucchanīyo jāyati
 \label{universal-well-being}
 
 \begin{leader}
-  [Handa mayaṁ mettāpharaṇaṁ karomase]
+  〈 Handa mayaṁ mettāpharaṇaṁ 〉
+
 \end{leader}
 
 Ahaṁ sukhito homi\\
@@ -6582,7 +6613,7 @@ Tassa dāyādā bhavissanti
 \clearpage
 
 \begin{leader}
-  [Now let us recite the reflections on universal well-being]
+  〈 Now let us recite the reflections on universal well-being 〉
 \end{leader}
 
 \begin{english-verses}
@@ -6627,7 +6658,8 @@ Tassa dāyādā bhavissanti
 \label{divine-abidings}
 
 \begin{leader}
-  [Handa mayaṁ caturappamaññā obhāsanaṁ karomase]
+  〈 Handa mayaṁ caturappamaññā obhāsanaṁ 〉
+
 \end{leader}
 
 \begin{pali-hang}
@@ -6655,7 +6687,7 @@ Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ t
 \clearpage
 
 \begin{leader}
-  [Now let us make the Four Boundless Qualities shine forth]
+  〈 Now let us make the Four Boundless Qualities shine forth 〉
 \end{leader}
 
 \begin{english-hang}
@@ -6744,7 +6776,8 @@ Abundant exalted immeasurable without hostility and without ill-will
 \label{five-recollections}
 
 \begin{leader}
-  [Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ 〉
+
 \end{leader}
 
 Jarā-dhammomhi jaraṁ anatīto
@@ -6813,7 +6846,8 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 \label{ten-recollections}
 
 \begin{leader}
-  [Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ 〉
+
 \end{leader}
 
 Dasa ime bhikkhave dhammā\\
@@ -6990,7 +7024,8 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 \label{32-parts}
 
 \begin{leader}
-  [Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ dvattiṁsākāra-pāṭhaṁ 〉
+
 \end{leader}
 
 \begin{pali-hang}
@@ -7081,7 +7116,8 @@ Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro 
 \label{recollection-impermanence}
 
 \begin{leader}
-  [Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase]
+  〈 Handa mayaṁ aniccānussati-pāṭhaṁ 〉
+
 \end{leader}
 
 Sabbe saṅkhārā anicca
@@ -10588,7 +10624,8 @@ Sabba-saṅghānubhāvena – Sadā sotthī \breathmark\ bhavantu te
 \label{uddissanadhitthana}
 
 \begin{leader}
-  [Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo 〉
+
 \end{leader}
 
 Iminā puññakammena upajjhāyā guṇuttarā\\
@@ -10613,7 +10650,7 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 \clearpage
 
 \begin{leader}
-  [Now let us recite the verses of sharing and aspiration]
+  〈 Now let us recite the verses of sharing and aspiration 〉
 \end{leader}
 
 \begin{english}
@@ -10661,7 +10698,8 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 \label{sharing-all-merits}
 
 \begin{leader}
-  [Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase]
+  〈 Handa mayaṁ sabba-patti-dāna-gāthāyo 〉
+
 \end{leader}
 
 Puññass'idāni katassa yān'aññāni katāni me\\
@@ -10787,7 +10825,8 @@ Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 \label{highest-honour-aspirations}
 
 \begin{leader}
-  [Handa mayaṁ buddhapūjañca paṇidhiñca karomase]
+  〈 Handa mayaṁ buddhapūjañca paṇidhiñca 〉
+
 \end{leader}
 
 Buddhaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi
