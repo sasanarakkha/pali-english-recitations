@@ -31,7 +31,21 @@
   \rightmargin   0pt%
   \parsep        -8pt}
   \item[] \centering}%
+
+\newenvironment{leader-english}%
+  {\list{}{%
+  \parskip 6pt%
+  \topsep 0pt%
+  \listparindent 0em%
+  \itemindent    0pt%
+  \leftmargin    0pt %\leaderIndent%
+  \rightmargin   0pt%
+  \parsep        -8pt}
+  \fontsize{12}{18}\selectfont
+  \item[] \centering}%
   {\endlist}
+
+ {\endlist}
 
 \newcommand{\instr}[1]{%
   {\instrFmt #1}%
@@ -150,7 +164,7 @@
     \topsep 0pt
     \listparindent 0em%
     \itemindent    0em%
-    \leftmargin    \leaderIndent%
+    \leftmargin    1em%\leaderIndent%
     \rightmargin   0em%
     \fontsize{12}{18}\selectfont
     \parsep        -8.5em %\z@ \@plus\p@%
@@ -165,12 +179,27 @@
     \itemindent    -0.5em%
     \leftmargin    2em %\leaderIndent%
     \rightmargin   0em%
-    \fontsize{12}{15}\selectfont
+    \fontsize{12}{16}\selectfont
     \parsep        \z@ \@plus\p@%
   }%
   \item[] \raggedright\itshape}%
   {\endlist}
 
+  \newenvironment{english-keepwith}%
+  {\list{}{%
+    \topsep -12pt
+    \partopsep 16pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    1.5em %\leaderIndent%
+    \rightmargin   0em%
+    \fontsize{12}{17}\selectfont
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
+% For English only chants which don't need indentation
 \newenvironment{english-only-hang}%
   {\list{}{%
     \topsep 0pt
@@ -183,6 +212,20 @@
   }%
   \item[] \raggedright\itshape}%
   {\endlist}
+
+\newenvironment{english-only-nohang}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    -3pt %\leaderIndent%
+    \rightmargin   0em%
+    \fontsize{12}{17}\selectfont
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
 
 \newenvironment{english-verses}%
   {\list{}{%
@@ -230,7 +273,7 @@
     \itemindent    -0.5em%
     \leftmargin    0.5em %2.5em %\leaderIndent%
     \rightmargin   0em%
-    \fontsize{12.5}{15}\selectfont
+    \fontsize{12.5}{16}\selectfont
     \parsep        \z@ \@plus\p@%
   }%
   \item[] \raggedright}%

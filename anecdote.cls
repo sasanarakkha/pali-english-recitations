@@ -344,7 +344,7 @@
   \renewcommand\portuguesehyphenmins{{3}{3}}
   % If using babel, captions names have to be renamed like this
   \addto\captionsportuguese{
-    \renewcommand{\contentsname}{Índice}
+    \renewcommand{\contentsnam}{Índice}
     \renewcommand{\bibname}{Referências}
   }
   % Portuguese repeats hyphen
@@ -839,11 +839,13 @@ philo-sophical munindo amaravati thai-land}
   \vfill
   \begin{minipage}{\linewidth}%
     \centering
-    \hyperref[contents]{$\Leftarrow$}\hspace*{1em}%
-    \textbf{\textsc{\textls*{contents}}}%
+    % \hyperref[contents]{$\Leftarrow$}\hspace*{1em}%
+    \hyperref[contents]{
+    \textbf{\textsc{\textls*{Contents}}}}\hspace*{0.1em}%
     \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
-    \textbf{\textsc{\textls*{next}}}\hspace*{1em}%
-    \hyperref[#1]{$\Rightarrow$}%
+    % \hyperref[#1]{$\Rightarrow$}%
+    \hyperref[contents]{%
+    \textbf{\textsc{\textls*{Next}}}}\hspace*{0.1em}%
   \end{minipage}%
 }
 
@@ -1496,18 +1498,19 @@ philo-sophical munindo amaravati thai-land}
     \end{minipage}%
     %
     % Box for the section title text
-    \begin{minipage}[t]{0.8\linewidth}%
-      \centering%
-      % To hyperlink the text only, put \hyperref around the below
-      \textbf{\textls*{\textsc{#1}}}%
-    \end{minipage}%
+    \hyperref[schedule]{\begin{minipage}[t]{0.8\linewidth}%
+        \centering%
+        % To hyperlink the text only, put \hyperref around the below
+        \textbf{\textls*{\textsc{#1}}}%
+      \end{minipage}}%
     %
     % Box for the arrow link back to the schedule.
     \begin{minipage}[t]{0.1\linewidth}%
       % Only print content in the mainmatter.
       \if@mainmatter%
         \raggedleft%
-        \hyperref[schedule]{$\Leftarrow$}%
+        % Uncomment to instead hyperlink and arrows next to title
+        % \hyperref[schedule]{$\Leftarrow$}%
       \else%
         \mbox{}%
       \fi%
@@ -1627,7 +1630,7 @@ philo-sophical munindo amaravati thai-land}
 % === normalsize ===
 
 \def\BOOK@fontSizePt{12.5}
-\def\BOOK@lineHeightPt{15}
+\def\BOOK@lineHeightPt{19}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt

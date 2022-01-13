@@ -499,12 +499,12 @@ Saṅghaṁ namāmi
 \label{preliminary-homage}
 
 \begin{leader}
-  〈 Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ 〉
+  〈 Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase 〉
 
 \end{leader}
 
 \begin{leader}
-  〈 Now let us pay preliminary homage to the Buddha 〉
+  〈 \textit{Now let us pay preliminary homage to the Buddha} 〉
 \end{leader}
 
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
@@ -521,7 +521,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \label{homage-buddha}
 
 \begin{leader}
-  〈 Handa mayaṁ buddhābhitthutiṁ 〉
+  〈 Handa mayaṁ buddhābhitthutiṁ karomase 〉
 
 \end{leader}
 \begin{leader}
@@ -623,7 +623,7 @@ Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
 \label{homage-dhamma}
 
 \begin{leader}
-  〈 Handa mayaṁ dhammābhitthutiṁ 〉
+  〈 Handa mayaṁ dhammābhitthutiṁ karomase 〉
 
 \end{leader}
 \begin{leader}
@@ -681,7 +681,7 @@ Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 \label{homage-sangha}
 
 \begin{leader}
-  〈 Handa mayaṁ saṅghābhitthutiṁ 〉
+  〈 Handa mayaṁ saṅghābhitthutiṁ karomase 〉
 \end{leader}
 \begin{leader}
   〈 Now let us recite in praise of the Saṅgha 〉
@@ -773,7 +773,6 @@ Anuttaraṁ puññakkhettaṁ lokassa
 
 \begin{leader}
   〈 Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca 〉
-
 \end{leader}
 \begin{leader}
   〈 Now let us recite our salutation to the Triple Gem and a passage to arouse urgency 〉
@@ -1244,7 +1243,7 @@ Saṅghaṁ namāmi
 \label{buddhas-first-exclamation}
 
 \begin{leader}
-  〈 Handa mayaṁ buddha-paṭhama-bhāsita-gāthāyo 〉
+  〈 Handa mayaṁ buddha-paṭhama-bhāsita-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -1287,7 +1286,7 @@ Saṅghaṁ namāmi
 \label{respect-for-the-dhamma}
 
 \begin{leader}
-  〈 Handa mayaṁ dhamma-gārav'ādi-gāthāyo 〉
+  〈 Handa mayaṁ dhamma-gārav'ādi-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -1369,7 +1368,7 @@ Na duggatiṁ gacchati dhamma-cārī\pagenote{%
 \label{true-false-refuges}
 
 \begin{leader}
-  〈 Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo 〉
+  〈 Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo bhaṇāmase~〉
 
 \end{leader}
 
@@ -1436,7 +1435,7 @@ Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
 \label{patimokkha-exhortation}
 
 \begin{leader}
-  〈 Handa mayaṁ ovāda-pāṭimokkha-gāthāyo 〉
+  〈 Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -1536,7 +1535,7 @@ Etaṁ buddhāna sāsanaṁ
 \label{three-characteristics}
 
 \begin{leader}
-  〈 Handa mayaṁ ti-lakkhaṇ'ādi-gāthāyo 〉
+  〈 Handa mayaṁ ti-lakkhaṇ'ādi-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -1635,7 +1634,7 @@ Etaṁ buddhāna sāsanaṁ
 \label{burdens}
 
 \begin{leader}
-  〈 Handa mayaṁ bhāra-sutta-gāthāyo 〉
+  〈 Handa mayaṁ bhāra-sutta-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -1676,7 +1675,7 @@ Etaṁ buddhāna sāsanaṁ
 \label{ratthapala}
 
 \begin{leader}
-  〈 Handa mayaṁ raṭṭhapālatthera-gāthāyo 〉
+  〈 Handa mayaṁ raṭṭhapālatthera-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -1836,7 +1835,7 @@ Etaṁ buddhāna sāsanaṁ
 \label{parapariya}
 
 \begin{leader}
-  〈 Handa mayaṁ pārāpariyatthera-gāthāyo 〉
+  〈 Handa mayaṁ pārāpariyatthera-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -1959,7 +1958,7 @@ Etaṁ buddhāna sāsanaṁ
 \label{protection}
 
 \begin{leader}
-  〈 Handa mayaṁ Tāyana-gāthāyo 〉
+  〈 Handa mayaṁ Tāyana-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -2037,7 +2036,7 @@ Etaṁ buddhāna sāsanaṁ
 \label{misc-verses}
 
 \begin{leader}
-  〈 Handa mayaṁ pakiṇṇaka-gāthāyo 〉
+  〈 Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -2272,7 +2271,7 @@ Etaṁ buddhāna sāsanaṁ
 \label{single-excellent-night}
 
 \begin{leader}
-  〈 Handa mayaṁ bhadd'eka-ratta-gāthāyo 〉
+  〈 Handa mayaṁ bhadd'eka-ratta-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -6587,7 +6586,7 @@ Ativiya jigucchanīyo jāyati
 \label{universal-well-being}
 
 \begin{leader}
-  〈 Handa mayaṁ mettāpharaṇaṁ 〉
+  〈 Handa mayaṁ mettāpharaṇaṁ karomase 〉
 
 \end{leader}
 
@@ -6658,7 +6657,7 @@ Tassa dāyādā bhavissanti
 \label{divine-abidings}
 
 \begin{leader}
-  〈 Handa mayaṁ caturappamaññā obhāsanaṁ 〉
+  〈 Handa mayaṁ caturappamaññā obhāsanaṁ karomase 〉
 
 \end{leader}
 
@@ -7917,17 +7916,21 @@ Consciousness is not-self. If consciousness were self \breathmark\ then consciou
 But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
 \end{english-only-hang}
 
-\begin{english-only-hang}
-[Bhikkhus what do you think:] ``Is form permanent or impermanent?''
+\begin{english-only-nohang}
+[Bhikkhus what do you think:] ``Is form permanent or impermanent?''\\
 
-``Impermanent venerable Sir.''
+``Impermanent venerable Sir.''\\
 
-``Is what is impermanent satisfactory or unsatisfactory?'' ``Unsatisfactory venerable Sir.''
+``Is what is impermanent satisfactory or unsatisfactory?''\\
 
-``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''
+``Unsatisfactory venerable Sir.''\\
+
+``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''\\
 
 ``No venerable Sir.''
+\end{english-only-nohang}
 
+\begin{english-only-hang}
 Bhikkhus what do you think: ``Is feeling permanent or impermanent?''
 
 ``Impermanent venerable Sir.''
@@ -7937,7 +7940,9 @@ Bhikkhus what do you think: ``Is feeling permanent or impermanent?''
 ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''
 
 ``No venerable Sir.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Bhikkhus what do you think: ``Is perception permanent or impermanent?'' ``Impermanent venerable Sir.''
 
 ``Is what is impermanent satisfactory or unsatisfactory?'' ``Unsatisfactory venerable Sir.''
@@ -7945,7 +7950,9 @@ Bhikkhus what do you think: ``Is perception permanent or impermanent?'' ``Imperm
 ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
 
 ``No venerable Sir.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Bhikkhus what do you think: ``Are volitional formations permanent or impermanent?''
 
 ``Impermanent venerable Sir.''
@@ -7955,7 +7962,9 @@ Bhikkhus what do you think: ``Are volitional formations permanent or impermanent
 ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''
 
 ``No venerable Sir.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Bhikkhus what do you think: ``Is consciousness permanent or impermanent?''
 
 ``Impermanent venerable Sir.''
@@ -8642,24 +8651,39 @@ Saha sabbehi ñātibhī
 \section{Culla-maṅgala-cakka-vāḷa}
 \label{culla-mangala-cakka-vala}
 
+\begin{pali-hang}
 [Sabba-buddh'ānubhāvena]\\
-TODO: indentSabba-dhamm'ānubhāvena\\
+Sabba-dhamm'ānubhāvena\\
 Sabba-saṅgh'ānubhāvena\\
 Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ\\
 Tiṇṇaṁ ratanānaṁ ānubhāvena\\
 Catur-āsīti-sahassa-dhammakkhandh'ānubhāvena\\
 Piṭakattay'ānubhāvena\\
 Jina-sāvak'ānubhāvena\\
-Sabbe te rogā sabbe te bhayā sabbe te antarāyā sabbe te upaddavā sabbe te\\
-Dunnimittā sabbe te avamaṅgalā vinassantu\\
-Āyu-vaḍḍhako dhana-vaḍḍhako siri-vaḍḍhako yasa-vaḍḍhako bala-vaḍḍhako\\
-Vaṇṇa-vaḍḍhako sukha-vaḍḍhako hotu sabbadā\\
-Dukkha-roga-bhayā verā sokā sattu c'upaddavā\\
-Anekā antarāyā pi vinassantu ca tejasā\\
+Sabbe te rogā\\
+Sabbe te bhayā\\
+Sabbe te antarāyā\\
+Sabbe te upaddavā\\
+Sabbe te dunnimittā\\
+Sabbe te avamaṅgalā vinassantu\\
+Āyu-vaḍḍhako\\
+Dhana-vaḍḍhako\\
+Siri-vaḍḍhako\\
+Yasa-vaḍḍhako\\
+Bala-vaḍḍhako\\
+Vaṇṇa-vaḍḍhako\\
+Sukha-vaḍḍhako hotu sabbadā\\
+Dukkha-roga-bhayāverā\\
+Sokā sattu c'upaddavā\\
+Anekā antarāyā pi\\
+Vinassantu ca tejasā\\
 Jaya-siddhi dhanaṁ lābhaṁ\\
 Sotthi bhāgyaṁ sukhaṁ balaṁ\\
-Siri āyu ca vaṇṇo ca bhogaṁ vuḍḍhī ca yasavā\\
-Sata-vassā ca āyū ca jīva-siddhī bhavantu te
+Siri āyu ca vaṇṇo ca\\
+Bhogaṁ vuḍḍhī ca yasavā\\
+Sata-vassā ca āyū ca\\
+Jīva-siddhī bhavantu te
+\end{pali-hang}
 
 \begin{english-verses}
   Through the power of all the Buddhas, the power of all the Dhamma, the power of all the Saṅgha, the gem of the Buddha, the gem of the Dhamma, the gem of the Saṅgha, the power of the Triple Gem: the power of the 84,000 Dhamma aggregates, the power of the Tripitaka, the power of the Victor's disciples: May all your diseases, all your fears, all your obstacles, all your dangers, all your bad visions, all your bad omens be destroyed. May there always be an increase of long life, wealth, glory, status, strength, beauty and happiness.
@@ -8737,13 +8761,13 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
   Vippasanna-manā tassa – vipulā hoti dakkhiṇā
 \end{twochants}
 
-\begin{english-verses}
+\begin{english-hang}
   Those with discernment, responsive, free from stinginess, give in the proper season.\\
   Having given in the proper season\\
   With hearts inspired by the Noble Ones,\\
   Straightened,\\
   Their offering bears an abundance.
-\end{english-verses}
+\end{english-hang}
 
 \begin{twochants}
   Ye tattha anumodanti – veyyāvaccaṁ karonti vā\\
@@ -10624,7 +10648,7 @@ Sabba-saṅghānubhāvena – Sadā sotthī \breathmark\ bhavantu te
 \label{uddissanadhitthana}
 
 \begin{leader}
-  〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo 〉
+  〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -10652,6 +10676,8 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 \begin{leader}
   〈 Now let us recite the verses of sharing and aspiration 〉
 \end{leader}
+
+\smallskip
 
 \begin{english}
   Through the goodness that arises from my practice\\
@@ -10698,7 +10724,7 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 \label{sharing-all-merits}
 
 \begin{leader}
-  〈 Handa mayaṁ sabba-patti-dāna-gāthāyo 〉
+  〈 Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase 〉
 
 \end{leader}
 
@@ -10825,7 +10851,7 @@ Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 \label{highest-honour-aspirations}
 
 \begin{leader}
-  〈 Handa mayaṁ buddhapūjañca paṇidhiñca 〉
+  〈 Handa mayaṁ buddhapūjañca paṇidhiñca karomase 〉
 
 \end{leader}
 
