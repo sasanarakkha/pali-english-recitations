@@ -1627,7 +1627,7 @@ philo-sophical munindo amaravati thai-land}
 % === normalsize ===
 
 \def\BOOK@fontSizePt{12.5}
-\def\BOOK@lineHeightPt{18}
+\def\BOOK@lineHeightPt{15}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt

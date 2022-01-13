@@ -7833,33 +7833,55 @@ In this way the Venerable Koṇḍañña acquired the name ``Aññā Koṇḍañ
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/anattalakkhana-eng.tex
 \section{The Discourse on the Characteristic of Not-Self \pagenote{%
     The entire original version of the English translation has been replaced.}}
-TODO: remove footnote from TOC but keep in body
+% TODO: remove footnote from TOC but keep in body
 \label{characteristic-of-not-self}
 
-\begin{english-hang}
+\begin{english-only-hang}
 [Thus have I heard] on one occasion the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana. There he addressed the bhikkhus of the group of five: ``Bhikkhus'' – ``Venerable Sir'' they replied. The Blessed One said this:\pagenote{%
   The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: “'Bhikkhus' – 'Venerable Sir', they replied. The Blessed One said this:”}
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Bhikkhus form is not-self. If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Feeling is not-self. If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 But since feeling is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Perception is not-self. If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 But since perception is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Volitional formations are not-self. If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 But since volitional formations are not-self \breathmark\ they lead to \mbox{affliction}~\breathmark\ and none can command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Consciousness is not-self. If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 [Bhikkhus what do you think:] ``Is form permanent or impermanent?''
 
 ``Impermanent venerable Sir.''
@@ -7907,28 +7929,44 @@ Bhikkhus what do you think: ``Is consciousness permanent or impermanent?''
 ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
 
 ``No venerable Sir.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 [Therefore bhikkhus] any kind of form whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Any kind of feeling whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Any kind of perception whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or \mbox{superior}~\breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Any kind of volitional formation whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Any kind of consciousness whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or \mbox{superior}~\breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 [Bhikkhus when a noble disciple\pagenote{%
   \textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}]
 \breathmark\ who has heard the teaching\pagenote{%
   The word “the teaching” is not explicitly expressed in the Pāḷi, but was inserted for comprehension.}
 sees thus \breathmark\ he becomes disenchanted with form \breathmark\ becomes disenchanted with feeling \breathmark\ becomes disenchanted with \mbox{perception}~\breathmark\ becomes disenchanted with volitional formations \breathmark\ becomes disenchanted with consciousness.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 When he is disenchanted passion fades away. With the fading of passion he is liberated. When liberated there is knowledge that he is liberated. He understands: ``Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation.''\pagenote{%
   \textit{Kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti} literally means “What has to be done is done. There is nothing else (to so) for the sake of such a (liberated) state.” For a discussion of this passage see Bhikkhu Bodhi, Middle Length Discourses, \textit{Bhayabheravasutta}, MN 4, footnote 76.}
+\end{english-only-hang}
 
-That is what the Blessed One said. The bhikkhus of the group of five were glad and they approved of his words. Now during this utterance \breathmark\ the hearts of the bhikkhus of the group of five \breathmark\ were liberated from the taints through the cessation of clinging.
-\end{english-hang}
+\begin{english-only-hang}
+  That is what the Blessed One said. The bhikkhus of the group of five were glad and they approved of his words. Now during this utterance \breathmark\ the hearts of the bhikkhus of the group of five \breathmark\ were liberated from the taints through the cessation of clinging.
+\end{english-only-hang}
 
 \suttaRef{[SN 22.59]}
 
@@ -7939,70 +7977,116 @@ That is what the Blessed One said. The bhikkhus of the group of five were glad a
 \section{Āditta-pariyāya-sutta}
 \label{aditta-pariyaya}
 
+\begin{pali-hang}
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. Tatra kho bhagavā bhikkhū āmantesi:
+\end{pali-hang}
 
 Sabbaṁ bhikkhave ādittaṁ!
 
 Kiñca bhikkhave sabbaṁ ādittaṁ?
 
+\begin{pali-hang}
 Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+\end{pali-hang}
 
 Kena ādittaṁ?
 
+\begin{pali-hang}
 Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+\end{pali-hang}
 
+\begin{pali-hang}
 Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+\end{pali-hang}
 
 Kena ādittaṁ?
 
+\begin{pali-hang}
 Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+\end{pali-hang}
 
+\begin{pali-hang}
 Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+\end{pali-hang}
 
 Kena ādittaṁ?
 
+\begin{pali-hang}
 Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+\end{pali-hang}
 
+\begin{pali-hang}
 Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+\end{pali-hang}
 
 Kena ādittaṁ?
 
+\begin{pali-hang}
 Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+\end{pali-hang}
 
+\begin{pali-hang}
 Sotasmiṁ pi nibbindati, saddesu pi nibbindati, sotaviññāṇe pi
 nibbindati, sotasamphasse pi nibbindati, yampidaṁ sotasamphassapaccayā
 uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmiṁ pi
 nibbindati.
+\end{pali-hang}
 
+\begin{pali-hang}
 Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+\end{pali-hang}
 
 Kena ādittaṁ?
 
+\begin{pali-hang}
 Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+\end{pali-hang}
 
+\begin{pali-hang}
 Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+\end{pali-hang}
 
 Kena ādittaṁ?
 
+\begin{pali-hang}
 Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+\end{pali-hang}
 
+\begin{pali-hang}
 [Evaṁ passaṁ bhikkhave] sutvā ariyasāvako cakkhusmimpi nibbindati \breathmark\ rūpesu pi nibbindati \breathmark\ cakkhuviññāṇe pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+\end{pali-hang}
 
+\begin{pali-hang}
 Sotasmimpi nibbindati \breathmark\ saddesu pi nibbindati \breathmark\ sotaviññāṇe pi nibbindati \breathmark\ sotasamphassepi nibbindati \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+\end{pali-hang}
 
+\begin{pali-hang}
 Ghānasmimpi nibbindati \breathmark\ gandhesu pi nibbindati \breathmark\ ghānaviññāṇe pi nibbindati \breathmark\ ghānasamphassepi nibbindati \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+\end{pali-hang}
 
+\begin{pali-hang}
 Jivhāya pi nibbindati \breathmark\ rasesu pi nibbindati \breathmark\ jivhāviññāṇe pi nibbindati \breathmark\ jivhāsamphassepi nibbindati \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+\end{pali-hang}
 
+\begin{pali-hang}
 Kāyasmimpi nibbindati \breathmark\ phoṭṭhabbesu pi nibbindati \breathmark\ kāyaviññāṇe pi nibbindati \breathmark\ kāyasamphassepi nibbindati \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+\end{pali-hang}
 
+\begin{pali-hang}
 Manasmimpi nibbindati \breathmark\ dhammesu pi nibbindati \breathmark\ manoviññāṇe pi nibbindati \breathmark\ manosamphasse pi nibbindati \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+\end{pali-hang}
 
+\begin{pali-hang}
 Nibbindaṁ virajjati \breathmark\ virāgā vimuccati \breathmark\ vimuttasmiṁ `Vimuttam'iti ñāṇaṁ hoti:
+\end{pali-hang}
 
+\begin{pali-hang}
 `Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā'ti pajānātī'ti.
+\end{pali-hang}
 
+\begin{pali-hang}
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū'ti.
+\end{pali-hang}
 
 \suttaRef{[SN 35.28]}
 
@@ -8014,75 +8098,146 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Im
 The entire original version of the English translation has been replaced.}}
 \label{fire-sermon}
 
+\begin{english-only-hang}
 [Thus have I heard] on one occasion the Blessed One was dwelling at Gayā \breathmark\ at Gayā's Head \breathmark\ together with a thousand bhikkhus. There he addressed the bhikkhus:
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Bhikkhus all is burning!
+\end{english-only-hang}
 
+\begin{english-only-hang}
 And what bhikkhus is the all that is burning?
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Bhikkhus the eye is burning \breathmark\ forms are burning \breathmark\ eye-consciousness is burning \breathmark\ eye-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ that too is burning.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with what?
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 The ear is burning \breathmark\ sounds are burning \breathmark\ ear-consciousness is burning \breathmark\ ear-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ that too is burning.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with what?
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 The nose is burning \breathmark\ odours are burning \breathmark\ nose-consciousness is burning \breathmark\ nose-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ that too is burning.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with what?
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 The tongue is burning \breathmark\ flavours are burning \breathmark\ tongue-consciousness is burning \breathmark\ tongue-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ that too is burning.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with what?
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 The body is burning \breathmark\ tangibles are burning \breathmark\ body-consciousness is burning \breathmark\ body-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ that too is burning.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with what?
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 The mind is burning \breathmark\ mind-objects are burning \breathmark\ mind-consciousness is burning \breathmark\ mind-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-{pleasant}~\breathmark\ that arises from mind-contact as its condition \breathmark\ that too is burning.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with what?
+\end{english-only-hang}
 
+\begin{english-only-hang}
 Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 [Bhikkhus when a noble disciple] \breathmark\ who has heard the teaching sees thus \breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 He becomes disenchanted with the ear \breathmark\ becomes disenchanted with sounds \breathmark\ becomes disenchanted with ear-consciousness \breathmark\ becomes disenchanted with ear-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ with that too be becomes disenchanted.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 He becomes disenchanted with the nose \breathmark\ becomes disenchanted with odours \breathmark\ becomes disenchanted with nose-consciousness \breathmark\ becomes disenchanted with nose-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ with that too he becomes disenchanted.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 He becomes disenchanted with the tongue \breathmark\ becomes disenchanted with flavours \breathmark\ becomes disenchanted with tongue-consciousness \breathmark\ becomes disenchanted with tongue-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ with that too he becomes disenchanted.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 He becomes disenchanted with the body \breathmark\ becomes disenchanted with tangibles \breathmark\ becomes disenchanted with body-consciousness \breathmark\ becomes disenchanted with body-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ with that too he becomes disenchanted.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 He becomes disenchanted with the mind \breathmark\ becomes disenchanted with mind-objects \breathmark\ becomes disenchanted with mind-consciousness \breathmark\ becomes disenchanted with mind-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from mind-contact as its condition \breathmark\ with that too he becomes disenchanted.
+\end{english-only-hang}
 
+\begin{english-only-hang}
 When he is disenchanted passion fades away. With the fading of passion he is liberated. When liberated there is knowledge that he is liberated. He understands: ``Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation.''
+\end{english-only-hang}
 
+\begin{english-only-hang}
 That is what the Blessed One said. The bhikkhus were glad and they approved of his words. Now during this utterance \breathmark\ the hearts of those thousand bhikkhus \breathmark\ were liberated from the taints through the cessation of clinging.
+\end{english-only-hang}
+
 
 \suttaRef{[SN 35.28]}
 
