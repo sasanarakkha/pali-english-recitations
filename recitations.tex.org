@@ -7831,11 +7831,12 @@ In this way the Venerable Koṇḍañña acquired the name ``Aññā Koṇḍañ
 
 ** The Discourse on the Characteristic of Not-Self
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/anattalakkhana-eng.tex
-\section{The Discourse on the Characteristic of Not-Self\pagenote{%
+\section{The Discourse on the Characteristic of Not-Self \pagenote{%
     The entire original version of the English translation has been replaced.}}
 TODO: remove footnote from TOC but keep in body
 \label{characteristic-of-not-self}
 
+\begin{english-hang}
 [Thus have I heard] on one occasion the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana. There he addressed the bhikkhus of the group of five: ``Bhikkhus'' – ``Venerable Sir'' they replied. The Blessed One said this:\pagenote{%
   The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: “'Bhikkhus' – 'Venerable Sir', they replied. The Blessed One said this:”}
 
@@ -7927,6 +7928,7 @@ When he is disenchanted passion fades away. With the fading of passion he is lib
   \textit{Kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti} literally means “What has to be done is done. There is nothing else (to so) for the sake of such a (liberated) state.” For a discussion of this passage see Bhikkhu Bodhi, Middle Length Discourses, \textit{Bhayabheravasutta}, MN 4, footnote 76.}
 
 That is what the Blessed One said. The bhikkhus of the group of five were glad and they approved of his words. Now during this utterance \breathmark\ the hearts of the bhikkhus of the group of five \breathmark\ were liberated from the taints through the cessation of clinging.
+\end{english-hang}
 
 \suttaRef{[SN 22.59]}
 
@@ -8097,7 +8099,6 @@ That is what the Blessed One said. The bhikkhus were glad and they approved of h
 ** Just as Rivers
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
 \sectionPaliTitle{Yathā vāri-vahā pūrā}
-\setsecheadstyle{\subsectionFmt}
 \section{Just as Rivers}
 \label{just-as-rivers}
 
@@ -8287,7 +8288,8 @@ Sadā sotthī bhavantu te
 
 ** Yathā vāri-vahā pūrā
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-\subsection{Yathā vāri-vahā pūrā}
+\setsecheadstyle{\subsectionFmt}
+\section{Yathā vāri-vahā pūrā}
 \label{yatha-vari-vaha-pura}
 
 \begin{twochants}
@@ -8350,7 +8352,7 @@ Sadā sotthī bhavantu te
 
 ** Ratanattayānubhāv'ādi-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-\subsection{Ratanattay'ānubhāv'ādi-gāthā}
+\section{Ratanattay'ānubhāv'ādi-gāthā}
 \label{ratanattayanubhavadi-gatha}
 
 \begin{pali-hang}
@@ -8379,7 +8381,7 @@ Sata-vassā ca āyu ca – Jīva-siddhī bhavantu te
 
 ** Bhojana-dānānumodanā
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-\subsection{Bhojana-dānānumodanā}
+\section{Bhojana-dānānumodanā}
 \label{bhojana-dananumodana}
 
 [Yo yassa bhojanaṁ deti]\\
@@ -8446,7 +8448,7 @@ Saha sabbehi ñātibhī
 
 ** Culla-maṅgala-cakka-vāḷa
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-\subsection{Culla-maṅgala-cakka-vāḷa}
+\section{Culla-maṅgala-cakka-vāḷa}
 \label{culla-mangala-cakka-vala}
 
 [Sabba-buddh'ānubhāvena]\\
@@ -8479,7 +8481,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 
 ** Aggappasāda-sutta-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-\subsection{Aggappasāda-sutta-gāthā}
+\section{Aggappasāda-sutta-gāthā}
 \label{aggappasada-sutta-gatha}
 
 \begin{twochants}
@@ -8535,7 +8537,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 
 ** Kāla-dāna-sutta-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-\subsection{Kāla-dāna-sutta-gāthā}
+\section{Kāla-dāna-sutta-gāthā}
 \label{kala-dana-sutta-gatha}
 
 \begin{twochants}
@@ -8581,7 +8583,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 
 ** So attha-laddho
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-\subsection{So attha-laddho}
+\section{So attha-laddho}
 \label{so-attha-laddho}
 
 \begin{twochants}
@@ -8635,7 +8637,7 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 
 ** Devā-ārādhanā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Devā-ārādhanā\pagenote{%
+\section{Devā-ārādhanā\pagenote{%
     The “Invitation to the Devas” is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do.}}
 \label{deva-aradhana}
 
@@ -8683,7 +8685,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\pagenote{%
 
 ** Pubba-bhāga-nama-kāra-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Pubba-bhāga-nama-kāra-pāṭho}
+\section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
 Namo tassa bhagavato arahato sammā-sambuddhassa\\
 Namo tassa bhagavato arahato sammā-sambuddhassa\\
@@ -8695,7 +8697,7 @@ Namo tassa bhagavato arahato sammā-sambuddhassa
 #+end_src
 ** Saraṇa-gamana-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Saraṇa-gamana-pāṭho}
+\section{Saraṇa-gamana-pāṭho}
 \label{sarana-gamana-patho}
 Buddhaṁ saraṇaṁ gacchāmi\\
 Dhammaṁ saraṇaṁ gacchāmi\\
@@ -8730,7 +8732,7 @@ Tatiyam pi saṅghaṁ saraṇaṁ gacchāmi
 #+end_src
 ** Nama-kāra-siddhi-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Nama-kāra-siddhi-gāthā}
+\section{Nama-kāra-siddhi-gāthā}
 \label{nama-kara-siddhi-gatha}
 [Yo cakkhumā] moha-malāpakaṭṭho – Sāmaṁ va buddho sugato vimutto\\
 Mārassa pāsā vinimocayanto – Pāpesi khemaṁ janataṁ vineyyaṁ\\
@@ -8793,7 +8795,7 @@ Sabb'antarāyā ca vināsamentu
 #+end_src
 ** Namo-kāra-aṭṭhaka
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Namo-kāra-aṭṭhaka}
+\section{Namo-kāra-aṭṭhaka}
 \label{namo-kara-atthaka}
 [Namo arahato] sammā – Sambuddhassa mahesino\\
 Namo uttama-dhammassa – Svākkhātass'eva ten'idha
@@ -8836,7 +8838,7 @@ Namo-kārassa tejena – Vidhimhi homi tejavā
 #+end_src
 ** Maṅgala-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Maṅgala-sutta}
+\section{Maṅgala-sutta}
 \label{mangala-sutta}
 [Evaṁ me sutaṁ]: Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
@@ -8967,7 +8969,7 @@ Sabbattha sotthiṁ gacchanti – Tan-tesaṁ maṅgalam-uttaman'ti
 #+end_src
 ** Ratana-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Ratana-sutta}
+\section{Ratana-sutta}
 \label{ratana-sutta}
 [Yānīdha] bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
 Sabb'eva bhūtā sumanā bhavantu – Atho pi sakkacca suṇantu bhāsitaṁ
@@ -9178,7 +9180,7 @@ Tathāgataṁ deva-manussa-pūjitaṁ – Saṅghaṁ namassāma suvatthi hotu
 #+end_src
 ** Karaṇīya-metta-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Karaṇīya-metta-sutta}
+\section{Karaṇīya-metta-sutta}
 \label{karaniya-metta-sutta}
 [Karaṇīya] m-attha-kusalena – Yan-taṁ santaṁ padaṁ abhisamecca\\
 Sakko ujū ca suhujū ca – Suvaco c'assa mudu anatimānī
@@ -9284,7 +9286,7 @@ Kāmesu vineyya gedhaṁ – Na hi jātu gabbha-seyyaṁ punar-etī'ti
 #+end_src
 ** Khandha-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Khandha-parittaṁ}
+\section{Khandha-parittaṁ}
 \label{khandha-parittam}
 [Virūpakkhehi me mettaṁ] – Mettaṁ Erāpathehi me\\
 Chabyā-puttehi me mettaṁ – Mettaṁ Kaṇhā-gotamakehi ca
@@ -9354,7 +9356,7 @@ So'haṁ namo bhagavato – Namo sattannaṁ sammā-sambuddhānaṁ.
 #+end_src
 ** Buddha-Dhamma-Saṅgha-guṇā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Buddha-Dhamma-Saṅgha-guṇā}
+\section{Buddha-Dhamma-Saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
 [Iti pi so bhagavā]\\
 Arahaṁ sammā-sambuddho\\
@@ -9408,7 +9410,7 @@ Anuttaraṁ puññakkhettaṁ lokassā'ti
 #+end_src
 ** Yaṅ kiñci ratanaṁ loke
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Yaṅ kiñci ratanaṁ loke}
+\section{Yaṅ kiñci ratanaṁ loke}
 \label{yan-kinci-ratanam-loke}
 [Yaṅ kiñci ratanaṁ loke] – Vijjati vividhaṁ puthu\\
 Ratanaṁ buddha-samaṁ n'atthi – Tasmā sotthī bhavantu te
@@ -9485,7 +9487,7 @@ Nassant'upaddavā sabbe – Rogā vūpasamentu te
 #+end_src
 ** Bojjh'aṅga-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Bojjh'aṅga-parittaṁ}
+\section{Bojjh'aṅga-parittaṁ}
 \label{bojjhana-parittam}
 [Bojjh'aṅgo sati-saṅkhāto]\\
 Dhammānaṁ vicayo tathā\\
@@ -9561,7 +9563,7 @@ Sotthi te hotu sabbadā
 #+end_src
 ** Abhaya-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Abhaya-parittaṁ}
+\section{Abhaya-parittaṁ}
 \label{abhaya-parittam}
 [Yan-dunnimittaṁ] avamaṅgalañ-ca – Yo cāmanāpo sakuṇassa saddo\\
 Pāpaggaho dussupinaṁ akantaṁ – Buddhānubhāvena vināsamentu
@@ -9597,7 +9599,7 @@ Pāpaggaho dussupinaṁ akantaṁ – Saṅghānubhāvena vināsamentu
 #+end_src
 ** Devatā-uyyojana-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Devatā-uyyojana-gāthā}
+\section{Devatā-uyyojana-gāthā}
 \label{devata-uyyojana-gatha}
 [Dukkhappattā] ca niddukkhā – Bhayappattā ca nibbhayā\\
 Sokappattā ca nissokā – Hontu sabbe pi pāṇino
@@ -9645,7 +9647,7 @@ Arahantānañ-ca tejena – Rakkhaṁ bandhāmi sabbaso
 #+end_src
 ** Jaya-maṅgala-aṭṭha-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Jaya-maṅgala-aṭṭha-gāthā}
+\section{Jaya-maṅgala-aṭṭha-gāthā}
 \label{jaya-mangala-attha-gatha}
 [Bāhuṁ] sahassam-abhinimmita sāvudhan-taṁ\\
 Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
@@ -9770,7 +9772,7 @@ Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 
 ** Jaya-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Jaya-parittaṁ}
+\section{Jaya-parittaṁ}
 \label{jaya-parittam}
 [Mahā-kāruṇiko] nātho – Hitāya sabba-pāṇinaṁ\\
 Pūretvā pāramī sabbā – Patto sambodhim-uttamaṁ\\
@@ -9835,7 +9837,7 @@ Padakkhiṇāni katvāna – Labhant'atthe padakkhiṇe
 #+end_src
 ** Bhavatu-sabba-maṅgalaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
-\subsection{Bhavatu-sabba-maṅgalaṁ}
+\section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-sabba-mangalam}
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā\\
 Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
@@ -9874,7 +9876,7 @@ Sabba-saṅghānubhāvena – Sadā sotthī bhavantu te
 * Funeral Recitations
 ** Pubba-bhāga-nama-kāra-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
-\subsection{Pubba-bhāga-nama-kāra-pāṭho}
+\section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
 [Namo tassa] bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 
@@ -9884,7 +9886,7 @@ Sabba-saṅghānubhāvena – Sadā sotthī bhavantu te
 #+end_src
 ** Dhamma-saṅgaṇī-mātikā
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
-\subsection{Dhamma-saṅgaṇī-mātikā}
+\section{Dhamma-saṅgaṇī-mātikā}
 \label{dhamma-sangani-matika}
 [Kusalā dhammā]\\
 Akusalā dhammā\\
@@ -10110,7 +10112,7 @@ Anidassanāppaṭighā dhammā
 #+end_src
 ** Vipassanā-bhūmi-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
-\subsection{Vipassanā-bhūmi-pāṭho}
+\section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
 [Pañcakkhandhā]:\\
 Rūpakkhandho, vedanākkhandho,\\
@@ -10253,7 +10255,7 @@ Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti.
 #+end_src
 ** Paṭṭhāna-mātikā-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
-\subsection{Paṭṭhāna-mātikā-pāṭho}
+\section{Paṭṭhāna-mātikā-pāṭho}
 \label{patthana-matika-patho}
 [Hetu-paccayo], ārammaṇa-paccayo,\\
 adhipati-paccayo, anantara-paccayo,\\
@@ -10333,7 +10335,7 @@ Balañ-ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan'
 #+end_src
 ** Paṁsu-kūla for the Dead
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
-\subsection{Paṁsu-kūla for the Dead}
+\section{Paṁsu-kūla for the Dead}
 \label{pamsu-kula-dead}
 [Aniccā vata saṅkhārā] – Uppāda-vaya-dhammino\\
 Uppajjitvā nirujjhanti – Tesaṁ vūpasamo sukho \hfill{[3x]}
@@ -10362,7 +10364,7 @@ Tath'evāhaṁ marissāmi – N'atthi me ettha saṁsayo \hfill{[3x]}
 #+end_src
 ** Paṁsu-kūla for the Living
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
-\subsection{Paṁsu-kūla for the Living}
+\section{Paṁsu-kūla for the Living}
 \label{pamsu-kula-living}
 [Aciraṁ vat'ayaṁ kāyo] – Paṭhaviṁ adhisessati\\
 Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ \hfill{[3x]}
@@ -10378,7 +10380,7 @@ Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ \hfill{[3x]}
 #+end_src
 ** Bhavatu-sabba-maṅgalaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
-\subsection{Bhavatu-sabba-maṅgalaṁ}
+\section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavtu}
 
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā\\
@@ -10425,6 +10427,8 @@ Sabba-saṅghānubhāvena – Sadā sotthī \breathmark\ bhavantu te
 ** Sharing and Aspirations
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
 \sectionPaliTitle{Uddissanādhiṭṭhānā}
+\setsecheadstyle{\sectionFmt}
+
 \section{Sharing and Aspirations}
 \label{uddissanadhitthana}
 
