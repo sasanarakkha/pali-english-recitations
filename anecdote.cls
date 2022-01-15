@@ -835,20 +835,31 @@ philo-sophical munindo amaravati thai-land}
 % Places a link to the Recitation Schedule, and a link to the next chant in the schedule.
 %
 % #1 : label to the next chant
+% \newcommand\bottomNav[1]{%
+%   \vfill
+%   \begin{minipage}{\linewidth}%
+%     \centering
+%     % \hyperref[contents]{$\Leftarrow$}\hspace*{1em}%
+%     \hyperref[contents]{
+%     \textbf{\textsc{\textls*{contents}}}}\hspace*{0.1em}%
+%     \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
+%     % \hyperref[#1]{$\Rightarrow$}%
+%     \hyperref[contents]{%
+%     \textbf{\textsc{\textls*{next}}}}\hspace*{0.1em}%
+%   \end{minipage}%
+% }
+
 \newcommand\bottomNav[1]{%
   \vfill
   \begin{minipage}{\linewidth}%
     \centering
-    % \hyperref[contents]{$\Leftarrow$}\hspace*{1em}%
-    \hyperref[contents]{
-    \textbf{\textsc{\textls*{Contents}}}}\hspace*{0.1em}%
-    \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
-    % \hyperref[#1]{$\Rightarrow$}%
     \hyperref[contents]{%
-    \textbf{\textsc{\textls*{Next}}}}\hspace*{0.1em}%
+    \textbf{\textsc{\textls*{Contents}}}}%\hspace*{1em}%
+    \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
+    \hyperref[#1]{\textbf{\textsc{\textls*{Next}}}}\hspace*{1em}%
   \end{minipage}%
 }
-
+% TODO: brackets off somewhere but not breaking build
 % glossary as item list
 
 \newenvironment{glossarydescription}%
@@ -1498,6 +1509,7 @@ philo-sophical munindo amaravati thai-land}
     \end{minipage}%
     %
     % Box for the section title text
+    % TODO: hyperef wrap is disorienting the remainder of brackets
     \hyperref[schedule]{\begin{minipage}[t]{0.8\linewidth}%
         \centering%
         % To hyperlink the text only, put \hyperref around the below
@@ -1505,16 +1517,16 @@ philo-sophical munindo amaravati thai-land}
       \end{minipage}}%
     %
     % Box for the arrow link back to the schedule.
-    \begin{minipage}[t]{0.1\linewidth}%
-      % Only print content in the mainmatter.
-      \if@mainmatter%
-        \raggedleft%
-        % Uncomment to instead hyperlink and arrows next to title
-        % \hyperref[schedule]{$\Leftarrow$}%
-      \else%
-        \mbox{}%
-      \fi%
-    \end{minipage}%
+    % Uncomment below to end to regain arrow and box
+    % \begin{minipage}[t]{0.1\linewidth}%
+    %   % Only print content in the mainmatter.
+    %   \if@mainmatter%
+    %     \raggedleft%
+    %     \hyperref[schedule]{$\Leftarrow$}%
+    %   \else%
+    %     \mbox{}%
+    %   \fi%
+    % \end{minipage}%
     %
     % New paragraph.
     \par%
@@ -1547,6 +1559,8 @@ philo-sophical munindo amaravati thai-land}
     % Bottom rule
     \rule{\linewidth}{0.4pt}%
   \end{minipage}%
+  % Something is causing this bracket unbalance but it doesn't break the build.
+  % Starting at the title hyperref above
 }
 
 \newcommand\subsectionFmt[1]{%

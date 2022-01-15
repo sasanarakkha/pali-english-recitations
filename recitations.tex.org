@@ -5,15 +5,20 @@
 
 TOOO: make notes lines closer
 -- read chapter 12, memoir documentation
+
+
 TODO: notes hyperlink back to location
 -- follow the example on endnote 2
+
 TODO: endnotes log (in the back) has random indentation for some notes
+-- because of justification
+
 TODO: solve hangindent, perhaps manually by line
 -- copy environemnts
+
 TODO: make conditionals to remeove digital assets for print
 TODO: make page number conditional for schedule
-TODO: italicize pali words in endnotes
-
+-- in main.tex comment out 'desktopVersion'
 
 * Table of Contents :toc:
 - [[#recitation-schedule][Recitation Schedule]]
@@ -266,7 +271,6 @@ TODO: italicize pali words in endnotes
 #+begin_src latex :tangle ./manuscript/tex/purpose-and-benefits.tex
 % \section{The Purpose and Benefits of Dhamma Recitation}
 \chapter[The Purpose and Benefits of Dhamma Recitation]{The Purpose and Benefits \\ of Dhamma Recitation}
-TODO: remove bars here and and line break after Benefits
 \label{purpose-and-benefits}
 
 \subsection*{Historical Background}
@@ -288,8 +292,6 @@ In the discourses the Buddha is often depicted taking up the topic of recitation
 \begin{quote}
   ``He has learned much, remembers what he has learned, and accumulates what he has learned. Those teachings that are good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, which proclaim the perfectly complete and pure spiritual life—such teachings as these he has learned much of, retained in mind, recited verbally, mentally investigated, and penetrated well by view. This is the fifth cause and condition that leads to obtaining the wisdom fundamental to the spiritual life.'' (AN 8.2)\\
 \end{quote}
-
-TODO: should we use suttaRef here too?
 
 In our current age of easy access to Dhamma books and multimedia, it is tempting to conclude that it is now not necessary anymore to memorize large bodies of texts for the sake of transmission, and that we are blessed with being able to read any of the texts at any time, from the comfort of our kuṭis or living rooms. And blessed we are. Nonetheless, even today recitation has benefits that surpass a regular silent reading, or even reading out loud. As seen in the earlier quote from AN 8.2, the Buddha doesn't only speak about reciting the texts verbally, but also about retaining them in mind and investigating them mentally. This is where the benefits of recitation differ considerably from a more casual reading, or even from chanting with the help of a chanting book. By means of committing a text to memory, it lives much deeper within our minds and hearts, and we can reflect on it whenever and wherever. Dhamma that has been well-memorized, is always with us. The Buddha's teachings become accessible in the very moment we need them, without having to resort to a book or an e-reader.\\
 
@@ -365,14 +367,15 @@ To summarize, memorization of the Dhamma and group recitation fulfill a variety 
 
 See chapter ``Pāli Phonetics \& Pronunciation'' in the Appendix\\
 
-\subsection*{Sources}
-Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context, Analayo, Canadian Journal of Buddhist Studies, 2007-3\\
-\\
-Ancient Indian Education and Mindfulness, Anālayo, Springer Science+Business Media, 2019\\
-\\
-Cognitive Psychology, Hove: Psychology Press, Eysenck, M. W. et al., 1992/2005\\
-\\
-The Buddhist Monastic Code II, Ṭhānissaro Bhikkhu, Metta Forest Monastery, 2013
+\subsection*{References}
+[1] Anālayo \textit{Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context}, Canadian Journal of Buddhist Studies (2007-3)\\
+
+[2] Anālayo \textit{Ancient Indian Education and Mindfulness}, Springer Science+Business Media (2019)\\
+
+[3] Eysenck, M. W. et al. \textit{Cognitive Psychology}, Psychology Press, Hove (1992/2005)\\
+
+[4] Ṭhānissaro Bhikkhu \textit{The Buddhist Monastic Code II}, Metta Forest Monastery (2013)
+
 #+end_src
 * Homage to the Triple Gem
 ** Cover/Title
@@ -500,12 +503,11 @@ Saṅghaṁ namāmi
 
 \begin{leader}
   〈 Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase 〉
-
 \end{leader}
 
-\begin{leader}
-  〈 \textit{Now let us pay preliminary homage to the Buddha} 〉
-\end{leader}
+\begin{leader-english}
+  〈 Now let us pay preliminary homage to the Buddha 〉
+\end{leader-english}
 
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
@@ -522,11 +524,10 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{leader}
   〈 Handa mayaṁ buddhābhitthutiṁ karomase 〉
-
 \end{leader}
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite in praise of the Buddha 〉
-\end{leader}
+\end{leader-english}
 
 Yo so tathāgato arahaṁ sammāsambuddho
 
@@ -624,11 +625,10 @@ Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
 
 \begin{leader}
   〈 Handa mayaṁ dhammābhitthutiṁ karomase 〉
-
 \end{leader}
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite in praise of the Dhamma 〉
-\end{leader}
+\end{leader-english}
 
 Yo so svākkhāto bhagavatā dhammo
 
@@ -683,9 +683,9 @@ Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 \begin{leader}
   〈 Handa mayaṁ saṅghābhitthutiṁ karomase 〉
 \end{leader}
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite in praise of the Saṅgha 〉
-\end{leader}
+\end{leader-english}
 
 Yo so supaṭipanno bhagavato sāvakasaṅgho
 
@@ -774,9 +774,9 @@ Anuttaraṁ puññakkhettaṁ lokassa
 \begin{leader}
   〈 Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca 〉
 \end{leader}
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite our salutation to the Triple Gem and a passage to arouse urgency 〉
-\end{leader}
+\end{leader-english}
 
 Buddho susuddho karuṇā-mahaṇṇavo
 
@@ -1244,7 +1244,6 @@ Saṅghaṁ namāmi
 
 \begin{leader}
   〈 Handa mayaṁ buddha-paṭhama-bhāsita-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -1287,7 +1286,6 @@ Saṅghaṁ namāmi
 
 \begin{leader}
   〈 Handa mayaṁ dhamma-gārav'ādi-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -1369,7 +1367,6 @@ Na duggatiṁ gacchati dhamma-cārī\pagenote{%
 
 \begin{leader}
   〈 Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo bhaṇāmase~〉
-
 \end{leader}
 
 Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\\
@@ -1436,7 +1433,6 @@ Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
 
 \begin{leader}
   〈 Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 Sabba-pāpassa akaraṇaṁ\pagenote{%
@@ -1536,7 +1532,6 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{leader}
   〈 Handa mayaṁ ti-lakkhaṇ'ādi-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -1635,7 +1630,6 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{leader}
   〈 Handa mayaṁ bhāra-sutta-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -1676,7 +1670,6 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{leader}
   〈 Handa mayaṁ raṭṭhapālatthera-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -1836,7 +1829,6 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{leader}
   〈 Handa mayaṁ pārāpariyatthera-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -1959,7 +1951,6 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{leader}
   〈 Handa mayaṁ Tāyana-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -2037,7 +2028,6 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{leader}
   〈 Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -2272,7 +2262,6 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{leader}
   〈 Handa mayaṁ bhadd'eka-ratta-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 \begin{twochants}
@@ -2337,10 +2326,10 @@ Etaṁ buddhāna sāsanaṁ
 \section{The Highest Blessings}
 \label{highest-blessings}
 
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite the verses on the Highest Blessings\pagenote{%
     ``The term ``blessing'' is used throughout this chanting book to convey the meaning of ``support'', or ``a beneficial thing'', without implying the underlying Christian connotations this term may have in popular use.} 〉
-\end{leader}
+\end{leader-english}
 
 Thus have I heard that the Blessed One\\
 Was dwelling at Sāvatthī\pagenote{%
@@ -2452,9 +2441,9 @@ These are the highest blessings
 \section{The Buddha's Words on Loving-Kindness}
 \label{words-on-loving-kindness}
 
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite the Buddha's words on loving-kindness 〉
-\end{leader}
+\end{leader-english}
 
 This is what should be done\\
 By one who is skilled in goodness\\
@@ -2522,7 +2511,6 @@ Is not born again into this world
 
 \begin{leader}
   〈 Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ 〉
-
 \end{leader}
 
 Dveme bhikkhave antā
@@ -3210,7 +3198,6 @@ N'atthidāni punabbhavo'ti
 
 \begin{leader}
   〈 Handa mayaṁ anupubba-sikkha-pāṭhaṁ 〉
-
 \end{leader}
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: `sambādho gharāvāso rajopatho abbhokāso pabbajjā. Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.
@@ -3272,9 +3259,9 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \section{The Gradual Training}
 \label{gradual-training}
 
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite the Gradual Training 〉
-\end{leader}
+\end{leader-english}
 % remove space here
 \begin{justify}
   ``A householder or householder's son \breathmark\ or one born in some other clan hears the Dhamma. On hearing the Dhamma he acquires faith in the Tathāgata. Possessing that faith he considers thus: `Household life is crowded and dusty \breathmark\ life gone forth is wide open. It is not easy while living at home \breathmark\ to lead the holy life utterly perfect and pure \breathmark\ as a polished shell. Suppose I shave off my hair and beard \breathmark\ put on the ochre robe \breathmark\ and go forth from home to homelessness.'On a later occasion \breathmark\ abandoning a small or large fortune \breathmark\ abandoning a small or large circle of relatives \breathmark\ he shaves off his hair and beard \breathmark\ puts on the ochre robe \breathmark\ and goes forth from home to homelessness.''
@@ -3388,7 +3375,6 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 
 \begin{leader}
   〈 Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ 〉
-
 \end{leader}
 
 Bhikkhave ye te mayā dhammā abhiññā desitā
@@ -3499,7 +3485,6 @@ Ariyo aṭṭhaṅgiko maggo
 
 \begin{leader}
   〈 Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ 〉
-
 \end{leader}
 
 Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
@@ -3727,7 +3712,6 @@ Ime kho bhikkhave satta bojjhaṅgā'ti
 
 \begin{leader}
   〈 Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ 〉
-
 \end{leader}
 
 Ayam-eva ariyo aṭṭh'aṅgiko maggo
@@ -4262,7 +4246,6 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 
 \begin{leader}
   〈 Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ 〉
-
 \end{leader}
 
 Ānāpānassati bhikkhave bhāvitā bahulī-katā
@@ -4617,12 +4600,11 @@ Mahapphalā hoti mahānisaṁsā'ti
 
 \begin{leader}
   〈 Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ 〉
-
 \end{leader}
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite the Analysis of Dependent Origination\pagenote{%
     Lit.: ``the 'Discourse Analysis' from the 'Analysis of Dependent Origination'''  The ``Discourse Analysis'' is a sub-chapter (Abh.Vibh.130f) from the ``Analysis of Dependent Origination'', which is part of the 2nd book of the \textit{Abhidhammapiṭaka} called the ``\textit{Vibhaṅga}''. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the \textit{Suttapiṭaka}.} 〉
-\end{leader}
+\end{leader-english}
 
 Avijjā-paccayā saṅkhārā
 
@@ -5190,7 +5172,6 @@ Evametassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 
 \begin{leader}
   〈 Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ 〉
-
 \end{leader}
 
 \begin{pali-hang}
@@ -5302,7 +5283,6 @@ Eso dhammo eso vinayo etaṁ satthusāsanan'ti
 
 \begin{leader}
   〈 Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ 〉
-
 \end{leader}
 
 Katame bhikkhave cattāro mahāpadesā
@@ -5564,7 +5544,6 @@ Ime kho bhikkhave cattāro mahāpadesā'ti
 
 \begin{leader}
   〈 Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ 〉
-
 \end{leader}
 
 Chayime bhikkhave dhammā sāraṇīyā
@@ -5793,7 +5772,6 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā'ti
 
 \begin{leader}
   〈 Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ 〉
-
 \end{leader}
 
 Katame bhikkhave satta aparihāniyā dhammā
@@ -6132,7 +6110,6 @@ Sovacassatā kalyāṇamittatā
 
 \begin{leader}
   〈 Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ 〉
-
 \end{leader}
 
 Evaṁ svākkhāto bhikkhave mayā dhammo
@@ -6381,7 +6358,6 @@ Alam-eva appamādena sampādetun'ti\pagenote{%
 
 \begin{leader}
   〈 Handa mayaṁ buddha-pacchima-ovāda 〉
-
 \end{leader}
 
 Siyā kho tumhākaṁ evamassa
@@ -6456,7 +6432,6 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 \begin{leader}
   〈 Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ 〉
-
 \end{leader}
 
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\\
@@ -6523,7 +6498,6 @@ Abyāpajjha-paramatāyā'ti
 
 \begin{leader}
   〈 Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ 〉
-
 \end{leader}
 
 \begin{pali-hang}
@@ -6587,7 +6561,6 @@ Ativiya jigucchanīyo jāyati
 
 \begin{leader}
   〈 Handa mayaṁ mettāpharaṇaṁ karomase 〉
-
 \end{leader}
 
 Ahaṁ sukhito homi\\
@@ -6611,9 +6584,9 @@ Tassa dāyādā bhavissanti
 
 \clearpage
 
-\begin{leader}
+\begin{leader-english}
   〈 Now let us recite the reflections on universal well-being 〉
-\end{leader}
+\end{leader-english}
 
 \begin{english-verses}
   May I abide in well-being\\
@@ -6658,7 +6631,6 @@ Tassa dāyādā bhavissanti
 
 \begin{leader}
   〈 Handa mayaṁ caturappamaññā obhāsanaṁ karomase 〉
-
 \end{leader}
 
 \begin{pali-hang}
@@ -6685,9 +6657,9 @@ Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ t
 
 \clearpage
 
-\begin{leader}
+\begin{leader-english}
   〈 Now let us make the Four Boundless Qualities shine forth 〉
-\end{leader}
+\end{leader-english}
 
 \begin{english-hang}
 I will abide pervading one quarter with a heart imbued with loving-kindness\\
@@ -6776,7 +6748,6 @@ Abundant exalted immeasurable without hostility and without ill-will
 
 \begin{leader}
   〈 Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ 〉
-
 \end{leader}
 
 Jarā-dhammomhi jaraṁ anatīto
@@ -6846,7 +6817,6 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{leader}
   〈 Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ 〉
-
 \end{leader}
 
 Dasa ime bhikkhave dhammā\\
@@ -7024,7 +6994,6 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
 \begin{leader}
   〈 Handa mayaṁ dvattiṁsākāra-pāṭhaṁ 〉
-
 \end{leader}
 
 \begin{pali-hang}
@@ -7116,7 +7085,6 @@ Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro 
 
 \begin{leader}
   〈 Handa mayaṁ aniccānussati-pāṭhaṁ 〉
-
 \end{leader}
 
 Sabbe saṅkhārā anicca
@@ -10649,7 +10617,6 @@ Sabba-saṅghānubhāvena – Sadā sotthī \breathmark\ bhavantu te
 
 \begin{leader}
   〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 Iminā puññakammena upajjhāyā guṇuttarā\\
@@ -10673,9 +10640,9 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 
 \clearpage
 
-\begin{leader}
-  〈 Now let us recite the verses of sharing and aspiration 〉
-\end{leader}
+\begin{leader-english}
+  〈 \label{sharing-aspirations} Now let us recite the verses of sharing and aspiration 〉
+\end{leader-english}
 
 \smallskip
 
@@ -10725,7 +10692,6 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 
 \begin{leader}
   〈 Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase 〉
-
 \end{leader}
 
 Puññass'idāni katassa yān'aññāni katāni me\\
@@ -10852,7 +10818,6 @@ Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 
 \begin{leader}
   〈 Handa mayaṁ buddhapūjañca paṇidhiñca karomase 〉
-
 \end{leader}
 
 Buddhaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi

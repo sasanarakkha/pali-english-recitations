@@ -22,30 +22,30 @@
 \setlength{\parindent}{0pt}
 
 \newenvironment{leader}%
-  {\list{}{%
-  \parskip 6pt%
-  \topsep 0pt%
-  \listparindent 0em%
-  \itemindent    0pt%
-  \leftmargin    0pt %\leaderIndent%
-  \rightmargin   0pt%
-  \parsep        -8pt}
+{\list{}{%
+    \parskip 6pt%
+    \topsep 0pt%
+    \listparindent 0em%
+    \itemindent    0pt%
+    \leftmargin    0pt %\leaderIndent%
+    \rightmargin   0pt%
+    \parsep        -8pt}
   \item[] \centering}%
+{\endlist}
 
 \newenvironment{leader-english}%
-  {\list{}{%
-  \parskip 6pt%
-  \topsep 0pt%
-  \listparindent 0em%
-  \itemindent    0pt%
-  \leftmargin    0pt %\leaderIndent%
-  \rightmargin   0pt%
-  \parsep        -8pt}
-  \fontsize{12}{18}\selectfont
-  \item[] \centering}%
-  {\endlist}
-
- {\endlist}
+{\list{}{%
+    \parskip 6pt%
+    \topsep 0pt%
+    \listparindent 0em%
+    \itemindent    0pt%
+    \leftmargin    0pt %\leaderIndent%
+    \rightmargin   0pt%
+    \parsep        -8pt
+    \fontsize{12}{16}\selectfont
+  }%
+  \item[] \centering\itshape}%
+{\endlist}
 
 \newcommand{\instr}[1]{%
   {\instrFmt #1}%
