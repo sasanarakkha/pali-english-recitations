@@ -584,6 +584,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand{\suttaRef}[1]{%
+  \vspace{-8pt \@plus 15pt \@minus 0pt}%
   \hfill {\fontsize{8}{0}\selectfont #1\par}%
 }
 
@@ -1314,7 +1315,7 @@ philo-sophical munindo amaravati thai-land}
 % Sub-sub-section is only used in the Sri Lankan chants chapter, but it helps
 % the content separation to still number them.
 
-\setsecnumdepth{chapter}
+\setsecnumdepth{none}
 
 % define chapter styles with "fantasy" names
 

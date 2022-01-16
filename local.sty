@@ -164,7 +164,7 @@
     \topsep 0pt
     \listparindent 0em%
     \itemindent    0em%
-    \leftmargin    1em%\leaderIndent%
+    \leftmargin    1em%\leaderindent%
     \rightmargin   0em%
     \fontsize{12}{18}\selectfont
     \parsep        -8.5em %\z@ \@plus\p@%
@@ -172,12 +172,40 @@
   \item[] \raggedright\itshape}%
   {\endlist}
 
+  \newenvironment{english-only}%
+  {\list{}{%
+    % \parskip       8pt
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%\leaderindent%
+    \rightmargin   0em%
+    \fontsize{12}{18}\selectfont
+    % \parsep        %\z@ \@plus\p@%
+  }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
+  \newenvironment{english-only-justify}%
+  {\list{}{%
+    % \parskip       8pt
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%\leaderindent%
+    \rightmargin   0em%
+    \fontsize{12}{18}\selectfont
+    % \parsep        %\z@ \@plus\p@%
+  }%
+  \item[] \justify\itshape}%
+  {\endlist}
+
 \newenvironment{english-hang}%
   {\list{}{%
     \topsep 0pt
     \listparindent 0em%
     \itemindent    -0.5em%
-    \leftmargin    2em %\leaderIndent%
+    \leftmargin    1.5em %\leaderIndent%
     \rightmargin   0em%
     \fontsize{12}{16}\selectfont
     \parsep        \z@ \@plus\p@%
@@ -185,15 +213,29 @@
   \item[] \raggedright\itshape}%
   {\endlist}
 
+\newenvironment{english-hangtogether}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    -0.5em%
+    \leftmargin    0.5em %\leaderIndent%
+    \rightmargin   0em%
+    \fontsize{12}{18}\selectfont
+    \parsep        \z@ \@plus\p@%
+    \parskip       -16pt
+  }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
   \newenvironment{english-keepwith}%
   {\list{}{%
-    \topsep -12pt
-    \partopsep 16pt
+    \topsep 0pt
+    \partopsep 0pt
     \listparindent 0em%
     \itemindent    0em%
-    \leftmargin    1.5em %\leaderIndent%
+    \leftmargin    1em %\leaderIndent%
     \rightmargin   0em%
-    \fontsize{12}{17}\selectfont
+    \fontsize{12}{18}\selectfont
     \parsep        \z@ \@plus\p@%
   }%
   \item[] \raggedright\itshape}%
@@ -207,7 +249,7 @@
     \itemindent    -0.5em%
     \leftmargin    0em %\leaderIndent%
     \rightmargin   0em%
-    \fontsize{12}{17}\selectfont
+    \fontsize{12}{18}\selectfont
     \parsep        \z@ \@plus\p@%
   }%
   \item[] \raggedright\itshape}%
