@@ -21,7 +21,9 @@ TODO: make page number conditional for schedule
 
 TODO: keep orphan with previous text, use mbox?
 
-TODO: bring suttaRef closer to paragraph before
+TODO: is the suttaRef too close?
+
+TODO: anumodana, paritta, and funeral sections don't need page break before next title
 
 * Table of Contents :toc:
 - [[#recitation-schedule][Recitation Schedule]]
@@ -775,7 +777,7 @@ Anuttaraṁ puññakkhettaṁ lokassa
 \label{salutation}
 
 \begin{leader}
-  〈 Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca 〉
+  〈 Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase 〉
 \end{leader}
 \begin{leader-english}
   〈 Now let us recite our salutation to the Triple Gem and a passage to arouse urgency 〉
@@ -2519,7 +2521,7 @@ Is not born again into this world
 \label{wheel-of-dhamma-abridged}
 
 \begin{leader}
-  〈 Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ 〉
+  〈 Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Dveme bhikkhave antā
@@ -3206,7 +3208,7 @@ N'atthidāni punabbhavo'ti
 \section{Anupubba-sikkhā}
 
 \begin{leader}
-  〈 Handa mayaṁ anupubba-sikkha-pāṭhaṁ 〉
+  〈 Handa mayaṁ anupubba-sikkha-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: `sambādho gharāvāso rajopatho abbhokāso pabbajjā. Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.
@@ -3383,7 +3385,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \label{requisites-for-awakening}
 
 \begin{leader}
-  〈 Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ 〉
+  〈 Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Bhikkhave ye te mayā dhammā abhiññā desitā
@@ -3493,7 +3495,7 @@ Ariyo aṭṭhaṅgiko maggo
 \label{seven-factors-of-awakening}
 
 \begin{leader}
-  〈 Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ 〉
+  〈 Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
@@ -3720,7 +3722,7 @@ Ime kho bhikkhave satta bojjhaṅgā'ti
 \label{noble-eightfold-path}
 
 \begin{leader}
-  〈 Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ 〉
+  〈 Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Ayam-eva ariyo aṭṭh'aṅgiko maggo
@@ -4254,7 +4256,7 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 \label{mindfulness-of-breathing}
 
 \begin{leader}
-  〈 Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ 〉
+  〈 Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Ānāpānassati bhikkhave bhāvitā bahulī-katā
@@ -5180,7 +5182,7 @@ Evametassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 \label{dhamma-in-brief}
 
 \begin{leader}
-  〈 Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ 〉
+  〈 Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 \begin{pali-hang}
@@ -5291,7 +5293,7 @@ Eso dhammo eso vinayo etaṁ satthusāsanan'ti
 \label{four-great-references}
 
 \begin{leader}
-  〈 Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ 〉
+  〈 Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Katame bhikkhave cattāro mahāpadesā
@@ -5552,7 +5554,7 @@ Ime kho bhikkhave cattāro mahāpadesā'ti
 \label{principles-of-cordiality}
 
 \begin{leader}
-  〈 Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ 〉
+  〈 Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Chayime bhikkhave dhammā sāraṇīyā
@@ -5780,7 +5782,7 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā'ti
 \label{principles-of-non-decline}
 
 \begin{leader}
-  〈 Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ 〉
+  〈 Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Katame bhikkhave satta aparihāniyā dhammā
@@ -6118,7 +6120,7 @@ Sovacassatā kalyāṇamittatā
 \label{striving-according-to-dhamma}
 
 \begin{leader}
-  〈 Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ 〉
+  〈 Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Evaṁ svākkhāto bhikkhave mayā dhammo
@@ -6440,7 +6442,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 \label{four-requisites}
 
 \begin{leader}
-  〈 Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ 〉
+  〈 Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\\
@@ -6515,7 +6517,7 @@ Abyāpajjha-paramatāyā'ti
 \label{repulsiveness-of-food}
 
 \begin{leader}
-  〈 Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ 〉
+  〈 Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 \begin{pali-hang}
@@ -6595,7 +6597,11 @@ Sabbe sattā sukhī attānaṁ pariharantu\\
 Sabbe sattā sabbadukkhā pamuccantu\\
 Sabbe sattā laddha-sampattito mā vigacchantu
 
+\bigskip
+
+\begin{pali-hangtogether}
 Sabbe sattā kammassakā kammadāyādā kammayonī kammabandhū kammapaṭisaraṇā\\
+\end{pali-hangtogether}
 Yaṁ kammaṁ karissanti\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādā bhavissanti
@@ -6619,12 +6625,12 @@ Tassa dāyādā bhavissanti
   In freedom from anxiety\\
   And may they maintain well-being in themselves\\
   May all beings be released from all suffering\\
-\end{english-verses}
-\begin{english-hang}
+\begin{english-hangtogether}
   And may they not be parted from the good fortune they have attained\pagenote{%
     In the original version, this line is followed by ``When they act upon intention'', which is not found in the Pāli, and is potentially misleading, giving the implication that intention alone is not enough to count as kamma.}
-\end{english-hang}
-% TODO: hang doesn't look good here
+\end{english-hangtogether}
+\end{english-verses}
+
 \begin{english-verses}
   All beings are the owners of their kamma\pagenote{%
     Orig: ``All beings are the owners of their action and inherit its results. Their future is born from such action, companion to such action, and its results will be their home. All actions with intention, be they skilful or harmful, of such acts they will be the heirs.'' For the sake of consistency with other chants within this chanting book, the original version was substituted with the one found in the ``Five subjects for frequent recollection'', and ``Ten subjects for frequent recollection by one who has gone forth''.}\\
@@ -6678,7 +6684,7 @@ Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ t
 \begin{leader-english}
   〈 Now let us make the Four Boundless Qualities shine forth 〉
 \end{leader-english}
-
+% TODO: spacing throughout is not ideal
 \begin{english-hang}
 I will abide pervading one quarter with a heart imbued with loving-kindness\\
 \end{english-hang}
@@ -6765,7 +6771,7 @@ Abundant exalted immeasurable without hostility and without ill-will
 \label{five-recollections}
 
 \begin{leader}
-  〈 Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ 〉
+  〈 Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Jarā-dhammomhi jaraṁ anatīto
@@ -6797,10 +6803,12 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
   Will become separated from me
 \end{english}
 
-\begin{pali-hang}
+%TODO: this is a bit hacky, works for now
+\vspace{8pt}
+
+\begin{pali-hangtogether}
 Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\\
-\end{pali-hang}
-% TODO: hang indent looks weird here
+\end{pali-hangtogether}
 Yaṁ kammaṁ karissāmi\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādo bhavissāmi
@@ -6834,7 +6842,7 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 \label{ten-recollections}
 
 \begin{leader}
-  〈 Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ 〉
+  〈 Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Dasa ime bhikkhave dhammā\\
@@ -6857,59 +6865,57 @@ Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
   ``I have reached a state of castelessness''\pagenote{%
-    Orig: ``I am no longer living according to worldly aims and values''}\\
-\end{english}
-
-\begin{english-hang}
+    Orig: ``I am no longer living according to worldly aims and values''}
+\begin{english-hangtogether}
   This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
+\end{english}
 
 Parapaṭibaddhā me jīvikā'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
-  ``My very life is sustained through the gifts of others''\\
-\end{english}
-
-\begin{english-hang}
+  ``My very life is sustained through the gifts of others''
+\begin{english-hangtogether}
   This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
+\end{english}
 
 Añño me ākappo karaṇīyo'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
   ``Now my conduct should be different from before''\pagenote{%
-    Orig: `I should strive to abandon my former habits'}\\
-\end{english}
-
-\begin{english-hang}
+    Orig: `I should strive to abandon my former habits'}
+\begin{english-hangtogether}
   This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
+\end{english}
 
 Kacci nu kho me attā sīlato na upavadatī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
-  ``Does regret over my conduct arise in my mind?''\\
+  ``Does regret over my conduct arise in my mind?''
+\begin{english-hangtogether}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hangtogether}
 \end{english}
 
-\begin{english-hang}
-  This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+%TODO: this is a bit hacky, works for now
+\vspace{8pt}
 
-\begin{pali-hang}
-Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti\\
-\end{pali-hang}
+\begin{pali-hangtogether}
+Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti
+\end{pali-hangtogether}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
   ``Could my spiritual companions find fault with my conduct?''\\
-\end{english}
-
-\begin{english-hang}
+\begin{english-hangtogether}
   This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
+\end{english}
 
 Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
@@ -6917,17 +6923,18 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \begin{english}
   ``All that is mine beloved and pleasing\\
   Will become otherwise\\
-  Will become separated from me''\\
+  Will become separated from me''
+\begin{english-hangtogether}
+  This should be reflected upon again and again by one who has gone forth
+\end{english-hangtogether}
 \end{english}
 
-\begin{english-hang}
-  This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+%TODO: this is a bit hacky, works for now
+\vspace{8pt}
 
-\begin{pali-hang}
+\begin{pali-hangtogether}
 Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\\
-\end{pali-hang}
-% TODO: hang is off here
+\end{pali-hangtogether}
 Yaṁ kammaṁ karissāmi\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādo bhavissāmī'ti\\
@@ -6943,62 +6950,61 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Either skillful or harmful\\
   Of such acts \breathmark\ I will be the heir''\pagenote{%
     Orig: ``For good or for ill, Of that I will be the heir`` For the sake of consistency with other passages which were translated differently, this translation has been chosen.}\\
-\end{english}
-
-\begin{english-hang}
+\begin{english-hangtogether}
   This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
+\end{english}
 
 `Kathambhūtassa me rattindivā vītipatantī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
   ``The days and nights are relentlessly passing\\
-  How well am I spending my time?''\\
-\end{english}
-
-\begin{english-hang}
+  How well am I spending my time?''
+\begin{english-hangtogether}
   This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
+\end{english}
 
 Kacci nu kho'haṁ suññāgāre abhiramāmī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english}
-  ``Do I delight in solitude or not?''\\
-\end{english}
-
-\begin{english-hang}
+  ``Do I delight in solitude or not?''
+\begin{english-hangtogether}
   This should be reflected upon again and again by one who has gone forth by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
+\end{english}
 
 \begin{pali-hang}
 Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana viseso adhigato\\
 \end{pali-hang}
 
-\begin{pali-hang}
+%TODO: this is a bit hacky, works for now
+% \vspace{8pt}
+
+\begin{pali-hangtogether}
 So'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti\\
-\end{pali-hang}
-% TODO: hang is off here
-\begin{pali-hang}
+\end{pali-hangtogether}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-\end{pali-hang}
+
 
 \begin{english}
-  ``Has my practice borne fruit with freedom or insight\\
-  So that at the end of my life \breathmark\ I need not feel ashamed when questioned by my spiritual companions?''\\
-\end{english}
-
-\begin{english-hang}
+  ``Has my practice borne fruit with freedom or insight
+\begin{english-hangtogether}
+  So that at the end of my life \breathmark\ I need not feel ashamed when questioned by my spiritual companions?''
+\end{english-hangtogether}
+\begin{english-hangtogether}
   This should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
+\end{english}
 
 Ime kho bhikkhave dasa dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
-\begin{english-hang}
+\begin{english-hangtogether}
   Bhikkhus these are the ten dhammas \breathmark\ which should be reflected upon again and again by one who has gone forth
-\end{english-hang}
+\end{english-hangtogether}
 
 \suttaRef{[AN 10.48]}
 
@@ -7011,7 +7017,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 \label{32-parts}
 
 \begin{leader}
-  〈 Handa mayaṁ dvattiṁsākāra-pāṭhaṁ 〉
+  〈 Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 \begin{pali-hang}
@@ -7102,7 +7108,7 @@ Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro 
 \label{recollection-impermanence}
 
 \begin{leader}
-  〈 Handa mayaṁ aniccānussati-pāṭhaṁ 〉
+  〈 Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase 〉
 \end{leader}
 
 Sabbe saṅkhārā anicca
@@ -7287,7 +7293,7 @@ Tesaṁ vūpasamo sukho
 \section{Dhammacakkappavattana-sutta}
 
 \begin{pali-hang}
-[Evaṁ me sutaṁ] Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
+[Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7295,11 +7301,11 @@ Dveme bhikkhave antā pabbajitena na sevitabbā: yo cāyaṁ kāmesu kāmasukhal
 \end{pali-hang}
 
 \begin{pali-hang}
-Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
 \end{pali-hang}
 
 \begin{pali-hang}
-Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
+Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7309,7 +7315,10 @@ Ayameva ariyo aṭṭhaṅgiko maggo seyyathīdaṁ:
 \begin{pali-hang}
 Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
 \end{pali-hang}
+
+\begin{pali-hang}
 Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+\end{pali-hang}
 
 \begin{pali-hang}
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ:
@@ -7399,9 +7408,7 @@ Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvitanti 
 Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddham ahosi athāham bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
 \end{pali-hang}
 
-
 Ñāṇañca pana me dassanaṁ udapādi.
-
 
 \begin{pali-hang}
 ``Akuppā me vimutti ayamantimā jāti natthidāni punabbhavo''ti.
@@ -7903,7 +7910,7 @@ But since consciousness is not-self \breathmark\ it leads to affliction \breathm
 \end{english-only-hang}
 
 \begin{english-only-nohang}
-[Bhikkhus what do you think:] ``Is form permanent or impermanent?''\\
+Bhikkhus what do you think:] ``Is form permanent or impermanent?''\\
 
 ``Impermanent venerable Sir.''\\
 
@@ -7911,7 +7918,9 @@ But since consciousness is not-self \breathmark\ it leads to affliction \breathm
 
 ``Unsatisfactory venerable Sir.''\\
 
-``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''\\
+\begin{english-hangtogether}
+``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''
+\end{english-hangtogether}
 
 ``No venerable Sir.''
 \end{english-only-nohang}
@@ -8007,7 +8016,7 @@ When he is disenchanted passion fades away. With the fading of passion he is lib
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya.tex
 \section{Āditta-pariyāya-sutta}
 \label{aditta-pariyaya}
-
+% TODO: pali not so spacious but english is spacious, pick one?
 \begin{pali-hang}
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. Tatra kho bhagavā bhikkhū āmantesi:
 \end{pali-hang}
@@ -8487,16 +8496,20 @@ Sadā sotthī bhavantu te
   Just as rivers full of water\\
   Entirely fill up the sea\\
   Likewise what's been given here\\
-  Benefits the departed onesi
+  Benefits the departed ones\pagenote{%
+    Orig: “Bring blessings to departed spirits”Orig: “Bring blessings to departed spirits”}
 \end{english-verses}
 
 \suttaRef{[Khp 1.7]}
 
-\begin{pali-hang}
+%TODO: this is a bit hacky, works for now
+\vspace{8pt}
+
+\begin{pali-hangtogether}
   Icchitaṁ patthitaṁ tumhaṁ – Khippam-eva samijjhatu\\
-  Sabbe pūrentu saṅkappā\\
+  Sabbe pūrentu saṅkappā
+\end{pali-hangtogether}
   Cando paṇṇa-raso yathā – Maṇi joti-raso yathāi
-\end{pali-hang}
 
 \begin{english-verses}
   May all your hopes and all your longings\\
@@ -8671,9 +8684,9 @@ Sata-vassā ca āyū ca\\
 Jīva-siddhī bhavantu te
 \end{pali-hang}
 
-\begin{english-verses}
+\begin{english-hang}
   Through the power of all the Buddhas, the power of all the Dhamma, the power of all the Saṅgha, the gem of the Buddha, the gem of the Dhamma, the gem of the Saṅgha, the power of the Triple Gem: the power of the 84,000 Dhamma aggregates, the power of the Tripitaka, the power of the Victor's disciples: May all your diseases, all your fears, all your obstacles, all your dangers, all your bad visions, all your bad omens be destroyed. May there always be an increase of long life, wealth, glory, status, strength, beauty and happiness.
-\end{english-verses}
+\end{english-hang}
 
 \suttaRef{[MJG]}
 

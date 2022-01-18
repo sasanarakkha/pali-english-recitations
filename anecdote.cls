@@ -584,7 +584,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand{\suttaRef}[1]{%
-  \vspace{-8pt \@plus 15pt \@minus 0pt}%
+  \vspace{-7pt \@plus 15pt \@minus 0pt}%
   \hfill {\fontsize{8}{0}\selectfont #1\par}%
 }
 
