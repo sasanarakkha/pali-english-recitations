@@ -67,14 +67,16 @@ desktopVersion,
 \input{./manuscript/tex/titlepage.tex}
 \input{./manuscript/tex/copyright.tex}
 \input{./manuscript/tex/dedication.tex}
-\input{./manuscript/tex/schedule.tex}
-\input{./manuscript/tex/purpose-and-benefits.tex}
 
 \cleartorecto
 \pagestyle{toponerow-frontmatter}
 \chapterstyle{adrasteia-toc}
 
+\pdfbookmark[section]{\contentsname}{toc}
 \tableofcontents*
+
+\input{./manuscript/tex/schedule.tex}
+\input{./manuscript/tex/purpose-and-benefits.tex}
 
 \chapterstyle{adrasteia-frontmatter}
 
