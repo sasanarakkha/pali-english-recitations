@@ -3,44 +3,47 @@
 #+format: TeX
 #+startup: fold
 
-Observations:
-TeX: schedule comes before ToC, in orig its the reverse
-
-TOOO: make notes lines closer
--- read chapter 12, memoir documentation
-
-TODO: notes hyperlink back to location
--- follow the example on endnote 2
-
-TODO: endnotes log (in the back) has random indentation for some notes
--- because of justification
-
-TODO: solve hangindent, perhaps manually by line
--- copy environemnts
-
-TODO: make conditionals to remeove digital assets for print
-TODO: make page number conditional for schedule
--- in main.tex comment out 'desktopVersion'
-
-TODO: keep orphan with previous text, use mbox?
-
-TODO: is the suttaRef too close?
-
-TODO: anumodana, paritta, and funeral sections don't need page break before next title
-
-TODO: change spacing in ToC to match original
-
-TODO: even though numbering removed, chapter page still has "0."
-
-TODO: ask Bhante about headers
+* Task List
+** TODO make notes lines closer
+- read chapter 12, memoir documentation
+** TODO notes hyperlink back to location
+- follow the example on endnote 2
+** TODO endnotes log (in the back) has random indentation for some notes
+- because of justification
+** TODO solve hangindent, perhaps manually by line
+- copy environemnts
+** TODO make conditionals to remeove digital assets for print
+** TODO make page number conditional for schedule
+- in main.tex comment out 'desktopVersion'
+** TODO keep orphan with previous text, use mbox?
+** TODO is the suttaRef too close?
+** TODO anumodana, paritta, and funeral sections don't need page break before next title
+** TODO change spacing in ToC to match original
+** TODO even though numbering removed, chapter page still has "0."
+** TODO ask Bhante about headers
 - move number to bottom middle
 - see telegram
-
-TODO: add ToC to Index
-
-TODO: add set section titles to schedule
+** TODO add ToC to Index
+** TODO add set section titles to schedule
+** TODO remove blank pages from digital pdf (altough I don't think necessary)
 
 * Table of Contents :toc:
+- [[#task-list][Task List]]
+  - [[#make-notes-lines-closer][make notes lines closer]]
+  - [[#notes-hyperlink-back-to-location][notes hyperlink back to location]]
+  - [[#endnotes-log-in-the-back-has-random-indentation-for-some-notes][endnotes log (in the back) has random indentation for some notes]]
+  - [[#solve-hangindent-perhaps-manually-by-line][solve hangindent, perhaps manually by line]]
+  - [[#make-conditionals-to-remeove-digital-assets-for-print][make conditionals to remeove digital assets for print]]
+  - [[#make-page-number-conditional-for-schedule][make page number conditional for schedule]]
+  - [[#keep-orphan-with-previous-text-use-mbox][keep orphan with previous text, use mbox?]]
+  - [[#is-the-suttaref-too-close][is the suttaRef too close?]]
+  - [[#anumodana-paritta-and-funeral-sections-dont-need-page-break-before-next-title][anumodana, paritta, and funeral sections don't need page break before next title]]
+  - [[#change-spacing-in-toc-to-match-original][change spacing in ToC to match original]]
+  - [[#even-though-numbering-removed-chapter-page-still-has-0][even though numbering removed, chapter page still has "0."]]
+  - [[#ask-bhante-about-headers][ask Bhante about headers]]
+  - [[#add-toc-to-index][add ToC to Index]]
+  - [[#add-set-section-titles-to-schedule][add set section titles to schedule]]
+  - [[#remove-blank-pages-from-digital-pdf-altough-i-dont-think-necessary][remove blank pages from digital pdf (altough I don't think necessary)]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
 - [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
@@ -163,14 +166,14 @@ TODO: add set section titles to schedule
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 1}}}}\\
 
   \textsc{
-    \hyperref[buddhas-first-exclamation]{The Buddha's First Exclamation} \pageref{buddhas-first-exclamation}\\
-    \hyperref[wheel-of-dhamma-abridged]{Setting in Motion the Wheel of Dhamma} \pageref{wheel-of-dhamma-abridged}\\
-    \hyperref[true-false-refuges]{Going to True and False Refuges} \pageref{true-false-refuges}\\
-    \hyperref[four-great-references]{The Four Great References} \pageref{four-great-references}\\
-    \hyperref[patimokkha-exhortation]{The Pāṭimokkha Exhortation} \pageref{patimokkha-exhortation}\\
-    \hyperref[buddhas-final-instruction]{The Buddha's Final Instruction} \pageref{buddhas-final-instruction}\\
-    \hyperref[uddissanadhitthana]{Uddissanādhiṭṭhāna} \pageref{uddissanadhitthana}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    The Buddha's First Exclamation \pageref{buddhas-first-exclamation}\\
+    Setting in Motion the Wheel of Dhamma \pageref{wheel-of-dhamma-abridged}\\
+    Going to True and False Refuges \pageref{true-false-refuges}\\
+    The Four Great References \pageref{four-great-references}\\
+    The Pāṭimokkha Exhortation \pageref{patimokkha-exhortation}\\
+    The Buddha's Final Instruction \pageref{buddhas-final-instruction}\\
+    Uddissanādhiṭṭhāna \pageref{uddissanadhitthana}\\
+    Closing Homage (Pāli-English)} \pageref{closing-homage}\\
 
   \bigskip
 
@@ -4724,7 +4727,7 @@ Tattha katamā avijjā
   Dukkhe aññāṇaṁ dukkhasamudaye aññāṇaṁ dukkhanirodhe aññāṇaṁ dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ
 \end{pali-hang}
 
-TODO: this doesn't look good
+% * TODO this doesn't look good
 
 \begin{english-hang}
   Not knowing suffering \breathmark\ not knowing the origin of suffering \breathmark\ not knowing the cessation of suffering \breathmark\ not knowing the way of practice leading to the cessation of suffering
@@ -6261,7 +6264,7 @@ Maṇḍapeyyam-idaṁ bhikkhave brahmacariyaṁ
 \begin{english}
   Bhikkhus this holy life is like a Milchgetränk\pagenote{%
     Orig: ``like the cream of the milk''; \textit{maṇḍapeyya} is a Pāli idiom, meaning `of the best quality (lit. to be drunk like cream)'}
-  % TODO: choose a final translation and alter the footnote accordingly
+  % TODO choose a final translation and alter the footnote accordingly
 \end{english}
 
 Satthā sammukhī-bhūto
@@ -6701,7 +6704,7 @@ Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ t
 \begin{leader-english}
   〈 Now let us make the Four Boundless Qualities shine forth 〉
 \end{leader-english}
-% TODO: spacing throughout is not ideal
+% TODO spacing throughout is not ideal
 \begin{english-hang}
 I will abide pervading one quarter with a heart imbued with loving-kindness\\
 \end{english-hang}
@@ -6820,7 +6823,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
   Will become separated from me
 \end{english}
 
-%TODO: this is a bit hacky, works for now
+% * TODO this is a bit hacky, works for now
 \vspace{8pt}
 
 \begin{pali-hangtogether}
@@ -6919,7 +6922,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{english-hangtogether}
 \end{english}
 
-%TODO: this is a bit hacky, works for now
+%TODO this is a bit hacky, works for now
 \vspace{8pt}
 
 \begin{pali-hangtogether}
@@ -6946,7 +6949,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{english-hangtogether}
 \end{english}
 
-%TODO: this is a bit hacky, works for now
+%TODO this is a bit hacky, works for now
 \vspace{8pt}
 
 \begin{pali-hangtogether}
@@ -6997,7 +7000,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana viseso adhigato\\
 \end{pali-hang}
 
-%TODO: this is a bit hacky, works for now
+%TODO this is a bit hacky, works for now
 % \vspace{8pt}
 
 \begin{pali-hangtogether}
@@ -7925,7 +7928,7 @@ Consciousness is not-self. If consciousness were self \breathmark\ then consciou
 \begin{english-only-hang}
 But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
 \end{english-only-hang}
-% TODO: this style has no left indent
+% TODO this style has no left indent
 \begin{english-only-nohang}
 Bhikkhus what do you think:] ``Is form permanent or impermanent?''\\
 
@@ -8051,7 +8054,7 @@ When he is disenchanted passion fades away. With the fading of passion he is lib
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya.tex
 \section{Āditta-pariyāya-sutta}
 \label{aditta-pariyaya}
-% TODO: pali not so spacious but english is spacious, pick one?
+% TODO pali not so spacious but english is spacious, pick one?
 \begin{pali-hang}
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. Tatra kho bhagavā bhikkhū āmantesi:
 \end{pali-hang}
@@ -8538,7 +8541,7 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[Khp 1.7]}
 
-%TODO: this is a bit hacky, works for now
+%TODO this is a bit hacky, works for now
 \vspace{8pt}
 
 \begin{pali-hangtogether}
@@ -8796,7 +8799,7 @@ Jīva-siddhī bhavantu te
   Vippasanna-manā tassa – Vipulā hoti dakkhiṇā
 \end{twochants}
 
-%TODO: this is a bit hacky, works for now
+%TODO this is a bit hacky, works for now
 \vspace{16pt}
 
 \begin{english-verses}
@@ -9106,7 +9109,7 @@ Namo-kārassa tejena – Vidhimhi homi tejavā
 \begin{pali-hang}
 [Evaṁ me sutaṁ]: Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 \end{pali-hang}
-% TODO: check indentation of english-hang and compare with english-verses
+% TODO check indentation of english-hang and compare with english-verses
 \begin{english-hang}
   Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Then, when the night had advanced, a certain deity of stunning beauty, having illuminated the entire Jeta's Grove, approached the Blessed One, paid homage to him, stood to one side, and addressed the Blessed One in verse:
 \end{english-hang}
@@ -9243,7 +9246,7 @@ Sabbattha sotthiṁ gacchanti – Tan-tesaṁ maṅgalam-uttaman'ti
 \begin{pali-hangtogether}
 Sabb'eva bhūtā sumanā bhavantu – Atho pi sakkacca suṇantu bhāsitaṁ
 \end{pali-hangtogether}
-%TODO: check pali-hangtogether indentation
+%TODO check pali-hangtogether indentation
 
 \begin{english-verses}
   Whatever beings are gathered here,\\
@@ -11038,7 +11041,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 *** Requesting the Three Refuges & Five/Eight Trainings
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 \section*{The Three Refuges \& Five/Eight Trainings}
-TODO: center these subsections
+TODO center these subsections
 \subsection{Requesting the Three Refuges \& Five/Eight Trainings\pagenote{%
 This request is recited only in the Thai tradition. At SBS we start straight with “Namo tassa…”}}
 
@@ -11259,8 +11262,8 @@ Response: Sādhu, sādhu, sādhu\\
 ** Pāli Phonetics & Pronunciation
 #+begin_src latex :tangle ./manuscript/tex/phonetics-pronunciation.tex
 \section{Pāli Phonetics and Pronunciation}
-TODO: title here is wonky
-TODO: Insert graph here
+TODO title here is wonky
+TODO Insert graph here
 % \includegraphics[width=0.5\textwidth]{./assets/photos/warder-pali-alphabet-table/Warder Pali Alphabet Table.png}
 
 \begin{justify}
@@ -11270,7 +11273,7 @@ Pāli is the original scriptural language of Theravāda Buddhism. It was a spoke
 \medskip
 
 \textbf{Vowels} are of two types:
-TODO: good but still textual overlap
+TODO good but still textual overlap
 \begin{minipage}{.5\textwidth}
   \begin{tabular}{@{} ll @{}}
     \textbf{Short} & \textbf{Long}\\
