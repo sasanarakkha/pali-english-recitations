@@ -27,6 +27,7 @@
 ** TODO add set section titles to schedule
 ** TODO remove blank pages from digital pdf (altough I don't think necessary)
 
+
 * Table of Contents :toc:
 - [[#task-list][Task List]]
   - [[#make-notes-lines-closer][make notes lines closer]]
@@ -46,6 +47,7 @@
   - [[#remove-blank-pages-from-digital-pdf-altough-i-dont-think-necessary][remove blank pages from digital pdf (altough I don't think necessary)]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
+- [[#abbreviations][Abbreviations]]
 - [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
   - [[#covertitle][Cover/Title]]
   - [[#dedication-of-offerings][Dedication of Offerings]]
@@ -151,19 +153,20 @@
   - [[#the-highest-honour-and-aspirations][The Highest Honour and Aspirations]]
 - [[#appendix][Appendix]]
   - [[#covertitle-8][Cover/Title]]
-  - [[#the-three-refuges--fiveeight-trainings][The Three Refuges & Five/Eight Trainings]]
+  - [[#the-refuges--trainings][The Refuges & Trainings]]
   - [[#pāli-phonetics--pronunciation][Pāli Phonetics & Pronunciation]]
   - [[#chanting-leader-guidelines][Chanting Leader Guidelines]]
-  - [[#abbreviations][Abbreviations]]
 
 * Recitation Schedule
 #+begin_src latex :tangle ./manuscript/tex/schedule.tex
-\section{\textcolor{black}{Recitation Schedule}}
+\chapter{Recitation Schedule}
 \label{schedule}
 
 \begin{center}
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 1}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 1}}}}\\
+\setsecheadstyle{\subsectionFmt}
+\section{Set 1}
 
   \textsc{
     The Buddha's First Exclamation \pageref{buddhas-first-exclamation}\\
@@ -173,119 +176,125 @@
     The Pāṭimokkha Exhortation \pageref{patimokkha-exhortation}\\
     The Buddha's Final Instruction \pageref{buddhas-final-instruction}\\
     Uddissanādhiṭṭhāna \pageref{uddissanadhitthana}\\
-    Closing Homage (Pāli-English)} \pageref{closing-homage}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}
 
   \bigskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 2}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 2}}}}\\
+  \section{Set 2}
 
   \textsc{
-    \hyperref[characteristic-of-not-self]{The Discourse on the Characteristic of Not-Self} \pageref{characteristic-of-not-self}\\
-    \hyperref[fire-sermon]{The Fire Sermon} \pageref{fire-sermon}\\
-    \hyperref[gradual-training]{The Gradual Training} \pageref{gradual-training}\\
-    \hyperref[sharing-aspirations]{Sharing and Aspirations} \pageref{sharing-aspirations}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    The Discourse on the Characteristic of Not-Self \pageref{characteristic-of-not-self}\\
+    The Fire Sermon \pageref{fire-sermon}\\
+    The Gradual Training \pageref{gradual-training}\\
+    Sharing and Aspirations \pageref{sharing-aspirations}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
   \bigskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 3}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 3}}}}\\
+\section{Set 3}
 
   \textsc{
-    \hyperref[noble-eightfold-path]{The Noble Eightfold Path} \pageref{noble-eightfold-path}\\
-    \hyperref[repulsiveness-of-food]{The Repulsiveness of Food} \pageref{repulsiveness-of-food}\\
-    \hyperref[requisites-for-awakening]{Requisites for Awakening} \pageref{requisites-for-awakening}\\
-    \hyperref[principles-of-non-decline]{Principles of Non-Decline} \pageref{principles-of-non-decline}\\
-    \hyperref[protection]{On Protection} \pageref{protection}\\
-    \hyperref[sharing-all-merits]{Sharing of All Merits} \pageref{sharing-all-merits}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    The Noble Eightfold Path \pageref{noble-eightfold-path}\\
+    The Repulsiveness of Food \pageref{repulsiveness-of-food}\\
+    Requisites for Awakening \pageref{requisites-for-awakening}\\
+    Principles of Non-Decline \pageref{principles-of-non-decline}\\
+    On Protection \pageref{protection}\\
+    Sharing of All Merits \pageref{sharing-all-merits}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-  \clearpage
-
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 4}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 4}}}}\\
+\section{Set 4}
 
   \textsc{
-    \hyperref[dedication-of-offerings]{Homage to the Triple Gem} \pageref{dedication-of-offerings}\\
-    \hyperref[universal-well-being]{Universal Well-Being} \pageref{universal-well-being}\\
-    \hyperref[seven-factors-of-awakening]{The Seven Factors of Awakening} \pageref{seven-factors-of-awakening}\\
-    \hyperref[words-on-loving-kindness]{The Buddha's Words on Loving-Kindness} \pageref{words-on-loving-kindness}\\
-    \hyperref[sharing-merits-departed]{Sharing of Merits with the Departed (Pāli-English)} \pageref{sharing-merits-departed}\\
-    \hyperref[sharing-merits-devas]{Sharing of Merits with the Devas (Pāli)} \pageref{sharing-merits-devas}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    Homage to the Triple Gem \pageref{dedication-of-offerings}\\
+    Universal Well-Being \pageref{universal-well-being}\\
+    The Seven Factors of Awakening \pageref{seven-factors-of-awakening}\\
+    The Buddha's Words on Loving-Kindness \pageref{words-on-loving-kindness}\\
+    Sharing of Merits with the Departed (Pāli-English) \pageref{sharing-merits-departed}\\
+    Sharing of Merits with the Devas (Pāli) \pageref{sharing-merits-devas}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
   \bigskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 5}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 5}}}}\\
+\section{Set 5}
 
   \textsc{
-    \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing} \pageref{mindfulness-of-breathing}\\
-    \hyperref[highest-blessings]{The Highest Blessings} \pageref{highest-blessings}\\
-    \hyperref[three-characteristics]{The Three Characteristics} \pageref{three-characteristics}\\
-    \hyperref[four-requisites]{The Four Requisites} \pageref{four-requisites}\\
-    \hyperref[five-recollections]{Five Subjects for Frequent Recollection} \pageref{five-recollections}\\
-    \hyperref[32-parts]{The Thirty-Two Body Parts} \pageref{32-parts}\\
-    \hyperref[principles-of-cordiality]{Principles of Cordiality} \pageref{principles-of-cordiality}\\
-    \hyperref[highest-honour-aspirations]{The Highest Honour and Aspirations} \pageref{highest-honour-aspirations}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    Mindfulness of Breathing \pageref{mindfulness-of-breathing}\\
+    The Highest Blessings \pageref{highest-blessings}\\
+    The Three Characteristics \pageref{three-characteristics}\\
+    The Four Requisites \pageref{four-requisites}\\
+    Five Subjects for Frequent Recollection \pageref{five-recollections}\\
+    The Thirty-Two Body Parts \pageref{32-parts}\\
+    Principles of Cordiality \pageref{principles-of-cordiality}\\
+    The Highest Honour and Aspirations \pageref{highest-honour-aspirations}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
   \bigskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 6}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 6}}}}\\
+\section{Set 6}
 
   \textsc{
-    \hyperref[anatta-lakkhana]{Anatta-Lakkhaṇa Sutta} \pageref{anatta-lakkhana}\\
-    \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma} \pageref{striving-according-to-dhamma}\\
-    \hyperref[divine-abidings]{The Divine Abidings} \pageref{divine-abidings}\\
-    \hyperref[ten-recollections]{Ten Subjects for Frequent Reflection\\ By One Gone Forth} \pageref{ten-recollections}\\
-    \hyperref[sharing-aspirations]{Sharing and Aspirations} \pageref{sharing-aspirations}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    Anatta-Lakkhaṇa Sutta \pageref{anatta-lakkhana}\\
+    Striving According to the Dhamma \pageref{striving-according-to-dhamma}\\
+    The Divine Abidings \pageref{divine-abidings}\\
+    Ten Subjects for Frequent Reflection\\ By One Gone Forth \pageref{ten-recollections}\\
+    Sharing and Aspirations \pageref{sharing-aspirations}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
   \bigskip
-  \clearpage
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 7}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 7}}}}\\
+\section{Set 7}
 
   \textsc{
-    \hyperref[dependent-origination]{Dependent Origination} \pageref{dependent-origination}\\
-    \hyperref[dhamma-in-brief]{The Dhamma in Brief} \pageref{dhamma-in-brief}\\
-    \hyperref[uddissanadhitthana]{Uddissanādhiṭṭhāna} \pageref{uddissanadhitthana}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    Dependent Origination \pageref{dependent-origination}\\
+    The Dhamma in Brief \pageref{dhamma-in-brief}\\
+    Uddissanādhiṭṭhāna \pageref{uddissanadhitthana}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
   \medskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 8}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 8}}}}\\
+\section{Set 8}
 
   \textsc{
-    \hyperref[aditta-pariyaya]{Āditta-Pariyāya Sutta} \pageref{aditta-pariyaya}\\
-    \hyperref[burdens]{The Burdens} \pageref{burdens}\\
-    \hyperref[respect-for-the-dhamma]{Respect for the Dhamma} \pageref{respect-for-the-dhamma}\\
-    \hyperref[single-excellent-night]{A Single Excellent Night} \pageref{single-excellent-night}\\
-    \hyperref[ratthapala]{From the Elder Raṭṭhapāla} \pageref{ratthapala}\\
-    \hyperref[parapariya]{From the Elder Pārāpariya} \pageref{parapariya}\\
-    \hyperref[misc-verses]{Miscellaneous Verses} \pageref{misc-verses}\\
-    \hyperref[highest-honour-aspirations]{The Highest Honour and Aspirations} \pageref{highest-honour-aspirations}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    Āditta-Pariyāya Sutta \pageref{aditta-pariyaya}\\
+    The Burdens \pageref{burdens}\\
+    Respect for the Dhamma \pageref{respect-for-the-dhamma}\\
+    A Single Excellent Night \pageref{single-excellent-night}\\
+    From the Elder Raṭṭhapāla \pageref{ratthapala}\\
+    From the Elder Pārāpariya \pageref{parapariya}\\
+    Miscellaneous Verses \pageref{misc-verses}\\
+    The Highest Honour and Aspirations \pageref{highest-honour-aspirations}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
   \medskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 9}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 9}}}}\\
+\section{Set 9}
 
   \textsc{
-    \hyperref[deva-aradhana]{Paritta Chants (Pāli)} \pageref{deva-aradhana}\\
-    \hyperref[sharing-merits-departed]{Sharing of Merits with the Departed (Pāli)} \pageref{sharing-merits-departed}\\
-    \hyperref[sharing-merits-devas]{Sharing of Merits with the Devas (Pāli)} \pageref{sharing-merits-devas}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli)}} \pageref{closing-homage}\\
+    Paritta Chants (Pāli) \pageref{deva-aradhana}\\
+    Sharing of Merits with the Departed (Pāli) \pageref{sharing-merits-departed}\\
+    Sharing of Merits with the Devas (Pāli) \pageref{sharing-merits-devas}\\
+    Closing Homage (Pāli) \pageref{closing-homage}}\\
 
   \medskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 10}}}}\\
+  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 10}}}}\\
+\section{Set 10}
 
   \textsc{
-    \hyperref[pubba-bhaga-nama-kara-patho]{Funeral Chants (Pāli)} \pageref{pubba-bhaga-nama-kara-patho}\\
-    \hyperref[recollection-impermanence]{Recollection of Impermanence} \pageref{recollection-impermanence}\\
-    \hyperref[yatha-vari-vaha-pura]{Anumodanā Chants (Pāli)} \pageref{yatha-vari-vaha-pura}\\
-    \hyperref[just-as-rivers]{Just as Rivers} \pageref{just-as-rivers}\\
-    \hyperref[sharing-all-merits]{Sharing of All Merits} \pageref{sharing-all-merits}\\
-    \hyperref[closing-homage]{Closing Homage (Pāli-English)}} \pageref{closing-homage}\\
+    Funeral Chants (Pāli) \pageref{pubba-bhaga-nama-kara-patho}\\
+    Recollection of Impermanence \pageref{recollection-impermanence}\\
+    Anumodanā Chants (Pāli) \pageref{yatha-vari-vaha-pura}\\
+    Just as Rivers \pageref{just-as-rivers}\\
+    Sharing of All Merits \pageref{sharing-all-merits}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
 \end{center}
 #+end_src
@@ -388,7 +397,7 @@ To summarize, memorization of the Dhamma and group recitation fulfill a variety 
 
 \subsection*{How to Recite}
 
-See chapter ``Pāli Phonetics \& Pronunciation'' in the Appendix\\
+See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Appendix\\
 
 \subsection*{References}
 [1] Anālayo \textit{Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context}, Canadian Journal of Buddhist Studies (2007-3)\\
@@ -400,6 +409,65 @@ See chapter ``Pāli Phonetics \& Pronunciation'' in the Appendix\\
 [4] Ṭhānissaro Bhikkhu \textit{The Buddhist Monastic Code II}, Metta Forest Monastery (2013)
 
 #+end_src
+* Abbreviations
+#+begin_src latex :tangle ./manuscript/tex/abbreviations.tex
+\chapter{Abbreviations}
+
+% \thispagestyle{empty}
+
+% {\subsectionFmt{Abbreviations used in the text}}
+% \bigskip
+
+% {\raggedright
+% \fontsize{10}{14}\selectfont
+
+\begin{center}
+\begin{tabular}{@{}lll@{}}
+  [...] & = & Only recited by the leader \\
+  \abbrbreathmark\ & = & Take a breath \\
+\end{tabular}
+
+% Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
+% P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
+
+\begin{tabular}{@{}ll@{}}
+  Vin   & Vinaya Piṭaka             \\
+  DN    & Dīgha Nikāya              \\
+  MN    & Majjhima Nikāya           \\
+  SN    & Saṁyutta Nikāya           \\
+  AN    & Aṅguttara Nikāya          \\
+  Khp   & Khuddakapāṭha             \\
+  Dhp   & Dhammapada                \\
+  Ud    & Udāna                     \\
+  Snp   & Sutta Nipāta              \\
+  Thag  & Theragāthā                \\
+  Ja    & Jātaka                    \\
+  Ps    & Paṭisambhidāmagga         \\
+  Vibh  & Abhidhamma Vibhaṅga       \\
+  A     & Aṭṭhakathā                \\
+  Dhs   & Dhammasaṅganī             \\
+  A     & Aṭṭhakathā                \\
+  A     & Aṭṭhakathā                \\
+  MJG   & Mahā-jaya-maṅgala-gāthā   \\
+  Thai  & Composed in Thailand      \\
+  Sri L & Composed in Sri Lanka     \\
+  Trad  & Tradtional Buddhist Chant \\
+\end{tabular}
+\end{center}
+
+% \bigskip
+
+% Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
+% P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
+
+% References to shorter texts consisting of verses such as the Dhammapada, Udāna,
+% Itivuttaka, Theragāthā, Therīgāthā or Sutta Nipāta are to the verse number or
+% chapter and verse number. The other longer texts are referred to by volume and
+% page number of the PTS edition.
+
+% }
+#+end_src
+
 * Homage to the Triple Gem
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
@@ -11037,42 +11105,22 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 \chapter{Appendix}
 #+end_src
 
-** The Three Refuges & Five/Eight Trainings
-*** Requesting the Three Refuges & Five/Eight Trainings
-#+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
-\section*{The Three Refuges \& Five/Eight Trainings}
-TODO center these subsections
-\subsection{Requesting the Three Refuges \& Five/Eight Trainings\pagenote{%
-This request is recited only in the Thai tradition. At SBS we start straight with “Namo tassa…”}}
-
-
-\begin{center}
-(After bowing three times, with hands joined in añjali, recite as follows)\\
-\end{center}
-
-Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
-Dutiyampi ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
-Tatiyampi ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi\\
-
-\begin{english}
-I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.\pagenote{%
-Orig: “Precepts”. The same applies to the next two lines.}\\
-For the second time, I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.\\
-For the third time, I, Venerable Sir, request the Three Refuges and the Five/Eight Trainings.
-\end{english}
-#+end_src
+** The Refuges & Trainings
 *** Undertaking the Three Refuges
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
-\subsection*{Undertaking the Three Refuges}
+\section{The Refuges \& Trainings}
+
+\subsection{Undertaking the Three Refuges}
 
 \begin{center}
-(Repeat line by line after the leader)\\
+  (Repeat line by line after the leader)\pagenote{%
+  The Thai tradtion recites ``Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi'' three times which translates to ``I, Venerable Sir, request the Three Refuges and the Five/Eight Precepts.'' before ``Namo tassa...''.}\\
 \end{center}
 
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 
 \begin{english}
-Homage to the Blessed, Worthy, and Perfectly Enlightened One \hfill{[3x]}\\
+  Homage to the Blessed, Worthy, and Perfectly Enlightened One \hfill{[3x]}\\
 \end{english}
 
 Buddhaṁ saraṇaṁ gacchāmi\\
@@ -11080,9 +11128,9 @@ Dhammaṁ saraṇaṁ gacchāmi\\
 Saṅghaṁ saraṇaṁ gacchāmi\\
 
 \begin{english}
-To the Buddha I go for refuge\\
-To the Dhamma I go for refuge\\
-To the Saṅgha I go for refuge.\\
+  To the Buddha I go for refuge\\
+  To the Dhamma I go for refuge\\
+  To the Saṅgha I go for refuge.\\
 \end{english}
 
 Dutiyampi buddhaṁ saraṇaṁ gacchāmi\\
@@ -11090,9 +11138,9 @@ Dutiyampi dhammaṁ saraṇaṁ gacchāmi\\
 Dutiyampi saṅghaṁ saraṇaṁ gacchāmi\\
 
 \begin{english}
-For the second time, to the Buddha I go for refuge\\
-For the second time, to the Dhamma I go for refuge\\
-For the second time, to the Saṅgha I go for refuge.\\
+  For the second time, to the Buddha I go for refuge\\
+  For the second time, to the Dhamma I go for refuge\\
+  For the second time, to the Saṅgha I go for refuge.\\
 \end{english}
 
 Tatiyampi buddhaṁ saraṇaṁ gacchāmi\\
@@ -11100,30 +11148,30 @@ Tatiyampi dhammaṁ saraṇaṁ gacchāmi\\
 Tatiyampi saṅghaṁ saraṇaṁ gacchāmi\\
 
 \begin{english}
-For the third time, to the Buddha I go for refuge.\\
-For the third time, to the Dhamma I go for refuge.\\
-For the third time, to the Saṅgha I go for refuge.\\
+  For the third time, to the Buddha I go for refuge.\\
+  For the third time, to the Dhamma I go for refuge.\\
+  For the third time, to the Saṅgha I go for refuge.\\
 \end{english}
 
 Leader: Tisaraṇa-gamanaṁ niṭṭhitaṁ\\
 
 \begin{english}
-This completes the going to the Three Refuges.\\
+  This completes the going to the Three Refuges.\\
 \end{english}
 
 Response: Āma bhante\\
 
 \begin{english}
-Yes, Venerable Sir.\\
+  Yes, Venerable Sir.\\
 \end{english}
 
 \begin{center}
-(Bow three times)\\
+  (Bow three times)\\
 \end{center}
 #+end_src
 *** Undertaking the Five Trainings
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
-\subsection*{Undertaking the Five Trainings}
+\subsection{Undertaking the Five Trainings}
 
 \begin{center}
   (To undertake the trainings, repeat each training after the leader)\\
@@ -11177,7 +11225,7 @@ Response: Sādhu, sādhu, sādhu\\
 #+end_src
 *** Undertaking the Eight Trainings
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
-\subsection*{Undertaking the Eight Trainings}
+\subsection{Undertaking the Eight Trainings}
 
 \begin{center}
   (To undertake the trainings, repeat each training after the leader)\\
@@ -11262,6 +11310,7 @@ Response: Sādhu, sādhu, sādhu\\
 ** Pāli Phonetics & Pronunciation
 #+begin_src latex :tangle ./manuscript/tex/phonetics-pronunciation.tex
 \section{Pāli Phonetics and Pronunciation}
+\label{phonetics}
 TODO title here is wonky
 TODO Insert graph here
 % \includegraphics[width=0.5\textwidth]{./assets/photos/warder-pali-alphabet-table/Warder Pali Alphabet Table.png}
@@ -11382,62 +11431,4 @@ The above points and principles are meant to function as a guideline for aspirin
 \begin{justify}
 Thanks to all Saṅgha members who are willing to share this meaningful task among themselves, by taking turns as chanting leaders.
 \end{justify}
-#+end_src
-** Abbreviations
-#+begin_src latex :tangle ./manuscript/tex/abbreviations.tex
-\section{Abbreviations}
-
-% \thispagestyle{empty}
-
-% {\subsectionFmt{Abbreviations used in the text}}
-% \bigskip
-
-% {\raggedright
-% \fontsize{10}{14}\selectfont
-
-\begin{center}
-\begin{tabular}{@{}lll@{}}
-  [...] & = & Only recited by the leader \\
-  \breathmark\ & = & Take a breath \\
-\end{tabular}
-
-% Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
-% P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
-
-\begin{tabular}{@{}ll@{}}
-  Vin   & Vinaya Piṭaka           \\
-  DN    & Dīgha Nikāya            \\
-  MN    & Majjhima Nikāya         \\
-  SN    & Saṁyutta Nikāya         \\
-  AN    & Aṅguttara Nikāya        \\
-  Khp   & Khuddakapāṭha           \\
-  Dhp   & Dhammapada              \\
-  Ud    & Udāna                   \\
-  Snp   & Sutta Nipāta            \\
-  Thag  & Theragāthā              \\
-  Ja    & Jātaka                  \\
-  Ps    & Paṭisambhidāmagga       \\
-  Vibh  & Abhidhamma Vibhaṅga     \\
-  A     & Aṭṭhakathā              \\
-  Dhs   & Dhammasaṅganī           \\
-  A     & Aṭṭhakathā              \\
-  A     & Aṭṭhakathā              \\
-  MJG   & Mahā-jaya-maṅgala-gāthā \\
-  Thai  & Composed...             \\
-  Sri L & Composed...             \\
-  Trad  & Tradtional...           \\
-\end{tabular}
-\end{center}
-
-% \bigskip
-
-% Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
-% P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
-
-% References to shorter texts consisting of verses such as the Dhammapada, Udāna,
-% Itivuttaka, Theragāthā, Therīgāthā or Sutta Nipāta are to the verse number or
-% chapter and verse number. The other longer texts are referred to by volume and
-% page number of the PTS edition.
-
-% }
 #+end_src

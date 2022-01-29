@@ -172,34 +172,6 @@
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
 ]{LibertinusSerif-Regular.otf}
 
-\newfontfamily\crimsonRomanFont[
-  SmallCapsFeatures= { LetterSpace = 0.2 },
-  BoldFont = Crimson-Semibold.otf,
-  ItalicFont = Crimson-Italic.otf,
-]{Crimson-Roman.otf}
-
-\newfontfamily\crimsonRomanFontOldNum[
-  Numbers = OldStyle,
-]{Crimson-Roman.otf}
-
-\newfontfamily\gentiumFont[
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
-
-\newfontfamily\sansFont[
-  ItalicFont = NunitoSans-Italic.ttf,
-  BoldFont = NunitoSans-Bold.ttf,
-  BoldItalicFont = NunitoSans-BoldItalic.ttf,
-]{NunitoSans-Regular.ttf}
-
-\newfontfamily\sansLightFont[
-  ItalicFont = NunitoSans-LightItalic.ttf,
-  BoldFont = NunitoSans-SemiBold.ttf,
-  BoldItalicFont = NunitoSans-SemiBoldItalic.ttf,
-]{NunitoSans-Light.ttf}
-
 \newfontfamily\libertinusFont[
   ItalicFont = LibertinusSerif-Italic.otf,
   BoldFont = LibertinusSerif-Bold.otf,
@@ -285,9 +257,7 @@
 \RequirePackage[final,babel=true]{microtype}
 
 % Tracking for uppercase section heading
-\SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
 \SetTracking[spacing={400,100,}]{encoding=*, family={LibertinusSerif-Regular.otf}}{20}
-\SetTracking[spacing={600,100,}]{encoding=*, family={NunitoSans-Light.ttf}}{70}
 
 % === hyperref ===
 
@@ -508,7 +478,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\speakerName[1]{%
   % The hangindent only works with alternating speakers.
   %\par\hangindent=1pc%
-  {\color[gray]{0.25}\crimsonRomanFont\scshape\MakeLowercase{#1}}\quad}
+  {\color[gray]{0.25}\libertinusFont\scshape\MakeLowercase{#1}}\quad}
 
 \newlength\qw
 \setlength\qw{17pt}% same as parindent for smallpage
@@ -798,7 +768,7 @@ philo-sophical munindo amaravati thai-land}
   \par%
   {%
     \centering%
-    \gentiumFont%
+    \libertinusFont%
     \fontsize{20}{20}\selectfont%
     \color[gray]{0.7}%
     *\quad*\quad*%
@@ -824,6 +794,11 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\breathmark{%
   \raisebox{-0.10\baselineskip}{\fontsize{18}{18}\bfseries\symbol{"2019}}%
+ }
+
+% Same character as above but lowered for better diplay in abbreviations chapter.
+\newcommand\abbrbreathmark{%
+  \raisebox{-0.65em}{\fontsize{24}{8}\bfseries\symbol{"2019}}%
  }
 
 % A mark indicating a pause, using the middle dot (U+00B7).
@@ -1102,7 +1077,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand{\tocEnglishTitleFmt}[1]{%
   {%
-    \gentiumFont\tocSectionSize\itshape\selectfont%
+    \libertinusFont\tocSectionSize\itshape\selectfont%
     \hspace*{\tocLeftWidth}\hspace*{5em}%
     #1%
     \par
@@ -1149,7 +1124,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{section}[\tocLeftWidth]
 {\addvspace{3pt}%
-\gentiumFont\tocSectionSize}%
+\libertinusFont\tocSectionSize}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel\space%
@@ -1157,11 +1132,11 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\gentiumFont\tocSectionSize\thecontentspage}
+{\hfill\libertinusFont\tocSectionSize\thecontentspage}
 
 \titlecontents{subsection}[\tocLeftWidth]
 {\addvspace{3pt}%
-\gentiumFont\tocSectionSize}%
+\libertinusFont\tocSectionSize}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel\space%
@@ -1169,10 +1144,10 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
   \itshape}
-{\hfill\gentiumFont\tocSectionSize\thecontentspage}
+{\hfill\libertinusFont\tocSectionSize\thecontentspage}
 
 \titlecontents{subsubsection}[\tocLeftWidth]
-{\gentiumFont\itshape\tocSectionSize}%
+{\libertinusFont\itshape\tocSectionSize}%
 {%
   \contentsmargin{0pt}%
   \hspace*{5em}%
@@ -1182,7 +1157,7 @@ philo-sophical munindo amaravati thai-land}
   \hspace*{5em}%
   \itshape%
 }%
-{\hfill\gentiumFont\tocSectionSize\upshape\selectfont\thecontentspage}
+{\hfill\libertinusFont\tocSectionSize\upshape\selectfont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
@@ -1216,14 +1191,14 @@ philo-sophical munindo amaravati thai-land}
   \contentsmargin{\tocPageWidth}%
   \filright%
 }%
-{\gentiumFont\tocSectionSize}%
+{\libertinusFont\tocSectionSize}%
 {}%
 {%
   \hspace*{5pt}%
   \small\color{black!60}%
   \titlerule*[8pt]{.}%
   \parbox{\tocPageWidth}{%
-    \raggedleft\gentiumFont\tocSectionSize
+    \raggedleft\libertinusFont\tocSectionSize
     \thecontentspage}%
   \hspace*{-\tocPageWidth}%
 }%
@@ -1463,7 +1438,7 @@ philo-sophical munindo amaravati thai-land}
 
 \setsechook{%
   % New page for each section.
-  \clearpage%
+  %\clearpage%
   % Empty the default section number printing, so that we can handle it.
   \setsecnumformat{}%
 }
@@ -1582,6 +1557,7 @@ philo-sophical munindo amaravati thai-land}
   }%
 }
 
+\setsecheadstyle{\chapterFmt}
 \setsecheadstyle{\sectionFmt}
 \setsubsecheadstyle{\subsectionFmt}
 \setsubsubsecheadstyle{\subsubsectionFmt}
