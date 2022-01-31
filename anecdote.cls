@@ -168,13 +168,13 @@
 
 \setmainfont[
   ItalicFont = LibertinusSerif-Italic.otf,
-  BoldFont = LibertinusSerif-Bold.otf,
+  BoldFont = LibertinusSerifX-Bold.ttf,
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
 ]{LibertinusSerif-Regular.otf}
 
 \newfontfamily\libertinusFont[
   ItalicFont = LibertinusSerif-Italic.otf,
-  BoldFont = LibertinusSerif-Bold.otf,
+  BoldFont = LibertinusSerifX-Bold.ttf,
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
 ]{LibertinusSerif-Regular.otf}
 
