@@ -1438,7 +1438,7 @@ philo-sophical munindo amaravati thai-land}
 
 \setsechook{%
   % New page for each section.
-  %\clearpage%
+  \clearpage%
   % Empty the default section number printing, so that we can handle it.
   \setsecnumformat{}%
 }
@@ -1557,7 +1557,6 @@ philo-sophical munindo amaravati thai-land}
   }%
 }
 
-\setsecheadstyle{\chapterFmt}
 \setsecheadstyle{\sectionFmt}
 \setsubsecheadstyle{\subsectionFmt}
 \setsubsubsecheadstyle{\subsubsectionFmt}

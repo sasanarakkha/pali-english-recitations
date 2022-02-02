@@ -27,6 +27,10 @@
 ** TODO add set section titles to schedule
 ** TODO remove blank pages from digital pdf (altough I don't think necessary)
 
+** TODO add set section titles to schedule
+** TODO endnotes link back, use arrow, light gray, smaller size
+** TODO remove occurences of other fonts in anecdote.cls
+
 
 * Table of Contents :toc:
 - [[#task-list][Task List]]
@@ -45,6 +49,9 @@
   - [[#add-toc-to-index][add ToC to Index]]
   - [[#add-set-section-titles-to-schedule][add set section titles to schedule]]
   - [[#remove-blank-pages-from-digital-pdf-altough-i-dont-think-necessary][remove blank pages from digital pdf (altough I don't think necessary)]]
+  - [[#add-set-section-titles-to-schedule-1][add set section titles to schedule]]
+  - [[#endnotes-link-back-use-arrow-light-gray-smaller-size][endnotes link back, use arrow, light gray, smaller size]]
+  - [[#remove-occurences-of-other-fonts-in-anecdotecls][remove occurences of other fonts in anecdote.cls]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
 - [[#abbreviations][Abbreviations]]
@@ -166,7 +173,7 @@
 
   % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 1}}}}\\
 \setsecheadstyle{\subsectionFmt}
-\section{Set 1}
+% \section{Set 1}
 
   \textsc{
     The Buddha's First Exclamation \pageref{buddhas-first-exclamation}\\
