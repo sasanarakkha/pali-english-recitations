@@ -825,18 +825,7 @@ philo-sophical munindo amaravati thai-land}
 %   \end{minipage}%
 % }
 
-\newcommand\bottomNav[1]{%
-  \vfill
-  \begin{minipage}{\linewidth}%
-    \centering
-    \hyperref[contents]{%
-    \textbf{\textsc{\textls*{Contents}}}}%\hspace*{1em}%
-    \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
-    \hyperref[#1]{\textbf{\textsc{\textls*{Next}}}}\hspace*{1em}%
-  \end{minipage}%
-}
-% TODO: brackets off somewhere but not breaking build
-% glossary as item list
+% WHERE \bottomNav WAS!!!
 
 \newenvironment{glossarydescription}%
 {\list{}{%
@@ -1716,3 +1705,15 @@ philo-sophical munindo amaravati thai-land}
 % 'symbol*' option.
 \DefineFNsymbols{anecdote}{*{**}{***}}
 \setfnsymbol{anecdote}
+
+% Moved here to avoid throwing off brackets even though there is no real error
+\newcommand\bottomNav[1]{%
+  \vfill
+  \begin{minipage}{\linewidth}%
+    \centering
+    \hyperref[contents]{%
+    \textbf{\textsc{\textls*{Contents}}}}%\hspace*{1em}%
+    \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
+    \hyperref[#1]{\textbf{\textsc{\textls*{Next}}}}\hspace*{1em}%
+  \end{minipage}%
+}
