@@ -8,50 +8,53 @@
 - read chapter 12, memoir documentation
 ** TODO notes hyperlink back to location
 - follow the example on endnote 2
-** TODO endnotes log (in the back) has random indentation for some notes
-- because of justification
 ** TODO solve hangindent, perhaps manually by line
 - copy environemnts
 ** TODO make conditionals to remeove digital assets for print
 ** TODO make page number conditional for schedule
 - in main.tex comment out 'desktopVersion'
 ** TODO keep orphan with previous text, use mbox?
-** TODO is the suttaRef too close?
 ** TODO anumodana, paritta, and funeral sections don't need page break before next title
 ** TODO change spacing in ToC to match original
 ** TODO even though numbering removed, chapter page still has "0."
 ** TODO ask Bhante about headers
 - move number to bottom middle
 - see telegram
-** TODO add ToC to Index
-** TODO add set section titles to schedule
+** TODO ToC - Schedule -- Set : Make remove clear page from this section
 ** TODO remove blank pages from digital pdf (altough I don't think necessary)
 
-** TODO add set section titles to schedule
 ** TODO endnotes link back, use arrow, light gray, smaller size
 ** TODO remove occurences of other fonts in anecdote.cls
 
+** TODO Read chat with Bhante for other TODOs
+** TODO remove '0.' in front of chapters
+** TODO remove other fonts from source files
+** TODO document anecdote and local
+** TODO remove unused styles
+** TODO \phantomsection to english sharing and aspiration to provide link
 
 * Table of Contents :toc:
 - [[#task-list][Task List]]
   - [[#make-notes-lines-closer][make notes lines closer]]
   - [[#notes-hyperlink-back-to-location][notes hyperlink back to location]]
-  - [[#endnotes-log-in-the-back-has-random-indentation-for-some-notes][endnotes log (in the back) has random indentation for some notes]]
   - [[#solve-hangindent-perhaps-manually-by-line][solve hangindent, perhaps manually by line]]
   - [[#make-conditionals-to-remeove-digital-assets-for-print][make conditionals to remeove digital assets for print]]
   - [[#make-page-number-conditional-for-schedule][make page number conditional for schedule]]
   - [[#keep-orphan-with-previous-text-use-mbox][keep orphan with previous text, use mbox?]]
-  - [[#is-the-suttaref-too-close][is the suttaRef too close?]]
   - [[#anumodana-paritta-and-funeral-sections-dont-need-page-break-before-next-title][anumodana, paritta, and funeral sections don't need page break before next title]]
   - [[#change-spacing-in-toc-to-match-original][change spacing in ToC to match original]]
   - [[#even-though-numbering-removed-chapter-page-still-has-0][even though numbering removed, chapter page still has "0."]]
   - [[#ask-bhante-about-headers][ask Bhante about headers]]
-  - [[#add-toc-to-index][add ToC to Index]]
-  - [[#add-set-section-titles-to-schedule][add set section titles to schedule]]
+  - [[#toc---schedule----set--make-remove-clear-page-from-this-section][ToC - Schedule -- Set : Make remove clear page from this section]]
   - [[#remove-blank-pages-from-digital-pdf-altough-i-dont-think-necessary][remove blank pages from digital pdf (altough I don't think necessary)]]
-  - [[#add-set-section-titles-to-schedule-1][add set section titles to schedule]]
   - [[#endnotes-link-back-use-arrow-light-gray-smaller-size][endnotes link back, use arrow, light gray, smaller size]]
   - [[#remove-occurences-of-other-fonts-in-anecdotecls][remove occurences of other fonts in anecdote.cls]]
+  - [[#read-chat-with-bhante-for-other-todos][Read chat with Bhante for other TODOs]]
+  - [[#remove-0-in-front-of-chapters][remove '0.' in front of chapters]]
+  - [[#remove-other-fonts-from-source-files][remove other fonts from source files]]
+  - [[#document-anecdote-and-local][document anecdote and local]]
+  - [[#remove-unused-styles][remove unused styles]]
+  - [[#phantomsection-to-english-sharing-and-aspiration-to-provide-link][\phantomsection to english sharing and aspiration to provide link]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
 - [[#abbreviations][Abbreviations]]
@@ -169,11 +172,13 @@
 \chapter{Recitation Schedule}
 \label{schedule}
 
-\begin{center}
+{\centering
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 1}}}}\\
-\setsecheadstyle{\subsectionFmt}
-% \section{Set 1}
+  % \setsecheadstyle{\subsectionFmt}
+  % \section*{Set 1}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 1}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 1}
 
   \textsc{
     The Buddha's First Exclamation \pageref{buddhas-first-exclamation}\\
@@ -185,10 +190,12 @@
     Uddissanādhiṭṭhāna \pageref{uddissanadhitthana}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}
 
-  \bigskip
+  % \bigskip
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 2}}}}\\
-  \section{Set 2}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 2}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 2}
+
 
   \textsc{
     The Discourse on the Characteristic of Not-Self \pageref{characteristic-of-not-self}\\
@@ -197,10 +204,11 @@
     Sharing and Aspirations \pageref{sharing-aspirations}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-  \bigskip
+  % \bigskip
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 3}}}}\\
-\section{Set 3}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 3}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 3}
 
   \textsc{
     The Noble Eightfold Path \pageref{noble-eightfold-path}\\
@@ -211,8 +219,8 @@
     Sharing of All Merits \pageref{sharing-all-merits}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 4}}}}\\
-\section{Set 4}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 4}}}}\\
+  \addcontentsline{toc}{section}{Set 4}
 
   \textsc{
     Homage to the Triple Gem \pageref{dedication-of-offerings}\\
@@ -223,10 +231,11 @@
     Sharing of Merits with the Devas (Pāli) \pageref{sharing-merits-devas}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-  \bigskip
+  % \bigskip
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 5}}}}\\
-\section{Set 5}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 5}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 5}
 
   \textsc{
     Mindfulness of Breathing \pageref{mindfulness-of-breathing}\\
@@ -239,10 +248,11 @@
     The Highest Honour and Aspirations \pageref{highest-honour-aspirations}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-  \bigskip
+  % \bigskip
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 6}}}}\\
-\section{Set 6}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 6}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 6}
 
   \textsc{
     Anatta-Lakkhaṇa Sutta \pageref{anatta-lakkhana}\\
@@ -252,10 +262,11 @@
     Sharing and Aspirations \pageref{sharing-aspirations}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-  \bigskip
+  % \bigskip
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 7}}}}\\
-\section{Set 7}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 7}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 7}
 
   \textsc{
     Dependent Origination \pageref{dependent-origination}\\
@@ -263,10 +274,11 @@
     Uddissanādhiṭṭhāna \pageref{uddissanadhitthana}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-  \medskip
+  % \medskip
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 8}}}}\\
-\section{Set 8}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 8}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 8}
 
   \textsc{
     Āditta-Pariyāya Sutta \pageref{aditta-pariyaya}\\
@@ -279,10 +291,11 @@
     The Highest Honour and Aspirations \pageref{highest-honour-aspirations}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-  \medskip
+  % \medskip
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 9}}}}\\
-\section{Set 9}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 9}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 9}
 
   \textsc{
     Paritta Chants (Pāli) \pageref{deva-aradhana}\\
@@ -290,10 +303,11 @@
     Sharing of Merits with the Devas (Pāli) \pageref{sharing-merits-devas}\\
     Closing Homage (Pāli) \pageref{closing-homage}}\\
 
-  \medskip
+  % \medskip
 
-  % {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 10}}}}\\
-\section{Set 10}
+  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 10}}}}\\
+  \phantomsection
+  \addcontentsline{toc}{section}{Set 10}
 
   \textsc{
     Funeral Chants (Pāli) \pageref{pubba-bhaga-nama-kara-patho}\\
@@ -303,7 +317,9 @@
     Sharing of All Merits \pageref{sharing-all-merits}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
-\end{center}
+}
+
+% \end{center}
 #+end_src
 
 * The Purpose and Benefits of Dhamma Recitation
@@ -8005,7 +8021,7 @@ But since consciousness is not-self \breathmark\ it leads to affliction \breathm
 \end{english-only-hang}
 % TODO this style has no left indent
 \begin{english-only-nohang}
-Bhikkhus what do you think:] ``Is form permanent or impermanent?''\\
+[Bhikkhus what do you think:] ``Is form permanent or impermanent?''\\
 
 ``Impermanent venerable Sir.''\\
 
@@ -10804,6 +10820,8 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 \bottomNav{closing-homage}
 
 \clearpage
+
+\phantomsection
 
 \begin{leader-english}
   〈 \label{sharing-aspirations} Now let us recite the verses of sharing and aspiration 〉
