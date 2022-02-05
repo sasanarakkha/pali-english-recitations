@@ -21,8 +21,8 @@
 - move number to bottom middle
 - see telegram
 ** TODO ToC - Schedule -- Set : Make remove clear page from this section
-** TODO remove blank pages from digital pdf (altough I don't think necessary)
-
+** TODO remove blank pages from digital pdf
+- I don't find this necessary unless there is clearly too many pages in one place
 ** TODO endnotes link back, use arrow, light gray, smaller size
 ** TODO remove occurences of other fonts in anecdote.cls
 
@@ -31,7 +31,11 @@
 ** TODO remove other fonts from source files
 ** TODO document anecdote and local
 ** TODO remove unused styles
-** TODO \phantomsection to english sharing and aspiration to provide link
+** TODO remove Set 1...10 from actual ToC but not links
+- perhaps leave in for digital version and remove for printing
+** TODO how to add parameters to "desktopVersion" to toggle on/off certain features
+** TODO ToC needs change in vertical spacing and indentation
+** TODO bottom margin is quite small -- something changed
 
 * Table of Contents :toc:
 - [[#task-list][Task List]]
@@ -46,7 +50,7 @@
   - [[#even-though-numbering-removed-chapter-page-still-has-0][even though numbering removed, chapter page still has "0."]]
   - [[#ask-bhante-about-headers][ask Bhante about headers]]
   - [[#toc---schedule----set--make-remove-clear-page-from-this-section][ToC - Schedule -- Set : Make remove clear page from this section]]
-  - [[#remove-blank-pages-from-digital-pdf-altough-i-dont-think-necessary][remove blank pages from digital pdf (altough I don't think necessary)]]
+  - [[#remove-blank-pages-from-digital-pdf][remove blank pages from digital pdf]]
   - [[#endnotes-link-back-use-arrow-light-gray-smaller-size][endnotes link back, use arrow, light gray, smaller size]]
   - [[#remove-occurences-of-other-fonts-in-anecdotecls][remove occurences of other fonts in anecdote.cls]]
   - [[#read-chat-with-bhante-for-other-todos][Read chat with Bhante for other TODOs]]
@@ -54,7 +58,10 @@
   - [[#remove-other-fonts-from-source-files][remove other fonts from source files]]
   - [[#document-anecdote-and-local][document anecdote and local]]
   - [[#remove-unused-styles][remove unused styles]]
-  - [[#phantomsection-to-english-sharing-and-aspiration-to-provide-link][\phantomsection to english sharing and aspiration to provide link]]
+  - [[#remove-set-110-from-actual-toc-but-not-links][remove Set 1...10 from actual ToC but not links]]
+  - [[#how-to-add-parameters-to-desktopversion-to-toggle-onoff-certain-features][how to add parameters to "desktopVersion" to toggle on/off certain features]]
+  - [[#toc-needs-change-in-vertical-spacing-and-indentation][ToC needs change in vertical spacing and indentation]]
+  - [[#bottom-margin-is-quite-small----something-changed][bottom margin is quite small -- something changed]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
 - [[#abbreviations][Abbreviations]]
@@ -174,8 +181,6 @@
 
 {\centering
 
-  % \setsecheadstyle{\subsectionFmt}
-  % \section*{Set 1}
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 1}}}}\\
   \phantomsection
   \addcontentsline{toc}{section}{Set 1}
@@ -204,6 +209,7 @@
     Sharing and Aspirations \pageref{sharing-aspirations}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
+  \clearpage
   % \bigskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 3}}}}\\
@@ -231,6 +237,7 @@
     Sharing of Merits with the Devas (Pāli) \pageref{sharing-merits-devas}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
+  \clearpage
   % \bigskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 5}}}}\\
@@ -262,6 +269,7 @@
     Sharing and Aspirations \pageref{sharing-aspirations}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
+  \clearpage
   % \bigskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 7}}}}\\
@@ -291,6 +299,7 @@
     The Highest Honour and Aspirations \pageref{highest-honour-aspirations}\\
     Closing Homage (Pāli-English) \pageref{closing-homage}}\\
 
+  \clearpage
   % \medskip
 
   {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 9}}}}\\
