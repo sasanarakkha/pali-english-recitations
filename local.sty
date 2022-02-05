@@ -21,6 +21,7 @@
 \setlength{\parskip}{5pt}
 \setlength{\parindent}{0pt}
 
+% 'Handa mayaṁ...``
 \newenvironment{leader}%
 {\list{}{%
     \parskip 6pt%
@@ -33,6 +34,7 @@
   \item[] \centering}%
 {\endlist}
 
+% 'Now let us...'
 \newenvironment{leader-english}%
 {\list{}{%
     \parskip 6pt%
@@ -59,280 +61,234 @@
   {\centering\instrFmt #1\par}%
 }
 
-\newenvironment{paritta}%
-  {\list{}{%
-    \topsep 0pt
-    \parskip 0pt
-    \partopsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    1.5em% \leaderIndent, but keep it a separate value
-    \rightmargin   0em%
-    \parsep        7pt%
-  }%
-  \item[] \raggedright}%
-  {\endlist}
+% \newenvironment{paritta}%
+% {\list{}{%
+%     \topsep 0pt
+%     \parskip 0pt
+%     \partopsep 0pt
+%     \listparindent 0em%
+%     \itemindent    0em%
+%     \leftmargin    1.5em% \leaderIndent, but keep it a separate value
+%     \rightmargin   0em%
+%     \parsep        7pt%
+%   }%
+%   \item[] \raggedright}%
+% {\endlist}
 
-% FIXME: use ltablex package and tabularx to break tables across pages
-
-% \newenvironment{twochants}%
-%  {\list{}{%
-%    \topsep 0pt
-%    \listparindent 0em%
-%    \itemindent    0em%
-%    \leftmargin    0em%
-%    \rightmargin   0em%
-%    \fontsize{12}{10}\selectfont
-%    \parsep        0pt%
-%  }%
-%  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
-%  \begin{tabular}{@{}l l@{}}}%
-%  {\end{tabular}\endlist}
-
+% Used throughout the Verses chapter and other chants that are separated by a hyphen
 \newenvironment{twochants}%
-  {\begin{tabular}{@{}l l@{}}}%
-  {\end{tabular}}
+{\begin{tabular}{@{}l l@{}}}%
+   {\end{tabular}}
 
-\newenvironment{onechants}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    0em%
-    \rightmargin   0em%
-    \parsep        0pt%
-  }%
-  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
-  \begin{tabular}{@{}l@{}}}%
-  {\end{tabular}\endlist}
+% For English passages that are preceeded by Pāli, remains closer to the preceeding Pāli
+ \newenvironment{english}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    1em%\leaderindent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        -8.5em %\z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-\newenvironment{threechants}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    0em%
-    \rightmargin   0em%
-    \parsep        0pt%
-  }%
-  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
-  \begin{tabular}{@{}l l l@{}}}%
-  {\end{tabular}\endlist}
+ % For chants like 'The Highest Blessings' which are English only and therfore don't need left margin indentation
+ \newenvironment{english-only}%
+ {\list{}{%
+     % \parskip       8pt
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    0em%\leaderindent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     % \parsep        %\z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-\newenvironment{solotwochants}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    0em%
-    \rightmargin   0em%
-    \parsep        0pt%
-  }%
-  \item[] \renewcommand{\arraystretch}{1}%
-  \begin{tabular}{@{}l l@{}}}%
-  {\end{tabular}\endlist}
+% For chants like 'The Gradual Training' which are English only yet need to be justified
+ \newenvironment{english-only-justify}%
+ {\list{}{%
+     % \parskip       8pt
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    0em%\leaderindent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     % \parsep        %\z@ \@plus\p@%
+   }%
+   \item[] \justify\itshape}%
+ {\endlist}
 
-\newenvironment{soloonechants}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    0em%
-    \rightmargin   0em%
-    \parsep        0pt%
-  }%
-  \item[] \renewcommand{\arraystretch}{1}%
-  \begin{tabular}{@{}l@{}}}%
-  {\end{tabular}\endlist}
+ % For an English line that is too long to fit on one line and thus needs its continuation to be hang indented
+ \newenvironment{english-hang}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    1.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{16}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-\newenvironment{instruction}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    \leaderIndent
-    \rightmargin   0em%
-    \parsep        \z@ \@plus\p@%
-  }%
-  \item[] \begingroup
-    \raggedright\instrFmt
-  }%
-  {\endgroup\endlist}
+% Enables an English line to hang that is sandwiched within a paragraph
+ \newenvironment{english-hangtogether}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+     \parskip       -16pt
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-\newenvironment{english}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    1em%\leaderindent%
-    \rightmargin   0em%
-    \fontsize{12}{18}\selectfont
-    \parsep        -8.5em %\z@ \@plus\p@%
-  }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+ % Wraps around the `english-hangtogether` environment to allow the middle hang indent to keep congruent spacing
+ \newenvironment{english-keepwith}%
+ {\list{}{%
+     \topsep 0pt
+     \partopsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    1em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-  \newenvironment{english-only}%
-  {\list{}{%
-    % \parskip       8pt
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    0em%\leaderindent%
-    \rightmargin   0em%
-    \fontsize{12}{18}\selectfont
-    % \parsep        %\z@ \@plus\p@%
-  }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+% For singular English lines that need hang indentation
+ \newenvironment{english-only-hang}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-  \newenvironment{english-only-justify}%
-  {\list{}{%
-    % \parskip       8pt
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    0em%\leaderindent%
-    \rightmargin   0em%
-    \fontsize{12}{18}\selectfont
-    % \parsep        %\z@ \@plus\p@%
-  }%
-  \item[] \justify\itshape}%
-  {\endlist}
+% TODO - figure difference
+% ??? Similar to keepwith, wraps around `english-hangtogether` though I'm not sure difference ATM
+ \newenvironment{english-only-nohang}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    -1.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{17}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-\newenvironment{english-hang}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    -0.5em%
-    \leftmargin    1.5em %\leaderIndent%
-    \rightmargin   0em%
-    \fontsize{12}{16}\selectfont
-    \parsep        \z@ \@plus\p@%
-  }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+% Used with with Pāli verses and parittas
+ \newenvironment{english-verses}%
+ {\list{}{%
+     \partopsep 0pt
+     \topsep 4pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    \leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-\newenvironment{english-hangtogether}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    -0.5em%
-    \leftmargin    0.5em %\leaderIndent%
-    \rightmargin   0em%
-    \fontsize{12}{18}\selectfont
-    \parsep        \z@ \@plus\p@%
-    \parskip       -16pt
-  }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+ \newenvironment{cprenglish}%
+ {\list{}{%
+     \partopsep 0pt
+     \topsep -10pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    \leaderIndent%
+     \rightmargin   0em%
+     % \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-  \newenvironment{english-keepwith}%
-  {\list{}{%
-    \topsep 0pt
-    \partopsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    1em %\leaderIndent%
-    \rightmargin   0em%
-    \fontsize{12}{18}\selectfont
-    \parsep        \z@ \@plus\p@%
-  }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+ \newenvironment{packedenglish}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    \packedLeaderIndent%
+     \rightmargin   0em%
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
-% For English only chants which don't need indentation
-\newenvironment{english-only-hang}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    -0.5em%
-    \leftmargin    0em %\leaderIndent%
-    \rightmargin   0em%
-    \fontsize{12}{18}\selectfont
-    \parsep        \z@ \@plus\p@%
-  }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+ \newenvironment{pali-hang}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em %2.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{16}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright}%
+ {\endlist}
 
-\newenvironment{english-only-nohang}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    -1.5em %\leaderIndent%
-    \rightmargin   0em%
-    \fontsize{12}{17}\selectfont
-    \parsep        \z@ \@plus\p@%
-  }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+% Enables a line to hang that is sandwiched within a paragraph
+ \newenvironment{pali-hangtogether}%
+ {\list{}{%
+     \topsep -8pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em %2.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{16}\selectfont
+     \parsep        -8pt %\z@ \@plus\p@%
+   }%
+   \item[] \raggedright}%
+ {\endlist}
 
+% ==== Endnotes ==== %
 
-\newenvironment{english-verses}%
-  {\list{}{%
-      \partopsep 0pt
-      \topsep 4pt
-      \listparindent 0em%
-      \itemindent    0em%
-      \leftmargin    \leaderIndent%
-      \rightmargin   0em%
-      \fontsize{12}{18}\selectfont
-      \parsep        \z@ \@plus\p@%
-    }%
-    \item[] \raggedright\itshape}%
-  {\endlist}
+% \renewcommand{\prenoteinnotes}{\par\noindent\hangindent 1.6em}
+% \renewcommand{\postnoteinnotes}{\noindent\parskip -2em}
 
-\newenvironment{cprenglish}%
-  {\list{}{%
-      \partopsep 0pt
-      \topsep -10pt
-      \listparindent 0em%
-      \itemindent    0em%
-      \leftmargin    \leaderIndent%
-      \rightmargin   0em%
-      % \parsep        \z@ \@plus\p@%
-    }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+% \renewcommand\prenotetext{\begingroup\fontsize{12pt}{6pt}\selectfont}
+% \renewcommand\postnotetext{\endgroup\setlength{\parskip}{-4em}}
 
-\newenvironment{packedenglish}%
-  {\list{}{%
-      \topsep 0pt
-      \listparindent 0em%
-      \itemindent    0em%
-      \leftmargin    \packedLeaderIndent%
-      \rightmargin   0em%
-      \parsep        \z@ \@plus\p@%
-    }%
-  \item[] \raggedright\itshape}%
-  {\endlist}
+% \renewcommand{\prenoteinnotes}{\par\noindent}
+% \renewcommand{\postnoteinnotes}{\par}
 
-\newenvironment{pali-hang}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    -0.5em%
-    \leftmargin    0.5em %2.5em %\leaderIndent%
-    \rightmargin   0em%
-    \fontsize{12.5}{16}\selectfont
-    \parsep        \z@ \@plus\p@%
-  }%
-  \item[] \raggedright}%
-  {\endlist}
- 
-\newenvironment{pali-hangtogether}%
-  {\list{}{%
-    \topsep -8pt
-    \listparindent 0em%
-    \itemindent    -0.5em%
-    \leftmargin    0.5em %2.5em %\leaderIndent%
-    \rightmargin   0em%
-    \fontsize{12.5}{16}\selectfont
-    \parsep        -8pt %\z@ \@plus\p@%
-  }%
-  \item[] \raggedright}%
-  {\endlist}
+% \renewcommand*{\idtextinnotes}[1]{[#1]\space}
+% \renewcommand*{\notenuminnotes}[1]{\normalfont #1.\space}
+
+% Formatting of the note in the back
+\renewcommand\prenotetext{\begingroup\fontsize{12pt}{16pt}\selectfont}
+% Formatting after the note
+\renewcommand\postnotetext{\par\endgroup}
+
+% \renewcommand*{\printpageinnotes}[1]{%
+% (\pagerefname\ \pageref{#1test})\space}
+% \renewcommand\printpageinnoteshyperref[1]{%
+% (\hyperref[#1]{\pagerefname\ \pageref*{#1}})\space}
+
+% ================== %
 
 \newcommand\tr[1]{\textit{#1}}
 
@@ -353,26 +309,26 @@
 
 \newenvironment{precept}%
 {\begin{enumerate}[
-  itemindent=0pt,
-  leftmargin={\preceptnumwidth},
-  rightmargin=0pt,
-]%
-}{\end{enumerate}}
+         itemindent=0pt,
+         leftmargin={\preceptnumwidth},
+         rightmargin=0pt,
+         ]%
+         }{\end{enumerate}}
 
-\newcommand\hsp{\hspace*{0.5em}}
+       \newcommand\hsp{\hspace*{0.5em}}
 
-% === tabular ===
+       % ==== Tabular ==== %
 
-\setlength{\tabcolsep}{1em}
+       \setlength{\tabcolsep}{1em}
 
-\renewcommand{\arraystretch}{1.075}
+       \renewcommand{\arraystretch}{1.075}
 
-\newcommand\oldArr{}% holding old \arraystretch for restore
-\let\oldArr\arraystretch
+       \newcommand\oldArr{}% holding old \arraystretch for restore
+       \let\oldArr\arraystretch
 
-\newcommand\setArrayStretch[1]{%
-  \let\oldArr\arraystretch
-  \renewcommand{\arraystretch}{#1}%
-}
+       \newcommand\setArrayStretch[1]{%
+         \let\oldArr\arraystretch
+         \renewcommand{\arraystretch}{#1}%
+       }
 
-\newcommand\restoreArrayStretch{\let\arraystretch\oldArr}
+       \newcommand\restoreArrayStretch{\let\arraystretch\oldArr}

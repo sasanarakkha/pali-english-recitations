@@ -2,12 +2,12 @@
 %
 % A memoir-based documentclass with a contemporary style for books with a lighter content.
 %
-% https://github.com/profound-labs/anecdote
-%
-% http://profound-labs.github.io/projects/anecdote/
 %
 % (c) Gambhiro Bhikkhu, 2017
 % gambhiro.bhikkhu.85@gmail.com
+%
+% (c) Pāladhammika Bhikkhu, 2022
+% paladhammika@protonmail.com.com
 %
 % LPPL LaTeX Pubic Project Licence
 %
@@ -554,7 +554,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand{\suttaRef}[1]{%
-  \vspace{-7pt \@plus 15pt \@minus 0pt}%
+  \vspace{-3pt \@plus 15pt \@minus 0pt}%
   \hfill {\fontsize{8}{0}\selectfont #1\par}%
 }
 
