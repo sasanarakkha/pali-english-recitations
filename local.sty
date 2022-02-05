@@ -266,27 +266,26 @@
 
 % ==== Endnotes ==== %
 
-% \renewcommand{\prenoteinnotes}{\par\noindent\hangindent 1.6em}
-% \renewcommand{\postnoteinnotes}{\noindent\parskip -2em}
+% Changes the title for the Endnotes chapter
+\renewcommand\notesname{Endnotes}
 
-% \renewcommand\prenotetext{\begingroup\fontsize{12pt}{6pt}\selectfont}
-% \renewcommand\postnotetext{\endgroup\setlength{\parskip}{-4em}}
+\renewcommand{\prenoteinnotes}{%
+    \small\par\noindent%
+    }%
+\renewcommand{\noteidinnotes}[2]{% {notenum}{id}
+    \begin{adjustwidth}{33pt}{0pt}%
+        \hspace{-33pt}\makebox[30pt][l]{%
+            \makebox[18pt][1]{\pageref{#2}}%
+            \makebox[16pt][l]{\ifnum#1>0\textsuperscript{#1}\fi%
+            }%
+    }%
+}%
+\renewcommand{\pageinnotes}[1]{}%
+\renewcommand{\postnotetext}{%
+    \end{adjustwidth}%
+}%
+\renewcommand{\postnoteinnotes}{\par}%
 
-% \renewcommand{\prenoteinnotes}{\par\noindent}
-% \renewcommand{\postnoteinnotes}{\par}
-
-% \renewcommand*{\idtextinnotes}[1]{[#1]\space}
-% \renewcommand*{\notenuminnotes}[1]{\normalfont #1.\space}
-
-% Formatting of the note in the back
-\renewcommand\prenotetext{\begingroup\fontsize{12pt}{16pt}\selectfont}
-% Formatting after the note
-\renewcommand\postnotetext{\par\endgroup}
-
-% \renewcommand*{\printpageinnotes}[1]{%
-% (\pagerefname\ \pageref{#1test})\space}
-% \renewcommand\printpageinnoteshyperref[1]{%
-% (\hyperref[#1]{\pagerefname\ \pageref*{#1}})\space}
 
 % ================== %
 
