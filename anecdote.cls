@@ -1,30 +1,25 @@
-% Anecdote Class
-%
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+
 % A memoir-based documentclass with a contemporary style for books with a lighter content.
-%
-%
+
 % (c) Gambhiro Bhikkhu, 2017
 % gambhiro.bhikkhu.85@gmail.com
-%
+
 % (c) Pāladhammika Bhikkhu, 2022
 % paladhammika@protonmail.com.com
-%
+
 % LPPL LaTeX Pubic Project Licence
-%
+
 
 % TODO: document interfaces
 % TODO: test document to compile
 
-% ==============
-% Identification
-% ==============
+%%%%%%%%%%%%%%%% Identification %%%%%%%%%%%%%%%%
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{anecdote}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
 
-% ========================
-% Preliminary Declarations
-% ========================
+%%%%%%%%%%% Preliminary Declarations %%%%%%%%%%%
 
 \newif\ifdesktopversion
 \desktopversionfalse
@@ -32,9 +27,7 @@
 \newif\ifoverleaf
 \overleaffalse
 
-% =======
-% Options
-% =======
+%%%%%%%%%%%%%%%%%%% Options %%%%%%%%%%%%%%%%%%%%
 
 \RequirePackage{pgfopts}
 \RequirePackage{calc}
@@ -55,9 +48,8 @@
 \ProcessPgfOptions{/BOOK}
 \ProcessOptions\relax
 
-% ======================
-% All Other Declarations
-% ======================
+
+%%%%%%%%%%%% All Other Declarations %%%%%%%%%%%%
 
 \LoadClass[11pt,twoside]{memoir}
 
@@ -104,7 +96,7 @@
 % 
 % \fi
 
-% === Book Core ===
+%%%%%%%%%%%%%%%%%% Book Class %%%%%%%%%%%%%%%%%%
 
 %\RequirePackage{silence}
 %\WarningsOff
@@ -137,7 +129,7 @@
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
 
-% === Define colors ===
+%%%%%%%%%%%%%%%%% Define Colors %%%%%%%%%%%%%%%%
 
 % Define text colors as Gray color values.
 \definecolor{textbody}{gray}{0}% 100% for maximum contrast.
@@ -157,7 +149,7 @@
 
 \definecolor{instruction}{gray}{0.3}
 
-% === Load fonts ===
+%%%%%%%%%%%%%%%%%% Load Fonts %%%%%%%%%%%%%%%%%%
 
 \RequirePackage{fontspec}
 \defaultfontfeatures{ Ligatures={TeX}, Path = {./assets/fonts/}, }
@@ -178,13 +170,13 @@
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
 ]{LibertinusSerif-Regular.otf}
 
-% header and footer
+%%%%%%%%%%%%%%%% Header & Footer %%%%%%%%%%%%%%%%
 
 \newcommand\headerFont\libertinusFont
 \newcommand\footerFont\headerFont
 \newcommand\pageNumFont\headerFont
 
-% chapter and section
+%%%%%%%%%%%%%%%% Chapter & Section %%%%%%%%%%%%%%%%
 
 \newcommand\partNameFont\libertinusFont
 \newcommand\partTitleFont\libertinusFont
@@ -200,11 +192,11 @@
 
 \newcommand\instructionFont\libertinusFont
 
-% quote
+%%%%%%%%%%%%%%%%%%%%%% Quote %%%%%%%%%%%%%%%%%%%%%%
 
 \newcommand\sideruleQuoteFont\libertinusFont
 
-% toc
+%%%%%%%%%%%%%%%% Table of Contents %%%%%%%%%%%%%%%%
 
 \newcommand\tocFont\libertinusFont
 \newcommand\tocFontOldNum\libertinusFont
@@ -240,7 +232,7 @@
    \belowdisplayskip \abovedisplayskip
 }
 
-% foreign language wrappers
+%%%%%%%%%%%%%%%% Foregin Languuge Wrappers %%%%%%%%%%%%%%%%
 
 \newfontfamily\thaiFont{Kinnari.ttf}
 
@@ -252,14 +244,14 @@
 
 \newcommand\pointerMark{\vspace*{-1pt}\blackpointerright}
 
-% === microtype ===
+%%%%%%%%%%%%%%%%%%%%%% Microtype %%%%%%%%%%%%%%%%%%%%%%
 
 \RequirePackage[final,babel=true]{microtype}
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={LibertinusSerif-Regular.otf}}{20}
 
-% === hyperref ===
+%%%%%%%%%%%%%%%%%%%%%%% Hyperref %%%%%%%%%%%%%%%%%%%%%%%
 
 \RequirePackage{hyperxmp}
 \RequirePackage{hyperref}
@@ -299,7 +291,7 @@
   openlevel=2
 ]{bookmark}
 
-% === penalties and hyphenation ===
+%%%%%%%%%%%%%%%% Penalties & Hyphenation %%%%%%%%%%%%%%%%
 
 % memoir's more allowing penalties
 \midsloppy
@@ -336,6 +328,7 @@
 % \RequirePackage[defaultlines=2,all]{nowidow}
 
 % === common hyphenation exceptions and corrections ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \hyphenation{season wisdom develop-ment respon-sible pheno-mena
 philo-sophical munindo amaravati thai-land}
@@ -366,6 +359,7 @@ philo-sophical munindo amaravati thai-land}
 %whole-heart-edly wrong-do-ing}
 
 % === soul settings ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
 \sodef\soSection{}{.07em}{.4em plus.1em}{.1em plus.1em minus.1em}
@@ -375,6 +369,7 @@ philo-sophical munindo amaravati thai-land}
 % accented characters at the end of words.
 
 % === Custom commands and environments ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 % https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
 
@@ -519,11 +514,13 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % === titlepage ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \newlength{\titleLength}
 \newlength{\xheight}
 
 % === quotes ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \newlength{\quoteMargin}
 \setlength{\quoteMargin}{18pt}
@@ -840,6 +837,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % === Color specs ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \newcommand\modelTmp{}
 \newcommand\specTextbody{}
@@ -876,6 +874,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % === Renewing package macros ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \addtodef{\mainmatter}{}{%
   %\addtocontents{toc}{\addvspace{5pt}}%
@@ -929,6 +928,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % === Page styles ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \nouppercaseheads
 
@@ -1013,6 +1013,7 @@ philo-sophical munindo amaravati thai-land}
 \pagestyle{normalpage}
 
 % === TOC settings ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \maxtocdepth{subsubsection}
 
@@ -1163,6 +1164,7 @@ philo-sophical munindo amaravati thai-land}
 [\addvspace{5pt}]
 
 % === List of First Lines ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \newcommand\listfirstlinesname{List of First Lines}
 \newlistof{listfirstlines}{fir}{\listfirstlinesname}
@@ -1193,8 +1195,10 @@ philo-sophical munindo amaravati thai-land}
 }%
 
 % === Book styles ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 % === Part styles ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \newif\ifthisparthastitle
 \thisparthastitletrue
@@ -1270,6 +1274,7 @@ philo-sophical munindo amaravati thai-land}
 \@endpart}
 
 % === Chapter styles ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 % NOTE: Sub-section ref. numbers are used in the vinaya notes, such as:
 %
@@ -1411,6 +1416,7 @@ philo-sophical munindo amaravati thai-land}
 \addtodef{\backmatter}{}{\backmatterChapterStyle}
 
 % === Section styles ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 % TODO: could use \makeheadstyles to keep bundle different chapter and
 % section style together. See memoir manual '6.9 Predefined heading
@@ -1591,6 +1597,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % === Page geometry and layout ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 % Symbols used:
 % P = page proportion (h/w)
@@ -1607,6 +1614,7 @@ philo-sophical munindo amaravati thai-land}
 \def\BOOK@lineHeightPt{}
 
 % === normalsize ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \def\BOOK@fontSizePt{12.5}
 \def\BOOK@lineHeightPt{19}
@@ -1622,6 +1630,7 @@ philo-sophical munindo amaravati thai-land}
 \normalsize
 
 % === indentations ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 \setlength{\vgap}{1.5em}
 \setlength{\vindent}{\vgap}
@@ -1631,6 +1640,7 @@ philo-sophical munindo amaravati thai-land}
 \setlength{\parindent}{0pt}
 
 % === setup page layout ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 % A5 page size
 \setlength{\BOOK@paperHeight}{210mm}
@@ -1690,6 +1700,7 @@ philo-sophical munindo amaravati thai-land}
 \DeclareMathSizes{12.5}{12.5}{7}{7}
 
 % === Packages to be loaded LAST ===
+%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
 
 % NOTE use the 'bottom' footmisc option when using \raggedbottom.
 
