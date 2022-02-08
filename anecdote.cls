@@ -51,7 +51,7 @@
 
 %%%%%%%%%%%% All Other Declarations %%%%%%%%%%%%
 
-\LoadClass[11pt,twoside]{memoir}
+\LoadClass[11pt,twoside,oldfontcommands]{memoir}
 
 % \raggedbottom stops these warnings:
 %
@@ -212,7 +212,10 @@
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
 \newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{8}}
 \newcommand{\tocSize}{\@setfontsize                  \tocSize                  {9}{14}}
-\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {10.5}{15}}
+% Changes section/chant font size in ToC e.g. 'Dedication of Offerings'
+\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}
+% Changes subsection/chant font size in ToC e.g. 'Undertaking the Three Refuges'
+\newcommand{\tocSubsectionSize}{\@setfontsize        \tocSubsectionSize        {11}{11}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -358,8 +361,7 @@ philo-sophical munindo amaravati thai-land}
 %ven-er-able wea-ri-ness what-ev-er when-ever wher-ever whole-hearted
 %whole-heart-edly wrong-do-ing}
 
-% === soul settings ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Soul Settings %%%%%%%%%%%%%%%%
 
 \sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
 \sodef\soSection{}{.07em}{.4em plus.1em}{.1em plus.1em minus.1em}
@@ -368,8 +370,7 @@ philo-sophical munindo amaravati thai-land}
 % with microtype instead, because soul swallows
 % accented characters at the end of words.
 
-% === Custom commands and environments ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Custom Commands & Environments %%%%%%%%%%%%%%%%
 
 % https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
 
@@ -513,14 +514,12 @@ philo-sophical munindo amaravati thai-land}
 \clearpage
 }
 
-% === titlepage ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Titlepage %%%%%%%%%%%%%%%%
 
 \newlength{\titleLength}
 \newlength{\xheight}
 
-% === quotes ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Quotes %%%%%%%%%%%%%%%%
 
 \newlength{\quoteMargin}
 \setlength{\quoteMargin}{18pt}
@@ -836,8 +835,7 @@ philo-sophical munindo amaravati thai-land}
   \hspace*{\labelsep}%
 }
 
-% === Color specs ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Color Specs %%%%%%%%%%%%%%%%
 
 \newcommand\modelTmp{}
 \newcommand\specTextbody{}
@@ -873,12 +871,11 @@ philo-sophical munindo amaravati thai-land}
   \vfill\mbox{}%
 }
 
-% === Renewing package macros ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Renewing Package Macros %%%%%%%%%%%%%%%%
 
 \addtodef{\mainmatter}{}{%
-  %\addtocontents{toc}{\addvspace{5pt}}%
-  \setcounter{chapter}{0}%
+  % \addtocontents{toc}{\addvspace{5pt}}%
+  % \setcounter{chapter}{0}%
 }
 
 \addtodef{\appendix}{}{%
@@ -927,8 +924,7 @@ philo-sophical munindo amaravati thai-land}
   \endgroup%
 }
 
-% === Page styles ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Page Styles %%%%%%%%%%%%%%%%
 
 \nouppercaseheads
 
@@ -1012,8 +1008,7 @@ philo-sophical munindo amaravati thai-land}
 
 \pagestyle{normalpage}
 
-% === TOC settings ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Table of Contents Settings %%%%%%%%%%%%%%%%
 
 \maxtocdepth{subsubsection}
 
@@ -1086,9 +1081,10 @@ philo-sophical munindo amaravati thai-land}
 \newlength\tocThreeDigits
 \setlength{\tocThreeDigits}{\widthof{\tocFont\tocSize 999}}
 
+% Changes 'Pāli-English Recitations' in the ToC
 \titlecontents{part}[\tocLeftWidth]
-{\addvspace{25pt}%
-\tocFont\bfseries\fontsize{13}{13}\selectfont}%
+{\addvspace{15pt}%
+\tocFont\bfseries\fontsize{14}{5}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \textls*{PART \thecontentslabel.}\space%
@@ -1098,9 +1094,10 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}}
 {}
 
+% Changes chapter headings in ToC e.g. 'Schedule, Abbreviations, etc.'
 \titlecontents{chapter}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\fontsize{11}{15}\selectfont}%
+\tocFont\bfseries\fontsize{14}{5}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1108,25 +1105,26 @@ philo-sophical munindo amaravati thai-land}
   \MakeUppercase%
 }
 {\contentsmargin{0pt}%
-\itshape}
+}
 {\hfill\tocFont\fontsize{11}{15}\selectfont\thecontentspage}
-[\addvspace{6pt}]
+[\addvspace{1pt}]
 
-\titlecontents{section}[\tocLeftWidth]
-{\addvspace{3pt}%
-\libertinusFont\tocSectionSize}%
+% Changes section/chant formatting in ToC e.g. 'Dedication of Offerings'
+\titlecontents{section}[0.5em]
+{\addvspace{4pt}%
+  \libertinusFont\tocSectionSize}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel\space%
   \hspace*{0.8em}%
 }
 {\contentsmargin{0pt}%
-\itshape}
+  \itshape}
 {\hfill\libertinusFont\tocSectionSize\thecontentspage}
 
-\titlecontents{subsection}[\tocLeftWidth]
-{\addvspace{3pt}%
-\libertinusFont\tocSectionSize}%
+\titlecontents{subsection}[1em]
+{\addvspace{4pt}%
+\libertinusFont\tocSubsectionSize}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel\space%
@@ -1134,7 +1132,7 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
   \itshape}
-{\hfill\libertinusFont\tocSectionSize\thecontentspage}
+{\hfill\libertinusFont\tocSubsectionSize\thecontentspage}
 
 \titlecontents{subsubsection}[\tocLeftWidth]
 {\libertinusFont\itshape\tocSectionSize}%
@@ -1163,42 +1161,9 @@ philo-sophical munindo amaravati thai-land}
 {\hfill\tocFont\fontsize{11}{15}\selectfont\thecontentspage}
 [\addvspace{5pt}]
 
-% === List of First Lines ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Book Styles %%%%%%%%%%%%%%%%
 
-\newcommand\listfirstlinesname{List of First Lines}
-\newlistof{listfirstlines}{fir}{\listfirstlinesname}
-
-% Fixed number for \chapternumberline, not acutally using it but
-% required for syntax
-\newcommand{\firstline}[1]{\addcontentsline{fir}{firstline}{\protect\chapternumberline{1} #1}}
-
-\contentsuse{firstline}{fir}
-
-\titlecontents{firstline}[0pt]%
-{%
-  \setlength{\tocPageWidth}{\tocThreeDigits}%
-  \addtolength{\tocPageWidth}{5pt}%
-  \contentsmargin{\tocPageWidth}%
-  \filright%
-}%
-{\libertinusFont\tocSectionSize}%
-{}%
-{%
-  \hspace*{5pt}%
-  \small\color{black!60}%
-  \titlerule*[8pt]{.}%
-  \parbox{\tocPageWidth}{%
-    \raggedleft\libertinusFont\tocSectionSize
-    \thecontentspage}%
-  \hspace*{-\tocPageWidth}%
-}%
-
-% === Book styles ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
-
-% === Part styles ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Part Styles %%%%%%%%%%%%%%%%
 
 \newif\ifthisparthastitle
 \thisparthastitletrue
@@ -1273,8 +1238,7 @@ philo-sophical munindo amaravati thai-land}
   }%
 \@endpart}
 
-% === Chapter styles ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Chapter Styles %%%%%%%%%%%%%%%%
 
 % NOTE: Sub-section ref. numbers are used in the vinaya notes, such as:
 %
@@ -1415,8 +1379,7 @@ philo-sophical munindo amaravati thai-land}
 \addtodef{\appendix}{}{\appendixChapterStyle}
 \addtodef{\backmatter}{}{\backmatterChapterStyle}
 
-% === Section styles ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Section Styles %%%%%%%%%%%%%%%%
 
 % TODO: could use \makeheadstyles to keep bundle different chapter and
 % section style together. See memoir manual '6.9 Predefined heading
@@ -1431,12 +1394,12 @@ philo-sophical munindo amaravati thai-land}
 
 \setbeforesecskip{0pt}
 
-\setsechook{%
-  % New page for each section.
-  \clearpage%
-  % Empty the default section number printing, so that we can handle it.
-  \setsecnumformat{}%
-}
+% \setsechook{%
+%   % New page for each section.
+%   \clearpage%
+%   % Empty the default section number printing, so that we can handle it.
+%   \setsecnumformat{}%
+% }
 
 \setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
@@ -1596,8 +1559,7 @@ philo-sophical munindo amaravati thai-land}
   \global\sectionsubtitlefalse%
 }
 
-% === Page geometry and layout ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Page Geometry and Layout %%%%%%%%%%%%%%%%
 
 % Symbols used:
 % P = page proportion (h/w)
@@ -1613,8 +1575,7 @@ philo-sophical munindo amaravati thai-land}
 \def\BOOK@fontSizePt{}
 \def\BOOK@lineHeightPt{}
 
-% === normalsize ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Normalsize %%%%%%%%%%%%%%%%
 
 \def\BOOK@fontSizePt{12.5}
 \def\BOOK@lineHeightPt{19}
@@ -1629,8 +1590,7 @@ philo-sophical munindo amaravati thai-land}
   \let\@listi\@listI}
 \normalsize
 
-% === indentations ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Indentations %%%%%%%%%%%%%%%%
 
 \setlength{\vgap}{1.5em}
 \setlength{\vindent}{\vgap}
@@ -1639,8 +1599,7 @@ philo-sophical munindo amaravati thai-land}
 \setlength{\parskip}{8pt}
 \setlength{\parindent}{0pt}
 
-% === setup page layout ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Setup Page Layout %%%%%%%%%%%%%%%%
 
 % A5 page size
 \setlength{\BOOK@paperHeight}{210mm}
@@ -1699,8 +1658,7 @@ philo-sophical munindo amaravati thai-land}
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
 
-% === Packages to be loaded LAST ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Packages To Be Loaded LAST %%%%%%%%%%%%%%%%
 
 % NOTE use the 'bottom' footmisc option when using \raggedbottom.
 
