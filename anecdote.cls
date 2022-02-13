@@ -125,6 +125,7 @@
 \RequirePackage{pageslts}
 \RequirePackage{array}
 \RequirePackage{ragged2e}
+\RequirePackage{tipa}
 
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
@@ -210,7 +211,8 @@
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{8}}
+% Changes header at the top of the page indication section and page number
+\newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{8}}
 \newcommand{\tocSize}{\@setfontsize                  \tocSize                  {9}{14}}
 % Changes section/chant font size in ToC e.g. 'Dedication of Offerings'
 \newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}
@@ -937,9 +939,9 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \makepagestyle{toponerow}
-\makeevenhead{toponerow}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\thechapter.\hspace*{1em}\MakeUppercase{\leftmark}}}
+\makeevenhead{toponerow}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\hspace*{1em}\MakeUppercase{\leftmark}}}
 \makeevenfoot{toponerow}{}{}{}
-\makeoddhead{toponerow}{\headerFont\headerSize\color{header}\textls*{\thechapter.\hspace*{1em}\MakeUppercase{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
+\makeoddhead{toponerow}{\headerFont\headerSize\color{header}\textls*{\hspace*{1em}\MakeUppercase{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
 \makeoddfoot{toponerow}{}{}{}
 \makepsmarks{toponerow}{%
   \nouppercaseheads
@@ -1304,7 +1306,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering%
-      {\chapnumfont\color{chapternum}\bfseries\scshape\thechapter.}%
+      {\chapnumfont\color{chapternum}\bfseries\scshape}%
       \chaptitlefont\color{chaptertitle}%
       \vspace*{12pt}%
       \par
@@ -1348,7 +1350,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering%
-      {\chapnumfont\fontsize{10}{10}\selectfont\color{chapternum}\textls*{APPENDIX \thechapter.}}%
+      {\chapnumfont\fontsize{10}{10}\selectfont\color{chapternum}\textls*{APPENDIX}}%
       \chaptitlefont\fontsize{13}{18}\selectfont\color{chaptertitle}%
       \vspace*{12pt}%
       \par
@@ -1408,6 +1410,7 @@ philo-sophical munindo amaravati thai-land}
 
 \setbeforesubsubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersubsubsecskip{1ex}
+
 
 % Roman numerals for section numbering.
 %\renewcommand*{\thesection}{\roman{section}}
@@ -1502,6 +1505,7 @@ philo-sophical munindo amaravati thai-land}
     \subSectionFont\fontsize{14}{18}\selectfont%
     \scshape\bfseries\color{section}%
     \memRTLraggedright%
+  \vspace*{-7.2pt}%
     #1%
   }%
 }
