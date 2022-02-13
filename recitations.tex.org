@@ -4,9 +4,7 @@
 #+startup: fold
 
 * Task List
-** TODO solve hangindent, perhaps manually by line
-- copy environemnts
-** TODO make page number conditional for schedule
+** TODO digital conditional
 - in main.tex comment out 'desktopVersion'
 - wrap \ifdesktopVersion \else around whatever needs to be removed for print
 ** TODO keep orphan with previous text, use mbox?
@@ -30,11 +28,16 @@
 ** TODO bottom margin is quite small -- something changed
 ** TODO unrefenced build error results from \pdfbookmark in schedule
 ** TODO is 'pali-english recitations' section needed?
+** TODO desktopverison conditionals
+- remove alternating margins
+- blank pages
+
+** TODO chapter pdf bookmarks go to cover page instead of '0. CHAPTER'
+** TODO page number at bottom of page
 
 * Table of Contents :toc:
 - [[#task-list][Task List]]
-  - [[#solve-hangindent-perhaps-manually-by-line][solve hangindent, perhaps manually by line]]
-  - [[#make-page-number-conditional-for-schedule][make page number conditional for schedule]]
+  - [[#digital-conditional][digital conditional]]
   - [[#keep-orphan-with-previous-text-use-mbox][keep orphan with previous text, use mbox?]]
   - [[#anumodana-paritta-and-funeral-sections-dont-need-page-break-before-next-title][anumodana, paritta, and funeral sections don't need page break before next title]]
   - [[#change-spacing-in-toc-to-match-original][change spacing in ToC to match original]]
@@ -52,6 +55,9 @@
   - [[#bottom-margin-is-quite-small----something-changed][bottom margin is quite small -- something changed]]
   - [[#unrefenced-build-error-results-from-pdfbookmark-in-schedule][unrefenced build error results from \pdfbookmark in schedule]]
   - [[#is-pali-english-recitations-section-needed][is 'pali-english recitations' section needed?]]
+  - [[#desktopverison-conditionals][desktopverison conditionals]]
+  - [[#chapter-pdf-bookmarks-go-to-cover-page-instead-of-0-chapter][chapter pdf bookmarks go to cover page instead of '0. CHAPTER']]
+  - [[#page-number-at-bottom-of-page][page number at bottom of page]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
 - [[#abbreviations][Abbreviations]]
@@ -174,10 +180,10 @@
 
 {\centering
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 1}}}}\\
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 1}}}}\\
   \pdfbookmark[2]{Set 1}{set1}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     The Buddha's First Exclamation \pageref{buddhas-first-exclamation}\\
     Setting in Motion the Wheel of Dhamma \pageref{wheel-of-dhamma-abridged}\\
     Going to True and False Refuges \pageref{true-false-refuges}\\
@@ -185,54 +191,63 @@
     The Pāṭimokkha Exhortation \pageref{patimokkha-exhortation}\\
     The Buddha's Final Instruction \pageref{buddhas-final-instruction}\\
     Uddissanādhiṭṭhāna \pageref{uddissanadhitthana}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }
 
   % \bigskip
+  \vspace{1.5cm}
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 2}}}}\\
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 2}}}}\\
   \pdfbookmark[2]{Set 2}{set2}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     The Discourse on the Characteristic of Not-Self \pageref{characteristic-of-not-self}\\
     The Fire Sermon \pageref{fire-sermon}\\
     The Gradual Training \pageref{gradual-training}\\
     Sharing and Aspirations \pageref{sharing-aspirations}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }
 
   \clearpage
-  % \bigskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 3}}}}\\
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 3}}}}\\
   \pdfbookmark[2]{Set 3}{set3}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     The Noble Eightfold Path \pageref{noble-eightfold-path}\\
     The Repulsiveness of Food \pageref{repulsiveness-of-food}\\
     Requisites for Awakening \pageref{requisites-for-awakening}\\
     Principles of Non-Decline \pageref{principles-of-non-decline}\\
     On Protection \pageref{protection}\\
     Sharing of All Merits \pageref{sharing-all-merits}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 4}}}}\\
+  % \bigskip
+  \vspace{1.5cm}
+
+{\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 4}}}}\\
   \pdfbookmark[2]{Set 4}{set4}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     Homage to the Triple Gem \pageref{dedication-of-offerings}\\
     Universal Well-Being \pageref{universal-well-being}\\
     The Seven Factors of Awakening \pageref{seven-factors-of-awakening}\\
     The Buddha's Words on Loving-Kindness \pageref{words-on-loving-kindness}\\
     Sharing of Merits with the Departed (Pāli-English) \pageref{sharing-merits-departed}\\
     Sharing of Merits with the Devas (Pāli) \pageref{sharing-merits-devas}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }
 
   \clearpage
-  % \bigskip
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 5}}}}\\
+  % \bigskip
+  \vspace{1.5cm}
+
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 5}}}}\\
   \pdfbookmark[2]{Set 5}{set5}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     Mindfulness of Breathing \pageref{mindfulness-of-breathing}\\
     The Highest Blessings \pageref{highest-blessings}\\
     The Three Characteristics \pageref{three-characteristics}\\
@@ -241,39 +256,45 @@
     The Thirty-Two Body Parts \pageref{32-parts}\\
     Principles of Cordiality \pageref{principles-of-cordiality}\\
     The Highest Honour and Aspirations \pageref{highest-honour-aspirations}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }
 
   % \bigskip
+  \vspace{1.5cm}
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 6}}}}\\
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 6}}}}\\
   \pdfbookmark[2]{Set 6}{set6}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     Anatta-Lakkhaṇa Sutta \pageref{anatta-lakkhana}\\
     Striving According to the Dhamma \pageref{striving-according-to-dhamma}\\
     The Divine Abidings \pageref{divine-abidings}\\
     Ten Subjects for Frequent Reflection\\ By One Gone Forth \pageref{ten-recollections}\\
     Sharing and Aspirations \pageref{sharing-aspirations}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }
 
   \clearpage
   % \bigskip
+  \vspace{1.5cm}
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 7}}}}\\
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 7}}}}\\
   \pdfbookmark[2]{Set 7}{set7}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     Dependent Origination \pageref{dependent-origination}\\
     The Dhamma in Brief \pageref{dhamma-in-brief}\\
     Uddissanādhiṭṭhāna \pageref{uddissanadhitthana}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }
 
-  % \medskip
+  % \bigskip
+  \vspace{1.5cm}
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 8}}}}\\
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 8}}}}\\
   \pdfbookmark[2]{Set 8}{set8}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     Āditta-Pariyāya Sutta \pageref{aditta-pariyaya}\\
     The Burdens \pageref{burdens}\\
     Respect for the Dhamma \pageref{respect-for-the-dhamma}\\
@@ -282,36 +303,38 @@
     From the Elder Pārāpariya \pageref{parapariya}\\
     Miscellaneous Verses \pageref{misc-verses}\\
     The Highest Honour and Aspirations \pageref{highest-honour-aspirations}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }
 
   \clearpage
-  % \medskip
+  % \bigskip
+  \vspace{1.5cm}
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 9}}}}\\
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 9}}}}\\
   \pdfbookmark[2]{Set 9}{set9}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     Paritta Chants (Pāli) \pageref{deva-aradhana}\\
     Sharing of Merits with the Departed (Pāli) \pageref{sharing-merits-departed}\\
     Sharing of Merits with the Devas (Pāli) \pageref{sharing-merits-devas}\\
-    Closing Homage (Pāli) \pageref{closing-homage}}\\
+    Closing Homage (Pāli) \pageref{closing-homage}\\
+  }
 
-  % \medskip
+  % \bigskip
+  \vspace{1.5cm}
 
-  {\libertinusFont\selectfont\textbf{\textsc{\textls*{Set 10}}}}\\
+  {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 10}}}}\\
   \pdfbookmark[2]{Set 10}{set10}
 
-  \textsc{
+  \textsc{\fontsize{16}{28}\selectfont
     Funeral Chants (Pāli) \pageref{pubba-bhaga-nama-kara-patho}\\
     Recollection of Impermanence \pageref{recollection-impermanence}\\
     Anumodanā Chants (Pāli) \pageref{yatha-vari-vaha-pura}\\
     Just as Rivers \pageref{just-as-rivers}\\
     Sharing of All Merits \pageref{sharing-all-merits}\\
-    Closing Homage (Pāli-English) \pageref{closing-homage}}\\
+    Closing Homage (Pāli-English) \pageref{closing-homage}\\
+  }}
 
-}
-
-% \end{center}
 #+end_src
 
 * The Purpose and Benefits of Dhamma Recitation
@@ -322,55 +345,55 @@
 
 \subsection*{Historical Background}
 
-After finding the path to \textit{Nibbāna} and some initial hesitation, the Buddha eventually decided to teach the Dhamma (MN 26). His first disciples were a group of five monks, and with the awakening of one of them, Ven. Kondañña, the wheel of Dhamma was set in motion (SN 56.11). While these first disciples were taught exclusively by the Buddha himself, soon afterwards more monks reached the final goal. Subsequently, the Buddha sent out the first sixty arahants to teach the Dhamma (SN 4.5, Vin I 20).\\
+After finding the path to \textit{Nibbāna} and some initial hesitation, the Buddha eventually decided to teach the Dhamma (MN 26). His first disciples were a group of five monks, and with the awakening of one of them, Ven. Kondañña, the wheel of Dhamma was set in motion (SN 56.11). While these first disciples were taught exclusively by the Buddha himself, soon afterwards more monks reached the final goal. Subsequently, the Buddha sent out the first sixty arahants to teach the Dhamma (SN 4.5, Vin I 20).
 
-During that period of ancient India, religious texts were not commonly written down. Even for ordinary education purposes, much of learning happened through memorization. Writing was known, but not used for religious texts, which were considered too sacred to be put into writing; instead they were meant to live in the minds and hearts of those who saw their value, and made the effort to memorize them. In particular, the Brahmins were known for their proficiency in committing their corpus of sacred texts (\textit{Vedas}) to memory and maintaining them with astonishing accuracy. Part of their skill was because memorization started from a young age. Likewise, also among Buddhist literature we can discover clear traces of standardization and mnemonic tools, meant to aim at precision and ease of memorization. In particular, the use of recurring stock phrases makes it easier to commit a large corpus of texts to memory (Anālayo, 2019). There is not much known about the specific teachings shared with their audience by the first arahants who went out to teach the Dhamma. But it is fair to assume that they took some teachings with them that were quick and easy to memorize. Let us also keep in mind that the Buddha's disciples were not trained in memorization from childhood, but they came from all walks of life – young, old, educated, uneducated etc. Only when the Saṅgha had grown in size, monks who specialized in recitation travelled all across India and shared the Buddha's teachings with those eager to hear them (Analayo, 2007).\\
+During that period of ancient India, religious texts were not commonly written down. Even for ordinary education purposes, much of learning happened through memorization. Writing was known, but not used for religious texts, which were considered too sacred to be put into writing; instead they were meant to live in the minds and hearts of those who saw their value, and made the effort to memorize them. In particular, the Brahmins were known for their proficiency in committing their corpus of sacred texts (\textit{Vedas}) to memory and maintaining them with astonishing accuracy. Part of their skill was because memorization started from a young age. Likewise, also among Buddhist literature we can discover clear traces of standardization and mnemonic tools, meant to aim at precision and ease of memorization. In particular, the use of recurring stock phrases makes it easier to commit a large corpus of texts to memory (Anālayo, 2019). There is not much known about the specific teachings shared with their audience by the first arahants who went out to teach the Dhamma. But it is fair to assume that they took some teachings with them that were quick and easy to memorize. Let us also keep in mind that the Buddha's disciples were not trained in memorization from childhood, but they came from all walks of life – young, old, educated, uneducated etc. Only when the Saṅgha had grown in size, monks who specialized in recitation travelled all across India and shared the Buddha's teachings with those eager to hear them (Analayo, 2007).
 
-A passage that illustrates the Buddha's own appreciation of recitation, stems from a conversation he had with a monk who had gone forth just recently. Without warning, the Buddha asked him to recite the Dhamma. The newly ordained monk recited the \textit{Aṭṭhakavagga} of \textit{Sutta Nipāta} (Ud 5.6). The Buddha was pleased and complimented the monk on his skills in remembering, keeping in mind, articulating, and enunciating of the texts. This highlights the Buddha's emphasis that recitation of the Dhamma was meant to be taken seriously by his ordained disciples.\\
+A passage that illustrates the Buddha's own appreciation of recitation, stems from a conversation he had with a monk who had gone forth just recently. Without warning, the Buddha asked him to recite the Dhamma. The newly ordained monk recited the \textit{Aṭṭhakavagga} of \textit{Sutta Nipāta} (Ud 5.6). The Buddha was pleased and complimented the monk on his skills in remembering, keeping in mind, articulating, and enunciating of the texts. This highlights the Buddha's emphasis that recitation of the Dhamma was meant to be taken seriously by his ordained disciples.
 
 \subsection*{The Workings of Memory}
 
-Contrary to our intuition, memory doesn't function like a scanner or copying machine that takes a snapshot of a text or event, and saves it for later. Instead, anecdotal memory works in a relational manner. The brain links new information that comes in through any of the 6 senses to concepts based on memories from the past. We understand new things in the light of and from the perspective of, things we already know. Likewise, we ``remember'' old things through the filters and biases of the present moment. ``It is so natural for us to draw inferences that we are often unaware that we are doing so'' (Eysenck, 1992/2005). This interplay between past and present gives our memory great potential due to its seemingly unlimited storage capacity (the Buddha recollected past lifetimes from memory, counting back many eons of world-dissolution and evolution). At the same time the interplay between past and future also makes memory inherently unreliable. The importance of memorization becomes clear. When texts are memorized literally, personal interpretation, biases, and coloring by past experiences and present circumstances have less opportunity to distort the information. Accuracy increases further if one checks the memorized text from time to time against its original, either by looking it up in a book, or by reciting it together with others. In this way, differences become apparent straight away.\\
+Contrary to our intuition, memory doesn't function like a scanner or copying machine that takes a snapshot of a text or event, and saves it for later. Instead, anecdotal memory works in a relational manner. The brain links new information that comes in through any of the 6 senses to concepts based on memories from the past. We understand new things in the light of and from the perspective of, things we already know. Likewise, we ``remember'' old things through the filters and biases of the present moment. ``It is so natural for us to draw inferences that we are often unaware that we are doing so'' (Eysenck, 1992/2005). This interplay between past and present gives our memory great potential due to its seemingly unlimited storage capacity (the Buddha recollected past lifetimes from memory, counting back many eons of world-dissolution and evolution). At the same time the interplay between past and future also makes memory inherently unreliable. The importance of memorization becomes clear. When texts are memorized literally, personal interpretation, biases, and coloring by past experiences and present circumstances have less opportunity to distort the information. Accuracy increases further if one checks the memorized text from time to time against its original, either by looking it up in a book, or by reciting it together with others. In this way, differences become apparent straight away.
 
 \subsection*{Benefits for Dhamma Practice}
 
-In the discourses the Buddha is often depicted taking up the topic of recitation when explaining to monks the proper way to learn the teachings, and make these teachings the vessel within which their own wisdom can grow.\\
+In the discourses the Buddha is often depicted taking up the topic of recitation when explaining to monks the proper way to learn the teachings, and make these teachings the vessel within which their own wisdom can grow.
 
 \begin{quote}
-  ``He has learned much, remembers what he has learned, and accumulates what he has learned. Those teachings that are good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, which proclaim the perfectly complete and pure spiritual life—such teachings as these he has learned much of, retained in mind, recited verbally, mentally investigated, and penetrated well by view. This is the fifth cause and condition that leads to obtaining the wisdom fundamental to the spiritual life.'' (AN 8.2)\\
+  ``He has learned much, remembers what he has learned, and accumulates what he has learned. Those teachings that are good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, which proclaim the perfectly complete and pure spiritual life—such teachings as these he has learned much of, retained in mind, recited verbally, mentally investigated, and penetrated well by view. This is the fifth cause and condition that leads to obtaining the wisdom fundamental to the spiritual life.'' (AN 8.2)
 \end{quote}
 
-In our current age of easy access to Dhamma books and multimedia, it is tempting to conclude that it is now not necessary anymore to memorize large bodies of texts for the sake of transmission, and that we are blessed with being able to read any of the texts at any time, from the comfort of our kuṭis or living rooms. And blessed we are. Nonetheless, even today recitation has benefits that surpass a regular silent reading, or even reading out loud. As seen in the earlier quote from AN 8.2, the Buddha doesn't only speak about reciting the texts verbally, but also about retaining them in mind and investigating them mentally. This is where the benefits of recitation differ considerably from a more casual reading, or even from chanting with the help of a chanting book. By means of committing a text to memory, it lives much deeper within our minds and hearts, and we can reflect on it whenever and wherever. Dhamma that has been well-memorized, is always with us. The Buddha's teachings become accessible in the very moment we need them, without having to resort to a book or an e-reader.\\
+In our current age of easy access to Dhamma books and multimedia, it is tempting to conclude that it is now not necessary anymore to memorize large bodies of texts for the sake of transmission, and that we are blessed with being able to read any of the texts at any time, from the comfort of our kuṭis or living rooms. And blessed we are. Nonetheless, even today recitation has benefits that surpass a regular silent reading, or even reading out loud. As seen in the earlier quote from AN 8.2, the Buddha doesn't only speak about reciting the texts verbally, but also about retaining them in mind and investigating them mentally. This is where the benefits of recitation differ considerably from a more casual reading, or even from chanting with the help of a chanting book. By means of committing a text to memory, it lives much deeper within our minds and hearts, and we can reflect on it whenever and wherever. Dhamma that has been well-memorized, is always with us. The Buddha's teachings become accessible in the very moment we need them, without having to resort to a book or an e-reader.
 
-Since right view is the first of eight path factors, it is of great importance for progress on the path to keep the Buddha's teachings in mind, so that they can shape our views and perspectives; keeping them in memory in such a way that one can recognize their relevance whenever a situation in life occurs when they naturally manifest, or when they are most necessary to intentionally recall. Recollecting the Dhamma can be a source of joy, leading to rapture, tranquility, and concentration (AN 5.26); factors that can lead to a pleasant abiding here and now. It can also help to abandon drowsiness (AN 7.61), as well as speed up recovery from illness (AN 46.16), or to achieve a stage of awakening even on the deathbed (AN 6.56). In fact, reciting the Dhamma is one of the occasions that can even bring about the attainment of final liberation (AN 5.26).\\
+Since right view is the first of eight path factors, it is of great importance for progress on the path to keep the Buddha's teachings in mind, so that they can shape our views and perspectives; keeping them in memory in such a way that one can recognize their relevance whenever a situation in life occurs when they naturally manifest, or when they are most necessary to intentionally recall. Recollecting the Dhamma can be a source of joy, leading to rapture, tranquility, and concentration (AN 5.26); factors that can lead to a pleasant abiding here and now. It can also help to abandon drowsiness (AN 7.61), as well as speed up recovery from illness (AN 46.16), or to achieve a stage of awakening even on the deathbed (AN 6.56). In fact, reciting the Dhamma is one of the occasions that can even bring about the attainment of final liberation (AN 5.26).
 
 \begin{quote}
-  Though the bhikkhu Phagguṇa's mind had not yet been liberated from the five lower fetters, when he heard that discourse on the Dhamma, his mind was liberated from them… There are, Ānanda, these six benefits of listening to the Dhamma at the proper time and of examining the meaning at the proper time. What six?\\
+  Though the bhikkhu Phagguṇa's mind had not yet been liberated from the five lower fetters, when he heard that discourse on the Dhamma, his mind was liberated from them… There are, Ānanda, these six benefits of listening to the Dhamma at the proper time and of examining the meaning at the proper time. What six?
 
-  …At the time of his death he does not get to see the Tathāgata or a disciple of the Tathāgata, but he ponders, examines, and mentally inspects the Dhamma as he has heard it and learned it. As he does so, his mind is liberated in the unsurpassed extinction of the acquisitions. This is the sixth benefit of examining the meaning at the proper time. (AN 6.56)\\
+  …At the time of his death he does not get to see the Tathāgata or a disciple of the Tathāgata, but he ponders, examines, and mentally inspects the Dhamma as he has heard it and learned it. As he does so, his mind is liberated in the unsurpassed extinction of the acquisitions. This is the sixth benefit of examining the meaning at the proper time. (AN 6.56)
 
-  In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage. (AN 5.26)\\
+  In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage. (AN 5.26)
 \end{quote}
 
 \subsection*{Benefits for Rebirth}
 
-The depth to which a mere reading of a text penetrates the mind is incomparable to the depth of penetration that can be reached by memorization. AN 4.191 depicts monks who have memorized the Dhamma, and are subsequently reborn in circumstances with little to no exposure to the Dhamma. The sutta explains that not only in the current lifetime, but also in lifetimes ahead, the Dhamma that was previously memorized will be accessible and has a chance of being re-cognized or recollected even in a future existence e.g. as a deva. With the support of sufficient samādhi, not only can the Dhamma be recollected, but even one's past lives:\\
+The depth to which a mere reading of a text penetrates the mind is incomparable to the depth of penetration that can be reached by memorization. AN 4.191 depicts monks who have memorized the Dhamma, and are subsequently reborn in circumstances with little to no exposure to the Dhamma. The sutta explains that not only in the current lifetime, but also in lifetimes ahead, the Dhamma that was previously memorized will be accessible and has a chance of being re-cognized or recollected even in a future existence e.g. as a deva. With the support of sufficient samādhi, not only can the Dhamma be recollected, but even one's past lives:
 
 \begin{quote}
-  ``Bhikkhus, …there are things to be realized by memory… And what are the things to be realized by memory? One's past abodes are to be realized by memory. `` (AN 4.189)\\
+  ``Bhikkhus, …there are things to be realized by memory… And what are the things to be realized by memory? One's past abodes are to be realized by memory. `` (AN 4.189)
 \end{quote}
 
 \subsection*{Benefits for Communal Life}
 
-Besides being of benefit to one's own Dhamma practice, and the benefits during future lifetimes, reciting the Dhamma can also have a beneficial impact on communal life. Accounts of the Buddhist councils (\textit{saṅgīti}; lit. recitations) show that in all these important events of Buddhist history when the extended Saṅgha family came together, the DhammaVinaya was recited together, as a means to remain aligned with the teachings and to foster harmony. Another feature of monastic communities, is the fortnightly recitation of the \textit{Pātimokkha}, the rules for monks and nuns, in which even solitary forest dwellers, including Arahants, were encouraged by the Buddha to participate, as they make their way to the nearest monastery in the vicinity (Mv.II.5.5). Recitation of texts together, not only strengthens a common commitment to the DhammaVinaya, but in a more practical way, it also enables monastics to chant in sync and unison when reciting together with their spiritual companions. This not only increases clarity and understanding, but also makes for a more homogenous listening experience at a ceremony, e.g. a dāna or bereavement service conducted by monastics. Furthermore, the coming together frequently to recite the Buddha's teachings, creates a bond among Saṅgha members and leads to their growth. This would not be so if everyone recites the Dhamma on his own.\\
+Besides being of benefit to one's own Dhamma practice, and the benefits during future lifetimes, reciting the Dhamma can also have a beneficial impact on communal life. Accounts of the Buddhist councils (\textit{saṅgīti}; lit. recitations) show that in all these important events of Buddhist history when the extended Saṅgha family came together, the DhammaVinaya was recited together, as a means to remain aligned with the teachings and to foster harmony. Another feature of monastic communities, is the fortnightly recitation of the \textit{Pātimokkha}, the rules for monks and nuns, in which even solitary forest dwellers, including Arahants, were encouraged by the Buddha to participate, as they make their way to the nearest monastery in the vicinity (Mv.II.5.5). Recitation of texts together, not only strengthens a common commitment to the DhammaVinaya, but in a more practical way, it also enables monastics to chant in sync and unison when reciting together with their spiritual companions. This not only increases clarity and understanding, but also makes for a more homogenous listening experience at a ceremony, e.g. a dāna or bereavement service conducted by monastics. Furthermore, the coming together frequently to recite the Buddha's teachings, creates a bond among Saṅgha members and leads to their growth. This would not be so if everyone recites the Dhamma on his own.
 
 \begin{quote}
-  And what, bhikkhus, are the seven principles of non-decline? (1) ``As long as the bhikkhus assemble often and hold frequent assemblies, only growth is to be expected for them, not decline. (2) ``As long as the bhikkhus assemble in harmony, adjourn in harmony, and conduct the affairs of the Saṅgha in harmony, only growth is to be expected for them, not decline. (AN 7.23)\\
+  And what, bhikkhus, are the seven principles of non-decline? (1) ``As long as the bhikkhus assemble often and hold frequent assemblies, only growth is to be expected for them, not decline. (2) ``As long as the bhikkhus assemble in harmony, adjourn in harmony, and conduct the affairs of the Saṅgha in harmony, only growth is to be expected for them, not decline. (AN 7.23)
 \end{quote}
 
 \subsection*{Recitation Among Monastics}
 
-While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha's time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that \textit{``if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation."} (Cv.VIII.12.2-11)\\
+While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha's time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that \textit{``if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation."} (Cv.VIII.12.2-11)
 
 BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four ways in which a person might be trained to be a reciter of a text:
 
@@ -381,9 +404,7 @@ BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four 
   \item The teacher recites one line, and the student recites the next line alone.
 \end{enumerate}
 
-In order for a monk to be free from dependence (\textit{nissaya}) on a teacher, \textit{``he must be learned and intelligent, knowing both Pāṭimokkhas … and must have been ordained as a bhikkhu for at least five years''} (Mv.I.53.5-13).\\
-
-\clearpage
+In order for a monk to be free from dependence (\textit{nissaya}) on a teacher, \textit{``he must be learned and intelligent, knowing both Pāṭimokkhas … and must have been ordained as a bhikkhu for at least five years''} (Mv.I.53.5-13).
 
 The Commentary says that a learned bhikkhu must have memorized:
 
@@ -394,32 +415,32 @@ The Commentary says that a learned bhikkhu must have memorized:
   \item Three kinds of \textit{anumodanā} (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.
 \end{itemize}
 
-Lastly, when monastics from other sects wanted to become monks in the Buddha's dispensation, they typically had to undergo a four-month probation period. However, \textit{``a probationer fails in his probation and is not to be accepted … if he does not have a keen desire for recitation.''} (Mv.I.38.5-10)\\
+Lastly, when monastics from other sects wanted to become monks in the Buddha's dispensation, they typically had to undergo a four-month probation period. However, \textit{``a probationer fails in his probation and is not to be accepted … if he does not have a keen desire for recitation.''} (Mv.I.38.5-10)
 
-Once again, we can see the immense emphasis that was placed on memorization and recitation, starting already during the Buddha's own ministry, and having continued all the way to the 21st century, where we can still find monks who are able to memorize the entirety of the \textit{Tipiṭaka}.\\
+Once again, we can see the immense emphasis that was placed on memorization and recitation, starting already during the Buddha's own ministry, and having continued all the way to the 21st century, where we can still find monks who are able to memorize the entirety of the \textit{Tipiṭaka}.
 
 \subsection*{What to Recite}
 
-While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is: the selection of texts for recitation and memorization, there being such a vast amount of teachings that the Buddha left behind. What is essential - what is secondary? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are the Discourse on Setting in Motion the Wheel of Dhamma (\textit{Dhammacakkappavattanasutta}), the Gradual Training, and The Dhamma in Brief. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly, further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.\\
+While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is: the selection of texts for recitation and memorization, there being such a vast amount of teachings that the Buddha left behind. What is essential - what is secondary? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are the Discourse on Setting in Motion the Wheel of Dhamma (\textit{Dhammacakkappavattanasutta}), the Gradual Training, and The Dhamma in Brief. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly, further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
 
-Besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are the Discourse on the Characteristics of Not-Self (\textit{Anatta-lakkhaṇa Sutta}), the Fire Sermon (\textit{Āditta-Pariyāya Sutta}), the Buddha's First and Final Words, Mindfulness of Breathing, and Dependent Origination. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.\\
+Besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are the Discourse on the Characteristics of Not-Self (\textit{Anatta-lakkhaṇa Sutta}), the Fire Sermon (\textit{Āditta-Pariyāya Sutta}), the Buddha's First and Final Words, Mindfulness of Breathing, and Dependent Origination. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.
 
-From these profound teachings we can take a step back to the practical, day-to-day perceptions that the Buddha specifically recommended to be frequently reflected upon. In this category we find the 5 and 10 Subjects for Frequent Recollection, also the Reflections on The Four Requisites, and a separate reflection on The Repulsiveness of Food. Recollection of Impermanence, The 3 Characteristics, and The Thirty-Two Body Parts are also frequently mentioned in the discourses. Perceptions that are closely related to the 2nd path factor of the noble eightfold path, i.e. right thought (\textit{sammā saṇkappa}), are the \textit{Mettasutta} and The Divine Abidings. Perceptions that arouse the four \textit{Brahmavihāras} can seamlessly lead the practitioner towards the 8th path factor, \textit{sammā samādhi}. At times when energy is lacking, however, chants that inspire, motivate, or arouse urgency, can be used to heat up and revitalize the practice. This is where Striving According to the Dhamma, The Burdens, Respect for the Dhamma, and the Miscellaneous Verses can come to the rescue.\\
+From these profound teachings we can take a step back to the practical, day-to-day perceptions that the Buddha specifically recommended to be frequently reflected upon. In this category we find the 5 and 10 Subjects for Frequent Recollection, also the Reflections on The Four Requisites, and a separate reflection on The Repulsiveness of Food. Recollection of Impermanence, The 3 Characteristics, and The Thirty-Two Body Parts are also frequently mentioned in the discourses. Perceptions that are closely related to the 2nd path factor of the noble eightfold path, i.e. right thought (\textit{sammā saṇkappa}), are the \textit{Mettasutta} and The Divine Abidings. Perceptions that arouse the four \textit{Brahmavihāras} can seamlessly lead the practitioner towards the 8th path factor, \textit{sammā samādhi}. At times when energy is lacking, however, chants that inspire, motivate, or arouse urgency, can be used to heat up and revitalize the practice. This is where Striving According to the Dhamma, The Burdens, Respect for the Dhamma, and the Miscellaneous Verses can come to the rescue.
 
-Lastly, this Recitation Book also includes passages that illuminate how to establish good relations among fellow practitioners, such as the Principles of Cordiality, Principles of Non-Decline, and The Four Great References. Also included are chants that monks commonly perform as services to the laity, such as Anumodanā, Sharing of Merits, and Funeral Chants.\\
+Lastly, this Recitation Book also includes passages that illuminate how to establish good relations among fellow practitioners, such as the Principles of Cordiality, Principles of Non-Decline, and The Four Great References. Also included are chants that monks commonly perform as services to the laity, such as Anumodanā, Sharing of Merits, and Funeral Chants.
 
-To summarize, memorization of the Dhamma and group recitation fulfill a variety of different purposes and benefits, ranging all the way from the mundane aspects such as the ability to recite in unison, the fostering of communal harmony, all the way to the attainment of final liberation.\\
+To summarize, memorization of the Dhamma and group recitation fulfill a variety of different purposes and benefits, ranging all the way from the mundane aspects such as the ability to recite in unison, the fostering of communal harmony, all the way to the attainment of final liberation.
 
 \subsection*{How to Recite}
 
-See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Appendix\\
+See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Appendix
 
 \subsection*{References}
-[1] Anālayo \textit{Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context}, Canadian Journal of Buddhist Studies (2007-3)\\
+[1] Anālayo \textit{Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context}, Canadian Journal of Buddhist Studies (2007-3)
 
-[2] Anālayo \textit{Ancient Indian Education and Mindfulness}, Springer Science+Business Media (2019)\\
+[2] Anālayo \textit{Ancient Indian Education and Mindfulness}, Springer Science+Business Media (2019)
 
-[3] Eysenck, M. W. et al. \textit{Cognitive Psychology}, Psychology Press, Hove (1992/2005)\\
+[3] Eysenck, M. W. et al. \textit{Cognitive Psychology}, Psychology Press, Hove (1992/2005)
 
 [4] Ṭhānissaro Bhikkhu \textit{The Buddhist Monastic Code II}, Metta Forest Monastery (2013)
 
@@ -438,8 +459,8 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Ap
 
 \begin{center}
 \begin{tabular}{@{}lll@{}}
-  [...] & = & Only recited by the leader \\
-  \abbrbreathmark\ & = & Take a breath \\
+  [...] & : & Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & : & Take a breath \\
 \end{tabular}
 
 % Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
@@ -471,6 +492,8 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Ap
 \end{center}
 
 % \bigskip
+
+% TODO should we add this?
 
 % Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
 % P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
@@ -8609,6 +8632,9 @@ Sadā sotthī bhavantu te
 \section{Yathā vāri-vahā pūrā}
 \label{yatha-vari-vaha-pura}
 
+% TODO: should be a way to do automatically but i give up
+ \vspace{-1em}
+
 \begin{twochants}
   Yathā vāri-vahā pūrā – Paripūrenti sāgaraṁ\\
   Evam-eva ito dinnaṁ – Petānaṁ upakappati
@@ -8625,7 +8651,7 @@ Sadā sotthī bhavantu te
 \suttaRef{[Khp 1.7]}
 
 %TODO this is a bit hacky, works for now
-\vspace{8pt}
+% \vspace{8pt}
 
 \begin{pali-hangtogether}
   Icchitaṁ patthitaṁ tumhaṁ – Khippam-eva samijjhatu\\
@@ -8679,6 +8705,8 @@ Sadā sotthī bhavantu te
 \section{Ratanattay'ānubhāv'ādi-gāthā}
 \label{ratanattayanubhavadi-gatha}
 
+ \vspace{-1em}
+
 \begin{pali-hang}
 Ratanattay'ānubhāvena – Ratanattaya-tejasā\\
 Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā\\
@@ -8710,6 +8738,8 @@ Sata-vassā ca āyu ca – Jīva-siddhī bhavantu te
 
 \section{Bhojana-dānānumodanā}
 \label{bhojana-dananumodana}
+
+ \vspace{-1em}
 
 [Yo yassa bhojanaṁ deti]\\
 So tassa deti pañcapi\\
@@ -8779,6 +8809,8 @@ Saha sabbehi ñātibhī
 \section{Culla-maṅgala-cakka-vāḷa}
 \label{culla-mangala-cakka-vala}
 
+ \vspace{-1em}
+
 \begin{pali-hang}
 [Sabba-buddh'ānubhāvena]\\
 Sabba-dhamm'ānubhāvena\\
@@ -8826,6 +8858,8 @@ Jīva-siddhī bhavantu te
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
 \section{Aggappasāda-sutta-gāthā}
 \label{aggappasada-sutta-gatha}
+
+ \vspace{-1em}
 
 \begin{twochants}
   Aggato ve pasannānaṁ – Aggaṁ dhammaṁ vijānataṁ\\
@@ -8883,6 +8917,8 @@ Jīva-siddhī bhavantu te
 \section{Kāla-dāna-sutta-gāthā}
 \label{kala-dana-sutta-gatha}
 
+ \vspace{-1em}
+
 \begin{twochants}
   Kāle dadanti sapaññā – Vadaññū vīta-maccharā\\
   Kālena dinnaṁ ariyesu – Uju-bhūtesu tādisu\\
@@ -8933,6 +8969,8 @@ Jīva-siddhī bhavantu te
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
 \section{So attha-laddho}
 \label{so-attha-laddho}
+
+ \vspace{-1em}
 
 \begin{twochants}
   So attha-laddho sukhito – Viruḷho buddha-sāsane\\
@@ -8989,6 +9027,8 @@ Jīva-siddhī bhavantu te
 \section{Devā-ārādhanā}
 \label{deva-aradhana}
 
+ \vspace{-1em}
+
 Pharitvāna\hyperlink{endnote121-appendix}{\hypertarget{endnote121-body}{\pagenote{%
   \hypertarget{endnote121-appendix}{\hyperlink{endnote121-body}{The “Invitation to the Devas” is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do.}}}}}
 mettaṁ samettā bhadantā\\
@@ -9041,17 +9081,27 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote123-appendix}{\hype
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
+
+\vspace{-1em}
+
 [Namo tassa] bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{english-verses}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
 \end{english-verses}
 
+\vspace{1em}
+% TODO does teh job, make sure even with spacing
+
 #+end_src
+
 ** Saraṇa-gamana-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Saraṇa-gamana-pāṭho}
 \label{sarana-gamana-patho}
+
+\vspace{-1em}
+
 Buddhaṁ saraṇaṁ gacchāmi\\
 Dhammaṁ saraṇaṁ gacchāmi\\
 Saṅghaṁ saraṇaṁ gacchāmi
@@ -9082,11 +9132,15 @@ Tatiyam-pi saṅghaṁ saraṇaṁ gacchāmi
   A third time, to the Saṅgha I go for refuge.
 \end{english-verses}
 
+\vspace{1em}
+
 #+end_src
 ** Nama-kāra-siddhi-gāthā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Nama-kāra-siddhi-gāthā}
 \label{nama-kara-siddhi-gatha}
+
+\vspace{-1em}
 
 [Yo cakkhumā] moha-malāpakaṭṭho\\
 Sāmaṁ va buddho sugato vimutto\\
@@ -9153,6 +9207,9 @@ Sabb'antarāyā ca vināsamentu
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Namo-kāra-aṭṭhaka}
 \label{namo-kara-atthaka}
+
+\vspace{-1em}
+
 [Namo arahato] sammā – Sambuddhassa mahesino\\
 Namo uttama-dhammassa – Svākkhātass'eva ten'idha
 
@@ -9196,6 +9253,8 @@ Namo-kārassa tejena – Vidhimhi homi tejavā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Maṅgala-sutta}
 \label{mangala-sutta}
+
+\vspace{-1em}
 
 \begin{pali-hang}
 [Evaṁ me sutaṁ]: Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
@@ -9332,6 +9391,8 @@ Sabbattha sotthiṁ gacchanti – Tan-tesaṁ maṅgalam-uttaman'ti
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Ratana-sutta}
 \label{ratana-sutta}
+
+\vspace{-1em}
 
 [Yānīdha] bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe\\
 \begin{pali-hangtogether}
@@ -9546,6 +9607,9 @@ Tathāgataṁ deva-manussa-pūjitaṁ – Saṅghaṁ namassāma suvatthi hotu
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Karaṇīya-metta-sutta}
 \label{karaniya-metta-sutta}
+
+\vspace{-1em}
+
 [Karaṇīya] m-attha-kusalena – Yan-taṁ santaṁ padaṁ abhisamecca\\
 Sakko ujū ca suhujū ca – Suvaco c'assa mudu anatimānī
 
@@ -9652,6 +9716,9 @@ Kāmesu vineyya gedhaṁ – Na hi jātu gabbha-seyyaṁ punar-etī'ti
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Khandha-parittaṁ}
 \label{khandha-parittam}
+
+\vspace{-1em}
+
 [Virūpakkhehi me mettaṁ] – Mettaṁ Erāpathehi me\\
 Chabyā-puttehi me mettaṁ – Mettaṁ Kaṇhā-gotamakehi ca
 
@@ -9722,6 +9789,9 @@ So'haṁ namo bhagavato – Namo sattannaṁ sammā-sambuddhānaṁ.
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Buddha-Dhamma-Saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
+
+\vspace{-1em}
+
 [Iti pi so bhagavā]\\
 Arahaṁ sammā-sambuddho\\
 Vijjā-caraṇa-sampanno\\
@@ -9776,6 +9846,9 @@ Anuttaraṁ puññakkhettaṁ lokassā'ti
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Yaṅ kiñci ratanaṁ loke}
 \label{yan-kinci-ratanam-loke}
+
+\vspace{-1em}
+
 [Yaṅ kiñci ratanaṁ loke] – Vijjati vividhaṁ puthu\\
 Ratanaṁ buddha-samaṁ n'atthi – Tasmā sotthī bhavantu te
 
@@ -9853,6 +9926,9 @@ Nassant'upaddavā sabbe – Rogā vūpasamentu te
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Bojjh'aṅga-parittaṁ}
 \label{bojjhana-parittam}
+
+\vspace{-1em}
+
 [Bojjh'aṅgo sati-saṅkhāto]\\
 Dhammānaṁ vicayo tathā\\
 Viriyam-pīti-passaddhi\\
@@ -9902,12 +9978,12 @@ Tamhā vuṭṭhāsi ṭhānaso\\
 Etena sacca-vajjena\\
 Sotthi te hotu sabbadā
 
-\begin{english}
+\begin{english-verses}
   Once, when the Dhamma King was afflicted with fever,\\
   He had the Elder Cunda recite that very teaching with devotion.\\
   And as he approved, he rose up from that disease.\\
   By the saying of this truth, may you always be well.
-\end{english}
+\end{english-verses}
 
 Pahīnā te ca ābādhā\\
 Tiṇṇannam-pi mahesinaṁ\\
@@ -9916,12 +9992,12 @@ Pattānuppatti-dhammataṁ\\
 Etena sacca-vajjena\\
 Sotthi te hotu sabbadā
 
-\begin{english}
+\begin{english-verses}
   Those diseases were abandoned by the three great seers,\\
   Just as defilements are demolished by the Path\\
   In accordance with step-by-step attainment.\\
   By the saying of this truth, may you always be well.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Thai]}
 #+end_src
@@ -9929,35 +10005,38 @@ Sotthi te hotu sabbadā
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Abhaya-parittaṁ}
 \label{abhaya-parittam}
+
+\vspace{-1em}
+
 [Yan-dunnimittaṁ] avamaṅgalañ-ca – Yo cāmanāpo sakuṇassa saddo\\
 Pāpaggaho dussupinaṁ akantaṁ – Buddhānubhāvena vināsamentu
 
-\begin{english}
+\begin{english-verses}
   May bad omens, inauspiciousness,\\
   Undesirable sounds of birds,\\
   Unlucky planets and unpleasant bad dreams\\
   Go to ruin by the power of the Buddha.
-\end{english}
+\end{english-verses}
 
 Yan-dunnimittaṁ avamaṅgalañ-ca – Yo cāmanāpo sakuṇassa saddo\\
 Pāpaggaho dussupinaṁ akantaṁ – Dhammānubhāvena vināsamentu
 
-\begin{english}
+\begin{english-verses}
   May bad omens, inauspiciousness,\\
   Undesirable sounds of birds,\\
   Unlucky planets and unpleasant bad dreams\\
   Go to ruin by the power of the Dhamma.
-\end{english}
+\end{english-verses}
 
 Yan-dunnimittaṁ avamaṅgalañ-ca – Yo cāmanāpo sakuṇassa saddo\\
 Pāpaggaho dussupinaṁ akantaṁ – Saṅghānubhāvena vināsamentu
 
-\begin{english}
+\begin{english-verses}
   May bad omens, inauspiciousness,\\
   Undesirable sounds of birds,\\
   Unlucky planets and unpleasant bad dreams\\
   Go to ruin by the power of the Saṅgha.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Trad]}
 #+end_src
@@ -9965,47 +10044,50 @@ Pāpaggaho dussupinaṁ akantaṁ – Saṅghānubhāvena vināsamentu
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Devatā-uyyojana-gāthā}
 \label{devata-uyyojana-gatha}
+
+\vspace{-1em}
+
 [Dukkhappattā] ca niddukkhā – Bhayappattā ca nibbhayā\\
 Sokappattā ca nissokā – Hontu sabbe pi pāṇino
 
-\begin{english}
+\begin{english-verses}
   [May] sufferers be without suffering,\\
   The fear-struck be without fear,\\
   The grief-stricken be without grief\\\relax
   [Thus] may all beings be.
-\end{english}
+\end{english-verses}
 
 Ettāvatā ca amhehi – Sambhataṁ puñña-sampadaṁ\\
 Sabbe devā anumodantu\hyperlink{endnote125-appendix}{\hypertarget{endnote125-body}{\pagenote{%
   \hyperlink{endnote125-appendix}{\hypertarget{endnote125-body}{Orig: “devānumodantu”}}}}}
 – Sabba-sampatti-siddhiyā
 
-\begin{english}
+\begin{english-verses}
   To the extent that all of us\\
   Have accumulated a wealth of merits;\\
   In this may all devas rejoice,\\
   For the attainment of all fortunes.
-\end{english}
+\end{english-verses}
 
 Dānaṁ dadantu saddhāya – Sīlaṁ rakkhantu sabbadā\\
 Bhāvanābhiratā hontu – Gacchantu devatā-gatā
 
-\begin{english}
+\begin{english-verses}
   May they give gifts with faith.\\
   May they guard moral precepts always.\\
   May they delight in mind-development.\\
   May the deities who have come go [back].
-\end{english}
+\end{english-verses}
 
 [Sabbe buddhā] balappattā – Paccekānañ-ca yaṁ balaṁ\\
 Arahantānañ-ca tejena – Rakkhaṁ bandhāmi sabbaso
 
-\begin{english}
+\begin{english-verses}
   All Buddhas possess [supernormal] strength.\\
   And [there is] the power of Paccekabuddhas.\\
   By the power of the arahants too,\\
   I create protection for all times.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[MJG]}
 #+end_src
@@ -10013,6 +10095,9 @@ Arahantānañ-ca tejena – Rakkhaṁ bandhāmi sabbaso
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Jaya-maṅgala-aṭṭha-gāthā}
 \label{jaya-mangala-attha-gatha}
+
+\vspace{-1em}
+
 [Bāhuṁ] sahassam-abhinimmita sāvudhan-taṁ\\
 Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
 Dān'ādi-dhamma-vidhinā jitavā\hyperlink{endnote126-appendix}{\hypertarget{endnote126-body}{\pagenote{%
@@ -10020,25 +10105,25 @@ Dān'ādi-dhamma-vidhinā jitavā\hyperlink{endnote126-appendix}{\hypertarget{en
 mun'indo\\
 Tan-tejasā bhavatu te jaya-maṅgalāni
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   Mara, on the elephant Girimekhala, uttered a frightening roar together with his troops.\\
   The Lord of Sages defeated him by means of such qualities as generosity:\\
   By the power of this, may you have victory blessings.
-\end{english}
+\end{english-verses}
 
 Mārātirekam-abhiyujjhita-sabba-rattiṁ\\
 Ghoram-pan'āḷavakam-akkhama-thaddha-yakkhaṁ\\
 Khantī-sudanta-vidhinā jitavā mun'indo\\
 Tan-tejasā bhavatu te jaya-maṅgalāni
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   Even more frightful than Mara making war all night\\
   Was Āḷavaka, the arrogant unstable ogre.\\
   The Lord of Sages defeated him by means of well-trained endurance:\\
   By the power of this, may you have victory blessings.
-\end{english}
+\end{english-verses}
 
 Nāḷāgiriṁ gaja-varaṁ atimatta-bhūtaṁ\\
 Dāv'aggi-cakkam-asanīva sudāruṇan-taṁ\\
@@ -10046,90 +10131,90 @@ Mett'ambu-seka-vidhinā jitavā mun'indo\\
 Tan-tejasā bhavatu te jaya-maṅgalāni\\
 Nāḷāgiri, the excellent elephant, when maddened,
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   Was very horrific, like a forest fire, a flaming discus, a lightning bolt.\\
   The Lord of Sages defeated him by sprinkling the water of good will:\\
   By the power of this, may you have victory blessings.
-\end{english}
+\end{english-verses}
 
 Ukkhitta-khaggam-atihattha-sudāruṇan-taṁ\\
 Dhāvan-ti-yojana-path'aṅguli-mālavantaṁ\\
 Iddhī'bhisaṅkhata-mano jitavā mun'indo\\
 Tan-tejasā bhavatu te jaya-maṅgalāni
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   Very horrific, with a sword upraised in his expert hand,\\
   Garlanded-with-Fingers ran three leagues along the path.\\
   The Lord of Sages defeated him with mind-fashioned marvels:\\
   By the power of this, may you have victory blessings.
-\end{english}
+\end{english-verses}
 
 Katvāna kaṭṭham-udaraṁ iva gabbhinīyā\\
 Ciñcāya duṭṭha-vacanaṁ jana-kāya majjhe\\
 Santena soma-vidhinā jitavā mun'indo\\
 Tan-tejasā bhavatu te jaya-maṅgalāni
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   Having made a wooden belly to appear pregnant,\\
   Ciñca made a lewd accusation in the midst of the gathering.\\
   The Lord of Sages defeated her with peaceful, gracious means:\\
   By the power of this, may you have victory blessings.
-\end{english}
+\end{english-verses}
 
 Saccaṁ vihāya mati-saccaka-vāda-ketuṁ\\
 Vādābhiropita-manaṁ ati-andha-bhūtaṁ\\
 Paññā-padīpa-jalito jitavā mun'indo\\
 Tan-tejasā bhavatu te jaya-maṅgalāni
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   Saccaka, whose provocative views had abandoned the truth,\\
   Delighting in argument, had become thoroughly blind.\\
   The Lord of Sages defeated him with the light of discernment:\\
   By the power of this, may you have victory blessings.
-\end{english}
+\end{english-verses}
 
 Nandopananda-bhujagaṁ vibudhaṁ mah'iddhiṁ\\
 Puttena thera-bhujagena damāpayanto\\
 Iddhūpadesa-vidhinā jitavā mun'indo\\
 Tan-tejasā bhavatu te jaya-maṅgalāni
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   Nandopananda was a serpent with great power but wrong views.\\
   The Lord of Sages defeated him by means of a display of marvels,\\
   Sending his son, the serpent-elder, to tame him:\\
   By the power of this, may you have victory blessings.
-\end{english}
+\end{english-verses}
 
 Duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṁ\\
 Brahmaṁ visuddhi-jutim-iddhi-bakābhidhānaṁ\\
 Ñāṇāgadena vidhinā jitavā mun'indo\\
 Tan-tejasā bhavatu te jaya-maṅgalāni
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   His hands bound tight by the serpent of wrongly held views,\\
   Baka, the Brahma, thought himself pure in his radiance \& power.\\
   The Lord of Sages defeated him by means of his words of knowledge:\\
   By the power of this, may you have victory blessings.
-\end{english}
+\end{english-verses}
 
 Etā pi buddha-jaya-maṅgala-aṭṭha-gāthā\\
 Yo vācano dina-dine saratem-atandī\\
 Hitvān'aneka-vividhāni c'upaddavāni\\
 Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 
-\begin{english}
+\begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   These eight verses of the Buddha's victory blessings:\\
   Whatever person of discernment recites or recalls them day after day without lapsing,\\
   Destroying all kinds of obstacles,\\
   Will attain emancipation \& happiness.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Trad]}
 #+end_src
@@ -10138,64 +10223,67 @@ Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Jaya-parittaṁ}
 \label{jaya-parittam}
+
+\vspace{-1em}
+
 [Mahā-kāruṇiko] nātho – Hitāya sabba-pāṇinaṁ\\
 Pūretvā pāramī sabbā – Patto sambodhim-uttamaṁ\\
 Etena sacca-vajjena – Hotu te jaya-maṅgalaṁ
 
-\begin{english}
+\begin{english-verses}
   The Great Compassionate Protector,\\
   For the benefit of all beings,\\
   Fulfilled all the Perfections\\
   And reached the highest Awakening.\\
   By this utterance of truth,\\
   May there be well-being for you always.
-\end{english}
+\end{english-verses}
 
 Jayanto bodhiyā mūle – Sakyānaṁ nandi-vaḍḍhano\\
 Evaṁ tvaṁ vijayo hohi – Jayassu jaya-maṅgale
 
-\begin{english}
+\begin{english-verses}
   Victorious at the foot of the bodhi tree\\
   Was the joy-enhancer of the Sakyas.\\
   Even so, may there be victory.\\
   May you attain auspicious victory.
-\end{english}
+\end{english-verses}
 
 Aparājita-pallaṅke – Sīse paṭhavi-pokkhare\\
 Abhiseke sabba-buddhānaṁ – Aggappatto pamodati
 
-\begin{english}
+\begin{english-verses}
   At the invincible seat,\\
   The best on Earth,\\
   The consecration place of all Buddhas,\\
   Having reached the highest, he rejoices.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[MJG]}
 
 Sunakkhattaṁ sumaṅgalaṁ – Supabhātaṁ suhuṭṭhitaṁ\\
 Sukhaṇo sumuhutto ca – Suyiṭṭhaṁ brahma-cārisu
 
-\begin{english}
+\begin{english-verses}
   Good constellations, good blessings,\\
   Good daybreak, good waking,\\
   Good moment and good time\\
   When offerings are made to holy practitioners.
-\end{english}
+\end{english-verses}
 
 Padakkhiṇaṁ kāya-kammaṁ – Vācā-kammaṁ padakkhiṇaṁ\\
 Padakkhiṇaṁ mano-kammaṁ – Paṇīdhi te padakkhiṇe\hyperlink{endnote127-appendix}{\hypertarget{endnote127-body}{\pagenote{%
 \hyperlink{endnote127-appendix}{\hypertarget{endnote127-body}{Orig: “paṇidhi” and “padakkhiṇā”}}}}}\\
 Padakkhiṇāni katvāna – Labhant'atthe padakkhiṇe
 
-\begin{english}
+\begin{english-verses}
   Felicitous is bodily kamma\\
   Verbal kamma is felicitous\\
   Felicitous is mental kamma\\
   When aspiring for felicity.\\
   Having done the felicitous\\
   They get felicitous rewards
-\end{english}
+\end{english-verses}
 
 \suttaRef{[AN 3.155]}
 #+end_src
@@ -10203,35 +10291,38 @@ Padakkhiṇāni katvāna – Labhant'atthe padakkhiṇe
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-sabba-mangalam}
+
+\vspace{-1em}
+
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā\\
 Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
 
-\begin{english}
+\begin{english-verses}
   May there be all blessings.\\
   May all deities give protection.\\
   By the power of all Buddhas,\\
   May there ever be well-being for you.
-\end{english}
+\end{english-verses}
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā\\
 Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
 
-\begin{english}
+\begin{english-verses}
   May there be all blessings.\\
   May all deities give protection.\\
   By the power of all Dhammas,\\
   May there ever be well-being for you.
-\end{english}
+\end{english-verses}
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā\\
 Sabba-saṅghānubhāvena – Sadā sotthī bhavantu te
 
-\begin{english}
+\begin{english-verses}
   May there be all blessings.\\
   May all deities give protection.\\
   By the power of all Saṅghas,\\
   May there ever be well-being for you.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Trad]}
 
@@ -10251,237 +10342,247 @@ Sabba-saṅghānubhāvena – Sadā sotthī bhavantu te
 
 ** Pubba-bhāga-nama-kāra-pāṭho
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
+
+\vspace{-1em}
+
 [Namo tassa] bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 
-\begin{english}
+\begin{english-verses}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
-\end{english}
+\end{english-verses}
+
+\vspace{1em}
+
 #+end_src
 ** Dhamma-saṅgaṇī-mātikā
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \section{Dhamma-saṅgaṇī-mātikā}
 \label{dhamma-sangani-matika}
+
+\vspace{-1em}
+
 [Kusalā dhammā]\\
 Akusalā dhammā\\
 Abyākatā dhammā
 
-\begin{english}
+\begin{english-verses}
   [Wholesome dhammas]\\
   Unwholesome dhammas\\
   Undetermined dhammas
-\end{english}
+\end{english-verses}
 
 Sukhāya vedanāya sampayuttā dhammā\\
 Dukkhāya vedanāya sampayuttā dhammā\\
 Adukkhamasukhāya vedanāya sampayuttā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas associated with pleasant feeling\\
   Dhammas associated with painful feeling\\
   Dhammas associated with neither-painful-nor-pleasant
-\end{english}
+\end{english-verses}
 
 Vipākā dhammā\\
 Vipāka-dhamma-dhammā\\
 N'eva vipāka na vipāka-dhamma-dhammā
 
-\begin{english}
+\begin{english-verses}
   Consequential dhamma\\
   Subject to consequential dhamma\\
   Neither consequential nor subject to consequential dhamma
-\end{english}
+\end{english-verses}
 
 Upādinn'upādāniyā dhammā\\
 Anupādinn'upādāniyā dhammā\\
 Anupādinnānupādāniyā dhammā
 
-\begin{english}
+\begin{english-verses}
   Clung dhammas which can be clung to\\
   Unclung dhammas which can be clung to\\
   Unclung dhammas which cannot be clung to
-\end{english}
+\end{english-verses}
 
 Saṅkiliṭṭha-saṅkilesikā dhammā\\
 Asaṅkiliṭṭha-saṅkilesikā dhammā\\
 Asaṅkiliṭṭhāsaṅkilesikā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas defiled and subject to defilements\\
   Dhammas undefiled but subject to defilements\\
   Dhammas neither defiled nor subject to defilements
-\end{english}
+\end{english-verses}
 
 Savitakka-savicārā dhammā\\
 Avitakka-vicāra-mattā dhammā\\
 Avitakkāvicārā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas with thought and examination\\
   Dhammas without thought but with examination\\
   Dhammas with neither thought nor examination
-\end{english}
+\end{english-verses}
 
 Pīti-saha-gatā dhammā\\
 Sukha-saha-gatā dhammā\\
 Upekkhā-saha-gatā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas accompanied by rapture\\
   Dhammas accompanied by pleasure\\
   Dhammas accompanied by equanimity
-\end{english}
+\end{english-verses}
 
 Dassanena pahātabbā dhammā\\
 Bhāvanāya pahātabbā dhammā\\
 N'eva dassanena na bhāvanāya pahātabbā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas abandoned by seeing\\
   Dhammas abandoned by development\\
   Dhammas abandoned by neither seeing nor development
-\end{english}
+\end{english-verses}
 
 Dassanena pahātabba-hetukā dhammā\\
 Bhāvanāya pahātabba-hetukā dhammā\\
 N'eva dassanena na bhāvanāya pahātabba-hetukā dhammā
 
-\begin{english}
+\begin{english-verses}
   Conditioned dhammas abandoned by seeing\\
   Conditioned dhammas abandoned by development\\
   Conditioned dhammas abandoned by neither seeing nor development
-\end{english}
+\end{english-verses}
 
 Ācaya-gāmino dhammā\\
 Apacaya-gāmino dhammā\\
 N'ev'ācaya-gāmino nāpacaya-gāmino dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas leading to building up\\
   Dhamma leading to dismantling\\
   Dhammas leading to neither building up nor dismantling
-\end{english}
+\end{english-verses}
 
 Sekkhā dhammā\\
 Asekkhā dhammā\\
 N'eva sekkhā nāsekkhā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas of one in training\\
   Dhammas of one beyond training\\
   Dhammas of neither one in training nor one beyond training
-\end{english}
+\end{english-verses}
 
 Parittā dhammā\\
 Mahaggatā dhammā\\
 Appamāṇā dhammā
 
-\begin{english}
+\begin{english-verses}
   Limited dhammas\\
   Exhalted dhammas\\
   Immeasurable dhammas
-\end{english}
+\end{english-verses}
 
 Paritt'ārammaṇā dhammā\\
 Mahaggat'ārammaṇā dhammā\\
 Appamāṇ'ārammaṇā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas from limited sense-obejcts\\
   Dhammas from exhalted sense-objects\\
   Dhammas from immeasurable sense-objects
-\end{english}
+\end{english-verses}
 
 Hīnā dhammā\\
 Majjhimā dhammā\\
 Paṇītā dhammā
 
-\begin{english}
+\begin{english-verses}
   Inferior dhammas\\
   Moderate dhammas\\
   Superior dhammas
-\end{english}
+\end{english-verses}
 
 Micchatta-niyatā dhammā\\
 Sammatta-niyatā dhammā\\
 Aniyatā dhammā
 
-\begin{english}
+\begin{english-verses}
   Certain wrong dhammas\\
   Certain correct dhammas\\
   Uncertain dhammas
-\end{english}
+\end{english-verses}
 
 Magg'ārammaṇā dhammā\\
 Magga-hetukā dhammā\\
 Maggādhipatino dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas with the path as object\\
   Dhammas with the path as cause\\
   Dhammas with the path as predominant factor
-\end{english}
+\end{english-verses}
 
 Uppannā dhammā\\
 Anuppannā dhammā\\
 Uppādino dhammā
 
-\begin{english}
+\begin{english-verses}
   Arisen dhammas\\
   Unarisen dhammas\\
   Bound to arise dhammas
-\end{english}
+\end{english-verses}
 
 Atītā dhammā\\
 Anāgatā dhammā\\
 Paccuppannā dhammā
 
-\begin{english}
+\begin{english-verses}
   Past dhammas\\
   Future dhammas\\
   Present dhammas
-\end{english}
+\end{english-verses}
 
 Atīt'ārammaṇā dhammā\\
 Anāgat'ārammaṇā dhammā\\
 Paccuppann'ārammaṇā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas with past sense-objects\\
   Dhammas with future sense-objects\\
   Dhammas with present sense-objects
-\end{english}
+\end{english-verses}
 
 Ajjhattā dhammā\\
 Bahiddhā dhammā\\
 Ajjhatta-bahiddhā dhammā
 
-\begin{english}
+\begin{english-verses}
   Internal dhammas\\
   External dhammas\\
   Internal and external dhamams
-\end{english}
+\end{english-verses}
 
 Ajjhatt'ārammaṇā dhammā\\
 Bahiddh'ārammaṇā dhammā\\
 Ajjhatta-bahiddh'ārammaṇā dhammā
 
-\begin{english}
+\begin{english-verses}
   Dhammas with internal sense-objects\\
   Dhammas with external sense-objects\\
   Dhammas with internal and external sense-objects
-\end{english}
+\end{english-verses}
 
 Sanidassana-sappaṭighā dhammā\\
 Anidassana-sappaṭighā dhammā\\
 Anidassanāppaṭighā dhammā
 
-\begin{english}
+\begin{english-verses}
   Visible and reactive dhammas\\
   Non-visible and reactive dhammas\\
   Non-visible and unobstructive dhammas
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhs 1]}
 #+end_src
@@ -10489,14 +10590,17 @@ Anidassanāppaṭighā dhammā
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
+
+\vspace{-1em}
+
 [Pañcakkhandhā]:\\
 Rūpakkhandho, vedanākkhandho,\\
 saññākkhandho, saṅkhārakkhandho,\\
 viññāṇakkhandho.
 
-\begin{english}
+\begin{english-verses}
   [The five aggregates]: The aggregate of form, the aggregateof feeling, the aggregate of perception, the aggregate of volitional formations, the aggregate of consciousness.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[MN 109]}
 
@@ -10508,14 +10612,14 @@ Jivh'āyatanaṁ ras'āyatanaṁ,\\
 Kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ,\\
 Man'āyatanaṁ dhamm'āyatanaṁ
 
-\begin{english}
+\begin{english-verses}
   The eye-base, the form base\\
   The ear-base, the sound-base\\
   The nose-base, the odour-base\\
   The tongue-base, the flavour-base\\
   The body-base, the tangible-base\\
   The mind-base, the mind-object base.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[MN 148]}
 
@@ -10527,7 +10631,7 @@ Jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu,\\
 Kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu,\\
 Mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
 
-\begin{english}
+\begin{english-verses}
   Eighteen elements: The eye element, the form element, the eye-consciousness\\
   element;\\
   The ear element, the sound element, the ear-consciousness element;\\
@@ -10535,7 +10639,7 @@ Mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
   The tongue element, the flavour element, the tongue-consciousness element;\\
   The body element, the tangible element, the body-consciousness element;\\
   The mind element, the mind-object element, the mind-consciousness element.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[MN 115]}
 
@@ -10550,9 +10654,9 @@ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ\\
 samādh'indriyaṁ paññ'indriyaṁ,\\
 anaññātañ-ñassāmīt'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
 
-\begin{english}
+\begin{english-verses}
   Twenty-two faculties: The eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mind faculty, faculty of feminity, faculty of masculinity, life faculty, pleasure faculty, pain faculty, happiness faculty, displeasure faculty, equanimity faculty, conviction faculty, energy faculty, mindfulness faculty, concentration faculty, wisdom faculty, the `I am knowing the unknown'faculty, knowledge faculty, the faculty of one with complete knowledge.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Vibh]}
 
@@ -10562,13 +10666,13 @@ Dukkha-samudayo ariya-saccaṁ,\\
 Dukkha-nirodho ariya-saccaṁ,\\
 Dukkha-nirodha-gāminī paṭipadā ariya-saccaṁ.
 
-\begin{english}
+\begin{english-verses}
   The four noble truths:\\
   The noble truth of dukkha\\
   The noble truth of the origin of dukkha\\
   The noble truth of the cessation of dukkha\\
   The noble truth of the way leading to the cessation of dukkhā
-\end{english}
+\end{english-verses}
 
 \suttaRef{[SN 56.24]}
 
@@ -10598,7 +10702,7 @@ Bhava-nirodhā, jāti-nirodho,\\
 Jāti-nirodhā, jarā-maraṇaṁ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.\\
 Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti.
 
-\begin{english}
+\begin{english-verses}
   With ignorance as condition, volitional formations;\\
   With volitional formations as condition, consciousness;\\
   With consciousness as condition, name-and-form;\\
@@ -10624,7 +10728,7 @@ Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti.
   With the cessation of existence, cessation of birth;\\
   With the cessation of birth, ageing-and-death, sorrow, lamentation, pain, displeasure, and despair cease.\\
   Such is the cessation of this whole mass of suffering.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[SN 12.1]}
 #+end_src
@@ -10632,6 +10736,10 @@ Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti.
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \section{Paṭṭhāna-mātikā-pāṭho}
 \label{patthana-matika-patho}
+
+\vspace{-1em}
+
+\begin{pali-hang}
 [Hetu-paccayo], ārammaṇa-paccayo,\\
 adhipati-paccayo, anantara-paccayo,\\
 samanantara-paccayo, saha-jāta-paccayo,\\
@@ -10644,8 +10752,9 @@ jhāna-paccayo, magga-paccayo,\\
 sampayutta-paccayo, vippayutta-paccayo,\\
 atthi-paccayo, n'atthi-paccayo,\\
 vigata-paccayo, avigata-paccayo.
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   [Root condition], sense-object condition,\\
   predominant condition, immediate condition,\\
   directly immediate condition, coexistent condition,\\
@@ -10658,7 +10767,7 @@ vigata-paccayo, avigata-paccayo.
   associated condition, separated condition,\\
   existence condition, non-existence condition,\\
   disappeared condition, non-dissappeared condition.
-\end{english}
+\end{english-hang}
 
 \suttaRef{[Dhs A]}
 #+end_src
@@ -10666,45 +10775,48 @@ vigata-paccayo, avigata-paccayo.
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \section{Adāsi-me ādi gāthā}
 \label{adasi-me-adi-gatha}
+
+\vspace{-1em}
+
 [Adāsi me akāsi me] – Ñāti-mittā sakhā ca me\\
 Petānaṁ dakkhiṇaṁ dajjā – Pubbe katam-anussaraṁ
 
-\begin{english}
+\begin{english-verses}
   ``He gave to me [gifts], he did [things] for me.\\
   They're my relatives, friends and pals.''\\
   To the deceased one should give offerings,\\
   Remembering what was done before.
-\end{english}
+\end{english-verses}
 
 Na hi ruṇṇaṁ vā soko vā – Yā v'aññā paridevanā\\
 Na taṁ petānam-atthāya – Evaṁ tiṭṭhanti ñātayo
 
-\begin{english}
+\begin{english-verses}
   For neither weeping nor sorrow,\\
   Nor any form of lamentation\\
   Benefits the departed ones.\\
   Such is how the relatives remain.
-\end{english}
+\end{english-verses}
 
 Ayañ-ca kho dakkhinā dinnā – Saṅghamhi supatiṭṭhitā\\
 Dīgharattaṁ hitāy'assa – Ṭhānaso upakappati
 
-\begin{english}
+\begin{english-verses}
   And this offering that has been given\\
   And firmly established in the Saṅgha,\\
   Would be for their long-term welfare\\
   And arrives there immediately.
-\end{english}
+\end{english-verses}
 
 So ñāti-dhammo ca ayaṁ nidassito – Petāna'pūjā ca katā uḷārā\\
 Balañ-ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan'ti
 
-\begin{english}
+\begin{english-verses}
   And the duty of relatives has been shown,\\
   And lofty honouring of the departed done;\\
   Strength has also been given to the bhikkhus,\\
   And much merit accumulated by you all.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Khp 7]}
 #+end_src
@@ -10712,28 +10824,31 @@ Balañ-ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan'
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \section{Paṁsu-kūla for the Dead}
 \label{pamsu-kula-dead}
+
+\vspace{-1em}
+
 [Aniccā vata saṅkhārā] – Uppāda-vaya-dhammino\\
 Uppajjitvā nirujjhanti – Tesaṁ vūpasamo sukho \hfill{[3x]}
 
-\begin{english}
+\begin{english-verses}
   [Indeed, conditioned things cannot last]\\
   Their nature is to rise and cease;\hyperlink{endnote129-appendix}{\hypertarget{endnote129-body}{\pagenote{%
  \hyperlink{endnote129-appendix}{\hypertarget{endnote129-body}{Orig: “Their nature is to rise and fall”}}}}}\\
   Having arisen things must cease;\\
   Their stilling is true happiness.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[DN 16]}
 
 [Sabbe sattā] maranti ca – Mariṁsu ca marissare\\
 Tath'evāhaṁ marissāmi – N'atthi me ettha saṁsayo \hfill{[3x]}
 
-\begin{english}
+\begin{english-verses}
   [All living beings] are dying,\\
   Have died, and will die.\\
   In the same way, I will die,\\
   I have no doubt about this.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Thai]}
 #+end_src
@@ -10741,52 +10856,57 @@ Tath'evāhaṁ marissāmi – N'atthi me ettha saṁsayo \hfill{[3x]}
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \section{Paṁsu-kūla for the Living}
 \label{pamsu-kula-living}
+
+\vspace{-1em}
+
 [Aciraṁ vat'ayaṁ kāyo] – Paṭhaviṁ adhisessati\\
 Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ \hfill{[3x]}
 
-\begin{english}
+\begin{english-verses}
   [All too soon, this body]\\
   Will lie on the ground cast off,\\
   Bereft of consciousness,\\
   Like a useless scrap of wood.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Dhp 41]}
 #+end_src
 ** Bhavatu-sabba-maṅgalaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
 \section{Bhavatu-sabba-maṅgalaṁ}
-\label{bhavtu}
+\label{bhavatu}
+
+\vspace{-1em}
 
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā\\
 Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
 
-\begin{english}
+\begin{english-verses}
   May every blessing come to be\\
   And all good spirits guard you well\\
   Through the power of all Buddhas\\
   May you always be at ease
-\end{english}
+\end{english-verses}
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā\\
 Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
 
-\begin{english}
+\begin{english-verses}
   May every blessing come to be\\
   And all good spirits guard you well\\
   Through the power of all Dhammas\\
   May you always be at ease
-\end{english}
+\end{english-verses}
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā\\
 Sabba-saṅghānubhāvena – Sadā sotthī \breathmark\ bhavantu te
 
-\begin{english}
+\begin{english-verses}
   May every blessing come to be\\
   And all good spirits guard you well\\
   Through the power of all Saṅghas\\
   May you always be at ease
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Trad]}
 
@@ -10900,54 +11020,54 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 Puññass'idāni katassa yān'aññāni katāni me\\
 Tesañ-ca bhāgino hontu sattānantāppamāṇakā
 
-\begin{english}
+\begin{english-verses}
   May whatever living beings\\
   Without measure without end\\
   Partake of all the merit\\
   From the good deeds I have done
-\end{english}
+\end{english-verses}
 
 Ye piyā guṇavantā ca mayhaṁ mātā-pitā-dayo\\
 Diṭṭhā me cāpy-adiṭṭhā vā aññe majjhatta-verino
 
-\begin{english}
+\begin{english-verses}
   Those loved and full of goodness\\
   My mother and my father dear\\
   Beings seen by me and those unseen\\
   Those neutral and averse
-\end{english}
+\end{english-verses}
 
 Sattā tiṭṭhanti lokasmiṁ te bhummā catu-yonikā\\
 Pañc'eka-catu-vokārā saṁsarantā bhavābhave
 
-\begin{english}
+\begin{english-verses}
   Beings established in the world\\
   From the three planes and four grounds of birth\\
   With five aggregates or one or four\\
   Wandering on from realm to realm
-\end{english}
+\end{english-verses}
 
 Ñātaṁ ye patti-dānam-me anumodantu te sayaṁ\\
 Ye c'imaṁ nappajānanti devā tesaṁ nivedayuṁ
 
-\begin{english}
+\begin{english-verses}
   Those who know my act of dedication\\
   May they all rejoice in it\\
   And as for those yet unaware\\
   May the devas let them know
-\end{english}
+\end{english-verses}
 
 Mayā dinnāna-puññānaṁ anumodana-hetunā\\
 Sabbe sattā sadā hontu averā sukha-jīvino\\
 Khemappadañ-ca pappontu tesāsā sijjhataṁ subhā
 
-\begin{english}
+\begin{english-verses}
   By rejoicing in my sharing\\
   May all beings live at ease\\
   In freedom from hostility\\
   May their good wishes be fulfilled\\
   And may they all reach safety
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Thai]}
 
@@ -10963,11 +11083,11 @@ Khemappadañ-ca pappontu tesāsā sijjhataṁ subhā
 Idaṁ no ñātinaṁ hotu sukhitā hontu ñātayo\\
 Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 
-\begin{english}
+\begin{english-verses}
   May this be for my relatives \breathmark\ well and happy may the relatives be\\
   May this be for our relatives \breathmark\ well and happy may the relatives be\\
   May this be for your relatives \breathmark\ well and happy may the relatives be
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Thai]}
 
@@ -10988,26 +11108,26 @@ Sabbe bhūtā anumodantu – Sabba-sampatti-siddhiyā
 Ettāvatā ca amhehi – Sambhataṁ puñña-sampadaṁ\\
 Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 
-\begin{english}
+\begin{english-verses}
   [To the extent that all of us]\\
   Have accumulated a wealth of merits;\\
   In this may all devas rejoice,\\
   For the attainment of all fortunes.
-\end{english}
+\end{english-verses}
 
-\begin{english}
+\begin{english-verses}
   To the extent that all of us\\
   Have accumulated a wealth of merits;\\
   In this may all beings rejoice,\\
   For the attainment of all fortunes.
-\end{english}
+\end{english-verses}
 
-\begin{english}
+\begin{english-verses}
   To the extent that all of us\\
   Have accumulated a wealth of merits;\\
   In this may all creatures rejoice,\\
   For the attainment of all fortunes.
-\end{english}
+\end{english-verses}
 
 \suttaRef{[Sri Lanka]}
 
