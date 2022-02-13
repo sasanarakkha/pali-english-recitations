@@ -939,9 +939,9 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \makepagestyle{toponerow}
-\makeevenhead{toponerow}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\hspace*{1em}\MakeUppercase{\leftmark}}}
+\makeevenhead{toponerow}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\textsc{\leftmark}}}
 \makeevenfoot{toponerow}{}{}{}
-\makeoddhead{toponerow}{\headerFont\headerSize\color{header}\textls*{\hspace*{1em}\MakeUppercase{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
+\makeoddhead{toponerow}{\headerFont\headerSize\color{header}\textls*{\textsc{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
 \makeoddfoot{toponerow}{}{}{}
 \makepsmarks{toponerow}{%
   \nouppercaseheads
@@ -956,9 +956,9 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \makepagestyle{toponerow-frontmatter}
-\makeevenhead{toponerow-frontmatter}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\MakeUppercase{\leftmark}}}
+\makeevenhead{toponerow-frontmatter}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\textsc{\leftmark}}}
 \makeevenfoot{toponerow-frontmatter}{}{}{}
-\makeoddhead{toponerow-frontmatter}{\headerFont\headerSize\color{header}\textls*{\MakeUppercase{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
+\makeoddhead{toponerow-frontmatter}{\headerFont\headerSize\color{header}\textls*{\textsc{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
 \makeoddfoot{toponerow-frontmatter}{}{}{}
 \makepsmarks{toponerow-frontmatter}{%
   \nouppercaseheads
