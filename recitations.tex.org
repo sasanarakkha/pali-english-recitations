@@ -8,32 +8,43 @@
 - in main.tex comment out 'desktopVersion'
 - wrap \ifdesktopVersion \else around whatever needs to be removed for print
 ** TODO keep orphan with previous text, use mbox?
-** TODO anumodana, paritta, and funeral sections don't need page break before next title
-** TODO change spacing in ToC to match original
-** TODO even though numbering removed, chapter page still has "0."
+** DONE anumodana, paritta, and funeral sections don't need page break before next title
+CLOSED: [2022-02-13 Sun 18:36]
+** DONE change spacing in ToC to match original
+CLOSED: [2022-02-13 Sun 18:36]
+** DONE even though numbering removed, chapter page still has "0."
+CLOSED: [2022-02-13 Sun 18:36]
 ** TODO ask Bhante about headers
 - move number to bottom middle
 - see telegram
-** TODO ToC - Schedule -- Set : Make remove clear page from this section
+** DONE ToC - Schedule -- Set : Make remove clear page from this section
+CLOSED: [2022-02-13 Sun 18:36]
 ** TODO remove blank pages from digital pdf
 - I don't find this necessary unless there is clearly too many pages in one place
 ** TODO Read chat with Bhante for other TODOs
-** TODO remove '0.' in front of chapters
+** DONE remove '0.' in front of chapters
+CLOSED: [2022-02-13 Sun 18:37]
 ** TODO document anecdote and local
-** TODO remove unused styles
-** TODO remove Set 1...10 from actual ToC but not links
+** DONE remove unused styles
+CLOSED: [2022-02-13 Sun 18:37]
+** DONE remove Set 1...10 from actual ToC but not links
+CLOSED: [2022-02-13 Sun 18:37]
 - perhaps leave in for digital version and remove for printing
-** TODO how to add parameters to "desktopVersion" to toggle on/off certain features
-** TODO ToC needs change in vertical spacing and indentation
+** DONE how to add parameters to "desktopVersion" to toggle on/off certain features
+CLOSED: [2022-02-13 Sun 18:38]
+** DONE ToC needs change in vertical spacing and indentation
+CLOSED: [2022-02-13 Sun 18:38]
 ** TODO bottom margin is quite small -- something changed
 ** TODO unrefenced build error results from \pdfbookmark in schedule
-** TODO is 'pali-english recitations' section needed?
+** DONE is 'pali-english recitations' section needed?
+CLOSED: [2022-02-13 Sun 18:38]
 ** TODO desktopverison conditionals
 - remove alternating margins
 - blank pages
 
-** TODO chapter pdf bookmarks go to cover page instead of '0. CHAPTER'
+** TODO chapter pdf bookmarks 'CHAPTER' instead of Cover page
 ** TODO page number at bottom of page
+- needed?
 
 * Table of Contents :toc:
 - [[#task-list][Task List]]
@@ -56,10 +67,10 @@
   - [[#unrefenced-build-error-results-from-pdfbookmark-in-schedule][unrefenced build error results from \pdfbookmark in schedule]]
   - [[#is-pali-english-recitations-section-needed][is 'pali-english recitations' section needed?]]
   - [[#desktopverison-conditionals][desktopverison conditionals]]
-  - [[#chapter-pdf-bookmarks-go-to-cover-page-instead-of-0-chapter][chapter pdf bookmarks go to cover page instead of '0. CHAPTER']]
+  - [[#chapter-pdf-bookmarks-chapter-instead-of-cover-page][chapter pdf bookmarks 'CHAPTER' instead of Cover page]]
   - [[#page-number-at-bottom-of-page][page number at bottom of page]]
 - [[#recitation-schedule][Recitation Schedule]]
-- [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
+- [[#purpose-and-benefits-of-dhamma-recitation][Purpose and Benefits of Dhamma Recitation]]
 - [[#abbreviations][Abbreviations]]
 - [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
   - [[#covertitle][Cover/Title]]
@@ -337,10 +348,10 @@
 
 #+end_src
 
-* The Purpose and Benefits of Dhamma Recitation
+* Purpose and Benefits of Dhamma Recitation
 #+begin_src latex :tangle ./manuscript/tex/purpose-and-benefits.tex
 % \section{The Purpose and Benefits of Dhamma Recitation}
-\chapter[The Purpose and Benefits of Dhamma Recitation]{The Purpose and Benefits \\ of Dhamma Recitation}
+\chapter[Purpose and Benefits of Dhamma Recitation]{Purpose and Benefits\\ of Dhamma Recitation}
 \label{purpose-and-benefits}
 
 \subsection*{Historical Background}
@@ -449,61 +460,38 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Ap
 #+begin_src latex :tangle ./manuscript/tex/abbreviations.tex
 \chapter{Abbreviations}
 
-% \thispagestyle{empty}
-
-% {\subsectionFmt{Abbreviations used in the text}}
-% \bigskip
-
-% {\raggedright
-% \fontsize{10}{14}\selectfont
-
-\begin{center}
 \begin{tabular}{@{}lll@{}}
   [...] & : & Only recited by the leader \\
   \hspace{0.1cm} \abbrbreathmark\ & : & Take a breath \\
 \end{tabular}
 
-% Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
-% P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
-
 \begin{tabular}{@{}ll@{}}
-  Vin   & Vinaya Piṭaka             \\
-  DN    & Dīgha Nikāya              \\
-  MN    & Majjhima Nikāya           \\
-  SN    & Saṁyutta Nikāya           \\
-  AN    & Aṅguttara Nikāya          \\
-  Khp   & Khuddakapāṭha             \\
-  Dhp   & Dhammapada                \\
-  Ud    & Udāna                     \\
-  Snp   & Sutta Nipāta              \\
-  Thag  & Theragāthā                \\
-  Ja    & Jātaka                    \\
-  Ps    & Paṭisambhidāmagga         \\
-  Vibh  & Abhidhamma Vibhaṅga       \\
-  A     & Aṭṭhakathā                \\
-  Dhs   & Dhammasaṅganī             \\
-  A     & Aṭṭhakathā                \\
-  A     & Aṭṭhakathā                \\
-  MJG   & Mahā-jaya-maṅgala-gāthā   \\
-  Thai  & Composed in Thailand      \\
-  Sri L & Composed in Sri Lanka     \\
-  Trad  & Tradtional Buddhist Chant \\
+  Vin   & Vinaya Piṭaka                                      \\
+  DN    & Dīgha Nikāya                                       \\
+  MN    & Majjhima Nikāya                                    \\
+  SN    & Saṁyutta Nikāya                                    \\
+  AN    & Aṅguttara Nikāya                                   \\
+  Khp   & Khuddakapāṭha                                      \\
+  Dhp   & Dhammapada                                         \\
+  Ud    & Udāna                                              \\
+  Snp   & Sutta Nipāta                                       \\
+  Thag  & Theragāthā                                         \\
+  Ja    & Jātaka                                             \\
+  Ps    & Paṭisambhidāmagga                                  \\
+  Vibh  & Abhidhamma Vibhaṅga                                \\
+  Dhs   & Dhammasaṅganī                                      \\
+  A     & Aṭṭhakathā (Commentary)                            \\
+  MJG   & Mahā-jaya-maṅgala-gāthā (Sri Lanka)                \\
+  Thai  & Composed in Thailand, normally in recent centuries \\
+  Sri L & Composed in Sri Lanka                              \\
+  Trad  & Tradtional verses not found in the original Pāli   \\
 \end{tabular}
-\end{center}
 
-% \bigskip
+\bigskip
 
-% TODO should we add this?
+Wisdom Publication sources: Nikāya and sutta \# (eg. DN 1)\\
+P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 
-% Wisdom Publication sources: Nikāya and sutta \# (eg. DN 1)
-% P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
-
-% References to shorter texts consisting of verses such as the Dhammapada, Udāna,
-% Itivuttaka, Theragāthā, Therīgāthā or Sutta Nipāta are to the verse number or
-% chapter and verse number. The other longer texts are referred to by volume and
-% page number of the PTS edition.
-
-% }
 #+end_src
 
 * Homage to the Triple Gem
@@ -934,21 +922,21 @@ Dhammo padīpo viya tassa satthuno
 
 \begin{english}
   The Teaching of the Lord is like a lamp\hyperlink{endnote8-appendix}{\hypertarget{endnote8-body}{\pagenote{%
-    \hypertarget{endnote8-appendix}{\hyperlink{endnote8-body}{Orig: ``The teaching of the Lord like a lamp''}}}}}
+        \hypertarget{endnote8-appendix}{\hyperlink{endnote8-body}{Orig: ``The teaching of the Lord like a lamp''}}}}}
 \end{english}
 
 Yo magga-pākāmata-bheda-bhinnako
 
 \begin{english}
   Divided into path and its fruit \breathmark\ the Deathless\hyperlink{endnote9-appendix}{\hypertarget{endnote9-body}{\pagenote{%
-    \hypertarget{endnote9-appendix}{\hyperlink{endnote2-body}{Orig: ``Illuminating the path and its fruit, the Deathless''}}}}}
+        \hypertarget{endnote9-appendix}{\hyperlink{endnote2-body}{Orig: ``Illuminating the path and its fruit, the Deathless''}}}}}
 \end{english}
 
 Lokuttaro yo ca tad-attha-dīpano
 
 \begin{english-hang}
   And illuminating that goal \breathmark\ which is beyond the conditioned world\hyperlink{endnote10-appendix}{\hypertarget{endnote10-body}{\pagenote{%
-    \hypertarget{endnote10-appendix}{\hyperlink{endnote10-body}{Orig: ``That which is beyond the conditioned world''}}}}}
+        \hypertarget{endnote10-appendix}{\hyperlink{endnote10-body}{Orig: ``That which is beyond the conditioned world''}}}}}
 \end{english-hang}
 
 Vandāmi dhammaṁ aham-ādarena taṁ
@@ -989,7 +977,7 @@ Vandāmi saṅghaṁ aham-ādarena taṁ
 \begin{english}
   This salutation should be made\\
   To that triad\hyperlink{endnote11-appendix}{\hypertarget{endnote11-body}{\pagenote{%
-    \hypertarget{endnote11-appendix}{\hyperlink{endnote11-body}{Orig: ``To that which is worthy''. This passage refers to the triple (\textit{taya}) gems and not just to the Saṅgha.}}}}}
+        \hypertarget{endnote11-appendix}{\hyperlink{endnote11-body}{Orig: ``To that which is worthy''. This passage refers to the triple (\textit{taya}) gems and not just to the Saṅgha.}}}}}
   which is worthy
 \end{english}
 
@@ -1009,7 +997,7 @@ Idha tathāgato loke uppanno arahaṁ sammāsambuddho
 
 \begin{english}
   One who knows things as they are \breathmark\ has arisen in this world\hyperlink{endnote12-appendix}{\hypertarget{endnote12-body}{\pagenote{%
-    \hypertarget{endnote12-appendix}{\hyperlink{endnote12-body}{``One who knows things as they are'' is an unusual translation for \textit{Tathāgata}. Also ``arisen in'' is better than ``has come into'', otherwise one might think that he has come from somewhere, already being a \textit{Tathāgata}.}}}}}\\
+        \hypertarget{endnote12-appendix}{\hyperlink{endnote12-body}{``One who knows things as they are'' is an unusual translation for \textit{Tathāgata}. Also ``arisen in'' is better than ``has come into'', otherwise one might think that he has come from somewhere, already being a \textit{Tathāgata}.}}}}}\\
   And he is an \textit{Arahant} \breathmark\ a perfectly awakened being
 \end{english}
 
@@ -1019,7 +1007,7 @@ Idha tathāgato loke uppanno arahaṁ sammāsambuddho
 
 \begin{english}
   Teaching the way leading out of delusion\hyperlink{endnote13-appendix}{\hypertarget{endnote13-body}{\pagenote{%
-    \hypertarget{endnote13-appendix}{\hyperlink{endnote13-body}{No mention of ``delusion'' in the Pāli. It could also refer to \textit{samsāra} or \textit{dukkha}.}}}}}\\
+        \hypertarget{endnote13-appendix}{\hyperlink{endnote13-body}{No mention of ``delusion'' in the Pāli. It could also refer to \textit{samsāra} or \textit{dukkha}.}}}}}\\
   Calming and directing to perfect peace\\
   And leading to enlightenment\\
   This way he has made known\\
@@ -1053,7 +1041,7 @@ Soka-parideva-dukkha-domanass'upāyāsāpi dukkhā
 
 \begin{english}
   Sorrow lamentation pain displeasure\hyperlink{endnote14-appendix}{\hypertarget{endnote14-body}{\pagenote{%
-    \hypertarget{endnote14-appendix}{\hyperlink{endnote14-body}{Orig: ``grief''}}}}}
+        \hypertarget{endnote14-appendix}{\hyperlink{endnote14-body}{Orig: ``grief''}}}}}
   and despair are dukkha
 \end{english}
 
@@ -1079,7 +1067,7 @@ Saṅkhittena pañcupādānakkhandhā dukkhā
 
 \begin{english}
   In brief \breathmark\ the five aggregates of clinging are dukkha\hyperlink{endnote15-appendix}{\hypertarget{endnote15-body}{\pagenote{%
-    \hyperlink{endnote15-appendix}{\hypertarget{endnote15-body}{Orig: ``In brief the five focuses of identity are dukkha''}}}}}
+        \hyperlink{endnote15-appendix}{\hypertarget{endnote15-body}{Orig: ``In brief the five focuses of identity are dukkha''}}}}}
 \end{english}
 
 Seyyathīdaṁ
@@ -1110,14 +1098,14 @@ Saṅkhārūpādānakkhandho
 
 \begin{english}
   Attachment to volitional formations\hyperlink{endnote16-appendix}{\hypertarget{endnote16-body}{\pagenote{%
-    \hyperlink{endnote16-appendix}{\hypertarget{endnote16-body}{Orig: ``Attachment to mental formations''}}}}}
+        \hyperlink{endnote16-appendix}{\hypertarget{endnote16-body}{Orig: ``Attachment to mental formations''}}}}}
 \end{english}
 
 Viññāṇūpādānakkhandho
 
 \begin{english}
   Attachment to consciousness\hyperlink{endnote17-appendix}{\hypertarget{endnote17-body}{\pagenote{%
-    \hyperlink{endnote17-appendix}{\hypertarget{endnote17-body}{Orig: ``Attachment to sense-consciousness''}}}}}
+        \hyperlink{endnote17-appendix}{\hypertarget{endnote17-body}{Orig: ``Attachment to sense-consciousness''}}}}}
 \end{english}
 
 Yesaṁ pariññāya
@@ -1168,14 +1156,14 @@ Saṅkhārā aniccā
 
 \begin{english}
   Volitional formations are impermanent\hyperlink{endnote18-appendix}{\hypertarget{endnote18-body}{\pagenote{%
-    \hyperlink{endnote18-appendix}{\hypertarget{endnote18-body}{Orig: ``Mental formations are impermanent''}}}}}
+        \hyperlink{endnote18-appendix}{\hypertarget{endnote18-body}{Orig: ``Mental formations are impermanent''}}}}}
 \end{english}
 
 Viññāṇaṁ aniccaṁ
 
 \begin{english}
   Consciousness is impermanent\hyperlink{endnote19-appendix}{\hypertarget{endnote19-body}{\pagenote{%
-    \hyperlink{endnote19-appendix}{\hypertarget{endnote19-body}{Orig: ``Sense-consciousness is impermanent''}}}}}
+        \hyperlink{endnote19-appendix}{\hypertarget{endnote19-body}{Orig: ``Sense-consciousness is impermanent''}}}}}
 \end{english}
 
 Rūpaṁ anattā
@@ -1200,51 +1188,51 @@ Saṅkhārā anattā
 
 \begin{english}
   Volitional formations are not-self\hyperlink{endnote20-appendix}{\hypertarget{endnote20-body}{\pagenote{%
-    \hyperlink{endnote20-appendix}{\hypertarget{endnote20-body}{Orig: ``Mental formations are not-self''}}}}}
+        \hyperlink{endnote20-appendix}{\hypertarget{endnote20-body}{Orig: ``Mental formations are not-self''}}}}}
 \end{english}
 
 Viññāṇaṁ anattā
 
 \begin{english}
   Consciousness is not-self\hyperlink{endnote21-appendix}{\hypertarget{endnote21-body}{\pagenote{%
-    \hyperlink{endnote21-appendix}{\hypertarget{endnote21-body}{Orig: ``Sense-consciousness is not-self''}}}}}
+        \hyperlink{endnote21-appendix}{\hypertarget{endnote21-body}{Orig: ``Sense-consciousness is not-self''}}}}}
 \end{english}
 
 Sabbe saṅkhārā aniccā
 
 \begin{english}
   All conditioned things are impermanent\hyperlink{endnote22-appendix}{\hypertarget{endnote22-body}{\pagenote{%
-    \hyperlink{endnote22-appendix}{\hypertarget{endnote22-body}{Orig: ``All conditions are transient''}}}}}
+        \hyperlink{endnote22-appendix}{\hypertarget{endnote22-body}{Orig: ``All conditions are transient''}}}}}
 \end{english}
 
 Sabbe dhammā anattā't
 
 \begin{english}
   All things are not-self\hyperlink{endnote23-appendix}{\hypertarget{endnote23-body}{\pagenote{%
-    \hyperlink{endnote23-appendix}{\hypertarget{endnote23-body}{Orig: ``There is no self in the created or the uncreated''. While this is not a very accurate translation, it is indeed the case that the term ``sabbe dhammā'' includes the uncreated, \textit{nibbāna} (see AN 5.32).}}}}}
+        \hyperlink{endnote23-appendix}{\hypertarget{endnote23-body}{Orig: ``There is no self in the created or the uncreated''. While this is not a very accurate translation, it is indeed the case that the term ``sabbe dhammā'' includes the uncreated, \textit{nibbāna} (see AN 5.32).}}}}}
 \end{english}
 
 Te mayaṁ otiṇṇāmha jātiyā jarā-maraṇena
 
 \begin{english}
   All of us are affected by birth \breathmark\ ageing and death\hyperlink{endnote24-appendix}{\hypertarget{endnote24-body}{\pagenote{%
-    \hyperlink{endnote24-appendix}{\hypertarget{endnote24-body}{Orig: ``All of us are bound by birth ageing and death''}}}}}
+        \hyperlink{endnote24-appendix}{\hypertarget{endnote24-body}{Orig: ``All of us are bound by birth ageing and death''}}}}}
 \end{english}
 
 Sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
 \begin{english}
   By sorrow lamentation pain displeasure\hyperlink{endnote25-appendix}{\hypertarget{endnote25-body}{\pagenote{%
-    \hyperlink{endnote25-appendix}{\hypertarget{endnote25-body}{Orig: ``grief''}}}}}
+        \hyperlink{endnote25-appendix}{\hypertarget{endnote25-body}{Orig: ``grief''}}}}}
   and despair\hyperlink{endnote26-appendix}{\hypertarget{endnote26-body}{\pagenote{%
-    \hyperlink{endnote26-appendix}{\hypertarget{endnote26-body}{In Pāli, these terms are in plural form, however, for the sake recitation they are kept singular.}}}}}
+        \hyperlink{endnote26-appendix}{\hypertarget{endnote26-body}{In Pāli, these terms are in plural form, however, for the sake recitation they are kept singular.}}}}}
 \end{english}
 
 Dukkhotiṇṇā dukkha-paretā
 
 \begin{english}
   Affected by dukkha and afflicted by dukkha\hyperlink{endnote27-appendix}{\hypertarget{endnote27-body}{\pagenote{%
-    \hyperlink{endnote27-appendix}{\hypertarget{endnote27-body}{Orig: ``All of us are bound by birth ageing and death''}}}}}
+        \hyperlink{endnote27-appendix}{\hypertarget{endnote27-body}{Orig: ``All of us are bound by birth ageing and death''}}}}}
 \end{english}
 
 \begin{pali-hang}
@@ -1288,7 +1276,7 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 
 \begin{english}
   Possessing the bhikkhus'training and way of life\hyperlink{endnote28-appendix}{\hypertarget{endnote28-body}{\pagenote{%
-    \hyperlink{endnote28-appendix}{\hypertarget{endnote28-body}{Orig: ``Being fully equipped with the bhikkhus'system of training''}}}}}
+        \hyperlink{endnote28-appendix}{\hypertarget{endnote28-body}{Orig: ``Being fully equipped with the bhikkhus'system of training''}}}}}
 \end{english}
 
 \begin{pali-hang}
@@ -1494,7 +1482,7 @@ Na duggatiṁ gacchati dhamma-cārī\hyperlink{endnote31-appendix}{\hypertarget{
 \label{true-false-refuges}
 
 \begin{leader}
-  〈 Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo bhaṇāmase~〉
+  〈 Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo bhaṇāmase 〉
 \end{leader}
 
 Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\\
@@ -4830,11 +4818,9 @@ Tattha katamā avijjā
   Dukkhe aññāṇaṁ dukkhasamudaye aññāṇaṁ dukkhanirodhe aññāṇaṁ dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ
 \end{pali-hang}
 
-% * TODO this doesn't look good
-
-\begin{english-hang}
+\begin{english-hang-verses}
   Not knowing suffering \breathmark\ not knowing the origin of suffering \breathmark\ not knowing the cessation of suffering \breathmark\ not knowing the way of practice leading to the cessation of suffering
-\end{english-hang}
+\end{english-hang-verses}
 
 Ayaṁ vuccati avijjā
 
@@ -4842,7 +4828,9 @@ Ayaṁ vuccati avijjā
   This is called 'ignorance'
 \end{english}
 
+\begin{pali-hang}
 Tattha katame avijjā-paccayā saṅkhārā
+\end{pali-hang}
 
 \begin{english-hang}
   Therein what are 'formations' \breathmark\ arising\hyperlink{endnote74-appendix}{\hypertarget{endnote74-body}{\pagenote{%
@@ -4855,12 +4843,12 @@ Puññābhisaṅkhāro apuññābhisaṅkhāro āneñjābhisaṅkhāro\hyperlink
   \hypertarget{endnote76-appendix}{\hyperlink{endnote76-body}{SN 12.51 explains: ``Bhikkhus, if a person immersed in ignorance generates a meritorious volitional formation, consciousness fares on to the meritorious; if he generates a demeritorious volitional formation, consciousness fares on to the demeritorious; if he generates an imperturbable volitional formation, consciousness fares on to the imperturbable.''}}}}}\\
 Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
 
-\begin{english}
+\begin{english-verses}
   Heightened formation of wholesomeness\\
   Heightened formation of unwholesomeness\\
   Heightened formation of imperturbability\\
   The bodily formation \breathmark\ the verbal formation \breathmark\ the mental formation
-\end{english}
+\end{english-verses}
 
 Tattha katamo puññābhisaṅkhāro
 
@@ -4929,13 +4917,13 @@ Tattha katamo kāyasaṅkhāro
     \hypertarget{endnote77-appendix}{\hyperlink{endnote77-body}{Further explained in SN 12.25}}}}}
 \end{pali-hang}
 
-\begin{english}
+\begin{english-verses}
   Volition associated with the body is the bodily formation\\
   Volition associated with speech is the verbal formation\\
   Volition associated with the mind is the mental\hyperlink{endnote78-appendix}{\hypertarget{endnote78-body}{\pagenote{%
     \hypertarget{endnote78-appendix}{\hyperlink{endnote78-body}{\textit{Manosañcetanā cittasaṅkhāro} is translated here as ``volition associated with the mind is the mental formation''. Despite of mano and citta having in certain contexts different shades of meaning, both were translated here as ``mind''. Generally speaking mano refers more to the intellectual, whereas citta covers more the emotional/affective aspects of the mind. A detailed analysis of these terms can be found in Rune E. A. Johansson's ``\textit{Citta, Mano, Viññāṇa — a Psychosemantic Investigation}''.}}}}}
   formation
-\end{english}
+\end{english-verses}
 
 Ime vuccanti avijjā-paccayā saṅkhārā
 
@@ -11282,59 +11270,59 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 \begin{center}
   (Repeat line by line after the leader)\hyperlink{endnote135-appendix}{\hypertarget{endnote135-body}{\pagenote{%
-  \hypertarget{endnote135-appendix}{\hyperlink{endnote135-body}{The Thai tradtion recites ``Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi'' three times which translates to ``I, Venerable Sir, request the Three Refuges and the Five/Eight Precepts.'' before ``Namo tassa...''.}}}}}\\
+  \hypertarget{endnote135-appendix}{\hyperlink{endnote135-body}{The Thai tradtion recites ``Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi'' three times which translates to ``I, Venerable Sir, request the Three Refuges and the Five/Eight Precepts.'' before ``Namo tassa...''.}}}}}
 \end{center}
 
-Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
+Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{english}
-  Homage to the Blessed, Worthy, and Perfectly Enlightened One \hfill{[3x]}\\
+  Homage to the Blessed, Worthy, and Perfectly Enlightened One \hfill{[3x]}
 \end{english}
 
 Buddhaṁ saraṇaṁ gacchāmi\\
 Dhammaṁ saraṇaṁ gacchāmi\\
-Saṅghaṁ saraṇaṁ gacchāmi\\
+Saṅghaṁ saraṇaṁ gacchāmi
 
-\begin{english}
+\begin{english-verses}
   To the Buddha I go for refuge\\
   To the Dhamma I go for refuge\\
-  To the Saṅgha I go for refuge.\\
-\end{english}
+  To the Saṅgha I go for refuge.
+\end{english-verses}
 
 Dutiyampi buddhaṁ saraṇaṁ gacchāmi\\
 Dutiyampi dhammaṁ saraṇaṁ gacchāmi\\
-Dutiyampi saṅghaṁ saraṇaṁ gacchāmi\\
+Dutiyampi saṅghaṁ saraṇaṁ gacchāmi
 
-\begin{english}
+\begin{english-verses}
   For the second time, to the Buddha I go for refuge\\
   For the second time, to the Dhamma I go for refuge\\
-  For the second time, to the Saṅgha I go for refuge.\\
-\end{english}
+  For the second time, to the Saṅgha I go for refuge.
+\end{english-verses}
 
 Tatiyampi buddhaṁ saraṇaṁ gacchāmi\\
 Tatiyampi dhammaṁ saraṇaṁ gacchāmi\\
-Tatiyampi saṅghaṁ saraṇaṁ gacchāmi\\
+Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
 
-\begin{english}
+\begin{english-verses}
   For the third time, to the Buddha I go for refuge.\\
   For the third time, to the Dhamma I go for refuge.\\
-  For the third time, to the Saṅgha I go for refuge.\\
-\end{english}
+  For the third time, to the Saṅgha I go for refuge.
+\end{english-verses}
 
-Leader: Tisaraṇa-gamanaṁ niṭṭhitaṁ\\
-
-\begin{english}
-  This completes the going to the Three Refuges.\\
-\end{english}
-
-Response: Āma bhante\\
+Leader: Tisaraṇa-gamanaṁ niṭṭhitaṁ
 
 \begin{english}
-  Yes, Venerable Sir.\\
+  This completes the going to the Three Refuges.
+\end{english}
+
+Response: Āma bhante
+
+\begin{english}
+  Yes, Venerable Sir.
 \end{english}
 
 \begin{center}
-  (Bow three times)\\
+  (Bow three times)
 \end{center}
 #+end_src
 *** Undertaking the Five Trainings
@@ -11342,53 +11330,55 @@ Response: Āma bhante\\
 \subsection{Undertaking the Five Trainings}
 
 \begin{center}
-  (To undertake the trainings, repeat each training after the leader)\\
+  (To undertake the trainings, repeat each training after the leader)
 \end{center}
 
-Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
-\begin{english}
+\begin{english-hang}
   I undertake the training\hyperlink{endnote136-appendix}{\hypertarget{endnote136-body}{\pagenote{%
     \hyperlink{endnote136-appendix}{\hypertarget{endnote136-body}{Orig: “precept”. The same applies to the next four lines.}}}}}
-  to refrain from taking the life of any living being.\\
-\end{english}
+  to refrain from taking the life of any living being.
+\end{english-hang}
 
-Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
-
-\begin{english}
-  I undertake the training to refrain from taking that which is not given.\\
-\end{english}
-
-Kāmesu micchācārā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 \begin{english}
-  I undertake the training to refrain from sexual misconduct.\\
+  I undertake the training to refrain from taking that which is not given.
 \end{english}
 
-Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+Kāmesu micchācārā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 \begin{english}
-  I undertake the training to refrain from lying.\\
+  I undertake the training to refrain from sexual misconduct.
 \end{english}
 
-Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 \begin{english}
+  I undertake the training to refrain from lying.
+\end{english}
+
+\begin{pali-hang}
+Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.
+\end{pali-hang}
+
+\begin{english-hang}
   I undertake the training to refrain from consuming intoxicating\\
   drink and drugs that lead to carelessness.\hyperlink{endnote137-appendix}{\hypertarget{endnote137-body}{\pagenote{%
-  \hyperlink{endnote137-appendix}{\hypertarget{endnote137-body}{Orig: “drugs which lead to carelessness”}}}}}\\
-  \end{english}
+  \hyperlink{endnote137-appendix}{\hypertarget{endnote137-body}{Orig: “drugs which lead to carelessness”}}}}}
+\end{english-hang}
 
-Leader: Appamādena sampādetha\\
+Leader: Appamādena sampādetha
 
 \begin{english}
-  Perfect yourselves not being negligent.\\
+  Perfect yourselves not being negligent.
 \end{english}
 
-Response: Sādhu, sādhu, sādhu\\
+Response: Sādhu, sādhu, sādhu
 
 \begin{center}
-  (Bow three times)\\
+  (Bow three times)
 \end{center}
 #+end_src
 *** Undertaking the Eight Trainings
@@ -11396,91 +11386,99 @@ Response: Sādhu, sādhu, sādhu\\
 \subsection{Undertaking the Eight Trainings}
 
 \begin{center}
-  (To undertake the trainings, repeat each training after the leader)\\
+  (To undertake the trainings, repeat each training after the leader)
 \end{center}
 
-Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
+
+\begin{english-hang}
+  I undertake the training to refrain from taking the life of any living being.
+\end{english-hang}
+
+Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
+
+\begin{english-hang}
+  I undertake the training to refrain from taking that which is not given.
+\end{english-hang}
+
+Abrahmacariyā veramaṇi-sikkhāpadaṁ samādiyāmi.
+
+\begin{english-hang}
+  I undertake the training to refrain from any intentional sexual activity.
+\end{english-hang}
+
+Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 \begin{english}
-  I undertake the training to refrain from taking the life of any living being.\\
+  I undertake the training to refrain from lying.
 \end{english}
 
-Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+\begin{pali-hang}
+Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.
+\end{pali-hang}
 
-\begin{english}
-  I undertake the training to refrain from taking that which is not given.\\
-\end{english}
-
-Abrahmacariyā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
-
-\begin{english}
-  I undertake the training to refrain from any intentional sexual activity.\\
-\end{english}
-
-Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
-
-\begin{english}
-  I undertake the training to refrain from lying.\\
-\end{english}
-
-Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
-
-\begin{english}
+\begin{english-hang}
   I undertake the training to refrain from consuming intoxicating drink and drugs that\hyperlink{endnote138-appendix}{\hypertarget{endnote138-body}{\pagenote{%
     \hyperlink{endnote138-appendix}{\hypertarget{endnote138-body}{Orig: “which”}}}}}
-  lead to carelessness.\\
-\end{english}
+  lead to carelessness.
+\end{english-hang}
 
-Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 \begin{english}
   I undertake the training to refrain from eating after noon.\hyperlink{endnote139-appendix}{\hypertarget{endnote139-body}{\pagenote{%
-  \hyperlink{endnote139-appendix}{\hypertarget{endnote139-body}{Orig: “at inappropriate times”.}}}}}\\
+  \hyperlink{endnote139-appendix}{\hypertarget{endnote139-body}{Orig: “at inappropriate times”.}}}}}
   \end{english}
 
-Nacca-gīta-vādita-visūkadassanā mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+\begin{pali-hang}
+Nacca-gīta-vādita-visūkadassanā mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.
+\end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   I undertake the training to refrain from dancing, singing, music and going to entertainments; from perfumes, beautification and adornments.\hyperlink{endnote140-appendix}{\hypertarget{endnote140-body}{\pagenote{%
-  \hyperlink{endnote140-appendix}{\hypertarget{endnote140-body}{Orig: “entertainment, beautification, and adornment”}}}}}\\
-  \end{english}
+  \hyperlink{endnote140-appendix}{\hypertarget{endnote140-body}{Orig: “entertainment, beautification, and adornment”}}}}}
+  \end{english-hang}
 
-Uccāsayana-mahāsayanā veramaṇi-sikkhāpadaṁ samādiyāmi.\\
+Uccāsayana-mahāsayanā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
-\begin{english}
-  I undertake the training to refrain from lying on a high or luxurious sleeping place.\\
-\end{english}
+\begin{english-verses}
+  I undertake the training to refrain from lying on a high or luxurious sleeping place.
+\end{english-verses}
 
-Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}\\
+Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}
 
-\begin{english}
-  I undertake these Eight Trainings.\\
-\end{english}
+\begin{english-verses}
+  I undertake these Eight Trainings.
+\end{english-verses}
 
-Leader: Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye\\
+\begin{pali-hang}
+Leader: Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye
+\end{pali-hang}
 
-\begin{english}
+\begin{english-verses}
   These Eight Trainings\\
   have virtue as a vehicle for happiness,\\
   have virtue as a vehicle for good fortune,\\
   have virtue as a vehicle for liberation.\\
   Therefore let virtue be purified.\hyperlink{endnote141-appendix}{\hypertarget{endnote141-body}{\pagenote{%
-  \hyperlink{endnote141-appendix}{\hypertarget{endnote141-body}{Orig: “These are the Eight Precepts; Virtue is the source of happiness, Virtue is the source of true wealth, Virtue is the source of peacefulness. Therefore let virtue be purified.”}}}}}\\
-  \end{english}
+  \hyperlink{endnote141-appendix}{\hypertarget{endnote141-body}{Orig: “These are the Eight Precepts; Virtue is the source of happiness, Virtue is the source of true wealth, Virtue is the source of peacefulness. Therefore let virtue be purified.”}}}}}
+  \end{english-verses}
 
-Response: Sādhu, sādhu, sādhu\\
+Response: Sādhu, sādhu, sādhu
 
 \begin{center}
-  (Bow three times)\\
+  (Bow three times)
 \end{center}
+
+\clearpage
+
 #+end_src
 ** Pāli Phonetics & Pronunciation
 #+begin_src latex :tangle ./manuscript/tex/phonetics-pronunciation.tex
 \section{Pāli Phonetics and Pronunciation}
 \label{phonetics}
-TODO title here is wonky
-TODO Insert graph here
-% \includegraphics[width=0.5\textwidth]{./assets/photos/warder-pali-alphabet-table/Warder Pali Alphabet Table.png}
+
+\includegraphics[width=\textwidth]{pali-table.png}
 
 \begin{justify}
 Pāli is the original scriptural language of Theravāda Buddhism. It was a spoken language, closely related to Sanskrit, with no written script of its own. As written forms have emerged, they have been in the letterings of other languages (e.g. Devanagari, Sinhalese, Burmese, Khmer, Thai, Roman). The Roman lettering used here is pronounced as in English, with the following clarifications:
@@ -11488,9 +11486,9 @@ Pāli is the original scriptural language of Theravāda Buddhism. It was a spoke
 
 \medskip
 
-\textbf{Vowels} are of two types:
-TODO good but still textual overlap
-\begin{minipage}{.5\textwidth}
+% TODO works but must be a way to split both boxes evenly
+\textbf{Vowels} are of two types:\\
+\begin{minipage}{.55\textwidth}
   \begin{tabular}{@{} ll @{}}
     \textbf{Short} & \textbf{Long}\\
     \textbf{a} as in magm\prul{a} & \textbf{ā} as in f\prul{a}ther\\
@@ -11500,7 +11498,7 @@ TODO good but still textual overlap
                    & \textbf{o} as in m\prul{o}re\\
   \end{tabular}
 \end{minipage}% This must go next to `\end{minipage}`
-\begin{minipage}{.5\textwidth}
+\begin{minipage}{.453\textwidth}
   Exceptions: e and o change to short sounds in syllables ending in double consonants. They are then pronounced as in ``pet'' and ``soft'' respectively. (eg. sotthi)
 \end{minipage}
 
@@ -11531,6 +11529,8 @@ As an aid to understanding, \textbf{hyphens} (-) have often been inserted in lon
 Elsewhere, \textbf{breath marks} ( \breathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously as within one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets }[…] serve as an introduction, and are recited only by the leader. Except for Pāli paritta and funeral chants, there is a pause after […], before the rest of the group joins in.
 \end{justify}
 
+\clearpage
+
 #+end_src
 
 ** Chanting Leader Guidelines
@@ -11541,7 +11541,7 @@ Elsewhere, \textbf{breath marks} ( \breathmark\ ) have been inserted in order to
 It is both a great honour and also a great responsibility to lead a group of fellow Dhamma practitioners through Dhamma recitations. These guidelines provide tips that can help facilitate a smooth and enjoyable experience for the group of participants, as well as for the chanting leader himself.
 \end{justify}
 
-To bring value to the community, the following pointsshould be considered:
+To bring value to the community, the following points should be considered:
 \begin{itemize}
 \item Accurate Pāli Pronunciation
 \item Sufficient Audibility \& Volume
@@ -11598,4 +11598,5 @@ The above points and principles are meant to function as a guideline for aspirin
 \begin{justify}
 Thanks to all Saṅgha members who are willing to share this meaningful task among themselves, by taking turns as chanting leaders.
 \end{justify}
+
 #+end_src
