@@ -77,24 +77,24 @@
 
 % \newenvironment{paritta}%
 % {\list{}{%
-% \topsep 0pt
-% \parskip 0pt
-% \partopsep 0pt
-% \listparindent 0em%
-% \itemindent    0em%
-% \leftmargin    1.5em% \leaderIndent, but keep it a separate value
-% \rightmargin   0em%
-% \parsep        7pt%
-% }%
+%     \topsep 0pt
+%     \parskip 0pt
+%     \partopsep 0pt
+%     \listparindent 0em%
+%     \itemindent    0em%
+%     \leftmargin    1.5em% \leaderIndent, but keep it a separate value
+%     \rightmargin   0em%
+%     \parsep        7pt%
+%   }%
 %   \item[] \raggedright}%
-%   {\endlist}
+% {\endlist}
 
-%   Used throughout the Verses chapter and other chants that are separated by a hyphen
+% Used throughout the Verses chapter and other chants that are separated by a hyphen
 \newenvironment{twochants}%
 {\begin{tabular}{@{}l l@{}}}%
    {\end{tabular}}
 
- % For English passages that are preceeded by Pāli, remains closer to the preceeding Pāli
+% For English passages that are preceeded by Pāli, remains closer to the preceeding Pāli
  \newenvironment{english}%
  {\list{}{%
      \topsep 0pt
@@ -123,7 +123,7 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- % For chants like 'The Gradual Training' which are English only yet need to be justified
+% For chants like 'The Gradual Training' which are English only yet need to be justified
  \newenvironment{english-only-justify}%
  {\list{}{%
      % \parskip       8pt
@@ -152,7 +152,7 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- % Enables an English line to hang that is sandwiched within a paragraph
+% Enables an English line to hang that is sandwiched within a paragraph
  \newenvironment{english-hangtogether}%
  {\list{}{%
      \topsep 0pt
@@ -182,7 +182,7 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- % For singular English lines that need hang indentation
+% For singular English lines that need hang indentation
  \newenvironment{english-only-hang}%
  {\list{}{%
      \topsep 0pt
@@ -196,8 +196,8 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- % TODO - figure difference
- % ??? Similar to keepwith, wraps around `english-hangtogether` though I'm not sure difference ATM
+% TODO - figure difference
+% ??? Similar to keepwith, wraps around `english-hangtogether` though I'm not sure difference ATM
  \newenvironment{english-only-nohang}%
  {\list{}{%
      \topsep 0pt
@@ -211,7 +211,7 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- % Used with with Pāli verses and parittas
+% Used with with Pāli verses and parittas
  \newenvironment{english-verses}%
  {\list{}{%
      \partopsep 0pt
@@ -267,104 +267,104 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- % \newenvironment{pali-hang}%
- % {\list{}{%
- %     \topsep 0pt
- %     \listparindent 0em%
- %     \itemindent    -0.5em%
- %     \leftmargin    0.5em %2.5em %\leaderIndent%
- %     \rightmargin   0em%
- %     \fontsize{12.5}{16}\selectfont
- %     \parsep        \z@ \@plus\p@%
- %   }%
- %   \item[] \raggedright}%
- % {\endlist}
-
- % % Enables a line to hang that is sandwiched within a paragraph
- % \newenvironment{pali-hangtogether}%
- % {\list{}{%
- %     \topsep -8pt
- %     \listparindent 0em%
- %     \itemindent    -0.5em%
- %     \leftmargin    0.5em %2.5em %\leaderIndent%
- %     \rightmargin   0em%
- %     \fontsize{12.5}{16}\selectfont
- %     \parsep        -8pt %\z@ \@plus\p@%
- %   }%
- %   \item[] \raggedright}%
- % {\endlist}
-
- %%%%%%%%%%%%%%%%%%% Endnotes %%%%%%%%%%%%%%%%%%%
-
- % Changes the title for the Endnotes chapter
- \renewcommand\notesname{Endnotes}
-
- \renewcommand{\prenoteinnotes}{%
-   \small\par\noindent%
- }%
- \renewcommand{\noteidinnotes}[2]{% {notenum}{id}
-   \begin{adjustwidth}{33pt}{0pt}%
-     \hspace{-33pt}\makebox[30pt][l]{%
-       \makebox[18pt][1]{\pageref{#2}}%
-       \makebox[16pt][l]{\ifnum#1>0\textsuperscript{#1}\fi%
-       }%
-     }%
+ \newenvironment{pali-hang}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em %2.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{16}\selectfont
+     \parsep        \z@ \@plus\p@%
    }%
-   \renewcommand{\pageinnotes}[1]{}%
-   \renewcommand{\postnotetext}{%
-   \end{adjustwidth}%
- }%
- \renewcommand{\postnoteinnotes}{\par}%
+   \item[] \raggedright}%
+ {\endlist}
 
- % \usepackage{endnotes}
- % \usepackage{ifthen}
- % \usepackage{endheads} % requires oldfontcommands option for memoir class
- % \setupendnoteheaders
- % \titleinnotestrue  % title page
- % \setstyleforchapternotebegin{\begin{flushleft}\begin{bf}\normalsize}
- %     \setstyleforchapternoteend{\end{bf}\end{flushleft}}
+% Enables a line to hang that is sandwiched within a paragraph
+ \newenvironment{pali-hangtogether}%
+ {\list{}{%
+     \topsep -8pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em %2.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{16}\selectfont
+     \parsep        -8pt %\z@ \@plus\p@%
+   }%
+   \item[] \raggedright}%
+ {\endlist}
 
- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%% Endnotes %%%%%%%%%%%%%%%%%%%
 
- \newcommand\tr[1]{\textit{#1}}
+% Changes the title for the Endnotes chapter
+\renewcommand\notesname{Endnotes}
 
- \newcommand\trline[1]{%
-   \begin{english}%
-     #1%
-   \end{english}%
- }
+\renewcommand{\prenoteinnotes}{%
+    \small\par\noindent%
+    }%
+\renewcommand{\noteidinnotes}[2]{% {notenum}{id}
+    \begin{adjustwidth}{33pt}{0pt}%
+        \hspace{-33pt}\makebox[30pt][l]{%
+            \makebox[18pt][1]{\pageref{#2}}%
+            \makebox[16pt][l]{\ifnum#1>0\textsuperscript{#1}\fi%
+            }%
+    }%
+}%
+\renewcommand{\pageinnotes}[1]{}%
+\renewcommand{\postnotetext}{%
+    \end{adjustwidth}%
+}%
+\renewcommand{\postnoteinnotes}{\par}%
 
- \newcommand\packedtrline[1]{%
-   \begin{packedenglish}%
-     #1%
-   \end{packedenglish}%
- }
+% \usepackage{endnotes}
+% \usepackage{ifthen}
+% \usepackage{endheads} % requires oldfontcommands option for memoir class
+%     \setupendnoteheaders
+%     \titleinnotestrue  % title page
+%     \setstyleforchapternotebegin{\begin{flushleft}\begin{bf}\normalsize}
+%     \setstyleforchapternoteend{\end{bf}\end{flushleft}}
 
- \newlength\preceptnumwidth
- \setlength{\preceptnumwidth}{\widthof{\normalsize 9.\space}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
- \newenvironment{precept}%
- {\begin{enumerate}[
-          itemindent=0pt,
-          leftmargin={\preceptnumwidth},
-          rightmargin=0pt,
-          ]%
-          }{\end{enumerate}}
+\newcommand\tr[1]{\textit{#1}}
 
-        \newcommand\hsp{\hspace*{0.5em}}
+\newcommand\trline[1]{%
+  \begin{english}%
+    #1%
+  \end{english}%
+}
 
-%%%%%%%%%%%%%%%%%%% Tabular %%%%%%%%%%%%%%%%%%%
+\newcommand\packedtrline[1]{%
+  \begin{packedenglish}%
+    #1%
+  \end{packedenglish}%
+}
 
-        \setlength{\tabcolsep}{1em}
+\newlength\preceptnumwidth
+\setlength{\preceptnumwidth}{\widthof{\normalsize 9.\space}}
 
-        \renewcommand{\arraystretch}{1.075}
+\newenvironment{precept}%
+{\begin{enumerate}[
+         itemindent=0pt,
+         leftmargin={\preceptnumwidth},
+         rightmargin=0pt,
+         ]%
+         }{\end{enumerate}}
 
-        \newcommand\oldArr{}% holding old \arraystretch for restore
-        \let\oldArr\arraystretch
+       \newcommand\hsp{\hspace*{0.5em}}
 
-        \newcommand\setArrayStretch[1]{%
-          \let\oldArr\arraystretch
-          \renewcommand{\arraystretch}{#1}%
-        }
+       % ==== Tabular ==== %
 
-        \newcommand\restoreArrayStretch{\let\arraystretch\oldArr}
+       \setlength{\tabcolsep}{1em}
+
+       \renewcommand{\arraystretch}{1.075}
+
+       \newcommand\oldArr{}% holding old \arraystretch for restore
+       \let\oldArr\arraystretch
+
+       \newcommand\setArrayStretch[1]{%
+         \let\oldArr\arraystretch
+         \renewcommand{\arraystretch}{#1}%
+       }
+
+       \newcommand\restoreArrayStretch{\let\arraystretch\oldArr}
