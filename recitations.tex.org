@@ -8,31 +8,40 @@
 - in main.tex comment out 'desktopVersion'
 - wrap \ifdesktopVersion \else around whatever needs to be removed for print
 ** TODO keep orphan with previous text, use mbox?
-** TODO anumodana, paritta, and funeral sections don't need page break before next title
-** TODO change spacing in ToC to match original
-** TODO even though numbering removed, chapter page still has "0."
+** DONE anumodana, paritta, and funeral sections don't need page break before next title
+CLOSED: [2022-02-13 Sun 18:36]
+** DONE change spacing in ToC to match original
+CLOSED: [2022-02-13 Sun 18:36]
+** DONE even though numbering removed, chapter page still has "0."
+CLOSED: [2022-02-13 Sun 18:36]
 ** TODO ask Bhante about headers
 - move number to bottom middle
 - see telegram
-** TODO ToC - Schedule -- Set : Make remove clear page from this section
+** DONE ToC - Schedule -- Set : Make remove clear page from this section
+CLOSED: [2022-02-13 Sun 18:36]
 ** TODO remove blank pages from digital pdf
 - I don't find this necessary unless there is clearly too many pages in one place
 ** TODO Read chat with Bhante for other TODOs
-** TODO remove '0.' in front of chapters
+** DONE remove '0.' in front of chapters
+CLOSED: [2022-02-13 Sun 18:37]
 ** TODO document anecdote and local
-** TODO remove unused styles
-** TODO remove Set 1...10 from actual ToC but not links
+** DONE remove unused styles
+CLOSED: [2022-02-13 Sun 18:37]
+** DONE remove Set 1...10 from actual ToC but not links
+CLOSED: [2022-02-13 Sun 18:37]
 - perhaps leave in for digital version and remove for printing
-** TODO how to add parameters to "desktopVersion" to toggle on/off certain features
-** TODO ToC needs change in vertical spacing and indentation
+** DONE how to add parameters to "desktopVersion" to toggle on/off certain features
+CLOSED: [2022-02-13 Sun 18:38]
+** DONE ToC needs change in vertical spacing and indentation
+CLOSED: [2022-02-13 Sun 18:38]
 ** TODO bottom margin is quite small -- something changed
 ** TODO unrefenced build error results from \pdfbookmark in schedule
-** TODO is 'pali-english recitations' section needed?
+** DONE is 'pali-english recitations' section needed?
+CLOSED: [2022-02-13 Sun 18:38]
 ** TODO desktopverison conditionals
 - remove alternating margins
 - blank pages
-
-** TODO chapter pdf bookmarks go to cover page instead of '0. CHAPTER'
+** TODO chapter pdf bookmarks 'CHAPTER' instead of Cover page
 ** TODO page number at bottom of page
 
 * Table of Contents :toc:
@@ -56,10 +65,10 @@
   - [[#unrefenced-build-error-results-from-pdfbookmark-in-schedule][unrefenced build error results from \pdfbookmark in schedule]]
   - [[#is-pali-english-recitations-section-needed][is 'pali-english recitations' section needed?]]
   - [[#desktopverison-conditionals][desktopverison conditionals]]
-  - [[#chapter-pdf-bookmarks-go-to-cover-page-instead-of-0-chapter][chapter pdf bookmarks go to cover page instead of '0. CHAPTER']]
+  - [[#chapter-pdf-bookmarks-chapter-instead-of-cover-page][chapter pdf bookmarks 'CHAPTER' instead of Cover page]]
   - [[#page-number-at-bottom-of-page][page number at bottom of page]]
 - [[#recitation-schedule][Recitation Schedule]]
-- [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
+- [[#purpose-and-benefits-of-dhamma-recitation][Purpose and Benefits of Dhamma Recitation]]
 - [[#abbreviations][Abbreviations]]
 - [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
   - [[#covertitle][Cover/Title]]
@@ -337,7 +346,7 @@
 
 #+end_src
 
-* The Purpose and Benefits of Dhamma Recitation
+* Purpose and Benefits of Dhamma Recitation
 #+begin_src latex :tangle ./manuscript/tex/purpose-and-benefits.tex
 % \section{The Purpose and Benefits of Dhamma Recitation}
 \chapter[Purpose and Benefits of Dhamma Recitation]{Purpose and Benefits\\ of Dhamma Recitation}
