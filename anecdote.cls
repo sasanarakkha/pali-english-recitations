@@ -1099,7 +1099,7 @@ philo-sophical munindo amaravati thai-land}
 % Changes chapter headings in ToC e.g. 'Schedule, Abbreviations, etc.'
 \titlecontents{chapter}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\fontsize{14}{5}\selectfont}%
+\tocFont\bfseries\scshape\fontsize{14}{5}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1475,7 +1475,7 @@ philo-sophical munindo amaravati thai-land}
       \parbox{\linewidth}{%
         \centering%
         % font size for paliTitle
-        \fontsize{12}{12}\selectfont
+        \fontsize{12}{14}\selectfont
         \@secSubTitle%
         \sectionPaliTitleClear%
       }%
@@ -1505,7 +1505,7 @@ philo-sophical munindo amaravati thai-land}
     \subSectionFont\fontsize{14}{18}\selectfont%
     \scshape\bfseries\color{section}%
     \memRTLraggedright%
-  \vspace*{-7.2pt}%
+    \vspace*{7.2pt}%
     #1%
   }%
 }
