@@ -1505,7 +1505,7 @@ philo-sophical munindo amaravati thai-land}
     \subSectionFont\fontsize{14}{18}\selectfont%
     \scshape\bfseries\color{section}%
     \memRTLraggedright%
-  \vspace*{-7.2pt}%
+    \vspace*{-7.2pt}%
     #1%
   }%
 }
