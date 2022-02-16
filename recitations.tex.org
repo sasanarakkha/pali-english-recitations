@@ -21,7 +21,6 @@ CLOSED: [2022-02-13 Sun 18:36]
 CLOSED: [2022-02-13 Sun 18:36]
 ** TODO remove blank pages from digital pdf
 - I don't find this necessary unless there is clearly too many pages in one place
-** TODO Read chat with Bhante for other TODOs
 ** DONE remove '0.' in front of chapters
 CLOSED: [2022-02-13 Sun 18:37]
 ** TODO document anecdote and local
@@ -35,13 +34,14 @@ CLOSED: [2022-02-13 Sun 18:38]
 ** DONE ToC needs change in vertical spacing and indentation
 CLOSED: [2022-02-13 Sun 18:38]
 ** TODO bottom margin is quite small -- something changed
-** TODO unrefenced build error results from \pdfbookmark in schedule
+** TODO unreferenced build error results from \pdfbookmark in schedule
 ** DONE is 'pali-english recitations' section needed?
 CLOSED: [2022-02-13 Sun 18:38]
 ** TODO desktopverison conditionals
 - remove alternating margins
 - blank pages
-** TODO chapter pdf bookmarks 'CHAPTER' instead of Cover page
+** TODO chapter pdf bookmarks go to 'CHAPTER' page instead of Cover page
+- would prefer to go directly to cover page and remove chapter page
 ** TODO page number at bottom of page
 
 * Table of Contents :toc:
@@ -54,7 +54,6 @@ CLOSED: [2022-02-13 Sun 18:38]
   - [[#ask-bhante-about-headers][ask Bhante about headers]]
   - [[#toc---schedule----set--make-remove-clear-page-from-this-section][ToC - Schedule -- Set : Make remove clear page from this section]]
   - [[#remove-blank-pages-from-digital-pdf][remove blank pages from digital pdf]]
-  - [[#read-chat-with-bhante-for-other-todos][Read chat with Bhante for other TODOs]]
   - [[#remove-0-in-front-of-chapters][remove '0.' in front of chapters]]
   - [[#document-anecdote-and-local][document anecdote and local]]
   - [[#remove-unused-styles][remove unused styles]]
@@ -62,10 +61,10 @@ CLOSED: [2022-02-13 Sun 18:38]
   - [[#how-to-add-parameters-to-desktopversion-to-toggle-onoff-certain-features][how to add parameters to "desktopVersion" to toggle on/off certain features]]
   - [[#toc-needs-change-in-vertical-spacing-and-indentation][ToC needs change in vertical spacing and indentation]]
   - [[#bottom-margin-is-quite-small----something-changed][bottom margin is quite small -- something changed]]
-  - [[#unrefenced-build-error-results-from-pdfbookmark-in-schedule][unrefenced build error results from \pdfbookmark in schedule]]
+  - [[#unreferenced-build-error-results-from-pdfbookmark-in-schedule][unreferenced build error results from \pdfbookmark in schedule]]
   - [[#is-pali-english-recitations-section-needed][is 'pali-english recitations' section needed?]]
   - [[#desktopverison-conditionals][desktopverison conditionals]]
-  - [[#chapter-pdf-bookmarks-chapter-instead-of-cover-page][chapter pdf bookmarks 'CHAPTER' instead of Cover page]]
+  - [[#chapter-pdf-bookmarks-go-to-chapter-page-instead-of-cover-page][chapter pdf bookmarks go to 'CHAPTER' page instead of Cover page]]
   - [[#page-number-at-bottom-of-page][page number at bottom of page]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#purpose-and-benefits-of-dhamma-recitation][Purpose and Benefits of Dhamma Recitation]]
@@ -10740,7 +10739,7 @@ atthi-paccayo, n'atthi-paccayo,\\
 vigata-paccayo, avigata-paccayo.
 \end{pali-hang}
 
-\begin{english-hang}
+\begin{english-hang-verses}
   [Root condition], sense-object condition,\\
   predominant condition, immediate condition,\\
   directly immediate condition, coexistent condition,\\
@@ -10753,7 +10752,7 @@ vigata-paccayo, avigata-paccayo.
   associated condition, separated condition,\\
   existence condition, non-existence condition,\\
   disappeared condition, non-dissappeared condition.
-\end{english-hang}
+\end{english-hang-verses}
 
 \suttaRef{[Dhs A]}
 #+end_src
@@ -11264,6 +11263,8 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 
 \section{The Refuges \& Trainings}
+
+\vspace{1em}
 
 \subsection{Undertaking the Three Refuges}
 
