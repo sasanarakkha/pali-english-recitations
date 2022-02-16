@@ -10,7 +10,6 @@ tangle := $(shell org-tangle ./recitations.tex.org)
 
 all: document
 
-
 dist:
 	./helpers/dist.sh
 
