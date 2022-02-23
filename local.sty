@@ -52,7 +52,7 @@
 \newenvironment{leader-english}%
 {\list{}{%
     \parskip 6pt%
-    \topsep 0pt%
+    \topsep 2pt%
     \listparindent 0em%
     \itemindent    0pt%
     \leftmargin    0pt %\leaderIndent%
@@ -91,7 +91,9 @@
 
 % Used throughout the Verses chapter and other chants that are separated by a hyphen
 \newenvironment{twochants}%
-{\begin{tabular}{@{}l l@{}}}%
+{\begin{tabular}{@{}l l@{}}
+     \vspace{-0.2em}%
+   }%
    {\end{tabular}}
 
 % For English passages that are preceeded by Pāli, remains closer to the preceeding Pāli
@@ -100,7 +102,7 @@
      \topsep 0pt
      \listparindent 0em%
      \itemindent    0em%
-     \leftmargin    1em%\leaderindent%
+     \leftmargin    0em %\leaderIndent%
      \rightmargin   0em%
      \fontsize{12}{18}\selectfont
      \parsep        -8.5em %\z@ \@plus\p@%
@@ -144,7 +146,7 @@
      \topsep 0pt
      \listparindent 0em%
      \itemindent    -0.5em%
-     \leftmargin    1.5em %\leaderIndent%
+     \leftmargin    0.5em %\leaderIndent%
      \rightmargin   0em%
      \fontsize{12}{16}\selectfont
      \parsep        -8.5em %\z@ \@plus\p@%
@@ -188,7 +190,7 @@
      \topsep 0pt
      \listparindent 0em%
      \itemindent    -0.5em%
-     \leftmargin    0em %\leaderIndent%
+     \leftmargin    0.5em %\leaderIndent%
      \rightmargin   0em%
      \fontsize{12}{18}\selectfont
      \parsep        \z@ \@plus\p@%
@@ -196,16 +198,29 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
-% TODO - figure difference
-% ??? Similar to keepwith, wraps around `english-hangtogether` though I'm not sure difference ATM
+ \newenvironment{english-only-hangtogether}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+     \parskip       -16pt
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
+
+% Similar to keepwith, wraps around `english-hangtogether` but doesn't keep with previous paragraph
  \newenvironment{english-only-nohang}%
  {\list{}{%
      \topsep 0pt
      \listparindent 0em%
      \itemindent    0em%
-     \leftmargin    -1.5em %\leaderIndent%
+     \leftmargin    0em %\leaderIndent%
      \rightmargin   0em%
-     \fontsize{12}{17}\selectfont
+     \fontsize{12}{18}\selectfont
      \parsep        \z@ \@plus\p@%
    }%
    \item[] \raggedright\itshape}%
@@ -232,7 +247,7 @@
      \topsep 4pt
      \listparindent 0em%
      \itemindent    -0.5em%
-     \leftmargin    1.5em %\leaderIndent%
+     \leftmargin    2.0em %\leaderIndent%
      \rightmargin   0em%
      \fontsize{12}{16}\selectfont
      \parsep        \z@ \@plus\p@%
@@ -241,6 +256,33 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
+ \newenvironment{english-hangtogether-verses}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    2.0em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+     \parskip       -16pt
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
+
+ \newenvironment{english-verses-keepwith}%
+ {\list{}{%
+     \topsep 0pt
+     \partopsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    2.0em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
 
  \newenvironment{cprenglish}%
  {\list{}{%
@@ -290,6 +332,20 @@
      \rightmargin   0em%
      \fontsize{12.5}{16}\selectfont
      \parsep        -8pt %\z@ \@plus\p@%
+   }%
+   \item[] \raggedright}%
+ {\endlist}
+
+ \newenvironment{pali-keepwith}%
+ {\list{}{%
+     \topsep 0pt
+     \partopsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{16}\selectfont
+     \parsep        \z@ \@plus\p@%
    }%
    \item[] \raggedright}%
  {\endlist}

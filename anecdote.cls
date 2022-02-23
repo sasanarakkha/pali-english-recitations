@@ -51,7 +51,12 @@
 
 %%%%%%%%%%%% All Other Declarations %%%%%%%%%%%%
 
+% One side of desktop version
+\ifdesktopversion
+\LoadClass[11pt,oneside,oldfontcommands]{memoir}
+\else
 \LoadClass[11pt,twoside,oldfontcommands]{memoir}
+\fi
 
 % \raggedbottom stops these warnings:
 %
@@ -128,7 +133,8 @@
 \RequirePackage{tipa}
 
 \RequirePackage{tikz}
-\usetikzlibrary{positioning}
+\usetikzlibrary{arrows.meta,bending,chains,positioning}
+\RequirePackage[object=vectorian]{pgfornament}
 
 %%%%%%%%%%%%%%%%% Define Colors %%%%%%%%%%%%%%%%
 
@@ -196,6 +202,13 @@
 %%%%%%%%%%%%%%%%%%%%%% Quote %%%%%%%%%%%%%%%%%%%%%%
 
 \newcommand\sideruleQuoteFont\libertinusFont
+
+%%%%%%%%%%%%%%%%%%%%%% Decorations %%%%%%%%%%%%%%%%%%%%%%
+
+% \newpgfornamentfamily{pgfhan}
+% \pgfornament[width = 2cm, color = SeaGreen]{59}
+% \newpgfornamentfamily{vectorian}
+% \pgfornament[width = 2cm, color = SeaGreen]{59}
 
 %%%%%%%%%%%%%%%% Table of Contents %%%%%%%%%%%%%%%%
 
@@ -552,7 +565,8 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand{\suttaRef}[1]{%
-  \vspace{-3pt \@plus 15pt \@minus 0pt}%
+  % \vspace{-12pt \@plus 5pt \@minus 0pt}%
+  \vspace{-6pt}%
   \hfill {\fontsize{8}{0}\selectfont #1\par}%
 }
 
@@ -756,9 +770,10 @@ philo-sophical munindo amaravati thai-land}
   \vspace{8pt \@plus 15pt \@minus 0pt}%
 }
 
+\newcommand{\thechaptergraphics}{}
+
 \newcommand{\chapterOpeningPage}[1]{%
-  \cleartoverso\thispagestyle{empty}\null%
-  \photoFullBleed{#1}%
+  \renewcommand{\thechaptergraphics}{#1}
 }
 
 \newcommand\sectionBreak{%
@@ -1304,6 +1319,8 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
   \renewcommand*\printchaptertitle[1]{%
+  % \thispagestyle{empty}\null%
+  \photoFullBleed{\thechaptergraphics}%
     {%
       \centering%
       {\chapnumfont\color{chapternum}\bfseries\scshape}%
@@ -1403,10 +1420,11 @@ philo-sophical munindo amaravati thai-land}
 %   \setsecnumformat{}%
 % }
 
+% Alters space before and after subtitles
 \setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-\setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
+\setaftersubsecskip{0.1ex \@plus -.5ex \@minus -.2ex}
 
 \setbeforesubsubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersubsubsecskip{1ex}
@@ -1420,19 +1438,19 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\sectionFmt[1]{%
   % A box with contains the entire ruled title
   \begin{minipage}{\linewidth}%
-    \raggedright%
+    \centering%
     \sectionFont\fontsize{15}{15}\selectfont%
     \color{section}%
-    \setlength{\parskip}{4pt}%
+    \setlength{\parskip}{2pt}%
     %
     % Top rule
-    \rule{\linewidth}{0.4pt}%
-    \linebreak%
+    % \rule{\linewidth}{0.4pt}%
+    % \linebreak%
     % Measure the length of the section title at the current point size
     \setlength{\sectionTitleLength}{\widthof{\mbox{\textbf{\textls*{\textsc{#1}}}}}}%
     %
     % Box for the section number
-    \begin{minipage}[t]{0.1\linewidth}%
+    \begin{minipage}[t]{0.001\linewidth}% padding for the title
       % Only print the section number in the mainmatter,
       % but the empty box is necessary for horizontal spacing.
       % \if@mainmatter%
@@ -1454,7 +1472,7 @@ philo-sophical munindo amaravati thai-land}
       \end{minipage}}%
     %
     % Box for the arrow link back to the schedule.
-    % Uncomment below to end to regain arrow and box
+    % U
     % \begin{minipage}[t]{0.1\linewidth}%
     %   % Only print content in the mainmatter.
     %   \if@mainmatter%
@@ -1468,6 +1486,12 @@ philo-sophical munindo amaravati thai-land}
     % New paragraph.
     \par%
     \ifsectionsubtitle%
+      % If there is a subtitle, and the title is more than one line, adjust the spacing.
+    \ifdimcomp{\sectionTitleLength}{>}{0.96\linewidth}{%
+      \vspace*{1.5\baselineskip}%
+      \vspace*{4pt}%
+      \par%
+    }{}
       %
       % Print the subtitle if it has been set with \sectionPaliTitle, then reset
       % it so following sections don't use the same value.
@@ -1494,7 +1518,10 @@ philo-sophical munindo amaravati thai-land}
     \fi%
     %
     % Bottom rule
-    \rule{\linewidth}{0.4pt}%
+    % \rule{\linewidth}{0.4pt}%
+    % \vspace*{10pt}
+    % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
+    \pgfornament[color=black,width=6cm,scale=1,ydelta=8pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
   % Starting at the title hyperref above
@@ -1624,12 +1651,13 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
+% Page Margins
 \settypeblocksize{27\baselineskip + \topskip}{120mm}{*}
-\setlrmargins{15mm}{*}{*}
-\setulmargins{20mm}{*}{*}
-\setmarginnotes{7pt}{14pt}{5pt}
+\setlrmargins{14mm}{*}{*}
+\setulmargins{*}{10mm}{1}
+\setmarginnotes{8pt}{14pt}{6pt}
 
-\setlength{\footskip}{15pt}
+\setlength{\footskip}{16pt}
 
 % Adjust spacing to avoid warning
 % Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
