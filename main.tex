@@ -7,10 +7,9 @@ desktopVersion,
 ]{anecdote}
 
 \graphicspath{{./assets/photos/300dpi/}}
-% \graphicspath{{./assets/photos/300dpi/}}
 
 % Page size: 210mm x 148mm (A5)
-%
+
 % Body text: 12.5 / 18 pt
 
 \usepackage{local}
@@ -99,12 +98,8 @@ desktopVersion,
 
 \appendix
 
-\chapterOpeningPage{appendix.pdf}
-
-\cleartorecto
-\part{Appendix}
-
 % {\raggedright
+  \input{./manuscript/tex/appendix.tex}
   \input{./manuscript/tex/refuge-trainings.tex}
   \input{./manuscript/tex/phonetics-pronunciation.tex}
   \input{./manuscript/tex/guidelines.tex}
@@ -119,6 +114,5 @@ desktopVersion,
 \input{./manuscript/tex/copyright-details.tex}
 
 \emptyUntilEven
-
 
 \end{document}

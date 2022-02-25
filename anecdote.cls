@@ -8,8 +8,7 @@
 % (c) Pāladhammika Bhikkhu, 2022
 % paladhammika@protonmail.com.com
 
-% LPPL LaTeX Pubic Project Licence
-
+% LPPL LaTeX Public Project Licence
 
 % TODO: document interfaces
 % TODO: test document to compile
@@ -226,7 +225,7 @@
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
 % Changes header at the top of the page indication section and page number
 \newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{8}}
-\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {9}{14}}
+\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {19}{14}}
 % Changes section/chant font size in ToC e.g. 'Dedication of Offerings'
 \newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}
 % Changes subsection/chant font size in ToC e.g. 'Undertaking the Three Refuges'
@@ -1365,9 +1364,10 @@ philo-sophical munindo amaravati thai-land}
 \makechapterstyle{adrasteia-appendix}{
   \chapterstyle{adrasteia}
   \renewcommand*\printchaptertitle[1]{%
+  \photoFullBleed{\thechaptergraphics}%
     {%
       \centering%
-      {\chapnumfont\fontsize{10}{10}\selectfont\color{chapternum}\textls*{APPENDIX}}%
+      {\chapnumfont\fontsize{10}{10}\selectfont\color{chapternum}\textls*{Appendix}}%
       \chaptitlefont\fontsize{13}{18}\selectfont\color{chaptertitle}%
       \vspace*{12pt}%
       \par
@@ -1411,7 +1411,7 @@ philo-sophical munindo amaravati thai-land}
 %
 % With no glue, the space will be at the bottom of the text block instead.
 
-\setbeforesecskip{0pt}
+\setbeforesecskip{10pt}
 
 % \setsechook{%
 %   % New page for each section.
@@ -1437,11 +1437,11 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\sectionFmt[1]{%
   % A box with contains the entire ruled title
-  \begin{minipage}{\linewidth}%
+  % \begin{minipage}{\linewidth}%
     \centering%
     \sectionFont\fontsize{15}{15}\selectfont%
     \color{section}%
-    \setlength{\parskip}{2pt}%
+    % \setlength{\parskip}{2pt}%
     %
     % Top rule
     % \rule{\linewidth}{0.4pt}%
@@ -1450,7 +1450,7 @@ philo-sophical munindo amaravati thai-land}
     \setlength{\sectionTitleLength}{\widthof{\mbox{\textbf{\textls*{\textsc{#1}}}}}}%
     %
     % Box for the section number
-    \begin{minipage}[t]{0.001\linewidth}% padding for the title
+    % \begin{minipage}[t]{0.001\linewidth}% padding for the title
       % Only print the section number in the mainmatter,
       % but the empty box is necessary for horizontal spacing.
       % \if@mainmatter%
@@ -1460,12 +1460,12 @@ philo-sophical munindo amaravati thai-land}
       %   \mbox{}%
       % \fi%
       % No section number, but minipage needs content (an empty box).
-      \mbox{}%
-    \end{minipage}%
+      % \mbox{}%
+    % \end{minipage}%
     %
     % Box for the section title text
     % TODO: hyperef wrap is disorienting the remainder of brackets
-    \hyperref[schedule]{\begin{minipage}[t]{0.8\linewidth}%
+    \hyperref[schedule]{\begin{minipage}[t]{\linewidth}%
         \centering%
         % To hyperlink the text only, put \hyperref around the below
         \textbf{\textls*{\textsc{#1}}}%
@@ -1487,9 +1487,9 @@ philo-sophical munindo amaravati thai-land}
     \par%
     \ifsectionsubtitle%
       % If there is a subtitle, and the title is more than one line, adjust the spacing.
-    \ifdimcomp{\sectionTitleLength}{>}{0.96\linewidth}{%
-      \vspace*{1.5\baselineskip}%
-      \vspace*{4pt}%
+    \ifdimcomp{\sectionTitleLength}{>}{\linewidth}{%
+      \vspace*{0.1\baselineskip}%
+      \vspace*{1pt}%
       \par%
     }{}
       %
@@ -1521,6 +1521,8 @@ philo-sophical munindo amaravati thai-land}
     % \rule{\linewidth}{0.4pt}%
     % \vspace*{10pt}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
+  \begin{minipage}{\linewidth}%
+    \centering
     \pgfornament[color=black,width=6cm,scale=1,ydelta=8pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
