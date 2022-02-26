@@ -1488,7 +1488,7 @@ philo-sophical munindo amaravati thai-land}
     \ifsectionsubtitle%
       % If there is a subtitle, and the title is more than one line, adjust the spacing.
     \ifdimcomp{\sectionTitleLength}{>}{\linewidth}{%
-      \vspace*{0.1\baselineskip}%
+      \vspace*{0.3\baselineskip}%
       \vspace*{1pt}%
       \par%
     }{}
@@ -1523,7 +1523,7 @@ philo-sophical munindo amaravati thai-land}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
   \begin{minipage}{\linewidth}%
     \centering
-    \pgfornament[color=black,width=6cm,scale=1,ydelta=8pt,symmetry=c]{88}%
+    \pgfornament[color=black,width=7cm,scale=1,ydelta=8pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
   % Starting at the title hyperref above
@@ -1655,7 +1655,7 @@ philo-sophical munindo amaravati thai-land}
 
 % Page Margins
 \settypeblocksize{27\baselineskip + \topskip}{120mm}{*}
-\setlrmargins{14mm}{*}{*}
+\setlrmargins{15mm}{*}{*}
 \setulmargins{*}{10mm}{1}
 \setmarginnotes{8pt}{14pt}{6pt}
 
