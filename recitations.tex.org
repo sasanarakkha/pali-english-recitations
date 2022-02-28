@@ -9550,7 +9550,7 @@ Vidhimhi homi tejavā
 \vspace{-0.6em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\: Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
+  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\: ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 \end{pali-hang}
 
 \begin{english-verses}
@@ -12291,7 +12291,7 @@ Sādhu sādhu sādhu
 \includegraphics[width=\textwidth]{pali-table.png}
 
 \begin{justify}
-  Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Siṅhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
+  Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
 \end{justify}
 
 \medskip
@@ -12310,15 +12310,15 @@ Sādhu sādhu sādhu
 \end{minipage}% This must go next to `\end{minipage}`
 \begin{minipage}{.453\textwidth}
 \vspace{-0.5mm}
-  Exceptions: \textbf{e} and \textbf{o} change to short sounds in syllables ending in double consonants. They are then pronounced as in ``p\textbf{e}t'' and ``s\textbf{o}ft'' respectively. (eg. sotthi)
+  Exceptions: \textbf{e} and \textbf{o} change to short sounds in syllables ending in double consonants. They are then pronounced as in ``p\textbf{e}t'' and ``s\textbf{o}ft'' respectively (eg. sotthi).
 \end{minipage}
 
 \begin{justify}
-  Long \textbf{vowels} have the sound indicated above put are held for a second beat. The vowels \textbf{e} and \textbf{o} are similiar to German language... Bhante fill in more here.
+  Long \textbf{vowels} have the sound indicated above but are held for a second beat. The vowels \textbf{e} and \textbf{o} are similiar to German language... Bhante fill in more here.
 \end{justify}
 
 \begin{justify}
-  \textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. `jivhā'or `taṇhā').  Examples: \textbf{th} as t in Thomas. (never pronounced as in ``the'') \textbf{ph} as p in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
+  \textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. `jivhā'or `taṇhā').  Examples: \textbf{th} as in "Thomas" (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
 \end{justify}
 
 \begin{justify}
@@ -12328,7 +12328,7 @@ Sādhu sādhu sādhu
 
 \begin{justify}
   \textbf{\textsc{Miscellaneous}}\\
-  The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e'' ``\textbf{ñ}'' is pronounced as in ``ca\textbf{ny}on'' The pure nasal ``\textbf{ṁ}'' and voiced nasal ``\textbf{ṅ}'' are pronounced as in ``su\textbf{ng}''.
+  The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'' is pronounced as in ``ca\textbf{ny}on''; the pure nasal ``\textbf{ṁ}'' and voiced nasal ``\textbf{ṅ}'' are pronounced as in ``su\textbf{ng}''.
 \end{justify}
 
 \begin{justify}
@@ -12336,7 +12336,7 @@ Sādhu sādhu sādhu
 \end{justify}
 
 \begin{justify}
-  Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously as within one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli paritta and funeral chants, there is a pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\, before the rest of the group joins in.
+  Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously as within one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli paritta and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\, before the rest of the group joins in.
 \end{justify}
 
 \clearpage
