@@ -176,6 +176,18 @@
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
 ]{LibertinusSerif-Regular.otf}
 
+\newfontfamily\sbsFont[
+  ItalicFont = palisbs.ttf,
+  BoldFont = palisbs.ttf,
+  BoldItalicFont = palisbs.ttf,
+]{palisbs.ttf}
+
+%%%%%%%%%%%%%%%% SBS Font %%%%%%%%%%%%%%%%
+
+% \newfontfamily\sbsFont{palisbs.ttf}
+
+% \newcommand*\sbs[1]{{\sbsFont #1}}
+
 %%%%%%%%%%%%%%%% Header & Footer %%%%%%%%%%%%%%%%
 
 \newcommand\headerFont\libertinusFont
@@ -287,10 +299,10 @@
 % Colors: in the desktop version, use colored link text
 \hypersetup{
   colorlinks=true,
-  linkcolor=link,
-  citecolor=link,
+  linkcolor=brown,
+  citecolor=brown,
   filecolor=link,
-  urlcolor=link,
+  urlcolor=brown,
 }
 \else
 % Colors: in the print version, set link colors to text color, so that it doesn't interfere with printing
@@ -585,16 +597,16 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand{\quoteTitle}[1]{%
   {%
-    \centering\upshape%
-    \sectionFont\fontsize{8}{10}\selectfont%
+    \centering%\upshape%
+    \fontsize{18}{10}\selectfont%
     \color{section}%
-    \textls{\MakeUppercase{#1}}%
-    \par%
+    #1%
+    % \par%
   }%
 }
 
 \newcommand{\quoteRef}[1]{%
-  {\raggedleft\itshape\footnotesize #1\par}%
+  {\centering\itshape\footnotesize #1\par}%
 }
 
 \newcommand{\quoteRefInline}[1]{%
@@ -819,6 +831,14 @@ philo-sophical munindo amaravati thai-land}
   \raisebox{-1pt}{\fontsize{20}{20}\bfseries\symbol{"00B7}}%
 }
 
+\newcommand\anglebracketleft{%
+  \raisebox{0.0\baselineskip}{\Large\symbol{"2329}}%
+ }
+
+\newcommand\anglebracketright{%
+  \raisebox{0.0\baselineskip}{\Large\symbol{"232A}}%
+ }
+
 % Navigation links at the bottom of the page
 % Places a link to the Recitation Schedule, and a link to the next chant in the schedule.
 %
@@ -837,7 +857,17 @@ philo-sophical munindo amaravati thai-land}
 %   \end{minipage}%
 % }
 
-% WHERE \bottomNav WAS!!!
+ \newcommand\bottomNav[1]{%
+  \vfill
+  \begin{minipage}{\linewidth}%
+    \centering
+    \hyperref[schedule]{%
+    \textbf{\textsc{\textls*{Schedule}}}}
+    \hspace*{0.05em} \pgfornament[color=brown,width=5mm,scale=0,ydelta=-3.5pt,symmetry=c]{4} \hspace*{0.05em}%
+    \hyperref[#1]{%
+      \textbf{\textsc{\textls*{Next}}}}%
+  \end{minipage}%
+}
 
 \newenvironment{glossarydescription}%
 {\list{}{%
@@ -1465,7 +1495,8 @@ philo-sophical munindo amaravati thai-land}
     %
     % Box for the section title text
     % TODO: hyperef wrap is disorienting the remainder of brackets
-    \hyperref[schedule]{\begin{minipage}[t]{\linewidth}%
+    \hyperref[schedule]{%
+      \begin{minipage}[t]{\linewidth}%
         \centering%
         % To hyperlink the text only, put \hyperref around the below
         \textbf{\textls*{\textsc{#1}}}%
@@ -1522,7 +1553,7 @@ philo-sophical munindo amaravati thai-land}
     % \vspace*{10pt}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
   \begin{minipage}{\linewidth}%
-    \centering
+    \centering%
     \pgfornament[color=black,width=7cm,scale=1,ydelta=8pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
@@ -1709,14 +1740,3 @@ philo-sophical munindo amaravati thai-land}
 \DefineFNsymbols{anecdote}{*{**}{***}}
 \setfnsymbol{anecdote}
 
-% Moved here to avoid throwing off brackets even though there is no real error
-\newcommand\bottomNav[1]{%
-  \vfill
-  \begin{minipage}{\linewidth}%
-    \centering
-    \hyperref[contents]{%
-    \textbf{\textsc{\textls*{Contents}}}}%\hspace*{1em}%
-    \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
-    \hyperref[#1]{\textbf{\textsc{\textls*{Next}}}}\hspace*{1em}%
-  \end{minipage}%
-}

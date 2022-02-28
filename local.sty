@@ -37,21 +37,35 @@
 % 'Handa mayaṁ...``
 \newenvironment{leader}%
 {\list{}{%
-    \parskip 6pt%
+    \parskip 16pt%
     \topsep 0pt%
     \listparindent 0em%
     \itemindent    0pt%
     \leftmargin    0pt %\leaderIndent%
     \rightmargin   0pt%
     \parsep        -8pt}
-  \fontsize{13}{12}\selectfont
+  \fontsize{12.5}{12}\selectfont
   \item[] \centering}%
 {\endlist}
 
 % 'Now let us...'
-\newenvironment{leader-english}%
+\newenvironment{leader-english-belowpali}%
 {\list{}{%
     \parskip 6pt%
+    \topsep 2pt%
+    \listparindent 0em%
+    \itemindent    0pt%
+    \leftmargin    0pt %\leaderIndent%
+    \rightmargin   0pt%
+    \parsep        -8pt
+    \fontsize{12}{14}\selectfont
+  }%
+  \item[] \centering\itshape}%
+{\endlist}
+
+\newenvironment{leader-english}%
+{\list{}{%
+    \parskip 16pt%
     \topsep 2pt%
     \listparindent 0em%
     \itemindent    0pt%

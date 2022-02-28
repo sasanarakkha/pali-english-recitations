@@ -5,17 +5,27 @@
 {\centering
 
 \settowidth{\titleLength}{%
-  {\Large\chapterTitleFont\textls*{\MakeUppercase{\thetitle}}}%
+  {\Large\chapterTitleFont\textsc{\MakeUppercase{{\thetitle}}}}%
 }
 
-{\Large\chapterTitleFont\textls*{{\thetitle}}}\\[0.3\baselineskip]
+% 'SBS' on title page
+{\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip]%
+
+% 'Monk Training Centre'
+{\Huge\chapterTitleFont\textsc{{\thetitle\linebreak}}}\\[0.2\baselineskip]
 \setlength{\xheight}{\heightof{X}}
-\raisebox{0.5\xheight}{\color[gray]{0.4}\rule{\titleLength}{0.25pt}}\\[0.3\baselineskip]
-{\itshape \thesubtitle}
 
-\vfill
+% Ornament
+\raisebox{0.5\xheight}{\color[gray]{0.4}\pgfornament[color=brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
 
-\vspace*{5em}
+% 'Pali-English Recitations
+{\Large\scshape \thesubtitle}\\[2.5\baselineskip]
+
+% \vfill
+
+% DN 29
+%Tasmātiha, cunda, ye vo mayā dhammā abhiññā desitā, tattha sabbeheva saṅgamma samāgamma atthena atthaṁ byañjanena byañjanaṁ saṅgāyitabbaṁ na vivaditabbaṁ, yathayidaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikaṁ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ.
+
+{\quote To all you whom I have taught those truths which have been realised by my direct knowledge, should come together and recite them, so that this holy life may continue and last for a long time for the benefit welfare and happiness of gods and humans. (DN 29)}\\[1.4\baselineskip]
 
 }
-
