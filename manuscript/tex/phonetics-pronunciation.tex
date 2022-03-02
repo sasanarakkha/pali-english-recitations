@@ -2,34 +2,42 @@
 \label{phonetics}
 
 % \begin{table}
-% % \begin{tabular}{|l|l|l|l|l||l|l|l|l|l|l|l|}
-% \begin{tabular}{cccccccccccc}
-% \resizebox{\textwidth}{!}{%
+% %   \begin{tabular}{|l|l|l|l|l||l|l|l|l|l|l|l|}
+%     \begin{tabular}{cccccccccccc}
+%       \resizebox{\textwidth}{!}{%
 
-% \hline
+%       \hline
 
-% Place of Articulation  & \multicolumn{12}{|c|}{Alice}       \\\hline
-% Gutturals & k & kh\\\hline %& g & gh & ṅ & h & space & a & ā & e & ṁ \\\hline
-% Palatals  & c & ch\\\hline %& j & jh & ṅ & h & space & a & ā & e & ṁ \\\hline%\cline{2-3}
-% Cerebrals & ṭ & ṭh\\\hline %& ḍ & ḍh & ṅ & h & space & a & ā & e & ṁ \\\hline%\cline{2-3}
-% Dentals   & t & th\\\hline %& d & dh & ṅ & h & space & a & ā & e & ṁ \\\hline
-% Labials   & p & ph\\\hline %& b & bh & ṅ & h & space & a & ā & e & ṁ \\\hline
-% \end{tabular}}
-% \end{table}
+%       Place of Articulation  & \multicolumn{12}{|c|}{Alice}       \\\hline
+%       Gutturals & k & kh & g & gh & ṅ & h & space & a & ā & e & ṁ \\\hline
+%       Palatals  & c & ch & j & jh & ṅ & h & space & a & ā & e & ṁ \\\hline%\cline{2-3}
+%       Cerebrals & ṭ & ṭh & ḍ & ḍh & ṅ & h & space & a & ā & e & ṁ \\\hline%\cline{2-3}
+%       Dentals   & t & th & d & dh & ṅ & h & space & a & ā & e & ṁ \\\hline
+%       Labials   & p & ph & b & bh & ṅ & h & space & a & ā & e & ṁ \\\hline
+%     \end{tabular}}
+%   \end{table}
 
-\begin{table}[]
-\centering
-\caption{My caption}
-\label{my-label}
-\begin{tabular}{|l|l|l|}
-\hline
-Name       & \multicolumn{2}{l|}{Alice}  \\ \hline
-Gutturals  & k & Value       \\ \hline%\cline{2-3}
-Palatals   & c & Value       \\ \hline%\cline{2-3}
-Cerebrals  & ṭ & Value       \\ \hline
-Dentals    & t & Value       \\ \hline
-Labials    & p & Value       \\ \hline
-\end{tabular}
+\begin{table}[!hbt]
+  \centering
+  % \caption{My caption}
+  % \label{my-label}
+  \resizebox{\textwidth}{!}{%
+    \renewcommand{\arraystretch}{1.2}% Tighter
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+      \hline
+      \multirow{3}{*}{Place of Articulation} & \multicolumn{11}{c|}{Manner of Articulation} \\ \cline{2-12}
+                                             & \multicolumn{7}{c|}{Consonants} & \multicolumn{3}{c|}{Vowels} & \vtop{\hbox{\strut Pure}\hbox{\strut Nasal}} \\ \cline{2-11}
+
+                                             & \multicolumn{5}{c|}{Stops} & \vtop{\hbox{\strut Semi}\hbox{\strut vowel}\hbox{\strut (voiced)}} & \vtop{\hbox{\strut Sibilant}\hbox{\strut (voiceless)}} & \vtop{\hbox{\strut Short}} & \vtop{\hbox{\strut Long}} & Compound \\ \cline{2-6}
+
+                                             & \vtop{\hbox{\strut Voiceless}\hbox{\strut non-}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiceless}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut non-}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut nasal}} \\ \hline
+
+      Gutturals  & k & kh & g & gh & ṅ & h          &   & a & ā & e &     \\ \cline{1-8} \cline{9-11}
+      Palatals   & c & ch & j & jh & ñ & y          &   & i & ī &   &     \\ \cline{1-8} \cline{9-10}
+      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r / l / ḷh &   &   &   &   & m   \\ \cline{1-8}
+      Dentals    & t & th & d & dh & n & l          & s &   &   &   &     \\ \cline{1-11}
+      Labials    & p & ph & b & bh & m & v          &   & u & ū & o &     \\ \hline
+    \end{tabular}}
 \end{table}
 
 \begin{justify}
@@ -46,12 +54,12 @@ Labials    & p & Value       \\ \hline
     \textbf{a} as in magm\prul{a} & \textbf{ā} as in f\prul{a}ther\\
     \textbf{i} as in ill          & \textbf{ī} as in l\prul{i}ter\\
     \textbf{u} as in p\prul{u}t   & \textbf{ū} as in r\prul{u}le\\
-                                  & \textbf{e} as in gr\prul{e}y\\
-                                  & \textbf{o} as in m\prul{o}re\\
+                   & \textbf{e} as in gr\prul{e}y\\
+                   & \textbf{o} as in m\prul{o}re\\
   \end{tabular}
 \end{minipage}% This must go next to `\end{minipage}`
 \begin{minipage}{.453\textwidth}
-\vspace{-2.0cm}
+  \vspace{-2.0cm}
   Exceptions: \textbf{e} and \textbf{o} change to short sounds in syllables ending in double consonants. They are then pronounced as in ``p\textbf{e}t'' and ``s\textbf{o}ft'' respectively (eg. sotthi).
 \end{minipage}
 
