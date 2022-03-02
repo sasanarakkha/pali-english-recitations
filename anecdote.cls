@@ -862,7 +862,7 @@ philo-sophical munindo amaravati thai-land}
   \vfill
   \begin{minipage}{\linewidth}%
     % \centering
-    \hyperref[toc]{%
+    \hyperref[schedule]{%
     \textbf{\raggedright\textsc{\textls*{Schedule}}}}
     % \hspace*{0.05em} \pgfornament[color=brown,width=5mm,scale=0,ydelta=-3.5pt,symmetry=c]{4} \hspace*{0.05em}%
     \hfill

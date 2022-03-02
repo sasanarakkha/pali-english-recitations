@@ -69,14 +69,16 @@ CLOSED: [2022-02-25 Fri 10:01]
 CLOSED: [2022-02-25 Fri 22:51]
 ** DONE no breathmarks start a new line
 CLOSED: [2022-02-28 Mon 18:37]
-** TODO regular ṭ ṇ need small caps
+** DONE regular ṭ ṇ need small caps
+CLOSED: [2022-03-01 Tue 21:28]
 ** DONE double check twoside setting for nondesktopversion, alterations to margins may have disturbed this
 CLOSED: [2022-02-25 Fri 22:51]
 ** DONE check angle bracket
 CLOSED: [2022-02-28 Mon 18:37]
 ** DONE center bottomNav
 CLOSED: [2022-03-01 Tue 16:01]
-** TODO fix breathmarks in full stting in motion
+** DONE fix breathmarks in full stting in motion
+CLOSED: [2022-03-01 Tue 21:28]
 ** TODO remake table so that it scales better
 ** TODO exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page
 ** TODO cardinal suttas bottomNav not at lowest point
@@ -2670,7 +2672,7 @@ Etaṁ buddhāna sāsanaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
 
 \sectionPaliTitle{Karaṇīya-metta-sutta}
-\section{\mbox{The Buddha's Words on Loving-Kindness}}
+\section{The Buddha's Words on Loving-Kindness}
 \label{words-on-loving-kindness}
 
 \begin{leader-english}
@@ -5149,9 +5151,9 @@ Idaṁ vuccati viññāṇa-paccayā nāmarūpaṁ
 
 Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
 
-\begin{english}
+\begin{english-hang}
   Therein what is 'the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition?
-\end{english}
+\end{english-hang}
 
 Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ
 
@@ -5195,10 +5197,10 @@ Tattha katamā phassa-paccayā vedanā
   Cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā
 \end{pali-hang}
 
-\begin{english-hang}
+\begin{english-hang-verses}
   Feeling born of eye-contact \breathmark\ feeling born of ear-contact \breathmark\
   feeling born of nose-contact \breathmark\ feeling born of tongue-contact \breathmark\ feeling born of body-contact \breathmark\ feeling born of mind-contact
-\end{english-hang}
+\end{english-hang-verses}
 
 Ayaṁ vuccati phassa-paccayā vedanā
 
@@ -5277,9 +5279,9 @@ Tattha katamā bhava-paccayā jāti
         \hypertarget{endnote83-appendix}{\hyperlink{endnote83-body}{While SN 12.2 does not contain a full elaboration on all types of \textit{dukkha}, a similar analysis is found in DN 22.}}}}}
 \end{pali-hang}
 
-\begin{english-hang}
+\begin{english-hang-verses}
   The birth of various beings among the various classes of beings \breathmark\ their being born \breathmark\ descent \breathmark\ production \breathmark\ appearance of the aggregates \breathmark\ obtaining of the sense-bases
-\end{english-hang}
+\end{english-hang-verses}
 
 Ayaṁ vuccati bhava-paccayā jāti
 
@@ -5300,14 +5302,14 @@ Tattha katamo soko
 \end{english}
 
 \begin{pali-hang}
-  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ soko socanā socitattaṁ \breathmark\ antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ soko socanā socitattaṁ \breathmark\ antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
 \end{pali-hang}
 
-\begin{english-hang}
+\begin{english-hang-verses}
   Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view\hyperlink{endnote84-appendix}{\hypertarget{endnote84-body}{\pagenote{%
         \hypertarget{endnote84-appendix}{\hyperlink{endnote84-body}{While SN 12.2 does not contain an elaboration on the different types of misfortune (\textit{vyasana}), it is found in DN 33, AN 4.192, and AN 5.130. \textit{Diṭṭhi} here does not mean just any view, but ``right view''. The loss of other views would not be particularly unfortunate from a Buddhist perspective, especially the loss of wrong view could be regarded as a great blessing. The right view that is lost in this example is not the right view of a noble disciple, but the right view of a worldling (\textit{puthujjana}), whose right view is not unshakeable and who may or may not change his view later on throughout the course of the present life or subsequent births.}}}}}
-  \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the sorrow \breathmark\ sorrowing \breathmark\ sorrowfulness \breathmark\ inner sorrow \breathmark\ extensive inner sorrow \breathmark\ the mind's thorough burning \breathmark\ displeasure \breathmark\ the dart of sorrow
-\end{english-hang}
+  \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the sorrow \breathmark\ sorrowing \breathmark\ sorrowfulness \breathmark\ inner sorrow \breathmark\ extensive inner sorrow \breathmark\ the mind's thorough burning \breathmark\ displeasure \breathmark\ the dart of sorrow
+\end{english-hang-verses}
 
 Ayaṁ vuccati soko
 
@@ -5322,12 +5324,12 @@ Tattha katamo paridevo
 \end{english}
 
 \begin{pali-hang}
-  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ \breathmark\ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ \breathmark\ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
 \end{pali-hang}
 
-\begin{english-hang}
-  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the wail and lament \breathmark\ wailing and lamenting \breathmark\ bewailing and lamentation \breathmark\ sorrowful talk \breathmark\ senseless \breathmark\ confused \breathmark\ sorrowful murmur \breathmark\ sorrowful murmuring \breathmark\ sorrowful murmuration
-\end{english-hang}
+\begin{english-hang-verses}
+  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the wail and lament \breathmark\ wailing and lamenting \breathmark\ bewailing and lamentation \breathmark\ sorrowful talk \breathmark\ senseless \breathmark\ confused \breathmark\ sorrowful murmur \breathmark\ sorrowful murmuring \breathmark\ sorrowful murmuration
+\end{english-hang-verses}
 
 Ayaṁ vuccati paridevo
 
@@ -5343,9 +5345,9 @@ Tattha katamaṁ dukkhaṁ?
 
 Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ \breathmark\ kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ kāyasamphassajā asātā dukkhā vedanā
 
-\begin{english-hang}
+\begin{english-hang-verses}
   The bodily discomfort \breathmark\ bodily pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of body-contact \breathmark\ the uncomfortable painful feeling that is born of body-contact
-\end{english-hang}
+\end{english-hang-verses}
 
 Idaṁ vuccati dukkhaṁ
 
@@ -5363,9 +5365,9 @@ Tattha katamaṁ domanassaṁ
   Yaṁ cetasikaṁ asātaṁ cetasikaṁ dukkhaṁ \breathmark\ cetosamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ cetosamphassajā asātā dukkhā vedanā
 \end{pali-hang}
 
-\begin{english-hang}
+\begin{english-hang-verses}
   The mental discomfort \breathmark\ mental pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of mind-contact \breathmark\ the uncomfortable painful feeling that is born of mind-contact
-\end{english-hang}
+\end{english-hang-verses}
 
 Idaṁ vuccati domanassaṁ
 
@@ -5380,12 +5382,12 @@ Tattha katamo upāyāso
 \end{english}
 
 \begin{pali-hang}
-  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa \breathmark\ āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
 \end{pali-hang}
 
-\begin{english-hang}
-  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is affected \breathmark\ the trouble and despair \breathmark\ tribulation and desperation
-\end{english-hang}
+\begin{english-hang-verses}
+  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the trouble and despair \breathmark\ tribulation and desperation
+\end{english-hang-verses}
 
 Ayaṁ vuccati upāyāso
 
@@ -7789,261 +7791,261 @@ Atha kho bhagavā udānaṁ udānesi:
 
 \smallskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   On one occasion the Blessed One was dwelling at Bārāṇasī in the Deer Park at Isipatana. There the Blessed One addressed the bhikkhus of the group of five thus:
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Bhikkhus these two extremes should not be followed by one who has gone forth into homelessness. What two? The pursuit of sensual happiness in sensual pleasures which is low vulgar the way of worldlings ignoble unbeneficial and the pursuit of self-mortification which is painful ignoble unbeneficial.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Without veering towards either of these extremes the Tathāgata has awakened to the middle way which gives rise to vision which gives rise to knowledge which leads to peace to direct knowledge to enlightenment to Nibbāna.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   And what bhikkhus is the Middle Way awakened to by the Tathāgata which gives rise to vision which gives rise to knowledge which leads to peace to direct knowledge to enlightenment to Nibbāna.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   It is this Noble Eightfold Path:
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   That Is Right View Right Intention Right Speech Right Action Right Livelihood Right Effort Right Mindfulness Right Concentration.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   This bhikkhus is that middle way awakened to by the \mbox{Tathāgata}~which gives rise to vision which gives rise to knowledge which leads to peace to direct knowledge to enlightenment to Nibbāna.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Now this bhikkhus is the noble truth of suffering: birth is suffering ageing is suffering illness is suffering death is suffering union with what is displeasing is suffering separation from what is pleasing is suffering not to get what one wants is suffering in \mbox{brief}~the five aggregates subject to clinging are suffering.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Now this bhikkhus is the noble truth of the origin of suffering: it is this craving which leads to renewed existence accompanied by delight and lust seeking delight here and there that is craving for sensual pleasures craving for existence craving for extermination.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Now this bhikkhus is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation of that same craving the giving up and relinquishing of it freedom from it nonreliance on it.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Now this bhikkhus is the noble truth of the way leading to the cessation of suffering: It is this Noble Eightfold Path;
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   That Is Right View Right Intention Right Speech Right Action Right Livelihood Right Effort Right Mindfulness Right Concentration.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This is the noble truth of suffering': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   This noble truth of suffering is to be fully understood': thus \mbox{bhikkhus}~in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   This noble truth of suffering has been fully understood': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This is the noble truth of the origin of suffering': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This noble truth of the origin of suffering is to be abandoned': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This noble truth of the origin of suffering has been abandoned': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This is the noble truth of the cessation of suffering': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This noble truth of the cessation of suffering is to be realized': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This noble truth of the cessation of suffering has been realized': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This is the noble truth of the way leading to the cessation of suffering': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This noble truth of the way leading to the cessation of suffering is to be developed': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   `This noble truth of the way leading to the cessation of suffering has been developed': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   So long bhikkhus as my knowledge and vision of these Four Noble Truths as they really are in their three phases and twelve aspects was not thoroughly purified in this way I did not claim to have awakened to the unsurpassed perfect enlightenment in this world with its devas Māra and Brahmā in this generation with its ascetics and brahmins its devas and humans.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   But when my knowledge and vision of these Four Noble Truths as they really are in their three phases and twelve aspects was thoroughly purified in this way then I claimed to have awakened to the unsurpassed perfect enlightenment in this world with its devas Māra and Brahmā in this generation with its ascetics and brahmins its devas and humans.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   This is what the Blessed One said. Elated the bhikkhus of the group of five delighted in the Blessed One's statement.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   And while this discourse was being spoken there arose in the Venerable Kondañña the dust-free stainless vision of the Dhamma:
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   ``Whatever is subject to origination is all subject to cessation.''
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   And when the Wheel of the Dhamma had been set in motion by the Blessed One, the earth-dwelling devas raised a cry:
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   ``At Bārāṇasī in the Deer Park at Isipatana this unsurpassed Wheel of the Dhamma has been set in motion by the Blessed One which cannot be stopped by any ascetic or brahmin or deva or Māra or Brahmā or by anyone in the world.''
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Having heard the cry of the earth-dwelling devas the devas of the realm of the Four Great Kings raised a cry ...
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Having heard the cry of the devas of the realm of the Four Great Kings the Tāvatiṁsa devas raised a cry ...
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Having heard the cry of the Tāvatiṁsa devas the Yāma devas raised a cry ...
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Having heard the cry of the Yāma devas the Tusita devas raised a cry ...
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Having heard the cry of the Tusita devas the Nimmānaratī devas raised a cry ...
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Having heard the cry of the Nimmānaratī devas the Paranimmitavasavattī devas raised a cry ...
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Having heard the cry of the Paranimmitavasavattī devas the devas of Brahmā's company raised a cry:
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   ``At Bārāṇasī in the Deer Park at Isipatana this unsurpassed Wheel of the Dhamma has been set in motion by the Blessed One which cannot be stopped by any ascetic or brahmin or deva or Māra or Brahmā or by anyone in the world.''
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Thus at that moment at that instant at that second the cry spread as far as the brahmā world and this ten thousandfold world system shook quaked and trembled and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas.
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   Then the Blessed One uttered this inspired utterance:
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   ``Koṇḍañña has indeed understood! Koṇḍañña has indeed understood!''
-\end{english-hang}
+\end{english-only-hang}
 
 \medskip
 
-\begin{english-hang}
+\begin{english-only-hang}
   In this way the Venerable Koṇḍañña acquired the name ``Aññā Koṇḍañña—Koṇḍañña Who Has Understood.''
-\end{english-hang}
+\end{english-only-hang}
 
 \suttaRef{[SN 56.11]}
 
