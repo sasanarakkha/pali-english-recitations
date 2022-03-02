@@ -105,11 +105,24 @@
 % {\endlist}
 
 % Used throughout the Verses chapter and other chants that are separated by a hyphen
-\newenvironment{twochants}%
-{\begin{tabular}{@{}l l@{}}
-     \vspace{-0.2em}%
+ % \newenvironment{twochants}%
+ % {\begin{tabular}{@{}l l@{}}
+ %      \vspace{-0.2em}%
+ %    }%
+ %    {\end{tabular}}
+
+ \newenvironment{verses}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    0em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{18}\selectfont
+     \parsep        0em %\z@ \@plus\p@%
    }%
-   {\end{tabular}}
+   \item[] \raggedright}%
+ {\endlist}
 
 % For English passages that are preceeded by Pāli, remains closer to the preceeding Pāli
  \newenvironment{english}%
@@ -161,9 +174,7 @@
      \topsep 0pt
      \listparindent 0em%
      \itemindent    -0.5em%
-     \leftmargin    2.0em %\leaderIndent%
-     % \itemindent    -1.0em%
-     % \leftmargin    1.5em %\leaderIndent%
+     \leftmargin    1.5em %\leaderIndent%
      \rightmargin   0em%
      \fontsize{12}{16}\selectfont
      \parsep        -8.5em %\z@ \@plus\p@%
@@ -250,7 +261,22 @@
      \topsep 4pt
      \listparindent 0em%
      \itemindent    0em%
-     \leftmargin    \leaderIndent%
+     \leftmargin    1.0em%\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
+
+% Used for a single problematic line
+ \newenvironment{english-hang-firstline}%
+ {\list{}{%
+     \partopsep 0pt
+     \topsep 4pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em%\leaderIndent%
      \rightmargin   0em%
      \fontsize{12}{18}\selectfont
      \parsep        \z@ \@plus\p@%
@@ -264,7 +290,7 @@
      \topsep 4pt
      \listparindent 0em%
      \itemindent    -0.5em%
-     \leftmargin    2.0em %\leaderIndent%
+     \leftmargin    1.5em %\leaderIndent%
      \rightmargin   0em%
      \fontsize{12}{16}\selectfont
      \parsep        \z@ \@plus\p@%
@@ -278,7 +304,7 @@
      \topsep 0pt
      \listparindent 0em%
      \itemindent    -0.5em%
-     \leftmargin    2.0em %\leaderIndent%
+     \leftmargin    0.5em %\leaderIndent%
      \rightmargin   0em%
      \fontsize{12}{18}\selectfont
      \parsep        \z@ \@plus\p@%
