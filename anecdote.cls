@@ -119,6 +119,7 @@
 \RequirePackage{eso-pic}
 \RequirePackage{ccicons}
 \RequirePackage{multicol}
+\RequirePackage{multirow}
 \RequirePackage{footnote}
 \RequirePackage{hyphenat}
 \RequirePackage{ifthen}
@@ -168,13 +169,13 @@
   ItalicFont = LibertinusSerif-Italic.otf,
   BoldFont = LibertinusSerifX-Bold.ttf,
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
-]{LibertinusSerif-Regular.otf}
+]{LibertinusSerifX-Regular.ttf}
 
 \newfontfamily\libertinusFont[
   ItalicFont = LibertinusSerif-Italic.otf,
   BoldFont = LibertinusSerifX-Bold.ttf,
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
-]{LibertinusSerif-Regular.otf}
+]{LibertinusSerifX-Regular.ttf}
 
 \newfontfamily\sbsFont[
   ItalicFont = palisbs.ttf,
@@ -299,10 +300,10 @@
 % Colors: in the desktop version, use colored link text
 \hypersetup{
   colorlinks=true,
-  linkcolor=brown,
-  citecolor=brown,
+  linkcolor=link,
+  citecolor=link,
   filecolor=link,
-  urlcolor=brown,
+  urlcolor=link,
 }
 \else
 % Colors: in the print version, set link colors to text color, so that it doesn't interfere with printing
@@ -860,12 +861,13 @@ philo-sophical munindo amaravati thai-land}
  \newcommand\bottomNav[1]{%
   \vfill
   \begin{minipage}{\linewidth}%
-    \centering
-    \hyperref[schedule]{%
-    \textbf{\textsc{\textls*{Schedule}}}}
-    \hspace*{0.05em} \pgfornament[color=brown,width=5mm,scale=0,ydelta=-3.5pt,symmetry=c]{4} \hspace*{0.05em}%
+    % \centering
+    \hyperref[toc]{%
+    \textbf{\raggedright\textsc{\textls*{Schedule}}}}
+    % \hspace*{0.05em} \pgfornament[color=brown,width=5mm,scale=0,ydelta=-3.5pt,symmetry=c]{4} \hspace*{0.05em}%
+    \hfill
     \hyperref[#1]{%
-      \textbf{\textsc{\textls*{Next}}}}%
+      \textbf{\raggedleft\textsc{\textls*{Next}}}}%
   \end{minipage}%
 }
 
