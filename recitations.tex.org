@@ -97,6 +97,7 @@ CLOSED: [2022-03-03 Thu 19:52]
 ** TODO italicize all non chanted pali (?)
 ** TODO reduce size of bottomnav so that it fits (?)
 ** TODO document anecdote and local
+** TODO trim the fat: remove unneeded code, directories, and files
 * Recitation Schedule
 #+begin_src latex :tangle ./manuscript/tex/schedule.tex
 
