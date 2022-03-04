@@ -131,10 +131,18 @@
 \RequirePackage{array}
 \RequirePackage{ragged2e}
 \RequirePackage{tipa}
-
 \RequirePackage{tikz}
 \usetikzlibrary{arrows.meta,bending,chains,positioning}
 \RequirePackage[object=vectorian]{pgfornament}
+
+% Packages for pali table
+\RequirePackage{rotating}
+\RequirePackage{makecell}
+\settowidth\rotheadsize{{\small Compound}}
+\newcommand{\NA}{---}
+%% These two are sourced locally in ~/.texmf
+\RequirePackage{tabularray}
+\RequirePackage{ninecolors}
 
 %%%%%%%%%%%%%%%%% Define Colors %%%%%%%%%%%%%%%%
 
@@ -834,6 +842,7 @@ philo-sophical munindo amaravati thai-land}
   \raisebox{0.0\baselineskip}{\Large\symbol{"232A}}%
  }
 
+% Original bottomNav
 % Navigation links at the bottom of the page
 % Places a link to the Recitation Schedule, and a link to the next chant in the schedule.
 %
@@ -857,11 +866,11 @@ philo-sophical munindo amaravati thai-land}
   \begin{minipage}{\linewidth}%
     % \centering
     \hyperref[schedule]{%
-    \textbf{\raggedright\textsc{\textls*{Schedule}}}}
+    \textbf{\raggedright\textsc{\fontsize{10}{0}\textls*{Schedule}}}}
     % \hspace*{0.05em} \pgfornament[color=brown,width=5mm,scale=0,ydelta=-3.5pt,symmetry=c]{4} \hspace*{0.05em}%
     \hfill
     \hyperref[#1]{%
-      \textbf{\raggedleft\textsc{\textls*{Next}}}}%
+      \textbf{\raggedleft\textsc{\fontsize{10}{0}\textls*{Next}}}}%
   \end{minipage}%
 }
 
