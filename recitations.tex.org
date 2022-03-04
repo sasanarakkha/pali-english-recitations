@@ -8,7 +8,8 @@
 CLOSED: [2022-02-23 Wed 09:59]
 - in main.tex comment out 'desktopVersion'
 - wrap \ifdesktopVersion \else around whatever needs to be removed for print
-** TODO keep orphan with previous text, use mbox?
+** DONE keep orphan with previous text, use mbox?
+CLOSED: [2022-03-03 Thu 19:50]
 ** DONE anumodana, paritta, and funeral sections don't need page break before next title
 CLOSED: [2022-02-13 Sun 18:36]
 ** DONE change spacing in ToC to match original
@@ -25,7 +26,6 @@ CLOSED: [2022-02-23 Wed 09:59]
 - will try to have them removed
 ** DONE remove '0.' in front of chapters
 CLOSED: [2022-02-13 Sun 18:37]
-** TODO document anecdote and local
 ** DONE remove unused styles
 CLOSED: [2022-02-13 Sun 18:37]
 ** DONE remove Set 1...10 from actual ToC but not links
@@ -59,14 +59,14 @@ CLOSED: [2022-02-23 Wed 10:01]
 CLOSED: [2022-02-23 Wed 10:01]
 ** DONE see headers that have extend to second line, they get too close to subtitle
 CLOSED: [2022-02-25 Fri 10:00]
-** TODO diffpdf
+** DONE diffpdf
+CLOSED: [2022-03-03 Thu 19:50]
 ** DONE ensure english styles are flush with left margin
 CLOSED: [2022-03-03 Thu 15:00]
 ** DONE will have to renumber endnotes, off by 1
 CLOSED: [2022-02-25 Fri 22:51]
 ** DONE no page number for appendix in ToC, sections in appendix not showing "Appendix" in header
 CLOSED: [2022-02-25 Fri 10:01]
-** TODO italicize all non chanted pali
 ** DONE replace leader [] with angled brackets
 CLOSED: [2022-02-25 Fri 22:51]
 ** DONE no breathmarks start a new line
@@ -83,176 +83,20 @@ CLOSED: [2022-03-01 Tue 16:01]
 CLOSED: [2022-03-01 Tue 21:28]
 ** DONE remake table so that it scales better
 CLOSED: [2022-03-03 Thu 15:00]
-** TODO exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page
-** TODO cardinal suttas bottomNav not at lowest point
+** DONE cardinal suttas bottomNav not at lowest point
+CLOSED: [2022-03-03 Thu 19:49]
 ** DONE ensure empty pages for print version
 CLOSED: [2022-03-03 Thu 15:30]
-** TODO reduce size of bottomnav so that it fits (?)
 ** DONE hyperlink chants in intro
 CLOSED: [2022-03-03 Thu 18:30]
 ** DONE reduce spacing before eng verses
 CLOSED: [2022-03-03 Thu 18:30]
 
-* Table of Contents :toc:
-- [[#todos][TODOs]]
-  - [[#digital-conditional][digital conditional]]
-  - [[#keep-orphan-with-previous-text-use-mbox][keep orphan with previous text, use mbox?]]
-  - [[#anumodana-paritta-and-funeral-sections-dont-need-page-break-before-next-title][anumodana, paritta, and funeral sections don't need page break before next title]]
-  - [[#change-spacing-in-toc-to-match-original][change spacing in ToC to match original]]
-  - [[#even-though-numbering-removed-chapter-page-still-has-0][even though numbering removed, chapter page still has "0."]]
-  - [[#ask-bhante-about-headers][ask Bhante about headers]]
-  - [[#toc---schedule----set--make-remove-clear-page-from-this-section][ToC - Schedule -- Set : Make remove clear page from this section]]
-  - [[#remove-blank-pages-from-digital-pdf][remove blank pages from digital pdf]]
-  - [[#remove-0-in-front-of-chapters][remove '0.' in front of chapters]]
-  - [[#document-anecdote-and-local][document anecdote and local]]
-  - [[#remove-unused-styles][remove unused styles]]
-  - [[#remove-set-110-from-actual-toc-but-not-links][remove Set 1...10 from actual ToC but not links]]
-  - [[#how-to-add-parameters-to-desktopversion-to-toggle-onoff-certain-features][how to add parameters to "desktopVersion" to toggle on/off certain features]]
-  - [[#toc-needs-change-in-vertical-spacing-and-indentation][ToC needs change in vertical spacing and indentation]]
-  - [[#g---bottom-margin-is-quite-small----something-changed][G - bottom margin is quite small -- something changed]]
-  - [[#g---unreferenced-build-error-results-from-pdfbookmark-in-schedule][G - unreferenced build error results from \pdfbookmark in schedule]]
-  - [[#is-pali-english-recitations-section-needed][is 'pali-english recitations' section needed?]]
-  - [[#desktopverison-conditionals][desktopverison conditionals]]
-  - [[#g---chapter-pdf-bookmarks-go-to-chapter-page-instead-of-cover-page][G - chapter pdf bookmarks go to 'CHAPTER' page instead of Cover page]]
-  - [[#made-toc-chapter-headers-larger][made ToC chapter headers larger]]
-  - [[#make-toc-chapter-number-larger][make ToC chapter number larger]]
-  - [[#make-sure-toc-page-numbers-are-correct-size][make sure ToC page numbers are correct size]]
-  - [[#g---two-empty-pages-after-abbreviations][G - two empty pages after abbreviations]]
-  - [[#more-space-between-pali-english-leader-intros][more space between pali-english leader intros]]
-  - [[#increase-header-body-spacing-for-parittas][increase header body spacing for parittas]]
-  - [[#see-headers-that-have-extend-to-second-line-they-get-too-close-to-subtitle][see headers that have extend to second line, they get too close to subtitle]]
-  - [[#diffpdf][diffpdf]]
-  - [[#ensure-english-styles-are-flush-with-left-margin][ensure english styles are flush with left margin]]
-  - [[#will-have-to-renumber-endnotes-off-by-1][will have to renumber endnotes, off by 1]]
-  - [[#no-page-number-for-appendix-in-toc-sections-in-appendix-not-showing-appendix-in-header][no page number for appendix in ToC, sections in appendix not showing "Appendix" in header]]
-  - [[#italicize-all-non-chanted-pali][italicize all non chanted pali]]
-  - [[#replace-leader--with-angled-brackets][replace leader [] with angled brackets]]
-  - [[#no-breathmarks-start-a-new-line][no breathmarks start a new line]]
-  - [[#regular-ṭ-ṇ-need-small-caps][regular ṭ ṇ need small caps]]
-  - [[#double-check-twoside-setting-for-nondesktopversion-alterations-to-margins-may-have-disturbed-this][double check twoside setting for nondesktopversion, alterations to margins may have disturbed this]]
-  - [[#check-angle-bracket][check angle bracket]]
-  - [[#center-bottomnav][center bottomNav]]
-  - [[#fix-breathmarks-in-full-stting-in-motion][fix breathmarks in full stting in motion]]
-  - [[#remake-table-so-that-it-scales-better][remake table so that it scales better]]
-  - [[#exhortation-fire-sermon-final-instruction-ten-subjects-32-parts-bottomnav-not-on-same-page][exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page]]
-  - [[#cardinal-suttas-bottomnav-not-at-lowest-point][cardinal suttas bottomNav not at lowest point]]
-  - [[#ensure-empty-pages-for-print-version][ensure empty pages for print version]]
-  - [[#reduce-size-of-bottomnav-so-that-it-fits-][reduce size of bottomnav so that it fits (?)]]
-  - [[#hyperlink-chants-in-intro][hyperlink chants in intro]]
-  - [[#reduce-spacing-before-eng-verses][reduce spacing before eng verses]]
-- [[#recitation-schedule][Recitation Schedule]]
-- [[#purpose-and-benefits-of-dhamma-recitation][Purpose and Benefits of Dhamma Recitation]]
-- [[#abbreviations][Abbreviations]]
-- [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
-  - [[#covertitle][Cover/Title]]
-  - [[#dedication-of-offerings][Dedication of Offerings]]
-  - [[#preliminary-homage][Preliminary Homage]]
-  - [[#homage-to-the-buddha][Homage to the Buddha]]
-  - [[#homage-to-the-dhamma][Homage to the Dhamma]]
-  - [[#homage-to-the-saṅgha][Homage to the Saṅgha]]
-  - [[#salutation-to-the-triple-gem][Salutation to the Triple Gem]]
-  - [[#closing-homage][Closing Homage]]
-- [[#verses][Verses]]
-  - [[#covertitle-1][Cover/Title]]
-  - [[#the-buddhas-first-exclamation][The Buddha's First Exclamation]]
-  - [[#respect-for-the-dhamma][Respect for the Dhamma]]
-  - [[#going-to-true-and-false-refuges][Going to True and False Refuges]]
-  - [[#the-pāṭimokkha-exhortation][The Pāṭimokkha Exhortation]]
-  - [[#the-three-characteristics][The Three Characteristics]]
-  - [[#the-burdens][The Burdens]]
-  - [[#from-the-elder-raṭṭhapāla][From the Elder Raṭṭhapāla]]
-  - [[#from-the-elder-pārāpariya][From the Elder Pārāpariya]]
-  - [[#on-protection][On Protection]]
-  - [[#miscellaneous-verses][Miscellaneous Verses]]
-  - [[#a-single-excellent-night][A Single Excellent Night]]
-  - [[#the-highest-blessings][The Highest Blessings]]
-  - [[#the-buddhas-words-on-loving-kindness][The Buddha's Words on Loving-Kindness]]
-- [[#teachings][Teachings]]
-  - [[#covertitle-2][Cover/Title]]
-  - [[#setting-in-motion-the-wheel-of-dhamma][Setting in Motion the Wheel of Dhamma]]
-  - [[#anupubba-sikkhā][Anupubba-sikkhā]]
-  - [[#the-gradual-training][The Gradual Training]]
-  - [[#requisites-for-awakening][Requisites for Awakening]]
-  - [[#the-seven-factors-of-awakening][The Seven Factors of Awakening]]
-  - [[#the-noble-eightfold-path][The Noble Eightfold Path]]
-  - [[#mindfulness-of-breathing][Mindfulness of Breathing]]
-  - [[#dependent-origination][Dependent Origination]]
-  - [[#the-dhamma-in-brief][The Dhamma in Brief]]
-  - [[#the-four-great-references][The Four Great References]]
-  - [[#principles-of-cordiality][Principles of Cordiality]]
-  - [[#principles-of-non-decline][Principles of Non-Decline]]
-  - [[#striving-according-to-the-dhamma][Striving According to the Dhamma]]
-  - [[#the-buddhas-final-instruction][The Buddha's Final Instruction]]
-- [[#reflections][Reflections]]
-  - [[#covertitle-3][Cover/Title]]
-  - [[#the-four-requisites][The Four Requisites]]
-  - [[#the-repulsiveness-of-food][The Repulsiveness of Food]]
-  - [[#universal-well-being][Universal Well-Being]]
-  - [[#the-divine-abidings][The Divine Abidings]]
-  - [[#five-subjects-for-frequent-reflection][Five Subjects for Frequent Reflection]]
-  - [[#ten-subjects-for-frequent-reflection-by-one-gone-forth][Ten Subjects for Frequent Reflection by One Gone Forth]]
-  - [[#the-thirty-two-body-parts][The Thirty-Two Body Parts]]
-  - [[#recollection-of-impermanence][Recollection of Impermanence]]
-- [[#cardinal-suttas][Cardinal Suttas]]
-  - [[#covertitle-4][Cover/Title]]
-  - [[#dhammacakkappavattana-sutta][Dhammacakkappavattana Sutta]]
-  - [[#the-discourse-on-setting-in-motion-the-wheel-of-dhamma][The Discourse on Setting in Motion the Wheel of Dhamma]]
-  - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa Sutta]]
-  - [[#the-discourse-on-the-characteristic-of-not-self][The Discourse on the Characteristic of Not-Self]]
-  - [[#āditta-pariyāya-sutta][Āditta-Pariyāya Sutta]]
-  - [[#the-fire-sermon][The Fire Sermon]]
-- [[#anumodanā][Anumodanā]]
-  - [[#covertitle-5][Cover/Title]]
-  - [[#just-as-rivers][Just as Rivers]]
-  - [[#yathā-vāri-vahā-pūrā][Yathā vāri-vahā pūrā]]
-  - [[#ratanattayānubhāvādi-gāthā][Ratanattayānubhāv'ādi-gāthā]]
-  - [[#bhojana-dānānumodanā][Bhojana-dānānumodanā]]
-  - [[#culla-maṅgala-cakka-vāḷa][Culla-maṅgala-cakka-vāḷa]]
-  - [[#aggappasāda-sutta-gāthā][Aggappasāda-sutta-gāthā]]
-  - [[#kāla-dāna-sutta-gāthā][Kāla-dāna-sutta-gāthā]]
-  - [[#so-attha-laddho][So attha-laddho]]
-- [[#paritta][Paritta]]
-  - [[#covertitle-6][Cover/Title]]
-  - [[#devā-ārādhanā][Devā-ārādhanā]]
-  - [[#pubba-bhāga-nama-kāra-pāṭho][Pubba-bhāga-nama-kāra-pāṭho]]
-  - [[#saraṇa-gamana-pāṭho][Saraṇa-gamana-pāṭho]]
-  - [[#nama-kāra-siddhi-gāthā][Nama-kāra-siddhi-gāthā]]
-  - [[#namo-kāra-aṭṭhaka][Namo-kāra-aṭṭhaka]]
-  - [[#maṅgala-sutta][Maṅgala-sutta]]
-  - [[#ratana-sutta][Ratana-sutta]]
-  - [[#karaṇīya-metta-sutta][Karaṇīya-metta-sutta]]
-  - [[#khandha-parittaṁ][Khandha-parittaṁ]]
-  - [[#buddha-dhamma-saṅgha-guṇā][Buddha-Dhamma-Saṅgha-guṇā]]
-  - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ kiñci ratanaṁ loke]]
-  - [[#bojjhaṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
-  - [[#abhaya-parittaṁ][Abhaya-parittaṁ]]
-  - [[#devatā-uyyojana-gāthā][Devatā-uyyojana-gāthā]]
-  - [[#jaya-maṅgala-aṭṭha-gāthā][Jaya-maṅgala-aṭṭha-gāthā]]
-  - [[#jaya-parittaṁ][Jaya-parittaṁ]]
-  - [[#bhavatu-sabba-maṅgalaṁ][Bhavatu-sabba-maṅgalaṁ]]
-- [[#funeral-recitations][Funeral Recitations]]
-  - [[#covertitle-7][Cover/Title]]
-  - [[#pubba-bhāga-nama-kāra-pāṭho-1][Pubba-bhāga-nama-kāra-pāṭho]]
-  - [[#dhamma-saṅgaṇī-mātikā][Dhamma-saṅgaṇī-mātikā]]
-  - [[#vipassanā-bhūmi-pāṭho][Vipassanā-bhūmi-pāṭho]]
-  - [[#paṭṭhāna-mātikā-pāṭho][Paṭṭhāna-mātikā-pāṭho]]
-  - [[#adāsi-me-ādi-gāthā][Adāsi-me ādi gāthā]]
-  - [[#paṁsu-kūla-for-the-dead][Paṁsu-kūla for the Dead]]
-  - [[#paṁsu-kūla-for-the-living][Paṁsu-kūla for the Living]]
-  - [[#bhavatu-sabba-maṅgalaṁ-1][Bhavatu-sabba-maṅgalaṁ]]
-- [[#sharing-of-merits][Sharing of Merits]]
-  - [[#covertitle-8][Cover/Title]]
-  - [[#sharing-and-aspirations][Sharing and Aspirations]]
-  - [[#sharing-of-all-merits][Sharing of All Merits]]
-  - [[#sharing-of-merits-with-the-departed][Sharing of Merits with the Departed]]
-  - [[#sharing-of-merits-with-the-devas][Sharing of Merits with the Devas]]
-  - [[#the-highest-honour-and-aspirations][The Highest Honour and Aspirations]]
-- [[#appendix][Appendix]]
-  - [[#covertitle-9][Cover/Title]]
-  - [[#undertaking-the-refuges--trainings][Undertaking the Refuges & Trainings]]
-  - [[#pāli-phonetics-and-pronunciation][Pāli Phonetics and Pronunciation]]
-  - [[#chanting-leader-guidelines][Chanting Leader Guidelines]]
-
+** DONE exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page
+CLOSED: [2022-03-03 Thu 19:52]
+** TODO italicize all non chanted pali (?)
+** TODO reduce size of bottomnav so that it fits (?)
+** TODO document anecdote and local
 * Recitation Schedule
 #+begin_src latex :tangle ./manuscript/tex/schedule.tex
 
@@ -9350,8 +9194,8 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
 \end{english-verses}
 
-\vspace{1em}
-% TODO does teh job, make sure even with spacing
+% \vspace{1em}
+% TODO does the job, make sure even with spacing
 
 #+end_src
 
@@ -11097,7 +10941,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
 
-\vspace{-0.85em}
+\vspace{-0.8em}
 
 \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 
