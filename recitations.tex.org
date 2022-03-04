@@ -1342,7 +1342,7 @@ Saṅghaṁ namāmi
 
 \suttaRef{[Dhp 153-154]}
 
-{\centering \bottomNav{wheel-of-dhamma-abridged}}
+\bottomNav{wheel-of-dhamma-abridged}
 
 #+end_src
 
@@ -1358,8 +1358,8 @@ Saṅghaṁ namāmi
 \end{leader}
 
 \begin{verses}
-  Ye ca atītā sambuddhā – Ye ca buddhā anāgatā \\
-  Yo c'etarahi sambuddho – Bahunnaṁ soka-nāsano \\
+  Ye ca atītā sambuddhā – Ye ca buddhā anāgatā\\
+  Yo c'etarahi sambuddho – Bahunnaṁ soka-nāsano
 \end{verses}
 
 \begin{english-verses}
@@ -1371,7 +1371,7 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Sabbe saddhamma-garuno – Vihariṁsu viharanti ca\\
-  Atho pi viharissanti – Esā buddhāna dhammatā\\
+  Atho pi viharissanti – Esā buddhāna dhammatā
 \end{verses}
 
 \begin{english-verses}
@@ -1383,7 +1383,7 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Tasmā hi atta-kāmena – Mahattam-abhikaṅkhatā\\
-  Saddhammo garu-kātabbo – Saraṁ buddhāna sāsanaṁ\\
+  Saddhammo garu-kātabbo – Saraṁ buddhāna sāsanaṁ
 \end{verses}
 
 \begin{english-verses}
@@ -1411,11 +1411,13 @@ Saṅghaṁ namāmi
   True Dhamma takes one on a good course
 \end{english-verses}
 
+\begin{verses}
 Dhammo have rakkhati dhamma-cāriṁ\\
 Dhammo suciṇṇo sukham-āvahāti\\
 Esānisaṁso dhamme suciṇṇe\\
 Na duggatiṁ gacchati dhamma-cārī\hyperlink{endnote31-appendix}{\hypertarget{endnote31-body}{\pagenote{%
       \hypertarget{endnote31-appendix}{\hyperlink{endnote31-body}{This line is missing in Wat Pah Nanachat chanting book.}}}}}
+\end{verses}
 
 \begin{english-verses}
   The Dhamma guards those who live in line with it\\
@@ -1441,8 +1443,10 @@ Na duggatiṁ gacchati dhamma-cārī\hyperlink{endnote31-appendix}{\hypertarget{
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ khemākhema-saraṇa-gamana-paridīpikā-gāthāyo bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
+\begin{verses}
 Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\\
-Ārāma-rukkha-cetyāni – Manussā bhaya-tajjitā\\
+Ārāma-rukkha-cetyāni – Manussā bhaya-tajjitā
+\end{verses}
 
 \begin{english-verses}
   To many refuges they go\\
@@ -1451,8 +1455,10 @@ Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\\
   People overcome by fear
 \end{english-verses}
 
+\begin{verses}
 N'etaṁ kho saraṇaṁ khemaṁ – N'etaṁ saraṇam-uttamaṁ\\
-N'etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccati\\
+N'etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccati
+\end{verses}
 
 \begin{english-verses}
   Such a refuge is not secure\\
@@ -1462,8 +1468,10 @@ N'etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccati\\
         \hypertarget{endnote32-appendix}{\hyperlink{endnote32-body}{Orig: ``from suffering''}}}}}
 \end{english-verses}
 
+\begin{verses}
 Yo ca buddhañ-ca dhammañ-ca – Saṅghañ-ca saraṇaṁ gato\\
-Cattāri ariya-saccāni – Sammappaññāya passati\\
+Cattāri ariya-saccāni – Sammappaññāya passati
+\end{verses}
 
 \begin{english-verses}
   Whoever goes to refuge\\
@@ -1472,8 +1480,10 @@ Cattāri ariya-saccāni – Sammappaññāya passati\\
   The Four Noble Truths
 \end{english-verses}
 
+\begin{verses}
 Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
-Ariyañ-c'aṭṭh'aṅgikaṁ maggaṁ – Dukkhūpasama-gāminaṁ\\
+Ariyañ-c'aṭṭh'aṅgikaṁ maggaṁ – Dukkhūpasama-gāminaṁ
+\end{verses}
 
 \begin{english-verses}
   Suffering and its origin\\
@@ -1482,8 +1492,10 @@ Ariyañ-c'aṭṭh'aṅgikaṁ maggaṁ – Dukkhūpasama-gāminaṁ\\
   That leads the way to suffering's end
 \end{english-verses}
 
+\begin{verses}
 Etaṁ kho saraṇaṁ khemaṁ – Etaṁ saraṇam-uttamaṁ\\
 Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
+\end{verses}
 
 \begin{english-verses}
   Such a refuge is secure\\
@@ -1613,7 +1625,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Sabbe saṅkhārā aniccā'ti – Yadā paññāya passati\\
-  Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
+  Atha nibbindati dukkhe – Esa maggo visuddhiyā
 \end{verses}
 
 \begin{english-verses}
@@ -1627,7 +1639,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Sabbe saṅkhārā dukkhā'ti – Yadā paññāya passati\\
-  Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
+  Atha nibbindati dukkhe – Esa maggo visuddhiyā
 \end{verses}
 
 \begin{english-verses}
@@ -1639,7 +1651,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Sabbe dhammā anattā'ti – Yadā paññāya passati\\
-  Atha nibbindati dukkhe – Esa maggo visuddhiyā\\
+  Atha nibbindati dukkhe – Esa maggo visuddhiyā
 \end{verses}
 
 \begin{english-verses}
@@ -1654,7 +1666,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Appakā te manussesu – Ye janā pāra-gāmino\\
-  Athāyaṁ itarā pajā – Tīram-evānudhāvati\\
+  Athāyaṁ itarā pajā – Tīram-evānudhāvati
 \end{verses}
 
 \begin{english-verses}
@@ -1712,8 +1724,8 @@ Etaṁ buddhāna sāsanaṁ
 \end{leader}
 
 \begin{verses}
-  Bhārā have pañcakkhandhā – Bhāra-hāro ca puggalo \\
-  Bhār'ādānaṁ dukkhaṁ loke – Bhāra-nikkhepanaṁ sukhaṁ \\
+  Bhārā have pañcakkhandhā – Bhāra-hāro ca puggalo\\
+  Bhār'ādānaṁ dukkhaṁ loke – Bhāra-nikkhepanaṁ sukhaṁ
 \end{verses}
 
 \begin{english-verses}
@@ -1726,7 +1738,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Nikkhipitvā garuṁ bhāraṁ – Aññaṁ bhāraṁ anādiya\\
-  Samūlaṁ taṇhaṁ abbuyha – Nicchāto parinibbuto\\
+  Samūlaṁ taṇhaṁ abbuyha – Nicchāto parinibbuto
 \end{verses}
 
 \begin{english-verses}
@@ -1755,7 +1767,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Passa cittakataṁ bimbaṁ – Arukāyaṁ samussitaṁ\\
-  Āturaṁ bahusaṅkappaṁ – Yassa natthi dhuvaṁ ṭhiti\\
+  Āturaṁ bahusaṅkappaṁ – Yassa natthi dhuvaṁ ṭhiti
 \end{verses}
 
 \begin{english-verses}
@@ -1767,7 +1779,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Passa cittakataṁ rūpaṁ – Maṇinā kuṇḍalena ca\\
-  Aṭṭhiṁ tacena onaddhaṁ – Saha vatthehi sobhati\\
+  Aṭṭhiṁ tacena onaddhaṁ – Saha vatthehi sobhati
 \end{verses}
 
 \begin{english-verses}
@@ -1779,7 +1791,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Alattakakatā pādā – Mukhaṁ cuṇṇakamakkhitaṁ\\
-  Alaṁ bālassa mohāya – No ca pāragavesino\\
+  Alaṁ bālassa mohāya – No ca pāragavesino
 \end{verses}
 
 \begin{english-verses}
@@ -1791,7 +1803,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Aṭṭhapadakatā kesā – Nettā añjanamakkhitā\\
-  Alaṁ bālassa mohāya – No ca pāragavesino\\
+  Alaṁ bālassa mohāya – No ca pāragavesino
 \end{verses}
 
 \begin{english-verses}
@@ -1803,7 +1815,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Añjanīva navā cittā – Pūtikāyo alaṅkato\\
-  Alaṁ bālassa mohāya – No ca pāragavesino\\
+  Alaṁ bālassa mohāya – No ca pāragavesino
 \end{verses}
 
 \begin{english-verses}
@@ -1916,7 +1928,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Aññathā lokanāthamhi – Tiṭṭhante purisuttame\\
-  Iriyaṁ āsi bhikkhūnaṁ – Aññathā dāni dissati\\
+  Iriyaṁ āsi bhikkhūnaṁ – Aññathā dāni dissati
 \end{verses}
 
 \begin{english-verses}
@@ -1928,7 +1940,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Sītavātaparittāṇaṁ – Hirikopīnachādanaṁ\\
-  Mattaṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itarītare\\
+  Mattaṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itarītare
 \end{verses}
 
 \begin{english-verses}
@@ -1940,7 +1952,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Paṇītaṁ yadi vā lūkhaṁ – Appaṁ vā yadi vā bahuṁ\\
-  Yāpanatthaṁ abhuñjiṁsu – Agiddhā nādhimucchitā\\
+  Yāpanatthaṁ abhuñjiṁsu – Agiddhā nādhimucchitā
 \end{verses}
 
 \begin{english-verses}
@@ -1952,7 +1964,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Jīvitānaṁ parikkhāre – Bhesajje atha paccaye\\
-  Na bāḷhaṁ ussukā āsuṁ – Yathā te āsavakkhaye\\
+  Na bāḷhaṁ ussukā āsuṁ – Yathā te āsavakkhaye
 \end{verses}
 
 \begin{english-verses}
@@ -1964,7 +1976,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Araññe rukkhamūlesu – Kandarāsu guhāsu ca\\
-  Vivekamanubrūhantā – Vihaṁsu tapparāyaṇā\\
+  Vivekamanubrūhantā – Vihaṁsu tapparāyaṇā
 \end{verses}
 
 \begin{english-verses}
@@ -1976,7 +1988,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Nīcā niviṭṭhā subharā – Mudū atthaddhamānasā\\
-  Abyāsekā amukharā – Atthacintā vasānugā\\
+  Abyāsekā amukharā – Atthacintā vasānugā
 \end{verses}
 
 \begin{english-verses}
@@ -1988,7 +2000,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Tato pāsādikaṁ āsi – Gataṁ bhuttaṁ nisevitaṁ\\
-  Siniddhā teladhārāva – Ahosi iriyāpatho\\
+  Siniddhā teladhārāva – Ahosi iriyāpatho
 \end{verses}
 
 \begin{english-verses}
@@ -2000,7 +2012,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Yathā kaṇṭakaṭṭhānamhi – Careyya anupāhano\\
-  Satiṁ upaṭṭhapetvāna – Evaṁ gāme munī care\\
+  Satiṁ upaṭṭhapetvāna – Evaṁ gāme munī care
 \end{verses}
 
 \begin{english-verses}
@@ -2012,7 +2024,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Saritvā pubbake yogī – Tesaṁ vattamanussaraṁ\\
-  Kiñcāpi pacchimo kālo – Phuseyya amataṁ padaṁ\\
+  Kiñcāpi pacchimo kālo – Phuseyya amataṁ padaṁ
 \end{verses}
 
 \begin{english-verses}
@@ -2041,7 +2053,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Chinda sotaṁ parakkamma – Kāme panūda brāhmaṇa\\
-  Nappahāya muni kāme – Nekattam-upapajjati\\
+  Nappahāya muni kāme – Nekattam-upapajjati
 \end{verses}
 
 \begin{english-verses}
@@ -2054,7 +2066,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Kayirā ce kayirāthenaṁ – Daḷham-enaṁ parakkame\\
-  Sithilo hi paribbājo – Bhiyyo ākirate rajaṁ\\
+  Sithilo hi paribbājo – Bhiyyo ākirate rajaṁ
 \end{verses}
 
 \begin{english-verses}
@@ -2067,7 +2079,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Akataṁ dukkaṭaṁ seyyo – Pacchā tappati dukkaṭaṁ\\
-  Katañ-ca sukataṁ seyyo – Yaṁ katvā nānutappati\\
+  Katañ-ca sukataṁ seyyo – Yaṁ katvā nānutappati
 \end{verses}
 
 \begin{english-verses}
@@ -2079,7 +2091,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Kuso yathā duggahito – Hattham-evānukantati\\
-  Sāmaññaṁ dupparāmaṭṭhaṁ – Nirayāy'ūpakaḍḍhati\\
+  Sāmaññaṁ dupparāmaṭṭhaṁ – Nirayāy'ūpakaḍḍhati
 \end{verses}
 
 \begin{english-verses}
@@ -2091,7 +2103,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Yaṁ-kiñci sithilaṁ kammaṁ – Saṅkiliṭṭhañ-ca yaṁ vataṁ\\
-  Saṅkassaraṁ brahma-cariyaṁ – Na taṁ hoti mahapphalan'ti\\
+  Saṅkassaraṁ brahma-cariyaṁ – Na taṁ hoti mahapphalan'ti
 \end{verses}
 
 \begin{english-verses}
@@ -2120,7 +2132,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Attadīpā bhikkhave viharatha attasaraṇā anaññasaraṇā\\
-  Dhammadīpā dhammasaraṇā anaññasaraṇā\\
+  Dhammadīpā dhammasaraṇā anaññasaraṇā
 \end{verses}
 
 \begin{english-verses}
@@ -2134,7 +2146,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Appassutāyaṁ puriso – Balibaddova jīrati\\
-  Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati\\
+  Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati
 \end{verses}
 
 \begin{english-verses}
@@ -2148,7 +2160,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Uyyuñjanti satīmanto – Na nikete ramanti te\\
-  Haṁsāva pallalaṁ hitvā – Okamokaṁ jahanti te\\
+  Haṁsāva pallalaṁ hitvā – Okamokaṁ jahanti te
 \end{verses}
 
 \begin{english-verses}
@@ -2162,7 +2174,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Yaṁ pubbe taṁ visosehi – Pacchā te māhu kiñcanaṁ\\
-  Majjhe ce no gahessasi – Upasanto carissasi\\
+  Majjhe ce no gahessasi – Upasanto carissasi
 \end{verses}
 
 \begin{english-verses}
@@ -2176,7 +2188,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Uṭṭhahatha nisīdatha – Ko attho supitena vo\\
-  Āturānañhi kā niddā – Sallaviddhāna ruppataṁ\\
+  Āturānañhi kā niddā – Sallaviddhāna ruppataṁ
 \end{verses}
 
 \begin{english-verses}
@@ -2188,7 +2200,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā\\
-  Mā vo pamatte viññāya – Maccurājā amohayittha vasānuge\\
+  Mā vo pamatte viññāya – Maccurājā amohayittha vasānuge
 \end{verses}
 
 \begin{english-verses}
@@ -2201,7 +2213,7 @@ Etaṁ buddhāna sāsanaṁ
 \begin{verses}
   Yāya devā manussā ca – Sitā tiṭṭhanti atthikā\\
   Tarathetaṁ visattikaṁ – Khaṇo vo mā upaccagā\\
-  Khaṇātītā hi socanti – Nirayamhi samappitā\\
+  Khaṇātītā hi socanti – Nirayamhi samappitā
 \end{verses}
 
 \begin{english-verses}
@@ -2215,7 +2227,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Pamādo rajo pamādo – Pamādānupatito rajo\\
-  Appamādena vijjāya – Abbahe sallamattanoti\\
+  Appamādena vijjāya – Abbahe sallamattanoti
 \end{verses}
 
 \begin{english-verses}
@@ -2230,7 +2242,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Piyato jāyatī soko – Piyato jāyatī bhayaṁ\\
-  Piyato vippamuttassa – Natthi soko kuto bhayaṁ\\
+  Piyato vippamuttassa – Natthi soko kuto bhayaṁ
 \end{verses}
 
 \begin{english-verses}
@@ -2280,7 +2292,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ\\
-  Hitesinā anukampakena anukampaṁ upādāya\\
+  Hitesinā anukampakena anukampaṁ upādāya
 \end{verses}
 
 \begin{english-verses}
@@ -2356,7 +2368,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Atītaṁ nānvāgameyya – Nappaṭikaṅkhe anāgataṁ\\
-  Yad atītam-pahīnan-taṁ – Appattañ-ca anāgataṁ\\
+  Yad atītam-pahīnan-taṁ – Appattañ-ca anāgataṁ
 \end{verses}
 
 \begin{english-verses}
@@ -2368,7 +2380,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Paccuppannañ-ca yo dhammaṁ – Tattha tattha vipassati\\
-  Asaṁhiraṁ asaṅkuppaṁ – Taṁ viddhām-anubrūhaye\\
+  Asaṁhiraṁ asaṅkuppaṁ – Taṁ viddhām-anubrūhaye
 \end{verses}
 
 \begin{english-verses}
@@ -2381,7 +2393,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Ajjeva kiccam-ātappaṁ – Ko jaññā maraṇaṁ suve\\
-  Na hi no saṅgaran-tena – Mahā-senena maccunā\\
+  Na hi no saṅgaran-tena – Mahā-senena maccunā
 \end{verses}
 
 \begin{english-verses}
@@ -2393,7 +2405,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Evaṁ vihārim-ātāpiṁ – Aho-rattam-atanditaṁ\\
-  Taṁ ve bhadd'eka-ratto'ti – Santo ācikkhate muni\\
+  Taṁ ve bhadd'eka-ratto'ti – Santo ācikkhate muni
 \end{verses}
 
 \begin{english-verses}
@@ -12083,7 +12095,9 @@ Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
   Yes, Venerable Sir.
 \end{english}
 
+\begin{center}
 (Bow three times)
+\end{center}
 
 \clearpage
 
@@ -12148,7 +12162,9 @@ Sādhu sādhu sādhu
   Well done, well cone, well done.
 \end{english}
 
+\begin{center}
 (Bow three times)
+\end{center}
 
 \clearpage
 
@@ -12246,7 +12262,9 @@ Sādhu sādhu sādhu
   Well done, well done, well done.
 \end{english}
 
+\begin{center}
 (Bow three times)
+\end{center}
 
 \clearpage
 
