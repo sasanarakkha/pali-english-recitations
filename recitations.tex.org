@@ -6534,8 +6534,6 @@ Appamādena sampādetha
   Perfect yourselves not being negligent
 \end{english}
 
-\clearpage
-
 Ayaṁ tathāgatassa pacchimā vācā
 
 \begin{english}
@@ -8486,13 +8484,14 @@ Kena ādittaṁ?
 
 #+end_src
 
-* Anumodanā
+* Thanksgiving Recitations
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
 
 \chapterOpeningPage{anumodana.pdf}
 
-\chapter{Anumodanā}
+\chapter{Thanksgiving Recitations}
+
 \clearpage
 
 #+end_src
@@ -9113,13 +9112,14 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-* Paritta
+* Protective Recitations
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 
 \chapterOpeningPage{paritta.pdf}
 
-\chapter{Paritta}
+\chapter{Protective Recitations}
+
 \clearpage
 
 #+end_src
@@ -11992,6 +11992,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 \chapterOpeningPage{appendix.pdf}
 
+\addtocontents{toc}{\protect\pagebreak}
 \chapter{Appendix}
 
 \clearpage
@@ -12231,34 +12232,40 @@ Sādhu sādhu sādhu
 \clearpage
 
 #+end_src
+
 ** Pāli Phonetics and Pronunciation
 #+begin_src latex :tangle ./manuscript/tex/phonetics-pronunciation.tex
 
 \section{Pāli Phonetics and Pronunciation}
 \label{phonetics}
 
-\includegraphics[width=0.5\textwidth]{./assets/photos/300dpi/pali-table.png}
+\begin{table}[ht]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tblr}{
+            colspec={l *{11}{c}},
+            hlines, vlines,
+            row{1-5}={font=\small},
+        }
+        \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
+        & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
+        & \SetCell[c=5]{c} Stops &&&&
+        & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
+        & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
+        & \SetCell[r=3]{c} \rotcell{Short}
+        & \SetCell[r=3]{c} \rotcell{Long}
+        & \SetCell[r=3]{c} \rotcell{Compound} & \\
+        & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
+        & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
+        Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
+        Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
+        Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & m \\
+        Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
+        Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
+    \end{tblr}}
+\end{table}
 
-% \begin{table}[!hbt]
-%   \centering
-%   \resizebox{\textwidth}{!}{%
-%   \renewcommand{\arraystretch}{1.2}% Tighter
-%   \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
-      %       \hline
-      %       \multirow{3}{*}{Place of Articulation} & \multicolumn{11}{c|}{Manner of Articulation} \\ \cline{2-12}
-      %                                                      & \multicolumn{7}{c|}{Consonants} & \multicolumn{3}{c|}{Vowels} & \vtop{\hbox{\strut Pure}\hbox{\strut Nasal}} \\ \cline{2-11}
-
-      %                                                      & \multicolumn{5}{c|}{Stops} & \vtop{\hbox{\strut Semi}\hbox{\strut vowel}\hbox{\strut (voiced)}} & \vtop{\hbox{\strut Sibilant}\hbox{\strut (voiceless)}} & \vtop{\hbox{\strut Short}} & \vtop{\hbox{\strut Long}} & Compound \\ \cline{2-6}
-
-      %                                                      & \vtop{\hbox{\strut Voiceless}\hbox{\strut non-}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiceless}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut non-}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut nasal}} \\ \hline
-
-      %       Gutturals  & k & kh & g & gh & ṅ & h          &   & a & ā & e &     \\ \cline{1-8} \cline{9-11}
-      %       Palatals   & c & ch & j & jh & ñ & y          &   & i & ī &   &     \\ \cline{1-8} \cline{9-10}
-      %       Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r / l / ḷh &   &   &   &   & m   \\ \cline{1-8}
-      %       Dentals    & t & th & d & dh & n & l          & s &   &   &   &     \\ \cline{1-11}
-      %       Labials    & p & ph & b & bh & m & v          &   & u & ū & o &     \\ \hline
-      %     \end{tabular}}
-      %       \end{table}
+\vspace{-0.5cm}
 
 \begin{justify}
   Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
@@ -12266,7 +12273,7 @@ Sādhu sādhu sādhu
 
 \medskip
 
-      %       TODO works but must be a way to split both boxes evenly
+% Works but there must be a way to split both boxes evenly
 \textbf{Vowels} are of two types:\\
 \begin{minipage}{.55\textwidth}
   \begin{tabular}{@{} ll @{}}
@@ -12274,12 +12281,12 @@ Sādhu sādhu sādhu
     \textbf{a} as in magm\prul{a} & \textbf{ā} as in f\prul{a}ther\\
     \textbf{i} as in ill          & \textbf{ī} as in l\prul{i}ter\\
     \textbf{u} as in p\prul{u}t   & \textbf{ū} as in r\prul{u}le\\
-                   & \textbf{e} as in Santa F\prul{e} (pronounced like a German)\\
-                   & \textbf{o} as in f\prul{o}r (pronounced like an Austtrian)\\
+                   & \textbf{e} as in Santa F\prul{e}\\
+                   & \textbf{o} as in f\prul{o}r\\
   \end{tabular}
-\end{minipage}% This must go next to `\end{minipage}`
+\end{minipage}% This must go next to `\begin{minipage}`
 \begin{minipage}{.453\textwidth}
-  \vspace{-3.5cm}
+  \vspace{-1.4cm}
   Exceptions: \textbf{e} and \textbf{o} change to short sounds in syllables ending in double consonants. They are then pronounced as in ``p\textbf{e}t'' and ``s\textbf{o}ft'' respectively (eg. sotthi).
 \end{minipage}
 
