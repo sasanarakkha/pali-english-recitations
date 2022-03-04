@@ -215,13 +215,6 @@
 
 \newcommand\sideruleQuoteFont\libertinusFont
 
-%%%%%%%%%%%%%%%%%%%%%% Decorations %%%%%%%%%%%%%%%%%%%%%%
-
-% \newpgfornamentfamily{pgfhan}
-% \pgfornament[width = 2cm, color = SeaGreen]{59}
-% \newpgfornamentfamily{vectorian}
-% \pgfornament[width = 2cm, color = SeaGreen]{59}
-
 %%%%%%%%%%%%%%%% Table of Contents %%%%%%%%%%%%%%%%
 
 \newcommand\tocFont\libertinusFont
@@ -1154,7 +1147,8 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 }
-{\hfill\tocFont\fontsize{11}{15}\selectfont\thecontentspage}
+% Changes the size of the page number for chapter headings in ToC
+{\hfill\tocFont\fontsize{14}{5}\selectfont\thecontentspage}
 [\addvspace{1pt}]
 
 % Changes section/chant formatting in ToC e.g. 'Dedication of Offerings'
@@ -1505,7 +1499,7 @@ philo-sophical munindo amaravati thai-land}
       \end{minipage}}%
     %
     % Box for the arrow link back to the schedule.
-    % U
+    % Uncomment below to end to regain arrow and box
     % \begin{minipage}[t]{0.1\linewidth}%
     %   % Only print content in the mainmatter.
     %   \if@mainmatter%

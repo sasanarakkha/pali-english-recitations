@@ -46,7 +46,8 @@ CLOSED: [2022-02-23 Wed 10:00]
 CLOSED: [2022-02-20 Sun 08:47]
 ** DONE made ToC chapter headers larger
 CLOSED: [2022-02-25 Fri 09:59]
-** TODO make ToC chapter number larger
+** DONE make ToC chapter number larger
+CLOSED: [2022-03-03 Thu 15:00]
 ** DONE make sure ToC page numbers are correct size
 CLOSED: [2022-02-25 Fri 10:00]
 ** DONE G - two empty pages after abbreviations
@@ -59,7 +60,8 @@ CLOSED: [2022-02-23 Wed 10:01]
 ** DONE see headers that have extend to second line, they get too close to subtitle
 CLOSED: [2022-02-25 Fri 10:00]
 ** TODO diffpdf
-** TODO ensure english styles are flush with left margin
+** DONE ensure english styles are flush with left margin
+CLOSED: [2022-03-03 Thu 15:00]
 ** DONE will have to renumber endnotes, off by 1
 CLOSED: [2022-02-25 Fri 22:51]
 ** DONE no page number for appendix in ToC, sections in appendix not showing "Appendix" in header
@@ -79,11 +81,17 @@ CLOSED: [2022-02-28 Mon 18:37]
 CLOSED: [2022-03-01 Tue 16:01]
 ** DONE fix breathmarks in full stting in motion
 CLOSED: [2022-03-01 Tue 21:28]
-** TODO remake table so that it scales better
+** DONE remake table so that it scales better
+CLOSED: [2022-03-03 Thu 15:00]
 ** TODO exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page
 ** TODO cardinal suttas bottomNav not at lowest point
-** TODO ensure empty pages for print version
-** TODO reduce size of bottomnav so that it fits
+** DONE ensure empty pages for print version
+CLOSED: [2022-03-03 Thu 15:30]
+** TODO reduce size of bottomnav so that it fits (?)
+** DONE hyperlink chants in intro
+CLOSED: [2022-03-03 Thu 18:30]
+** DONE reduce spacing before eng verses
+CLOSED: [2022-03-03 Thu 18:30]
 
 * Table of Contents :toc:
 - [[#todos][TODOs]]
@@ -129,7 +137,9 @@ CLOSED: [2022-03-01 Tue 21:28]
   - [[#exhortation-fire-sermon-final-instruction-ten-subjects-32-parts-bottomnav-not-on-same-page][exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page]]
   - [[#cardinal-suttas-bottomnav-not-at-lowest-point][cardinal suttas bottomNav not at lowest point]]
   - [[#ensure-empty-pages-for-print-version][ensure empty pages for print version]]
-  - [[#reduce-size-of-bottomnav-so-that-it-fits][reduce size of bottomnav so that it fits]]
+  - [[#reduce-size-of-bottomnav-so-that-it-fits-][reduce size of bottomnav so that it fits (?)]]
+  - [[#hyperlink-chants-in-intro][hyperlink chants in intro]]
+  - [[#reduce-spacing-before-eng-verses][reduce spacing before eng verses]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#purpose-and-benefits-of-dhamma-recitation][Purpose and Benefits of Dhamma Recitation]]
 - [[#abbreviations][Abbreviations]]
@@ -280,8 +290,6 @@ CLOSED: [2022-03-01 Tue 21:28]
   }
 
   \clearpage
-  \hspace{0pt}
-\vfill
 
   {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 3}}}}\\
   \pdfbookmark[2]{Set 3}{set3}
@@ -311,12 +319,7 @@ CLOSED: [2022-03-01 Tue 21:28]
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }
 
-\vfill
-\hspace{0pt}
   \clearpage
-
-  % \bigskip
-  \vspace{1.5cm}
 
   {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 5}}}}\\
   \pdfbookmark[2]{Set 5}{set5}
@@ -333,8 +336,7 @@ CLOSED: [2022-03-01 Tue 21:28]
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }
 
-  % \bigskip
-  \vspace{1.5cm}
+  \vspace{1.0cm}
 
   {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 6}}}}\\
   \pdfbookmark[2]{Set 6}{set6}
@@ -348,9 +350,7 @@ CLOSED: [2022-03-01 Tue 21:28]
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }
 
-  \clearpage
-  % \bigskip
-  \vspace{1.5cm}
+\clearpage
 
   {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 7}}}}\\
   \pdfbookmark[2]{Set 7}{set7}
@@ -362,8 +362,7 @@ CLOSED: [2022-03-01 Tue 21:28]
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }
 
-  % \bigskip
-  \vspace{1.5cm}
+  \vspace{1.0cm}
 
   {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 8}}}}\\
   \pdfbookmark[2]{Set 8}{set8}
@@ -381,8 +380,6 @@ CLOSED: [2022-03-01 Tue 21:28]
   }
 
   \clearpage
-  % \bigskip
-  \vspace{1.5cm}
 
   {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 9}}}}\\
   \pdfbookmark[2]{Set 9}{set9}
@@ -394,15 +391,14 @@ CLOSED: [2022-03-01 Tue 21:28]
     \hyperref[closing-homage]{Closing Homage (Pāli)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }
 
-  % \bigskip
-  \vspace{1.5cm}
+  \vspace{1.0cm}
 
   {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 10}}}}\\
   \pdfbookmark[2]{Set 10}{set10}
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[pubba-bhaga-nama-kara-patho]{Funeral Chants (Pāli)} \ifdesktopversion\else\pageref{pubba-bhaga-nama-kara-patho}\fi\\
-    \hyperref[recollection-impermanence]{Recollection of Impermanence} \ifdesktopversion\else\pageref{recollection-impermanence}\fi\\
+    \hyperref[recollection-of-impermanence]{Recollection of Impermanence} \ifdesktopversion\else\pageref{recollection-of-impermanence}\fi\\
     \hyperref[yatha-vari-vaha-pura]{Anumodanā Chants (Pāli)} \ifdesktopversion\else\pageref{yatha-vari-vaha-pura}\fi\\
     \hyperref[just-as-rivers]{Just as Rivers} \ifdesktopversion\else\pageref{just-as-rivers}\fi\\
     \hyperref[sharing-all-merits]{Sharing of All Merits} \ifdesktopversion\else\pageref{sharing-all-merits}\fi\\
@@ -434,7 +430,7 @@ Contrary to our intuition, memory doesn't function like a scanner or copying mac
 In the discourses the Buddha is often depicted taking up the topic of recitation when explaining to monks the proper way to learn the teachings, and make these teachings the vessel within which their own wisdom can grow.
 
 \begin{quote}
-  ``He has learned much, remembers what he has learned, and accumulates what he has learned. Those teachings that are good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, which proclaim the perfectly complete and pure spiritual life—such teachings as these he has learned much of, retained in mind, recited verbally, mentally investigated, and penetrated well by view. This is the fifth cause and condition that leads to obtaining the wisdom fundamental to the spiritual life (AN 8.2).''
+  ``He has learned much, remembers what he has learned, and accumulates what he has learned. Those teachings that are good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, which proclaim the perfectly complete and pure spiritual life—such teachings as these he has learned much of, retained in mind, recited verbally, mentally investigated, and penetrated well by view. This is the fifth cause and condition that leads to obtaining the wisdom fundamental to the spiritual life.'' (AN 8.2)
 \end{quote}
 
 In our current age of easy access to Dhamma books and multimedia, it is tempting to conclude that it is now not necessary anymore to memorize large bodies of texts for the sake of transmission, and that we are blessed with being able to read any of the texts at any time, from the comfort of our kuṭis or living rooms. And blessed we are. Nonetheless, even today recitation has benefits that surpass a regular silent reading, or even reading out loud. As seen in the earlier quote from AN 8.2, the Buddha doesn't only speak about reciting the texts verbally, but also about retaining them in mind and investigating them mentally. This is where the benefits of recitation differ considerably from a more casual reading, or even from chanting with the help of a chanting book. By means of committing a text to memory, it lives much deeper within our minds and hearts, and we can reflect on it whenever and wherever. Dhamma that has been well-memorized, is always with us. The Buddha's teachings become accessible in the very moment we need them, without having to resort to a book or an e-reader.
@@ -444,11 +440,11 @@ Since right view is the first of eight path factors, it is of great importance f
 \begin{quote}
   ``Though the bhikkhu Phagguṇa's mind had not yet been liberated from the five lower fetters, when he heard that discourse on the Dhamma, his mind was liberated from them... There are, Ānanda, these six benefits of listening to the Dhamma at the proper time and of examining the meaning at the proper time. What six?
 
-  ... At the time of his death he does not get to see the Tathāgata or a disciple of the Tathāgata, but he ponders, examines, and mentally inspects the Dhamma as he has heard it and learned it. As he does so, his mind is liberated in the unsurpassed extinction of the acquisitions. This is the sixth benefit of examining the meaning at the proper time (AN 6.56).''
+  ... At the time of his death he does not get to see the Tathāgata or a disciple of the Tathāgata, but he ponders, examines, and mentally inspects the Dhamma as he has heard it and learned it. As he does so, his mind is liberated in the unsurpassed extinction of the acquisitions. This is the sixth benefit of examining the meaning at the proper time.'' (AN 6.56)
 \end{quote}
 
 \begin{quote}
-  ``In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage (AN 5.25).''
+  ``In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage.'' (AN 5.25)
 \end{quote}
 
 \subsection*{Benefits for Rebirth}
@@ -456,7 +452,7 @@ Since right view is the first of eight path factors, it is of great importance f
 The depth to which a mere reading of a text penetrates the mind is incomparable to the depth of penetration that can be reached by memorization. AN 4.191 depicts monks who have memorized the Dhamma, and are subsequently reborn in circumstances with little to no exposure to the Dhamma. The sutta explains that not only in the current lifetime, but also in lifetimes ahead, the Dhamma that was previously memorized will be accessible and has a chance of being re-cognized or recollected even in a future existence e.g. as a deva. With the support of sufficient samādhi, not only can the Dhamma be recollected, but even one's past lives:
 
 \begin{quote}
-  ``Bhikkhus, ...there are things to be realized by memory... And what are the things to be realized by memory? One's past abodes are to be realized by memory (AN 4.189).''
+  ``Bhikkhus, ...there are things to be realized by memory... And what are the things to be realized by memory? One's past abodes are to be realized by memory.'' (AN 4.189)
 \end{quote}
 
 \subsection*{Benefits for Communal Life}
@@ -464,12 +460,12 @@ The depth to which a mere reading of a text penetrates the mind is incomparable 
 Besides being of benefit to one's own Dhamma practice, and the benefits during future lifetimes, reciting the Dhamma can also have a beneficial impact on communal life. Accounts of the Buddhist councils (\textit{saṅgīti}; lit. recitations) show that in all these important events of Buddhist history when the extended Saṅgha family came together, the DhammaVinaya was recited together, as a means to remain aligned with the teachings and to foster harmony. Another feature of monastic communities, is the fortnightly recitation of the \textit{Pātimokkha}, the rules for monks and nuns, in which even solitary forest dwellers, including Arahants, were encouraged by the Buddha to participate, as they make their way to the nearest monastery in the vicinity (Mv.II.5.5). Recitation of texts together, not only strengthens a common commitment to the DhammaVinaya, but in a more practical way, it also enables monastics to chant in sync and unison when reciting together with their spiritual companions. This not only increases clarity and understanding, but also makes for a more homogenous listening experience at a ceremony, e.g. a dāna or bereavement service conducted by monastics. Furthermore, the coming together frequently to recite the Buddha's teachings, creates a bond among Saṅgha members and leads to their growth. This would not be so if everyone recites the Dhamma on his own.
 
 \begin{quote}
-  ``And what, bhikkhus, are the seven principles of non-decline? (1) ``As long as the bhikkhus assemble often and hold frequent assemblies, only growth is to be expected for them, not decline. (2) ``As long as the bhikkhus assemble in harmony, adjourn in harmony, and conduct the affairs of the Saṅgha in harmony, only growth is to be expected for them, not decline (AN 7.23).''
+  ``And what, bhikkhus, are the seven principles of non-decline? (1) ``As long as the bhikkhus assemble often and hold frequent assemblies, only growth is to be expected for them, not decline. (2) ``As long as the bhikkhus assemble in harmony, adjourn in harmony, and conduct the affairs of the Saṅgha in harmony, only growth is to be expected for them, not decline.'' (AN 7.23)
 \end{quote}
 
 \subsection*{Recitation Among Monastics}
 
-While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha's time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that \textit{``if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation (Cv.VIII.12.2-11)."}
+While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha's time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that \textit{``if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation." (Cv.VIII.12.2-11)}
 
 BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four ways in which a person might be trained to be a reciter of a text:
 
@@ -480,7 +476,7 @@ BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four 
   \item The teacher recites one line, and the student recites the next line alone.
 \end{enumerate}
 
-In order for a monk to be free from dependence (\textit{nissaya}) on a teacher, \textit{``he must be learned and intelligent, knowing both Pāṭimokkhas ... and must have been ordained as a bhikkhu for at least five years (Mv.I.53.5-13).''}
+In order for a monk to be free from dependence (\textit{nissaya}) on a teacher, \textit{``he must be learned and intelligent, knowing both Pāṭimokkhas ... and must have been ordained as a bhikkhu for at least five years.'' (Mv.I.53.5-13)}
 
 The Commentary says that a learned bhikkhu must have memorized:
 
@@ -491,19 +487,19 @@ The Commentary says that a learned bhikkhu must have memorized:
   \item Three kinds of \textit{anumodanā} (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.
 \end{itemize}
 
-Lastly, when monastics from other sects wanted to become monks in the Buddha's dispensation, they typically had to undergo a four-month probation period. However, \textit{``a probationer fails in his probation and is not to be accepted ... if he does not have a keen desire for recitation (Mv.I.38.5-10).''}
+Lastly, when monastics from other sects wanted to become monks in the Buddha's dispensation, they typically had to undergo a four-month probation period. However, \textit{``a probationer fails in his probation and is not to be accepted ... if he does not have a keen desire for recitation.'' (Mv.I.38.5-10)}
 
 Once again, we can see the immense emphasis that was placed on memorization and recitation, starting already during the Buddha's own ministry, and having continued all the way to the 21st century, where we can still find monks who are able to memorize the entirety of the \textit{Tipiṭaka}.
 
 \subsection*{What to Recite}
 
-While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is: the selection of texts for recitation and memorization, there being such a vast amount of teachings that the Buddha left behind. What is essential - what is secondary? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are the Discourse on Setting in Motion the Wheel of Dhamma (\textit{Dhammacakkappavattanasutta}), the Gradual Training, and The Dhamma in Brief. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly, further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
+While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is: the selection of texts for recitation and memorization, there being such a vast amount of teachings that the Buddha left behind. What is essential - what is secondary? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are \hyperref[wheel-of-dhamma-full]{The Discourse on Setting in Motion the Wheel of Dhamma} (\hyperref[dhammacakkappavattana-full]{\textit{Dhammacakkappavattanasutta}}), \hyperref[gradual-training]{The Gradual Training}, and \hyperref[dhamma-in-brief]{The Dhamma in Brief}. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly, further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
 
-Besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are the Discourse on the Characteristics of Not-Self (\textit{Anatta-lakkhaṇa Sutta}), the Fire Sermon (\textit{Āditta-Pariyāya Sutta}), the Buddha's First and Final Words, Mindfulness of Breathing, and Dependent Origination. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.
+Besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are \hyperref[characteristic-of-not-self]{The Discourse on the Characteristics of Not-Self} (\hyperref[anatta-lakkhana]{\textit{Anatta-lakkhaṇa Sutta}}), \hyperref[fire-sermon]{The Fire Sermon} (\hyperref[aditta-pariyaya]{\textit{Āditta-Pariyāya Sutta}}), the Buddha's \hyperref[buddhas-first-exclamation]{First} and \hyperref[buddhas-final-instruction]{Final} Words, \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing}, and \hyperref[dependent-origination]{Dependent Origination}. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.
 
-From these profound teachings we can take a step back to the practical, day-to-day perceptions that the Buddha specifically recommended to be frequently reflected upon. In this category we find the 5 and 10 Subjects for Frequent Recollection, also the Reflections on The Four Requisites, and a separate reflection on The Repulsiveness of Food. Recollection of Impermanence, The 3 Characteristics, and The Thirty-Two Body Parts are also frequently mentioned in the discourses. Perceptions that are closely related to the 2nd path factor of the noble eightfold path, i.e. right thought (\textit{sammā saṇkappa}), are the \textit{Mettasutta} and The Divine Abidings. Perceptions that arouse the four \textit{Brahmavihāras} can seamlessly lead the practitioner towards the 8th path factor, \textit{sammā samādhi}. At times when energy is lacking, however, chants that inspire, motivate, or arouse urgency, can be used to heat up and revitalize the practice. This is where Striving According to the Dhamma, The Burdens, Respect for the Dhamma, and the Miscellaneous Verses can come to the rescue.
+From these profound teachings we can take a step back to the practical, day-to-day perceptions that the Buddha specifically recommended to be frequently reflected upon. In this category we find \hyperref[five-reflections]{The 5} and \hyperref[ten-reflections]{10 Subjects for Frequent Reflection}, also the reflections on \hyperref[four-requisites]{The Four Requisites}, and a separate reflection on \hyperref[repulsiveness-of-food]{The Repulsiveness of Food}. \hyperref[recollection-of-impermanence]{Recollection of Impermanence}, \hyperref[three-characteristics]{The 3 Characteristics}, and \hyperref[32-parts]{The Thirty-Two Body Parts} are also frequently mentioned in the discourses. Perceptions that are closely related to the 2nd path factor of the noble eightfold path, i.e. right thought (\textit{sammā saṇkappa}), are the \textit{Mettasutta} and \hyperref[divine-abidings]{The Divine Abidings}. Perceptions that arouse the four \textit{Brahmavihāras} can seamlessly lead the practitioner towards the 8th path factor, \textit{sammā samādhi}. At times when energy is lacking, however, chants that inspire, motivate, or arouse urgency, can be used to heat up and revitalize the practice. This is where Striving According to the Dhamma, The Burdens, Respect for the Dhamma, and the Miscellaneous Verses can come to the rescue.
 
-Lastly, this Recitation Book also includes passages that illuminate how to establish good relations among fellow practitioners, such as the Principles of Cordiality, Principles of Non-Decline, and The Four Great References. Also included are chants that monks commonly perform as services to the laity, such as Anumodanā, Sharing of Merits, and Funeral Chants.
+Lastly, this Recitation Book also includes passages that illuminate how to establish good relations among fellow practitioners, such as the \hyperref[principles-of-cordiality]{Principles of Cordiality}, \hyperref[principles-of-non-decline]{Principles of Non-Decline}, and \hyperref[four-great-references]{The Four Great References}. Also included are chants that monks commonly perform as services to the laity, such as Anumodanā, Sharing of Merits, and Funeral Chants.
 
 To summarize, memorization of the Dhamma and group recitation fulfill a variety of different purposes and benefits, ranging all the way from the mundane aspects such as the ability to recite in unison, the fostering of communal harmony, all the way to the attainment of final liberation.
 
@@ -512,13 +508,13 @@ To summarize, memorization of the Dhamma and group recitation fulfill a variety 
 See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Appendix
 
 \subsection*{References}
-[1] Anālayo \textit{Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context}, Canadian Journal of Buddhist Studies (2007-3)
+[1] Anālayo \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/oral-dimensions.pdf}{\textit{Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context}}, Canadian Journal of Buddhist Studies (2007-3)
 
-[2] Anālayo \textit{Ancient Indian Education and Mindfulness}, Springer Science+Business Media (2019)
+[2] Anālayo \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/ancientindianeducation.pdf}{\textit{Ancient Indian Education and Mindfulness}}, Springer Science+Business Media (2019)
 
-[3] Eysenck, M. W. et al. \textit{Cognitive Psychology}, Psychology Press, Hove (1992/2005)
+[3] Eysenck, M. W. et al. \href{https://psycnet.apa.org/record/2015-09422-000}{\textit{Cognitive Psychology}}, Psychology Press, Hove (1992/2005)
 
-[4] Ṭhānissaro Bhikkhu \textit{The Buddhist Monastic Code II}, Metta Forest Monastery (2013)
+[4] Ṭhānissaro Bhikkhu \href{https://www.dhammatalks.org/Archive/Writings/Ebooks/BMC1&2_200826.pdf}{\textit{The Buddhist Monastic Code II}}, Metta Forest Monastery (2013)
 
 #+end_src
 
@@ -1012,10 +1008,10 @@ Yo magga-pākāmata-bheda-bhinnako
 
 Lokuttaro yo ca tad-attha-dīpano
 
-\begin{english-hang}
+\begin{english}
   And illuminating that goal \breathmark\ which is beyond the conditioned world\hyperlink{endnote10-appendix}{\hypertarget{endnote10-body}{\pagenote{%
         \hypertarget{endnote10-appendix}{\hyperlink{endnote10-body}{Orig: ``That which is beyond the conditioned world''}}}}}
-\end{english-hang}
+\end{english}
 
 Vandāmi dhammaṁ aham-ādarena taṁ
 
@@ -1455,7 +1451,7 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Aneka-jāti-saṁsāraṁ – Sandhāvissaṁ anibbisaṁ\\
-  Gaha-kāraṁ gavesanto – Dukkhā jāti punappunaṁ\\
+  Gaha-kāraṁ gavesanto – Dukkhā jāti punappunaṁ
 \end{verses}
 
 \begin{english-verses}
@@ -7413,7 +7409,7 @@ Atthi imasmiṁ kāye
 
 \sectionPaliTitle{Aniccānussati}
 \section{Recollection of Impermanence}
-\label{recollection-impermanence}
+\label{recollection-of-impermanence}
 
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
@@ -7606,6 +7602,8 @@ Tesaṁ vūpasamo sukho
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
 
 \section{Dhammacakkappavattana-sutta}
+
+\label{dhammacakkappavattana-full}
 
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
@@ -11760,7 +11758,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 
 \suttaRef{[Trad]}
 
-\bottomNav{recollection-impermanence}
+\bottomNav{recollection-of-impermanence}
 
 #+end_src
 
