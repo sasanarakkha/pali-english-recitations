@@ -194,7 +194,7 @@ CLOSED: [2022-03-03 Thu 19:52]
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }
 
-\clearpage
+  \clearpage
 
   {\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 7}}}}\\
   \pdfbookmark[2]{Set 7}{set7}
@@ -5000,7 +5000,7 @@ Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
 \end{english-hang}
 
 \begin{pali-hang}
-Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ
+  Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ
 \end{pali-hang}
 
 \begin{english-hang}
@@ -5190,7 +5190,7 @@ Tattha katamaṁ dukkhaṁ?
 \end{english}
 
 \begin{pali-hang}
-Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ \breathmark\ kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ kāyasamphassajā asātā dukkhā vedanā
+  Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ \breathmark\ kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ kāyasamphassajā asātā dukkhā vedanā
 \end{pali-hang}
 
 \begin{english-hang-verses}
@@ -6287,10 +6287,10 @@ Sarīre upasussatu maṁsa-lohitaṁ
   Yaṁ taṁ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṁ\\
 \end{pali-hang}
 \begin{pali-hangtogether}
-Na taṁ apāpuṇitvā\\
+  Na taṁ apāpuṇitvā\\
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-Vīriyassa saṇṭhānaṁ bhavissatī'ti
+  Vīriyassa saṇṭhānaṁ bhavissatī'ti
 \end{pali-hangtogether}
 
 \begin{english}
@@ -6942,13 +6942,13 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
   Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\\
 \end{pali-hang}
 \begin{pali-hangtogether}
-Yaṁ kammaṁ karissāmi\\
+  Yaṁ kammaṁ karissāmi\\
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-Kalyāṇaṁ vā pāpakaṁ vā\\
+  Kalyāṇaṁ vā pāpakaṁ vā\\
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-Tassa dāyādo bhavissāmi
+  Tassa dāyādo bhavissāmi
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -8128,9 +8128,9 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-nohang}
 
 \begin{english-only-nohang}
-\begin{english-only-hang}
+  \begin{english-only-hang}
     Bhikkhus what do you think: ``Are volitional formations permanent or impermanent?''
-\end{english-only-hang}
+  \end{english-only-hang}
   ``Impermanent venerable Sir.''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable Sir.''
@@ -8812,34 +8812,34 @@ Sadā sotthī bhavantu te
 \vspace{-0.6em}
 
 \begin{pali-hang}
-\anglebracketleft\ \hspace{-0.5mm}Yo yassa bhojanaṁ deti \hspace{-0.5mm}\anglebracketright\\\
-So tassa deti pañcapi\\
-Āyuṁ balaṁ sukhaṁ vaṇṇaṁ\\
-Paṭibhānañca pañcamaṁ\hyperlink{endnote122-appendix}{\hypertarget{endnote122-body}{\pagenote{%
-      \hypertarget{endnote122-appendix}{\hyperlink{endnote122-body}{The first four lines were composed by Āyasmā Aggacitta, functioning as an introduction to the chant.}}}}}\\
-Āyu-do bala-do dhīro\\
-Vaṇṇa-do paṭibhāṇa-do\\
-Sukhassa dātā medhāvī\\
-Sukhaṁ so adhigacchati\\
-Āyuṁ datvā balaṁ vaṇṇaṁ\\
-Sukhañ-ca paṭibhānakaṁ\hyperlink{endnote123-appendix}{\hypertarget{endnote123-body}{\pagenote{%
-      \hypertarget{endnote123-appendix}{\hyperlink{endnote123-body}{Orig: “paṭībhāna-do”}}}}}\\
-Dīgh'āyu yasavā hoti\\
-Yattha yatthūpapajjati\\
-Abhivādanasīlissa\\
-Niccaṁ vuḍḍhāpacāyino\\
-Cattāro dhammā vaḍḍhanti\\
-Āyu vaṇṇo sukhaṁ balaṁ\\
-Padakkhiṇaṁ kāyakammaṁ\\
-Vācākammaṁ padakkhiṇaṁ\\
-Padakkhiṇaṁ manokammaṁ\\
-Paṇīdhi te padakkhiṇe\\
-Padakkhiṇāni katvāna\\
-Labhantatthe padakkhiṇe\\
-Te atthaladdhā sukhitā\\
-Virūḷhā Buddhasāsane\\
-Arogā sukhitā hotha\\
-Saha sabbehi ñātibhī
+  \anglebracketleft\ \hspace{-0.5mm}Yo yassa bhojanaṁ deti \hspace{-0.5mm}\anglebracketright\\\
+  So tassa deti pañcapi\\
+  Āyuṁ balaṁ sukhaṁ vaṇṇaṁ\\
+  Paṭibhānañca pañcamaṁ\hyperlink{endnote122-appendix}{\hypertarget{endnote122-body}{\pagenote{%
+        \hypertarget{endnote122-appendix}{\hyperlink{endnote122-body}{The first four lines were composed by Āyasmā Aggacitta, functioning as an introduction to the chant.}}}}}\\
+  Āyu-do bala-do dhīro\\
+  Vaṇṇa-do paṭibhāṇa-do\\
+  Sukhassa dātā medhāvī\\
+  Sukhaṁ so adhigacchati\\
+  Āyuṁ datvā balaṁ vaṇṇaṁ\\
+  Sukhañ-ca paṭibhānakaṁ\hyperlink{endnote123-appendix}{\hypertarget{endnote123-body}{\pagenote{%
+        \hypertarget{endnote123-appendix}{\hyperlink{endnote123-body}{Orig: “paṭībhāna-do”}}}}}\\
+  Dīgh'āyu yasavā hoti\\
+  Yattha yatthūpapajjati\\
+  Abhivādanasīlissa\\
+  Niccaṁ vuḍḍhāpacāyino\\
+  Cattāro dhammā vaḍḍhanti\\
+  Āyu vaṇṇo sukhaṁ balaṁ\\
+  Padakkhiṇaṁ kāyakammaṁ\\
+  Vācākammaṁ padakkhiṇaṁ\\
+  Padakkhiṇaṁ manokammaṁ\\
+  Paṇīdhi te padakkhiṇe\\
+  Padakkhiṇāni katvāna\\
+  Labhantatthe padakkhiṇe\\
+  Te atthaladdhā sukhitā\\
+  Virūḷhā Buddhasāsane\\
+  Arogā sukhitā hotha\\
+  Saha sabbehi ñātibhī
 \end{pali-hang}
 
 \begin{english-verses}
@@ -10176,30 +10176,30 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \end{pali-hang-continued}
 
 \begin{english-verses}
-\begin{english-hang-firstline}
-  Practicing the good way is the Community of the Blessed One's disciples;
-\end{english-hang-firstline}
-\begin{english-hangtogether-verses}
-  Practicing the straight way is the Community of the Blessed One's disciples;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  Practicing the true way is the Community of the Blessed One's disciples;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  Practicing the proper way is the Community of the Blessed One's disciples;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  That is, the four pairs of persons, the eight kinds of individuals.
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  This is the Community of the Blessed One's disciples;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  Worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation,
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  The unsurpassed field of merit for the world.
-\end{english-hangtogether-verses}
+  \begin{english-hang-firstline}
+    Practicing the good way is the Community of the Blessed One's disciples;
+  \end{english-hang-firstline}
+  \begin{english-hangtogether-verses}
+    Practicing the straight way is the Community of the Blessed One's disciples;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    Practicing the true way is the Community of the Blessed One's disciples;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    Practicing the proper way is the Community of the Blessed One's disciples;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    That is, the four pairs of persons, the eight kinds of individuals.
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    This is the Community of the Blessed One's disciples;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    Worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation,
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    The unsurpassed field of merit for the world.
+  \end{english-hangtogether-verses}
 \end{english-verses}
 
 \suttaRef{[SN 11.3]}
@@ -10548,12 +10548,12 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 
 \begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,
- \begin{english-hangtogether-verses}
-  Mara, on the elephant Girimekhala, uttered a frightening roar together with his troops.
- \end{english-hangtogether-verses}
- \begin{english-hangtogether-verses}
-  The Lord of Sages defeated him by means of such qualities as generosity:
- \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    Mara, on the elephant Girimekhala, uttered a frightening roar together with his troops.
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    The Lord of Sages defeated him by means of such qualities as generosity:
+  \end{english-hangtogether-verses}
   By the power of this, may you have victory blessings.
 \end{english-verses}
 
@@ -10673,7 +10673,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   Creating a form with 1,000 arms, each equipped with a weapon,\\
   These eight verses of the Buddha's victory blessings:
   \begin{english-hangtogether-verses}
-  Whatever person of discernment recites or recalls them day after day without lapsing,
+    Whatever person of discernment recites or recalls them day after day without lapsing,
   \end{english-hangtogether-verses}
   Destroying all kinds of obstacles,\\
   Will attain emancipation \& happiness.
@@ -11341,51 +11341,51 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   With craving as condition, clinging;\\
   With clinging as condition, existence;\\
   With existence as condition, birth;
-\begin{english-hangtogether-verses}
-  With birth as condition, ageing-and-death, sorrow, lamentation, pain, displeasure, and despair come to be.
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  Such is the origin of this whole mass of suffering.
-\end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With birth as condition, ageing-and-death, sorrow, lamentation, pain, displeasure, and despair come to be.
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    Such is the origin of this whole mass of suffering.
+  \end{english-hangtogether-verses}
 \end{english-verses}
 
 \begin{english-verses}
-\begin{english-hang-firstline}
-  But with the remainderless fading away and cessation of ignorance comes cessation of volitional formations;
-\end{english-hang-firstline}
-\begin{english-hangtogether-verses}
-  With the cessation of volitional formations, cessation of consciousness;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of consciousness, cessation of name-and-form;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of name-and-form, cessation of the six sense bases;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of the six sense bases, cessation of contact;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of contact, cessation of feeling;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of feeling, cessation of craving;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of craving, cessation of clinging;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of clinging, cessation of existence;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of existence, cessation of birth;
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With the cessation of birth, ageing-and-death, sorrow, lamentation, pain, displeasure, and despair cease.
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  Such is the cessation of this whole mass of suffering.
-\end{english-hangtogether-verses}
+  \begin{english-hang-firstline}
+    But with the remainderless fading away and cessation of ignorance comes cessation of volitional formations;
+  \end{english-hang-firstline}
+  \begin{english-hangtogether-verses}
+    With the cessation of volitional formations, cessation of consciousness;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of consciousness, cessation of name-and-form;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of name-and-form, cessation of the six sense bases;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of the six sense bases, cessation of contact;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of contact, cessation of feeling;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of feeling, cessation of craving;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of craving, cessation of clinging;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of clinging, cessation of existence;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of existence, cessation of birth;
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With the cessation of birth, ageing-and-death, sorrow, lamentation, pain, displeasure, and despair cease.
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    Such is the cessation of this whole mass of suffering.
+  \end{english-hangtogether-verses}
 \end{english-verses}
 
 
@@ -12241,23 +12241,23 @@ Sādhu sādhu sādhu
 % \begin{table}[!hbt]
 %   \centering
 %   \resizebox{\textwidth}{!}{%
-%     \renewcommand{\arraystretch}{1.2}% Tighter
-%     \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
-%       \hline
-%       \multirow{3}{*}{Place of Articulation} & \multicolumn{11}{c|}{Manner of Articulation} \\ \cline{2-12}
-%                                              & \multicolumn{7}{c|}{Consonants} & \multicolumn{3}{c|}{Vowels} & \vtop{\hbox{\strut Pure}\hbox{\strut Nasal}} \\ \cline{2-11}
+%   \renewcommand{\arraystretch}{1.2}% Tighter
+%   \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+      %       \hline
+      %       \multirow{3}{*}{Place of Articulation} & \multicolumn{11}{c|}{Manner of Articulation} \\ \cline{2-12}
+      %                                                      & \multicolumn{7}{c|}{Consonants} & \multicolumn{3}{c|}{Vowels} & \vtop{\hbox{\strut Pure}\hbox{\strut Nasal}} \\ \cline{2-11}
 
-%                                              & \multicolumn{5}{c|}{Stops} & \vtop{\hbox{\strut Semi}\hbox{\strut vowel}\hbox{\strut (voiced)}} & \vtop{\hbox{\strut Sibilant}\hbox{\strut (voiceless)}} & \vtop{\hbox{\strut Short}} & \vtop{\hbox{\strut Long}} & Compound \\ \cline{2-6}
+      %                                                      & \multicolumn{5}{c|}{Stops} & \vtop{\hbox{\strut Semi}\hbox{\strut vowel}\hbox{\strut (voiced)}} & \vtop{\hbox{\strut Sibilant}\hbox{\strut (voiceless)}} & \vtop{\hbox{\strut Short}} & \vtop{\hbox{\strut Long}} & Compound \\ \cline{2-6}
 
-%                                              & \vtop{\hbox{\strut Voiceless}\hbox{\strut non-}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiceless}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut non-}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut nasal}} \\ \hline
+      %                                                      & \vtop{\hbox{\strut Voiceless}\hbox{\strut non-}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiceless}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut non-}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut aspirate}} & \vtop{\hbox{\strut Voiced}\hbox{\strut nasal}} \\ \hline
 
-%       Gutturals  & k & kh & g & gh & ṅ & h          &   & a & ā & e &     \\ \cline{1-8} \cline{9-11}
-%       Palatals   & c & ch & j & jh & ñ & y          &   & i & ī &   &     \\ \cline{1-8} \cline{9-10}
-%       Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r / l / ḷh &   &   &   &   & m   \\ \cline{1-8}
-%       Dentals    & t & th & d & dh & n & l          & s &   &   &   &     \\ \cline{1-11}
-%       Labials    & p & ph & b & bh & m & v          &   & u & ū & o &     \\ \hline
-%     \end{tabular}}
-% \end{table}
+      %       Gutturals  & k & kh & g & gh & ṅ & h          &   & a & ā & e &     \\ \cline{1-8} \cline{9-11}
+      %       Palatals   & c & ch & j & jh & ñ & y          &   & i & ī &   &     \\ \cline{1-8} \cline{9-10}
+      %       Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r / l / ḷh &   &   &   &   & m   \\ \cline{1-8}
+      %       Dentals    & t & th & d & dh & n & l          & s &   &   &   &     \\ \cline{1-11}
+      %       Labials    & p & ph & b & bh & m & v          &   & u & ū & o &     \\ \hline
+      %     \end{tabular}}
+      %       \end{table}
 
 \begin{justify}
   Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
@@ -12265,7 +12265,7 @@ Sādhu sādhu sādhu
 
 \medskip
 
-% TODO works but must be a way to split both boxes evenly
+      %       TODO works but must be a way to split both boxes evenly
 \textbf{Vowels} are of two types:\\
 \begin{minipage}{.55\textwidth}
   \begin{tabular}{@{} ll @{}}
