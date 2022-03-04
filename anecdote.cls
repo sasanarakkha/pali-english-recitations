@@ -591,12 +591,13 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand{\quoteTitle}[1]{%
   {%
-    \centering%\upshape%
-    \fontsize{18}{10}\selectfont%
+    \centering\upshape\itshape%
+    \fontsize{15}{10}\selectfont%
     \color{section}%
     #1%
     % \par%
   }%
+\itshape%
 }
 
 \newcommand{\quoteRef}[1]{%
@@ -1138,7 +1139,7 @@ philo-sophical munindo amaravati thai-land}
 % Changes chapter headings in ToC e.g. 'Schedule, Abbreviations, etc.'
 \titlecontents{chapter}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\scshape\fontsize{14}{5}\selectfont}%
+\tocFont\bfseries\scshape\fontsize{14}{15}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1148,7 +1149,7 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
 }
 % Changes the size of the page number for chapter headings in ToC
-{\hfill\tocFont\fontsize{14}{5}\selectfont\thecontentspage}
+{\hfill\tocFont\fontsize{14}{15}\selectfont\thecontentspage}
 [\addvspace{1pt}]
 
 % Changes section/chant formatting in ToC e.g. 'Dedication of Offerings'
