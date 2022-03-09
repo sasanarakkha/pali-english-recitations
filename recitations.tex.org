@@ -328,7 +328,7 @@ Besides being of benefit to one's own Dhamma practice, and the benefits during f
 
 \subsection*{Recitation Among Monastics}
 
-While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha's time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that \textit{``if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation." (Cv.VIII.12.2-11)}
+While it is not uncommon in our current time and age that teachers share the Dhamma without any reference to the Buddha or his teachings, in the Buddha's time the teachings were passed on from teacher to disciple by means of recitation. The Vinaya texts explain that \textit{``if the preceptor wants one to recite [C: memorize passages of Dhamma or Vinaya], one should recite. If he wants to interrogate one [C: on the meaning of the passages], one should answer his interrogation.'' (Cv.VIII.12.2-11)}
 
 BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four ways in which a person might be trained to be a reciter of a text:
 
@@ -456,7 +456,7 @@ Bhagavā arahaṁ sammāsambuddho
 
 \begin{english-hang}
   To the Blessed One the Worthy One\hyperlink{endnote2-appendix}{\hypertarget{endnote2-body}{\pagenote{%
-        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{Orig: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``\textit{an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler.'' The ``Worthy One'' seems a better choice of terms, since it is also how \textit``Arahant'' was used in pre-Buddhist era. PTS explains: ``[Vedic arhant, ppr. of arhati (see arahati), meaning deserving, worthy]. Before Buddhism used as honourific title of high officials like the English "His Worship" ; at the rise of Buddhism applied popularly to all ascetics (Dial. III.3–6).''} Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus substituting previous translations as ``The Lord'', ``Noble One'' etc.}}}}}
+        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{Orig: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``\textit{an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler.'' The ``Worthy One'' seems a better choice of terms, since it is also how \textit``Arahant'' was used in pre-Buddhist era. PTS explains: ``[Vedic arhant, ppr. of arhati (see arahati), meaning deserving, worthy]. Before Buddhism used as honourific title of high officials like the English ``His Worship'' ; at the rise of Buddhism applied popularly to all ascetics (Dial. III.3–6).''} Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus substituting previous translations as ``The Lord'', ``Noble One'' etc.}}}}}
   who fully attained Perfect Enlightenment
 \end{english-hang}
 
@@ -3367,9 +3367,9 @@ Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā ku
 
 \suttaRef{[MN 27 / 38 / 51]}
 
-Sakkā nu kho bho gotama imasmimpi dhammavinaye evameva anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetun"ti?
+Sakkā nu kho bho gotama imasmimpi dhammavinaye evameva anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetun''ti?
 
-"Sakkā imasmimpi dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetuṁ. Tathāgato purisadammaṁ labhitvā paṭhamaṁ evaṁ vineti: `ehi tvaṁ bhikkhu sīlavā hohi pātimokkhasaṁvarasaṁvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī samādāya sikkhassu sikkhāpadesū'ti.
+Sakkā imasmimpi dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetuṁ. Tathāgato purisadammaṁ labhitvā paṭhamaṁ evaṁ vineti: `ehi tvaṁ bhikkhu sīlavā hohi pātimokkhasaṁvarasaṁvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī samādāya sikkhassu sikkhāpadesū'ti.
 
 \suttaRef{[MN 107]}
 
@@ -6284,14 +6284,14 @@ Sovacassatā kalyāṇamittatā
 \end{english}
 
 \begin{pali-hang}
-  Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti
+  Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī''ti
 \end{pali-hang}
 
 \begin{english-hang}
   Bhikkhus these qualities lead to the non-decline of a bhikkhu who is a trainee
 \end{english-hang}
 
-\suttaRef{[AN 6.22 \& 8.79]}
+\suttaRef{[AN 6.22 \& AN 8.79]}
 
 \bottomNav{protection}
 
@@ -8850,7 +8850,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hangtogether}
   Āyu vaṇṇo sukhaṁ balaṁ\hyperlink{endnote121-appendix}{\hypertarget{endnote121-body}{\pagenote{%
         \hypertarget{endnote121-appendix}{\hyperlink{endnote121-body}{In the Thai tradition, a long pause is made after “\textit{sukhaṁ}”, and “\textit{balaṁ}” is recited in a slow and drawn-out manner.}}}}}\hyperlink{endnote145-appendix}{\hypertarget{endnote145-body}{\pagenote{%
-        \hypertarget{endnote145-appendix}{\hyperlink{endnote145-body}{For translations of the above see the the previous chant, titled "Just as Rivers".}}}}}
+        \hypertarget{endnote145-appendix}{\hyperlink{endnote145-body}{For translations of the above see the the previous chant, titled ``Just as Rivers''.}}}}}
 \end{pali-hangtogether}
 
 \suttaRef{[Dhp 109]}
@@ -12462,7 +12462,7 @@ Sādhu sādhu sādhu
 \clearpage
 
 \begin{justify}
-  Long vowels are pronounced as above, but are held for twice the length of their short counterparts. By default \textbf{e} and \textbf{o} are long vowels, but they become short if followed by double consonants e.g. \textit{mettā}, \textit{sotthi}. In such a case they are pronounced short as in "pet" and "soft" respectively.
+  Long vowels are pronounced as above, but are held for twice the length of their short counterparts. By default \textbf{e} and \textbf{o} are long vowels, but they become short if followed by double consonants e.g. \textit{mettā}, \textit{sotthi}. In such a case they are pronounced short as in ``pet'' and ``soft'' respectively.
 \end{justify}
 
 \begin{justify}
@@ -12470,7 +12470,7 @@ Sādhu sādhu sādhu
 \end{justify}
 
 \begin{justify}
-  \textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. `jivhā'or `taṇhā').  Examples: \textbf{th} as in "Thomas" (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
+  \textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. `jivhā'or `taṇhā').  Examples: \textbf{th} as in ``Thomas'' (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
 \end{justify}
 
 \begin{justify}
