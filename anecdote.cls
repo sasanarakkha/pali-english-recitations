@@ -131,6 +131,7 @@
 \RequirePackage{array}
 \RequirePackage{ragged2e}
 \RequirePackage{tipa}
+\RequirePackage{float}
 \RequirePackage{tikz}
 \usetikzlibrary{arrows.meta,bending,chains,positioning}
 \RequirePackage[object=vectorian]{pgfornament}
@@ -236,9 +237,9 @@
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
-\newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
+\newcommand{\footerSize}{\@setfontsize               \footerSize               {11}{8}}
 % Changes header at the top of the page indication section and page number
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{8}}
+\newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{2}}
 \newcommand{\tocSize}{\@setfontsize                  \tocSize                  {19}{14}}
 % Changes section/chant font size in ToC e.g. 'Dedication of Offerings'
 \newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}
@@ -580,7 +581,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand{\suttaRef}[1]{%
   % \vspace{-12pt \@plus 5pt \@minus 0pt}%
   \vspace{-6pt}%
-  \hfill {\fontsize{8}{0}\selectfont #1\par}%
+  \hfill {\fontsize{8}{16}\selectfont #1\par}%
 }
 
 % for longer sutta and book quotes
@@ -600,7 +601,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand{\quoteTitle}[1]{%
   {%
     \centering\upshape\itshape%
-    \fontsize{15}{10}\selectfont%
+    \fontsize{26}{10}\selectfont%
     \color{section}%
     #1%
     % \par%
@@ -862,7 +863,7 @@ philo-sophical munindo amaravati thai-land}
 % }
 
  \newcommand\bottomNav[1]{%
-  \vfill
+  % \vfill% these are now manually input
   \begin{minipage}{\linewidth}%
     % \centering
     \hyperref[schedule]{%
@@ -956,7 +957,7 @@ philo-sophical munindo amaravati thai-land}
 \renewcommand*{\notedivision}{\chapter{\notesname}}
 %\renewcommand*{\notedivision}{\section*{\notesname}}
 \renewcommand*{\pagenotesubhead}[3]{}
-\renewcommand*{\notenumintext}[1]{\textsuperscript{\thinspace [#1]}}
+\renewcommand*{\notenumintext}[1]{\textsuperscript{\thinspace #1}}
 \renewcommand{\prenoteinnotes}{\par\noindent\hangindent=17pt}
 \renewcommand{\postnoteinnotes}{\par\vspace*{0.5\baselineskip}}
 
@@ -1570,8 +1571,8 @@ philo-sophical munindo amaravati thai-land}
   {%
     \subSectionFont\fontsize{14}{18}\selectfont%
     \scshape\bfseries\color{section}%
-    \memRTLraggedright%
-    \vspace*{-7.2pt}%
+    \centering
+    % \vspace*{-7.2pt}% what is the needed for? commented removes gap in anumodana-paritta section
     #1%
   }%
 }

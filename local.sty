@@ -38,13 +38,43 @@
 \newenvironment{leader}%
 {\list{}{%
     \parskip 16pt%
-    \topsep 0pt%
+    \topsep 2pt%
     \listparindent 0em%
     \itemindent    0pt%
     \leftmargin    0pt %\leaderIndent%
     \rightmargin   0pt%
-    \parsep        -8pt}
+    \parsep        -8pt
+  }%
   \fontsize{12.5}{12}\selectfont
+  \item[] \centering}%
+{\endlist}
+
+\newenvironment{leader-only}%
+{\list{}{%
+    \parskip 10pt%
+    \topsep 2pt%
+    \listparindent 0em%
+    \itemindent    0pt%
+    \leftmargin    0pt %\leaderIndent%
+    \rightmargin   0pt%
+    \parsep        0pt%
+  }%
+  \fontsize{12.5}{12}\selectfont
+  \item[] \centering}%
+{\endlist}
+
+\newenvironment{leader-yatha}%
+{\list{}{%
+    \parskip 16pt%
+    \topsep 0pt%
+    \listparindent 0em%
+    \itemindent    0pt%
+    \leftmargin    0.5cm %\leaderIndent%
+    % \leftmargin    4.0cm %\leaderIndent%
+    \rightmargin   0.5cm%
+    \parsep        \z@ \@plus\p@%
+   }%
+  \fontsize{12.5}{18}\selectfont
   \item[] \centering}%
 {\endlist}
 
@@ -74,6 +104,21 @@
     \rightmargin   0pt%
     \parsep        -8pt
     \fontsize{12}{14}\selectfont
+  }%
+  \item[] \centering\itshape}%
+{\endlist}
+
+\newenvironment{leader-english-yatha}%
+{\list{}{%
+    \parskip 0pt%
+    \topsep 0pt%
+    \listparindent 0em%
+    \itemindent    0pt%
+    \leftmargin    0pt %\leaderIndent%
+    \rightmargin   0pt%
+    % \parsep        -8pt
+     \parsep        \z@ \@plus\p@%
+    \fontsize{12}{18}\selectfont
   }%
   \item[] \centering\itshape}%
 {\endlist}
@@ -269,6 +314,20 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
+ \newenvironment{english-verses-bracket}%
+ {\list{}{%
+     \partopsep 0pt
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    2.0em%\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
+
 % Used for TWO problematic line
  \newenvironment{english-hang-firstline}%
  {\list{}{%
@@ -287,12 +346,26 @@
  % For an English line that is too long to fit on one line and thus needs its continuation to be hang indented
  \newenvironment{english-hang-verses}%
  {\list{}{%
-     \topsep 4pt
+     \topsep 0pt
      \listparindent 0em%
      \itemindent    -0.5em%
      \leftmargin    1.5em %\leaderIndent%
      \rightmargin   0em%
-     \fontsize{12}{16}\selectfont
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+     % \parsep        -8.5em %\z@ \@plus\p@%
+   }%
+   \item[] \raggedright\itshape}%
+ {\endlist}
+
+ \newenvironment{english-hang-verses-brackets}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    2.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
      \parsep        \z@ \@plus\p@%
      % \parsep        -8.5em %\z@ \@plus\p@%
    }%
@@ -359,7 +432,20 @@
      \itemindent    -0.5em%
      \leftmargin    0.5em %2.5em %\leaderIndent%
      \rightmargin   0em%
-     \fontsize{12.5}{16}\selectfont
+     \fontsize{12.5}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright}%
+ {\endlist}
+
+ \newenvironment{pali-hang-bracket}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    -0.75em%
+     \leftmargin    0.75em %2.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{18}\selectfont
      \parsep        \z@ \@plus\p@%
    }%
    \item[] \raggedright}%
@@ -370,10 +456,23 @@
  {\list{}{%
      \topsep -8pt
      \listparindent 0em%
-     \itemindent    -0.5em%
-     \leftmargin    0.5em %2.5em %\leaderIndent%
+     \itemindent    -0.75em%
+     \leftmargin    0.75em %2.5em %\leaderIndent%
      \rightmargin   0em%
-     \fontsize{12.5}{16}\selectfont
+     \fontsize{12.5}{18}\selectfont
+     \parsep        -8pt %\z@ \@plus\p@%
+   }%
+   \item[] \raggedright}%
+ {\endlist}
+
+ \newenvironment{pali-hangtogether-bracket}%
+ {\list{}{%
+     \topsep -8pt
+     \listparindent 0em%
+     \itemindent    -1.0em%
+     \leftmargin    1.0em %2.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{18}\selectfont
      \parsep        -8pt %\z@ \@plus\p@%
    }%
    \item[] \raggedright}%
@@ -387,7 +486,7 @@
      \itemindent    -0.5em%
      \leftmargin    0.5em %\leaderIndent%
      \rightmargin   0em%
-     \fontsize{12.5}{16}\selectfont
+     \fontsize{12.5}{18}\selectfont
      \parsep        \z@ \@plus\p@%
    }%
    \item[] \raggedright}%
@@ -400,7 +499,21 @@
      \itemindent    0em%
      \leftmargin    0.5em %2.5em %\leaderIndent%
      \rightmargin   0em%
-     \fontsize{12.5}{16}\selectfont
+     \fontsize{12.5}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \raggedright}%
+ {\endlist}
+
+ \newenvironment{pali-hang-firstline}%
+ {\list{}{%
+     \partopsep 0pt
+     \topsep 4pt
+     \listparindent 0em%
+     \itemindent    -0.5em%
+     \leftmargin    0.5em%\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{18}\selectfont
      \parsep        \z@ \@plus\p@%
    }%
    \item[] \raggedright}%
@@ -415,7 +528,7 @@
     \small\par\noindent%
     }%
 \renewcommand{\noteidinnotes}[2]{% {notenum}{id}
-    \begin{adjustwidth}{33pt}{0pt}%
+    \begin{adjustwidth}{15pt}{0pt}%
         \hspace{-33pt}\makebox[30pt][l]{%
             \makebox[18pt][1]{\pageref{#2}}%
             \makebox[16pt][l]{\ifnum#1>0\textsuperscript{#1}\fi%

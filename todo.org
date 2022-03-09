@@ -1,5 +1,9 @@
 #+TITLE: Todo
 
+* TODO no page # on top of purpose, schedule,  intro page
+* TODO abbreviations, endnotes page page # on bottom
+* TODO check spacing of parittas
+* TODO 3+ lines convert to english-verses
 * TODO italicize all non chanted pali (?)
 * TODO document anecdote and local
 * TODO trim the fat: remove unneeded code, directories, and files

@@ -121,7 +121,6 @@
 #+begin_src latex :tangle ./manuscript/tex/schedule.tex
 
 \chapter{Recitation Schedule}
-
 \label{schedule}
 
 {\centering
@@ -371,6 +370,8 @@ To summarize, memorization of the Dhamma and group recitation fulfill a variety 
 
 See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Appendix
 
+\clearpage
+
 \subsection*{References}
 [1] Anālayo \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/oral-dimensions.pdf}{\textit{Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context}}, Canadian Journal of Buddhist Studies (2007-3)
 
@@ -387,9 +388,9 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Ap
 
 \chapter{Abbreviations}
 
-\begin{tabular}{@{}lll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & Take a breath \\
+\begin{tabular}{@{}ll@{}}
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.30mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{1.30mm}Breathing pause \\
 \end{tabular}
 
 \begin{tabular}{@{}ll@{}}
@@ -445,7 +446,13 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 \section{Dedication of Offerings}
 \label{dedication-of-offerings}
 
-\anglebracketleft\ \hspace{-0.5mm}Yo so \hspace{-0.5mm}\anglebracketright\ bhagavā arahaṁ sammāsambuddho
+\begin{leader}
+\anglebracketleft\ \hspace{-0.5mm}Yo so \hspace{-0.5mm}\anglebracketright\
+\end{leader}
+
+\vspace{-1.0em}
+
+Bhagavā arahaṁ sammāsambuddho
 
 \begin{english-hang}
   To the Blessed One the Worthy One\hyperlink{endnote2-appendix}{\hypertarget{endnote2-body}{\pagenote{%
@@ -504,7 +511,13 @@ Amhākaṁ dīgharattaṁ hitāya sukhāya
 
 \clearpage
 
-\anglebracketleft\ \hspace{-0.5mm}Arahaṁ \hspace{-0.5mm}\anglebracketright\ sammāsambuddho bhagavā
+\begin{leader}
+  \anglebracketleft\ \hspace{-0.5mm}Arahaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader}
+
+\vspace{-0.5cm}
+
+ Sammāsambuddho bhagavā
 
 \begin{english}
   The Worthy One the Perfectly Enlightened and Blessed One
@@ -516,7 +529,13 @@ Buddhaṁ bhagavantaṁ abhivādemi\relax
   I render homage to the Buddha the Blessed One \hfill{(Bow)}
 \end{english}
 
-\anglebracketleft\ \hspace{-0.5mm}Svākkhāto \hspace{-0.5mm}\anglebracketright\ bhagavatā dhammo
+\begin{leader}
+ \anglebracketleft\ \hspace{-0.5mm}Svākkhāto \hspace{-0.5mm}\anglebracketright\
+\end{leader}
+
+\vspace{-0.5cm}
+
+ Bhagavatā dhammo
 
 \begin{english}
   The Teaching so completely explained by him
@@ -528,7 +547,13 @@ Dhammaṁ namassāmi\relax
   I bow to the Dhamma \hfill{(Bow)}
 \end{english}
 
-\anglebracketleft\ \hspace{-0.5mm}Supaṭipanno \hspace{-0.5mm}\anglebracketright\ bhagavato sāvakasaṅgho
+\begin{leader}
+  \anglebracketleft\ \hspace{-0.5mm}Supaṭipanno \hspace{-0.5mm}\anglebracketright\
+\end{leader}
+
+\vspace{-0.5cm}
+
+ Bhagavato sāvakasaṅgho
 
 \begin{english}
   The Blessed One's disciples who have practiced well
@@ -552,9 +577,9 @@ Saṅghaṁ namāmi
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-\begin{leader-english}
+\begin{leader-english-belowpali}
   \anglebracketleft\ \hspace{-0.5mm}Now let us pay preliminary homage to the Buddha \hspace{-0.5mm}\anglebracketright\
-\end{leader-english}
+\end{leader-english-belowpali}
 
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
@@ -639,12 +664,12 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
   Yo dhammaṁ desesi ādi-kalyāṇaṁ majjhe-kalyāṇaṁ pariyosāna-kalyāṇaṁ
 \end{pali-hang}
 
-\begin{english}
+\begin{english-verses}
   He has pointed out the Dhamma\\
   Beautiful in the beginning\\
   Beautiful in the middle\\
   Beautiful in the end\\
-\end{english}
+\end{english-verses}
 
 \begin{pali-hang}
   Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahma-cariyaṁ pakāsesi
@@ -1143,7 +1168,7 @@ Sabbe saṅkhārā aniccā
         \hypertarget{endnote22-appendix}{\hyperlink{endnote22-body}{Orig: ``All conditions are transient''}}}}}
 \end{english}
 
-Sabbe dhammā anattā't
+Sabbe dhammā anattā'ti
 
 \begin{english}
   All things are not-self\hyperlink{endnote23-appendix}{\hypertarget{endnote23-body}{\pagenote{%
@@ -1520,6 +1545,8 @@ Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
+
+\vspace{-0.15cm}
 
 Sabba-pāpassa akaraṇaṁ\hyperlink{endnote33-appendix}{\hypertarget{endnote33-body}{\pagenote{%
       \hypertarget{endnote33-appendix}{\hyperlink{endnote33-body}{There are two variations as to the sequence of these three verses. The sequence used here follows the sequence of Dhp 183 (\textit{Sabba pāpassa}...), Dhp 184 (\textit{Khantī paramaṁ}...), Dhp 185 (\textit{Anūpavādo}...). In contrast, the sequence Dhp 184, 183, 185 is commonly known as the ``\textit{Ovādapātimokkha}'', and occurs at DN 14.}}}}}
@@ -2123,7 +2150,7 @@ Etaṁ buddhāna sāsanaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
 
 \sectionPaliTitle{Pakiṇṇaka-gāthā}
-\section{Misecellaneous Verses}
+\section{Miscellaneous Verses}
 \label{misc-verses}
 
 \begin{leader}
@@ -2430,6 +2457,8 @@ Etaṁ buddhāna sāsanaṁ
 \section{The Highest Blessings}
 \label{highest-blessings}
 
+\vspace{-0.1cm}
+
 \begin{leader-english}
   \anglebracketleft\ \hspace{-0.5mm}Now let us recite the verses on the Highest Blessings\hyperlink{endnote46-appendix}{\hypertarget{endnote46-body}{\pagenote{%
         \hypertarget{endnote46-appendix}{\hyperlink{endnote46-body}{``The term ``blessing'' is used throughout this chanting book to convey the meaning of ``support'', or ``a beneficial thing'', without implying the underlying Christian connotations this term may have in popular use.}}}}} \hspace{-0.5mm}\anglebracketright\
@@ -2708,11 +2737,11 @@ Anattha-sañhito
   Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā
 \end{pali-hang}
 
-\begin{english}
+\begin{english-verses}
   Bhikkhus without going to either of these extremes\\
   The Tathāgata has ultimately awakened\\
   To a middle way of practice
-\end{english}
+\end{english-verses}
 
 Cakkhu-karaṇī
 
@@ -3186,13 +3215,27 @@ Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban'ti
   Has been experienced directly
 \end{english}
 
+\begin{pali-hang-firstline}
 Idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccan'ti me bhikkhave
-Pubbe ananussutesu dhammesu\\
-Cakkhuṁ udapādi\\
-Ñāṇaṁ udapādi\\
-Paññā udapādi\\
-Vijjā udapādi\\
+\end{pali-hang-firstline}
+\begin{pali-hangtogether}
+Pubbe ananussutesu dhammesu
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
+Cakkhuṁ udapādi
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
+Ñāṇaṁ udapādi
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
+Paññā udapādi
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
+Vijjā udapādi
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
 Āloko udapādi
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Bhikkhus in regard to things unheard of before\\
@@ -3223,19 +3266,19 @@ Vijjā udapādi\\
   Has been developed
 \end{english}
 
-Yāva-kīvañ-ca me bhikkhave imesu catūsu ariya-saccesu\\
+Yāva-kīvañ-ca me bhikkhave imesu catūsu ariya-saccesu
 \begin{pali-hang}
   Evan-ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 \end{pali-hang}
 
-\begin{english}
-  As long bhikkhus as my knowledge and understanding\\
+\begin{english-verses}
+  Bhikkhus as long as my knowledge and understanding\\
   As it actually is\\
   Of these Four Noble Truths\\
   With their three phases and twelve aspects\hyperlink{endnote57-appendix}{\hypertarget{endnote57-body}{\pagenote{%
         \hypertarget{endnote57-appendix}{\hyperlink{endnote57-body}{The three phases are comprised of the statement of the noble truth itself, followed by what is the task that is to be performed in relation to this noble truth, followed by the statement that the task has been performed. Four truths multiplied by three phases, results in 12 aspects.}}}}}\\
   Was not entirely pure
-\end{english}
+\end{english-verses}
 
 N'eva tāvāhaṁ bhikkhave sadevake loke samārake sabrahmake\\
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\\
@@ -3243,7 +3286,7 @@ Anuttaraṁ sammā-sambodhiṁ abhisambuddho\hyperlink{endnote58-appendix}{\hype
       \hypertarget{endnote58-appendix}{\hyperlink{endnote58-body}{Instead of the nominative ``\textit{abhisambuddo}'' (Thai and Buddha Jayanti Pāli edition), one would usually expect the accusative or a quotation here, which is indeed what is found in the PTS and Chatta Saṅgāyana editions, giving ``\textit{abhisambuddho'ti}''. However, the anoumolous reading ``\textit{abhisambuddho}'' finds support from \textit{Mahāvasutu}: ``\textit{yāvac cāhaṁ bhikṣavaḥ imāni catvāry āryasatyāni evaṁ triparivartaṁ dvādaśākāraṁ yathābhūtaṁ samyakprajñayā nābhyajñāsiṣaṁ na tāvad ahaṁ anuttarāṁ samyaksaṁbodhim abhisaṁbuddho pratijānehaṁ}'', which according to Ven. Ānandajoti probably indicates that ``\textit{abhisambuddho}'' is an old/original reading.}}}}}
 paccaññāsiṁ
 
-\begin{english}
+\begin{english-verses}
   I did not claim bhikkhus\\
   In this world of devas\\
   Māra and Brahmā\\
@@ -3251,26 +3294,26 @@ paccaññāsiṁ
   Kings and commoners\\
   An ultimate awakening\\
   To unsurpassed perfect enlightenment
-\end{english}
+\end{english-verses}
 
 Yato ca kho me bhikkhave imesu catūsu ariya-saccesu\\
 \begin{pali-hang}
   Evan-ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
 \end{pali-hang}
 
-\begin{english}
+\begin{english-verses}
   But when bhikkhus my knowledge and understanding\\
   As it actually is\\
   Of these Four Noble Truths\\
   With their three phases and twelve aspects\\
   Was indeed entirely pure
-\end{english}
+\end{english-verses}
 
 Athāhaṁ bhikkhave sadevake loke samārake sabrahmake\\
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\\
 Anuttaraṁ sammā-sambodhiṁ abhisambuddho paccaññāsiṁ
 
-\begin{english}
+\begin{english-verses}
   Then indeed did I claim bhikkhus\\
   In this world of devas\\
   Māra and Brahmā\\
@@ -3278,7 +3321,7 @@ Anuttaraṁ sammā-sambodhiṁ abhisambuddho paccaññāsiṁ
   Kings and commoners\\
   An ultimate awakening\\
   To unsurpassed perfect enlightenment
-\end{english}
+\end{english-verses}
 
 Ñāṇañ-ca pana me dassanaṁ udapādi
 
@@ -3815,7 +3858,7 @@ Cittaṁ samādhiyati
 So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti
 
 \begin{english}
-  One closely looks on with equanimity
+  One closely looks on with equanimity\\
   At the mind thus concentrated
 \end{english}
 
@@ -4047,11 +4090,11 @@ Idha bhikkhave ariya-sāvako\\
 Micchā-ājīvaṁ pahāya\\
 Sammā-ājīvena jīvitaṁ kappeti
 
-\begin{english}
+\begin{english-verses}
   Here bhikkhus a noble disciple\\
   Having abandoned wrong livelihood\\
   Earns his living by right livelihood
-\end{english}
+\end{english-verses}
 
 Ayaṁ vuccati bhikkhave sammā-ājīvo
 
@@ -4072,14 +4115,14 @@ Vāyamati\\
 Vīriyaṁ ārabhati\\
 Cittaṁ paggaṇhāti padahati
 
-\begin{english}
+\begin{english-verses}
   Here bhikkhus a bhikkhu awakens zeal\\
   For the non-arising of unarisen evil unwholesome states\\
   He puts forth effort\\
   Arouses energy\\
   Exerts his mind\\
   And strives
-\end{english}
+\end{english-verses}
 
 Uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya\\
 Chandaṁ janeti\\
@@ -4087,13 +4130,13 @@ Vāyamati\\
 Vīriyaṁ ārabhati\\
 Cittaṁ paggaṇhāti padahati
 
-\begin{english}
+\begin{english-verses}
   He awakens zeal for the abandoning of arisen evil unwholesome states\\
   He puts forth effort\\
   Arouses energy\\
   Exerts his mind\\
   And strives
-\end{english}
+\end{english-verses}
 
 Anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya\\
 Chandaṁ janeti\\
@@ -4101,13 +4144,13 @@ Vāyamati\\
 Vīriyaṁ ārabhati\\
 Cittaṁ paggaṇhāti padahati
 
-\begin{english}
+\begin{english-verses}
   He awakens zeal for the arising of unarisen wholesome states\\
   He puts forth effort\\
   Arouses energy\\
   Exerts his mind\\
   And strives
-\end{english}
+\end{english-verses}
 
 Uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā\\
 Asammosāya\\
@@ -4119,7 +4162,7 @@ Vāyamati\\
 Vīriyaṁ ārabhati\\
 Cittaṁ paggaṇhāti padahati
 
-\begin{english}
+\begin{english-verses}
   He awakens zeal for the continuance\\
   Non-disappearance\\
   Strengthening\\
@@ -4129,7 +4172,7 @@ Cittaṁ paggaṇhāti padahati
   Arouses energy\\
   Exerts his mind\\
   And strives
-\end{english}
+\end{english-verses}
 
 Ayaṁ vuccati bhikkhave sammā-vāyāmo
 
@@ -4258,11 +4301,11 @@ Vivicca akusalehi dhammehi
   Savitakkaṁ savicāraṁ viveka-jaṁ pīti-sukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati
 \end{pali-hang}
 
-\begin{english}
+\begin{english-verses}
   Enters upon and abides \breathmark\ in the first Jhāna\\
   Accompanied by thought and examination\\
   With rapture and pleasure \breathmark\ born of seclusion
-\end{english}
+\end{english-verses}
 
 Vitakka-vicārānaṁ vūpasamā
 
@@ -4271,17 +4314,17 @@ Vitakka-vicārānaṁ vūpasamā
 \end{english}
 
 Ajjhattaṁ sampasādanaṁ\\
-Cetaso ekodibhāvaṁ\\
-\begin{pali-hang}
+Cetaso ekodibhāvaṁ
+\begin{pali-hangtogether}
   Avitakkaṁ avicāraṁ samādhi-jaṁ pīti-sukhaṁ dutiyaṁ jhānaṁ upasampajja viharati
-\end{pali-hang}
+\end{pali-hangtogether}
 
-\begin{english}
+\begin{english-verses}
   He enters upon and abides \breathmark\ in the second Jhāna\\
   Accompanied by self-confidence \breathmark\ and singleness of mind\\
   Without thought and examination\\
   With rapture and pleasure \breathmark\ born of concentration
-\end{english}
+\end{english-verses}
 
 Pītiyā ca virāgā
 
@@ -4305,22 +4348,22 @@ Sukhañ-ca kāyena paṭisaṁvedeti
 
 \begin{english}
   And experiencing pleasure with the body\hyperlink{endnote65-appendix}{\hypertarget{endnote65-body}{\pagenote{%
-        \hypertarget{endnote65-appendix}{\hyperlink{endnote65-body}{Orig: ``Still feeling pleasure with the body''. The Pāli doesn't say ``still'', but more importantly SN 48.40 states that physical pleasure (sukha) has ceased in 3rd Jhāna, and mental pleasure (\textit{somanassa}) has ceased in 4th Jhāna. Therefore, according to SN 48.40 kāya in the context of the 3rd Jhāna stock formula cannot refer to the physical body. The Pāli commentaries agree, and explain that ``\textit{kāya}'' here refers to the `mental body', in particular to mental pleasure (\textit{somanassa}). However, a comparative study by Prof. Kuan Tse-Fu titled \textit{Clarification on Feelings in Buddhist Dhyāna/Jhāna Meditation} brought to light that the Chinese parallel to SN 48.40 has a different sequence of disappearing types of vedanā in the sequence of the four Jhānas. While it would go beyond the scope of this footnote to discuss the matter in detail, it is noteworthy that the parallel to SN 48.40, the \textit{Aviparātaka Sūtra} of the \textit{Āgamas}, indeed mentions that bodily pleasant feeling (\textit{sukha}) disappears only in the 4th Jhāna, whereas mental pleasant feeling (\textit{somanassa}) has disappeared already in the 3rd Jhāna, alongside with the disappearance of \textit{pīti}. In the context of this chanting book, we have therefore chosen to stay with the literal translation of the word ``\textit{kāya}'' as ``body'', and invite the reader to draw his own conclusions.}}}}}
+        \hypertarget{endnote65-appendix}{\hyperlink{endnote65-body}{Orig: ``Still feeling pleasure with the body''. The Pāli doesn't say ``still'', but more importantly SN 48.40 states that physical pleasure (sukha) has ceased in 3rd Jhāna, and mental pleasure (\textit{somanassa}) has ceased in 4th Jhāna. Therefore, according to SN 48.40 \textit{kāya} in the context of the 3rd Jhāna stock formula cannot refer to the physical body. The Pāli commentaries agree, and explain that ``\textit{kāya}'' here refers to the `mental body', in particular to mental pleasure (\textit{somanassa}). However, a comparative study by Prof. Kuan Tse-Fu titled \textit{``Clarification on Feelings in Buddhist Dhyāna/Jhāna Meditation''} brought to light that the Chinese parallel to SN 48.40 has a different sequence of disappearing types of \textit{vedanā} in the sequence of the four Jhānas. While it would go beyond the scope of this footnote to discuss the matter in detail, it is noteworthy that the parallel to SN 48.40, the \textit{Aviparātaka Sūtra} of the \textit{Āgamas}, indeed mentions that bodily pleasant feeling (\textit{sukha}) disappears only in the 4th Jhāna, whereas mental pleasant feeling (\textit{somanassa}) has disappeared already in the 3rd Jhāna, alongside with the disappearance of \textit{pīti}. In the context of this chanting book, we have therefore chosen to stay with the literal translation of the word ``\textit{kāya}'' as ``body'', and invite the reader to draw his own conclusions.}}}}}
 \end{english}
 
-Yaṁ taṁ ariyā ācikkhanti\\
-\begin{pali-hang}
+Yaṁ taṁ ariyā ācikkhanti
+\begin{pali-hangtogether}
   `Upekkhako satimā sukha-vihārī'ti\hyperlink{endnote66-appendix}{\hypertarget{endnote66-body}{\pagenote{%
         \hypertarget{endnote66-appendix}{\hyperlink{endnote66-body}{Orig: ``viharatī'ti``}}}}}
   tatiyaṁ jhānaṁ upasampajja viharati
-\end{pali-hang}
+\end{pali-hangtogether}
 
-\begin{english}
+\begin{english-verses}
   He enters upon and abides \breathmark\ in the third Jhāna\\
   On account of which the Noble Ones announce\\
   `He has a pleasant abiding\\
   With equanimity and is mindful'
-\end{english}
+\end{english-verses}
 
 Sukhassa ca pahānā
 
@@ -4345,12 +4388,12 @@ Pubb'eva somanassa domanassānaṁ atthaṅgamā
   Adukkhamasukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
 \end{pali-hang}
 
-\begin{english}
+\begin{english-verses}
   He enters upon and abides \breathmark\ in the fourth Jhāna\\
   Accompanied by neither pain nor pleasure\\
   And purity of mindfulness\\
   Due to equanimity
-\end{english}
+\end{english-verses}
 
 Ayaṁ vuccati bhikkhave sammā-samādhi
 
@@ -4366,6 +4409,7 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 
 \suttaRef{[SN 45.8]}
 
+\enlargethispage{\baselineskip\vspace{-0.5em}}
 \bottomNav{repulsiveness-of-food}
 
 #+end_src
@@ -4738,7 +4782,7 @@ Mahapphalā hoti mahānisaṁsā'ti
 \end{leader}
 \begin{leader-english-belowpali}
   \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Analysis of Dependent Origination\hyperlink{endnote71-appendix}{\hypertarget{endnote71-body}{\pagenote{%
-        \hypertarget{endnote71-appendix}{\hyperlink{endnote71-body}{Lit.: ``the 'Discourse Analysis' from the 'Analysis of Dependent Origination'''  The ``Discourse Analysis'' is a sub-chapter (Abh.Vibh.130f) from the ``Analysis of Dependent Origination'', which is part of the 2nd book of the \textit{Abhidhammapiṭaka} called the ``\textit{Vibhaṅga}''. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the \textit{Suttapiṭaka}.}}}}} \hspace{-0.5mm}\anglebracketright\
+        \hypertarget{endnote71-appendix}{\hyperlink{endnote71-body}{Lit.: ``the `Discourse Analysis' from the `Analysis of Dependent Origination'\hspace{0.01mm}''; the ``Discourse Analysis'' is a sub-chapter (Abh.Vibh.130f) from the ``Analysis of Dependent Origination'', which is part of the 2nd book of the \textit{Abhidhammapiṭaka} called the ``\textit{Vibhaṅga}''. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the \textit{Suttapiṭaka}.}}}}} \hspace{-0.5mm}\anglebracketright\
 \end{leader-english-belowpali}
 
 Avijjā-paccayā saṅkhārā
@@ -4838,7 +4882,7 @@ Tattha katamā avijjā
 Ayaṁ vuccati avijjā
 
 \begin{english}
-  This is called 'ignorance'
+  This is called `ignorance'
 \end{english}
 
 \begin{pali-hang}
@@ -4880,7 +4924,7 @@ Tattha katamo puññābhisaṅkhāro
 Ayaṁ vuccati puññābhisaṅkhāro
 
 \begin{english}
-  This is called 'heightened formation of wholesomeness'
+  This is called `heightened formation of wholesomeness'
 \end{english}
 
 Tattha katamo apuññābhisaṅkhāro
@@ -4898,13 +4942,13 @@ Akusalā cetanā kāmāvacarā
 Ayaṁ vuccati apuññābhisaṅkhāro
 
 \begin{english}
-  This is called 'heightened formation of unwholesomeness'
+  This is called `heightened formation of unwholesomeness'
 \end{english}
 
 Tattha katamo āneñjābhisaṅkhāro
 
 \begin{english}
-  Therein what is 'heightened formation of imperturbability'?
+  Therein what is `heightened formation of imperturbability'?
 \end{english}
 
 Kusalā cetanā arūpāvacarā
@@ -4916,7 +4960,7 @@ Kusalā cetanā arūpāvacarā
 Ayaṁ vuccati āneñjābhisaṅkhāro
 
 \begin{english}
-  This is called 'heightened formation of imperturbability'
+  This is called `heightened formation of imperturbability'
 \end{english}
 
 Tattha katamo kāyasaṅkhāro
@@ -5117,7 +5161,7 @@ Tattha katamaṁ taṇhā-paccayā upādānaṁ
 \end{pali-hang}
 
 \begin{english-hang}
-  Clinging to sensuality \breathmark\ clinging to views \breathmark\ clinging to rules and \mbox{rituals}~\breathmark\ clinging to a sense of self\hyperlink{endnote81-appendix}{\hypertarget{endnote81-body}{\pagenote{%
+  Clinging to sensuality \breathmark\ clinging to views \breathmark\ clinging to rules and \mbox{rituals}~\breathmark\ clinging to a sense of self\thinspace\hyperlink{endnote81-appendix}{\hypertarget{endnote81-body}{\pagenote{%
         \hypertarget{endnote81-appendix}{\hyperlink{endnote81-body}{The term \textit{vāda} in \textit{attavādupādāna} does here not necessarily refer to ``a doctrine'' of self, but rather to a person's sense of being someone; the sense of being or having a self. This is not exactly the same as personality view, which is destroyed already at the stage of stream-entry. The lingering sense of having a self may continue for a while, despite of having already intellectually and/or experientially understood that there is no self to be found in relation to the five aggregates; just as conceit (\textit{māna}) is overcome only by the path to \textit{Arahantship}, despite of having uprooted personality view already at the stage of stream-entry.}}}}}
 \end{english-hang}
 
@@ -5407,9 +5451,8 @@ Ekaṁsena gotami dhāreyyāsi:
 Eso dhammo eso vinayo etaṁ satthusāsanan'ti
 
 \begin{english}
-  `This is the Dhamma\\
-  This is the Vinaya\\
-  This is the Teacher's teaching'
+  ``This is the Dhamma \breathmark\ this is the Vinaya\\
+  This is the Teacher's teaching!''
 \end{english}
 
 \suttaRef{[AN 8.53]}
@@ -6297,11 +6340,11 @@ Chinna-pilotiko
 
 Alam-eva saddhā-pabbajitena kula-puttena vīriyaṁ ārabhituṁ
 
-\begin{english}
+\begin{english-verses}
   This is enough for a clansman\\
   Who has gone forth out of faith\\
   To arouse his energy thus
-\end{english}
+\end{english-verses}
 
 Kāmaṁ taco ca nahāru ca aṭṭhi ca avasissatu
 
@@ -6325,7 +6368,7 @@ Sarīre upasussatu maṁsa-lohitaṁ
   Vīriyassa saṇṭhānaṁ bhavissatī'ti
 \end{pali-hangtogether}
 
-\begin{english}
+\begin{english-verses}
   As long as whatever is to be attained\\
   By manly strength\\
   By manly energy\\
@@ -6333,7 +6376,7 @@ Sarīre upasussatu maṁsa-lohitaṁ
         \hypertarget{endnote87-appendix}{\hyperlink{endnote87-body}{Orig: ``By human strength/energy/effort''; while purisa can also mean person, or human, in this context it probably refers to the feature of strength, which is typically associated with masculinity. A similar analogy occurs with the expression of a strong man (\textit{purisa}) extending or contracting his arm (AN 7.61).}}}}}\\
   Has not been attained\\
   Let not my efforts stand still''
-\end{english}
+\end{english-verses}
 
 Dukkhaṁ bhikkhave kusīto viharati
 
@@ -6444,14 +6487,14 @@ Cīvara-piṇḍapāta\\
 Senāsana-gilānappaccaya bhesajja-parikkhāraṁ\\
 Tesaṁ te kārā amhesu
 
-\begin{english}
+\begin{english-verses}
   And all our use of robes\\
   Almsfood\\
   Lodgings\\
   Supports for the sick and medicinal requisites\hyperlink{endnote92-appendix}{\hypertarget{endnote92-body}{\pagenote{%
         \hypertarget{endnote92-appendix}{\hyperlink{endnote92-body}{Orig: ``And supports for the sick''}}}}}\\
   Given by others for our support
-\end{english}
+\end{english-verses}
 
 Mahapphalā bhavissanti mahā-nisaṁsā'ti
 
@@ -6540,11 +6583,11 @@ Na kho panetaṁ evaṁ daṭṭhabbaṁ
 Yo vo mayā dhammo ca vinayo ca desito paññatto\\
 So vo mamaccayena satthā
 
-\begin{english}
+\begin{english-verses}
   Whatever Dhamma and Vinaya\\
   I have pointed out and formulated for you\\
   That will be your teacher when I am gone
-\end{english}
+\end{english-verses}
 
 Handa dāni bhikkhave āmantayāmi vo
 
@@ -6573,6 +6616,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 \suttaRef{[DN 16]}
 
+\enlargethispage{\baselineskip\vspace{-1.0em}}
 \bottomNav{uddissanadhitthana}
 
 #+end_src
@@ -6691,11 +6735,11 @@ Rasataṇhāya cittaṁ patilīyati
 
 Patikuṭati pativattati na sampasāriyati
 
-\begin{english}
+\begin{english-verses}
   Turns back from it\\
   Rolls away from it\\
   And is not drawn towards it
-\end{english}
+\end{english-verses}
 
 Upekkhā vā pāṭikulyatā vā saṇṭhāti
 
@@ -6800,7 +6844,7 @@ Tassa dāyādā bhavissanti
   Of such acts \breathmark\ they will be the heirs\\
 \end{english-verses}
 
-\suttaRef{[AN 3.65 \& 5.57]}
+\suttaRef{[AN 3.65 \& AN 5.57]}
 
 \bottomNav{seven-factors-of-awakening}
 
@@ -7020,11 +7064,11 @@ Dasa ime bhikkhave dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā\\
 Katame dasa
 
-\begin{english-hang}
+\begin{english-hang-verses}
   Bhikkhus there are these ten dhammas\hyperlink{endnote99-appendix}{\hypertarget{endnote99-body}{\pagenote{%
         \hypertarget{endnote99-appendix}{\hyperlink{endnote99-body}{Orig: ``Bhikkhus there are ten dhammas''}}}}}
   \breathmark\ which should be reflected upon again and again by one who has gone forth\\
-\end{english-hang}
+\end{english-hang-verses}
 
 \begin{english}
   What are these ten?
@@ -7034,44 +7078,44 @@ Katame dasa
   Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hang}
 
-\begin{english}
+\begin{english-verses}
   ``I have reached a state of castelessness''\hyperlink{endnote100-appendix}{\hypertarget{endnote100-body}{\pagenote{%
         \hypertarget{endnote100-appendix}{\hyperlink{endnote100-body}{Orig: ``I am no longer living according to worldly aims and values''}}}}}
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 Parapaṭibaddhā me jīvikā'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-\begin{english}
+\begin{english-verses}
   ``My very life is sustained through the gifts of others''
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 Añño me ākappo karaṇīyo'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-\begin{english}
+\begin{english-verses}
   ``Now my conduct should be different from before''\hyperlink{endnote101-appendix}{\hypertarget{endnote101-body}{\pagenote{%
         \hypertarget{endnote101-appendix}{\hyperlink{endnote101-body}{Orig: `I should strive to abandon my former habits'}}}}}
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 Kacci nu kho me attā sīlato na upavadatī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-\begin{english}
+\begin{english-verses}
   ``Does regret over my conduct arise in my mind?''
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 % TODO this is a bit hacky, works for now
 \vspace{8pt}
@@ -7081,24 +7125,24 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hangtogether}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-\begin{english}
+\begin{english-verses}
   ``Could my spiritual companions find fault with my conduct?''
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-\begin{english}
+\begin{english-verses}
   ``All that is mine beloved and pleasing\\
   Will become otherwise\\
   Will become separated from me''
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 % TODO this is a bit hacky, works for now
 \vspace{8pt}
@@ -7111,7 +7155,7 @@ Kalyāṇaṁ vā pāpakaṁ vā\\
 Tassa dāyādo bhavissāmī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-\begin{english}
+\begin{english-verses}
   ``I am the owner of my kamma\\
   Heir to my kamma\\
   Born of my kamma\\
@@ -7121,31 +7165,31 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Either skillful or harmful\\
   Of such acts \breathmark\ I will be the heir''\hyperlink{endnote102-appendix}{\hypertarget{endnote102-body}{\pagenote{%
         \hypertarget{endnote102-appendix}{\hyperlink{endnote102-body}{Orig: ``For good or for ill, Of that I will be the heir`` For the sake of consistency with other passages which were translated differently, this translation has been chosen.}}}}}
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 `Kathambhūtassa me rattindivā vītipatantī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-\begin{english}
+\begin{english-verses}
   ``The days and nights are relentlessly passing\\
   How well am I spending my time?''
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 Kacci nu kho'haṁ suññāgāre abhiramāmī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-\begin{english}
+\begin{english-verses}
   ``Do I delight in solitude or not?''
-  \begin{english-hangtogether}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 \begin{pali-hang}
   Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana viseso adhigato\\
@@ -7159,23 +7203,22 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hangtogether}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
-
-\begin{english}
-  ``Has my practice borne fruit with freedom or insight
-  \begin{english-hangtogether}
+\begin{english-verses}
+  ``Has my practice borne fruit with freedom or insight\\
+  \begin{english-hangtogether-verses}
     So that at the end of my life \breathmark\ I need not feel ashamed when questioned by my spiritual companions?''
-  \end{english-hangtogether}
-  \begin{english-hangtogether}
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
-  \end{english-hangtogether}
-\end{english}
+  \end{english-hangtogether-verses}
+\end{english-verses}
 
 Ime kho bhikkhave dasa dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
-\begin{english-hangtogether}
+\begin{english-hang-verses}
   Bhikkhus these are the ten dhammas \breathmark\ which should be reflected upon again and again by one who has gone forth
-\end{english-hangtogether}
+\end{english-hang-verses}
 
 \suttaRef{[AN 10.48]}
 
@@ -7256,8 +7299,6 @@ Atthi imasmiṁ kāye
   \restoreArrayStretch
 }
 
-\clearpage
-
 \begin{pali-hang}
   Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 \end{pali-hang}
@@ -7270,10 +7311,9 @@ Atthi imasmiṁ kāye
   Filled with unattractive things
 \end{english-verses}
 
-
-
 \suttaRef{[DN 22]}
 
+\enlargethispage{\baselineskip\vspace{-1.0em}}
 \bottomNav{principles-of-cordiality}
 
 #+end_src
@@ -7624,19 +7664,19 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Bhummānaṁ devānaṁ saddaṁ sutvā cātummahārājikā devā saddamanussāvesuṁ...
+  Bhummānaṁ devānaṁ saddaṁ sutvā Cātummahārājikā devā saddamanussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Cātummahārājikanaṁ devānaṁ saddaṁ sutvā tāvatiṁsā devā saddamanussāvesuṁ...
+  Cātummahārājikanaṁ devānaṁ saddaṁ sutvā Tāvatiṁsā devā saddamanussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā yāmā devā saddamanussāvesuṁ...
+  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā Yāmā devā saddamanussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāmānaṁ devānaṁ saddaṁ sutvā tusitā devā saddamanussāvesuṁ...
+  Yāmānaṁ devānaṁ saddaṁ sutvā Tusitā devā saddamanussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7870,7 +7910,6 @@ Atha kho bhagavā udānaṁ udānesi:
         \hypertarget{endnote107-appendix}{\hyperlink{endnote107-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: “Bhikkhavo” ti; “Bhadante” ti te bhikkhū Bhagavato paccassosuṁ. Bhagavā etadavoca.}}}}}
 \end{pali-hang}
 
-
 \begin{pali-hang}
   Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ nayidaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
 \end{pali-hang}
@@ -7911,8 +7950,14 @@ Atha kho bhagavā udānaṁ udānesi:
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
 \end{pali-hang}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\ rūpaṁ niccaṁ vā aniccaṁ vāti? Aniccaṁ bhante.
+   Rūpaṁ niccaṁ vā aniccaṁ vāti? Aniccaṁ bhante.
 \end{pali-hang}
 
 \begin{pali-hangtogether}
@@ -8027,8 +8072,14 @@ Atha kho bhagavā udānaṁ udānesi:
   No hetaṁ bhante.
 \end{pali-hangtogether}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Tasmātiha bhikkhave \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Tasmātiha bhikkhave \hspace{-0.5mm}\anglebracketright\ yaṅkiñci rūpaṁ atītānāgata-\mbox{paccuppannaṁ}~\breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+   Yaṅkiñci rūpaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8047,9 +8098,17 @@ Atha kho bhagavā udānaṁ udānesi:
   Yaṅkiñci viññāṇaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\ sutvā ariyasāvako rūpasmim-pi nibbindati \breathmark\ vedanāya-pi nibbindati \breathmark\ saññāya-pi nibbindati \breathmark\ saṅkhāresu-pi nibbindati \breathmark\ viññāṇasmim-pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā vimuccati \breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā''ti pajānātī'ti.
+   Sutvā ariyasāvako rūpasmim-pi nibbindati \breathmark\ vedanāya-pi nibbindati \breathmark\ saññāya-pi nibbindati \breathmark\ saṅkhāresu-pi nibbindati \breathmark\ viññāṇasmim-pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā vimuccati \breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā''ti pajānātī'ti.
 \end{pali-hang}
+
+\clearpage
 
 \begin{pali-hang}
   Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti.
@@ -8118,9 +8177,15 @@ Atha kho bhagavā udānaṁ udānesi:
   But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
 \end{english-only-hangtogether}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Bhikkhus what do you think: \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{english-only-nohang}
   \begin{english-only-hang}
-    \anglebracketleft\ \hspace{-0.5mm}Bhikkhus what do you think: \hspace{-0.5mm}\anglebracketright\: ``Is form permanent or impermanent?''
+    ``Is form permanent or impermanent?''
   \end{english-only-hang}
   ``Impermanent venerable Sir.''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
@@ -8183,8 +8248,12 @@ Atha kho bhagavā udānaṁ udānesi:
   ``No venerable Sir.''
 \end{english-only-nohang}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Therefore bhikkhus \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
 \begin{english-only-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Therefore bhikkhus \hspace{-0.5mm}\anglebracketright\ any kind of form whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+   Any kind of form whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8203,10 +8272,15 @@ Atha kho bhagavā udānaṁ udānesi:
   Any kind of consciousness whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or \mbox{superior}~\breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
 \end{english-only-hang}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Bhikkhus when a noble disciple \hyperlink{endnote110-appendix}{\hypertarget{endnote110-body}{\pagenote{%
+        \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}} \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{english-only-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Bhikkhus when a noble disciple \hspace{-0.5mm}\anglebracketright\\hyperlink{endnote110-appendix}{\hypertarget{endnote110-body}{\pagenote{%
-        \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}}
-  \breathmark\ who has heard the teaching\hyperlink{endnote111-appendix}{\hypertarget{endnote111-body}{\pagenote{%
+  Who has heard the teaching\hyperlink{endnote111-appendix}{\hypertarget{endnote111-body}{\pagenote{%
         \hypertarget{endnote111-appendix}{\hyperlink{endnote111-body}{The word “the teaching” is not explicitly expressed in the Pāḷi, but was inserted for comprehension.}}}}}
   sees thus \breathmark\ he becomes disenchanted with form \breathmark\ becomes disenchanted with feeling \breathmark\ becomes disenchanted with \mbox{perception}~\breathmark\ becomes disenchanted with volitional formations \breathmark\ becomes disenchanted with consciousness.
 \end{english-only-hang}
@@ -8313,8 +8387,14 @@ Kena ādittaṁ?
   Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
 \end{pali-hang}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\ sutvā ariyasāvako cakkhusmimpi nibbindati \breathmark\ rūpesu pi nibbindati \breathmark\ cakkhuviññāṇe pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+   Sutvā ariyasāvako cakkhusmimpi nibbindati \breathmark\ rūpesu pi nibbindati \breathmark\ cakkhuviññāṇe pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8474,8 +8554,14 @@ Kena ādittaṁ?
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
 \end{english-only-hang}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Bhikkhus when a noble disciple \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{english-only-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Bhikkhus when a noble disciple \hspace{-0.5mm}\anglebracketright\ \breathmark\ who has heard the teaching sees \mbox{thus}~\breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted.
+    Who has heard the teaching sees \mbox{thus}~\breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted.
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8502,15 +8588,15 @@ Kena ādittaṁ?
   When he is disenchanted passion fades away. With the fading of passion he is liberated. When liberated there is knowledge that he is liberated. He understands: ``Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation.''
 \end{english-only-hang}
 
-\clearpage
-
 \begin{english-only-hang}
   That is what the Blessed One said. The bhikkhus were glad and they approved of his words. Now during this utterance \breathmark\ the hearts of those thousand bhikkhus \breathmark\ were liberated from the taints through the cessation of clinging.
 \end{english-only-hang}
 
 \suttaRef{[SN 35.28]}
 
+\enlargethispage{\baselineskip\vspace{-1.0em}}
 \bottomNav{gradual-training}
+
 \endgroup
 
 #+end_src
@@ -8534,7 +8620,9 @@ Kena ādittaṁ?
 \section{Just as Rivers}
 \label{just-as-rivers}
 
+\begin{leader}
 \anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā \hspace{-0.5mm}\anglebracketright\
+\end{leader}
 
 \begin{english}
   Just as rivers full of water
@@ -8717,6 +8805,8 @@ Sadā sotthī bhavantu te
 
 \bottomNav{sharing-all-merits}
 
+\clearpage
+
 #+end_src
 
 ** Yathā vāri-vahā pūrā
@@ -8726,74 +8816,42 @@ Sadā sotthī bhavantu te
 \section{Yathā vāri-vahā pūrā}
 \label{yatha-vari-vaha-pura}
 
-\vspace{-0.6em}
+\vspace{-1.0em}
+
+\begin{leader-yatha}
+\anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā paripūrenti sāgaraṁ \breathmark\ evam-eva ito dinnaṁ petānaṁ upakappati \breathmark\ icchitaṁ patthitaṁ tumhaṁ khippam-eva samijjhatu sabbe pūrentu saṅkappā \breathmark\ cando paṇṇa-raso yathā maṇi joti-raso yathā\hyperlink{endnote119-appendix}{\hypertarget{endnote119-body}{\pagenote{%
+        \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the Saṅghatthera.}}}}} \hspace{-0.5mm}\anglebracketright\
+\end{leader-yatha}
+
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Sabb'ītiyo vivajjantu\hyperlink{endnote120-appendix}{\hypertarget{endnote120-body}{\pagenote{%
+        \hypertarget{endnote120-appendix}{\hyperlink{endnote120-body}{This line is recited only by the secondmost senior monk. Subsequently, the remainder of the Saṅgha joins in.}}}}} \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-0.5cm}
 
 \begin{pali-hang}
-  Yathā vāri-vahā pūrā\\
-  Paripūrenti sāgaraṁ\\
-  Evam-eva ito dinnaṁ\\
-  Petānaṁ upakappati
+  Sabba-rogo vinassatu
 \end{pali-hang}
-
-\begin{english-verses}
-  Just as rivers full of water\\
-  Entirely fill up the sea\\
-  Likewise what's been given here\\
-  Benefits the departed ones\hyperlink{endnote118-appendix}{\hypertarget{endnote118-body}{\pagenote{%
-        \hypertarget{endnote118-appendix}{\hyperlink{endnote118-body}{Orig: “Bring blessings to departed spirits”}}}}}
-\end{english-verses}
-
-\suttaRef{[Khp 1.7]}
-
-\begin{pali-hang-continued}
-  Icchitaṁ patthitaṁ tumhaṁ\\
-  Khippam-eva samijjhatu\\
-  Sabbe pūrentu saṅkappā\\
-  Cando paṇṇa-raso yathā\\
-  Maṇi joti-raso yathā\hyperlink{endnote119-appendix}{\hypertarget{endnote119-body}{\pagenote{%
-        \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the Saṅghatthera.}}}}}
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  May all your hopes and all your longings\\
-  Come true in no long time\\
-  May all your wishes be fulfilled\\
-  Like on the fifteenth day the moon\\
-  Or like a bright and shining gem
-\end{english-verses}
-
-
-\begin{pali-hang-continued}
-  Sabb'ītiyo vivajjantu\hyperlink{endnote120-appendix}{\hypertarget{endnote120-body}{\pagenote{%
-        \hypertarget{endnote120-appendix}{\hyperlink{endnote120-body}{This line is recited only by the secondmost senior monk. Subsequently, the remainder of the Saṅgha joins in.}}}}}\\
-  Sabba-rogo vinassatu\\
+\begin{pali-hangtogether}
   Mā te bhavatv-antarāyo\\
   Sukhī dīgh'āyuko bhava
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  May all misfortunes be avoided\\
-  May all illness be dispelled\\
-  May you never meet with dangers\\
-  May you be happy and live long
-\end{english-verses}
+\end{pali-hangtogether}
 
 \suttaRef{[Khp A]}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Abhivādana-sīlissa\\
-  Niccaṁ vuḍḍhāpacāyino\\
-  Cattāro dhammā vaḍḍhanti\\
+  Niccaṁ vuḍḍhāpacāyino
+\end{pali-hang}
+\begin{pali-hangtogether}
+  Cattāro dhammā vaḍḍhanti
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
   Āyu vaṇṇo sukhaṁ balaṁ\hyperlink{endnote121-appendix}{\hypertarget{endnote121-body}{\pagenote{%
-        \hypertarget{endnote121-appendix}{\hyperlink{endnote121-body}{In the Thai tradition, a long pause is made after “\textit{sukhaṁ}”, and “\textit{balaṁ}” is recited in a slow and drawn-out manner.}}}}}
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  For one who often pays homage\\
-  And always respects elders\\
-  Four things increase\\
-  Long-life beauty \breathmark\ happiness and strength
-\end{english-verses}
+        \hypertarget{endnote121-appendix}{\hyperlink{endnote121-body}{In the Thai tradition, a long pause is made after “\textit{sukhaṁ}”, and “\textit{balaṁ}” is recited in a slow and drawn-out manner.}}}}}\hyperlink{endnote145-appendix}{\hypertarget{endnote145-body}{\pagenote{%
+        \hypertarget{endnote145-appendix}{\hyperlink{endnote145-body}{For translations of the above see the the previous chant, titled "Just as Rivers".}}}}}
+\end{pali-hangtogether}
 
 \suttaRef{[Dhp 109]}
 
@@ -8806,10 +8864,14 @@ Sadā sotthī bhavantu te
 \section{Ratanattay'ānubhāv'ādi-gāthā}
 \label{ratanattayanubhavadi-gatha}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Ratanattay'ānubhāvena \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-0.5cm}
 
 \begin{pali-hang}
-  Ratanattay'ānubhāvena – Ratanattaya-tejasā\\
+  Ratanattaya-tejasā\\
   Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā\\
   Anekā antarāyā pi – Vinassantu asesato\\
   Jaya-siddhi dhanaṁ lābhaṁ – Sotthi bhāgyaṁ sukhaṁ balaṁ\\
@@ -8840,10 +8902,15 @@ Sadā sotthī bhavantu te
 \section{Bhojana-dānānumodanā}
 \label{bhojana-dananumodana}
 
-\vspace{-0.6em}
+% \vspace{-0.6em}
 
-\begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Yo yassa bhojanaṁ deti \hspace{-0.5mm}\anglebracketright\\\
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Yo yassa bhojanaṁ deti \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
+\begin{verses}
   So tassa deti pañcapi\\
   Āyuṁ balaṁ sukhaṁ vaṇṇaṁ\\
   Paṭibhānañca pañcamaṁ\hyperlink{endnote122-appendix}{\hypertarget{endnote122-body}{\pagenote{%
@@ -8871,7 +8938,7 @@ Sadā sotthī bhavantu te
   Virūḷhā Buddhasāsane\\
   Arogā sukhitā hotha\\
   Saha sabbehi ñātibhī
-\end{pali-hang}
+\end{verses}
 
 \begin{english-verses}
   One who gives food to another\\
@@ -8913,10 +8980,15 @@ Sadā sotthī bhavantu te
 \section{Culla-maṅgala-cakka-vāḷa}
 \label{culla-mangala-cakka-vala}
 
-\vspace{-0.6em}
+% \vspace{-0.6em}
+
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Sabba-buddh'ānubhāvena \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Sabba-buddh'ānubhāvena \hspace{-0.5mm}\anglebracketright\\\
   Sabba-dhamm'ānubhāvena\\
   Sabba-saṅgh'ānubhāvena\\
   Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ\\
@@ -8963,14 +9035,19 @@ Sadā sotthī bhavantu te
 \section{Aggappasāda-sutta-gāthā}
 \label{aggappasada-sutta-gatha}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Aggato ve pasannānaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  Aggato ve pasannānaṁ\\
-  Aggaṁ dhammaṁ vijānataṁ\\
+  Aggaṁ dhammaṁ vijānataṁ
+\end{pali-hang}
+\begin{pali-hangtogether}
   Agge Buddhe pasannānaṁ\\
   Dakkhiṇeyye anuttare
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   For one with confidence,\\
@@ -8979,12 +9056,14 @@ Sadā sotthī bhavantu te
   Unsurpassed in deserving offerings,
 \end{english-verses}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Agge dhamme pasannānaṁ\\
-  Virāgūpasame sukhe\\
+  Virāgūpasame sukhe
+\end{pali-hang}
+\begin{pali-hangtogether}
   Agge saṅghe pasannānaṁ\\
   Puññakkhette anuttare
-\end{pali-hang-continued}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   With confidence in the supreme Dhamma,\\
@@ -8993,12 +9072,14 @@ Sadā sotthī bhavantu te
   Unsurpassed as a field of merit,
 \end{english-verses}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Aggasmiṁ dānaṁ dadataṁ\\
-  Aggaṁ puññaṁ pavaḍḍhati\\
+  Aggaṁ puññaṁ pavaḍḍhati
+\end{pali-hang}
+\begin{pali-hangtogether}
   Aggaṁ āyu ca vaṇṇo ca\\
   Yaso kitti sukhaṁ balaṁ
-\end{pali-hang-continued}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Having given gifts to the supreme,\\
@@ -9007,12 +9088,14 @@ Sadā sotthī bhavantu te
   Status, honour, happiness, strength.
 \end{english-verses}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Aggassa dātā medhāvī\\
-  Agga-dhamma-samāhito\\
+  Agga-dhamma-samāhito
+\end{pali-hang}
+\begin{pali-hangtogether}
   Deva-bhūto manusso vā\\
   Aggappatto pamodatī'ti
-\end{pali-hang-continued}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Having given to the supreme, the intelligent person,\\
@@ -9031,16 +9114,25 @@ Sadā sotthī bhavantu te
 \section{Kāla-dāna-sutta-gāthā}
 \label{kala-dana-sutta-gatha}
 
-\vspace{-0.6em}
+% \vspace{-0.6em}
+
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Kāle dadanti sapaññā \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  Kāle dadanti sapaññā\\
-  Vadaññū vīta-maccharā\\
+  Vadaññū vīta-maccharā
+\end{pali-hang}
+\begin{pali-hangtogether}
   Kālena dinnaṁ ariyesu\\
-  Uju-bhūtesu tādisu\\
+  Uju-bhūtesu tādisu
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
   Vippasanna-manā tassa\\
   Vipulā hoti dakkhiṇā
-\end{pali-hang}
+\end{pali-hangtogether}
 
 % TODO this is a bit hacky, works for now
 \vspace{16pt}
@@ -9055,12 +9147,14 @@ Sadā sotthī bhavantu te
   Their offering bears an abundance.
 \end{english-verses}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Ye tattha anumodanti\\
-  Veyyāvaccaṁ karonti vā\\
+  Veyyāvaccaṁ karonti vā
+\end{pali-hang}
+\begin{pali-hangtogether}
   Na tena dakkhiṇā onā\\
   Te pi puññassa bhāgino
-\end{pali-hang-continued}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Those who rejoice in that gift,\\
@@ -9069,12 +9163,14 @@ Sadā sotthī bhavantu te
   And the offering is not depleted by that.
 \end{english-verses}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Tasmā dade appaṭivāna-citto\\
-  Yattha dinnaṁ mahapphalaṁ\\
+  Yattha dinnaṁ mahapphalaṁ
+\end{pali-hang}
+\begin{pali-hangtogether}
   Puññāni para-lokasmiṁ\\
   Patiṭṭhā honti pāṇinan'ti
-\end{pali-hang-continued}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Therefore, with an unhesitant mind, one should give\\
@@ -9093,14 +9189,17 @@ Sadā sotthī bhavantu te
 \section{So attha-laddho}
 \label{so-attha-laddho}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}So attha-laddho \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
 
-\begin{verses}
-  So attha-laddho sukhito\\
-  Viruḷho buddha-sāsane\\
+\vspace{-1.0em}
+
+\begin{pali-hang}
+  Sukhito viruḷho buddha-sāsane\\
   Arogo sukhito hohi\\
   Saha sabbehi ñātibhi
-\end{verses}
+\end{pali-hang}
 
 \begin{english-verses}
   May he gain benefits and happiness\\
@@ -9109,12 +9208,12 @@ Sadā sotthī bhavantu te
   May he be together with all his relatives.
 \end{english-verses}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Sā attha-laddhā sukhitā\\
   Viruḷhā buddha-sāsane\\
   Arogā sukhitā hohi\\
   Saha sabbehi ñātibhi
-\end{pali-hang-continued}
+\end{pali-hang}
 
 \begin{english-verses}
   May she gain benefits and happiness\\
@@ -9123,12 +9222,12 @@ Sadā sotthī bhavantu te
   May she be together with all her relatives.
 \end{english-verses}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Te attha-laddhā sukhitā\\
   Viruḷhā buddha-sāsane\\
-  Arogā sukhitā hotha
+  Arogā sukhitā hotha\\
   Saha sabbehi ñātibhi
-\end{pali-hang-continued}
+\end{pali-hang}
 
 \begin{english-verses}
   May they gain benefits and happiness\\
@@ -9161,25 +9260,25 @@ Sadā sotthī bhavantu te
 \section{Devā-ārādhanā}
 \label{deva-aradhana}
 
-\vspace{-0.6em}
+\vspace{-1.0em}
 
-Pharitvāna\hyperlink{endnote124-appendix}{\hypertarget{endnote124-body}{\pagenote{%
+\begin{leader-yatha}
+\anglebracketleft\ \hspace{-0.5mm}Pharitvāna\hyperlink{endnote124-appendix}{\hypertarget{endnote124-body}{\pagenote{%
       \hypertarget{endnote124-appendix}{\hyperlink{endnote124-body}{The “Invitation to the Devas” is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do.}}}}}
-Mettaṁ samettā bhadantā\\
+mettaṁ samettā bhadantā\\
 Avikkhitta-cittā parittaṁ bhaṇantu\\
-Sagge kāme ca rūpe\\
-Giri-sikhara-taṭe c'antalikkhe vimāne\\
-Dīpe raṭṭhe ca gāme\\
-Taru-vana-gahane\\
-Geha-vatthumhi khette\\
-Bhummā c'āyantu devā\\
-Jala-thala-visame\\
-Yakkha-gandhabba-nāgā\\
-Tiṭṭhantā santike yaṁ\\
-Muni-vara-vacanaṁ\\
-Sādhavo me suṇantu\\
+Sagge kāme ca rūpe giri-sikhara-taṭe c'antalikkhe vimāne\\
+Dīpe raṭṭhe ca gāme taru-vana-gahane geha-vatthumhi khette\\
+Bhummā c'āyantu devā jala-thala-visame yakkha-gandhabba-nāgā\\
+Tiṭṭhantā santike yaṁ muni-vara-vacanaṁ sādhavo me suṇantu\\
+Buddha-dassana-kālo ayam-bhadantā\\
+Dhammassavana-kālo ayam-bhadantā\hyperlink{endnote125-appendix}{\hypertarget{endnote125-body}{\pagenote{%
+      \hypertarget{endnote125-appendix}{\hyperlink{endnote125-body}{When chanted for laypeople, only the 2nd line (\textit{Dhammassavana kālo}...) is recited, which is repeated three times.}}}}}\\
+Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hypertarget{endnote126-body}{\pagenote{%
+      \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{Orig: “Payirūpāsana”. Pari+upa=payirupa}}}}} \hspace{-0.5mm}\anglebracketright\
+\end{leader-yatha}
 
-\begin{english-verses}
+\begin{leader-yatha}
   Kind, venerable sirs: having spread thoughts of good will,\\
   Recite the protective chant with undistracted mind.\\
   Those in the heavens of sensuality \& form,\\
@@ -9187,26 +9286,20 @@ Sādhavo me suṇantu\\
   In islands, countries, \& towns,\\
   In groves of trees \& thickets,\\
   Around homesites \& fields.\\
-  \begin{english-hangtogether}
+  % \begin{english-hangtogether}
     And the earth-devas, spirits, heavenly minstrels, \& nāgas who are nearby,\\
-  \end{english-hangtogether}
+  % \end{english-hangtogether}
   In different waters and lands:\\
-  \begin{english-hangtogether}
+  % \begin{english-hangtogether}
     May they come \& listen with approval as I recite the word of the excellent sage.
-  \end{english-hangtogether}
-\end{english-verses}
+  % \end{english-hangtogether}
 
-Buddha-dassana-kālo ayam-bhadantā\\
-Dhammassavana-kālo ayam-bhadantā\hyperlink{endnote125-appendix}{\hypertarget{endnote125-body}{\pagenote{%
-      \hypertarget{endnote125-appendix}{\hyperlink{endnote125-body}{When chanted for laypeople, only the 2nd line (\textit{Dhammassavana kālo}...) is recited, which is repeated three times.}}}}}\\
-Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hypertarget{endnote126-body}{\pagenote{%
-      \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{Orig: “Payirūpāsana”. Pari+upa=payirupa}}}}}
-
-\begin{english-verses}
+% \begin{english-verses}
   This is the time to see the Buddha, Venerable Sirs.\\
   This is the time to listen to the Dhamma, Venerable Sirs.\\
   This is the time to attend to the Saṅgha, Venerable Sirs.
-\end{english-verses}
+% \end{english-verses}
+\end{leader-yatha}
 
 \suttaRef{[Thai]}
 
@@ -9218,13 +9311,17 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
 
-\vspace{-0.6em}
+\begin{leader-only}
+\anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
 
-\anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa \hfill{[3x]}
+\vspace{-1.0em}
 
-\begin{english-verses}
+Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
+
+\begin{english}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
-\end{english-verses}
+\end{english}
 
 % \vspace{1em}
 % TODO does the job, make sure even with spacing
@@ -9236,8 +9333,6 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 
 \section{Saraṇa-gamana-pāṭho}
 \label{sarana-gamana-patho}
-
-\vspace{-0.6em}
 
 \begin{pali-hang}
   Buddhaṁ saraṇaṁ gacchāmi\\
@@ -9275,7 +9370,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   A third time, to the Saṅgha I go for refuge.
 \end{english-verses}
 
-\vspace{1em}
+% \vspace{1em}
 
 #+end_src
 
@@ -9285,10 +9380,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Nama-kāra-siddhi-gāthā}
 \label{nama-kara-siddhi-gatha}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā \hspace{-0.5mm}\anglebracketright\ moha-malāpakaṭṭho\\
+  Moha-malāpakaṭṭho\\
   Sāmaṁ va buddho sugato vimutto\\
   Mārassa pāsā vinimocayanto\\
   Pāpesi khemaṁ janataṁ vineyyaṁ\\
@@ -9364,11 +9463,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Namo-kāra-aṭṭhaka}
 \label{namo-kara-atthaka}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Namo arahato \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Namo arahato \hspace{-0.5mm}\anglebracketright\ sammā\\
-  Sambuddhassa mahesino\\
+  Sammā-sambuddhassa mahesino\\
   Namo uttama-dhammassa\\
   Svākkhātass'eva ten'idha
 \end{pali-hang}
@@ -9429,22 +9531,26 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Maṅgala-sutta}
 \label{mangala-sutta}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\: ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
+   Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 \end{pali-hang}
 
 \begin{english-verses}
   Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Then, when the night had advanced, a certain deity of stunning beauty, having illuminated the entire Jeta's Grove, approached the Blessed One, paid homage to him, stood to one side, and addressed the Blessed One in verse:
 \end{english-verses}
 
-\begin{pali-hang-continued}
+\begin{pali-hang}
   Bahū devā manussā ca\\
   Maṅgalāni acintayuṁ\\
   Ākaṅkhamānā sotthānaṁ\\
   Brūhi maṅgalam-uttamaṁ
-\end{pali-hang-continued}
+\end{pali-hang}
 
 \begin{english-verses}
   Many devas and human beings\\
@@ -9453,8 +9559,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   So declare the highest blessing.
 \end{english-verses}
 
+\begin{leader}
+  \anglebracketleft\ \hspace{-0.5mm}Asevanā ca bālānaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader}
+
+\vspace{-1.0em}
+
 \begin{pali-hang-continued}
-  \anglebracketleft\ \hspace{-0.5mm}Asevanā ca bālānaṁ \hspace{-0.5mm}\anglebracketright\\ \
   Paṇḍitānañ-ca sevanā\\
   Pūjā ca pūjanīyānaṁ\\
   Etam maṅgalam-uttamaṁ
@@ -9617,10 +9728,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Ratana-sutta}
 \label{ratana-sutta}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Yānīdha \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Yānīdha \hspace{-0.5mm}\anglebracketright\ bhūtāni samāgatāni\\
+  Bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
   Sabb'eva bhūtā sumanā bhavantu\\
   Atho pi sakkacca suṇantu bhāsitaṁ
@@ -9634,7 +9749,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Tasmā hi bhūtā nisāmetha sabbe
+  Tasmā hi bhūtā nisāmetha sabbe\\
   Mettaṁ karotha mānusiyā pajāya\\
   Divā ca ratto ca haranti ye baliṁ\\
   Tasmā hi ne rakkhatha appamattā
@@ -9909,10 +10024,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Karaṇīya-metta-sutta}
 \label{karaniya-metta-sutta}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Karaṇīya \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Karaṇīya \hspace{-0.5mm}\anglebracketright\ m-attha-kusalena\\
+  M-attha-kusalena\\
   Yan-taṁ santaṁ padaṁ abhisamecca\\
   Sakko ujū ca suhujū ca\\
   Suvaco c'assa mudu anatimānī
@@ -10061,10 +10180,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Khandha-parittaṁ}
 \label{khandha-parittam}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Virūpakkhehi me mettaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Virūpakkhehi me mettaṁ \hspace{-0.5mm}\anglebracketright\ \\
   Mettaṁ Erāpathehi me\\
   Chabyā-puttehi me mettaṁ\\
   Mettaṁ Kaṇhā-gotamakehi ca
@@ -10119,8 +10241,11 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   May they not come to any evil.
 \end{english-verses}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Appamāṇo buddho \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
 \begin{pali-hang-continued}
-  \anglebracketleft\ \hspace{-0.5mm}Appamāṇo buddho \hspace{-0.5mm}\anglebracketright\ \\
   Appamāṇo dhammo\\
   Appamāṇo saṅgho\\
   Pamāṇavantāni siriṁsapāni\\
@@ -10162,10 +10287,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Buddha-Dhamma-Saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Iti pi so bhagavā \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Iti pi so bhagavā \hspace{-0.5mm}\anglebracketright\ \\
   Arahaṁ sammā-sambuddho\\
   Vijjā-caraṇa-sampanno\\
   Sugato loka-vidū\\
@@ -10244,10 +10372,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Yaṅ kiñci ratanaṁ loke}
 \label{yan-kinci-ratanam-loke}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Yaṅ kiñci ratanaṁ loke \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Yaṅ kiñci ratanaṁ loke \hspace{-0.5mm}\anglebracketright\ \\
   Vijjati vividhaṁ puthu\\
   Ratanaṁ buddha-samaṁ n'atthi\\
   Tasmā sotthī bhavantu te
@@ -10354,10 +10485,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Bojjh'aṅga-parittaṁ}
 \label{bojjhana-parittam}
 
-\vspace{-0.6em}
+\begin{leader-only}
+\anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\ \\
   Dhammānaṁ vicayo tathā\\
   Viriyam-pīti-passaddhi\\
   Bojjh'aṅgā ca tathā'pare\\
@@ -10444,10 +10578,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Abhaya-parittaṁ}
 \label{abhaya-parittam}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ \hspace{-0.5mm}\anglebracketright\ avamaṅgalañ-ca\\
+  Avamaṅgalañ-ca\\
   Yo cāmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Buddhānubhāvena vināsamentu
@@ -10498,10 +10636,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Devatā-uyyojana-gāthā}
 \label{devata-uyyojana-gatha}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Dukkhappattā \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Dukkhappattā \hspace{-0.5mm}\anglebracketright\ ca niddukkhā\\
+   Ca niddukkhā\\
   Bhayappattā ca nibbhayā\\
   Sokappattā ca nissokā\\
   Hontu sabbe pi pāṇino
@@ -10518,7 +10660,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   Ettāvatā ca amhehi\\
   Sambhataṁ puñña-sampadaṁ\\
   Sabbe devā anumodantu\hyperlink{endnote128-appendix}{\hypertarget{endnote128-body}{\pagenote{%
-        \hypertarget{endnote128-appendix}{\hyperlink{endnote128-body}{Orig: “devānumodantu”}}}}}
+        \hypertarget{endnote128-appendix}{\hyperlink{endnote128-body}{Orig: “devānumodantu”}}}}}\\
   Sabba-sampatti-siddhiyā
 \end{pali-hang-continued}
 
@@ -10543,9 +10685,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   May the deities who have come go [back].
 \end{english-verses}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Sabbe buddhā \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{pali-hang-continued}
-  \anglebracketleft\ \hspace{-0.5mm}Sabbe buddhā \hspace{-0.5mm}\anglebracketright\ balappattā\\
-  Paccekānañ-ca yaṁ balaṁ\\
+  Balappattā paccekānañ-ca yaṁ balaṁ\\
   Arahantānañ-ca tejena\\
   Rakkhaṁ bandhāmi sabbaso
 \end{pali-hang-continued}
@@ -10567,10 +10714,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Jaya-maṅgala-aṭṭha-gāthā}
 \label{jaya-mangala-attha-gatha}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\ sahassam-abhinimmita sāvudhan-taṁ\\
+   Sahassam-abhinimmita sāvudhan-taṁ\\
   Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
   Dān'ādi-dhamma-vidhinā jitavā\hyperlink{endnote129-appendix}{\hypertarget{endnote129-body}{\pagenote{%
         \hypertarget{endnote129-appendix}{\hyperlink{endnote129-body}{Here and in all subsequent verses we find the word “\textit{jitavā}”. The standard spelling would be “\textit{jitvā}” (abs. of \textit{jināti}; having conquered). In contrast “\textit{jitavā}” is a transliteration based on Thai spelling and pronunciation of Pāli, which has a tendency to insert the letter “a” between two consonants such as -\textit{tvā}, thus making it into -\textit{tavā}. It is by spelling anomalies like this, that Pāli scholars can determine the place of origin and age of certain Pāli texts.}}}}}
@@ -10721,11 +10872,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Jaya-parittaṁ}
 \label{jaya-parittam}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko \hspace{-0.5mm}\anglebracketright\ nātho\\
-  Hitāya sabba-pāṇinaṁ\\
+  Nātho hitāya sabba-pāṇinaṁ\\
   Pūretvā pāramī sabbā\\
   Patto sambodhim-uttamaṁ\\
   Etena sacca-vajjena\\
@@ -10808,107 +10962,19 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 
 #+end_src
 
-#+RESULTS:
-#+begin_export latex
-\section{Jaya-parittaṁ}
-\label{jaya-parittam}
-
-\vspace{-0.6em}
-
-\begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko \hspace{-0.5mm}\anglebracketright\ nātho\\
-  Hitāya sabba-pāṇinaṁ\\
-  Pūretvā pāramī sabbā\\
-  Patto sambodhim-uttamaṁ\\
-  Etena sacca-vajjena\\
-  Hotu te jaya-maṅgalaṁ
-\end{pali-hang}
-
-\begin{english-verses}
-  The Great Compassionate Protector,\\
-  For the benefit of all beings,\\
-  Fulfilled all the Perfections\\
-  And reached the highest Awakening.\\
-  By this utterance of truth,\\
-  May there be well-being for you always.
-\end{english-verses}
-
-\begin{pali-hang-continued}
-  Jayanto bodhiyā mūle\\
-  Sakyānaṁ nandi-vaḍḍhano\\
-  Evaṁ tvaṁ vijayo hohi\\
-  Jayassu jaya-maṅgale
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  Victorious at the foot of the bodhi tree\\
-  Was the joy-enhancer of the Sakyas.\\
-  Even so, may there be victory.\\
-  May you attain auspicious victory.
-\end{english-verses}
-
-\begin{pali-hang-continued}
-  Aparājita-pallaṅke\\
-  Sīse paṭhavi-pokkhare\\
-  Abhiseke sabba-buddhānaṁ\\
-  Aggappatto pamodati
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  At the invincible seat,\\
-  The best on Earth,\\
-  The consecration place of all Buddhas,\\
-  Having reached the highest, he rejoices.
-\end{english-verses}
-
-\suttaRef{[MJG]}
-
-\begin{pali-hang-continued}
-  Sunakkhattaṁ sumaṅgalaṁ\\
-  Supabhātaṁ suhuṭṭhitaṁ\\
-  Sukhaṇo sumuhutto ca\\
-  Suyiṭṭhaṁ brahma-cārisu
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  Good constellations, good blessings,\\
-  Good daybreak, good waking,\\
-  Good moment and good time\\
-  When offerings are made to holy practitioners.
-\end{english-verses}
-
-\begin{pali-hang-continued}
-  Padakkhiṇaṁ kāya-kammaṁ\\
-  Vācā-kammaṁ padakkhiṇaṁ\\
-  Padakkhiṇaṁ mano-kammaṁ\\
-  Paṇīdhi te padakkhiṇe\hyperlink{endnote130-appendix}{\hypertarget{endnote130-body}{\pagenote{%
-        \hypertarget{endnote130-appendix}{\hyperlink{endnote130-body}{Orig: “paṇidhi” and “padakkhiṇā”}}}}}\\
-  Padakkhiṇāni katvāna\\ –
-  Labhant'atthe padakkhiṇe
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  Felicitous is bodily kamma\\
-  Verbal kamma is felicitous\\
-  Felicitous is mental kamma\\
-  When aspiring for felicity.\\
-  Having done the felicitous\\
-  They get felicitous rewards
-\end{english-verses}
-
-\suttaRef{[AN 3.155]}
-#+end_export
-
 ** Bhavatu-sabba-maṅgalaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-sabba-mangalam}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\ \\
   Rakkhantu sabba-devatā\\
   Sabba-buddhānubhāvena\\
   Sadā sotthī bhavantu te
@@ -10939,7 +11005,7 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   Bhavatu sabba-maṅgalaṁ\\
   Rakkhantu sabba-devatā\\
   Sabba-saṅghānubhāvena\\
-  Sadā sotthī bhavantu te
+  Sadā sotthī \breathmark\ bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -10973,9 +11039,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
 
-\vspace{-0.8em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
 
-\anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
+\vspace{-1.0em}
+
+Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 
 \begin{english}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
@@ -10991,10 +11061,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Dhamma-saṅgaṇī-mātikā}
 \label{dhamma-sangani-matika}
 
-\vspace{-0.8em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Kusalā dhammā \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Kusalā dhammā \hspace{-0.5mm}\anglebracketright\ \\
   Akusalā dhammā\\
   Abyākatā dhammā
 \end{pali-hang}
@@ -11267,45 +11340,68 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
 
-\vspace{-0.8em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
 
-\begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā \hspace{-0.5mm}\anglebracketright\: rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
-\end{pali-hang}
+\begin{pali-hangtogether}
+  Rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
+\end{pali-hangtogether}
 
-\begin{english-hang-verses}
-  The five aggregates: The aggregate of form, the aggregate of feeling, the aggregate of perception, the aggregate of volitional formations, the aggregate of consciousness.
-\end{english-hang-verses}
+\begin{english-verses}
+  Five aggregates:
+\begin{english-hangtogether-verses}
+  The aggregate of form, the aggregate of feeling, the aggregate of perception, the aggregate of volitional formations, the aggregate of consciousness.
+\end{english-hangtogether-verses}
+\end{english-verses}
 
 \suttaRef{[MN 109]}
 
 \begin{pali-hang-continued}
-  Dvā-das'āyatanāni: cakkhv-āyatanaṁ rūp'āyatanaṁ sot'āyatanaṁ sadd'āyatanaṁ ghān'āyatanaṁ gandh'āyatanaṁ jivh'āyatanaṁ ras'āyatanaṁ kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ man'āyatanaṁ dhamm'āyatanaṁ
+  Dvā-das'āyatanāni:
+  \begin{pali-hangtogether}
+  Cakkhv-āyatanaṁ rūp'āyatanaṁ sot'āyatanaṁ sadd'āyatanaṁ ghān'āyatanaṁ gandh'āyatanaṁ jivh'āyatanaṁ ras'āyatanaṁ kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ man'āyatanaṁ dhamm'āyatanaṁ
+  \end{pali-hangtogether}
 \end{pali-hang-continued}
 
 \begin{english-verses}
+  Twelve sense bases:
+\begin{english-hangtogether-verses}
   The eye-base, the form base, the ear-base, the sound-base, the nose-base, the odour-base, the tongue-base, the flavour-base, the body-base, the tangible-base, the mind-base, the mind-object base.
+\end{english-hangtogether-verses}
 \end{english-verses}
 
 \suttaRef{[MN 148]}
 
 \begin{pali-hang-continued}
-  Aṭṭhārasa dhātuyo: cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu sota-dhātu sadda-dhātu sota-viññāṇa-dhātu ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
+  Aṭṭhārasa dhātuyo:
+  \begin{pali-hangtogether}
+  Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu sota-dhātu sadda-dhātu sota-viññāṇa-dhātu ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
+  \end{pali-hangtogether}
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Eighteen elements: The eye element, the form element, the eye-consciousness element; The ear element, the sound element, the ear-consciousness element; The nose element, the odour element, the nose-consciousness element; The tongue element, the flavour element, the tongue-consciousness element; The body element, the tangible element, the body-consciousness element; The mind element, the mind-object element, the mind-consciousness element.
+  Eighteen elements:
+\begin{english-hangtogether-verses}
+  The eye element, the form element, the eye-consciousness element; The ear element, the sound element, the ear-consciousness element; The nose element, the odour element, the nose-consciousness element; The tongue element, the flavour element, the tongue-consciousness element; The body element, the tangible element, the body-consciousness element; The mind element, the mind-object element, the mind-consciousness element.
+\end{english-hangtogether-verses}
 \end{english-verses}
 
 \suttaRef{[MN 115]}
 
 \begin{pali-hang-continued}
   Bā-vīsat'indriyāni:\hyperlink{endnote131-appendix}{\hypertarget{endnote131-body}{\pagenote{%
-        \hypertarget{endnote131-appendix}{\hyperlink{endnote131-body}{While these faculties are mentioned as a set of 22 only in the Abhi. Vibh., all of them are also found within the discourses.}}}}} cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ-ñassāmīt'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
+        \hypertarget{endnote131-appendix}{\hyperlink{endnote131-body}{While these faculties are mentioned as a set of 22 only in the Abhi. Vibh., all of them are also found within the discourses.}}}}}
+  \begin{pali-hangtogether}
+  Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ-ñassāmīt'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
+  \end{pali-hangtogether}
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Twenty-two faculties: The eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mind faculty, faculty of feminity, faculty of masculinity, life faculty, pleasure faculty, pain faculty, happiness faculty, displeasure faculty, equanimity faculty, conviction faculty, energy faculty, mindfulness faculty, concentration faculty, wisdom faculty, the `I am knowing the unknown'faculty, knowledge faculty, the faculty of one with complete knowledge.
+  Twenty-two faculties:
+\begin{english-hangtogether-verses}
+  The eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mind faculty, faculty of feminity, faculty of masculinity, life faculty, pleasure faculty, pain faculty, happiness faculty, displeasure faculty, equanimity faculty, conviction faculty, energy faculty, mindfulness faculty, concentration faculty, wisdom faculty, the `I am knowing the unknown'faculty, knowledge faculty, the faculty of one with complete knowledge.
+\end{english-hangtogether-verses}
 \end{english-verses}
 
 \suttaRef{[Vibh]}
@@ -11319,11 +11415,11 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  The four noble truths:\\
-  The noble truth of dukkha\\
-  The noble truth of the origin of dukkha\\
-  The noble truth of the cessation of dukkha\\
-  The noble truth of the way leading to the cessation of dukkhā
+  Four noble truths:\\
+  The noble truth of dukkha;\\
+  The noble truth of the origin of dukkha;\\
+  The noble truth of the cessation of dukkha;\\
+  The noble truth of the way leading to the cessation of dukkhā.
 \end{english-verses}
 
 \suttaRef{[SN 56.24]}
@@ -11339,26 +11435,11 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
   Taṇhā-paccayā upādānaṁ\\
   Upādāna-paccayā bhavo\\
   Bhava-paccayā jāti\\
-  Jāti-paccayā jarā-maraṇaṁ soka-parideva-dukkha-domanass'upāyāsā sambhavanti\\
-  Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti
-\end{pali-hang-continued}
-
-\begin{pali-hang-continued}
-  Avijjāya tv-eva asesa-virāga-nirodhā saṅkhāra-nirodho\\
-  Saṅkhāra-nirodhā viññāṇa-nirodho\\
-  Viññāṇa-nirodhā nāma-rūpa-nirodho\\
-  Nāma-rūpa-nirodhā saḷāyatana-nirodho\\
-  Saḷāyatana-nirodhā phassa-nirodho\\
-  Phassa-nirodhā vedanā-nirodho\\
-  Vedanā-nirodhā taṇhā-nirodho\\
-  Taṇhā-nirodhā upādāna-nirodho\\
-  Upādāna-nirodhā bhava-nirodho\\
-  Bhava-nirodhā jāti-nirodho
   \begin{pali-hangtogether}
-    Jāti-nirodhā jarā-maraṇaṁ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti
+  Jāti-paccayā jarā-maraṇaṁ soka-parideva-dukkha-domanass'upāyāsā sambhavanti
   \end{pali-hangtogether}
   \begin{pali-hangtogether}
-    Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti
+  Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti
   \end{pali-hangtogether}
 \end{pali-hang-continued}
 
@@ -11380,6 +11461,25 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
     Such is the origin of this whole mass of suffering.
   \end{english-hangtogether-verses}
 \end{english-verses}
+
+\begin{pali-hang-continued}
+  Avijjāya tv-eva asesa-virāga-nirodhā saṅkhāra-nirodho\\
+  Saṅkhāra-nirodhā viññāṇa-nirodho\\
+  Viññāṇa-nirodhā nāma-rūpa-nirodho\\
+  Nāma-rūpa-nirodhā saḷāyatana-nirodho\\
+  Saḷāyatana-nirodhā phassa-nirodho\\
+  Phassa-nirodhā vedanā-nirodho\\
+  Vedanā-nirodhā taṇhā-nirodho\\
+  Taṇhā-nirodhā upādāna-nirodho\\
+  Upādāna-nirodhā bhava-nirodho\\
+  Bhava-nirodhā jāti-nirodho
+  \begin{pali-hangtogether}
+    Jāti-nirodhā jarā-maraṇaṁ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti
+  \end{pali-hangtogether}
+  \begin{pali-hangtogether}
+    Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti
+  \end{pali-hangtogether}
+\end{pali-hang-continued}
 
 \begin{english-verses}
   \begin{english-hang-firstline}
@@ -11431,15 +11531,19 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Paṭṭhāna-mātikā-pāṭho}
 \label{patthana-matika-patho}
 
-\vspace{-0.8em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Hetu-paccayo \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Hetu-paccayo \hspace{-0.5mm}\anglebracketright\ ārammaṇa-paccayo adhipati-paccayo anantara-paccayo samanantara-paccayo saha-jāta-paccayo aññam-añña-paccayo nissaya-paccayo upanissaya-paccayo pure-jāta-paccayo pacchā-jāta-paccayo āsevana-paccayo kamma-paccayo vipāka-paccayo āhāra-paccayo indriya-paccayo jhāna-paccayo magga-paccayo sampayutta-paccayo vippayutta-paccayo atthi-paccayo n'atthi-paccayo vigata-paccayo avigata-paccayo
+   Ārammaṇa-paccayo adhipati-paccayo anantara-paccayo samanantara-paccayo saha-jāta-paccayo aññam-añña-paccayo nissaya-paccayo upanissaya-paccayo pure-jāta-paccayo pacchā-jāta-paccayo āsevana-paccayo kamma-paccayo vipāka-paccayo āhāra-paccayo indriya-paccayo jhāna-paccayo magga-paccayo sampayutta-paccayo vippayutta-paccayo atthi-paccayo n'atthi-paccayo vigata-paccayo avigata-paccayo
 \end{pali-hang}
 
-\begin{english-verses}
+\begin{english-hang-verses}
   Root condition, sense-object condition, predominant condition, immediate condition, directly immediate condition, coexistent condition, reciprocity condition, dependence condition, sufficing condition, pre-existent condition, post-existent condition, repetition condition, action condition, result condition, nutriment condition, faculty condition, jhāna condition, path condition, associated condition, separated condition, existence condition, non-existence condition, disappeared condition, non-dissappeared condition.
-\end{english-verses}
+\end{english-hang-verses}
 
 \suttaRef{[Dhs A]}
 
@@ -11451,10 +11555,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Adāsi-me ādi gāthā}
 \label{adasi-me-adi-gatha}
 
-\vspace{-0.8em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Adāsi me akāsi me \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Adāsi me akāsi me \hspace{-0.5mm}\anglebracketright\ \\
   Ñāti-mittā sakhā ca me\\
   Petānaṁ dakkhiṇaṁ dajjā\\
   Pubbe katam-anussaraṁ
@@ -11519,10 +11626,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Paṁsu-kūla for the Dead}
 \label{pamsu-kula-dead}
 
-\vspace{-0.8em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Aniccā vata saṅkhārā \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Aniccā vata saṅkhārā \hspace{-0.5mm}\anglebracketright\ \\
   Uppāda-vaya-dhammino\\
   Uppajjitvā nirujjhanti\\
   Tesaṁ vūpasamo sukho \hfill{[3x]}
@@ -11538,9 +11648,14 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 
 \suttaRef{[DN 16]}
 
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Sabbe sattā \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 \begin{pali-hang-continued}
-  \anglebracketleft\ \hspace{-0.5mm}Sabbe sattā \hspace{-0.5mm}\anglebracketright\ maranti ca\\
-  Mariṁsu ca marissare\\
+  Maranti ca mariṁsu ca marissare\\
   Tath'evāhaṁ marissāmi\\
   N'atthi me ettha saṁsayo \hfill{[3x]}
 \end{pali-hang-continued}
@@ -11562,10 +11677,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Paṁsu-kūla for the Living}
 \label{pamsu-kula-living}
 
-\vspace{-0.6em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Aciraṁ vat'ayaṁ kāyo \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Aciraṁ vat'ayaṁ kāyo \hspace{-0.5mm}\anglebracketright\ \\
   Paṭhaviṁ adhisessati\\
   Chuḍḍho apeta-viññāṇo\\
   Niratthaṁ va kaliṅgaraṁ \hfill{[3x]}
@@ -11588,10 +11706,13 @@ Saṅgha-payirupāsana-kālo ayam-bhadantā\hyperlink{endnote126-appendix}{\hype
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu}
 
-\vspace{-0.8em}
+\begin{leader-only}
+  \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\ \\
   Rakkhantu sabba-devatā\\
   Sabba-buddhānubhāvena\\
   Sadā sotthī bhavantu te
@@ -11814,7 +11935,12 @@ Khemappadañ-ca pappontu tesāsā sijjhataṁ subhā
 \section{Sharing of Merits with the Departed}
 \label{sharing-merits-departed}
 
-\anglebracketleft\ \hspace{-0.5mm}Idaṁ me ñātinaṁ hotu \hspace{-0.5mm}\anglebracketright\ sukhitā hontu ñātayo\\
+\begin{leader-only}
+\anglebracketleft\ \hspace{-0.5mm}Idaṁ me ñātinaṁ hotu \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
+
+\vspace{-1.0em}
+Sukhitā hontu ñātayo\\
 Idaṁ no ñātinaṁ hotu sukhitā hontu ñātayo\\
 Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 
@@ -11837,7 +11963,12 @@ Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 \section{Sharing of Merits with the Devas}
 \label{sharing-merits-devas}
 
+\begin{leader-only}
 \anglebracketleft\ \hspace{-0.5mm}Ettāvatā ca amhehi \hspace{-0.5mm}\anglebracketright\ \\
+\end{leader-only}
+
+\vspace{-1.0em}
+
 Sambhataṁ puñña-sampadaṁ\\
 Sabbe devā anumodantu\\
 Sabba-sampatti-siddhiyā
@@ -12083,7 +12214,9 @@ Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
   For the third time, to the Saṅgha I go for refuge.
 \end{english-verses}
 
+\begin{leader-only}
 \anglebracketleft\ \hspace{-0.5mm}Tisaraṇa-gamanaṁ niṭṭhitaṁ \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
 
 \begin{english}
   This completes the going to the Three Refuges.
@@ -12094,10 +12227,6 @@ Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
 \begin{english}
   Yes, Venerable Sir.
 \end{english}
-
-\begin{center}
-(Bow three times)
-\end{center}
 
 \clearpage
 
@@ -12141,7 +12270,7 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{english}
 
 \begin{pali-hang}
-  Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
+  Surāmeraya-majjappamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{pali-hang}
 
 \begin{english-hang}
@@ -12150,7 +12279,10 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
         \hypertarget{endnote140-appendix}{\hyperlink{endnote140-body}{Orig: “drugs which lead to carelessness”}}}}}
 \end{english-hang}
 
+
+\begin{leader-only}
 \anglebracketleft\ \hspace{-0.5mm}Appamādena sampādetha \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
 
 \begin{english}
   Perfect yourselves not being negligent.
@@ -12159,11 +12291,11 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
 Sādhu sādhu sādhu
 
 \begin{english}
-  Well done, well cone, well done.
+  Well done, well done, well done.
 \end{english}
 
 \begin{center}
-(Bow three times)
+  (Bow 3x)
 \end{center}
 
 \clearpage
@@ -12243,9 +12375,9 @@ Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}
   I undertake these Eight Trainings.
 \end{english}
 
-\begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye \hspace{-0.5mm}\anglebracketright\
-\end{pali-hang}
+\begin{leader-only}
+\anglebracketleft\ \hspace{-0.5mm}Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye \hspace{-0.5mm}\anglebracketright\
+\end{leader-only}
 
 \begin{english-verses}
   These Eight Trainings\\
@@ -12263,7 +12395,7 @@ Sādhu sādhu sādhu
 \end{english}
 
 \begin{center}
-(Bow three times)
+  (Bow 3x)
 \end{center}
 
 \clearpage
@@ -12277,28 +12409,28 @@ Sādhu sādhu sādhu
 \label{phonetics}
 
 \begin{table}[ht]
-    \centering
-    \resizebox{\textwidth}{!}{%
+  \centering
+  \resizebox{\textwidth}{!}{%
     \begin{tblr}{
-            colspec={l *{11}{c}},
-            hlines, vlines,
-            row{1-5}={font=\small},
-        }
-        \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
-        & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
-        & \SetCell[c=5]{c} Stops &&&&
-        & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
-        & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
-        & \SetCell[r=3]{c} \rotcell{Short}
-        & \SetCell[r=3]{c} \rotcell{Long}
-        & \SetCell[r=3]{c} \rotcell{Compound} & \\
-        & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
-        & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
-        Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
-        Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
-        Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & m \\
-        Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
-        Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
+        colspec={l *{11}{c}},
+        hlines, vlines,
+        row{1-5}={font=\small},
+      }
+      \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
+      & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
+      & \SetCell[c=5]{c} Stops &&&&
+      & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
+      & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
+      & \SetCell[r=3]{c} \rotcell{Short}
+      & \SetCell[r=3]{c} \rotcell{Long}
+      & \SetCell[r=3]{c} \rotcell{Compound} & \\
+      & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
+      & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
+      Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
+      Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
+      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & m \\
+      Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
+      Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
     \end{tblr}}
 \end{table}
 
@@ -12310,29 +12442,35 @@ Sādhu sādhu sādhu
 
 \medskip
 
-% Works but there must be a way to split both boxes evenly
-\textbf{Vowels} are of two types:\\
-\begin{minipage}{.55\textwidth}
-  \begin{tabular}{@{} ll @{}}
-    \textbf{Short} & \textbf{Long}\\
+\begin{center}
+\textbf{\textsc{Vowels}}
+\end{center}
+
+\begin{table}[H]
+  \centering
+ \addtolength{\tabcolsep}{14pt}
+  \begin{tabular}{@{}c c@{}}
+    \prul{Short} & \prul{Long}\\
     \textbf{a} as in magm\prul{a} & \textbf{ā} as in f\prul{a}ther\\
-    \textbf{i} as in ill          & \textbf{ī} as in l\prul{i}ter\\
-    \textbf{u} as in p\prul{u}t   & \textbf{ū} as in r\prul{u}le\\
-                   & \textbf{e} as in Santa F\prul{e}\\
-                   & \textbf{o} as in f\prul{o}r\\
+    \textbf{i} as in \prul{i}ll   & \textbf{ī} as in l\prul{i}ter\\
+    \textbf{u} as in p\prul{u}t   & \textbf{ū} as in h\prul{u}la hoop\\
+                                  & \textbf{e} as in Santa F\prul{e}\\
+                                  & \textbf{o} as in f\prul{o}r
   \end{tabular}
-\end{minipage}% This must go next to `\begin{minipage}`
-\begin{minipage}{.453\textwidth}
-  \vspace{-1.4cm}
-  Exceptions: \textbf{e} and \textbf{o} change to short sounds in syllables ending in double consonants. They are then pronounced as in ``p\textbf{e}t'' and ``s\textbf{o}ft'' respectively (eg. sotthi).
-\end{minipage}
+\end{table}
+
+\clearpage
 
 \begin{justify}
-  Long \textbf{vowels} have the sound indicated above but are held for twice the length. The vowels \textbf{e} and \textbf{o} are similiar to German language... Bhante fill in more here.
+  Long vowels are pronounced as above, but are held for twice the length of their short counterparts. By default \textbf{e} and \textbf{o} are long vowels, but they become short if followed by double consonants e.g. \textit{mettā}, \textit{sotthi}. In such a case they are pronounced short as in "pet" and "soft" respectively.
 \end{justify}
 
 \begin{justify}
-  \textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. `jivhā'or `taṇhā').  Examples: \textbf{th} as in "Thomas" (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
+  Contrary to English language, Pāli does not contain diphthongs i.e. a combination of two vowels in a single syllable, in which the sound begins as one vowel and moves towards another (as in coin, loud, and side). Pāli vowels therefore sound more similar to the vowels \textbf{a}, \textbf{e}, \textbf{i}, \textbf{o}, \textbf{u} of e.g. German language.
+\end{justify}
+
+\begin{justify}
+  \textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. `jivhā'or `taṇhā').  Examples: \textbf{th} as in "Thomas" (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
 \end{justify}
 
 \begin{justify}
@@ -12340,8 +12478,10 @@ Sādhu sādhu sādhu
   These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the palate.
 \end{justify}
 
+\clearpage
+
+\subsection*{Miscellaneous}
 \begin{justify}
-  \textbf{\textsc{Miscellaneous}}\\
   The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'' is pronounced as in ``ca\textbf{ny}on''; the pure nasal ``\textbf{ṁ}'' and voiced nasal ``\textbf{ṅ}'' are pronounced as in ``su\textbf{ng}''.
 \end{justify}
 
@@ -12350,7 +12490,7 @@ Sādhu sādhu sādhu
 \end{justify}
 
 \begin{justify}
-  Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously as within one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli paritta and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\, before the rest of the group joins in.
+  Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously as within one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
 \end{justify}
 
 \clearpage
@@ -12366,19 +12506,17 @@ Sādhu sādhu sādhu
   It is both a great honour and also a great responsibility to lead a group of fellow Dhamma practitioners through Dhamma recitations. These guidelines provide tips that can help facilitate a smooth and enjoyable experience for the group of participants, as well as for the chanting leader himself.
 \end{justify}
 
-To bring value to the community, the following points should be considered:
+The following points should be considered:
 
 \begin{itemize}
   \item Accurate Pāli Pronunciation
   \item Sufficient Audibility and Volume
   \item Determining a Suitable Tempo
   \item Tempo Consistency
-  \item Determining a Suitable Tempo
+  \item Determining a Suitable Pitch
   \item Pitch Consistency
   \item Continuity
 \end{itemize}
-
-Here some notes on why and how to accomplish above objectives:\\
 
 \subsection*{Accurate Pāli Pronunciation}
 \begin{justify}
@@ -12392,19 +12530,19 @@ Here some notes on why and how to accomplish above objectives:\\
 
 \subsection*{Determining a Suitable Tempo}
 \begin{justify}
-  Everyone has a preferred speed at which one finds it pleasant to recite. It is helpful for the chanting leader to choose a speed that allows him to maintain a clear pronunciation of Pāli terms. Even if one is able to chant accurately at high speed, it would be very difficult for newcomers and those who are not familiar with Pāli, to follow along. Pāli is not our mother tongue, and fluent reading requires a lot of skill and practice. It is therefore important when chanting with others, to choose a speed that they can follow along comfortably, without causing them to feel stressed by the end of the chant, as if having participated in a rap battle. Choosing a more meditative pace also allows the mind to process the Dhamma while reciting it; a task that is not easy for beginners. Nonethless, slowing down helps greatly to allow for reflections and insights to arise during Dhamma recitation. At the same time, if the pace is too slow, some individuals may feel bored, or even fall asleep. Again, the right speed usually lies somewhere between the extremes. Private recitation in one's kuṭi or walking path, undertaken for the sake of maintaining chants in memory by rehearsing them from time to time, is usually done much faster than how one would recite with a group. This allows one to rehearse large amounts of texts in short time, which is useful when wanting to maintain a large body of chants in memory. In contrast, group rezitation should follow a more moderate pace, to fulfill the earlier mentioned objectives.
+  Everyone has a preferred tempo at which one finds it pleasant to recite. It is helpful for the chanting leader to choose a tempo that allows him to maintain a clear pronunciation of Pāli terms. Even if one is able to chant accurately at high speed, it would be very difficult for newcomers and those who are not familiar with Pāli, to follow along. Pāli is not our mother tongue, and fluent reading requires a lot of skill and practice. It is therefore important when chanting with others, to choose a tempo that they can follow along comfortably, without causing them to feel stressed by the end of the chant, as if having participated in a rap battle. Choosing a more meditative pace also allows the mind to process the Dhamma while reciting it; a task that is not easy for beginners. Nonethless, slowing down helps greatly to allow for reflections and insights to arise during Dhamma recitation. At the same time, if the pace is too slow, some individuals may feel bored, or even fall asleep. Again, the right tempo usually lies somewhere between the extremes. Private recitation in one's kuṭi or walking path, undertaken for the sake of maintaining chants in memory by rehearsing them from time to time, is usually done much faster than how one would recite with a group. This allows one to rehearse large amounts of texts in short time, which is useful when wanting to maintain a large body of chants in memory. In contrast, group recitation should follow a more moderate pace, to fulfill the earlier mentioned objectives.
 
-  A regular chanting leader may ask for feedback from others, whether they find his chanting speed comfortable to chant along with, or whether they find it too fast or slow. The experience of newcomers should find special consideration.
+  A regular chanting leader may ask for feedback from others, whether they find his chanting tempo comfortable to chant along with, or whether they find it too fast or slow. The experience of newcomers should find special consideration.
 \end{justify}
 
 \subsection*{Tempo Consistency}
 \begin{justify}
-  Once a suitable speed has been chosen to start one's recitation (see previous point), it may be challenging to maintain the chosen speed throughout the chant, or even throughout the entire chanting session. For most individuals there is a natural tendency to speed up as time goes by. It is the chanting leader's task to prevent that from happening, unless he finds out that the speed he has chosen at the beginning of the chant is too fast or slow for himself and/or others. The ideal time for speed adjustments is between two chants; not during a chant. The introduction line e.g. ``Handa mayaṁ...'', or ``Evaṁ me sutaṁ'' can be used as an indicator for how fast or slow the chanting leader wants to recite, whereas the rest of the group shall follow whatever speed the chanting leader has chosen. If another group member, especially one with a strong and predominant voice has a tendency to change speed midway, or lengthen/shorten/skip syllables due to inaccurate Pāli pronunciation, the chanting leader must not follow his lead. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request if he would be willing to chant more softly, so that other group members can more accurately and easily follow the chanting leader's lead.
+  Once a suitable tempo has been chosen to start one's recitation (see previous point), it may be challenging to maintain the chosen tempo throughout the chant, or even throughout the entire chanting session. For most individuals there is a natural tendency to tempo up as time goes by. It is the chanting leader's task to prevent that from happening, unless he finds out that the speed he has chosen at the beginning of the chant is too fast or slow for himself and/or others. The ideal time for tempo adjustments is between two chants; not during a chant. The introduction line e.g. ``Handa mayaṁ...'', or ``Evaṁ me sutaṁ'' can be used as an indicator for how fast or slow the chanting leader wants to recite, whereas the rest of the group shall follow whatever tempo the chanting leader has chosen. If another group member, especially one with a strong and predominant voice has a tendency to change tempo midway, or lengthen/shorten/skip syllables due to inaccurate Pāli pronunciation, the chanting leader must not follow his lead. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request if he would be willing to chant more softly, so that other group members can more accurately and easily follow the chanting leader's lead.
 \end{justify}
 
 \subsection*{Determining a Suitable Pitch}
 \begin{justify}
-  Much of what has been stated in the chapters about chanting speed, applies equally to one's chanting pitch. Everyone has his own preferred pitch, at which his voice sounds most natural and requires the least effort to produce sound. It is helpful for the chanting leader to choose a pitch that is not too far from his natural pitch; otherwise it can become very exhausting, especially when recitation continues for longer periods. However, a certain degree of adjustment may be necessary on the part of the chanting leader, if his natural pitch happens to be far outside the average person's range. Whether it is very high or very low, it can be difficult for others to tune in to, if the chanting leader's pitch is very different from their own. A regular chanting leader can learn by asking for feedback from others, as to whether they find his pitch comfortable to chant along with, or whether they find it too high or too low. If it turns out that many people point out they find his pitch to be very high or low, he may deliberately adjust his pitch, while still remaining within his own comfort zone. Listening to a reference note before starting to recite, may be helpful for the chanting leader to hit the right pitch every time. A musical ear too can help, but this is very difficult to train; some even claim it's impossible to develop. Someone who aspires to polish his skills in this area and would like to learn one or two tricks for how to find his own comfortable pitch every time he starts to lead a chant, can privately approach me for some guidance.
+  Much of what has been stated in the chapters about chanting tempo, applies equally to one's chanting pitch. Everyone has his own preferred pitch, at which his voice sounds most natural and requires the least effort to produce sound. It is helpful for the chanting leader to choose a pitch that is not too far from his natural pitch; otherwise it can become very exhausting, especially when recitation continues for longer periods. However, a certain degree of adjustment may be necessary on the part of the chanting leader, if his natural pitch happens to be far outside the average person's range. Whether it is very high or very low, it can be difficult for others to tune in to, if the chanting leader's pitch is very different from their own. A regular chanting leader can learn by asking for feedback from others, as to whether they find his pitch comfortable to chant along with, or whether they find it too high or too low. If it turns out that many people point out they find his pitch to be very high or low, he may deliberately adjust his pitch, while still remaining within his own comfort zone. Listening to a reference note before starting to recite, may be helpful for the chanting leader to hit the right pitch every time. A musical ear too can help, but this is very difficult to train; some even claim it's impossible to develop. Someone who aspires to polish his skills in this area and would like to learn one or two tricks for how to find his own comfortable pitch every time he starts to lead a chant, can privately approach me for some guidance.
 \end{justify}
 
 \subsection*{Pitch Consistency}
@@ -12419,11 +12557,11 @@ Here some notes on why and how to accomplish above objectives:\\
 
 \subsection*{Summary}
 \begin{justify}
-  The above points and principles are meant to function as a guideline for aspiring chanting leaders to make their own experience as smooth as possible, without having to be stressed or insecure about making mistakes. Moreover, the rest of the group benefit from well-trained chanting leaders, who give their fellow Saṅgha members a sense of ease and comfort while reciting the words of the Buddha, allowing them to reflect on the meaning along the way. After all, recitation of the Dhamma is one of the gateways to liberation (AN 5.209).
+  The above points and principles are meant to function as a guideline for aspiring chanting leaders to make their own experience as smooth as possible, without having to be stressed or insecure about making mistakes. Moreover, the rest of the group benefits from well-trained chanting leaders, who give their fellow Saṅgha members a sense of ease and comfort while reciting the words of the Buddha, allowing them to reflect on the meaning along the way. After all, recitation of the Dhamma is one of the gateways to liberation (AN 5.209).
 \end{justify}
 
 \begin{justify}
-  Thanks to all Saṅgha members who are willing to share this meaningful task among themselves, by taking turns as chanting leaders.
+  Thanks to all Saṅgha members who are willing to share this responsibility, by taking turns as chanting leaders.
 \end{justify}
 
 #+end_src

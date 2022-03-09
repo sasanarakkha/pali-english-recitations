@@ -2,28 +2,28 @@
 \label{phonetics}
 
 \begin{table}[ht]
-    \centering
-    \resizebox{\textwidth}{!}{%
+  \centering
+  \resizebox{\textwidth}{!}{%
     \begin{tblr}{
-            colspec={l *{11}{c}},
-            hlines, vlines,
-            row{1-5}={font=\small},
-        }
-        \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
-        & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
-        & \SetCell[c=5]{c} Stops &&&&
-        & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
-        & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
-        & \SetCell[r=3]{c} \rotcell{Short}
-        & \SetCell[r=3]{c} \rotcell{Long}
-        & \SetCell[r=3]{c} \rotcell{Compound} & \\
-        & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
-        & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
-        Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
-        Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
-        Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & m \\
-        Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
-        Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
+        colspec={l *{11}{c}},
+        hlines, vlines,
+        row{1-5}={font=\small},
+      }
+      \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
+      & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
+      & \SetCell[c=5]{c} Stops &&&&
+      & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
+      & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
+      & \SetCell[r=3]{c} \rotcell{Short}
+      & \SetCell[r=3]{c} \rotcell{Long}
+      & \SetCell[r=3]{c} \rotcell{Compound} & \\
+      & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
+      & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
+      Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
+      Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
+      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & m \\
+      Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
+      Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
     \end{tblr}}
 \end{table}
 
@@ -35,29 +35,35 @@
 
 \medskip
 
-% Works but there must be a way to split both boxes evenly
-\textbf{Vowels} are of two types:\\
-\begin{minipage}{.55\textwidth}
-  \begin{tabular}{@{} ll @{}}
-    \textbf{Short} & \textbf{Long}\\
+\begin{center}
+\textbf{\textsc{Vowels}}
+\end{center}
+
+\begin{table}[H]
+  \centering
+ \addtolength{\tabcolsep}{14pt}
+  \begin{tabular}{@{}c c@{}}
+    \prul{Short} & \prul{Long}\\
     \textbf{a} as in magm\prul{a} & \textbf{ā} as in f\prul{a}ther\\
-    \textbf{i} as in ill          & \textbf{ī} as in l\prul{i}ter\\
-    \textbf{u} as in p\prul{u}t   & \textbf{ū} as in r\prul{u}le\\
-                   & \textbf{e} as in Santa F\prul{e}\\
-                   & \textbf{o} as in f\prul{o}r\\
+    \textbf{i} as in \prul{i}ll   & \textbf{ī} as in l\prul{i}ter\\
+    \textbf{u} as in p\prul{u}t   & \textbf{ū} as in h\prul{u}la hoop\\
+                                  & \textbf{e} as in Santa F\prul{e}\\
+                                  & \textbf{o} as in f\prul{o}r
   \end{tabular}
-\end{minipage}% This must go next to `\begin{minipage}`
-\begin{minipage}{.453\textwidth}
-  \vspace{-1.4cm}
-  Exceptions: \textbf{e} and \textbf{o} change to short sounds in syllables ending in double consonants. They are then pronounced as in ``p\textbf{e}t'' and ``s\textbf{o}ft'' respectively (eg. sotthi).
-\end{minipage}
+\end{table}
+
+\clearpage
 
 \begin{justify}
-  Long \textbf{vowels} have the sound indicated above but are held for twice the length. The vowels \textbf{e} and \textbf{o} are similiar to German language... Bhante fill in more here.
+  Long vowels are pronounced as above, but are held for twice the length of their short counterparts. By default \textbf{e} and \textbf{o} are long vowels, but they become short if followed by double consonants e.g. \textit{mettā}, \textit{sotthi}. In such a case they are pronounced short as in "pet" and "soft" respectively.
 \end{justify}
 
 \begin{justify}
-  \textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. `jivhā'or `taṇhā').  Examples: \textbf{th} as in "Thomas" (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
+  Contrary to English language, Pāli does not contain diphthongs i.e. a combination of two vowels in a single syllable, in which the sound begins as one vowel and moves towards another (as in coin, loud, and side). Pāli vowels therefore sound more similar to the vowels \textbf{a}, \textbf{e}, \textbf{i}, \textbf{o}, \textbf{u} of e.g. German language.
+\end{justify}
+
+\begin{justify}
+  \textbf{Consonants} are mostly as one would expect, with a few additional rules: Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. `jivhā'or `taṇhā').  Examples: \textbf{th} as in "Thomas" (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
 \end{justify}
 
 \begin{justify}
@@ -65,8 +71,10 @@
   These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the palate.
 \end{justify}
 
+\clearpage
+
+\subsection*{Miscellaneous}
 \begin{justify}
-  \textbf{\textsc{Miscellaneous}}\\
   The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'' is pronounced as in ``ca\textbf{ny}on''; the pure nasal ``\textbf{ṁ}'' and voiced nasal ``\textbf{ṅ}'' are pronounced as in ``su\textbf{ng}''.
 \end{justify}
 
@@ -75,7 +83,7 @@
 \end{justify}
 
 \begin{justify}
-  Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously as within one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli paritta and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\, before the rest of the group joins in.
+  Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously as within one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
 \end{justify}
 
 \clearpage
