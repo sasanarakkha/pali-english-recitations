@@ -426,7 +426,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
-\chapterOpeningPage{morning-chanting.pdf}
+\chapterOpeningPage{homage-to-the-triple-gem.jpg}
 
 \chapter{Homage to the Triple Gem}
 
@@ -1321,17 +1321,19 @@ Saṅghaṁ namāmi
 \null
 \vfill
 
+\ifdesktopversion
 \begin{minipage}[b][25pt][c]{\linewidth}
   \begin{leader}
     \textbf{\vspace{0.2em}\textsc{\hyperref[schedule]{Schedule}\\
         % \rule{\linewidth}{0.8pt}
-        {\centering\pgfornament[width=4cm]{88}}\\
+        {\centering\pgfornament[color=sbs-brown,width=4cm]{88}}\\
         \vspace{0.8em}
         \hyperref[buddhas-first-exclamation]{Set 1} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[characteristic-of-not-self]{Set 2} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[noble-eightfold-path]{Set 3} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[dedication-of-offerings]{Set 4} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[mindfulness-of-breathing]{Set 5}\\
         \vspace{0.5em}
         \hyperref[anatta-lakkhana]{Set 6} — \hyperref[dependent-origination]{Set 7} — \hyperref[aditta-pariyaya]{Set 8} — \hyperref[deva-aradhana]{Set 9} — \hyperref[pubba-bhaga-nama-kara-patho]{Set 10}}}
   \end{leader}
 \end{minipage}
+\fi
 
 #+end_src
 
@@ -1339,7 +1341,7 @@ Saṅghaṁ namāmi
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
 
-\chapterOpeningPage{verses.pdf}
+\chapterOpeningPage{verses.jpg}
 
 \chapter{Verses}
 
@@ -2660,7 +2662,7 @@ Etaṁ buddhāna sāsanaṁ
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
 
-\chapterOpeningPage{teachings.pdf}
+\chapterOpeningPage{teachings.jpg}
 
 \chapter{Teachings}
 
@@ -3374,7 +3376,6 @@ N'atthidāni punabbhavo'ti
 ** Anupubba-sikkhā
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
 
-\sectionPaliTitle{Satta-sambojjhaṅgā}
 \section{Anupubba-sikkhā}
 
 \begin{leader}
@@ -6643,7 +6644,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
 
-\chapterOpeningPage{reflections.pdf}
+\chapterOpeningPage{reflections.jpg}
 
 \chapter{Reflections}
 
@@ -7500,7 +7501,7 @@ Tesaṁ vūpasamo sukho
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas.tex
 
-\chapterOpeningPage{cardinal-suttas.pdf}
+\chapterOpeningPage{cardinal-suttas.jpg}
 
 \chapter{Cardinal Suttas}
 
@@ -7972,7 +7973,7 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\vspace{-0.99em}
+\vspace{-0.99em} % TODO too close
 
 \begin{pali-hang}
   Rūpaṁ niccaṁ vā aniccaṁ vāti? Aniccaṁ bhante.
@@ -8094,7 +8095,7 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}Tasmātiha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\vspace{-0.99em}
+\vspace{-0.99em} % TODO too close
 
 \begin{pali-hang}
   Yaṅkiñci rūpaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
@@ -8120,7 +8121,7 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\vspace{-0.99em}
+\vspace{-0.99em} % TODO too close
 
 \begin{pali-hang}
   Sutvā ariyasāvako rūpasmim-pi nibbindati \breathmark\ vedanāya-pi nibbindati \breathmark\ saññāya-pi nibbindati \breathmark\ saṅkhāresu-pi nibbindati \breathmark\ viññāṇasmim-pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā vimuccati \breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā''ti pajānātī'ti.
@@ -8199,7 +8200,7 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus what do you think:} \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\vspace{-0.99em}
+\vspace{-0.99em} % TODO too close
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
@@ -8270,6 +8271,8 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}\textit{Therefore bhikkhus} \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
+\vspace{-0.99em} % TODO too close
+
 \begin{english-only-hang}
   Any kind of form whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
 \end{english-only-hang}
@@ -8295,7 +8298,7 @@ Atha kho bhagavā udānaṁ udānesi:
         \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}} \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\vspace{-0.99em}
+\vspace{-0.99em} % TODO too close
 
 \begin{english-only-hang}
   Who has heard the teaching\hyperlink{endnote111-appendix}{\hypertarget{endnote111-body}{\pagenote{%
@@ -8409,7 +8412,7 @@ Kena ādittaṁ?
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\vspace{-0.99em}
+\vspace{-0.99em} % TODO too close
 
 \begin{pali-hang}
   Sutvā ariyasāvako cakkhusmimpi nibbindati \breathmark\ rūpesu pi nibbindati \breathmark\ cakkhuviññāṇe pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
@@ -8576,7 +8579,7 @@ Kena ādittaṁ?
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple} \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\vspace{-0.99em}
+\vspace{-0.99em} % TODO too close
 
 \begin{english-only-hang}
   Who has heard the teaching sees \mbox{thus}~\breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted.
@@ -8623,7 +8626,7 @@ Kena ādittaṁ?
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
 
-\chapterOpeningPage{anumodana.pdf}
+\chapterOpeningPage{thanksgiving-recitations.jpg}
 
 \chapter{Thanksgiving Recitations}
 
@@ -9264,7 +9267,7 @@ Sadā sotthī bhavantu te
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 
-\chapterOpeningPage{paritta.pdf}
+\chapterOpeningPage{protective-recitations.jpg}
 
 \chapter{Protective Recitations}
 
@@ -11043,7 +11046,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 
-\chapterOpeningPage{funeral-recitations.pdf}
+\chapterOpeningPage{funeral-recitations.jpg}
 
 \chapter{Funeral Recitations}
 
@@ -11781,7 +11784,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
 
-\chapterOpeningPage{sharing-of-merits.pdf}
+\chapterOpeningPage{sharing-of-merits.jpg}
 
 \chapter{Sharing of Merits}
 
@@ -12170,7 +12173,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/appendix.tex
 
-\chapterOpeningPage{appendix.pdf}
+\chapterOpeningPage{appendix.jpg}
 
 \addtocontents{toc}{\protect\pagebreak}
 \chapter{Appendix}

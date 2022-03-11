@@ -302,10 +302,10 @@
 % Colors: in the desktop version, use colored link text
 \hypersetup{
   colorlinks=true,
-  linkcolor=link,
-  citecolor=link,
-  filecolor=link,
-  urlcolor=link,
+  linkcolor=sbs-brown,
+  citecolor=sbs-brown,
+  filecolor=sbs-brown,
+  urlcolor=sbs-brown,
 }
 \else
 % Colors: in the print version, set link colors to text color, so that it doesn't interfere with printing
@@ -862,17 +862,19 @@ philo-sophical munindo amaravati thai-land}
 %   \end{minipage}%
 % }
 
- \newcommand\bottomNav[1]{%
+\newcommand\bottomNav[1]{%
   % \vfill% these are now manually input
+  \ifdesktopversion
   \begin{minipage}{\linewidth}%
     % \centering
     \hyperref[schedule]{%
-    \textbf{\raggedright\textsc{\fontsize{10}{0}\textls*{Schedule}}}}
+      \textbf{\raggedright\textsc{\fontsize{10}{0}\textls*{Schedule}}}}
     % \hspace*{0.05em} \pgfornament[color=brown,width=5mm,scale=0,ydelta=-3.5pt,symmetry=c]{4} \hspace*{0.05em}%
     \hfill
     \hyperref[#1]{%
       \textbf{\raggedleft\textsc{\fontsize{10}{0}\textls*{Next}}}}%
   \end{minipage}%
+  \fi
 }
 
 \newenvironment{glossarydescription}%
@@ -1537,6 +1539,7 @@ philo-sophical munindo amaravati thai-land}
       \parbox{\linewidth}{%
         \centering%
         % font size for paliTitle
+        \color{sbs-brown}
         \fontsize{12}{14}\selectfont
         \@secSubTitle%
         \sectionPaliTitleClear%
@@ -1561,7 +1564,7 @@ philo-sophical munindo amaravati thai-land}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
   \begin{minipage}{\linewidth}%
     \centering%
-    \pgfornament[color=black,width=7cm,scale=1,ydelta=8pt,symmetry=c]{88}%
+    \pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=8pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
   % Starting at the title hyperref above
@@ -1747,3 +1750,4 @@ philo-sophical munindo amaravati thai-land}
 \DefineFNsymbols{anecdote}{*{**}{***}}
 \setfnsymbol{anecdote}
 
+\definecolor{sbs-brown}{HTML}{60291F}

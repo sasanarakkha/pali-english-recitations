@@ -56,8 +56,9 @@ desktopVersion,
 
 \frontmatter
 
+% TODO purpose of this desktop only cover?
 \ifdesktopversion
-\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.jpg}}
+\desktopCover{\includegraphics[height=\paperheight]{./front-cover.jpg}}
 \fi
 
 \pagestyle{empty}
@@ -113,5 +114,9 @@ desktopVersion,
 \input{./manuscript/tex/copyright-details.tex}
 
 \emptyUntilEven
+
+\ifdesktopversion
+\desktopCover{\includegraphics[height=\paperheight]{./back-cover.jpg}}
+\fi
 
 \end{document}

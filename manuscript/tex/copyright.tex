@@ -10,14 +10,12 @@
 \setlength{\parindent}{0pt}%
 % \setlength{\parskip}{0.8\baselineskip}%
 
-\thesubtitle
-
 \vspace{0.5cm}
 
-Published by TBD
-
-ISBN \theISBN
-
+Published by TBD\\
+% TODO need 2 ISBN numbers assigned (1 for print/pdf, 1 for epub); do more research before printing
+% https://www.pnm.gov.my/
+ISBN \theISBN\\
 Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2022
 
 \vspace{0.5cm}
@@ -28,8 +26,7 @@ it may not be sold.
 \vspace{0.5cm}
 
 Download this book in PDF, EPUB, and MOBI formats\\
-at the following address:
-
+at the following address:\\
 \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
 
 \vspace{0.5cm}
@@ -42,16 +39,21 @@ Endnotes: Ā. Ariyadhammika
 
 \vspace{0.5cm}
 
-This version was created on:\\
-\today \space at \currenttime
-
-\vspace{0.5cm}
-
 This work is licensed under a Creative Commons\\
 Attribution-NonCommercial-NoDerivatives 4.0 International~License.
 
 Produced with the \LaTeX\ typesetting system,\\
 set in Libertinus Serif.
+
+\vspace{0.5cm}
+
+\ifdesktopversion
+This version was created on:\\
+\today \space at \currenttime
+\fi
+
+\vspace{0.5cm}
+
 
 \theEditionInfo
 
