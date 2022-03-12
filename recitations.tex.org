@@ -426,7 +426,11 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
+\ifdesktopversion
+\chapterOpeningPage{homage-to-the-triple-gem-compressed.jpg}
+\else
 \chapterOpeningPage{homage-to-the-triple-gem.jpg}
+\fi
 
 \chapter{Homage to the Triple Gem}
 
@@ -1341,7 +1345,11 @@ Saṅghaṁ namāmi
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
 
+\ifdesktopversion
+\chapterOpeningPage{verses-compressed.jpg}
+\else
 \chapterOpeningPage{verses.jpg}
+\fi
 
 \chapter{Verses}
 
@@ -2662,7 +2670,11 @@ Etaṁ buddhāna sāsanaṁ
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
 
+\ifdesktopversion
+\chapterOpeningPage{teachings-compressed.jpg}
+\else
 \chapterOpeningPage{teachings.jpg}
+\fi
 
 \chapter{Teachings}
 
@@ -6644,7 +6656,11 @@ Ayaṁ tathāgatassa pacchimā vācā
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
 
+\ifdesktopversion
+\chapterOpeningPage{reflections-compressed.jpg}
+\else
 \chapterOpeningPage{reflections.jpg}
+\fi
 
 \chapter{Reflections}
 
@@ -7501,7 +7517,11 @@ Tesaṁ vūpasamo sukho
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas.tex
 
+\ifdesktopversion
+\chapterOpeningPage{cardinal-suttas-compressed.jpg}
+\else
 \chapterOpeningPage{cardinal-suttas.jpg}
+\fi
 
 \chapter{Cardinal Suttas}
 
@@ -8626,7 +8646,11 @@ Kena ādittaṁ?
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
 
+\ifdesktopversion
+\chapterOpeningPage{thanksgiving-recitations-compressed.jpg}
+\else
 \chapterOpeningPage{thanksgiving-recitations.jpg}
+\fi
 
 \chapter{Thanksgiving Recitations}
 
@@ -9267,7 +9291,11 @@ Sadā sotthī bhavantu te
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 
+\ifdesktopversion
+\chapterOpeningPage{protective-recitations-compressed.jpg}
+\else
 \chapterOpeningPage{protective-recitations.jpg}
+\fi
 
 \chapter{Protective Recitations}
 
@@ -11046,7 +11074,11 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
 
+\ifdesktopversion
+\chapterOpeningPage{funeral-recitations-compressed.jpg}
+\else
 \chapterOpeningPage{funeral-recitations.jpg}
+\fi
 
 \chapter{Funeral Recitations}
 
@@ -11784,7 +11816,11 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
 
+\ifdesktopversion
+\chapterOpeningPage{sharing-of-merits-compressed.jpg}
+\else
 \chapterOpeningPage{sharing-of-merits.jpg}
+\fi
 
 \chapter{Sharing of Merits}
 
@@ -12173,7 +12209,11 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 ** Cover/Title
 #+begin_src latex :tangle ./manuscript/tex/appendix.tex
 
+\ifdesktopversion
+\chapterOpeningPage{appendix-compressed.jpg}
+\else
 \chapterOpeningPage{appendix.jpg}
+\fi
 
 \addtocontents{toc}{\protect\pagebreak}
 \chapter{Appendix}
