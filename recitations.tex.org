@@ -11362,7 +11362,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \label{vipassana-bhumi-patho}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-1.00mm}\anglebracketright\
 \end{leader-only}
 
 \begin{pali-hangtogether}
@@ -12191,7 +12191,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 \vspace{1em}
 
 \begin{center}
-  \textbf{\textsc{Undertaking the Three Refuges}}\hyperlink{endnote138-appendix}{\hypertarget{endnote138-body}{\pagenote{%
+  \textbf{\color{sbs-brown}{\textsc{Undertaking the Three Refuges}}}\hyperlink{endnote138-appendix}{\hypertarget{endnote138-body}{\pagenote{%
         \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi'' three times which translates to ``I, Venerable Sir, request the Three Refuges and the Five/Eight Precepts'' before ``Namo tassa...''.}}}}}
 \end{center}
 
@@ -12257,7 +12257,7 @@ Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 
 \begin{center}
-  \textbf{\textsc{Undertaking the Five Trainings}}
+  \textbf{\color{sbs-brown}{\textsc{Undertaking the Five Trainings}}}
 \end{center}
 
 \begin{center}
@@ -12327,7 +12327,7 @@ Sādhu sādhu sādhu
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 
 \begin{center}
-  \textbf{\textsc{Undertaking the Eight Trainings}}
+  \textbf{\color{sbs-brown}{\textsc{Undertaking the Eight Trainings}}}
 \end{center}
 
 \begin{center}
@@ -12464,7 +12464,7 @@ Sādhu sādhu sādhu
 \medskip
 
 \begin{center}
-  \textbf{\fontsize{14}{18}\textsc{Vowels}}
+  \textbf{\color{sbs-brown}{\fontsize{14}{18}\textsc{Vowels}}}
 \end{center}
 
 \begin{table}[H]

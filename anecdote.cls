@@ -1362,7 +1362,7 @@ philo-sophical munindo amaravati thai-land}
     {%
       \centering%
       {\chapnumfont\color{chapternum}\bfseries\scshape}%
-      \chaptitlefont\color{chaptertitle}%
+      \chaptitlefont\color{sbs-brown}%
       \vspace*{12pt}%
       \par
       \textbf{\textsc{\textls*{##1}}}%
@@ -1379,7 +1379,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering%
-      \chaptitlefont\color{chaptertitle}%
+      \chaptitlefont\color{sbs-brown}%
       \textbf{\textsc{\textls*{##1}}}%
       \par%
     }%
@@ -1392,7 +1392,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering%
-      \chaptitlefont\color{chaptertitle}%
+      \chaptitlefont\color{sbs-brown}%
       \textbf{\textsc{\textls*{##1}}}%
       \label{contents}%
       \par%
@@ -1406,8 +1406,8 @@ philo-sophical munindo amaravati thai-land}
   \photoFullBleed{\thechaptergraphics}%
     {%
       \centering%
-      {\chapnumfont\fontsize{10}{10}\selectfont\color{chapternum}\textls*{Appendix}}%
-      \chaptitlefont\fontsize{13}{18}\selectfont\color{chaptertitle}%
+      {\chapnumfont\fontsize{10}{10}\selectfont\color{sbs-brown}\textls*{Appendix}}%
+      \chaptitlefont\fontsize{13}{18}\selectfont\color{sbs-brown}%
       \vspace*{12pt}%
       \par
       \textbf{\textsc{\textls*{##1}}}%
@@ -1573,7 +1573,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\subsectionFmt[1]{%
   {%
     \subSectionFont\fontsize{14}{18}\selectfont%
-    \scshape\bfseries\color{section}%
+    \scshape\bfseries\color{sbs-brown}%
     \centering
     % \vspace*{-7.2pt}% what is the needed for? commented removes gap in anumodana-paritta section
     #1%
@@ -1583,7 +1583,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\subsubsectionFmt[1]{%
   {%
     \subSectionFont\fontsize{11}{17}\selectfont%
-    \itshape\color{section}%
+    \itshape\color{sbs-brown}%
     \memRTLraggedright%
     \prul{#1}%
   }%
