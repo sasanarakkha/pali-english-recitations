@@ -3299,9 +3299,9 @@ Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban'ti
 \end{english}
 
 Yāva-kīvañ-ca me bhikkhave imesu catūsu ariya-saccesu
-\begin{pali-hang}
+\begin{pali-hangtogether}
   Evan-ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Bhikkhus as long as my knowledge and understanding\\
@@ -6590,7 +6590,7 @@ Alam-eva appamādena sampādetun'ti\hyperlink{endnote93-appendix}{\hypertarget{e
 \label{buddhas-final-instruction}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddha-pacchima-ovāda \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Siyā kho tumhākaṁ evamassa
