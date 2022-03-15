@@ -208,7 +208,7 @@
     \hyperref[anatta-lakkhana]{Anatta-Lakkhaṇa Sutta} \ifdesktopversion\else\pageref{anatta-lakkhana}\fi\\
     \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma} \ifdesktopversion\else\pageref{striving-according-to-dhamma}\fi\\
     \hyperref[divine-abidings]{The Divine Abidings} \ifdesktopversion\else\pageref{divine-abidings}\fi\\
-    \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ by One Gone Forth} \ifdesktopversion\else\pageref{ten-reflections}\fi\\
+    \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ \vspace{-0.4cm} by One Gone Forth} \ifdesktopversion\else\pageref{ten-reflections}\fi\\
     \hyperref[sharing-aspirations]{Sharing and Aspiraions} \ifdesktopversion\else\pageref{sharing-aspirations}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }

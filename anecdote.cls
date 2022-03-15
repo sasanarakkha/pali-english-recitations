@@ -293,7 +293,7 @@
   bookmarksopen=true,
   bookmarksopenlevel=3,
   hypertexnames=false,
-  linktocpage=true,
+  linktoc=true,
   plainpages=false,
   breaklinks
 }
