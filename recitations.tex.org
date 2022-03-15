@@ -6590,7 +6590,7 @@ Alam-eva appamādena sampādetun'ti\hyperlink{endnote93-appendix}{\hypertarget{e
 \label{buddhas-final-instruction}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddha-pacchima-ovāda \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Siyā kho tumhākaṁ evamassa
