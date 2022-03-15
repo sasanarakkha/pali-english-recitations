@@ -9,4 +9,5 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 Download package archive and move .sty to the repository root directory or to the user home directory.
 
 User home directory in Linux: =/home/user/texmf=
+
 User home directory in Windows: =C:\\user\texmf=
