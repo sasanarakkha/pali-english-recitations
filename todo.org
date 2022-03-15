@@ -1,6 +1,11 @@
 #+TITLE: Todo
 
+<<<<<<< HEAD
 * TODO Hyperlink Set1-10 to the first chant in each set
+=======
+* TODO go back to square bracket and old leader intro format
+* TODO make the fire sermon format the same as non-self
+>>>>>>> 5eb3964ed1deb156f7a6ed9b34b53836d0a62bd5
 * TODO golden dividers would probably look better
 * TODO check spacing of parittas
 * TODO 3+ lines convert to english-verses
