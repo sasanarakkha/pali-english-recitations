@@ -10797,7 +10797,6 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Creating a form with 1,000 arms, each equipped with a weapon,\\
   Even more frightful than Mara making war all night\\
   Was Āḷavaka, the arrogant unstable ogre.\\
   The Lord of Sages defeated him by means of well-trained endurance:\\
@@ -10813,7 +10812,6 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Creating a form with 1,000 arms, each equipped with a weapon,\\
   Was very horrific, like a forest fire, a flaming discus, a lightning bolt.\\
   The Lord of Sages defeated him by sprinkling the water of good will:\\
   By the power of this, may you have victory blessings.
@@ -10827,7 +10825,6 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Creating a form with 1,000 arms, each equipped with a weapon,\\
   Very horrific, with a sword upraised in his expert hand,\\
   Garlanded-with-Fingers ran three leagues along the path.\\
   The Lord of Sages defeated him with mind-fashioned marvels:\\
@@ -10842,7 +10839,6 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Creating a form with 1,000 arms, each equipped with a weapon,\\
   Having made a wooden belly to appear pregnant,\\
   Ciñca made a lewd accusation in the midst of the gathering.\\
   The Lord of Sages defeated her with peaceful, gracious means:\\
@@ -10857,7 +10853,6 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Creating a form with 1,000 arms, each equipped with a weapon,\\
   Saccaka, whose provocative views had abandoned the truth,\\
   Delighting in argument, had become thoroughly blind.\\
   The Lord of Sages defeated him with the light of discernment:\\
@@ -10872,7 +10867,6 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Creating a form with 1,000 arms, each equipped with a weapon,\\
   Nandopananda was a serpent with great power but wrong views.\\
   The Lord of Sages defeated him by means of a display of marvels,\\
   Sending his son, the serpent-elder, to tame him:\\
@@ -10887,7 +10881,6 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Creating a form with 1,000 arms, each equipped with a weapon,\\
   His hands bound tight by the serpent of wrongly held views,\\
   Baka, the Brahma, thought himself pure in his radiance \& power.\\
   The Lord of Sages defeated him by means of his words of knowledge:\\
@@ -10902,7 +10895,6 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Creating a form with 1,000 arms, each equipped with a weapon,\\
   These eight verses of the Buddha's victory blessings:
   \begin{english-hangtogether-verses}
     Whatever person of discernment recites or recalls them day after day without lapsing,
