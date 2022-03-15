@@ -8,6 +8,6 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 
 Download package archive and move .sty to the repository root directory or the LaTeX directory found in the users home directory.
 
-In Linux: =/home/{username}/texmf=
+In Linux: =/home/<your-user-name>/texmf=
 
-In Windows: =C:\Users\{username\}\texmf=
+In Windows: =C:\Users\<your-user-name>\texmf=
