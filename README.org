@@ -1,3 +1,13 @@
 #+TITLE: Pāli-English Recitations
 
 A collaborative effort from the SBS Saṅgha and members of the greater community.
+
+* Prequisites
+- [[https://www.ctan.org/pkg/tabularray][Tabularray]]
+- [[https://www.ctan.org/pkg/ninecolors][Ninecolors]]
+
+Download package archive and move .sty to the repository root directory or the LaTeX directory found in the users home directory.
+
+In Linux: =/home/<your-user-name>/texmf=
+
+In Windows: =C:\Users\<your-user-name>\texmf=
