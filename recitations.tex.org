@@ -783,26 +783,26 @@ Ujupaṭipanno bhagavato sāvakasaṅgho
 \linkdest{endnote5-body}
 \begin{english}
     Who have practiced directly\makeatletter\hyperlink{endnote5-appendix}\Hy@raisedlink{\hypertarget{endnote5-body}{}{\pagenote{%
-        \hypertarget{endnote5-appendix}{\hyperlink{endnote5-body}{To practice ``directly''(Pāli: \textit{uju}) means, to practice the most direct way to \textit{nibbāna}; the straight way; no B-tours.}}}}}\makeatother
+        \hypertarget{endnote5-appendix}{\hyperlink{endnote5-body}{To practice ``directly''(Pāli: \textit{uju}) means, to practice the most direct way to \textit{nibbāna}; the straight way; no detours.}}}}}\makeatother
 
 \end{english}
 
+Ñāyapaṭipanno bhagavato sāvakasaṅgho
+
 \linkdest{endnote6-body}
-Ñāyapaṭipanno bhagavato sāvakasaṅgho\makeatletter\hyperlink{endnote6-appendix}\Hy@raisedlink{\hypertarget{endnote6-body}{}{\pagenote{%
-      \hypertarget{endnote6-appendix}{\hyperlink{endnote6-body}{Orig: ``Who have practiced insightfully''}}}}}\makeatother
-
-
-\linkdest{endnote7-body}
 \begin{english}
-    Who have practiced correctly\makeatletter\hyperlink{endnote7-appendix}\Hy@raisedlink{\hypertarget{endnote7-body}{}{\pagenote{%
-        \hypertarget{endnote7-appendix}{\hyperlink{endnote7-body}{Orig: ``Those who practice with integrity''}}}}}\makeatother
+    Who have practiced correctly\makeatletter\hyperlink{endnote6-appendix}\Hy@raisedlink{\hypertarget{endnote6-body}{}{\pagenote{%
+      \hypertarget{endnote6-appendix}{\hyperlink{endnote6-body}{Orig: ``Who have practiced insightfully''}}}}}\makeatother
 
 \end{english}
 
 Sāmīcipaṭipanno bhagavato sāvakasaṅgho
 
+\linkdest{endnote7-body}
 \begin{english}
-  Who have practiced properly
+  Who have practiced properly\makeatletter\hyperlink{endnote7-appendix}\Hy@raisedlink{\hypertarget{endnote7-body}{}{\pagenote{%
+        \hypertarget{endnote7-appendix}{\hyperlink{endnote7-body}{Orig: ``Those who practice with integrity''}}}}}\makeatother
+
 \end{english}
 
 Yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā
@@ -952,9 +952,8 @@ Vandāmi saṅghaṁ aham-ādarena taṁ
   Devotedly indeed \breathmark\ that Saṅgha I revere
 \end{english}
 
-\begin{pali-hang}
-  Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
-\end{pali-hang}
+  Iccevam-ekantabhipūja-neyyakaṁ\\
+  Vatthuttayaṁ vandayatābhisaṅkhataṁ
 
 \linkdest{endnote11-body}
 \begin{english}
@@ -1294,7 +1293,7 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 
 \linkdest{endnote28-body}
 \begin{english}
-    Possessing the bhikkhus' training and way of life\makeatletter\hyperlink{endnote28-appendix}\Hy@raisedlink{\hypertarget{endnote28-body}{}{\pagenote{%
+    Possessing the bhikkhus \breathmark\ training and way of life\makeatletter\hyperlink{endnote28-appendix}\Hy@raisedlink{\hypertarget{endnote28-body}{}{\pagenote{%
         \hypertarget{endnote28-appendix}{\hyperlink{endnote28-body}{Orig: ``Being fully equipped with the bhikkhus'system of training''}}}}}\makeatother
 
 \end{english}
@@ -6352,8 +6351,7 @@ Asubhasaññaṁ bhāvessanti ādīnavasaññaṁ bhāvessanti
 
 \linkdest{endnote86-body}
 \begin{english-hang}
-  The perception of abandoning \breathmark\ the perception of dispassion  ̓
-  the perception of cessation\makeatletter\hyperlink{endnote86-appendix}\Hy@raisedlink{\hypertarget{endnote86-body}{}{\pagenote{%
+  The perception of abandoning \breathmark\ the perception of dispassion \breathmark\ the perception of cessation\makeatletter\hyperlink{endnote86-appendix}\Hy@raisedlink{\hypertarget{endnote86-body}{}{\pagenote{%
         \hypertarget{endnote86-appendix}{\hyperlink{endnote86-body}{In \textit{Girimānandasutta} (AN 10.60) the Buddha instruced Ven. Ānanda: ``If, Ānanda, you visit the (severely sick) bhikkhu Girimānanda and speak to him about ten perceptions, it is possible that on hearing about them his affliction will immediately subside.'' Then the same seven perceptions as above are mentioned, with the addition of the following three: 8. the perception of non-delight in the entire world; 9. the perception of impermanence in all conditioned phenomena, and 10. mindfulness of breathing. \textit{Girimānandasutta} concludes: ``Then, when the Venerable Ānanda had learned these ten perceptions from the Blessed One, he went to the Venerable Girimānanda and spoke to him about them. When the Venerable Girimānanda heard about these ten perceptions, his affliction immediately subsided.''}}}}}\makeatother
 \end{english-hang}
 
