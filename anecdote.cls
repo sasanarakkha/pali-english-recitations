@@ -295,6 +295,7 @@
   hypertexnames=false,
   linktoc=true,
   plainpages=false,
+  raiselinks=true,
   breaklinks
 }
 
@@ -322,6 +323,13 @@
   open,
   openlevel=2
 ]{bookmark}
+
+% Color used for links and headers
+\definecolor{sbs-brown}{HTML}{60291F}
+
+% Fixes endnotes two-way link that aim too low
+% https://tex.stackexchange.com/questions/17057/hypertarget-seems-to-aim-a-line-too-low
+
 
 %%%%%%%%%%%%%%%% Penalties & Hyphenation %%%%%%%%%%%%%%%%
 
@@ -1750,4 +1758,6 @@ philo-sophical munindo amaravati thai-land}
 \DefineFNsymbols{anecdote}{*{**}{***}}
 \setfnsymbol{anecdote}
 
-\definecolor{sbs-brown}{HTML}{60291F}
+\makeatletter
+ \newcommand{\linkdest}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
+\makeatother
