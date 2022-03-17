@@ -793,7 +793,7 @@ Ujupaṭipanno bhagavato sāvakasaṅgho
 Sāmīcipaṭipanno bhagavato sāvakasaṅgho
 
 \begin{english}
-  Who have practiced properlyi
+  Who have practiced properly
 \end{english}
 
 Yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā
@@ -1244,7 +1244,7 @@ Tasmiṁ bhagavati brahma-cariyaṁ carāma
 Bhikkhūnaṁ sikkhāsājīva-samāpannā
 
 \begin{english}
-  Possessing the bhikkhus'training and way of life\hyperlink{endnote28-appendix}{\hypertarget{endnote28-body}{\pagenote{%
+  Possessing the bhikkhus' training and way of life\hyperlink{endnote28-appendix}{\hypertarget{endnote28-body}{\pagenote{%
         \hypertarget{endnote28-appendix}{\hyperlink{endnote28-body}{Orig: ``Being fully equipped with the bhikkhus'system of training''}}}}}
 \end{english}
 
@@ -8678,7 +8678,7 @@ Paripūrenti sāgaraṁ
   Entirely fill up the sea
 \end{english}
 
-Evam-eva ito dinnaṁ petānaṁ upakappati
+Evam-eva ito dinnaṁ
 
 \begin{english}
   Likewise what's been given here\hyperlink{endnote114-appendix}{\hypertarget{endnote114-body}{\pagenote{%
