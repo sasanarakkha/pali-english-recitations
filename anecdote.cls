@@ -965,7 +965,6 @@ philo-sophical munindo amaravati thai-land}
 
 \renewcommand*{\notesname}{Notes}
 \renewcommand*{\notedivision}{\chapter{\notesname}}
-%\renewcommand*{\notedivision}{\section*{\notesname}}
 \renewcommand*{\pagenotesubhead}[3]{}
 \renewcommand*{\notenumintext}[1]{\textsuperscript{\thinspace #1}}
 \renewcommand{\prenoteinnotes}{\par\noindent\hangindent=17pt}

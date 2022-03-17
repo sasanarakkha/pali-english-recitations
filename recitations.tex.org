@@ -8455,8 +8455,8 @@ Atha kho bhagavā udānaṁ udānesi:
 
 \linkdest{endnote110-body}
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple} \makeatletter\hyperlink{endnote110-appendix}\Hy@raisedlink{\hypertarget{endnote110-body}{}{\pagenote{%
-        \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}}\makeatother \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple}\makeatletter\hyperlink{endnote110-appendix}\Hy@raisedlink{\hypertarget{endnote110-body}{}{\pagenote{%
+        \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em} % TODO too close
