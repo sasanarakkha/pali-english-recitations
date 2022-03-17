@@ -1508,12 +1508,10 @@ Saṅghaṁ namāmi
 \begin{english-verses}
     What is true Dhamma and what's\makeatletter\hyperlink{endnote29-appendix}\Hy@raisedlink{\hypertarget{endnote29-body}{}{\pagenote{%
         \hypertarget{endnote29-appendix}{\hyperlink{endnote29-body}{WPN: ``what not'': What not is usually followed by what is similar.}}}}}\makeatother
-
   not\\
   Will never have the same results\\
     While wrong\makeatletter\hyperlink{endnote30-appendix}\Hy@raisedlink{\hypertarget{endnote30-body}{}{\pagenote{%
         \hypertarget{endnote30-appendix}{\hyperlink{endnote30-body}{WPN: ``lack of Dhamma'' This translation is problematic, because a mere ``lack of Dhamma'' does not lead to rebirth in hell; otherwise all non-Buddhists would be destined to hell. In reality, it is the view and practice of ``wrong Dhamma'' that leads to hell, which is also substantiated by the Commentary, which defines ``adhamma'' as the opposite (\textit{paṭipakkha}) of true Dhamma.}}}}}\makeatother
-
   Dhamma leads to hell realms\\
   True Dhamma takes one on a good course
 \end{english-verses}
@@ -9585,13 +9583,12 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \label{nama-kara-siddhi-gatha}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā moha-malāpakaṭṭho \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
-  Moha-malāpakaṭṭho\\
   Sāmaṁ va buddho sugato vimutto\\
   Mārassa pāsā vinimocayanto\\
   Pāpesi khemaṁ janataṁ vineyyaṁ\\
@@ -9668,13 +9665,13 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \label{namo-kara-atthaka}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Namo arahato \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Namo arahato sammā- \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
-  Sammā-sambuddhassa mahesino\\
+  Sambuddhassa mahesino\\
   Namo uttama-dhammassa\\
   Svākkhātass'eva ten'idha
 \end{pali-hang}
@@ -9933,13 +9930,12 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \label{ratana-sutta}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Yānīdha \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Yānīdha bhūtāni samāgatāni \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
-  Bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
   Sabb'eva bhūtā sumanā bhavantu\\
   Atho pi sakkacca suṇantu bhāsitaṁ
@@ -10229,13 +10225,12 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \label{karaniya-metta-sutta}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Karaṇīya \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Karaṇīya m-attha-kusalena \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
-  M-attha-kusalena\\
   Yan-taṁ santaṁ padaṁ abhisamecca\\
   Sakko ujū ca suhujū ca\\
   Suvaco c'assa mudu anatimānī
@@ -10784,13 +10779,12 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \label{abhaya-parittam}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ avamaṅgalañ-ca \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
-  Avamaṅgalañ-ca\\
   Yo cāmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Buddhānubhāvena vināsamentu
@@ -10842,13 +10836,12 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \label{devata-uyyojana-gatha}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Dukkhappattā \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Dukkhappattā ca niddukkhā \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
-  Ca niddukkhā\\
   Bhayappattā ca nibbhayā\\
   Sokappattā ca nissokā\\
   Hontu sabbe pi pāṇino
@@ -11072,13 +11065,13 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \label{jaya-parittam}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko nātho \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
-  Nātho hitāya sabba-pāṇinaṁ\\
+  Hitāya sabba-pāṇinaṁ\\
   Pūretvā pāramī sabbā\\
   Patto sambodhim-uttamaṁ\\
   Etena sacca-vajjena\\
