@@ -1294,7 +1294,7 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 
 \linkdest{endnote28-body}
 \begin{english}
-    Possessing the bhikkhus'training and way of life\makeatletter\hyperlink{endnote28-appendix}\Hy@raisedlink{\hypertarget{endnote28-body}{}{\pagenote{%
+    Possessing the bhikkhus' training and way of life\makeatletter\hyperlink{endnote28-appendix}\Hy@raisedlink{\hypertarget{endnote28-body}{}{\pagenote{%
         \hypertarget{endnote28-appendix}{\hyperlink{endnote28-body}{Orig: ``Being fully equipped with the bhikkhus'system of training''}}}}}\makeatother
 
 \end{english}
