@@ -901,7 +901,6 @@ Dhammo padīpo viya tassa satthuno
 \begin{english}
     The Teaching of the Lord is like a lamp\makeatletter\hyperlink{endnote8-appendix}\Hy@raisedlink{\hypertarget{endnote8-body}{}{\pagenote{%
         \hypertarget{endnote8-appendix}{\hyperlink{endnote8-body}{WPN: ``The teaching of the Lord like a lamp''}}}}}\makeatother
-
 \end{english}
 
 Yo magga-pākāmata-bheda-bhinnako
@@ -910,7 +909,6 @@ Yo magga-pākāmata-bheda-bhinnako
 \begin{english}
     Divided into path and its fruit \breathmark\ the Deathless\makeatletter\hyperlink{endnote9-appendix}\Hy@raisedlink{\hypertarget{endnote9-body}{}{\pagenote{%
         \hypertarget{endnote9-appendix}{\hyperlink{endnote9-body}{WPN: ``Illuminating the path and its fruit, the Deathless''}}}}}\makeatother
-
 \end{english}
 
 Lokuttaro yo ca tad-attha-dīpano
@@ -919,7 +917,6 @@ Lokuttaro yo ca tad-attha-dīpano
 \begin{english}
     And illuminating that goal \breathmark\ which is beyond the conditioned world\makeatletter\hyperlink{endnote10-appendix}\Hy@raisedlink{\hypertarget{endnote10-body}{}{\pagenote{%
         \hypertarget{endnote10-appendix}{\hyperlink{endnote10-body}{WPN: ``That which is beyond the conditioned world''}}}}}\makeatother
-
 \end{english}
 
 Vandāmi dhammaṁ aham-ādarena taṁ
@@ -961,7 +958,6 @@ Vandāmi saṅghaṁ aham-ādarena taṁ
     This salutation should be made\\
   To that triad\makeatletter\hyperlink{endnote11-appendix}\Hy@raisedlink{\hypertarget{endnote11-body}{}{\pagenote{%
         \hypertarget{endnote11-appendix}{\hyperlink{endnote11-body}{WPN: ``To that which is worthy''. This passage refers to the triple (\textit{taya}) gems and not just to the Saṅgha.}}}}}\makeatother
-
   which is worthy
 \end{english}
 
@@ -1031,7 +1027,6 @@ Soka-parideva-dukkha-domanass'upāyāsāpi dukkhā
 \begin{english}
     Sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote14-appendix}\Hy@raisedlink{\hypertarget{endnote14-body}{}{\pagenote{%
         \hypertarget{endnote14-appendix}{\hyperlink{endnote14-body}{WPN: ``grief''}}}}}\makeatother
-
   and despair are dukkha
 \end{english}
 
@@ -1059,7 +1054,6 @@ Saṅkhittena pañcupādānakkhandhā dukkhā
 \begin{english}
     In brief \breathmark\ the five aggregates of clinging are dukkha\makeatletter\hyperlink{endnote15-appendix}\Hy@raisedlink{\hypertarget{endnote15-body}{}{\pagenote{%
         \hypertarget{endnote15-appendix}{\hyperlink{endnote15-body}{WPN: ``In brief the five focuses of identity are dukkha''}}}}}\makeatother
-
 \end{english}
 
 Seyyathīdaṁ
@@ -1092,7 +1086,6 @@ Saṅkhārūpādānakkhandho
 \begin{english}
     Attachment to volitional formations\makeatletter\hyperlink{endnote16-appendix}\Hy@raisedlink{\hypertarget{endnote16-body}{}{\pagenote{%
         \hypertarget{endnote16-appendix}{\hyperlink{endnote16-body}{WPN: ``Attachment to mental formations''}}}}}\makeatother
-
 \end{english}
 
 Viññāṇūpādānakkhandho
@@ -1101,7 +1094,6 @@ Viññāṇūpādānakkhandho
 \begin{english}
     Attachment to consciousness\makeatletter\hyperlink{endnote17-appendix}\Hy@raisedlink{\hypertarget{endnote17-body}{}{\pagenote{%
         \hypertarget{endnote17-appendix}{\hyperlink{endnote17-body}{WPN: ``Attachment to sense-consciousness''}}}}}\makeatother
-  makeatother
 \end{english}
 
 Yesaṁ pariññāya
@@ -1154,7 +1146,6 @@ Saṅkhārā aniccā
 \begin{english}
     Volitional formations are impermanent\makeatletter\hyperlink{endnote18-appendix}\Hy@raisedlink{\hypertarget{endnote18-body}{}{\pagenote{%
         \hypertarget{endnote18-appendix}{\hyperlink{endnote18-body}{WPN: ``Mental formations are impermanent''}}}}}\makeatother
-
 \end{english}
 
 Viññāṇaṁ aniccaṁ
@@ -1163,7 +1154,6 @@ Viññāṇaṁ aniccaṁ
 \begin{english}
     Consciousness is impermanent\makeatletter\hyperlink{endnote19-appendix}\Hy@raisedlink{\hypertarget{endnote19-body}{}{\pagenote{%
         \hypertarget{endnote19-appendix}{\hyperlink{endnote19-body}{WPN: ``Sense-consciousness is impermanent''}}}}}\makeatother
-
 \end{english}
 
 Rūpaṁ anattā
@@ -1190,7 +1180,6 @@ Saṅkhārā anattā
 \begin{english}
     Volitional formations are not-self\makeatletter\hyperlink{endnote20-appendix}\Hy@raisedlink{\hypertarget{endnote20-body}{}{\pagenote{%
         \hypertarget{endnote20-appendix}{\hyperlink{endnote20-body}{WPN: ``Mental formations are not-self''}}}}}\makeatother
-
 \end{english}
 
 Viññāṇaṁ anattā
@@ -1199,7 +1188,6 @@ Viññāṇaṁ anattā
 \begin{english}
     Consciousness is not-self\thinspace\makeatletter\hyperlink{endnote21-appendix}\Hy@raisedlink{\hypertarget{endnote21-body}{}{\pagenote{%
         \hypertarget{endnote21-appendix}{\hyperlink{endnote21-body}{WPN: ``Sense-consciousness is not-self''}}}}}\makeatother
-
 \end{english}
 
 Sabbe saṅkhārā aniccā
@@ -1517,7 +1505,6 @@ Saṅghaṁ namāmi
   Esānisaṁso dhamme suciṇṇe\\
   Na duggatiṁ gacchati dhamma-cārī\makeatletter\hyperlink{endnote31-appendix}\Hy@raisedlink{\hypertarget{endnote31-body}{}{\pagenote{%
         \hypertarget{endnote31-appendix}{\hyperlink{endnote31-body}{This line is missing in Wat Pah Nanachat chanting book.}}}}}\makeatother
-
 \end{verses}
 
 \begin{english-verses}
@@ -1568,7 +1555,6 @@ Saṅghaṁ namāmi
   Such a refuge does not bring\\
   Complete release from all suffering\makeatletter\hyperlink{endnote32-appendix}\Hy@raisedlink{\hypertarget{endnote32-body}{}{\pagenote{%
         \hypertarget{endnote32-appendix}{\hyperlink{endnote32-body}{WPN: ``from suffering''}}}}}\makeatother
-
 \end{english-verses}
 
 \begin{verses}
@@ -1629,7 +1615,6 @@ Saṅghaṁ namāmi
 \linkdest{endnote33-body}
 Sabba-pāpassa akaraṇaṁ\makeatletter\hyperlink{endnote33-appendix}\Hy@raisedlink{\hypertarget{endnote33-body}{}{\pagenote{%
       \hypertarget{endnote33-appendix}{\hyperlink{endnote33-body}{There are two variations as to the sequence of these three verses. The sequence used here follows the sequence of Dhp 183 (\textit{Sabba pāpassa}...), Dhp 184 (\textit{Khantī paramaṁ}...), Dhp 185 (\textit{Anūpavādo}...). In contrast, the sequence Dhp 184, 183, 185 is commonly known as the ``\textit{Ovādapātimokkha}'', and occurs at DN 14.}}}}}\makeatother
-
 
 \begin{english}
   Not doing any evil
