@@ -1486,7 +1486,7 @@ philo-sophical munindo amaravati thai-land}
   % \begin{minipage}{\linewidth}%
     \centering%
     \sectionFont\fontsize{15}{15}\selectfont%
-    \color{section}%
+    \color{sbs-brown}%
     % \setlength{\parskip}{2pt}%
     %
     % Top rule

@@ -389,8 +389,8 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Ap
 \chapter{Abbreviations}
 
 \begin{tabular}{@{}ll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.30mm}Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & \hspace{1.30mm}Breathing pause \\
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{7.35mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{7.35mm}Breathing pause \\
 \end{tabular}
 
 \begin{tabular}{@{}ll@{}}
@@ -405,14 +405,15 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Ap
   Snp   & Sutta Nipāta                                       \\
   Thag  & Theragāthā                                         \\
   Ja    & Jātaka                                             \\
-  Ps    & Paṭisambhidāmagga                                  \\
+  % Ps    & Paṭisambhidāmagga                                \\
   Vibh  & Abhidhamma Vibhaṅga                                \\
   Dhs   & Dhammasaṅganī                                      \\
   A     & Aṭṭhakathā (Commentary)                            \\
   MJG   & Mahā-jaya-maṅgala-gāthā (Sri Lanka)                \\
   Thai  & Composed in Thailand, normally in recent centuries \\
   Sri L & Composed in Sri Lanka                              \\
-  Trad  & Tradtional verses not found in the original Pāli   \\
+  Trad  & Traditional verses not found in the original Pāli  \\
+  WPNCB & Wat Pah Nanachat Chanting Book                     \\
 \end{tabular}
 
 \bigskip
@@ -7099,7 +7100,7 @@ Tassa dāyādā bhavissanti
 \end{english}
 
 \begin{english-hang}
-  I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with gladness
+  I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with empathetic joy
 \end{english-hang}
 
 \begin{english-hang}
@@ -7236,7 +7237,8 @@ Katame dasa
 \end{english}
 
 \begin{pali-hang}
-  Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+  Vevaṇṇiyamhi ajjhūpagato'ti\\
+  Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hang}
 
 \linkdest{endnote100-body}
@@ -7351,7 +7353,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \begin{english-verses}
   ``Do I delight in solitude or not?''
   \begin{english-hangtogether-verses}
-    This should be reflected upon again and again by one who has gone forth by one who has gone forth
+    This should be reflected upon again and again by one who has gone forth
   \end{english-hangtogether-verses}
 \end{english-verses}
 
@@ -8086,42 +8088,37 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{pali-hang}
   Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ nayidaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
 \end{pali-hang}
-
-\begin{pali-hang}
+\begin{pali-hangtogether}
   Yasmā ca kho bhikkhave rūpaṁ anattā \breathmark\ tasmā rūpaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
 \end{pali-hang}
-
-\begin{pali-hang}
+\begin{pali-hangtogether}
   Yasmā ca kho bhikkhave vedanā anattā \breathmark\ tasmā vedanā ābādhāya saṁvattati \breathmark\ na ca labbhati vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Saññā anattā \breathmark\ saññā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
 \end{pali-hang}
-
-\begin{pali-hang}
+\begin{pali-hangtogether}
   Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Saṅkhārā anattā \breathmark\ saṅkhārā ca hidaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
 \end{pali-hang}
-
-\begin{pali-hang}
+\begin{pali-hangtogether}
   Yasmā ca kho bhikkhave saṅkhārā anattā \breathmark\ tasmā saṅkhārā ābādhāya saṁvattanti \breathmark\ na ca labbhati saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Viññāṇaṁ anattā \breathmark\ viññāṇañca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
 \end{pali-hang}
-
-\begin{pali-hang}
+\begin{pali-hangtogether}
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\
@@ -8130,8 +8127,12 @@ Atha kho bhagavā udānaṁ udānesi:
 \vspace{-0.99em} % TODO too close
 
 \begin{pali-hang}
-  Rūpaṁ niccaṁ vā aniccaṁ vāti? Aniccaṁ bhante.
+  Rūpaṁ niccaṁ vā aniccaṁ vāti?
 \end{pali-hang}
+
+\begin{pali-hangtogether}
+  Aniccaṁ bhante.
+\end{pali-hangtogether}
 
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
@@ -8256,11 +8257,11 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yā kāci vedanā atītānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā\breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā vedanā: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yā kāci vedanā atītānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā vedanā: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yā kāci saññā atītānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā vā \breathmark\ oḷārikā vā sukhumā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā saññā: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yā kāci saññā atītānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā vā \breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā saññā: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8278,7 +8279,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \vspace{-0.99em} % TODO too close
 
 \begin{pali-hang}
-  Sutvā ariyasāvako rūpasmim-pi nibbindati \breathmark\ vedanāya-pi nibbindati \breathmark\ saññāya-pi nibbindati \breathmark\ saṅkhāresu-pi nibbindati \breathmark\ viññāṇasmim-pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā vimuccati \breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā''ti pajānātī'ti.
+  Sutvā ariyasāvako rūpasmim-pi nibbindati \breathmark\ vedanāya-pi \mbox{nibbindati}~\breathmark\ saññāya-pi nibbindati \breathmark\ saṅkhāresu-pi nibbindati \breathmark\ viññāṇasmim-pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā''ti pajānātī'ti.
 \end{pali-hang}
 
 \clearpage
@@ -8503,69 +8504,62 @@ Kiñca bhikkhave sabbaṁ ādittaṁ?
 \begin{pali-hang}
   Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
 \end{pali-hang}
-
+\begin{pali-hangtogether}
 Kena ādittaṁ?
-
-\begin{pali-hang}
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
   Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
 \end{pali-hang}
-
+\begin{pali-hangtogether}
 Kena ādittaṁ?
-
-\begin{pali-hang}
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
   Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
 \end{pali-hang}
-
+\begin{pali-hangtogether}
 Kena ādittaṁ?
-
-\begin{pali-hang}
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
   Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
 \end{pali-hang}
-
+\begin{pali-hangtogether}
 Kena ādittaṁ?
-
-\begin{pali-hang}
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
   Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
-\end{pali-hang}
-
-\begin{pali-hang}
-  Sotasmiṁ pi nibbindati, saddesu pi nibbindati, sotaviññāṇe pi
-  nibbindati, sotasamphasse pi nibbindati, yampidaṁ sotasamphassapaccayā
-  uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmiṁ pi
-  nibbindati.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
 \end{pali-hang}
-
+\begin{pali-hangtogether}
 Kena ādittaṁ?
-
-\begin{pali-hang}
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
   Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
 \end{pali-hang}
-
+\begin{pali-hangtogether}
 Kena ādittaṁ?
-
-\begin{pali-hang}
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
   Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
@@ -8642,98 +8636,80 @@ Kena ādittaṁ?
 \begin{english-only-hang}
   Bhikkhus the eye is burning \breathmark\ forms are burning \breathmark\ eye-consciousness is burning \breathmark\ eye-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ that too is burning.
 \end{english-only-hang}
-
-\begin{english-only-hang}
+\begin{english-only-hangtogether}
   Burning with what?
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
   The ear is burning \breathmark\ sounds are burning \breathmark\ ear-consciousness is burning \breathmark\ ear-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ that too is burning.
 \end{english-only-hang}
-
-\begin{english-only-hang}
+\begin{english-only-hangtogether}
   Burning with what?
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
   The nose is burning \breathmark\ odours are burning \breathmark\ nose-consciousness is \mbox{burning}~\breathmark\ nose-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ that too is burning.
 \end{english-only-hang}
-
-\begin{english-only-hang}
+\begin{english-only-hangtogether}
   Burning with what?
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
   The tongue is burning \breathmark\ flavours are burning \breathmark\ tongue-consciousness is burning \breathmark\ tongue-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ that too is burning.
 \end{english-only-hang}
-
-\begin{english-only-hang}
+\begin{english-only-hangtogether}
   Burning with what?
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
   The body is burning \breathmark\ tangibles are burning \breathmark\ body-consciousness is burning \breathmark\ body-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ that too is burning.
 \end{english-only-hang}
-
-\begin{english-only-hang}
+\begin{english-only-hangtogether}
   Burning with what?
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
   The mind is burning \breathmark\ mind-objects are burning \breathmark\ mind-consciousness is burning \breathmark\ mind-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-{pleasant}~\breathmark\ that arises from mind-contact as its condition \breathmark\ that too is burning.
 \end{english-only-hang}
-
-\begin{english-only-hang}
+\begin{english-only-hangtogether}
   Burning with what?
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
-\end{english-only-hang}
-
-\begin{english-only-hang}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple} \hspace{-0.5mm}\anglebracketright\
@@ -8775,7 +8751,6 @@ Kena ādittaṁ?
 
 \suttaRef{[SN 35.28]}
 
-\enlargethispage{\baselineskip\vspace{-1.0em}}
 \bottomNav{gradual-training}
 
 \endgroup

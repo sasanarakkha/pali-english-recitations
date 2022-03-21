@@ -205,6 +205,7 @@ Sharing of All Merits\
 #+end_src
 * The Purpose and Benefits of Dhamma Recitation
 #+begin_src markdown :tangle ./manuscript/markdown/purpose-and-benefits.md
+
 \section{Historical Background}
 
 After finding the path to Nibbāna and some initial hesitation, the Buddha eventually decided to teach the Dhamma (MN 26). His first disciples were a group of five monks, and with the awakening of one of them, Ven. Kondañña, the wheel of Dhamma was set in motion (SN 56.11). While these first disciples were taught exclusively by the Buddha himself, soon afterwards more monks reached the final goal. Subsequently, the Buddha sent out the first sixty arahants to teach the Dhamma (SN 4.5, Vin I 20).\\
@@ -289,7 +290,9 @@ Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and t
 Ancient Indian Education and Mindfulness, Anālayo, Springer Science+Business Media, 2019
 Cognitive Psychology, Hove: Psychology Press, Eysenck, M. W. et al., 1992/2005
 The Buddhist Monastic Code II, Ṭhānissaro Bhikkhu, Metta Forest Monastery, 2013
+
 #+end_src
+
 * Homage to the Triple Gem
 ** Contents
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
