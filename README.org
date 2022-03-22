@@ -6,8 +6,8 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 - [[https://www.ctan.org/pkg/tabularray][Tabularray]]
 - [[https://www.ctan.org/pkg/ninecolors][Ninecolors]]
 
-Download package archive and move .sty to the repository root directory or the LaTeX directory found in the users home directory.
+Download package archive and move .sty to the repository root directory or to =texmf= found in the users home directory. Create the directory if it isn't there.
 
-In Linux: =/home/<your-username>/texmf=
+In Linux: =/home/<your-username>/texmf/tex=
 
-In Windows: =C:\Users\<your-username>\texmf=
+In Windows: =C:\Users\<your-username>\texmf\tex=
