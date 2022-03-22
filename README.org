@@ -8,6 +8,6 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 
 Download package archive and move .sty to the repository root directory or to =texmf/tex= found in the users home directory. Create the directory if it isn't there.
 
-In Linux: =/home/<your-username>/texmf/tex=
+On Linux: =/home/<your-username>/texmf/tex=
 
-In Windows: =C:\Users\<your-username>\texmf\tex=
+On Windows: =C:\Users\<your-username>\texmf\tex=
