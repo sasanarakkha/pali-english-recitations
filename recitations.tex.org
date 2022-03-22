@@ -413,7 +413,7 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Ap
   Thai  & Composed in Thailand, normally in recent centuries \\
   Sri L & Composed in Sri Lanka                              \\
   Trad  & Traditional verses not found in the original Pāli  \\
-  WPNCB & Wat Pah Nanachat Chanting Book                     \\
+  WPN  & Wat Pah Nanachat Buddhist Chanting (2014)           \\
 \end{tabular}
 
 \bigskip
@@ -4887,7 +4887,7 @@ Mahapphalā hoti mahānisaṁsā
 
 \linkdest{endnote71-body}
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 \begin{leader-english-belowpali}
   \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Analysis of Dependent Origination\makeatletter\hyperlink{endnote71-appendix}\Hy@raisedlink{\hypertarget{endnote71-body}{}{\pagenote{%
@@ -4988,7 +4988,7 @@ Tattha katamā avijjā
 \end{pali-hang}
 
 \begin{english-hang-verses}
-  Not knowing suffering \breathmark\ not knowing the origin of suffering \breathmark\ not knowing the cessation of suffering \breathmark\ not knowing the way of practice leading to the cessation of suffering
+  Not knowing suffering \breathmark\ not knowing the origin of suffering \breathmark\ not knowing the cessation of suffering \breathmark\ not knowing the way of practice \breathmark\ leading to the cessation of suffering
 \end{english-hang-verses}
 
 Ayaṁ vuccati avijjā
@@ -5025,7 +5025,7 @@ Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
 Tattha katamo puññābhisaṅkhāro
 
 \begin{english}
-  Therein what is 'heightened formation of wholesomeness'?
+  Therein what is `heightened formation of wholesomeness'?
 \end{english}
 
 \begin{pali-hang}
@@ -5045,7 +5045,7 @@ Ayaṁ vuccati puññābhisaṅkhāro
 Tattha katamo apuññābhisaṅkhāro
 
 \begin{english}
-  Therein what is 'heightened formation of unwholesomeness'?
+  Therein what is `heightened formation of unwholesomeness'?
 \end{english}
 
 Akusalā cetanā kāmāvacarā
@@ -5081,7 +5081,7 @@ Ayaṁ vuccati āneñjābhisaṅkhāro
 Tattha katamo kāyasaṅkhāro
 
 \begin{english}
-  Therein what is 'the bodily formation'?
+  Therein what is `the bodily formation'?
 \end{english}
 
 \linkdest{endnote78-body}
@@ -5108,7 +5108,7 @@ Ime vuccanti avijjā-paccayā saṅkhārā
 Tattha katamaṁ saṅkhāra-paccayā viññāṇaṁ
 
 \begin{english-hang}
-  Therein what is 'consciousness' \breathmark\ arising from formations as a condition?
+  Therein what is `consciousness' \breathmark\ arising from formations as a condition?
 \end{english-hang}
 
 \begin{pali-hang}
@@ -5122,13 +5122,13 @@ Tattha katamaṁ saṅkhāra-paccayā viññāṇaṁ
 Idaṁ vuccati saṅkhāra-paccayā viññāṇaṁ
 
 \begin{english}
-  This is called 'consciousness' \breathmark\ arising from formations as a condition
+  This is called `consciousness' \breathmark\ arising from formations as a condition
 \end{english}
 
 Tattha katamaṁ viññāṇa-paccayā nāmarūpaṁ
 
 \begin{english-hang}
-  Therein what is 'name-and-form' \breathmark\ arising from consciousness as a condition?
+  Therein what is `name-and-form' \breathmark\ arising from consciousness as a condition?
 \end{english-hang}
 
 Atthi nāmaṁ atthi rūpaṁ
@@ -5154,7 +5154,7 @@ Vedanā saññā cetanā phasso manasikāro\makeatletter\hyperlink{endnote80-app
 Idaṁ vuccati nāmaṁ
 
 \begin{english}
-  This is called 'name'
+  This is called `name'
 \end{english}
 
 Tattha katamaṁ rūpaṁ
@@ -5172,7 +5172,7 @@ Cattāro mahābhūtā catunnañca mahābhūtānaṁ upādāya rūpaṁ
 Idaṁ vuccati rūpaṁ
 
 \begin{english}
-  This is called 'form'
+  This is called `form'
 \end{english}
 
 Iti idañca nāmaṁ idañca rūpaṁ
@@ -5184,13 +5184,13 @@ Iti idañca nāmaṁ idañca rūpaṁ
 Idaṁ vuccati viññāṇa-paccayā nāmarūpaṁ
 
 \begin{english-hang}
-  This is called 'name-and-form' \breathmark\ arising from consciousness as a condition
+  This is called `name-and-form' \breathmark\ arising from consciousness as a condition
 \end{english-hang}
 
 Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
 
 \begin{english-hang}
-  Therein what is 'the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition?
+  Therein what is `the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition?
 \end{english-hang}
 
 \begin{pali-hang}
@@ -5204,13 +5204,13 @@ Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
 Idaṁ vuccati nāmarūpa-paccayā saḷāyatanaṁ
 
 \begin{english-hang}
-  This is called 'the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition
+  This is called `the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition
 \end{english-hang}
 
 Tattha katamo saḷāyatana-paccayā phasso
 
 \begin{english-hang}
-  Therein what is 'contact' \breathmark\ arising from the sixfold-sense-base as a condition?
+  Therein what is `contact' \breathmark\ arising from the sixfold-sense-base as a condition?
 \end{english-hang}
 
 \begin{pali-hang}
@@ -5224,13 +5224,13 @@ Tattha katamo saḷāyatana-paccayā phasso
 Ayaṁ vuccati saḷāyatana-paccayā phasso
 
 \begin{english-hang}
-  This is called 'contact' \breathmark\ arising from the sixfold-sense-base as a condition
+  This is called `contact' \breathmark\ arising from the sixfold-sense-base as a condition
 \end{english-hang}
 
 Tattha katamā phassa-paccayā vedanā
 
 \begin{english}
-  Therein what is 'feeling' \breathmark\ arising from contact as a condition?
+  Therein what is `feeling' \breathmark\ arising from contact as a condition?
 \end{english}
 
 \begin{pali-hang}
@@ -5245,13 +5245,13 @@ Tattha katamā phassa-paccayā vedanā
 Ayaṁ vuccati phassa-paccayā vedanā
 
 \begin{english}
-  This is called 'feeling' \breathmark\ arising from contact as a condition
+  This is called `feeling' \breathmark\ arising from contact as a condition
 \end{english}
 
 Tattha katamā vedanā-paccayā taṇhā
 
 \begin{english}
-  Therein what is 'craving' \breathmark\ arising from feeling as a condition?
+  Therein what is `craving' \breathmark\ arising from feeling as a condition?
 \end{english}
 
 \begin{pali-hang}
@@ -5265,13 +5265,13 @@ Tattha katamā vedanā-paccayā taṇhā
 Ayaṁ vuccati vedanā-paccayā taṇhā
 
 \begin{english}
-  This is called 'craving' \breathmark\ arising from feeling as a condition
+  This is called `craving' \breathmark\ arising from feeling as a condition
 \end{english}
 
 Tattha katamaṁ taṇhā-paccayā upādānaṁ
 
 \begin{english}
-  Therein what is 'clinging' \breathmark\ arising from craving as a condition?
+  Therein what is `clinging' \breathmark\ arising from craving as a condition?
 \end{english}
 
 \begin{pali-hang}
@@ -5287,13 +5287,13 @@ Tattha katamaṁ taṇhā-paccayā upādānaṁ
 Idaṁ vuccati taṇhā-paccayā upādānaṁ
 
 \begin{english}
-  This is called 'clinging' \breathmark\ arising from craving as a condition
+  This is called `clinging' \breathmark\ arising from craving as a condition
 \end{english}
 
 Tattha katamo upādāna-paccayā bhavo
 
 \begin{english}
-  Therein what is 'becoming' \breathmark\ arising from clinging as a condition?
+  Therein what is `becoming' \breathmark\ arising from clinging as a condition?
 \end{english}
 
 \linkdest{endnote82-body}
@@ -5307,13 +5307,13 @@ Kāmabhavo rūpabhavo arūpabhavo\makeatletter\hyperlink{endnote82-appendix}\Hy@
 Ayaṁ vuccati upādāna-paccayā bhavo
 
 \begin{english}
-  This is called 'becoming' \breathmark\ arising from clinging as a condition
+  This is called `becoming' \breathmark\ arising from clinging as a condition
 \end{english}
 
 Tattha katamā bhava-paccayā jāti
 
 \begin{english}
-  Therein what is 'birth' \breathmark\ arising from becoming as a condition?
+  Therein what is `birth' \breathmark\ arising from becoming as a condition?
 \end{english}
 
 \linkdest{endnote83-body}
@@ -5329,13 +5329,71 @@ Tattha katamā bhava-paccayā jāti
 Ayaṁ vuccati bhava-paccayā jāti
 
 \begin{english}
-  This is called 'birth' \breathmark\ arising from becoming as a condition
+  This is called `birth' \breathmark\ arising from becoming as a condition
 \end{english}
 
 Tattha katamaṁ jāti-paccayā jarāmaraṇaṁ
 
 \begin{english}
-  This is called 'ageing-and-death' \breathmark\ arising from birth as a condition
+Therein what is `ageing-and-death'̓ \breathmark\ arising from birth as a condition?
+\end{english}
+
+Atthi jarā atthi maraṇaṁ
+
+\begin{english}
+There is ageing \breathmark\ there is death
+\end{english}
+
+Tattha katamā jarā
+
+\begin{english}
+Therein what is ageing?
+\end{english}
+
+\begin{pali-hang}
+Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā \breathmark\ jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko
+\end{pali-hang}
+
+\begin{english-hang-verses}
+The ageing of various beings among the various classes of beings \breathmark\ their growing old \breathmark\ brokenness of teeth \breathmark\ greyness of hair \breathmark\ wrinkling of skin \breathmark\ decline of vitality \breathmark\ decay of faculties
+\end{english-hang-verses}
+
+Ayaṁ vuccati jarā
+
+\begin{english}
+This is called `ageing'
+\end{english}
+
+Tattha katamaṁ maraṇaṁ
+
+\begin{english}
+Therein what is death?
+\end{english}
+
+\begin{pali-hang}
+Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti \breathmark\ cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālakiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvitindriyass-upacchedo
+\end{pali-hang}
+
+\begin{english-hang-verses}
+The passing away of various beings from the various classes of beings \breathmark\ their perishing \breathmark\ breaking up \breathmark\ disappearance \breathmark\ dying \breathmark\ death \breathmark\ completion of time \breathmark\ breakup of the aggregates \breathmark\ laying down of the carcass \breathmark\ cutting off the life faculty
+\end{english-hang-verses}
+
+Idaṁ vuccati maraṇaṁ
+
+\begin{english}
+This is called `death'
+\end{english}
+
+Iti ayañca jarā idañca maraṇaṁ
+
+\begin{english}
+Thus is this ageing and this death
+\end{english}
+
+Idaṁ vuccati jāti-paccayā jarāmaraṇaṁ
+
+\begin{english}
+  This is called `ageing-and-death' \breathmark\ arising from birth as a condition
 \end{english}
 
 Tattha katamo soko
@@ -5358,7 +5416,7 @@ Tattha katamo soko
 Ayaṁ vuccati soko
 
 \begin{english}
-  This is called 'sorrow'
+  This is called `sorrow'
 \end{english}
 
 Tattha katamo paridevo
@@ -5378,7 +5436,7 @@ Tattha katamo paridevo
 Ayaṁ vuccati paridevo
 
 \begin{english}
-  This is called 'lamentation'
+  This is called `lamentation'
 \end{english}
 
 Tattha katamaṁ dukkhaṁ?
@@ -5398,7 +5456,7 @@ Tattha katamaṁ dukkhaṁ?
 Idaṁ vuccati dukkhaṁ
 
 \begin{english}
-  This is called 'pain'
+  This is called `pain'
 \end{english}
 
 Tattha katamaṁ domanassaṁ
@@ -5418,7 +5476,7 @@ Tattha katamaṁ domanassaṁ
 Idaṁ vuccati domanassaṁ
 
 \begin{english}
-  This is called 'displeasure'
+  This is called `displeasure'
 \end{english}
 
 Tattha katamo upāyāso
@@ -5438,7 +5496,7 @@ Tattha katamo upāyāso
 Ayaṁ vuccati upāyāso
 
 \begin{english}
-  This is called 'despair'
+  This is called `despair'
 \end{english}
 
 Evametassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
@@ -8064,11 +8122,9 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ nayidaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
-\end{pali-hang}
-\begin{pali-hangtogether}
+  Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ nayidaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.\\
   Yasmā ca kho bhikkhave rūpaṁ anattā \breathmark\ tasmā rūpaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
-\end{pali-hangtogether}
+\end{pali-hang}
 
 \begin{pali-hang}
   Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
@@ -8292,48 +8348,33 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus form is not-self. If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
-\end{english-only-hang}
-
-\begin{english-only-hangtogether}
+  Bhikkhus form is not-self. If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus.''\\
   But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
-\end{english-only-hangtogether}
-
-\begin{english-only-hang}
-  Feeling is not-self. If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''
 \end{english-only-hang}
 
-\begin{english-only-hangtogether}
+\begin{english-only-hang}
+  Feeling is not-self. If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''\\
   But since feeling is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''
-\end{english-only-hangtogether}
-
-\begin{english-only-hang}
-  Perception is not-self. If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''
 \end{english-only-hang}
 
-\begin{english-only-hangtogether}
+\begin{english-only-hang}
+  Perception is not-self. If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''\\
   But since perception is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''
-\end{english-only-hangtogether}
-
-\begin{english-only-hang}
-  Volitional formations are not-self. If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''
 \end{english-only-hang}
 
-\begin{english-only-hangtogether}
+\begin{english-only-hang}
+  Volitional formations are not-self. If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''\\
   But since volitional formations are not-self \breathmark\ they lead to \mbox{affliction}~\breathmark\ and none can command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''
-\end{english-only-hangtogether}
-
-\begin{english-only-hang}
-  Consciousness is not-self. If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
 \end{english-only-hang}
 
-\begin{english-only-hangtogether}
+\begin{english-only-hang}
+  Consciousness is not-self. If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''\\
   But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
-\end{english-only-hangtogether}
+\end{english-only-hang}
 
-\begin{leader-only}
+\begin{leader-english-only}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus what do you think:} \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
+\end{leader-english-only}
 
 \vspace{-0.99em} % TODO too close
 
@@ -8402,9 +8443,9 @@ Atha kho bhagavā udānaṁ udānesi:
   ``No venerable Sir.''
 \end{english-only-nohang}
 
-\begin{leader-only}
+\begin{leader-english-only}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Therefore bhikkhus} \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
+\end{leader-english-only}
 
 \vspace{-0.99em} % TODO too close
 
@@ -8429,10 +8470,10 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \linkdest{endnote110-body}
-\begin{leader-only}
+\begin{leader-english-only}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple}\makeatletter\hyperlink{endnote110-appendix}\Hy@raisedlink{\hypertarget{endnote110-body}{}{\pagenote{%
         \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
+\end{leader-english-only}
 
 \vspace{-0.99em} % TODO too close
 
@@ -8689,9 +8730,9 @@ Kena ādittaṁ?
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
 \end{english-only-hangtogether}
 
-\begin{leader-only}
+\begin{leader-english-only}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple} \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
+\end{leader-english-only}
 
 \vspace{-0.99em} % TODO too close
 

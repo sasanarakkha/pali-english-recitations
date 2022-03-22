@@ -326,6 +326,8 @@
 
 % Color used for links and headers
 \definecolor{sbs-brown}{HTML}{60291F}
+% Color used for dividers
+\definecolor{sbs-gold}{HTML}{aa6a1f}
 
 % Fixes endnotes two-way link that aim too low
 % https://tex.stackexchange.com/questions/17057/hypertarget-seems-to-aim-a-line-too-low
@@ -1571,7 +1573,7 @@ philo-sophical munindo amaravati thai-land}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
   \begin{minipage}{\linewidth}%
     \centering%
-    \pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=8pt,symmetry=c]{88}%
+    \pgfornament[color=sbs-gold,width=7cm,scale=1,ydelta=8pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
   % Starting at the title hyperref above
