@@ -8127,32 +8127,24 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
-\end{pali-hang}
-\begin{pali-hangtogether}
+  Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.\\
   Yasmā ca kho bhikkhave vedanā anattā \breathmark\ tasmā vedanā ābādhāya saṁvattati \breathmark\ na ca labbhati vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
-\end{pali-hangtogether}
+\end{pali-hang}
 
 \begin{pali-hang}
-  Saññā anattā \breathmark\ saññā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
-\end{pali-hang}
-\begin{pali-hangtogether}
+  Saññā anattā \breathmark\ saññā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.\\
   Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
-\end{pali-hangtogether}
+\end{pali-hang}
 
 \begin{pali-hang}
-  Saṅkhārā anattā \breathmark\ saṅkhārā ca hidaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
-\end{pali-hang}
-\begin{pali-hangtogether}
+  Saṅkhārā anattā \breathmark\ saṅkhārā ca hidaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.\\
   Yasmā ca kho bhikkhave saṅkhārā anattā \breathmark\ tasmā saṅkhārā ābādhāya saṁvattanti \breathmark\ na ca labbhati saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
-\end{pali-hangtogether}
+\end{pali-hang}
 
 \begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
-\end{pali-hang}
-\begin{pali-hangtogether}
+  Viññāṇaṁ anattā \breathmark\ viññāṇañca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.\\
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
-\end{pali-hangtogether}
+\end{pali-hang}
 
 \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\
@@ -8348,8 +8340,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus form is not-self. If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus.''\\
-  But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
+  Bhikkhus form is not-self. If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus.'' But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8587,27 +8578,27 @@ Kena ādittaṁ?
 \vspace{-0.99em} % TODO too close
 
 \begin{pali-hang}
-  Sutvā ariyasāvako cakkhusmimpi nibbindati \breathmark\ rūpesu pi nibbindati \breathmark\ cakkhuviññāṇe pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+  Sutvā ariyasāvako cakkhusmimpi nibbindati \breathmark\ rūpesu-pi nibbindati \breathmark\ cakkhuviññāṇe-pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Sotasmimpi nibbindati \breathmark\ saddesu pi nibbindati \breathmark\ sotaviññāṇe pi nibbindati \breathmark\ sotasamphassepi nibbindati \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+  Sotasmimpi nibbindati \breathmark\ saddesu-pi nibbindati \breathmark\ sotaviññāṇe-pi nibbindati \breathmark\ sotasamphassepi nibbindati \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ghānasmimpi nibbindati \breathmark\ gandhesu pi nibbindati \breathmark\ ghānaviññāṇe pi nibbindati \breathmark\ ghānasamphassepi nibbindati \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+  Ghānasmimpi nibbindati \breathmark\ gandhesu-pi nibbindati \breathmark\ ghānaviññāṇe-pi nibbindati \breathmark\ ghānasamphassepi nibbindati \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jivhāya pi nibbindati \breathmark\ rasesu pi nibbindati \breathmark\ jivhāviññāṇe pi nibbindati \breathmark\ jivhāsamphassepi nibbindati \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+  Jivhāya-pi nibbindati \breathmark\ rasesu-pi nibbindati \breathmark\ jivhāviññāṇe-pi nibbindati \breathmark\ jivhāsamphassepi nibbindati \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Kāyasmimpi nibbindati \breathmark\ phoṭṭhabbesu pi nibbindati \breathmark\ kāyaviññāṇe pi nibbindati \breathmark\ kāyasamphassepi nibbindati \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+  Kāyasmimpi nibbindati \breathmark\ phoṭṭhabbesu-pi nibbindati \breathmark\ kāyaviññāṇe-pi nibbindati \breathmark\ kāyasamphassepi nibbindati \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Manasmimpi nibbindati \breathmark\ dhammesu pi nibbindati \breathmark\ manoviññāṇe pi nibbindati \breathmark\ manosamphasse pi nibbindati \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+  Manasmimpi nibbindati \breathmark\ dhammesu-pi nibbindati \breathmark\ manoviññāṇe-pi nibbindati \breathmark\ manosamphasse-pi nibbindati \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
