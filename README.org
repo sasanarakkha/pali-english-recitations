@@ -6,7 +6,7 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 - [[https://www.ctan.org/pkg/tabularray][Tabularray]]
 - [[https://www.ctan.org/pkg/ninecolors][Ninecolors]]
 
-Download package archive and move .sty to the repository root directory or to =texmf= found in the users home directory. Create the directory if it isn't there.
+Download package archive and move .sty to the repository root directory or to =texmf/tex= found in the users home directory. Create the directory if it isn't there.
 
 In Linux: =/home/<your-username>/texmf/tex=
 

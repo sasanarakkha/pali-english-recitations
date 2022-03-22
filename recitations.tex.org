@@ -8122,29 +8122,39 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ nayidaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.\\
+  Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ nayidaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
+\end{pali-hang}
+\begin{pali-hangtogether}
   Yasmā ca kho bhikkhave rūpaṁ anattā \breathmark\ tasmā rūpaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
-  Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.\\
+  Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
+\end{pali-hang}
+\begin{pali-hangtogether}
+\end{pali-hangtogether}
   Yasmā ca kho bhikkhave vedanā anattā \breathmark\ tasmā vedanā ābādhāya saṁvattati \breathmark\ na ca labbhati vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
-\end{pali-hang}
 
 \begin{pali-hang}
-  Saññā anattā \breathmark\ saññā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.\\
+  Saññā anattā \breathmark\ saññā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
+\end{pali-hang}
+\begin{pali-hangtogether}
+\end{pali-hangtogether}
   Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
-\end{pali-hang}
 
 \begin{pali-hang}
-  Saṅkhārā anattā \breathmark\ saṅkhārā ca hidaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.\\
+  Saṅkhārā anattā \breathmark\ saṅkhārā ca hidaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
+\end{pali-hang}
+\begin{pali-hangtogether}
   Yasmā ca kho bhikkhave saṅkhārā anattā \breathmark\ tasmā saṅkhārā ābādhāya saṁvattanti \breathmark\ na ca labbhati saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.\\
-  Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
+  Viññāṇaṁ anattā \breathmark\ viññāṇañca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
 \end{pali-hang}
+\begin{pali-hangtogether}
+  Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
+\end{pali-hangtogether}
 
 \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\
@@ -8155,23 +8165,18 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{pali-hang}
   Rūpaṁ niccaṁ vā aniccaṁ vāti?
 \end{pali-hang}
-
 \begin{pali-hangtogether}
   Aniccaṁ bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   No hetaṁ bhante.
 \end{pali-hangtogether}
@@ -8179,23 +8184,18 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{pali-hang}
   Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā vāti?
 \end{pali-hang}
-
 \begin{pali-hangtogether}
   Aniccā bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   No hetaṁ bhante.
 \end{pali-hangtogether}
@@ -8203,23 +8203,18 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{pali-hang}
   Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā vāti?
 \end{pali-hang}
-
 \begin{pali-hangtogether}
   Aniccā bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   No hetaṁ bhante.
 \end{pali-hangtogether}
@@ -8227,23 +8222,18 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{pali-hang}
   Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā vāti?
 \end{pali-hang}
-
 \begin{pali-hangtogether}
   Aniccā bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   No hetaṁ bhante.
 \end{pali-hangtogether}
@@ -8251,23 +8241,18 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{pali-hang}
   Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ vāti?
 \end{pali-hang}
-
 \begin{pali-hangtogether}
   Aniccaṁ bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
 \end{pali-hangtogether}
-
 \begin{pali-hangtogether}
   No hetaṁ bhante.
 \end{pali-hangtogether}
@@ -8340,28 +8325,39 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus form is not-self. If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus.'' But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
+  Bhikkhus form is not-self. If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
 \end{english-only-hang}
+\begin{english-only-hangtogether}
+  But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Feeling is not-self. If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''\\
+  Feeling is not-self. If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''
+\end{english-only-hang}
+\begin{english-only-hangtogether}
   But since feeling is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Perception is not-self. If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''\\
+  Perception is not-self. If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''
+\end{english-only-hang}
+\begin{english-only-hangtogether}
   But since perception is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Volitional formations are not-self. If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''\\
+  Volitional formations are not-self. If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''
+\end{english-only-hang}
+\begin{english-only-hangtogether}
   But since volitional formations are not-self \breathmark\ they lead to \mbox{affliction}~\breathmark\ and none can command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Consciousness is not-self. If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''\\
-  But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
+  Consciousness is not-self. If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
 \end{english-only-hang}
+\begin{english-only-hangtogether}
+  But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
+\end{english-only-hangtogether}
 
 \begin{leader-english-only}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus what do you think:} \hspace{-0.5mm}\anglebracketright\
