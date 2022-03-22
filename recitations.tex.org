@@ -8508,7 +8508,7 @@ Sabbaṁ bhikkhave ādittaṁ!
 Kiñca bhikkhave sabbaṁ ādittaṁ?
 
 \begin{pali-hang}
-  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam-pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8518,7 +8518,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam-pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8528,7 +8528,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam-pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8538,7 +8538,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam-pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8548,7 +8548,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam-pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8558,7 +8558,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+  Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam-pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -9047,7 +9047,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang}
   Ratanattaya-tejasā\\
   Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā\\
-  Anekā antarāyā pi – Vinassantu asesato\\
+  Anekā antarāyā-pi – Vinassantu asesato\\
   Jaya-siddhi dhanaṁ lābhaṁ – Sotthi bhāgyaṁ sukhaṁ balaṁ\\
   Siri āyu ca vaṇṇo ca – Bhogaṁ vuḍḍhī ca yasavā\\
   Sata-vassā ca āyu ca – Jīva-siddhī bhavantu te
@@ -9187,7 +9187,7 @@ Sadā sotthī bhavantu te
   Sukha-vaḍḍhako hotu sabbadā\\
   Dukkha-roga-bhayāverā\\
   Sokā sattu c'upaddavā\\
-  Anekā antarāyā pi\\
+  Anekā antarāyā-pi\\
   Vinassantu ca tejasā\\
   Jaya-siddhi dhanaṁ lābhaṁ\\
   Sotthi bhāgyaṁ sukhaṁ balaṁ\\
@@ -9329,7 +9329,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang}
 \begin{pali-hangtogether}
   Na tena dakkhiṇā onā\\
-  Te pi puññassa bhāgino
+  Te-pi puññassa bhāgino
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -9919,7 +9919,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \begin{pali-hang}
   Bhummāni vā yāni va antalikkhe\\
   Sabb'eva bhūtā sumanā bhavantu\\
-  Atho pi sakkacca suṇantu bhāsitaṁ
+  Atho-pi sakkacca suṇantu bhāsitaṁ
 \end{pali-hang}
 
 \begin{english-verses}
@@ -10067,7 +10067,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
   Sahā v'assa dassana-sampadāya\\
   Tay'assu dhammā jahitā bhavanti\\
   Sakkāya-diṭṭhi vicikicchitañ-ca\\
-  Sīlabbataṁ vā pi yad-atthi kiñci\\
+  Sīlabbataṁ vā-pi yad-atthi kiñci\\
   Catūh'apāyehi ca vippamutto\\
   Cha cābhiṭhānāni abhabbo kātuṁ\\
   Idam-pi saṅghe ratanaṁ paṇītaṁ\\
@@ -10297,7 +10297,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \begin{pali-hang-continued}
   Mātā yathā niyaṁ puttaṁ\\
   Āyusā eka-puttam-anurakkhe\\
-  Evam pi sabba-bhūtesu\\
+  Evam-pi sabba-bhūtesu\\
   Mānasam-bhāvaye aparimāṇaṁ
 \end{pali-hang-continued}
 
@@ -10470,7 +10470,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \label{buddha-dhamma-sangha-guna}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Iti pi so bhagavā \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Iti-pi so bhagavā \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
@@ -10718,7 +10718,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Ekadā dhamma-rājā pi\\
+  Ekadā dhamma-rājā-pi\\
   Gelaññenābhipīḷito\\
   Cundattherena tañ-ñeva\\
   Bhaṇāpetvāna sādaraṁ\\
@@ -10827,7 +10827,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \begin{pali-hang}
   Bhayappattā ca nibbhayā\\
   Sokappattā ca nissokā\\
-  Hontu sabbe pi pāṇino
+  Hontu sabbe-pi pāṇino
 \end{pali-hang}
 
 \begin{english-verses}
@@ -11022,7 +11022,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Etā pi buddha-jaya-maṅgala-aṭṭha-gāthā\\
+  Etā-pi buddha-jaya-maṅgala-aṭṭha-gāthā\\
   Yo vācano dina-dine saratem-atandī\\
   Hitvān'aneka-vividhāni c'upaddavāni\\
   Mokkhaṁ sukhaṁ adhigameyya naro sapañño
