@@ -1,9 +1,9 @@
-# Sāsanārakkha Chanting Book
+# Sāsanārakkha Pāli-English Recitations
 
 <!-- FIXME
 <div class="titlepage-cover">
 
-![Sāsanārakkha Chanting Book](./includes/images/reference-desktop-cover.jpg)
+![Sāsanārakkha Pāli-English Recitations](./includes/images/reference-desktop-cover.jpg)
 
 </div>
 -->
@@ -11,6 +11,6 @@
 <https://sasanarakkha.org/>
 
 <div>
-<p><em>Last updated on: 2021-11-20</em></p>
+<p><em>Last updated on: 2022-03-23</em></p>
 </div>
 

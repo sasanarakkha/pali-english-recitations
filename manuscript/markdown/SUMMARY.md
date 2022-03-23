@@ -3,6 +3,7 @@
 [Sāsanārakkha Chanting Book](titlepage.md)
 
 <!-- - [Pāli-English Recitations](essential-recitations.md) -->
+- [Contents](recitations/contents.md)
 - [Homage to the Triple Gem](recitations/homage.md)
 - [Reflections](recitations/reflections.md)
 - [Paritta](recitations/paritta.md)

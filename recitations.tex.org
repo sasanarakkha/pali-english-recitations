@@ -7726,7 +7726,6 @@ Tesaṁ vūpasamo sukho
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
 
 \section{Dhammacakkappavattana-sutta}
-
 \label{dhammacakkappavattana-full}
 
 \begin{leader}
@@ -9071,7 +9070,6 @@ Sadā sotthī bhavantu te
 
 ** Bhojana-dānānumodanā
 #+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
-
 
 \section{Bhojana-dānānumodanā}
 \label{bhojana-dananumodana}
