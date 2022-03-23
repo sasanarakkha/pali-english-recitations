@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 pwd
-MDBOOK_EPUB_BIN=./mdbook-epub
+MDBOOK_EPUB_BIN=../libs/mdbook-epub
 
-EBOOK_NAME="Sasanarakkha-Chanting-Book-Reference"
+EBOOK_NAME="SBS Pāli-English Recitations"
 EPUB_FILE="$EBOOK_NAME.epub"
 MOBI_FILE="$EBOOK_NAME.mobi"
 
@@ -37,7 +37,7 @@ cd manuscript/markdown
 mv titlepage-html.md titlepage.md
 cd ../..
 
-mv "./book/epub/Sāsanārakkha Chanting Book.epub" "./$EPUB_FILE"
+mv "./book/epub/SBS Pāli-English Recitations.epub" "./$EPUB_FILE"
 
 if [ "$?" != "0" ]; then
     echo "Error, exiting."

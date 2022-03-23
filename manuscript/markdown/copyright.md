@@ -1,6 +1,6 @@
 # Copyright
 
-Sāsanārakkha Chanting Book
+SBS Pāli-English Recitations
 
 This book is offered for free distribution, please do not sell this book.
 

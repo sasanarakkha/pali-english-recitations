@@ -1,12 +1,10 @@
-# Sāsanārakkha Pāli-English Recitations
+# SBS Pāli-English Recitations
 
-<!-- FIXME
 <div class="titlepage-cover">
 
-![Sāsanārakkha Pāli-English Recitations](./includes/images/reference-desktop-cover.jpg)
+![SBS Pāli-English Recitations](./includes/images/reference-desktop-cover.jpg)
 
 </div>
--->
 
 <https://sasanarakkha.org/>
 

@@ -387,6 +387,7 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Ap
 #+begin_src latex :tangle ./manuscript/tex/abbreviations.tex
 
 \chapter{Abbreviations}
+\label{abbreviations}
 
 \begin{tabular}{@{}ll@{}}
   \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{7.35mm}Only recited by the leader \\
@@ -8764,7 +8765,7 @@ Kena ādittaṁ?
 
 * Thanksgiving Recitations
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \ifdesktopversion
 \chapterOpeningPage{thanksgiving-recitations-compressed.jpg}
@@ -8779,7 +8780,7 @@ Kena ādittaṁ?
 #+end_src
 
 ** Just as Rivers
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \sectionPaliTitle{Yathā vāri-vahā pūrā}
 \section{Just as Rivers}
@@ -8979,7 +8980,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Yathā vāri-vahā pūrā
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \setsecheadstyle{\subsectionFmt}
 \section{Yathā vāri-vahā pūrā}
@@ -9031,7 +9032,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Ratanattayānubhāv'ādi-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \setsecheadstyle{\subsectionFmt}
 \section{Ratanattay'ānubhāv'ādi-gāthā}
@@ -9069,7 +9070,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Bhojana-dānānumodanā
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \section{Bhojana-dānānumodanā}
 \label{bhojana-dananumodana}
@@ -9149,7 +9150,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Culla-maṅgala-cakka-vāḷa
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \section{Culla-maṅgala-cakka-vāḷa}
 \label{culla-mangala-cakka-vala}
@@ -9204,7 +9205,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Aggappasāda-sutta-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \section{Aggappasāda-sutta-gāthā}
 \label{aggappasada-sutta-gatha}
@@ -9283,7 +9284,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Kāla-dāna-sutta-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \section{Kāla-dāna-sutta-gāthā}
 \label{kala-dana-sutta-gatha}
@@ -9358,7 +9359,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** So attha-laddho
-#+begin_src latex :tangle ./manuscript/tex/recitations/anumodana.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
 \section{So attha-laddho}
 \label{so-attha-laddho}
@@ -9418,7 +9419,7 @@ Sadā sotthī bhavantu te
 
 * Protective Recitations
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \ifdesktopversion
 \chapterOpeningPage{protective-recitations-compressed.jpg}
@@ -9433,7 +9434,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Devā-ārādhanā
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Devā-ārādhanā}
 \label{deva-aradhana}
@@ -9487,7 +9488,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Pubba-bhāga-nama-kāra-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
@@ -9510,7 +9511,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Saraṇa-gamana-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Saraṇa-gamana-pāṭho}
 \label{sarana-gamana-patho}
@@ -9556,7 +9557,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Nama-kāra-siddhi-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Nama-kāra-siddhi-gāthā}
 \label{nama-kara-siddhi-gatha}
@@ -9638,7 +9639,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Namo-kāra-aṭṭhaka
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Namo-kāra-aṭṭhaka}
 \label{namo-kara-atthaka}
@@ -9706,7 +9707,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Maṅgala-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Maṅgala-sutta}
 \label{mangala-sutta}
@@ -9903,7 +9904,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Ratana-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Ratana-sutta}
 \label{ratana-sutta}
@@ -10198,7 +10199,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Karaṇīya-metta-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Karaṇīya-metta-sutta}
 \label{karaniya-metta-sutta}
@@ -10353,7 +10354,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Khandha-parittaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Khandha-parittaṁ}
 \label{khandha-parittam}
@@ -10462,7 +10463,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Buddha-Dhamma-Saṅgha-guṇā
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Buddha-Dhamma-Saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
@@ -10547,7 +10548,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Yaṅ kiñci ratanaṁ loke
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Yaṅ kiñci ratanaṁ loke}
 \label{yan-kinci-ratanam-loke}
@@ -10661,7 +10662,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Bojjh'aṅga-parittaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Bojjh'aṅga-parittaṁ}
 \label{bojjhana-parittam}
@@ -10754,7 +10755,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Abhaya-parittaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Abhaya-parittaṁ}
 \label{abhaya-parittam}
@@ -10811,7 +10812,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Devatā-uyyojana-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Devatā-uyyojana-gāthā}
 \label{devata-uyyojana-gatha}
@@ -10889,7 +10890,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Jaya-maṅgala-aṭṭha-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Jaya-maṅgala-aṭṭha-gāthā}
 \label{jaya-mangala-attha-gatha}
@@ -11040,7 +11041,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Jaya-parittaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Jaya-parittaṁ}
 \label{jaya-parittam}
@@ -11137,7 +11138,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Bhavatu-sabba-maṅgalaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-sabba-mangalam}
@@ -11197,7 +11198,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 
 * Funeral Recitations
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/paritta.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \ifdesktopversion
 \chapterOpeningPage{funeral-recitations-compressed.jpg}
@@ -11212,7 +11213,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 #+end_src
 
 ** Pubba-bhāga-nama-kāra-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
@@ -11234,7 +11235,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 #+end_src
 
 ** Dhamma-saṅgaṇī-mātikā
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \section{Dhamma-saṅgaṇī-mātikā}
 \label{dhamma-sangani-matika}
@@ -11513,7 +11514,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 #+end_src
 
 ** Vipassanā-bhūmi-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
@@ -11705,7 +11706,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 #+end_src
 
 ** Paṭṭhāna-mātikā-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \section{Paṭṭhāna-mātikā-pāṭho}
 \label{patthana-matika-patho}
@@ -11729,7 +11730,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 #+end_src
 
 ** Adāsi-me ādi gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \section{Adāsi-me ādi gāthā}
 \label{adasi-me-adi-gatha}
@@ -11800,7 +11801,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 #+end_src
 
 ** Paṁsu-kūla for the Dead
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \section{Paṁsu-kūla for the Dead}
 \label{pamsu-kula-dead}
@@ -11852,7 +11853,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 #+end_src
 
 ** Paṁsu-kūla for the Living
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \section{Paṁsu-kūla for the Living}
 \label{pamsu-kula-living}
@@ -11882,7 +11883,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 
 ** Bhavatu-sabba-maṅgalaṁ
 
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral.tex
+#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu}
 

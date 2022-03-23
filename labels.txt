@@ -4,6 +4,8 @@ Recitation Schedule
 Purpose and Benefits
 \label{purpose-and-benefits}
 
+
+
 Dedication of Offerings
 \label{dedication-of-offerings}
 
@@ -24,6 +26,8 @@ Salutation to the Triple Gem
 
 Closing Homage
 \label{closing-homage}
+
+
 
 The Buddha's first Exclamation
 \label{buddhas-first-exclamation}
@@ -64,6 +68,8 @@ The Highest Blessings
 The Buddha's Words on Loving-Kindness
 \label{words-on-loving-kindness}
 
+
+
 Setting in Motion the Wheel of Dhamma
 \label{wheel-of-dhamma-abridged}
 
@@ -103,6 +109,8 @@ Striving According to the Dhamma
 The Buddha's Final Instruction
 \label{buddhas-final-instruction}
 
+
+
 The Four Requisites
 \label{four-requisites}
 
@@ -127,6 +135,8 @@ The Thirty-Two Parts
 Recollection of Impermanence
 \label{recollection-of-impermanence}
 
+
+
 Dhammacakkappavattana-sutta
 \label{dhammacakkappavattana-full}
 
@@ -144,6 +154,8 @@ The Discourse on the Characteristic of Not-Self
 
 The Fire Sermon
 \label{fire-sermon}
+
+
 
 Just as Rivers
 \label{just-as-rivers}
@@ -168,6 +180,8 @@ Kāla-dāna-sutta-gāthā
 
 So attha-laddho
 \label{so-attha-laddho}
+
+
 
 Devā-ārādhanā
 \label{deva-aradhana}
@@ -220,6 +234,8 @@ Jaya-parittaṁ
 Bhavatu-sabba-maṅgalaṁ
 \label{bhavatu-sabba-mangalam}
 
+
+
 Dhamma-saṅgaṇī-mātikā
 \label{dhamma-sangani-matika}
 
@@ -237,6 +253,10 @@ Paṁsu-kūla for the Dead
 
 Paṁsu-kūla for the Living
 \label{pamsu-kula-living}
+
+Bhavatu-sabba-maṅgalaṁ
+\label{bhavatu-sabba-mangalam}
+
 
 Sharing and Aspirations
 \label{uddissanadhitthana}

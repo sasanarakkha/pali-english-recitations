@@ -41,14 +41,16 @@ body {
   font-family: 'Open Sans X', sans-serif; }
 
 h1, h2, h3, h4 {
-  font-family: 'Nunito Sans', sans-serif;
-  text-align: left; }
+  font-family: 'Libertinus Serif', sans-serif;
+  text-align: center;
+}
 
 h1 {
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1pt;
-  word-spacing: 2pt; }
+  word-spacing: 2pt;
+}
 
 blockquote {
   background: none;
