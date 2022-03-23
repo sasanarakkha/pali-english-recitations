@@ -1,10 +1,10 @@
 # Morning Chanting
-[Dedication of Offerings](#dedication-of-offerings)
-[Preliminary Homage](#homage)
-[Homage to the Buddha](#buddha)
-[Homage to the Dhamma](#dhamma)
-[Homage to the Saṅgha](#sangha)
-[Salutation to the Triple Gem (English)](#salutation)
+[Dedication of Offerings](#dedication-of-offerings)\
+[Preliminary Homage](#homage)\
+[Homage to the Buddha](#buddha)\
+[Homage to the Dhamma](#dhamma)\
+[Homage to the Saṅgha](#sangha)\
+[Salutation to the Triple Gem (English)](#salutation)\
 [Closing Homage](#closing)
 
 # Verses
