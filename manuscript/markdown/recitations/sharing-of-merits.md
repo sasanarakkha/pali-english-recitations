@@ -1,26 +1,3 @@
-# Funeral Recitations
-
-**Contents**
-
-- [Pubba-bhāga-nama-kāra-pāṭho](#pubba-bhaga)
-- [Dhamma-saṅgaṇī-mātikā](#dhamma-sangani)
-- [Vipassanā-bhūmi-pāṭho](#vipassana-bhumi)
-- [Paṭṭhāna-mātikā-pāṭho](#patthana-matika)
-- [Adāsi-me ādi gāthā](#adasi-me)
-- [Paṁsu-kūla for the Dead](#pamsu-kula-dead)
-- [Paṁsu-kūla for the Living](#pamsu-kula-living)
-- [Bhavatu-sabba-maṅgalaṁ](#bhavatu)
-
-# Sharing of Merits
-
-**Contents**
-
-- [Sharing and Aspirations](#sharing-aspirations)
-- [Sharing of All Merits](#sharing-all-merits)
-- [Sharing of Merits with the Departed](#merits-departed)
-- [Sharing of Merits with the Devas](#merits-devas)
-- [The Highest Honour and Aspirations](#highest-honour-aspirations)
-
 <!-- section{Sharing and Aspirations} -->
 <!-- paliTitle{Uddissanādhiṭṭhānā} -->
 

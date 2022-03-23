@@ -1,21 +1,8 @@
-# Morning Chanting
-
-**Contents**
-
-- [Dedication of Offerings](#dedication)
-- [Preliminary Homage](#homage)
-- [Homage to the Buddha](#buddha)
-- [Homage to the Dhamma](#dhamma)
-- [Homage to the Saṅgha](#sangha)
-- [Salutation to the Triple Gem (English)](#salutation)
-- [Closing Homage](#closing)
-
-## Dedication of Offerings<a id="dedication"></a>
+## Dedication of Offerings<a id="dedication-of-offerings"></a>
 
 [Yo so] bhagavā arahaṁ sammāsambuddho
 
 <div class="english">
-
 
 >  To the Blessed One the Worthy One who fully attained Perfect Enlightenment
 

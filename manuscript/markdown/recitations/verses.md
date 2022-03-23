@@ -1,21 +1,3 @@
-# Verses
-
-**Contents**
-
-- [The Buddha's First Exclamation](#first-exclamation)
-- [Respect for the Dhamma](#respect-for-the-dhamma)
-- [Going to True and False Refuges](#true-false-refuges)
-- [The Pāṭimokkha Exhortation](#patimokkha-exhortation)
-- [The Three Characteristics](#three-characteristics)
-- [The Burdens](#burdens)
-- [From the Elder Raṭṭhapāla](#ratthapala)
-- [From the Elder Pārāpariya](#parapariya)
-- [On Protection](#on-protection)
-- [Miscellaneous Verses](#misc-verses)
-- [A Single Excellent Night](#single-excellent-night)
-- [The Highest Blessings](#highest-blessings)
-- [The Buddha’s Words on Loving-Kindness](#loving-kindness)
-
 ## The Buddha's First Exclamation<a id="first-exclamation"></a>
 
 Aneka-jāti-saṁsāraṁ – Sandhāvissaṁ anibbisaṁ

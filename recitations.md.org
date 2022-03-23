@@ -4,10 +4,11 @@
 #+startup: fold
 
 * Table of Contents :toc:
+- [[#contents][Contents]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#the-purpose-and-benefits-of-dhamma-recitation][The Purpose and Benefits of Dhamma Recitation]]
+- [[#abbreviations][Abbreviations]]
 - [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
-  - [[#contents][Contents]]
   - [[#dedication-of-offerings][Dedication of Offerings]]
   - [[#preliminary-homage][Preliminary Homage]]
   - [[#homage-to-the-buddha][Homage to the Buddha]]
@@ -16,7 +17,6 @@
   - [[#salutation-to-the-triple-gem][Salutation to the Triple Gem]]
   - [[#closing-homage][Closing Homage]]
 - [[#verses][Verses]]
-  - [[#contents-1][Contents]]
   - [[#the-buddhas-first-exclamation][The Buddha's First Exclamation]]
   - [[#respect-for-the-dhamma][Respect for the Dhamma]]
   - [[#going-to-true-and-false-refuges][Going to True and False Refuges]]
@@ -31,7 +31,6 @@
   - [[#the-highest-blessings][The Highest Blessings]]
   - [[#the-buddhas-words-on-loving-kindness][The Buddha’s Words on Loving-Kindness]]
 - [[#teachings][Teachings]]
-  - [[#contents-2][Contents]]
   - [[#setting-in-motion-the-wheel-of-dhamma][Setting in Motion the Wheel of Dhamma]]
   - [[#requisites-for-awakening][Requisites for Awakening]]
   - [[#the-seven-factors-of-awakening][The Seven Factors of Awakening]]
@@ -44,26 +43,14 @@
   - [[#principles-of-non-decline][Principles of Non-Decline]]
   - [[#striving-according-to-the-dhamma][Striving According to the Dhamma]]
   - [[#the-buddhas-final-instruction][The Buddha’s Final Instruction]]
-- [[#reflections][Reflections]]
-  - [[#contents-3][Contents]]
-  - [[#the-four-requisites][The Four Requisites]]
-  - [[#the-repulsiveness-of-food][The Repulsiveness of Food]]
-  - [[#universal-well-being][Universal Well-Being]]
-  - [[#the-divine-abidings][The Divine Abidings]]
-  - [[#five-subjects-for-frequent-recollection][Five Subjects for Frequent Recollection]]
-  - [[#ten-subjects-for-frequent-reflection-by-one-gone-forth][Ten Subjects for Frequent Reflection by One Gone Forth]]
-  - [[#the-thirty-two-body-parts][The Thirty-Two Body Parts]]
-  - [[#recollection-of-impermanence][Recollection of Impermanence]]
 - [[#cardinal-suttas][Cardinal Suttas]]
-  - [[#contents-4][Contents]]
   - [[#dhammacakkappavattana-sutta][Dhammacakkappavattana Sutta]]
   - [[#the-discourse-on-setting-in-motion-the-wheel-of-dhamma][The Discourse on Setting in Motion the Wheel of Dhamma]]
   - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa Sutta]]
   - [[#the-discourse-on-the-characteristic-of-not-self][The Discourse on the Characteristic of Not-Self]]
   - [[#āditta-pariyāya-sutta][Āditta-Pariyāya Sutta]]
   - [[#the-fire-sermon][The Fire Sermon]]
-- [[#anumodanā][Anumodanā]]
-  - [[#contents-5][Contents]]
+- [[#thanksgiving-recitations][Thanksgiving Recitations]]
   - [[#just-as-rivers][Just as Rivers]]
   - [[#yathā-vāri-vahā-pūrā][Yathā vāri-vahā pūrā]]
   - [[#ratanattayānubhāvādi-gāthā][Ratanattayānubhāv’ādi-gāthā]]
@@ -72,8 +59,7 @@
   - [[#aggappasāda-sutta-gāthā][Aggappasāda-sutta-gāthā]]
   - [[#kāla-dāna-sutta-gāthā][Kāla-dāna-sutta-gāthā]]
   - [[#so-attha-laddho][So attha-laddho]]
-- [[#paritta][Paritta]]
-  - [[#contents-6][Contents]]
+- [[#protective-recitations][Protective Recitations]]
   - [[#devā-ārādhanā][Devā-ārādhanā]]
   - [[#pubba-bhāga-nama-kāra-pāṭho][Pubba-bhāga-nama-kāra-pāṭho]]
   - [[#saraṇa-gamana-pāṭho][Saraṇa-gamana-pāṭho]]
@@ -92,7 +78,6 @@
   - [[#jaya-parittaṁ][Jaya-parittaṁ]]
   - [[#bhavatu-sabba-maṅgalaṁ][Bhavatu-sabba-maṅgalaṁ]]
 - [[#funeral-recitations][Funeral Recitations]]
-  - [[#contents-7][Contents]]
   - [[#pubba-bhāga-nama-kāra-pāṭho-1][Pubba-bhāga-nama-kāra-pāṭho]]
   - [[#dhamma-saṅgaṇī-mātikā][Dhamma-saṅgaṇī-mātikā]]
   - [[#vipassanā-bhūmi-pāṭho][Vipassanā-bhūmi-pāṭho]]
@@ -102,19 +87,130 @@
   - [[#paṁsu-kūla-for-the-living][Paṁsu-kūla for the Living]]
   - [[#bhavatu-sabba-maṅgalaṁ-1][Bhavatu-sabba-maṅgalaṁ]]
 - [[#sharing-of-merits][Sharing of Merits]]
-  - [[#contents-8][Contents]]
   - [[#sharing-and-aspirations][Sharing and Aspirations]]
   - [[#sharing-of-all-merits][Sharing of All Merits]]
   - [[#sharing-of-merits-with-the-departed][Sharing of Merits with the Departed]]
   - [[#sharing-of-merits-with-the-devas][Sharing of Merits with the Devas]]
   - [[#the-highest-honour-and-aspirations][The Highest Honour and Aspirations]]
 - [[#appendix][Appendix]]
-  - [[#contents-9][Contents]]
   - [[#the-three-refuges--fiveeight-trainings][The Three Refuges & Five/Eight Trainings]]
   - [[#pāli-phonetics--pronunciation][Pāli Phonetics & Pronunciation]]
   - [[#chanting-leader-guidelines][Chanting Leader Guidelines]]
-  - [[#abbreviations][Abbreviations]]
   - [[#endnotes][Endnotes]]
+
+* Contents
+#+begin_src markdown :tangle ./manuscript/markdown/recitations/contents.md
+
+# Morning Chanting
+[Dedication of Offerings](#dedication-of-offerings)
+[Preliminary Homage](#homage)
+[Homage to the Buddha](#buddha)
+[Homage to the Dhamma](#dhamma)
+[Homage to the Saṅgha](#sangha)
+[Salutation to the Triple Gem (English)](#salutation)
+[Closing Homage](#closing)
+
+# Verses
+[The Buddha's First Exclamation](#first-exclamation)
+[Respect for the Dhamma](#respect-for-the-dhamma)
+[Going to True and False Refuges](#true-false-refuges)
+[The Pāṭimokkha Exhortation](#patimokkha-exhortation)
+[The Three Characteristics](#three-characteristics)
+[The Burdens](#burdens)
+[From the Elder Raṭṭhapāla](#ratthapala)
+[From the Elder Pārāpariya](#parapariya)
+[On Protection](#on-protection)
+[Miscellaneous Verses](#misc-verses)
+[A Single Excellent Night](#single-excellent-night)
+[The Highest Blessings](#highest-blessings)
+[The Buddha’s Words on Loving-Kindness](#loving-kindness)
+
+# Teachings
+[Setting in Motion the Wheel of Dhamma](#wheel-of-dhamma-abridged)
+[Requisites for Awakening](#requisites-for-awakening)
+[The Seven Factors of Awakening](#seven-factors-awakening)
+[The Noble Eightfold Path](#noble-eightfold-path)
+[Mindfulness of Breathing](#mindfulness-of-breathing)
+[Dependent Origination](#dependent-origination)
+[The Dhamma in Brief](#dhamma-in-brief)
+[The Four Great References](#great-references)
+[Principles of Cordiality](#cordiality)
+[Principles of Non-Decline](#non-decline)
+[Striving According to the Dhamma](#striving)
+[The Buddha’s Final Instruction](#final-instruction)
+
+# Reflections
+[The Four Requisites](#)
+[The Repulsiveness of Food](#)
+[Universal Well-Being](#)
+[The Divine Abidings](#)
+[Five Subjects for Frequent Recollection](#)
+[Ten Subjects for Frequent Reflection by One Gone Forth](#)
+[The Thirty-Two Body Parts](#)
+[Recollection of Impermanence](#)
+
+# Cardinal Suttas
+[Dhammacakkappavattana Sutta](#dhammacakka)
+[The Discourse on Setting in Motion the Wheel of Dhamma](#wheel-of-dhamma-full)
+[Anatta-lakkhaṇa Sutta](#anatta-lakkhana)
+[The Discourse on the Characteristic of Not-Self](#characteristic-not-self)
+[Āditta-Pariyāya Sutta](#aditta-pariyaya)
+[The Fire Sermon](#fire-sermon)
+
+# Anomodanā
+[Just as Rivers](#just-as-rivers)
+[Yathā vāri-vahā pūrā](#yatha-vari)
+[Ratanattayānubhāv’ādi-gāthā](#ratanattayanubha)
+[Bhojana-dānānumodanā](#bhojana)
+[Culla-maṅgala-cakka-vāḷa](#culla-mangala)
+[Aggappasāda-sutta-gāthā](#aggappasada)
+[Kāla-dāna-sutta-gāthā](#kala-dana)
+[So attha-laddho](#so-attha-laddho)
+
+# Paritta
+[Devā-ārādhanā](#deva-aradhana)
+[Pubba-bhāga-nama-kāra-pāṭho](#pubba-bhaga)
+[Saraṇa-gamana-pāṭho](#sarana-gamana)
+[Nama-kāra-siddhi-gāthā](#nama-kara)
+[Namo-kāra-aṭṭhaka](#namo-kara)
+[Maṅgala-sutta](#mangala)
+[Ratana-sutta](#ratana)
+[Karaṇīya-metta-sutta](#karaniya)
+[Khandha-parittaṁ](#khandha)
+[Buddha-Dhamma-Saṅgha-guṇā](#buddha-dhamma-sangha)
+[Yaṅ kiñci ratanaṁ loke](#yan-kinci)
+[Bojjh’aṅga-parittaṁ](#bojjhanga)
+[Abhaya-parittaṁ](#abhaya)
+[Devatā-uyyojana-gāthā](#devata-uyyojana)
+[Jaya-maṅgala-aṭṭha-gāthā](#jaya-mangala)
+[Jaya-parittaṁ](#jaya)
+[Bhavatu-sabba-maṅgalaṁ](#bhavatu)
+
+# Funeral Recitations
+[Pubba-bhāga-nama-kāra-pāṭho](#pubba-bhaga)
+[Dhamma-saṅgaṇī-mātikā](#dhamma-sangani)
+[Vipassanā-bhūmi-pāṭho](#vipassana-bhumi)
+[Paṭṭhāna-mātikā-pāṭho](#patthana-matika)
+[Adāsi-me ādi gāthā](#adasi-me)
+[Paṁsu-kūla for the Dead](#pamsu-kula-dead)
+[Paṁsu-kūla for the Living](#pamsu-kula-living)
+[Bhavatu-sabba-maṅgalaṁ](#bhavatu)
+
+# Sharing of Merits
+[Sharing and Aspirations](#sharing-aspirations)
+[Sharing of All Merits](#sharing-all-merits)
+[Sharing of Merits with the Departed](#merits-departed)
+[Sharing of Merits with the Devas](#merits-devas)
+[The Highest Honour and Aspirations](#highest-honour-aspirations)
+
+# Appendix
+[The Three Refuges & Five/Eight Trainings](#refuges-trainings)
+[Pāli Phonetics & Pronunciation](#phonetics-pronunciation)
+[Chanting Leader Guidelines](#guidelines)
+[Abbreviations](#abbreviations)
+[Endnotes](#endnotes)
+
+#+end_src
 
 * Recitation Schedule
 #+begin_src markdown :tangle ./manuscript/markdown/schedule.md
@@ -293,30 +389,65 @@ The Buddhist Monastic Code II, Ṭhānissaro Bhikkhu, Metta Forest Monastery, 20
 
 #+end_src
 
-* Homage to the Triple Gem
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
-# Morning Chanting
+* Abbreviations
+#+begin_src markdown :tangle ./manuscript/markdown/abbreviations.md
+chapter{Abbreviations}
 
-**Contents**
+thispagestyle{empty}
 
-- [Dedication of Offerings](#dedication)
-- [Preliminary Homage](#homage)
-- [Homage to the Buddha](#buddha)
-- [Homage to the Dhamma](#dhamma)
-- [Homage to the Saṅgha](#sangha)
-- [Salutation to the Triple Gem (English)](#salutation)
-- [Closing Homage](#closing)
+{subsectionFmt{Abbreviations used in the text}}
+bigskip
+
+{raggedright
+fontsize{10}{14}selectfont
+
+begin{tabular}{@{}ll@{}}
+[...] = Only recited by the leader
+̓     = Take a breath
+end{tabular}
+
+begin{tabular}{@{}llll@{}}
+Vin  & Vinaya Piṭaka       & MJG   & Mahā-jaya-maṅgala-gāthā
+DN   & Dīgha Nikāya        & Thai  & Composed...
+MN   & Majjhima Nikāya     & Sri L & Composed...
+SN   & Saṃyutta Nikāya     &       & Tradtional...
+AN   & Aṅguttara Nikāya    &       &
+Khp  & Khuddakapāṭha       &       &
+Dhp  & Dhammapada          &       &
+Ud   & Udāna               &       &
+Snp  & Sutta Nipāta        &       &
+Thag & Theragāthā          &       &
+Ja   & Jātaka              &       &
+Ps   & Paṭisambhidāmagga   &       &
+Vibh & Abhidhamma Vibhaṅga &       &
+A    & Aṭṭhakathā          &       &
+Dhs  & Dhammasaṅganī       &       &
+A    & Aṭṭhakathā          &       &
+
+end{tabular}
+
+bigskip
+
+Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
+P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
+
+References to shorter texts consisting of verses such as the Dhammapada, Udāna,
+Itivuttaka, Theragāthā, Therīgāthā or Sutta Nipāta are to the verse number or
+chapter and verse number. The other longer texts are referred to by volume and
+page number of the PTS edition.
+
+}
 #+end_src
 
+* Homage to the Triple Gem
 ** Dedication of Offerings
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
-## Dedication of Offerings<a id="dedication"></a>
+
+## Dedication of Offerings<a id="dedication-of-offerings"></a>
 
 [Yo so] bhagavā arahaṁ sammāsambuddho
 
 <div class="english">
-
 
 >  To the Blessed One the Worthy One who fully attained Perfect Enlightenment
 
@@ -441,6 +572,7 @@ Saṅghaṁ namāmi
 ** Preliminary Homage
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
 
+
 ## Preliminary Homage<a id="preliminary-homage"></a>
 
 > [Handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase]
@@ -465,6 +597,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 #+end_src
 ** Homage to the Buddha
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
+
 ## Homage to the Buddha<a id="homage-buddha"></a>
 
 > [Handa mayaṃ buddhābhitthutiṃ karomase]
@@ -577,6 +710,7 @@ Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
 
 ** Homage to the Dhamma
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
+
 ## Homage to the Dhamma<a id="homage-dhamma"></a>
 
 >  [Handa mayaṁ dhammābhitthutiṁ karomase]
@@ -642,6 +776,7 @@ Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 #+end_src
 ** Homage to the Saṅgha
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
+
 ## Homage to the Saṅgha<a id="homage-sangha"></a>
 
 Handa mayaṁ saṅghābhitthutiṁ karomase
@@ -752,6 +887,7 @@ Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
 #+end_src
 ** Salutation to the Triple Gem
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
+
 ## Salutation to the Triple Gem<a id="salutation"></a>
 
 > [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
@@ -1225,6 +1361,7 @@ Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 #+end_src
 ** Closing Homage
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/homage.md
+
 ## Closing Homage<a id="closing"></a>
 
 [Arahaṁ] sammāsambuddho bhagavā
@@ -1278,29 +1415,9 @@ Saṅghaṁ namāmi
 #+end_src
 
 * Verses
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
-# Verses
-
-**Contents**
-
-- [The Buddha's First Exclamation](#first-exclamation)
-- [Respect for the Dhamma](#respect-for-the-dhamma)
-- [Going to True and False Refuges](#true-false-refuges)
-- [The Pāṭimokkha Exhortation](#patimokkha-exhortation)
-- [The Three Characteristics](#three-characteristics)
-- [The Burdens](#burdens)
-- [From the Elder Raṭṭhapāla](#ratthapala)
-- [From the Elder Pārāpariya](#parapariya)
-- [On Protection](#on-protection)
-- [Miscellaneous Verses](#misc-verses)
-- [A Single Excellent Night](#single-excellent-night)
-- [The Highest Blessings](#highest-blessings)
-- [The Buddha’s Words on Loving-Kindness](#loving-kindness)
-
-#+end_src
 ** The Buddha's First Exclamation
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 ## The Buddha's First Exclamation<a id="first-exclamation"></a>
 
 Aneka-jāti-saṁsāraṁ – Sandhāvissaṁ anibbisaṁ
@@ -1335,6 +1452,7 @@ Visaṅkhāra-gataṁ cittaṁ – Taṇhānaṁ khayam-ajjhagā
 
 ** Respect for the Dhamma
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 ## Respect for the Dhamma<a id="respect-for-the-dhamma"></a>
 <!-- \paliTitle{Dhamma-gārava} -->
 
@@ -1408,6 +1526,7 @@ Na duggatiṁ gacchati dhamma-cārī
 #+end_src
 ** Going to True and False Refuges
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 <!-- \section{Going to True  -->
 <!-- \paliTitle{Khemākhema-saraṇa-gamana} -->
 
@@ -1475,6 +1594,7 @@ suttaRef{[Dhp 188-192]}
 #+end_src
 ** The Pāṭimokkha Exhortation
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 <!-- section{The Pāṭimokkha Exhortation} -->
 <!-- paliTitle{Ovāda-pāṭimokkha-gāthā} -->
 
@@ -1596,6 +1716,7 @@ suttaRef{[Dhp 183-185]}
 #+end_src
 ** The Three Characteristics
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{The Three Characteristics}
 paliTitle{Ti-lakkhaṇā}
 
@@ -1684,6 +1805,7 @@ suttaRef{[Dhp 85-87.5]}
 #+end_src
 ** The Burdens
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{The Burdens}
 paliTitle{Bhārā}
 
@@ -1718,6 +1840,7 @@ suttaRef{[SN 22.22]}
 #+end_src
 ** From the Elder Raṭṭhapāla
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{From the Elder Raṭṭhapāla}
 paliTitle{Raṭṭhapāla-thera-gāthā}
 
@@ -1872,6 +1995,7 @@ suttaRef{[Thag 16.4 / MN 82]}
 
 ** From the Elder Pārāpariya
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{From the Elder Pārāpariya}
 paliTitle{Pārāpariya-thera-gāthā}
 
@@ -1991,6 +2115,7 @@ suttaRef{[Thag 16.10]}
 
 ** On Protection
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{On Protection}
 paliTitle{Tāyana-gāthā}
 
@@ -2062,6 +2187,7 @@ suttaRef{[SN 2.8]}
 
 ** Miscellaneous Verses
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{Misecellaneous Verses}
 paliTitle{Pakiṇṇaka-gāthā}
 
@@ -2291,6 +2417,7 @@ suttaRef{[MN 19]}
 
 ** A Single Excellent Night
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{A Single Excellent Night}
 paliTitle{Bhadd-eka-ratta}
 
@@ -2350,6 +2477,7 @@ suttaRef{[MN 131]}
 
 ** The Highest Blessings
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{The Highest Blessings}
 paliTitle{Maṅgala-sutta}
 
@@ -2431,6 +2559,7 @@ suttaRef{[Snp 2.4]}
 
 ** The Buddha’s Words on Loving-Kindness
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses.md
+
 section{The Buddha's Words on Loving-Kindness}
 paliTitle{Karaṇīya-metta-sutta}
 
@@ -2484,27 +2613,9 @@ suttaRef{[Snp 1.8]}
 #+end_src
 
 * Teachings
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
-# Teachings
-
-**Contents**
-
-- [Setting in Motion the Wheel of Dhamma](#wheel-of-dhamma-abridged)
-- [Requisites for Awakening](#requisites-for-awakening)
-- [The Seven Factors of Awakening](#seven-factors-awakening)
-- [The Noble Eightfold Path](#noble-eightfold-path)
-- [Mindfulness of Breathing](#mindfulness-of-breathing)
-- [Dependent Origination](#dependent-origination)
-- [The Dhamma in Brief](#dhamma-in-brief)
-- [The Four Great References](#great-references)
-- [Principles of Cordiality](#cordiality)
-- [Principles of Non-Decline](#non-decline)
-- [Striving According to the Dhamma](#striving)
-- [The Buddha’s Final Instruction](#final-instruction)
-#+end_src
 ** Setting in Motion the Wheel of Dhamma
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 section{Setting in Motion the Wheel of Dhamma}
 paliTitle{Dhamma-cakkappavattana}
 
@@ -3349,6 +3460,7 @@ suttaRef{[SN 56.11]}
 #+end_src
 ** Requisites for Awakening
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 section{Requisites for Awakening}
 paliTitle{Bodhipakkihya-dhammā}
 
@@ -3487,6 +3599,7 @@ suttaRef{[DN 16]}
 #+end_src
 ** The Seven Factors of Awakening
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 section{The Seven Factors of Awakening}
 paliTitle{Satta-sambojjhaṅgā}
 
@@ -3776,6 +3889,7 @@ suttaRef{[SN 46.22]}
 #+end_src
 ** The Noble Eightfold Path
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 section{The Noble Eightfold Path}
 paliTitle{Ariy’aṭṭhaṅgika-magga}
 
@@ -4438,6 +4552,7 @@ suttaRef{[SN 45.8]}
 #+end_src
 ** Mindfulness of Breathing
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 section{Mindfulness of Breathing}
 paliTitle{Ānāpānassati}
 
@@ -4882,6 +4997,7 @@ suttaRef{[MN 118]}
 #+end_src
 ** Dependent Origination
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 section{Dependent Origination}
 paliTitle{Paṭicca samuppāda}
 
@@ -5559,6 +5675,7 @@ suttaRef{Vibh 130 / SN 12.2}
 #+end_src
 ** The Dhamma in Brief
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 <!-- section{The Dhamma in Brief} -->
 <!-- paliTitle{Saṅkhitta-dhamma} -->
 
@@ -5694,6 +5811,7 @@ suttaRef{[AN 8.53]}
 #+end_src
 ** The Four Great References
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 section{The Four Great References}
 paliTitle{Cattāro mahāpadesā}
 
@@ -6027,6 +6145,7 @@ suttaRef{[AN 4.180]}
 #+end_src
 ** Principles of Cordiality
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 <!-- section{Principles of Cordiality} -->
 <!-- paliTitle{Cha sāraṇīya-dhammā} -->
 
@@ -6319,6 +6438,7 @@ suttaRef{[MN 104]}
 #+end_src
 ** Principles of Non-Decline
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 <!-- section{Principles of Non-Decline} -->
 <!-- paliTitle{Aparihāniya-dhammā} -->
 
@@ -6741,6 +6861,7 @@ suttaRef{[AN 6.22 & 8.79]}
 #+end_src
 ** Striving According to the Dhamma
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 <!-- section{Striving According to the Dhamma} -->
 <!-- paliTitle{Dhamma-pahaṁsāna} -->
 
@@ -7041,6 +7162,7 @@ suttaRef{[SN 12.22]}
 #+end_src
 ** The Buddha’s Final Instruction
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings.md
+
 <!-- section{The Buddha's Final Instruction} -->
 <!-- paliTitle{Buddha-pacchima-ovāda} -->
 
@@ -7117,770 +7239,10 @@ suttaRef{[DN 16]}
 
 #+end_src
 
-* Reflections
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-# Reflections
-
-**Contents**
-
-- [The Four Requisites](#)
-- [The Repulsiveness of Food](#)
-- [Universal Well-Being](#)
-- [The Divine Abidings](#)
-- [Five Subjects for Frequent Recollection](#)
-- [Ten Subjects for Frequent Reflection by One Gone Forth](#)
-- [The Thirty-Two Body Parts](#)
-- [Recollection of Impermanence](#)
-#+end_src
-** The Four Requisites
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-<!-- section{The Four Requisites} -->
-<!-- paliTitle{Cattaro parrikhārā} -->
-
-[Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-
-Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi
-Yāvadeva sītassa paṭighātāya
-Uṇhassa paṭighātāya
-Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya
-Yāvadeva hirikopina-paṭicchādanatthaṁ
-
-<div class="english">
-
-> Wisely reflecting  ̓  I use the robe
-> Only to ward off cold  ̓  to ward off heat  ̓  to ward off the touch of flies  ̓  mosquitoes wind burning and creeping things
-> Only for the sake of modesty
-
-</div>
-
-Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevāmi
-Neva davāya na madāya na maṇḍanāya na vibhūsanāya
-Yāvadeva imassa kāyassa ṭhitiyā yāpanāya
-Vihiṁsūparatiyā brahmacariyānuggahāya
-Iti purāṇañca vedanaṁ paṭihaṅkhāmi
-Navañca vedanaṁ na uppādessāmi
-Yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’ti
-
-<div class="english">
-
-> Wisely reflecting  ̓  I use almsfood
-> Not for fun  ̓  not for pleasure  ̓  not for fattening  ̓  not for beautification
-> Only for the maintenance and nourishment of this body
-> For keeping it healthy  ̓  for helping with the holy life
-> Thinking thus: “I will allay hunger without overeating
-> So that I may continue to live blamelessly and at ease”
-
-</div>
-
-Paṭisaṅkhā yoniso senāsanaṁ paṭisevāmi
-Yāvadeva sītassa paṭighātāya
-Uṇhassa paṭighātāya
-Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya
-Yāvadeva utuparissaya-vinodanaṁ paṭisallānārāmatthaṁ
-
-<div class="english">
-
-> Wisely reflecting  ̓  I use the lodging
-> Only to ward off cold  ̓  to ward off heat  ̓  to ward off the touch of flies  ̓  mosquitoes wind burning and creeping things
-> Only to remove the danger from weather  ̓  and for living in seclusion
-
-</div>
-
-Paṭisaṅkhā yoniso gilāna-paccaya-bhesajja-parikkhāraṁ paṭisevāmi
-Yāvadeva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya
-Abyāpajjha-paramatāyā’ti
-
-Wisely reflecting  ̓  I use supports for the sick and medicinal requisites
-Only to ward off painful feelings that have arisen
-For the maximum freedom from disease
-
-suttaRef{[MN 2]}
-
-#+end_src
-** The Repulsiveness of Food
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-section{The Repulsiveness of Food}
-paliTitle{Āhāra-paṭikūla-paccavekkhaṇa-pāṭho}
-
-[Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-
-Āhāre paṭikūlasaññāparicitena bhikkhave  ̓  bhikkhuno cetasā bahulaṁ viharato
-
-<div class="english">
-
-> When a bhikkhu often dwells with a mind
-> Accustomed to the perception of the repulsiveness of food
-
-</div>
-
-Rasataṇhāya cittaṁ patilīyati
-
-<div class="english">
-
-> His mind shrinks away from craving for tastes
-
-</div>
-
-Patikuṭati pativattati na sampasāriyati
-
-<div class="english">
-
-> Turns back from it
-> Rolls away from it
-> And is not drawn towards it
-
-</div>
-
-Upekkhā vā pāṭikulyatā vā saṇṭhāti
-
-<div class="english">
-
-> Either equanimity or disgust become settled in him
-
-</div>
-
-suttaRef{[AN 7.49]}
-
-Sabbo panāyaṁ piṇḍa-pāto ajigucchanīyo
-
-<div class="english">
-
-> None of this almsfood is innately repulsive
-
-</div>
-
-Imaṁ pūti-kāyaṁ patvā
-
-<div class="english">
-
-> But touching this unclean body
-
-</div>
-
-Ativiya jigucchanīyo jāyati
-
-<div class="english">
-
-> It becomes disgusting indeed
-
-</div>
-
-suttaRef{[Trad]}
-
-#+end_src
-** Universal Well-Being
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-<!-- section{Universal Well-Being} -->
-<!-- paliTitle{Mettā-pharaṇa} -->
-
-> [Handa mayaṁ mettāpharaṇaṁ karomase]
-
-Ahaṁ sukhito homi
-Niddukkho homi
-Avero homi
-Abyāpajjho homi
-Anīgho homi
-Sukhī attānaṁ pariharāmi
-Sabbe sattā sukhitā hontu
-Sabbe sattā averā hontu
-Sabbe sattā abyāpajjhā hontu
-Sabbe sattā anīghā hontu
-Sabbe sattā sukhī attānaṁ pariharantu
-Sabbe sattā sabbadukkhā pamuccantu
-Sabbe sattā laddha-sampattito mā vigacchantu
-
-Sabbe sattā kammassakā kammadāyādā kammayonī kammabandhū kammapaṭisaraṇā
-Yaṁ kammaṁ karissanti
-Kalyāṇaṁ vā pāpakaṁ vā
-Tassa dāyādā bhavissanti
-
-> [Now let us recite the reflections on universal well-being]
-
-<div class="english">
-
-> May I abide in well-being
-> In freedom from affliction
-> In freedom from hostility
-> In freedom from ill-will
-> In freedom from anxiety
-> And may I maintain well-being in myself
-> May everyone abide in well-being
-> In freedom from hostility
-> In freedom from ill-will
-> In freedom from anxiety
-> And may they maintain well-being in themselves
-> May all beings be released from all suffering
-> And may they not be parted from the good fortune they have attainedi
-
-> All beings are the owners of their kamma
-> Heirs to their kamma
-> Born of their kamma
-> Related to their kamma
-> Abide supported by their kamma
-> Whatever kamma they shall do
-> Either skillful or harmful
-> Of such acts  ̓  they will be the heirs
-
-</div>
-
-suttaRef{[AN 3.65 & 5.57]}
-
-#+end_src
-** The Divine Abidings
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-<!-- section{The Divine Abidings} -->
-<!-- paliTitle{Brahmavihārā} -->
-
-> [Handa mayaṁ caturappamaññā obhāsanaṁ karomase]
-
-Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
-
-Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ
-Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
-
-Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
-
-Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
-
-> [Now let us make the Four Boundless Qualities shine forth]
-
-<div class="english">
-
-> I will abide pervading one quarter with a heart imbued with loving-kindness
-> Likewise the second likewise the third likewise the fourth
-> So above and below around and everywhere and to all as to myself
-> I will abide pervading the all-encompassing world with a heart imbued with loving-kindness
-> Abundant exalted immeasurable without hostility and without ill-will
-
-> I will abide pervading one quarter with a heart imbued with compassion
-> Likewise the second likewise the third likewise the fourth
-> So above and below around and everywhere and to all as to myself
-> I will abide pervading the all-encompassing world with a heart imbued with compassion
-> Abundant exalted immeasurable without hostility and without ill-will
-
-> I will abide pervading one quarter with a heart imbued with gladness
-> Likewise the second likewise the third likewise the fourth
-> So above and below around and everywhere and to all as to myself
-> I will abide pervading the all-encompassing world with a heart imbued with gladness
-> Abundant exalted immeasurable without hostility and without ill-will
-
-> I will abide pervading one quarter with a heart imbued with equanimity
-> Likewise the second likewise the third likewise the fourth
-> So above and below around and everywhere and to all as to myself
-> I will abide pervading the all-encompassing world with a heart imbued with equanimity
-> Abundant exalted immeasurable without hostility and without ill-will
-
-</div>
-
-suttaRef{[DN 13]}
-
-#+end_src
-** Five Subjects for Frequent Recollection
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-<!-- section{Five Subjects for Frequent Recollection} -->
-
-> [Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-
-Jarā-dhammomhi jaraṁ anatīto
-
-<div class="english">
-
-> I am of the nature to age
-> I have not gone beyond ageing
-
-</div>
-
-Byādhi-dhammomhi byādhiṁ anatīto
-
-<div class="english">
-
-> I am of the nature to sicken
-> I have not gone beyond sickness
-
-</div>
-
-Maraṇa-dhammomhi maraṇaṁ anatīto
-
-<div class="english">
-
-> I am of the nature to die
-> I have not gone beyond dying
-
-</div>
-
-Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
-
-<div class="english">
-
-> All that is mine beloved and pleasing
-> Will become otherwise
-> Will become separated from me
-
-</div>
-
-Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo
-Yaṁ kammaṁ karissāmi
-Kalyāṇaṁ vā pāpakaṁ vā
-Tassa dāyādo bhavissāmi
-
-<div class="english">
-
-> I am the owner of my kamma
-> Heir to my kamma
-> Born of my kamma
-> Related to my kamma
-> Abide supported by my kamma
-> Whatever kamma I shall do
-> Either skillful or harmful
-> Of such acts  ̓  I will be the heir
-
-</div>
-
-Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> Thus we should frequently recollect
-
-suttaRef{[AN 5.57]}
-
-#+end_src
-** Ten Subjects for Frequent Reflection by One Gone Forth
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-<!-- section{Ten Subjects for Frequent Recollection} -->
-<!-- paliTitle{Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā} -->
-
-> [Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
-
-Dasa ime bhikkhave dhammā
-Pabbajitena abhiṇhaṁ paccavekkhitabbā
-Katame dasa
-
-<div class="english">
-
-> Bhikkhus there are these ten dhammas  ̓  which should be reflected upon again and again by one who has gone forth
-> What are these ten?
-
-</div>
-
-Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “I have reached a state of castelessness”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-Parapaṭibaddhā me jīvikā’ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “My very life is sustained through the gifts of others”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-Añño me ākappo karaṇīyo'ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “Now my conduct should be different from before”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-Kacci nu kho me attā sīlato na upavadatī'ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “Does regret over my conduct arise in my mind?”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “Could my spiritual companions find fault with my conduct?”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “All that is mine beloved and pleasing
-> Will become otherwise
-> Will become separated from me”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo
-Yaṁ kammaṁ karissāmi
-Kalyāṇaṁ vā pāpakaṁ vā
-Tassa dāyādo bhavissāmī'ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “I am the owner of my kamma
-> Heir to my kamma
-> Born of my kamma
-> Related to my kamma
-> Abide supported by my kamma
-> Whatever kamma I shall do
-> Either skillful or harmful
-> Of such acts  ̓  I will be the heir”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-`Kathambhūtassa me rattindivā vītipatantī'ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “The days and nights are relentlessly passing
-> How well am I spending my time?”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-Kacci nu kho'haṁ suññāgāre abhiramāmī'ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “Do I delight in solitude or not?”
-> This should be reflected upon again and again by one who has gone forth by one who has gone forth
-
-</div>
-
-Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana viseso adhigato
-So’haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī’ti
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-
-<div class="english">
-
-> “Has my practice borne fruit with freedom or insight
-> So that at the end of my life  ̓  I need not feel ashamed when questioned by my spiritual companions?”
-> This should be reflected upon again and again by one who has gone forth
-
-</div>
-
-Ime kho bhikkhave dasa dhammā
-Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
-
-<div class="english">
-
-> Bhikkhus these are the ten dhammas  ̓  which should be reflected upon again and again by one who has gone forth
-
-</div>
-
-suttaRef{[AN 10.48]}
-
-#+end_src
-** The Thirty-Two Body Parts
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-<!-- section{The Thirty-Two Parts} -->
-
-> [Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase]
-
-Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
-
-<div class="english">
-
-> This which is my body
-> From the soles of the feet up
-> And down from the crown of the head
-> Is a sealed bag of skin
-> Filled with unattractive things
-
-</div>
-
-Atthi imasmiṁ kāye
-
-<div class="english">
-
-> In this body there are
-
-</div>
-
-<!-- {centering -->
-<!-- setArrayStretch{1} -->
-
-<!-- begin{tabular}{ r l } -->
-<!-- kesā            & tr{hair of the head} -->
-<!-- lomā            & tr{hair of the body} -->
-<!-- nakhā           & tr{nails} -->
-<!-- dantā           & tr{teeth} -->
-<!-- taco            & tr{skin} -->
-<!-- end{tabular} -->
-
-<!-- begin{tabular}{ r l } -->
-<!-- maṁsaṁ          & tr{flesh} -->
-<!-- nahārū          & tr{sinews} -->
-<!-- aṭṭhī           & tr{bones} -->
-<!-- aṭṭhimiñjaṁ     & tr{bone marrow} -->
-<!-- vakkaṁ          & tr{kidneys} -->
-<!-- hadayaṁ         & tr{heart} -->
-<!-- yakanaṁ         & tr{liver} -->
-<!-- kilomakaṁ       & tr{membranes} -->
-<!-- pihakaṁ         & tr{spleen} -->
-<!-- papphāsaṁ       & tr{lungs} -->
-<!-- antaṁ           & tr{bowels} -->
-<!-- antaguṇaṁ       & tr{entrails} -->
-<!-- udariyaṁ        & tr{undigested food} -->
-<!-- karīsaṁ         & tr{excrement} -->
-<!-- pittaṁ          & tr{bile} -->
-<!-- semhaṁ          & tr{phlegm} -->
-<!-- pubbo           & tr{pus} -->
-<!-- lohitaṁ         & tr{blood} -->
-<!-- sedo            & tr{sweat} -->
-<!-- medo            & tr{fat} -->
-<!-- assu            & tr{tears} -->
-<!-- vasā            & tr{grease} -->
-<!-- kheḷo           & tr{spittle} -->
-<!-- siṅghāṇikā      & tr{mucus} -->
-<!-- lasikā          & tr{oil of the joints} -->
-<!-- muttaṁ          & tr{urine} -->
-<!-- matthaluṅgan'ti & tr{brain} -->
-<!-- end{tabular} -->
-
-<!-- restoreArrayStretch -->
-<!-- } -->
-
-
-Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
-
-<div class="english">
-
-> This then which is my body from the soles of the feet up and down from the crown of the head is a sealed bag of skin filled with unattractive things
-
-</div>
-
-suttaRef{[DN 22]}
-
-#+end_src
-** Recollection of Impermanence
-
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/reflections.md
-<!-- section{Recollection of Impermanence} -->
-<!-- paliTitle{Aniccānussati} -->
-
-> [Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase]
-
-Sabbe saṅkhārā anicca
-
-<div class="english">
-
-> All conditioned things are impermanent
-
-</div>
-
-Sabbe saṅkhārā dukkhā
-
-<div class="english">
-
-> All conditioned things are dukkha
-
-</div>
-
-Sabbe dhammā anattā
-
-<div class="english">
-
-> All things are not-self
-
-</div>
-
-suttaRef{[Dhp 277-279]}
-
-Addhuvaṁ jīvitaṁ
-
-<div class="english">
-
-> Life is not for sure
-
-</div>
-
-Dhuvaṁ maraṇaṁ
-
-<div class="english">
-
-> Death is for sure
-
-</div>
-
-Avassaṁ mayā maritabbaṁ
-
-<div class="english">
-
-> It is inevitable that I’ll die
-
-</div>
-
-Maraṇa-pariyosānaṁ me jīvitaṁ
-
-<div class="english">
-
-> Death is the culmination of my life
-
-</div>
-
-Jīvitaṁ me aniyataṁ
-
-<div class="english">
-
-> My life is uncertain
-
-</div>
-
-Maraṇaṁ me niyataṁ
-
-<div class="english">
-
-> My death is certain
-
-</div>
-
-suttaRef{[Dhp A]}
-
-Vata
-
-<div class="english">
-
-> Indeed
-
-</div>
-
-Ayaṁ kāyo
-
-<div class="english">
-
-> This body
-
-</div>
-
-Aciraṁ
-
-<div class="english">
-
-> Will soon
-
-</div>
-
-Apeta-viññāṇo
-
-<div class="english">
-
-> Be void of consciousness
-
-</div>
-
-Chuḍḍho
-
-<div class="english">
-
-> And cast away
-
-</div>
-
-Adhisessati
-
-<div class="english">
-
-> It will lie
-
-</div>
-
-Paṭhaviṁ
-
-<div class="english">
-
-> On the ground
-
-</div>
-
-Kaliṅgaraṁ iva
-
-<div class="english">
-
-> Just like a rotten log
-
-</div>
-
-Niratthaṁ
-
-<div class="english">
-
-> Useless
-
-</div>
-
-suttaRef{[Dhp 41]}
-
-Aniccā vata saṅkhārā
-
-<div class="english">
-
-> Indeed  ̓  conditioned things cannot last
-
-</div>
-
-Uppāda-vaya-dhammino
-
-<div class="english">
-
-> Their nature is to rise and ceasei
-
-</div>
-
-Uppajjitvā nirujjhanti
-
-<div class="english">
-
-> Having arisen things must cease
-
-</div>
-
-Tesaṁ vūpasamo sukho
-
-<div class="english">
-
-> Their stilling is true happiness
-
-</div>
-
-suttaRef{[Trad]}
-
-#+end_src
 * Cardinal Suttas
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/cardinal-suttas/dhammacakkappavattana.md
-# Cardinal Suttas
-
-**Contents**
-
-- [Dhammacakkappavattana Sutta](#dhammacakka)
-- [The Discourse on Setting in Motion the Wheel of Dhamma](#wheel-of-dhamma-full)
-- [Anatta-lakkhaṇa Sutta](#anatta-lakkhana)
-- [The Discourse on the Characteristic of Not-Self](#characteristic-not-self)
-- [Āditta-Pariyāya Sutta](#aditta-pariyaya)
-- [The Fire Sermon](#fire-sermon)
-#+end_src
 ** Dhammacakkappavattana Sutta
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/cardinal-suttas/dhammacakkappavattana.md
+
 <!-- section{Dhammacakkappavattana-sutta} -->
 
 TODO: Shall we seperate and center this?
@@ -8417,25 +7779,10 @@ That is what the Blessed One said. The bhikkhus were glad and they approved of h
 
 suttaRef{[SN 35.28]}
 #+end_src
-* Anumodanā
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/anumodana.md
-# Anomodanā
 
-**Contents**
-
-- [Just as Rivers](#just-as-rivers)
-- [Yathā vāri-vahā pūrā](#yatha-vari)
-- [Ratanattayānubhāv’ādi-gāthā](#ratanattayanubha)
-- [Bhojana-dānānumodanā](#bhojana)
-- [Culla-maṅgala-cakka-vāḷa](#culla-mangala)
-- [Aggappasāda-sutta-gāthā](#aggappasada)
-- [Kāla-dāna-sutta-gāthā](#kala-dana)
-- [So attha-laddho](#so-attha-laddho)
-#+end_src
-
+* Thanksgiving Recitations
 ** Just as Rivers
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/anumodana.md
+#+begin_src markdown :tangle ./manuscript/markdown/recitations/thanksgiving-recitations.md
 <!-- section{Just as Rivers} -->
 <!-- paliTitle{Yathā vāri-vahā pūrā} -->
 
@@ -9006,34 +8353,9 @@ Arogā sukhitā hotha – Saha sabbehi ñātibhi
 suttaRef{[AN 3.155]}
 #+end_src
 
-* Paritta
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/paritta.md
-# Paritta
-
-**Contents**
-
-- [Devā-ārādhanā](#deva-aradhana)
-- [Pubba-bhāga-nama-kāra-pāṭho](#pubba-bhaga)
-- [Saraṇa-gamana-pāṭho](#sarana-gamana)
-- [Nama-kāra-siddhi-gāthā](#nama-kara)
-- [Namo-kāra-aṭṭhaka](#namo-kara)
-- [Maṅgala-sutta](#mangala)
-- [Ratana-sutta](#ratana)
-- [Karaṇīya-metta-sutta](#karaniya)
-- [Khandha-parittaṁ](#khandha)
-- [Buddha-Dhamma-Saṅgha-guṇā](#buddha-dhamma-sangha)
-- [Yaṅ kiñci ratanaṁ loke](#yan-kinci)
-- [Bojjh’aṅga-parittaṁ](#bojjhanga)
-- [Abhaya-parittaṁ](#abhaya)
-- [Devatā-uyyojana-gāthā](#devata-uyyojana)
-- [Jaya-maṅgala-aṭṭha-gāthā](#jaya-mangala)
-- [Jaya-parittaṁ](#jaya)
-- [Bhavatu-sabba-maṅgalaṁ](#bhavatu)
-#+end_src
-
+* Protective Recitations
 ** Devā-ārādhanā
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/paritta.md
+#+begin_src markdown :tangle ./manuscript/markdown/recitations/protective-recitations.md
 subsection{Devā-ārādhanā}
 
 Pharitvāna mettaṁ samettā bhadantā\
@@ -10473,22 +9795,6 @@ Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
 suttaRef{[Trad]}
 #+end_src
 * Funeral Recitations
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/sharing-of-merits.md
-# Funeral Recitations
-
-**Contents**
-
-- [Pubba-bhāga-nama-kāra-pāṭho](#pubba-bhaga)
-- [Dhamma-saṅgaṇī-mātikā](#dhamma-sangani)
-- [Vipassanā-bhūmi-pāṭho](#vipassana-bhumi)
-- [Paṭṭhāna-mātikā-pāṭho](#patthana-matika)
-- [Adāsi-me ādi gāthā](#adasi-me)
-- [Paṁsu-kūla for the Dead](#pamsu-kula-dead)
-- [Paṁsu-kūla for the Living](#pamsu-kula-living)
-- [Bhavatu-sabba-maṅgalaṁ](#bhavatu)
-
-#+end_src
 ** Pubba-bhāga-nama-kāra-pāṭho
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/funeral.md
 [Namo tassa] bhagavato arahato sammā-sambuddhassa [3x]
@@ -11090,18 +10396,6 @@ Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
 
 #+end_src
 * Sharing of Merits
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/sharing-of-merits.md
-# Sharing of Merits
-
-**Contents**
-
-- [Sharing and Aspirations](#sharing-aspirations)
-- [Sharing of All Merits](#sharing-all-merits)
-- [Sharing of Merits with the Departed](#merits-departed)
-- [Sharing of Merits with the Devas](#merits-devas)
-- [The Highest Honour and Aspirations](#highest-honour-aspirations)
-#+end_src
 ** Sharing and Aspirations
 
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/sharing-of-merits.md
@@ -11451,19 +10745,6 @@ suttaRef{[Sri Lanka]}
 
 #+end_src
 * Appendix
-** Contents
-#+begin_src markdown :tangle ./manuscript/markdown/appendix.md
-# Appendix
-
-**Contents**
-
-- [The Three Refuges & Five/Eight Trainings](#refuges-trainings)
-- [Pāli Phonetics & Pronunciation](#phonetics-pronunciation)
-- [Chanting Leader Guidelines](#guidelines)
-- [Abbreviations](#abbreviations)
-- [Endnotes](#endnotes)
-#+end_src
-
 ** The Three Refuges & Five/Eight Trainings
 *** Contents
 #+begin_src markdown :tangle ./manuscript/markdown/refuge-trainings.md
@@ -11896,56 +11177,6 @@ section{Summary}
 The above points and principles are meant to function as a guideline for aspiring chanting leaders to make their own experience as smooth as possible, without having to be stressed or insecure about making mistakes. Moreover, the rest of the group benefit from well-trained chanting leaders, who give their fellow Saṅgha members a sense of ease and comfort while reciting the words of the Buddha, allowing them to reflect on the meaning along the way. After all, recitation of the Dhamma is one of the gateways to liberation (AN 5.209).
 Thanks to all Saṅgha members who are willing to share this meaningful task among themselves, by taking turns as chanting leaders.
 #+end_src
-** Abbreviations
-#+begin_src markdown :tangle ./manuscript/markdown/abbreviations.md
-chapter{Abbreviations}
-
-thispagestyle{empty}
-
-{subsectionFmt{Abbreviations used in the text}}
-bigskip
-
-{raggedright
-fontsize{10}{14}selectfont
-
-begin{tabular}{@{}ll@{}}
-[...] = Only recited by the leader
-̓     = Take a breath
-end{tabular}
-
-begin{tabular}{@{}llll@{}}
-Vin  & Vinaya Piṭaka       & MJG   & Mahā-jaya-maṅgala-gāthā
-DN   & Dīgha Nikāya        & Thai  & Composed...
-MN   & Majjhima Nikāya     & Sri L & Composed...
-SN   & Saṃyutta Nikāya     &       & Tradtional...
-AN   & Aṅguttara Nikāya    &       &
-Khp  & Khuddakapāṭha       &       &
-Dhp  & Dhammapada          &       &
-Ud   & Udāna               &       &
-Snp  & Sutta Nipāta        &       &
-Thag & Theragāthā          &       &
-Ja   & Jātaka              &       &
-Ps   & Paṭisambhidāmagga   &       &
-Vibh & Abhidhamma Vibhaṅga &       &
-A    & Aṭṭhakathā          &       &
-Dhs  & Dhammasaṅganī       &       &
-A    & Aṭṭhakathā          &       &
-
-end{tabular}
-
-bigskip
-
-Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)
-P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)
-
-References to shorter texts consisting of verses such as the Dhammapada, Udāna,
-Itivuttaka, Theragāthā, Therīgāthā or Sutta Nipāta are to the verse number or
-chapter and verse number. The other longer texts are referred to by volume and
-page number of the PTS edition.
-
-}
-#+end_src
-
 ** Endnotes
 #+begin_src markdown :tangle ./manuscript/markdown/appendix.md
 

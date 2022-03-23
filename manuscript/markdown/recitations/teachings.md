@@ -1,20 +1,3 @@
-# Teachings
-
-**Contents**
-
-- [Setting in Motion the Wheel of Dhamma](#wheel-of-dhamma-abridged)
-- [Requisites for Awakening](#requisites-for-awakening)
-- [The Seven Factors of Awakening](#seven-factors-awakening)
-- [The Noble Eightfold Path](#noble-eightfold-path)
-- [Mindfulness of Breathing](#mindfulness-of-breathing)
-- [Dependent Origination](#dependent-origination)
-- [The Dhamma in Brief](#dhamma-in-brief)
-- [The Four Great References](#great-references)
-- [Principles of Cordiality](#cordiality)
-- [Principles of Non-Decline](#non-decline)
-- [Striving According to the Dhamma](#striving)
-- [The Buddha’s Final Instruction](#final-instruction)
-
 section{Setting in Motion the Wheel of Dhamma}
 paliTitle{Dhamma-cakkappavattana}
 
