@@ -26,7 +26,7 @@ Supaṭipanno yassa bhagavato sāvakasaṅgho
 
 </div>
 
-Tam-mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ
+Tam'mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ
 
 <div class="english">
 
