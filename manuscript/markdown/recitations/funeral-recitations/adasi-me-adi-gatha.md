@@ -1,7 +1,7 @@
 ## Adāsi-me ādi gāthā<a id="adasi-me-adi-gatha"></a>
 
 [Adāsi me akāsi me] – Ñāti-mittā sakhā ca me
-Petānaṁ dakkhiṇaṁ dajjā – Pubbe katam-anussaraṁ
+Petānaṁ dakkhiṇaṁ dajjā – Pubbe katam'anussaraṁ
 
 <div class="english">
 
@@ -24,7 +24,7 @@ Na taṁ petānam-atthāya – Evaṁ tiṭṭhanti ñātayo
 
 </div>
 
-Ayañ-ca kho dakkhinā dinnā – Saṅghamhi supatiṭṭhitā
+Ayañ'ca kho dakkhinā dinnā – Saṅghamhi supatiṭṭhitā
 Dīgharattaṁ hitāy’assa – Ṭhānaso upakappati
 
 <div class="english">
@@ -37,7 +37,7 @@ Dīgharattaṁ hitāy’assa – Ṭhānaso upakappati
 </div>
 
 So ñāti-dhammo ca ayaṁ nidassito – Petāna’pūjā ca katā uḷārā
-Balañ-ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan’ti
+Balañ'ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan’ti
 
 <div class="english">
 

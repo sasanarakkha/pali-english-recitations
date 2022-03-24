@@ -14,7 +14,7 @@ Gaha-kāraṁ gavesanto – Dukkhā jāti punappunaṁ
 
 Gaha-kāraka diṭṭho'si – Puna gehaṁ na kāhasi
 Sabbā te phāsukā bhaggā – Gaha-kūṭaṁ visaṅkhataṁ
-Visaṅkhāra-gataṁ cittaṁ – Taṇhānaṁ khayam-ajjhagā
+Visaṅkhāra-gataṁ cittaṁ – Taṇhānaṁ khayam'ajjhagā
 
 <div class="english">
 

@@ -1,5 +1,5 @@
 ## Going to True and False Refuges<a id="true-false-refuges"></a>
-Khemākhema-saraṇa-gamana
+Khem'ākhema-saraṇa-gamana
 
 Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca
 Ārāma-rukkha-cetyāni – Manussā bhaya-tajjitā
@@ -13,8 +13,8 @@ Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca
 
 </div>
 
-N'etaṁ kho saraṇaṁ khemaṁ – N'etaṁ saraṇam-uttamaṁ
-N'etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccati
+N'etaṁ kho saraṇaṁ khemaṁ – N'etaṁ saraṇam'uttamaṁ
+N'etaṁ saraṇam'āgamma – Sabba-dukkhā pamuccati
 
 <div class="english">
 
@@ -25,7 +25,7 @@ N'etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccati
 
 </div>
 
-Yo ca buddhañ-ca dhammañ-ca – Saṅghañ-ca saraṇaṁ gato
+Yo ca buddhañ'ca dhammañ'ca – Saṅghañ'ca saraṇaṁ gato
 Cattāri ariya-saccāni – Sammappaññāya passati
 
 <div class="english">
@@ -38,7 +38,7 @@ Cattāri ariya-saccāni – Sammappaññāya passati
 </div>
 
 Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ
-Ariyañ-c'aṭṭh'aṅgikaṁ maggaṁ – Dukkhūpasama-gāminaṁ
+Ariyañ'c'aṭṭh'aṅgikaṁ maggaṁ – Dukkh'ūpasama-gāminaṁ
 
 <div class="english">
 
@@ -49,8 +49,8 @@ Ariyañ-c'aṭṭh'aṅgikaṁ maggaṁ – Dukkhūpasama-gāminaṁ
 
 </div>
 
-Etaṁ kho saraṇaṁ khemaṁ – Etaṁ saraṇam-uttamaṁ
-Etaṁ saraṇam-āgamma – Sabba-dukkhā pamuccatī'ti.
+Etaṁ kho saraṇaṁ khemaṁ – Etaṁ saraṇam'uttamaṁ
+Etaṁ saraṇam'āgamma – Sabba-dukkhā pamuccatī'ti.
 
 <div class="english">
 

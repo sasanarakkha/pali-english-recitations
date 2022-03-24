@@ -4,7 +4,7 @@ Sabba-patti-dāna
 > [Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase]
 
 Puññass’idāni katassa yān’aññāni katāni me
-Tesañ-ca bhāgino hontu sattānantāppamāṇakā
+Tesañ'ca bhāgino hontu sattānantāppamāṇakā
 
 <div class="english">
 
@@ -53,7 +53,7 @@ Ye c’imaṁ nappajānanti devā tesaṁ nivedayuṁ
 
 Mayā dinnāna-puññānaṁ anumodana-hetunā
 Sabbe sattā sadā hontu averā sukha-jīvino
-Khemappadañ-ca pappontu tesāsā sijjhataṁ subhā
+Khemappadañ'ca pappontu tesāsā sijjhataṁ subhā
 
 <div class="english">
 

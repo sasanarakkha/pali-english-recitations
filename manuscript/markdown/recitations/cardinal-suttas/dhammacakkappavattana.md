@@ -18,7 +18,7 @@ Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkh
 
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ:
 
-Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanassupāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam-picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
+Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanassupāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
 
 Idaṁ kho pana bhikkhave dukkhasamudayo ariyasaccaṁ:
 
@@ -62,7 +62,7 @@ Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvād
 
 Ñāṇañca pana me dassanaṁ udapādi. TODO: period missing here in original
 
-“Akuppā me vimutti ayamantimā jāti natthidāni punabbhavo”ti.
+“Akuppā me vimutti ayamantimā jāti n'atthidāni punabbhavo”ti.
 
 Idam avoca bhagavā. Attamanā pañcavaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ.
 

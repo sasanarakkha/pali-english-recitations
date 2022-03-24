@@ -17,7 +17,7 @@ Dhammadīpā dhammasaraṇā anaññasaraṇā
 
 suttaRef{[SN 22.43]}
 
-Appassutāyaṁ puriso – Balibaddova jīrati
+Appassut'āyaṁ puriso – Balibaddo'va jīrati
 Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati
 
 <div class="english">
@@ -32,7 +32,7 @@ Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati
 suttaRef{[Dhp 152]}
 
 Uyyuñjanti satīmanto – Na nikete ramanti te
-Haṁsāva pallalaṁ hitvā – Okamokaṁ jahanti te
+Haṁsā'va pallalaṁ hitvā – Okam'okaṁ jahanti te
 
 <div class="english">
 
@@ -60,7 +60,7 @@ Majjhe ce no gahessasi – Upasanto carissasi
 suttaRef{[Snp 949]}
 
 Uṭṭhahatha nisīdatha – Ko attho supitena vo
-Āturānañhi kā niddā – Sallaviddhāna ruppataṁ
+Āturānañ'hi kā niddā – Sallaviddhāna ruppataṁ
 
 <div class="english">
 
@@ -72,7 +72,7 @@ Uṭṭhahatha nisīdatha – Ko attho supitena vo
 </div>
 
 Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā
-Mā vo pamatte viññāya – Maccurājā amohayittha vasānuge
+Mā vo pamatte viññāya – Maccurājā amohayittha vas'ānuge
 
 <div class="english">
 
@@ -84,8 +84,8 @@ Mā vo pamatte viññāya – Maccurājā amohayittha vasānuge
 </div>
 
 Yāya devā manussā ca – Sitā tiṭṭhanti atthikā
-Tarathetaṁ visattikaṁ – Khaṇo vo mā upaccagā
-Khaṇātītā hi socanti – Nirayamhi samappitā
+Tarath'etaṁ visattikaṁ – Khaṇo vo mā upaccagā
+Khaṇ'ātītā hi socanti – Nirayamhi samappitā
 
 <div class="english">
 
@@ -98,8 +98,8 @@ Khaṇātītā hi socanti – Nirayamhi samappitā
 
 </div>
 
-Pamādo rajo pamādo – Pamādānupatito rajo
-Appamādena vijjāya – Abbahe sallamattanoti
+Pamādo rajo pamādo – Pamād'ānupatito rajo
+Appamādena vijjāya – Abbahe sallam'attano'ti
 
 <div class="english">
 
@@ -113,7 +113,7 @@ Appamādena vijjāya – Abbahe sallamattanoti
 suttaRef{[Snp 333-336]}
 
 Piyato jāyatī soko – Piyato jāyatī bhayaṁ
-Piyato vippamuttassa – Natthi soko kuto bhayaṁ
+Piyato vippamuttassa – N'atthi soko kuto bhayaṁ
 
 <div class="english">
 
@@ -126,7 +126,7 @@ Piyato vippamuttassa – Natthi soko kuto bhayaṁ
 
 suttaRef{[Dhp 212]}
 
-Tiṭṭhateva nibbānaṁ
+Tiṭṭhat'eva nibbānaṁ
 
 <div class="english">
 
@@ -152,7 +152,7 @@ Maggakkhāyī tathāgato
 
 suttaRef{[MN 107]}
 
-Tumhehi kiccam-ātappaṁ
+Tumhehi kiccam'ātappaṁ
 
 <div class="english">
 
@@ -189,7 +189,7 @@ Etāni bhikkhave rukkhamūlāni
 
 </div>
 
-Etāni suññāgārāni
+Etāni suññ'āgārāni
 
 <div class="english">
 

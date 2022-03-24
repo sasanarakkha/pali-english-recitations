@@ -4,7 +4,7 @@ Bhadd-eka-ratta
 > [Handa mayaṁ bhadd’eka-ratta-gāthāyo bhaṇāmase]
 
 Atītaṁ nānvāgameyya – Nappaṭikaṅkhe anāgataṁ
-Yad atītam-pahīnan-taṁ – Appattañ-ca anāgataṁ
+Yad'atītam'pahīnan'taṁ – Appattañ'ca anāgataṁ
 
 <div class="english">
 
@@ -15,8 +15,8 @@ Yad atītam-pahīnan-taṁ – Appattañ-ca anāgataṁ
 
 </div>
 
-Paccuppannañ-ca yo dhammaṁ – Tattha tattha vipassati
-Asaṁhiraṁ asaṅkuppaṁ – Taṁ viddhām-anubrūhaye
+Paccuppannañ'ca yo dhammaṁ – Tattha tattha vipassati
+Asaṁhiraṁ asaṅkuppaṁ – Taṁ viddhām'anubrūhaye
 
 <div class="english">
 
@@ -27,8 +27,8 @@ Asaṁhiraṁ asaṅkuppaṁ – Taṁ viddhām-anubrūhaye
 
 </div>
 
-Ajjeva kiccam-ātappaṁ – Ko jaññā maraṇaṁ suve
-Na hi no saṅgaran-tena – Mahā-senena maccunā
+Ajj'eva kiccam'ātappaṁ – Ko jaññā maraṇaṁ suve
+Na hi no saṅgaran'tena – Mahā-senena maccunā
 
 <div class="english">
 
@@ -39,7 +39,7 @@ Na hi no saṅgaran-tena – Mahā-senena maccunā
 
 </div>
 
-Evaṁ vihārim-ātāpiṁ – Aho-rattam-atanditaṁ
+Evaṁ vihārim'ātāpiṁ – Aho-rattam'atanditaṁ
 Taṁ ve bhadd’eka-ratto’ti – Santo ācikkhate muni
 
 <div class="english">

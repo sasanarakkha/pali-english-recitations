@@ -38,8 +38,8 @@ Bhāvanābhiratā hontu – Gacchantu devatā-gatā
 
 </div>
 
-[Sabbe buddhā] balappattā – Paccekānañ-ca yaṁ balaṁ
-Arahantānañ-ca tejena – Rakkhaṁ bandhāmi sabbaso
+[Sabbe buddhā] balappattā – Paccekānañ'ca yaṁ balaṁ
+Arahantānañ'ca tejena – Rakkhaṁ bandhāmi sabbaso
 
 > All Buddhas possess [supernormal] strength.
 > And [there is] the power of Paccekabuddhas.

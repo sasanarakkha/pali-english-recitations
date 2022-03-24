@@ -29,9 +29,9 @@ Sādhavo me suṇantu
 
 </div>
 
-Buddha-dassana-kālo ayam-bhadantā
-Dhammassavana-kālo ayam-bhadantā
-Saṅgha-payirupāsana-kālo ayam-bhadantā
+Buddha-dassana-kālo ayam'bhadantā
+Dhammassavana-kālo ayam'bhadantā
+Saṅgha-payirupāsana-kālo ayam'bhadantā
 
 ><div class="english">
 

@@ -1,6 +1,6 @@
 ## Jaya-maṅgala-aṭṭha-gāthā<a id="jaya-mangala-attha-gatha"></a>
 
-[Bāhuṁ] sahassam-abhinimmita sāvudhan-taṁ
+[Bāhuṁ] sahassam-abhinimmita sāvudhan'taṁ
 Grīmekhalaṁ udita-ghora-sasena-māraṁ
 Dān’ādi-dhamma-vidhinā jitavāi mun’indo
 Tan-tejasā bhavatu te jaya-maṅgalāni
@@ -30,7 +30,7 @@ Tan-tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Nāḷāgiriṁ gaja-varaṁ atimatta-bhūtaṁ
-Dāv’aggi-cakkam-asanīva sudāruṇan-taṁ
+Dāv’aggi-cakkam-asanīva sudāruṇan'taṁ
 Mett’ambu-seka-vidhinā jitavā mun’indo
 Tan-tejasā bhavatu te jaya-maṅgalāni
 Nāḷāgiri, the excellent elephant, when maddened,
@@ -44,7 +44,7 @@ Nāḷāgiri, the excellent elephant, when maddened,
 
 </div>
 
-Ukkhitta-khaggam-atihattha-sudāruṇan-taṁ
+Ukkhitta-khaggam-atihattha-sudāruṇan'taṁ
 Dhāvan-ti-yojana-path’aṅguli-mālavantaṁ
 Iddhī’bhisaṅkhata-mano jitavā mun’indo
 Tan-tejasā bhavatu te jaya-maṅgalāni

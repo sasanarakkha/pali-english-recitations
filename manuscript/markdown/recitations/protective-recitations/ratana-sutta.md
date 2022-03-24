@@ -129,7 +129,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 Ye ariya-saccāni vibhāvayanti – Gambhīra-paññena sudesitāni
-Kiñ-cāpi te honti bhusappamattā – Na te bhavaṁ aṭṭhamam-ādiyanti
+Kiñ'c'āpi te honti bhusappamattā – Na te bhavaṁ aṭṭhamam-ādiyanti
 Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
@@ -146,7 +146,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 Sahā v’assa dassana-sampadāya – Tay’assu dhammā jahitā bhavanti
-Sakkāya-diṭṭhi vicikicchitañ-ca – Sīlabbataṁ vā pi yad-atthi kiñci
+Sakkāya-diṭṭhi vicikicchitañ'ca – Sīlabbataṁ vā pi yad-atthi kiñci
 Catūh’apāyehi ca vippamutto – Cha cābhiṭhānāni abhabbo kātuṁ
 Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
@@ -165,7 +165,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 </div>
 
 
-Kiñ-cāpi so kammaṁ karoti pāpakaṁ – Kāyena vācā uda cetasā vā
+Kiñ'c'āpi so kammaṁ karoti pāpakaṁ – Kāyena vācā uda cetasā vā
 Abhabbo so tassa paṭicchadāya – Abhabbatā diṭṭha-padassa vuttā
 Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 

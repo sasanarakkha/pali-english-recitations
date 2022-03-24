@@ -9,7 +9,7 @@ Vaṇṇa-do paṭibhāṇa-do
 Sukhassa dātā medhāvī
 Sukhaṁ so adhigacchati
 Āyuṁ datvā balaṁ vaṇṇaṁ
-Sukhañ-ca paṭibhāna-kaṁii
+Sukhañ'ca paṭibhāna-kaṁii
 Dīgh’āyu yasavā hoti
 Yattha yatthūpapajjati
 Abhivādanasīlissa

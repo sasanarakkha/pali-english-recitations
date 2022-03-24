@@ -3,7 +3,7 @@ Pārāpariya-thera-gāthā
 
 > [Handa mayaṁ pārāpariyatthera-gāthāyo bhaṇāmase]
 
-Aññathā lokanāthamhi – Tiṭṭhante purisuttame
+Aññathā lokanāthamhi – Tiṭṭhante puris'uttame
 Iriyaṁ āsi bhikkhūnaṁ – Aññathā dāni dissati
 
 <div class="english">
@@ -16,7 +16,7 @@ Iriyaṁ āsi bhikkhūnaṁ – Aññathā dāni dissati
 </div>
 
 Sītavātaparittāṇaṁ – Hirikopīnachādanaṁ
-Mattaṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itarītare
+Matt'aṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itar'ītare
 
 <div class="english">
 
@@ -28,7 +28,7 @@ Mattaṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itarītare
 </div>
 
 Paṇītaṁ yadi vā lūkhaṁ – Appaṁ vā yadi vā bahuṁ
-Yāpanatthaṁ abhuñjiṁsu – Agiddhā nādhimucchitā
+Yāpan'atthaṁ abhuñjiṁsu – Agiddhā n'ādhimucchitā
 
 <div class="english">
 
@@ -52,7 +52,7 @@ Na bāḷhaṁ ussukā āsuṁ – Yathā te āsavakkhaye
 </div>
 
 Araññe rukkhamūlesu – Kandarāsu guhāsu ca
-Vivekamanubrūhantā – Vihaṁsu tapparāyaṇā
+Vivekam'anubrūhantā – Vihaṁsu tapparāyaṇā
 
 <div class="english">
 
@@ -64,7 +64,7 @@ Vivekamanubrūhantā – Vihaṁsu tapparāyaṇā
 </div>
 
 Nīcā niviṭṭhā subharā – Mudū atthaddhamānasā
-Abyāsekā amukharā – Atthacintā vasānugā
+Abyāsekā amukharā – Atthacintā vas'ānugā
 
 <div class="english">
 
@@ -99,8 +99,8 @@ Satiṁ upaṭṭhapetvāna – Evaṁ gāme munī care
 
 </div>
 
-Saritvā pubbake yogī – Tesaṁ vattamanussaraṁ
-Kiñcāpi pacchimo kālo – Phuseyya amataṁ padaṁ
+Saritvā pubbake yogī – Tesaṁ vattam'anussaraṁ
+Kiñc'āpi pacchimo kālo – Phuseyya amataṁ padaṁ
 
 <div class="english">
 

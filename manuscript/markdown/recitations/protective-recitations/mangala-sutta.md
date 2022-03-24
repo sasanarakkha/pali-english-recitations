@@ -20,7 +20,7 @@ Bahū devā manussā ca – Maṅgalāni acintayuṁ
 
 </div>
 
-[Asevanā ca bālānaṁ] – Paṇḍitānañ-ca sevanā
+[Asevanā ca bālānaṁ] – Paṇḍitānañ'ca sevanā
 Pūjā ca pūjanīyānaṁ – Etam maṅgalam-uttamaṁ
 
 <div class="english">
@@ -44,7 +44,7 @@ Atta-sammā-paṇidhi ca – Etam maṅgalam-uttamaṁ
 
 </div>
 
-Bāhu-saccañ-ca sippañ-ca – Vinayo ca susikkhito
+Bāhu-saccañ'ca sippañ'ca – Vinayo ca susikkhito
 Subhāsitā ca yā vācā – Etam maṅgalam-uttamaṁ
 
 <div class="english">
@@ -68,7 +68,7 @@ Anākulā ca kammantā – Etam maṅgalam-uttamaṁ
 
 </div>
 
-Dānañ-ca dhamma-cariyā ca – Ñātakānañ-ca saṅgaho
+Dānañ'ca dhamma-cariyā ca – Ñātakānañ'ca saṅgaho
 Anavajjāni kammāni – Etam maṅgalam-uttamaṁ
 
 <div class="english">
@@ -104,7 +104,7 @@ Kālena dhammassavanaṁ – Etam maṅgalam-uttamaṁ
 
 </div>
 
-Khantī ca sovacassatā – Samaṇānañ-ca dassanaṁ
+Khantī ca sovacassatā – Samaṇānañ'ca dassanaṁ
 Kālena dhamma-sākacchā – Etam maṅgalam-uttamaṁ
 
 <div class="english">
@@ -116,7 +116,7 @@ Kālena dhamma-sākacchā – Etam maṅgalam-uttamaṁ
 
 </div>
 
-Tapo ca brahma-cariyañ-ca – Ariya-saccāna-dassanaṁ
+Tapo ca brahma-cariyañ'ca – Ariya-saccāna-dassanaṁ
 Nibbāna-sacchikiriyā ca – Etam maṅgalam-uttamaṁ
 
 <div class="english">

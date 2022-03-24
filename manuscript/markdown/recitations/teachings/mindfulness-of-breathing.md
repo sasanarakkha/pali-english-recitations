@@ -107,7 +107,7 @@ Rukkha-mūla-gato vā
 
 </div>
 
-Suññāgāra-gato vā
+Suññ'āgāra-gato vā
 
 <div class="english">
 

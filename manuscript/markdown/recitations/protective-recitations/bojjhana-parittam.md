@@ -2,7 +2,7 @@
 
 [Bojjh’aṅgo sati-saṅkhāto]
 Dhammānaṁ vicayo tathā
-Viriyam-pīti-passaddhi
+Viriyam'pīti-passaddhi
 Bojjh’aṅgā ca tathā’pare
 Samādh’upekkha-bojjh’aṅgā
 Satt’ete sabba-dassinā
@@ -27,7 +27,7 @@ Sotthi te hotu sabbadā
 </div>
 
 Ekasmiṁ samaye nātho
-Moggallānañ-ca Kassapaṁ
+Moggallānañ'ca Kassapaṁ
 Gilāne dukkhite disvā
 Bojjh’aṅge satta desayi
 Te ca taṁ abhinanditvā

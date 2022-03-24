@@ -11,7 +11,7 @@ Siyā kho tumhākaṁ evamassa
 
 </div>
 
-Atītasatthukaṁ pāvacanaṁ natthi no satthā’ti
+Atītasatthukaṁ pāvacanaṁ n'atthi no satthā’ti
 
 <div class="english">
 

@@ -42,7 +42,7 @@ Atha nibbindati dukkhe – Esa maggo visuddhiyā
 suttaRef{[Dhp 183-185]}
 
 Appakā te manussesu – Ye janā pāra-gāmino
-Athāyaṁ itarā pajā – Tīram-evānudhāvati
+Ath'āyaṁ itarā pajā – Tīram'ev'ānudhāvati
 
 <div class="english">
 
@@ -53,8 +53,8 @@ Athāyaṁ itarā pajā – Tīram-evānudhāvati
 
 </div>
 
-Ye ca kho sammad-akkhāte – Dhamme dhammānuvattino
-Te janā pāram-essanti – Maccu-dheyyaṁ suduttaraṁ
+Ye ca kho samma'd'akkhāte – Dhamme dhamm'ānuvattino
+Te janā pāram'essanti – Maccu-dheyyaṁ suduttaraṁ
 
 <div class="english">
 
@@ -66,8 +66,8 @@ Te janā pāram-essanti – Maccu-dheyyaṁ suduttaraṁ
 </div>
 
 Kaṇhaṁ dhammaṁ vippahāya – Sukkaṁ bhāvetha paṇḍito
-Okā anokam-āgamma – Viveke yattha dūramaṁ
-Tatrābhiratim-iccheyya – Hitvā kāme akiñcano
+Okā anokam'āgamma – Viveke yattha dūramaṁ
+Tatr'ābhiratim'iccheyya – Hitvā kāme akiñcano
 
 <div class="english">
 

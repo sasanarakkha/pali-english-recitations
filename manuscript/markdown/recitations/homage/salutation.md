@@ -444,7 +444,7 @@ Saddhā agārasmā anagāriyaṁ pabbajitā
 
 </div>
 
-Tasmiṁ bhagavati brahma-cariyaṁ carāma
+Tasmiṁ bhagavati brahmacariyaṁ carāma
 
 <div class="english">
 
@@ -460,7 +460,7 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 
 </div>
 
-Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
+Taṁ no brahmacariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
 
 <div class="english">
 

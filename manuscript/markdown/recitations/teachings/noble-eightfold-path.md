@@ -3,7 +3,7 @@ Ariy’aṭṭhaṅgika-magga
 
 > [Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ bhaṇāmase]
 
-Ayam-eva ariyo aṭṭh'aṅgiko maggo
+Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
 <div class="english">
 
@@ -584,7 +584,7 @@ Sato ca sampajāno
 
 </div>
 
-Sukhañ-ca kāyena paṭisaṁvedeti
+Sukhañ'ca kāyena paṭisaṁvedeti
 
 <div class="english">
 
@@ -647,7 +647,7 @@ Ayaṁ vuccati bhikkhave sammā-samādhi
 
 </div>
 
-Ayam-eva ariyo aṭṭh'aṅgiko maggo
+Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
 <div class="english">
 

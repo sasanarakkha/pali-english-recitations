@@ -2,7 +2,7 @@
 Dhamma-gārava
 
 Ye ca atītā sambuddhā – Ye ca buddhā anāgatā
-Yo c'etarahi sambuddho – Bahunnaṁ soka-nāsano
+Yo c'eta'r'ahi sambuddho – Bahunnaṁ soka-nāsano
 
 <div class="english">
 
@@ -25,7 +25,7 @@ Atho pi viharissanti – Esā buddhāna dhammatā
 
 </div>
 
-Tasmā hi atta-kāmena – Mahattam-abhikaṅkhatā
+Tasmā hi atta-kāmena – Mahattam'abhikaṅkhatā
 Saddhammo garu-kātabbo – Saraṁ buddhāna sāsanaṁ
 
 <div class="english">
@@ -54,8 +54,8 @@ Dhammo pāpeti suggatiṁ
 </div>
 
 Dhammo have rakkhati dhamma-cāriṁ
-Dhammo suciṇṇo sukham-āvahāti
-Esānisaṁso dhamme suciṇṇe
+Dhammo suciṇṇo sukham'āvahāti
+Es'ānisaṁso dhamme suciṇṇe
 Na duggatiṁ gacchati dhamma-cārī
 
 <div class="english">

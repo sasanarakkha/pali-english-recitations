@@ -2,8 +2,8 @@
 
 [Yo cakkhumā] moha-malāpakaṭṭho – Sāmaṁ va buddho sugato vimutto
 Mārassa pāsā vinimocayanto – Pāpesi khemaṁ janataṁ vineyyaṁ
-Buddhaṁ varan-taṁ sirasā namāmi
-Lokassa nāthañ-ca vināyakañ-ca
+Buddhaṁ varan'taṁ sirasā namāmi
+Lokassa nāthañ'ca vināyakañ'ca
 Tan-tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu
 
@@ -23,7 +23,7 @@ Dhammo dhajo yo viya tassa satthu
 Dassesi lokassa visuddhi-maggaṁ
 Niyyāniko dhamma-dharassa dhārī
 Sāt’āvaho santi-karo suciṇṇo
-Dhammaṁ varan-taṁ sirasā namāmi
+Dhammaṁ varan'taṁ sirasā namāmi
 Mohappadālaṁ upasanta-dāhaṁ
 Tan-tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu
@@ -45,7 +45,7 @@ Saddhamma-senā sugatānugo yo
 Lokassa pāp'ūpakilesa-jetā
 Santo sayaṁ santi-niyojako ca
 Svākkhāta-dhammaṁ viditaṁ karoti
-Saṅghaṁ varan-taṁ sirasā namāmi
+Saṅghaṁ varan'taṁ sirasā namāmi
 Buddhānubuddhaṁ sama-sīla-diṭṭhiṁ
 Tan-tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu

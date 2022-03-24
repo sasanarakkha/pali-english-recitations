@@ -1,6 +1,6 @@
 ## Karaṇīya-metta-sutta<a id="karaniya-metta-sutta"></a>
 
-[Karaṇīya] m-attha-kusalena – Yan-taṁ santaṁ padaṁ abhisamecca
+[Karaṇīya] m-attha-kusalena – Yan'taṁ santaṁ padaṁ abhisamecca
 Sakko ujū ca suhujū ca – Suvaco c’assa mudu anatimānī
 
 <div class="english">
@@ -72,7 +72,7 @@ Byārosanā paṭīgha-saññā – Nāññam-aññassa dukkham-iccheyya
 
 </div>
 
-Mātā yathā niyaṁ puttaṁ – Āyusā eka-puttam-anurakkhe
+Mātā yathā niyaṁ puttaṁ – Āyusā eka-puttam'anurakkhe
 Evam pi sabba-bhūtesu – Mānasam-bhāvaye aparimāṇaṁ
 
 <div class="english">
@@ -86,8 +86,8 @@ Evam pi sabba-bhūtesu – Mānasam-bhāvaye aparimāṇaṁ
 </div>
 
 
-Mettañ-ca sabba-lokasmiṁ – Mānasam-bhāvaye aparimāṇaṁ
-Uddhaṁ adho ca tiriyañ-ca – Asambādhaṁ averaṁ asapattaṁ
+Mettañ'ca sabba-lokasmiṁ – Mānasam-bhāvaye aparimāṇaṁ
+Uddhaṁ adho ca tiriyañ'ca – Asambādhaṁ averaṁ asapattaṁ
 
 <div class="english">
 
@@ -98,7 +98,7 @@ Uddhaṁ adho ca tiriyañ-ca – Asambādhaṁ averaṁ asapattaṁ
 
 </div>
 
-Tiṭṭhañ-caraṁ nisinno vā – Sayāno vā yāvat’assa vigata-middho
+Tiṭṭhañ'caraṁ nisinno vā – Sayāno vā yāvat’assa vigata-middho
 Etaṁ satiṁ adhiṭṭheyya – Brahmam-etaṁ vihāraṁ idham-āhu
 
 <div class="english">
@@ -110,7 +110,7 @@ Etaṁ satiṁ adhiṭṭheyya – Brahmam-etaṁ vihāraṁ idham-āhu
 
 </div>
 
-Diṭṭhiñ-ca anupagamma – Sīlavā dassanena sampanno
+Diṭṭhiñ'ca anupagamma – Sīlavā dassanena sampanno
 Kāmesu vineyya gedhaṁ – Na hi jātu gabbha-seyyaṁ punar-etī’ti
 
 <div class="english">

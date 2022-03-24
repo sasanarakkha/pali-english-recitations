@@ -167,7 +167,7 @@ Katamā ca sā bhikkhave majjhimā paṭipadā
 
 </div>
 
-Ayam-eva ariyo aṭṭhaṅgiko maggo
+Ayam'eva ariyo aṭṭhaṅgiko maggo
 
 <div class="english">
 
@@ -514,7 +514,7 @@ Idaṁ kho pana bhikkhave dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ
 
 </div>
 
-Ayam-eva ariyo aṭṭh’aṅgiko maggo
+Ayam'eva ariyo aṭṭh’aṅgiko maggo
 
 <div class="english">
 
@@ -747,7 +747,7 @@ Taṁ kho pan’idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvi
 
 </div>
 
-Yāva-kīvañ-ca me bhikkhave imesu catūsu ariya-saccesu
+Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
 Evan-ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 
 <div class="english">
@@ -805,7 +805,7 @@ Anuttaraṁ sammā-sambodhiṁ abhisambuddho paccaññāsiṁ
 
 </div>
 
-Ñāṇañ-ca pana me dassanaṁ udapādi
+Ñāṇañ'ca pana me dassanaṁ udapādi
 
 <div class="english">
 
@@ -821,7 +821,7 @@ Akuppā me vimutti
 
 </div>
 
-Ayam-antimā jāti
+Ayam'antimā jāti
 
 <div class="english">
 

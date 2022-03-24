@@ -4,7 +4,7 @@ Tāyana-gāthā
 > [Handa mayaṁ Tāyana-gāthāyo bhaṇāmase]
 
 Chinda sotaṁ parakkamma – Kāme panūda brāhmaṇa
-Nappahāya muni kāme – Nekattam-upapajjati
+Nappahāya muni kāme – Nekattam'upapajjati
 
 <div class="english">
 
@@ -15,7 +15,7 @@ Nappahāya muni kāme – Nekattam-upapajjati
 
 </div>
 
-Kayirā ce kayirāthenaṁ – Daḷham-enaṁ parakkame
+Kayirā ce kayirāth'enaṁ – Daḷham'enaṁ parakkame
 Sithilo hi paribbājo – Bhiyyo ākirate rajaṁ
 
 <div class="english">
@@ -28,7 +28,7 @@ Sithilo hi paribbājo – Bhiyyo ākirate rajaṁ
 </div>
 
 Akataṁ dukkaṭaṁ seyyo – Pacchā tappati dukkaṭaṁ
-Katañ-ca sukataṁ seyyo – Yaṁ katvā nānutappati
+Katañ'ca sukataṁ seyyo – Yaṁ katvā n'ānutappati
 
 <div class="english">
 
@@ -39,7 +39,7 @@ Katañ-ca sukataṁ seyyo – Yaṁ katvā nānutappati
 
 </div>
 
-Kuso yathā duggahito – Hattham-evānukantati
+Kuso yathā duggahito – Hattham'ev'ānukantati
 Sāmaññaṁ dupparāmaṭṭhaṁ – Nirayāy’ūpakaḍḍhati
 
 <div class="english">
@@ -51,8 +51,8 @@ Sāmaññaṁ dupparāmaṭṭhaṁ – Nirayāy’ūpakaḍḍhati
 
 </div>
 
-Yaṁ-kiñci sithilaṁ kammaṁ – Saṅkiliṭṭhañ-ca yaṁ vataṁ
-Saṅkassaraṁ brahma-cariyaṁ – Na taṁ hoti mahapphalan’ti
+Yaṁ'kiñci sithilaṁ kammaṁ – Saṅkiliṭṭhañ'ca yaṁ vataṁ
+Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti mahapphalan’ti
 
 <div class="english">
 

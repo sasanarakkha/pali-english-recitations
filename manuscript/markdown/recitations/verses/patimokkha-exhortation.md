@@ -11,7 +11,7 @@ Sabba-pāpassa akaraṇaṁ
 
 </div>
 
-Kusalassūpasampadā
+Kusalass'ūpasampadā
 
 <div class="english">
 
@@ -51,7 +51,7 @@ Nibbānaṁ paramaṁ vadanti buddhā
 
 </div>
 
-Na hi pabbajito parūpaghātī
+Na hi pabbajito par'ūpaghātī
 
 <div class="english">
 
@@ -91,7 +91,7 @@ Mattaññutā ca bhattasmiṁ
 
 </div>
 
-Pantañca sayan'āsanaṁ
+Pantañ'ca sayan'āsanaṁ
 
 <div class="english">
 

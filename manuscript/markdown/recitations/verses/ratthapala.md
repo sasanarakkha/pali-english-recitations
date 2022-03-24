@@ -4,7 +4,7 @@ Raṭṭhapāla-thera-gāthā
 > [Handa mayaṁ raṭṭhapālatthera-gāthāyo bhaṇāmase]
 
 Passa cittakataṁ bimbaṁ – Arukāyaṁ samussitaṁ
-Āturaṁ bahusaṅkappaṁ – Yassa natthi dhuvaṁ ṭhiti
+Āturaṁ bahusaṅkappaṁ – Yassa n'atthi dhuvaṁ ṭhiti
 
 <div class="english">
 
@@ -51,7 +51,7 @@ Alaṁ bālassa mohāya – No ca pāragavesino
 
 </div>
 
-Añjanīva navā cittā – Pūtikāyo alaṅkato
+Añjanī'va navā cittā – Pūtikāyo alaṅ'kato
 Alaṁ bālassa mohāya – No ca pāragavesino
 
 <div class="english">
@@ -66,7 +66,7 @@ Alaṁ bālassa mohāya – No ca pāragavesino
 Passāmi loke sadhane manusse
 Laddhāna vittaṁ na dadanti mohā
 Luddhā dhanaṁ sannicayaṁ karonti
-Bhiyyova kāme abhipatthayanti
+Bhiyyo'va kāme abhipatthayanti
 
 <div class="english">
 
@@ -91,9 +91,9 @@ Kāmehi lokamhi na hatthi titti
 
 </div>
 
-Na dīghamāyuṁ labhate dhanena
-Na cāpi vittena jaraṁ vihanti
-Appaṁ hidaṁ jīvitamāhu dhīrā
+Na dīgham'āyuṁ labhate dhanena
+Na c'āpi vittena jaraṁ vihanti
+Appaṁ hidaṁ jīvitam'āhu dhīrā
 Asassataṁ vippariṇāma-dhammaṁ
 
 <div class="english">
@@ -105,9 +105,9 @@ Asassataṁ vippariṇāma-dhammaṁ
 
 </div>
 
-Tasmā hi paññāva dhanena seyyā
-Yāya vosānamidhādhigacchati|
-Abyositattā hi bhavābhavesu
+Tasmā hi paññā'va dhanena seyyā
+Yāya vosānam'idh'ādhigacchati|
+Abyositattā hi bhav'ābhavesu
 Pāpāni kammāni karoti mohā
 
 <div class="english">
@@ -122,7 +122,7 @@ Pāpāni kammāni karoti mohā
 Kāmā hi citrā madhurā manoramā
 Virūparūpena mathenti cittaṁ
 Ādīnavaṁ kāmaguṇesu disvā
-Tasmā ahaṁ pabbajitomhi rāja
+Tasmā ahaṁ pabbajito'mhi rāja
 
 <div class="english">
 
@@ -133,10 +133,10 @@ Tasmā ahaṁ pabbajitomhi rāja
 
 </div>
 
-Dumapphalānīva patanti māṇavā
+Dumapphalānī'va patanti māṇavā
 Daharā ca vuḍḍhā ca sarīrabhedā
-Etampi disvā pabbajitomhi rāja
-Apaṇṇakaṁ sāmaññameva seyyo
+Etam'pi disvā pabbajito'mhi rāja
+Apaṇṇakaṁ sāmaññam'eva seyyo
 
 <div class="english">
 

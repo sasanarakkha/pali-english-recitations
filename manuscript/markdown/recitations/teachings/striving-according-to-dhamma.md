@@ -100,7 +100,7 @@ Vokiṇṇo pāpakehi akusalehi dhammehi
 
 </div>
 
-Mahantañ-ca sadatthaṁ parihāpeti
+Mahantañ'ca sadatthaṁ parihāpeti
 
 <div class="english">
 
@@ -124,7 +124,7 @@ Pavivitto pāpakehi akusalehi dhammehi
 
 </div>
 
-Mahantañ-ca sadatthaṁ paripūreti
+Mahantañ'ca sadatthaṁ paripūreti
 
 <div class="english">
 
@@ -148,7 +148,7 @@ Aggena ca kho bhikkhave aggassa patti hoti
 
 </div>
 
-Maṇḍapeyyam-idaṁ bhikkhave brahmacariyaṁ
+Maṇḍapeyyam'idaṁ bhikkhave brahmacariyaṁ
 
 <div class="english">
 
