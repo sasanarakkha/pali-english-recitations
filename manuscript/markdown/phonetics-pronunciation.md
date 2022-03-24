@@ -1,0 +1,156 @@
+## Pāli Phonetics & Pronunciation<a id="phonetics-pronunciation"></a>
+
+TODO: Insert graph here
+
+TODO: Compare to ours and decide which one.
+Pāli is the original scriptural language of Theravāda Buddhism. It was a spoken
+language, closely related to Sanskrit, with no written script of its own. As
+written forms have emerged, they have been in the letterings of other languages
+(e.g. Devanagari, Sinhalese, Burmese, Khmer, Thai, Roman). The Roman lettering
+used here is pronounced as in English, with the following clarifications:
+
+section*{Vowels}
+
+{centering
+
+begin{tabular}{@{} ll @{}}
+Short & Long
+textbf{a} as in magmprul{a} &
+textbf{ā} as in fprul{a}ther
+textbf{i} as in lprul{i}ter &
+textbf{ī} as in machprul{i}ne
+textbf{u} as in pprul{u}t &
+textbf{ū} as in rprul{u}le
+& textbf{e} as in prul{e}nd
+& textbf{o} as in mprul{o}re
+end{tabular}
+
+}
+
+Exceptions: textbf{e} and textbf{o} change to short sounds in syllables
+ending in consonants. They are then pronounced as in `gprul{e}t' and
+`prul{o}x', respectively.
+
+section*{Consonants}
+
+textbf{c} as in anprul{c}ient (like prul{ch} but unaspirated)
+
+textbf{ṃ, ṅ} as prul{ng} in saprul{ng}
+
+textbf{ñ} as prul{ny} in caprul{ny}on
+
+textbf{v} rather softer than the English prul{v}; near prul{w}
+
+subsection{Aspirated consonants}
+
+textbf{bh ch dh ḍh gh jh kh ph th ṭh}
+
+These two-lettered notations with prul{h} denote an aspirated, airy sound,
+distinct from the hard, crisp sound of the single consonant. They should be
+considered as one unit.
+
+However, the other combinations with textbf{h,} i.e., textbf{lh, mh, ñh,} and
+textbf{vh,} do count as two consonants (for example in the Pāli words
+‘jitextbf{vh}ā’ or ‘mutextbf{ḷh}o’).
+
+subsection{Examples}
+
+textbf{th} as prul{t} in prul{t}ongue. (Never pronounced as in `prul{th}e'.)
+
+textbf{ph} as prul{p} in prul{p}alate. (Never pronounced as in `prul{ph}oto'.)
+
+These are distinct from the hard, crisp sound of the single consonant, e.g.
+textbf{th} as in `prul{Th}omas' (not as in `prul{th}in') or textbf{ph} as
+in `prul{p}uff' (not as in `prul{ph}one').
+
+subsection{Retroflex consonants}
+
+textbf{ḍ ḍh ḷ ṇ ṭ ṭh}
+
+These retroflex consonants have no English equivalents. They are sounded
+by curling the tip of the tongue back against the palate.
+
+section*{Chanting technique}
+
+Once you have grasped the system of Pāli pronunciation and the following
+chanting technique, it allows you to chant a text in Pāli from sight
+with the correct rhythm.
+
+textbf{Unstressed syllables} end in a short textbf{a, i} or
+textbf{u}. All other syllables are stressed. Stressed syllables take
+twice the time of unstressed syllables --- rather like two beats in a bar
+of music compared to one. This is what gives the chanting its particular
+rhythm.
+
+begin{centering}
+
+{setlength{tabcolsep}{1.45pt}%
+fontsize{8}{13}selectfont
+begin{tabular}{@{} ccc c ccccc c ccccc c ccccccc @{}}
+BUD & · & DHO & hsp & SU & · & SUD & · & DHO & hsp & KA & · & RU & · & ṆĀ & hsp & MA & · & HAṆ & · & ṆA & · & VO
+1  &   & 1   &      & ½  &   & 1   &   & 1   &      & ½  &   & ½  &   & 1  &      & ½  &   & 1   &   & ½  &   & 1
+end{tabular}%
+}
+
+end{centering}
+
+Two details that are important when separating the syllables:
+
+textbf{1.} Syllables with double letters get divided in this way:
+
+begin{centering}
+
+begin{minipage}{0.8linewidth}
+fontsize{8}{13}selectfont
+begin{multicols}{2}
+setlength{tabcolsep}{1.8pt}%
+
+      begin{tabular}{@{} rrcccl @{}}
+        & A & · & NIC & · & CA
+        & ½ &   &  1  &   & ½
+        (not & A & · & NI  & · & CCA)
+        & ½ &   & ½   &   & ½
+      end{tabular}
+
+      columnbreak
+
+      begin{tabular}{@{} rrcccl @{}}
+        & PUG & · & GA  & · & LĀ
+        &  1  &   &  ½  &   &  1
+        (not & PU  & · & GGA & · & LĀ)
+        &  ½  &   &  ½  &   &  1
+      end{tabular}
+
+    end{multicols}
+    end{minipage}
+
+end{centering}
+
+vspace*{parskip}
+
+They are always enunciated separately, e.g. textbf{dd} in ‘uddeso’ as
+in ‘mad dog’, or textbf{gg} in ‘maggo’ as in ‘big gun’.
+
+textbf{2.} textbf{Aspirated consonants} like textbf{bh, dh} etc.
+count as single consonant and don't get divided (Therefore
+textbf{am·hā·kaṃ}, but textbf{sa·dham·maṃ}, not textbf{sad·ham·maṃ}
+or, another example: textbf{Bud·dho} and not textbf{Bu·ddho}).
+
+Precise pronunciation and correct separation of the syllables is
+especially important when someone is interested in learning Pāli and to
+understand and memorize the meaning of Suttas and other chants,
+otherwise the meaning of it will get distorted.
+
+textbf{An example to illustrate this:}
+
+The Pāli word ‘textbf{sukka}’ means ‘bright’; ‘textbf{sukkha}’ means
+‘dry’; ‘textbf{sukha}’ --- ‘happiness’; ‘textbf{suka}’ --- ‘parrot’ and
+‘textbf{sūka}’ --- ‘bristles on an ear of barley’.
+
+So if you chant ‘textbf{sukha}’ with a ‘textbf{k}’ instead of a
+‘textbf{kh}’, you would chant ‘parrot’ instead of ‘happiness’.
+
+A general rule of thumb for understanding the practice of chanting is to
+listen carefully to what the leader and the group are chanting and to
+follow, keeping the same pitch, tempo and speed. All voices should blend
+together as one.

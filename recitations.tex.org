@@ -205,7 +205,7 @@
   \pdfbookmark[2]{Set 6}{set6}
 
   \textsc{\fontsize{14.4}{28}\selectfont
-    \hyperref[anatta-lakkhana]{Anatta-Lakkhaṇa Sutta} \ifdesktopversion\else\pageref{anatta-lakkhana}\fi\\
+    \hyperref[anatta-lakkhana]{Anatta-lakkhaṇa Sutta} \ifdesktopversion\else\pageref{anatta-lakkhana}\fi\\
     \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma} \ifdesktopversion\else\pageref{striving-according-to-dhamma}\fi\\
     \hyperref[divine-abidings]{The Divine Abidings} \ifdesktopversion\else\pageref{divine-abidings}\fi\\
     \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ \vspace{-0.4cm} by One Gone Forth} \ifdesktopversion\else\pageref{ten-reflections}\fi\\
@@ -248,7 +248,7 @@
   \pdfbookmark[2]{Set 9}{set9}
 
   \textsc{\fontsize{14.4}{28}\selectfont
-    \hyperref[deva-aradhana]{Paritta Chants (Pāli)} \ifdesktopversion\else\pageref{deva-aradhana}\fi\\
+    \hyperref[deva-aradhana]{Protective Recitations (Pāli)} \ifdesktopversion\else\pageref{deva-aradhana}\fi\\
     \hyperref[sharing-merits-departed]{Sharing of Merits with the Departed (Pāli)} \ifdesktopversion\else\pageref{sharing-merits-departed}\fi\\
     \hyperref[sharing-merits-devas]{Sharing of Merits with the Devas (Pāli)} \ifdesktopversion\else\pageref{sharing-merits-devas}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
@@ -260,9 +260,9 @@
   \pdfbookmark[2]{Set 10}{set10}
 
   \textsc{\fontsize{14.4}{28}\selectfont
-    \hyperref[pubba-bhaga-nama-kara-patho]{Funeral Chants (Pāli)} \ifdesktopversion\else\pageref{pubba-bhaga-nama-kara-patho}\fi\\
+    \hyperref[pubba-bhaga-nama-kara-patho]{Funeral Recitations (Pāli)} \ifdesktopversion\else\pageref{pubba-bhaga-nama-kara-patho}\fi\\
     \hyperref[recollection-of-impermanence]{Recollection of Impermanence} \ifdesktopversion\else\pageref{recollection-of-impermanence}\fi\\
-    \hyperref[yatha-vari-vaha-pura]{Anumodanā Chants (Pāli)} \ifdesktopversion\else\pageref{yatha-vari-vaha-pura}\fi\\
+    \hyperref[yatha-vari-vaha-pura]{Thanksgiving Recitations (Pāli)} \ifdesktopversion\else\pageref{yatha-vari-vaha-pura}\fi\\
     \hyperref[just-as-rivers]{Just as Rivers} \ifdesktopversion\else\pageref{just-as-rivers}\fi\\
     \hyperref[sharing-all-merits]{Sharing of All Merits} \ifdesktopversion\else\pageref{sharing-all-merits}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
@@ -8156,15 +8156,12 @@ Atha kho bhagavā udānaṁ udānesi:
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
 \end{pali-hangtogether}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em} % TODO too close
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Rūpaṁ niccaṁ vā aniccaṁ vāti?
-\end{pali-hang}
+\end{pali-hangtogether}
 \begin{pali-hangtogether}
   Aniccaṁ bhante.
 \end{pali-hangtogether}
@@ -8257,15 +8254,12 @@ Atha kho bhagavā udānaṁ udānesi:
   No hetaṁ bhante.
 \end{pali-hangtogether}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Tasmātiha bhikkhave \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em} % TODO too close
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Yaṅkiñci rūpaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Yā kāci vedanā atītānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā vedanā: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
@@ -8283,15 +8277,12 @@ Atha kho bhagavā udānaṁ udānesi:
   Yaṅkiñci viññāṇaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em} % TODO too close
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Sutvā ariyasāvako rūpasmim-pi nibbindati \breathmark\ vedanāya-pi \mbox{nibbindati}~\breathmark\ saññāya-pi nibbindati \breathmark\ saṅkhāresu-pi nibbindati \breathmark\ viññāṇasmim-pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā''ti pajānātī'ti.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \clearpage
 
@@ -8359,24 +8350,27 @@ Atha kho bhagavā udānaṁ udānesi:
   But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
 \end{english-only-hangtogether}
 
-\begin{leader-english-only}
+\begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus what do you think:} \hspace{-0.5mm}\anglebracketright\
-\end{leader-english-only}
-
-\vspace{-0.99em} % TODO too close
-
-\begin{english-only-nohang}
-  \begin{english-only-hang}
+\end{english-only-leader}
+  \begin{english-only-hangtogether}
     ``Is form permanent or impermanent?''
-  \end{english-only-hang}
-  ``Impermanent venerable Sir.''\\
-  ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory venerable Sir.''\\
-  \begin{english-hangtogether}
+  \end{english-only-hangtogether}
+  \begin{english-only-hangtogether}
+  ``Impermanent venerable Sir.''
+  \end{english-only-hangtogether}
+  \begin{english-only-hangtogether}
+  ``Is what is impermanent satisfactory or unsatisfactory?''
+  \end{english-only-hangtogether}
+  \begin{english-only-hangtogether}
+  ``Unsatisfactory venerable Sir.''
+  \end{english-only-hangtogether}
+  \begin{english-only-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
-  \end{english-hangtogether}
+  \end{english-only-hangtogether}
+  \begin{english-only-hangtogether}
   ``No venerable Sir.''
-\end{english-only-nohang}
+  \end{english-only-hangtogether}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}

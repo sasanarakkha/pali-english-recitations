@@ -313,6 +313,19 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
+ \newenvironment{english-only-leader}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    0em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \centering\itshape}%
+ {\endlist}
+
 % Used with with Pāli verses and parittas
  \newenvironment{english-verses}%
  {\list{}{%
@@ -450,6 +463,19 @@
      \parsep        \z@ \@plus\p@%
    }%
    \item[] \raggedright}%
+ {\endlist}
+
+ \newenvironment{pali-leader}%
+ {\list{}{%
+     \topsep 0pt
+     \listparindent 0em%
+     \itemindent    0em%
+     \leftmargin    0em %2.5em %\leaderIndent%
+     \rightmargin   0em%
+     \fontsize{12.5}{18}\selectfont
+     \parsep        \z@ \@plus\p@%
+   }%
+   \item[] \centering}%
  {\endlist}
 
  \newenvironment{pali-hang-bracket}%

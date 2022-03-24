@@ -4,8 +4,8 @@
 
 - [Contents](contents.md)
 - [Recitation Schedule](schedule.md)
-- [Purpose and Benefit of Dhamma Recitation](recitations/purpose-benefits.md)
-- [Abbreivations](recitations/abbreviations.md)
+- [Purpose and Benefit of Dhamma Recitation](purpose-and-benefits.md)
+- [Abbreivations](abbreviations.md)
 
 - [Homage to the Triple Gem](recitations/homage/cover-title-homage.md)
   - [Dedication of Offerings](recitations/homage/dedication-of-offerings.md)
@@ -116,7 +116,7 @@
     - [Undertaking the Three Refuges](refuges-trainings.md)
     - [Undertaking the Five Trainings](refuge-trainings.md)
     - [Undertaking the Eight Trainings](refuge-trainings.md)
-  - [Pāli Phonetics and Pronunciation](pali-phonetics-and-pronunciation.md)
+  - [Pāli Phonetics and Pronunciation](phonetics-pronunciation.md)
   - [Chanting Leader Guidelines](guidelines.md)
 
 <!-- - [Endnotes](endnotes.md) -->
