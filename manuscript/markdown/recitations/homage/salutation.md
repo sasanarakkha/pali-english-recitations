@@ -202,7 +202,7 @@ Piyehi vippayogo dukkho
 
 </div>
 
-Yam'p'icchaṁ na labhati tampi dukkhaṁ
+Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 <div class="english">
 
@@ -426,7 +426,7 @@ Appeva nāmimassa kevalassa dukkha-kkhandhassa antakiriyā paññāyethā'ti
 
 </div>
 
-Cira-parinibbutampi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
+Cira-parinibbutam'pi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
 
 <div class="english">
 

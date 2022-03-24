@@ -16,7 +16,7 @@ Evam'eva ito dinnaṁ – Petānaṁ upakappati
 
 suttaRef{[Khp 1.7]}
 
-Icchitaṁ patthitaṁ tumhaṁ – Khippam-eva samijjhatu
+Icchitaṁ patthitaṁ tumhaṁ – Khippam'eva samijjhatu
 TODO: indent Sabbe pūrentu saṅkappā
 Cando paṇṇa-raso yathā – Maṇi joti-raso yathāi
 

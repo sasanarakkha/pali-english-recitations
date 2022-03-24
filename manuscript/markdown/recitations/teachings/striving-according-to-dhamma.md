@@ -43,7 +43,7 @@ Chinna-pilotiko
 
 </div>
 
-Alam-eva saddhā-pabbajitena kula-puttena vīriyaṁ ārabhituṁ
+Alam'eva saddhā-pabbajitena kula-puttena vīriyaṁ ārabhituṁ
 
 <div class="english">
 
@@ -253,7 +253,7 @@ Att’atthaṁ vā hi bhikkhave sampassamānena
 
 </div>
 
-Alam-eva appamādena sampādetuṁ
+Alam'eva appamādena sampādetuṁ
 
 <div class="english">
 
@@ -269,7 +269,7 @@ Par’atthaṁ vā hi bhikkhave sampassamānena
 
 </div>
 
-Alam-eva appamādena sampādetuṁ
+Alam'eva appamādena sampādetuṁ
 
 <div class="english">
 
@@ -285,7 +285,7 @@ Ubhaya’tthaṁ vā hi bhikkhave sampassamānena
 
 </div>
 
-Alam-eva appamādena sampādetun'ti
+Alam'eva appamādena sampādetun'ti
 
 <div class="english">
 

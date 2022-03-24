@@ -240,7 +240,7 @@ Pītimanassa kāyopi passambhati
 
 </div>
 
-Cittampi passambhati
+Cittam'pi passambhati
 
 <div class="english">
 

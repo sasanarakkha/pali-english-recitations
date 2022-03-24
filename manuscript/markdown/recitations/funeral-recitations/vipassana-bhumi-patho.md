@@ -105,7 +105,7 @@ Bhava-paccayā jāti,
 Jāti-paccayā jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā sambhavanti.
 Evam'etassa kevalassa dukkhakkhandhassa samudayo hoti.
 
-Avijjāya tv-eva asesa-virāga-nirodhā, saṅkhāra-nirodho,
+Avijjāya tv'eva asesa-virāga-nirodhā, saṅkhāra-nirodho,
 Saṅkhāra-nirodhā, viññāṇa-nirodho,
 Viññāṇa-nirodhā, nāma-rūpa-nirodho,
 Nāma-rūpa-nirodhā, saḷāyatana-nirodho,

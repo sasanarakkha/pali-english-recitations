@@ -6,16 +6,16 @@ Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ
 vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ
 paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti
 paṭisañcikkhati: ‘sambādho gharāvāso rajopatho abbhokāso
-pabbajjā. Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ
+pabbajjā. Na'y'idaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ
 ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ.
-Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā
+Yan'nūn'āhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā
 agārasmā anagāriyaṁ pabbajeyyan’ti. So aparena samayena appaṁ
 vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ
 pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā
 ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni
 acchādetvā agārasmā anagāriyaṁ pabbajati.
 [MN 27 / 38 / 51]
-Sakkā nu kho bho gotama imasmimpi dhammavinaye evameva
+Sakkā nu kho bho gotama imasmimpi dhammavinaye evam'eva
 anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetun”ti?
 Sakkā imasmimpi dhammavinaye anupubbasikkhā anupubbakiriyā
 anupubbapaṭipadā paññapetuṁ. Tathāgato purisadammaṁ labhitvā

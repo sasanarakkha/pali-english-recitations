@@ -91,7 +91,7 @@ Dhammikā dhammaladdhā
 
 </div>
 
-Antamaso patta-pariyāpanna-mattampi
+Antamaso patta-pariyāpanna-mattam'pi
 
 <div class="english">
 

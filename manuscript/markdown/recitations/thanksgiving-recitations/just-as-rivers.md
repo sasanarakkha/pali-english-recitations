@@ -41,7 +41,7 @@ Icchitaṁ patthitaṁ tumhaṁ
 
 </div>
 
-Khippam-eva samijjhatu
+Khippam'eva samijjhatu
 
 <div class="english">
 

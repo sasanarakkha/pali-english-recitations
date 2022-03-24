@@ -5,7 +5,7 @@ TODO: Shall we seperate and center this?
 
 Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
 
-Dveme bhikkhave antā pabbajitena na sevitabbā: yo cāyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo cāyaṁ attakilamathānuyogo dukkho anariyo anatthasañhito.
+Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo c'āyaṁ attakilamath'ānuyogo dukkho anariyo anatthasañhito.
 
 Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
 
@@ -18,11 +18,11 @@ Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkh
 
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ:
 
-Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanassupāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
+Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tam'pi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
 
 Idaṁ kho pana bhikkhave dukkhasamudayo ariyasaccaṁ:
 
-Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatrābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
+Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
 
 Idaṁ kho pana bhikkhave dukkhanirodho ariyasaccaṁ:
 
@@ -56,7 +56,7 @@ Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban
 
 Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvitanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
 
-[Yāva kīvañca me] bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi neva tāvāhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
+[Yāva kīvañca me] bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi neva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
 
 Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddham ahosi athāham bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
 

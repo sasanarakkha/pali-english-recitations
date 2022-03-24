@@ -23,9 +23,9 @@ Saṅghaṁ saraṇaṁ gacchāmi
 
 </div>
 
-Dutiyampi buddhaṁ saraṇaṁ gacchāmi
-Dutiyampi dhammaṁ saraṇaṁ gacchāmi
-Dutiyampi saṅghaṁ saraṇaṁ gacchāmi
+Dutiyam'pi buddhaṁ saraṇaṁ gacchāmi
+Dutiyam'pi dhammaṁ saraṇaṁ gacchāmi
+Dutiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
@@ -35,9 +35,9 @@ Dutiyampi saṅghaṁ saraṇaṁ gacchāmi
 
 </div>
 
-Tatiyampi buddhaṁ saraṇaṁ gacchāmi
-Tatiyampi dhammaṁ saraṇaṁ gacchāmi
-Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
+Tatiyam'pi buddhaṁ saraṇaṁ gacchāmi
+Tatiyam'pi dhammaṁ saraṇaṁ gacchāmi
+Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 

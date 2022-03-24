@@ -1049,7 +1049,7 @@ Piyehi vippayogo dukkho
   Separation from the liked is dukkha
 \end{english}
 
-Yam'p'icchaṁ na labhati tampi dukkhaṁ
+Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 \begin{english}
   Not attaining one's wishes is dukkha
@@ -1255,7 +1255,7 @@ Dukkhotiṇṇā dukkha-paretā
 \end{center}
 
 \begin{pali-hang}
-  Cira-parinibbutampi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
+  Cira-parinibbutam'pi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
 \end{pali-hang}
 
 \begin{english-hang}
@@ -2755,7 +2755,7 @@ Etaṁ buddhāna sāsanaṁ
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Dveme bhikkhave antā
+Dve'me bhikkhave antā
 
 \begin{english}
   Bhikkhus there are these two extremes
@@ -2767,7 +2767,7 @@ Pabbajitena na sevitabbā
   That should not be pursued \breathmark\ by one who has gone forth
 \end{english}
 
-Yo cāyaṁ kāmesu kāma-sukh'allikānuyogo
+Yo c'āyaṁ kāmesu kāma-sukh'allikānuyogo
 
 \begin{english}
   That is whatever is tied up to sense pleasures\\
@@ -2804,7 +2804,7 @@ Anattha-sañhito
   And pointless
 \end{english}
 
-Yo cāyaṁ atta-kilamathānuyogo
+Yo c'āyaṁ atta-kilamath'ānuyogo
 
 \begin{english}
   Then there is whatever is tied up\\
@@ -3020,7 +3020,7 @@ Maraṇam'pi dukkhaṁ
   And death is dukkha
 \end{english}
 
-Soka-parideva-dukkha-domanassupāyāsā'pi dukkhā
+Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
 \linkdest{endnote53-body}
 \begin{english}
@@ -3041,7 +3041,7 @@ Piyehi vippayogo dukkho
   Separation from the liked is dukkha
 \end{english}
 
-Yampicchaṁ na labhati tampi dukkhaṁ
+Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 \begin{english}
   Not attaining one's wishes is dukkha
@@ -3061,7 +3061,7 @@ Idaṁ kho pana bhikkhave dukkha-samudayo ariya-saccaṁ
   This bhikkhus is the Noble Truth of the origin of dukkha
 \end{english}
 
-Yā'yaṁ taṇhā
+Y'āyaṁ taṇhā
 
 \begin{english}
   It is this craving
@@ -3079,7 +3079,7 @@ Nandi-rāga-sahagatā
   Accompanied by delight and lust
 \end{english}
 
-Tatra-tatrābhinandinī
+Tatra-tatr'ābhinandinī
 
 \begin{english}
   Delighting now here now there
@@ -3115,7 +3115,7 @@ Idaṁ kho pana bhikkhave dukkha-nirodho ariya-saccaṁ
   This bhikkhus is the Noble Truth of the cessation of dukkha
 \end{english}
 
-Yo tassāy'eva taṇhāya asesa-virāga-nirodho
+Yo tassā'y'eva taṇhāya asesa-virāga-nirodho
 
 \begin{english}
   It is the remainderless fading away and cessation\\
@@ -3370,7 +3370,7 @@ Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban'ti
 
 Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
 \begin{pali-hangtogether}
-  Evan-ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
+  Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -3383,7 +3383,7 @@ Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
   Was not entirely pure
 \end{english-verses}
 
-N'eva tāvāhaṁ bhikkhave sadevake loke samārake sabrahmake\\
+N'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake\\
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\\
 \linkdest{endnote58-body}
 Anuttaraṁ sammā-sambodhiṁ abhisambuddho\makeatletter\hyperlink{endnote58-appendix}\Hy@raisedlink{\hypertarget{endnote58-body}{}{\pagenote{%
@@ -3402,7 +3402,7 @@ paccaññāsiṁ
 
 Yato ca kho me bhikkhave imesu catūsu ariya-saccesu\\
 \begin{pali-hang}
-  Evan-ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
+  Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
 \end{pali-hang}
 
 \begin{english-verses}
@@ -3466,23 +3466,23 @@ N'atthidāni punabbhavo'ti
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ anupubba-sikkha-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: `sambādho gharāvāso rajopatho abbhokāso pabbajjā. Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.
+Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: `sambādho gharāvāso rajopatho abbhokāso pabbajjā. Na'y'idaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yan'nūn'āhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.
 
 \suttaRef{[MN 27 / 38 / 51]}
 
-Sakkā nu kho bho gotama imasmim'pi dhammavinaye evameva anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetun''ti?
+Sakkā nu kho bho gotama imasmim'pi dhammavinaye evam'eva anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetun''ti?
 
 Sakkā imasmim'pi dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetuṁ. Tathāgato purisadammaṁ labhitvā paṭhamaṁ evaṁ vineti: `ehi tvaṁ bhikkhu sīlavā hohi pātimokkhasaṁvarasaṁvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī samādāya sikkhassu sikkhāpadesū'ti.
 
 \suttaRef{[MN 107]}
 
-So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūta-hitānukampī viharati. Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikankhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
+So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya adinnādānā paṭivirato hoti dinn'ādāyī dinnapāṭikankhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
 
-Musāvādaṁ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṁvādako lokassa. Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti ito sutvā na amutra akkhātā imesaṁ bhedāya amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya—iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā hoti. Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā hoti. Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ.
+Musāvādaṁ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṁvādako lokassa. Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti ito sutvā na amutra akkhātā imesaṁ bhedāya amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya—iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā hoti. Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅ'gamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā hoti. Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ.
 
-So bījagāma-bhūtagāma-samārambhā paṭivirato hoti ekabhattiko hoti rattūparato virato vikālabhojanā nacca-gītavāditavisūkadassanā paṭivirato hoti mālā­gandha­ vilepana­dhāraṇa­maṇḍana­vibhūsanaṭṭhānā paṭivirato hoti uccāsayana-mahāsayanā paṭivirato hoti jātarūparajata-paṭiggahaṇā paṭivirato hoti āmaka-dhañña-paṭiggahaṇā paṭivirato hoti āmaka-maṁsa-paṭiggahaṇā paṭivirato hoti itthikumārika-paṭiggahaṇā paṭivirato hoti dāsidāsa-paṭiggahaṇā paṭivirato hoti ajeḷaka-paṭiggahaṇā paṭivirato hoti kukkuṭasūkara-paṭiggahaṇā paṭivirato hoti hatthi-gavassa-vaḷava-paṭiggahaṇā paṭivirato hoti khettavatthu-paṭiggahaṇā paṭivirato hoti dūteyya-pahiṇa-gamanānuyogā paṭivirato hoti kayavikkayā paṭivirato hoti tulākūṭa-kaṁsa-kūṭa-mānakūṭā paṭivirato hoti ukkoṭana-vañcana-nikati-sāciyogā paṭivirato hoti chedana­vadha-bandhana­ viparāmosa-ālopa-sahasākārā paṭivirato hoti.
+So bījagāma-bhūtagāma-samārambhā paṭivirato hoti ekabhattiko hoti ratt'ūparato virato vikālabhojanā nacca-gīta-vādita-visūkadassanā paṭivirato hoti mālā­gandha­ vilepana­dhāraṇa­maṇḍana­vibhūsanaṭṭhānā paṭivirato hoti uccāsayana-mahāsayanā paṭivirato hoti jātarūparajata-paṭiggahaṇā paṭivirato hoti āmaka-dhañña-paṭiggahaṇā paṭivirato hoti āmaka-maṁsa-paṭiggahaṇā paṭivirato hoti itthikumārika-paṭiggahaṇā paṭivirato hoti dāsidāsa-paṭiggahaṇā paṭivirato hoti ajeḷaka-paṭiggahaṇā paṭivirato hoti kukkuṭasūkara-paṭiggahaṇā paṭivirato hoti hatthi-gavassa-vaḷava-paṭiggahaṇā paṭivirato hoti khettavatthu-paṭiggahaṇā paṭivirato hoti dūteyya-pahiṇa-gamanānuyogā paṭivirato hoti kayavikkayā paṭivirato hoti tulākūṭa-kaṁsa-kūṭa-mānakūṭā paṭivirato hoti ukkoṭana-vañcana-nikati-sāciyogā paṭivirato hoti chedana­vadha-bandhana­ viparāmosa-ālopa-sahasākārā paṭivirato hoti.
 
-So santuṭṭho hoti kāyaparihārikena cīvarena kucchi-parihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti evameva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti.
+So santuṭṭho hoti kāyaparihārikena cīvarena kucchi-parihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti evam'eva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti.
 
 \suttaRef{[MN 51]}
 
@@ -3496,11 +3496,11 @@ Tamenaṁ tathāgato uttariṁ vineti: `ehi tvaṁ bhikkhu indriyesu guttadvāro
 
 `Ehi tvaṁ bhikkhu vivittaṁ senāsanaṁ bhajāhi araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjan'ti.
 
-So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallankaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So abhijjhaṁ loke pahāya vigatābhijjhena cetasā viharati abhijjhāya cittaṁ parisodheti byāpāda-padosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūta-hitānukampī byāpādapadosā cittaṁ parisodheti thina-middhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno thinamiddhā cittaṁ parisodheti uddhacca-kukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasanta-citto uddhaccakukkuccā cittaṁ parisodheti vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṁkathī kusalesu dhammesu vicikicchāya cittaṁ parisodheti.
+So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallankaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So abhijjhaṁ loke pahāya vigatābhijjhena cetasā viharati abhijjhāya cittaṁ parisodheti byāpāda-padosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūta-hit'ānukampī byāpādapadosā cittaṁ parisodheti thina-middhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno thinamiddhā cittaṁ parisodheti uddhacca-kukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasanta-citto uddhaccakukkuccā cittaṁ parisodheti vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṁkathī kusalesu dhammesu vicikicchāya cittaṁ parisodheti.
 
 \suttaRef{[MN 107]}
 
-Bhikkhu yathā iṇaṁ yathā rogaṁ yathā bandhanāgāraṁ yathā dāsabyaṁ yathā kantāraddhāna-maggaṁ ime pañca nīvaraṇe appahīne attani samanupassati. Seyyathāpi bhikkhave āṇaṇyaṁ yathā ārogyaṁ yathā bandhanāmokkhaṁ yathā bhujissaṁ yathā khemantabhūmiṁ evameva bhikkhu ime pañca nīvaraṇe pahīne attani samanupassati. So tatonidānaṁ labhetha pāmojjaṁ adhigaccheyya somanassaṁ.
+Bhikkhu yathā iṇaṁ yathā rogaṁ yathā bandhanāgāraṁ yathā dāsabyaṁ yathā kantāraddhāna-maggaṁ ime pañca nīvaraṇe appahīne attani samanupassati. Seyyathāpi bhikkhave āṇaṇyaṁ yathā ārogyaṁ yathā bandhanāmokkhaṁ yathā bhujissaṁ yathā khemantabhūmiṁ evam'eva bhikkhu ime pañca nīvaraṇe pahīne attani samanupassati. So tatonidānaṁ labhetha pāmojjaṁ adhigaccheyya somanassaṁ.
 
 So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe paṭhamaṁ jhānaṁ dutiyaṁ jhānaṁ tatiyaṁ jhānaṁ catutthaṁ jhānaṁ upasampajja viharati.
 
@@ -3943,7 +3943,7 @@ Pītimanassa kāyopi passambhati
   The body becomes tranquil
 \end{english}
 
-Cittampi passambhati
+Cittam'pi passambhati
 
 \begin{english}
   And the mind becomes tranquil
@@ -4909,7 +4909,7 @@ Avijjā-paccayā saṅkhārā
   From ignorance as a\makeatletter\hyperlink{endnote72-appendix}\Hy@raisedlink{\hypertarget{endnote72-body}{}{\pagenote{%
         \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother
   condition arise\makeatletter\hyperlink{endnote73-appendix}\Hy@raisedlink{\hypertarget{endnote73-body}{}{\pagenote{%
-        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanassupāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
+        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
   formations
 \end{english}
 
@@ -4970,7 +4970,7 @@ Bhava-paccayā jāti
 \end{english}
 
 \begin{pali-hang}
-  Jāti-paccayā jarāmaraṇaṁ soka parideva dukkha domanassupāyāsā sambhavanti
+  Jāti-paccayā jarāmaraṇaṁ soka parideva dukkha domanass'upāyāsā sambhavanti
 \end{pali-hang}
 
 \begin{english}
@@ -5012,7 +5012,7 @@ Ayaṁ vuccati avijjā
 \linkdest{endnote76-body}
 \begin{english-hang}
   Therein what are 'formations' \breathmark\ arising\makeatletter\hyperlink{endnote75-appendix}\Hy@raisedlink{\hypertarget{endnote75-body}{}{\pagenote{%
-        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanassupāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
+        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
   from ignorance as a condition?\makeatletter\hyperlink{endnote76-appendix}\Hy@raisedlink{\hypertarget{endnote76-body}{}{\pagenote{%
         \hypertarget{endnote76-appendix}{\hyperlink{endnote76-body}{To render as ``Therein what is from ignorance as a condition arise formations.'' would be misleading, because it is not the conditioned relationship between A and B (here: ignorance and formations) that gets elaborated upon in the following lines, but it is only the term B (here: formations), that gets defined. Hence the preferable translation: ``Therein what are 'formations', arising from ignorance as a condition?''}}}}}\makeatother
 \end{english-hang}
@@ -5992,7 +5992,7 @@ Dhammikā dhammaladdhā
   That accords with the Dhamma \breathmark\ and has been righteously obtained
 \end{english}
 
-Antamaso patta-pariyāpanna-mattampi
+Antamaso patta-pariyāpanna-mattam'pi
 
 \begin{english}
   Even including the mere contents of his bowl
@@ -6526,7 +6526,7 @@ Chinna-pilotiko
   And stripped of patchwork
 \end{english}
 
-Alam-eva saddhā-pabbajitena kula-puttena vīriyaṁ ārabhituṁ
+Alam'eva saddhā-pabbajitena kula-puttena vīriyaṁ ārabhituṁ
 
 \begin{english-verses}
   This is enough for a clansman\\
@@ -6708,7 +6708,7 @@ Att'atthaṁ vā hi bhikkhave sampassamānena
   Considering your own good
 \end{english}
 
-Alam-eva appamādena sampādetuṁ
+Alam'eva appamādena sampādetuṁ
 
 \begin{english}
   It is enough to strive for the goal without negligence
@@ -6720,7 +6720,7 @@ Par'atthaṁ vā hi bhikkhave sampassamānena
   Bhikkhus considering the good of others
 \end{english}
 
-Alam-eva appamādena sampādetuṁ
+Alam'eva appamādena sampādetuṁ
 
 \begin{english}
   It is enough to strive for the goal without negligence
@@ -6733,7 +6733,7 @@ Ubhaya'tthaṁ vā hi bhikkhave sampassamānena
 \end{english}
 
 \linkdest{endnote93-body}
-Alam-eva appamādena sampādetun'ti\makeatletter\hyperlink{endnote93-appendix}\Hy@raisedlink{\hypertarget{endnote93-body}{}{\pagenote{%
+Alam'eva appamādena sampādetun'ti\makeatletter\hyperlink{endnote93-appendix}\Hy@raisedlink{\hypertarget{endnote93-body}{}{\pagenote{%
       \hypertarget{endnote93-appendix}{\hyperlink{endnote93-body}{WPN: ``sampādetun''}}}}}\makeatother
 
 \begin{english}
@@ -7744,7 +7744,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Dveme bhikkhave antā pabbajitena na sevitabbā: yo cāyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo cāyaṁ attakilamathānuyogo dukkho anariyo anatthasañhito.
+  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo c'āyaṁ attakilamath'ānuyogo dukkho anariyo anatthasañhito.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7772,7 +7772,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanassupāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
+  Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tam'pi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7780,7 +7780,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatrābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
+  Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7848,7 +7848,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāva kīvañca me bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi neva tāvāhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
+  Yāva kīvañca me bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi neva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8128,35 +8128,35 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ nayidaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
+  Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ na'y'idaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave rūpaṁ anattā \breathmark\ tasmā rūpaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
+  Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave vedanā anattā \breathmark\ tasmā vedanā ābādhāya saṁvattati \breathmark\ na ca labbhati vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Saññā anattā \breathmark\ saññā ca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
+  Saññā anattā \breathmark\ saññā ca hidaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Saṅkhārā anattā \breathmark\ saṅkhārā ca hidaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
+  Saṅkhārā anattā \breathmark\ saṅkhārā ca hidaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave saṅkhārā anattā \breathmark\ tasmā saṅkhārā ābādhāya saṁvattanti \breathmark\ na ca labbhati saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañca hidaṁ bhikkhave attā abhavissa \breathmark\ nayidaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
+  Viññāṇaṁ anattā \breathmark\ viññāṇañca hidaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
@@ -8264,7 +8264,7 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}Tasmātiha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Yaṅkiñci rūpaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
@@ -8280,7 +8280,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yaṅkiñci viññāṇaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
 \begin{pali-leader}
@@ -8508,7 +8508,7 @@ Sabbaṁ bhikkhave ādittaṁ!
 Kiñca bhikkhave sabbaṁ ādittaṁ?
 
 \begin{pali-hang}
-  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8518,7 +8518,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8528,7 +8528,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8538,7 +8538,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8548,7 +8548,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8558,7 +8558,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8574,27 +8574,27 @@ Kena ādittaṁ?
 \vspace{-0.99em} % TODO too close
 
 \begin{pali-hang}
-  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Sotasmim'pi nibbindati \breathmark\ saddesu'pi nibbindati \breathmark\ sotaviññāṇe'pi nibbindati \breathmark\ sotasamphassepi nibbindati \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Sotasmim'pi nibbindati \breathmark\ saddesu'pi nibbindati \breathmark\ sotaviññāṇe'pi nibbindati \breathmark\ sotasamphassepi nibbindati \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ghānasmim'pi nibbindati \breathmark\ gandhesu'pi nibbindati \breathmark\ ghānaviññāṇe'pi nibbindati \breathmark\ ghānasamphassepi nibbindati \breathmark\ yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Ghānasmim'pi nibbindati \breathmark\ gandhesu'pi nibbindati \breathmark\ ghānaviññāṇe'pi nibbindati \breathmark\ ghānasamphassepi nibbindati \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jivhāya'pi nibbindati \breathmark\ rasesu'pi nibbindati \breathmark\ jivhāviññāṇe'pi nibbindati \breathmark\ jivhāsamphassepi nibbindati \breathmark\ yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Jivhāya'pi nibbindati \breathmark\ rasesu'pi nibbindati \breathmark\ jivhāviññāṇe'pi nibbindati \breathmark\ jivhāsamphassepi nibbindati \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Kāyasmim'pi nibbindati \breathmark\ phoṭṭhabbesu'pi nibbindati \breathmark\ kāyaviññāṇe'pi nibbindati \breathmark\ kāyasamphassepi nibbindati \breathmark\ yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Kāyasmim'pi nibbindati \breathmark\ phoṭṭhabbesu'pi nibbindati \breathmark\ kāyaviññāṇe'pi nibbindati \breathmark\ kāyasamphassepi nibbindati \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Manasmim'pi nibbindati \breathmark\ dhammesu'pi nibbindati \breathmark\ manoviññāṇe'pi nibbindati \breathmark\ manosamphasse'pi nibbindati \breathmark\ yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Manasmim'pi nibbindati \breathmark\ dhammesu'pi nibbindati \breathmark\ manoviññāṇe'pi nibbindati \breathmark\ manosamphasse'pi nibbindati \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8823,7 +8823,7 @@ Icchitaṁ patthitaṁ tumhaṁ
   May all your hopes and all your longings
 \end{english}
 
-Khippam-eva samijjhatu
+Khippam'eva samijjhatu
 
 \begin{english}
   Come true in no long time
@@ -8990,7 +8990,7 @@ Sadā sotthī bhavantu te
 
 \linkdest{endnote119-body}
 \begin{leader-yatha}
-  \anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā paripūrenti sāgaraṁ \breathmark\ evam'eva ito dinnaṁ petānaṁ upakappati \breathmark\ icchitaṁ patthitaṁ tumhaṁ khippam-eva samijjhatu sabbe pūrentu saṅkappā \breathmark\ cando paṇṇa-raso yathā maṇi joti-raso yathā\makeatletter\hyperlink{endnote119-appendix}\Hy@raisedlink{\hypertarget{endnote119-body}{}{\pagenote{%
+  \anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā paripūrenti sāgaraṁ \breathmark\ evam'eva ito dinnaṁ petānaṁ upakappati \breathmark\ icchitaṁ patthitaṁ tumhaṁ khippam'eva samijjhatu sabbe pūrentu saṅkappā \breathmark\ cando paṇṇa-raso yathā maṇi joti-raso yathā\makeatletter\hyperlink{endnote119-appendix}\Hy@raisedlink{\hypertarget{endnote119-body}{}{\pagenote{%
         \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the Saṅghatthera.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
 \end{leader-yatha}
 
@@ -11650,7 +11650,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Avijjāya tv-eva asesa-virāga-nirodhā saṅkhāra-nirodho\\
+  Avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho\\
   Saṅkhāra-nirodhā viññāṇa-nirodho\\
   Viññāṇa-nirodhā nāma-rūpa-nirodho\\
   Nāma-rūpa-nirodhā saḷāyatana-nirodho\\
@@ -12396,9 +12396,9 @@ Saṅghaṁ saraṇaṁ gacchāmi
   To the Saṅgha I go for refuge.
 \end{english-verses}
 
-Dutiyampi buddhaṁ saraṇaṁ gacchāmi\\
-Dutiyampi dhammaṁ saraṇaṁ gacchāmi\\
-Dutiyampi saṅghaṁ saraṇaṁ gacchāmi
+Dutiyam'pi buddhaṁ saraṇaṁ gacchāmi\\
+Dutiyam'pi dhammaṁ saraṇaṁ gacchāmi\\
+Dutiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 
 \begin{english-verses}
   For the second time, to the Buddha I go for refuge.\\
@@ -12406,9 +12406,9 @@ Dutiyampi saṅghaṁ saraṇaṁ gacchāmi
   For the second time, to the Saṅgha I go for refuge.
 \end{english-verses}
 
-Tatiyampi buddhaṁ saraṇaṁ gacchāmi\\
-Tatiyampi dhammaṁ saraṇaṁ gacchāmi\\
-Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
+Tatiyam'pi buddhaṁ saraṇaṁ gacchāmi\\
+Tatiyam'pi dhammaṁ saraṇaṁ gacchāmi\\
+Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 
 \begin{english-verses}
   For the third time, to the Buddha I go for refuge.\\

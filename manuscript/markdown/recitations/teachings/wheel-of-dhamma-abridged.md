@@ -3,7 +3,7 @@ Dhamma-cakkappavattana
 
 > [Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase]
 
-Dveme bhikkhave antā
+Dve'me bhikkhave antā
 
 <div class="english">
 
@@ -19,7 +19,7 @@ Pabbajitena na sevitabbā
 
 </div>
 
-Yo cāyaṁ kāmesu kāma-sukh’allikānuyogo
+Yo c'āyaṁ kāmesu kāma-sukh’allikānuyogo
 
 <div class="english">
 
@@ -68,7 +68,7 @@ Anattha-sañhito
 
 </div>
 
-Yo cāyaṁ atta-kilamathānuyogo
+Yo c'āyaṁ atta-kilamath'ānuyogo
 
 <div class="english">
 
@@ -344,7 +344,7 @@ Maraṇam'pi dukkhaṁ
 
 </div>
 
-Soka-parideva-dukkha-domanassupāyāsā'pi dukkhā
+Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
 <div class="english">
 
@@ -368,7 +368,7 @@ Piyehi vippayogo dukkho
 
 </div>
 
-Yampicchaṁ na labhati tampi dukkhaṁ
+Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 <div class="english">
 
@@ -416,7 +416,7 @@ Nandi-rāga-sahagatā
 
 </div>
 
-Tatra-tatrābhinandinī
+Tatra-tatr'ābhinandinī
 
 <div class="english">
 
@@ -748,7 +748,7 @@ Taṁ kho pan’idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvi
 </div>
 
 Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
-Evan-ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
+Evan'ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 
 <div class="english">
 
@@ -760,7 +760,7 @@ Evan-ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassana�
 
 </div>
 
-N’eva tāvāhaṁ bhikkhave sadevake loke samārake sabrahmake
+N’eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya
 Anuttaraṁ sammā-sambodhiṁ abhisambuddhoi paccaññāsiṁ
 
@@ -777,7 +777,7 @@ Anuttaraṁ sammā-sambodhiṁ abhisambuddhoi paccaññāsiṁ
 </div>
 
 Yato ca kho me bhikkhave imesu catūsu ariya-saccesu
-Evan-ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
+Evan'ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
 
 <div class="english">
 
