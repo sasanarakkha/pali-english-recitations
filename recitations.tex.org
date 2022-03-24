@@ -449,6 +449,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
   \setsecnumformat{}%
 }
 
+\sectionPaliTitle{Pūjā-niyyātana}
 \section{Dedication of Offerings}
 \label{dedication-of-offerings}
 
@@ -577,6 +578,7 @@ Saṅghaṁ namāmi
 ** Preliminary Homage
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
+\sectionPaliTitle{Pubbabhāga-namakāra}
 \section{Preliminary Homage}
 \label{preliminary-homage}
 
@@ -599,6 +601,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 ** Homage to the Buddha
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
+\sectionPaliTitle{Buddhābhitthuti}
 \section{Homage to the Buddha}
 \label{homage-buddha}
 
@@ -704,6 +707,7 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
 ** Homage to the Dhamma
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
+\sectionPaliTitle{Dhammābhitthuti}
 \section{Homage to the Dhamma}
 \label{homage-dhamma}
 
@@ -764,6 +768,7 @@ Paccattaṁ veditabbo viññūhi
 ** Homage to the Saṅgha
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
+\sectionPaliTitle{Saṅghābhitthuti}
 \section{Homage to the Saṅgha}
 \label{homage-sangha}
 
@@ -862,6 +867,7 @@ Anuttaraṁ puññakkhettaṁ lokassa
 ** Salutation to the Triple Gem
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
+\sectionPaliTitle{Ratanattaya-paṇāma}
 \section{Salutation to the Triple Gem}
 \label{salutation}
 
@@ -9510,11 +9516,13 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Saraṇa-gamana-pāṭho}
 \label{sarana-gamana-patho}
 
-\begin{pali-hang}
-  Buddhaṁ saraṇaṁ gacchāmi\\
+\begin{pali-leader}
+  \anglebracketleft\ \hspace{-0.5mm}Buddhaṁ saraṇaṁ gacchāmi \hspace{-0.5mm}\anglebracketright\
+\end{pali-leader}
+\begin{pali-hangtogether}
   Dhammaṁ saraṇaṁ gacchāmi\\
   Saṅghaṁ saraṇaṁ gacchāmi
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   To the Buddha I go for refuge.\\
@@ -10117,7 +10125,12 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \begin{pali-hang-continued}
   Varo varaññū vara-do var'āharo\\
   Anuttaro dhamma-varaṁ adesayi\\
+<<<<<<< HEAD
   Idam'pi buddhe ratanaṁ paṇītaṁ
+=======
+  Idam-pi buddhe ratanaṁ paṇītaṁ\\
+  Etena saccena suvatthi hotu
+>>>>>>> ec36adb (update)
 \end{pali-hang-continued}
 
 \begin{english-verses}
