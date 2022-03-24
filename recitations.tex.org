@@ -8430,15 +8430,12 @@ Atha kho bhagavā udānaṁ udānesi:
   ``No venerable Sir.''
 \end{english-only-nohang}
 
-\begin{leader-english-only}
+\begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Therefore bhikkhus} \hspace{-0.5mm}\anglebracketright\
-\end{leader-english-only}
-
-\vspace{-0.99em} % TODO too close
-
-\begin{english-only-hang}
+\end{english-only-leader}
+\begin{english-only-hangtogether}
   Any kind of form whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
   Any kind of feeling whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
@@ -8457,19 +8454,16 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \linkdest{endnote110-body}
-\begin{leader-english-only}
+\begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple}\makeatletter\hyperlink{endnote110-appendix}\Hy@raisedlink{\hypertarget{endnote110-body}{}{\pagenote{%
         \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
-\end{leader-english-only}
-
-\vspace{-0.99em} % TODO too close
-
+\end{english-only-leader}
 \linkdest{endnote111-body}
-\begin{english-only-hang}
+\begin{english-only-hangtogether}
   Who has heard the teaching\makeatletter\hyperlink{endnote111-appendix}\Hy@raisedlink{\hypertarget{endnote111-body}{}{\pagenote{%
         \hypertarget{endnote111-appendix}{\hyperlink{endnote111-body}{The word “the teaching” is not explicitly expressed in the Pāḷi, but was inserted for comprehension.}}}}}\makeatother
   sees thus \breathmark\ he becomes disenchanted with form \breathmark\ becomes disenchanted with feeling \breathmark\ becomes disenchanted with \mbox{perception}~\breathmark\ becomes disenchanted with volitional formations \breathmark\ becomes disenchanted with consciousness.
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \linkdest{endnote112-body}
 \begin{english-only-hang}
@@ -8567,15 +8561,12 @@ Kena ādittaṁ?
   Ādittaṁ rāgagginā dosagginā mohagginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
 \end{pali-hangtogether}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em} % TODO too close
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{pali-hang}
   Sotasmim'pi nibbindati \breathmark\ saddesu'pi nibbindati \breathmark\ sotaviññāṇe'pi nibbindati \breathmark\ sotasamphassepi nibbindati \breathmark\ yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
@@ -8717,15 +8708,12 @@ Kena ādittaṁ?
   I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
 \end{english-only-hangtogether}
 
-\begin{leader-english-only}
+\begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple} \hspace{-0.5mm}\anglebracketright\
-\end{leader-english-only}
-
-\vspace{-0.99em} % TODO too close
-
-\begin{english-only-hang}
+\end{english-only-leader}
+\begin{english-only-hangtogether}
   Who has heard the teaching sees \mbox{thus}~\breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted.
-\end{english-only-hang}
+\end{english-only-hangtogether}
 
 \begin{english-only-hang}
   He becomes disenchanted with the ear \breathmark\ becomes disenchanted with sounds \breathmark\ becomes disenchanted with ear-consciousness \breathmark\ becomes disenchanted with ear-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ with that too be becomes disenchanted.
@@ -9038,20 +9026,17 @@ Sadā sotthī bhavantu te
 \section{Ratanattay'ānubhāv'ādi-gāthā}
 \label{ratanattayanubhavadi-gatha}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Ratanattay'ānubhāvena \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.5em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Ratanattaya-tejasā\\
   Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā\\
   Anekā antarāyā'pi – Vinassantu asesato\\
   Jaya-siddhi dhanaṁ lābhaṁ – Sotthi bhāgyaṁ sukhaṁ balaṁ\\
   Siri āyu ca vaṇṇo ca – Bhogaṁ vuḍḍhī ca yasavā\\
   Sata-vassā ca āyu ca – Jīva-siddhī bhavantu te
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Through the power \& through the radiant energy of the (Triple) Gem,\\
@@ -9074,8 +9059,6 @@ Sadā sotthī bhavantu te
 
 \section{Bhojana-dānānumodanā}
 \label{bhojana-dananumodana}
-
-% \vspace{-0.6em}
 
 \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}Yo yassa bhojanaṁ deti \hspace{-0.5mm}\anglebracketright\
@@ -9155,15 +9138,10 @@ Sadā sotthī bhavantu te
 \section{Culla-maṅgala-cakka-vāḷa}
 \label{culla-mangala-cakka-vala}
 
-% \vspace{-0.6em}
-
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Sabba-buddh'ānubhāvena \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Sabba-dhamm'ānubhāvena\\
   Sabba-saṅgh'ānubhāvena\\
   Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ\\
@@ -9194,7 +9172,7 @@ Sadā sotthī bhavantu te
   Bhogaṁ vuḍḍhī ca yasavā\\
   Sata-vassā ca āyū ca\\
   Jīva-siddhī bhavantu te
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Through the power of all the Buddhas, the power of all the Dhamma, the power of all the Saṅgha, the gem of the Buddha, the gem of the Dhamma, the gem of the Saṅgha, the power of the Triple Gem: the power of the 84,000 Dhamma aggregates, the power of the Tripitaka, the power of the Victor's disciples: May all your diseases, all your fears, all your obstacles, all your dangers, all your bad visions, all your bad omens be destroyed. May there always be an increase of long life, wealth, glory, status, strength, beauty and happiness.
@@ -9210,15 +9188,12 @@ Sadā sotthī bhavantu te
 \section{Aggappasāda-sutta-gāthā}
 \label{aggappasada-sutta-gatha}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Aggato ve pasannānaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Aggaṁ dhammaṁ vijānataṁ
-\end{pali-hang}
+\end{pali-hangtogether}
 \begin{pali-hangtogether}
   Agge Buddhe pasannānaṁ\\
   Dakkhiṇeyye anuttare
@@ -9291,15 +9266,12 @@ Sadā sotthī bhavantu te
 
 % \vspace{-0.6em}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Kāle dadanti sapaññā \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Vadaññū vīta-maccharā
-\end{pali-hang}
+\end{pali-hangtogether}
 \begin{pali-hangtogether}
   Kālena dinnaṁ ariyesu\\
   Uju-bhūtesu tādisu
@@ -9364,17 +9336,14 @@ Sadā sotthī bhavantu te
 \section{So attha-laddho}
 \label{so-attha-laddho}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}So attha-laddho \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Sukhito viruḷho buddha-sāsane\\
   Arogo sukhito hohi\\
   Saha sabbehi ñātibhi
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   May he gain benefits and happiness\\
@@ -9493,13 +9462,12 @@ Sadā sotthī bhavantu te
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
+\end{pali-leader}
+\begin{pali-hangtogether}
+Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
+\end{pali-hangtogether}
 
 \begin{english}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
@@ -9564,13 +9532,10 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Nama-kāra-siddhi-gāthā}
 \label{nama-kara-siddhi-gatha}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā moha-malāpakaṭṭho \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Sāmaṁ va buddho sugato vimutto\\
   Mārassa pāsā vinimocayanto\\
   Pāpesi khemaṁ janataṁ vineyyaṁ\\
@@ -9578,7 +9543,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
   Lokassa nāthañ'ca vināyakañ'ca\\
   Tan-tejasā te jaya-siddhi hotu\\
   Sabb'antarāyā ca vināsamentu
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   The One with Vision, with the stain of delusion removed,\\
@@ -9646,17 +9611,14 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Namo-kāra-aṭṭhaka}
 \label{namo-kara-atthaka}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Namo arahato sammā- \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Sambuddhassa mahesino\\
   Namo uttama-dhammassa\\
   Svākkhātass'eva ten'idha
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Homage to the Great Seer, the Worthy One, Perfectly Self-awakened; Homage to the highest Dhamma, well-taught by him here;
@@ -9714,15 +9676,12 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Maṅgala-sutta}
 \label{mangala-sutta}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Then, when the night had advanced, a certain deity of stunning beauty, having illuminated the entire Jeta's Grove, approached the Blessed One, paid homage to him, stood to one side, and addressed the Blessed One in verse:
@@ -9911,17 +9870,14 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Ratana-sutta}
 \label{ratana-sutta}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Yānīdha bhūtāni samāgatāni \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Bhummāni vā yāni va antalikkhe\\
   Sabb'eva bhūtā sumanā bhavantu\\
   Atho'pi sakkacca suṇantu bhāsitaṁ
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Whatever beings are gathered here,\\
@@ -10211,17 +10167,23 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Karaṇīya-metta-sutta}
 \label{karaniya-metta-sutta}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Karaṇīya m-attha-kusalena \hspace{-0.5mm}\anglebracketright\
+<<<<<<< HEAD
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
   Yan'taṁ santaṁ padaṁ abhisamecca\\
+=======
+\end{pali-leader}
+\begin{pali-hangtogether}
+  Yan-taṁ santaṁ padaṁ abhisamecca\\
+>>>>>>> 9d0ec6f (fix leader intro spacing)
   Sakko ujū ca suhujū ca\\
   Suvaco c'assa mudu anatimānī
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   This is to be done by one skilled in the beneficial,\\
@@ -10366,17 +10328,14 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Khandha-parittaṁ}
 \label{khandha-parittam}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Virūpakkhehi me mettaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Mettaṁ Erāpathehi me\\
   Chabyā-puttehi me mettaṁ\\
   Mettaṁ Kaṇhā-gotamakehi ca
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   With the Virūpakkhas is my loving-kindness.\\
@@ -10475,20 +10434,17 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Buddha-Dhamma-Saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Iti'pi so bhagavā \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Arahaṁ sammā-sambuddho\\
   Vijjā-caraṇa-sampanno\\
   Sugato loka-vidū\\
   Anuttaro purisa-damma-sārathi\\
   Satthā devamanussānaṁ\\
   Buddho bhagavā'ti
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Thus also is the Blessed One\\
@@ -10560,17 +10516,14 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Yaṅ kiñci ratanaṁ loke}
 \label{yan-kinci-ratanam-loke}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Yaṅ kiñci ratanaṁ loke \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Vijjati vividhaṁ puthu\\
   Ratanaṁ buddha-samaṁ n'atthi\\
   Tasmā sotthī bhavantu te
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Whatever kind of jewel in the world\\
@@ -10674,13 +10627,10 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Bojjh'aṅga-parittaṁ}
 \label{bojjhana-parittam}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Dhammānaṁ vicayo tathā\\
   Viriyam'pīti-passaddhi\\
   Bojjh'aṅgā ca tathā'pare\\
@@ -10692,7 +10642,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
   Nibbānāya ca bodhiyā\\
   Etena sacca-vajjena\\
   Sotthi te hotu sabbadā
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   The Factors for Awakening include mindfulness,\\
@@ -10767,6 +10717,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Abhaya-parittaṁ}
 \label{abhaya-parittam}
 
+<<<<<<< HEAD
 \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ avamaṅgalañ'ca \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
@@ -10774,10 +10725,16 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \vspace{-0.99em}
 
 \begin{pali-hang}
+=======
+\begin{pali-leader}
+  \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ avamaṅgalañ-ca \hspace{-0.5mm}\anglebracketright\
+\end{pali-leader}
+\begin{pali-hangtogether}
+>>>>>>> 9d0ec6f (fix leader intro spacing)
   Yo cāmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Buddhānubhāvena vināsamentu
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   May bad omens, inauspiciousness,\\
@@ -10824,17 +10781,14 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Devatā-uyyojana-gāthā}
 \label{devata-uyyojana-gatha}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Dukkhappattā ca niddukkhā \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Bhayappattā ca nibbhayā\\
   Sokappattā ca nissokā\\
   Hontu sabbe'pi pāṇino
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   [May] sufferers be without suffering,\\
@@ -10902,21 +10856,27 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Jaya-maṅgala-aṭṭha-gāthā}
 \label{jaya-mangala-attha-gatha}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\
+<<<<<<< HEAD
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang}
   Sahassam-abhinimmita sāvudhan'taṁ\\
+=======
+\end{pali-leader}
+\begin{pali-hangtogether}
+  Sahassam-abhinimmita sāvudhan-taṁ\\
+>>>>>>> 9d0ec6f (fix leader intro spacing)
   Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
 \linkdest{endnote129-body}
   Dān'ādi-dhamma-vidhinā jitavā\makeatletter\hyperlink{endnote129-appendix}\Hy@raisedlink{\hypertarget{endnote129-body}{}{\pagenote{%
         \hypertarget{endnote129-appendix}{\hyperlink{endnote129-body}{Here and in all subsequent verses we find the word “\textit{jitavā}”. The standard spelling would be “\textit{jitvā}” (abs. of \textit{jināti}; having conquered). In contrast “\textit{jitavā}” is a transliteration based on Thai spelling and pronunciation of Pāli, which has a tendency to insert the letter “a” between two consonants such as -\textit{tvā}, thus making it into -\textit{tavā}. It is by spelling anomalies like this, that Pāli scholars can determine the place of origin and age of certain Pāli texts.}}}}}\makeatother
   mun'indo\\
   Tan-tejasā bhavatu te jaya-maṅgalāni
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Creating a form with 1,000 arms, each equipped with a weapon,
@@ -11053,19 +11013,16 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Jaya-parittaṁ}
 \label{jaya-parittam}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko nātho \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Hitāya sabba-pāṇinaṁ\\
   Pūretvā pāramī sabbā\\
   Patto sambodhim-uttamaṁ\\
   Etena sacca-vajjena\\
   Hotu te jaya-maṅgalaṁ
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   The Great Compassionate Protector,\\
@@ -11150,17 +11107,14 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-sabba-mangalam}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Rakkhantu sabba-devatā\\
   Sabba-buddhānubhāvena\\
   Sadā sotthī bhavantu te
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   May there be all blessings.\\
@@ -11225,13 +11179,12 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}\\
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
+\end{pali-leader}
+\begin{pali-hangtogether}
 Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
+\end{pali-hangtogether}
 
 \begin{english}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
@@ -11247,16 +11200,13 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \section{Dhamma-saṅgaṇī-mātikā}
 \label{dhamma-sangani-matika}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Kusalā dhammā \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Akusalā dhammā\\
   Abyākatā dhammā
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Wholesome dhammas\\
@@ -11718,15 +11668,12 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \section{Paṭṭhāna-mātikā-pāṭho}
 \label{patthana-matika-patho}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Hetu-paccayo \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Ārammaṇa-paccayo adhipati-paccayo anantara-paccayo samanantara-paccayo saha-jāta-paccayo aññam-añña-paccayo nissaya-paccayo upanissaya-paccayo pure-jāta-paccayo pacchā-jāta-paccayo āsevana-paccayo kamma-paccayo vipāka-paccayo āhāra-paccayo indriya-paccayo jhāna-paccayo magga-paccayo sampayutta-paccayo vippayutta-paccayo atthi-paccayo n'atthi-paccayo vigata-paccayo avigata-paccayo
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-hang-verses}
   Root condition, sense-object condition, predominant condition, immediate condition, directly immediate condition, coexistent condition, reciprocity condition, dependence condition, sufficing condition, pre-existent condition, post-existent condition, repetition condition, action condition, result condition, nutriment condition, faculty condition, jhāna condition, path condition, associated condition, separated condition, existence condition, non-existence condition, disappeared condition, non-dissappeared condition.
@@ -11742,17 +11689,19 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \section{Adāsi-me ādi gāthā}
 \label{adasi-me-adi-gatha}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Adāsi me akāsi me \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Ñāti-mittā sakhā ca me\\
   Petānaṁ dakkhiṇaṁ dajjā\\
+<<<<<<< HEAD
   Pubbe katam'anussaraṁ
 \end{pali-hang}
+=======
+  Pubbe katam-anussaraṁ
+\end{pali-hangtogether}
+>>>>>>> 9d0ec6f (fix leader intro spacing)
 
 \begin{english-verses}
   ``He gave to me [gifts], he did [things] for me.\\
@@ -11813,17 +11762,14 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \section{Paṁsu-kūla for the Dead}
 \label{pamsu-kula-dead}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Aniccā vata saṅkhārā \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Uppāda-vaya-dhammino\\
   Uppajjitvā nirujjhanti\\
   Tesaṁ vūpasamo sukho \hfill{[3x]}
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   Indeed, conditioned things cannot last\\
@@ -11865,17 +11811,14 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \section{Paṁsu-kūla for the Living}
 \label{pamsu-kula-living}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Aciraṁ vat'ayaṁ kāyo \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Paṭhaviṁ adhisessati\\
   Chuḍḍho apeta-viññāṇo\\
   Niratthaṁ va kaliṅgaraṁ \hfill{[3x]}
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   All too soon, this body\\
@@ -11894,17 +11837,14 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu}
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-\begin{pali-hang}
+\end{pali-leader}
+\begin{pali-hangtogether}
   Rakkhantu sabba-devatā\\
   Sabba-buddhānubhāvena\\
   Sadā sotthī bhavantu te
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   May every blessing come to be\\
@@ -12136,7 +12076,8 @@ Khemappadañ'ca pappontu tesāsā sijjhataṁ subhā
   \anglebracketleft\ \hspace{-0.5mm}Idaṁ me ñātinaṁ hotu \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\vspace{-0.99em}
+% \vspace{-0.99em}
+
 Sukhitā hontu ñātayo\\
 Idaṁ no ñātinaṁ hotu sukhitā hontu ñātayo\\
 Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
