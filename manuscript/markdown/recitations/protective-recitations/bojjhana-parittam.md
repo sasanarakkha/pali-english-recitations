@@ -63,7 +63,7 @@ Sotthi te hotu sabbadā
 </div>
 
 Pahīnā te ca ābādhā
-Tiṇṇannam-pi mahesinaṁ
+Tiṇṇannam'pi mahesinaṁ
 Magg’āhata-kilesā va
 Pattānuppatti-dhammataṁ
 Etena sacca-vajjena

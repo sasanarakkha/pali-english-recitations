@@ -506,7 +506,7 @@ Tam'mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ
 
 </div>
 
-Imehi sakkārehi yathārahaṁ āropitehi abhipūjayāma
+Imehi sakkārehi yath'ārahaṁ āropitehi abhipūjayāma
 
 <div class="english">
 
@@ -514,7 +514,7 @@ Imehi sakkārehi yathārahaṁ āropitehi abhipūjayāma
 
 </div>
 
-Sādhu no bhante bhagavā sucira-parinibbutopi
+Sādhu no bhante bhagavā sucira-parinibbuto'pi
 
 <div class="english">
 
@@ -524,7 +524,7 @@ Sādhu no bhante bhagavā sucira-parinibbutopi
 
 </div>
 
-Pacchimā-janatānukampa-mānasā
+Pacchimā-janat'ānukampa-mānasā
 
 <div class="english">
 
@@ -725,7 +725,7 @@ Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahma-cariyaṁ
 
 </div>
 
-Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
+Tam'ahaṁ bhagavantaṁ abhipūjayāmi tam'ahaṁ bhagavantaṁ sirasā namāmi
 
 <div class="english">
 
@@ -741,7 +741,7 @@ Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
 
 ## Homage to the Dhamma<a id="homage-dhamma"></a>
 
->  [Handa mayaṁ dhammābhitthutiṁ karomase]
+>  [Handa mayaṁ dhamm'ābhitthutiṁ karomase]
 >  [Now let us recite in praise of the Dhamma]
 
 Yo so svākkhāto bhagavatā dhammo
@@ -792,7 +792,7 @@ Paccattaṁ veditabbo viññūhi
 
 </div>
 
-Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
+Tam'ahaṁ dhammaṁ abhipūjayāmi tam'ahaṁ dhammaṁ sirasā namāmi
 
 <div class="english">
 
@@ -807,7 +807,7 @@ Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 
 ## Homage to the Saṅgha<a id="homage-sangha"></a>
 
-Handa mayaṁ saṅghābhitthutiṁ karomase
+Handa mayaṁ saṅgh'ābhitthutiṁ karomase
 
 <div class="english">
 
@@ -903,7 +903,7 @@ Anuttaraṁ puññakkhettaṁ lokassa
 
 </div>
 
-Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
+Tam'ahaṁ saṅghaṁ abhipūjayāmi tam'ahaṁ saṅghaṁ sirasā namāmi
 
 <div class="english">
 
@@ -918,7 +918,7 @@ Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
 
 ## Salutation to the Triple Gem<a id="salutation"></a>
 
-> [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
+> [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañ'ca bhaṇāmase]
 
 > [Now let us recite our salutation to the Triple Gem and a passage to arouse urgency]
 
@@ -938,7 +938,7 @@ Yo'ccanta-suddhabbara-ñāṇa-locano
 
 </div>
 
-Lokassa pāpūpakilesa-ghātako
+Lokassa pāp'ūpakilesa-ghātako
 
 <div class="english">
 
@@ -946,7 +946,7 @@ Lokassa pāpūpakilesa-ghātako
 
 </div>
 
-Vandāmi buddhaṁ aham-ādarena taṁ
+Vandāmi buddhaṁ aham'ādarena taṁ
 
 <div class="english">
 
@@ -962,7 +962,7 @@ Dhammo padīpo viya tassa satthuno
 
 </div>
 
-Yo magga-pākāmata-bheda-bhinnako
+Yo magga-pāk'āmata-bheda-bhinnako
 
 <div class="english">
 
@@ -970,7 +970,7 @@ Yo magga-pākāmata-bheda-bhinnako
 
 </div>
 
-Lokuttaro yo ca tad-attha-dīpano
+Lok'uttaro yo ca tad'attha-dīpano
 
 <div class="english">
 
@@ -978,7 +978,7 @@ Lokuttaro yo ca tad-attha-dīpano
 
 </div>
 
-Vandāmi dhammaṁ aham-ādarena taṁ
+Vandāmi dhammaṁ aham'ādarena taṁ
 
 <div class="english">
 
@@ -986,7 +986,7 @@ Vandāmi dhammaṁ aham-ādarena taṁ
 
 </div>
 
-Saṅgho sukhettābhyati-khetta-saññito
+Saṅgho sukhett'ābhyati-khetta-saññito
 
 <div class="english">
 
@@ -994,7 +994,7 @@ Saṅgho sukhettābhyati-khetta-saññito
 
 </div>
 
-Yo diṭṭha-santo sugatānubodhako
+Yo diṭṭha-santo sugat'ānubodhako
 
 <div class="english">
 
@@ -1011,7 +1011,7 @@ Lolappahīno ariyo sumedhaso
 
 </div>
 
-Vandāmi saṅghaṁ aham-ādarena taṁ
+Vandāmi saṅghaṁ aham'ādarena taṁ
 
 <div class="english">
 
@@ -1019,7 +1019,7 @@ Vandāmi saṅghaṁ aham-ādarena taṁ
 
 </div>
 
-Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
+Icc'evam'ekant'abhipūjaneyyakaṁ vatthu-ttayaṁ vandayat'ābhisaṅkhataṁ
 
 <div class="english">
 
@@ -1028,7 +1028,7 @@ Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
 
 </div>
 
-Puññaṁ mayā yaṁ mama sabbupaddavā
+Puññaṁ mayā yaṁ mama sabb'upaddavā
 
 <div class="english">
 
@@ -1064,7 +1064,7 @@ Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappaved
 
 </div>
 
-Mayan-taṁ dhammaṁ sutvā evaṁ jānāma
+Mayan'taṁ dhammaṁ sutvā evaṁ jānāma
 
 <div class="english">
 
@@ -1072,7 +1072,7 @@ Mayan-taṁ dhammaṁ sutvā evaṁ jānāma
 
 </div>
 
-Jātipi dukkhā
+Jāti'pi dukkhā
 
 <div class="english">
 
@@ -1080,7 +1080,7 @@ Jātipi dukkhā
 
 </div>
 
-Jarāpi dukkhā
+Jarā'pi dukkhā
 
 <div class="english">
 
@@ -1088,7 +1088,7 @@ Jarāpi dukkhā
 
 </div>
 
-Maraṇampi dukkhaṁ
+Maraṇam'pi dukkhaṁ
 
 <div class="english">
 
@@ -1096,7 +1096,7 @@ Maraṇampi dukkhaṁ
 
 </div>
 
-Soka-parideva-dukkha-domanass'upāyāsāpi dukkhā
+Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
 <div class="english">
 
@@ -1120,7 +1120,7 @@ Piyehi vippayogo dukkho
 
 </div>
 
-Yamp'icchaṁ na labhati tampi dukkhaṁ
+Yam'p'icchaṁ na labhati tampi dukkhaṁ
 
 <div class="english">
 
@@ -1128,7 +1128,7 @@ Yamp'icchaṁ na labhati tampi dukkhaṁ
 
 </div>
 
-Saṅkhittena pañcupādānakkhandhā dukkhā
+Saṅkhittena pañc'upādānakkhandhā dukkhā
 
 <div class="english">
 
@@ -1136,7 +1136,7 @@ Saṅkhittena pañcupādānakkhandhā dukkhā
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -1144,7 +1144,7 @@ Seyyathīdaṁ
 
 </div>
 
-Rūpūpādānakkhandho
+Rūp'ūpādānakkhandho
 
 <div class="english">
 
@@ -1152,7 +1152,7 @@ Rūpūpādānakkhandho
 
 </div>
 
-Vedanūpādānakkhandho
+Vedan'ūpādānakkhandho
 
 <div class="english">
 
@@ -1160,7 +1160,7 @@ Vedanūpādānakkhandho
 
 </div>
 
-Saññūpādānakkhandho
+Saññ'ūpādānakkhandho
 
 <div class="english">
 
@@ -1168,7 +1168,7 @@ Saññūpādānakkhandho
 
 </div>
 
-Saṅkhārūpādānakkhandho
+Saṅkhār'ūpādānakkhandho
 
 <div class="english">
 
@@ -1176,7 +1176,7 @@ Saṅkhārūpādānakkhandho
 
 </div>
 
-Viññāṇūpādānakkhandho
+Viññāṇ'ūpādānakkhandho
 
 <div class="english">
 
@@ -1312,7 +1312,7 @@ Sabbe dhammā anattā't
 
 </div>
 
-Te mayaṁ otiṇṇāmha jātiyā jarā-maraṇena
+Te mayaṁ otiṇṇ'āmha jātiyā jarā-maraṇena
 
 <div class="english">
 
@@ -2835,7 +2835,7 @@ Ayam-eva ariyo aṭṭhaṅgiko maggo
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -2972,7 +2972,7 @@ Idaṁ kho pana bhikkhave dukkhaṁ ariya-saccaṁ
 
 </div>
 
-Jātipi dukkhā
+Jāti'pi dukkhā
 
 <div class="english">
 
@@ -2980,7 +2980,7 @@ Jātipi dukkhā
 
 </div>
 
-Jarāpi dukkhā
+Jarā'pi dukkhā
 
 <div class="english">
 
@@ -2988,7 +2988,7 @@ Jarāpi dukkhā
 
 </div>
 
-Byādhipi dukkho
+Byādhi'pi dukkho
 
 <div class="english">
 
@@ -2996,7 +2996,7 @@ Byādhipi dukkho
 
 </div>
 
-Maraṇampi dukkhaṁ
+Maraṇam'pi dukkhaṁ
 
 <div class="english">
 
@@ -3004,7 +3004,7 @@ Maraṇampi dukkhaṁ
 
 </div>
 
-Soka-parideva-dukkha-domanassupāyāsāpi dukkhā
+Soka-parideva-dukkha-domanassupāyāsā'pi dukkhā
 
 <div class="english">
 
@@ -3036,7 +3036,7 @@ Yampicchaṁ na labhati tampi dukkhaṁ
 
 </div>
 
-Saṅkhittena pañcupādānakkhandhā dukkhā
+Saṅkhittena pañc'upādānakkhandhā dukkhā
 
 <div class="english">
 
@@ -3084,7 +3084,7 @@ Tatra-tatrābhinandinī
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -3182,7 +3182,7 @@ Ayam-eva ariyo aṭṭh’aṅgiko maggo
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -3604,7 +3604,7 @@ Katame ca te bhikkhave dhammā mayā abhiññā desitā
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -3742,7 +3742,7 @@ Katame ca te bhikkhave dhammā mayā abhiññā desitā
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -4116,7 +4116,7 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -8132,7 +8132,7 @@ Atthi imasmiṁ kāye
 }
 
 \begin{pali-hang}
-  Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
+  Evam'ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 \end{pali-hang}
 
 \begin{english-verses}
@@ -8335,18 +8335,18 @@ Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisam
 
 Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
 
-Ayameva ariyo aṭṭhaṅgiko maggo seyyathīdaṁ:
+Ayameva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ:
 
 Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
 Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
 
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ:
 
-Jātipi dukkhā jarāpi dukkhā byādhipi dukkho maraṇampi dukkhaṁ soka-parideva-dukkha-domanassupāyāsāpi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam-picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
+Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanassupāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam-picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
 
 Idaṁ kho pana bhikkhave dukkhasamudayo ariyasaccaṁ:
 
-Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatrābhinandinī seyyathīdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
+Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatrābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
 
 Idaṁ kho pana bhikkhave dukkhanirodho ariyasaccaṁ:
 
@@ -8615,7 +8615,7 @@ Ye keci saṅkhārā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā v�
 
 Yaṅkiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ viññāṇaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-[Evaṁ passaṁ bhikkhave] sutvā ariyasāvako rūpasmim-pi nibbindati  ̓  vedanāya-pi nibbindati  ̓  saññāya-pi nibbindati  ̓  saṅkhāresu-pi nibbindati  ̓  viññāṇasmim-pi nibbindati  ̓  nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ “Vimuttam” iti ñāṇaṁ hoti  ̓  “Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā”ti pajānātī’ti.
+[Evaṁ passaṁ bhikkhave] sutvā ariyasāvako rūpasmim'pi nibbindati  ̓  vedanāya'pi nibbindati  ̓  saññāya'pi nibbindati  ̓  saṅkhāresu'pi nibbindati  ̓  viññāṇasmim'pi nibbindati  ̓  nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ “Vimuttam” iti ñāṇaṁ hoti  ̓  “Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā”ti pajānātī’ti.
 
 Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū’ti.
 
@@ -8898,7 +8898,7 @@ Paripūrenti sāgaraṁ
 
 </div>
 
-Evam-eva ito dinnaṁ petānaṁ upakappati
+Evam'eva ito dinnaṁ petānaṁ upakappati
 
 <div class="english">
 
@@ -9123,7 +9123,7 @@ suttaRef{[Khp 1.7 / Dhp 109 / Trad]}
 ## Yathā vāri-vahā pūrā<a id="yatha-vari-vaha-pura"></a>
 
 Yathā vāri-vahā pūrā – Paripūrenti sāgaraṁ
-Evam-eva ito dinnaṁ – Petānaṁ upakappati
+Evam'eva ito dinnaṁ – Petānaṁ upakappati
 
 <div class="english">
 
@@ -9615,7 +9615,7 @@ Sabb’antarāyā ca vināsamentu
 </div>
 
 Saddhamma-senā sugatānugo yo
-Lokassa pāpūpakilesa-jetā
+Lokassa pāp'ūpakilesa-jetā
 Santo sayaṁ santi-niyojako ca
 Svākkhāta-dhammaṁ viditaṁ karoti
 Saṅghaṁ varan-taṁ sirasā namāmi
@@ -9885,7 +9885,7 @@ Divā ca ratto ca haranti ye baliṁ – Tasmā hi ne rakkhatha appamattā
 
 
 Yaṅ kiñci vittaṁ idha vā huraṁ vā – Saggesu vā yaṁ ratanaṁ paṇītaṁ
-Na no samaṁ atthi tathāgatena – Idam-pi buddhe ratanaṁ paṇītaṁ
+Na no samaṁ atthi tathāgatena – Idam'pi buddhe ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
 
@@ -9901,7 +9901,7 @@ Etena saccena suvatthi hotu
 
 
 Khayaṁ virāgaṁ amataṁ paṇītaṁ – Yad-ajjhagā sakya-munī samāhito
-Na tena dhammena sam’atthi kiñci – Idam-pi dhamme ratanaṁ paṇītaṁ
+Na tena dhammena sam’atthi kiñci – Idam'pi dhamme ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
 
@@ -9917,7 +9917,7 @@ Etena saccena suvatthi hotu
 
 
 Yam buddha-seṭṭho parivaṇṇayī suciṁ – Samādhim-ānantarikaññam-āhu
-Samādhinā tena samo na vijjati – Idam-pi dhamme ratanaṁ paṇītaṁ
+Samādhinā tena samo na vijjati – Idam'pi dhamme ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
 
@@ -9934,7 +9934,7 @@ Etena saccena suvatthi hotu
 
 Ye puggalā aṭṭha sataṁ pasatthā – Cattāri etāni yugāni honti
 Te dakkhiṇeyyā sugatassa sāvakā – Etesu dinnāni mahapphalāni
-Idam-pi saṅghe ratanaṁ paṇītaṁ
+Idam'pi saṅghe ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
 
@@ -9952,7 +9952,7 @@ Etena saccena suvatthi hotu
 
 Ye suppayuttā manasā daḷhena – Nikkāmino gotama-sāsanamhi
 Te patti-pattā amataṁ vigayha – Laddhā mudhā nibbutiṁ bhuñjamānā
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -9969,7 +9969,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Yath’inda-khīlo paṭhaviṁ sito siyā – Catubbhi vātebhi asampakampiyo
 Tathūpamaṁ sappurisaṁ vadāmi – Yo ariya-saccāni avecca passati
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -9986,7 +9986,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Ye ariya-saccāni vibhāvayanti – Gambhīra-paññena sudesitāni
 Kiñ-cāpi te honti bhusappamattā – Na te bhavaṁ aṭṭhamam-ādiyanti
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -10004,7 +10004,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 Sahā v’assa dassana-sampadāya – Tay’assu dhammā jahitā bhavanti
 Sakkāya-diṭṭhi vicikicchitañ-ca – Sīlabbataṁ vā pi yad-atthi kiñci
 Catūh’apāyehi ca vippamutto – Cha cābhiṭhānāni abhabbo kātuṁ
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -10023,7 +10023,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Kiñ-cāpi so kammaṁ karoti pāpakaṁ – Kāyena vācā uda cetasā vā
 Abhabbo so tassa paṭicchadāya – Abhabbatā diṭṭha-padassa vuttā
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -10040,7 +10040,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Vanappagumbe yathā phussi-t-agge – Gimhāna-māse paṭhamasmiṁ gimhe
 Tathūpamaṁ dhamma-varaṁ adesayi – Nibbāna-gāmiṁ paramaṁ hitāya
-Idam-pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -10056,7 +10056,7 @@ Idam-pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 Varo varaññū vara-do var’āharo – Anuttaro dhamma-varaṁ adesayi
-Idam-pi buddhe ratanaṁ paṇītaṁ
+Idam'pi buddhe ratanaṁ paṇītaṁ
 
 
 <div class="english">
@@ -10072,7 +10072,7 @@ Idam-pi buddhe ratanaṁ paṇītaṁ
 
 Khīṇaṁ purāṇaṁ navaṁ n’atthi sambhavaṁ – Viratta-citt’āyatike bhavasmiṁ
 Te khīṇa-bījā aviruḷhi-chandā – Nibbanti dhīrā yathā’yam padīpo
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -10566,7 +10566,7 @@ Sotthi te hotu sabbadā
 </div>
 
 Pahīnā te ca ābādhā
-Tiṇṇannam-pi mahesinaṁ
+Tiṇṇannam'pi mahesinaṁ
 Magg’āhata-kilesā va
 Pattānuppatti-dhammataṁ
 Etena sacca-vajjena
@@ -11349,7 +11349,7 @@ Taṇhā-paccayā upādānaṁ,
 Upādāna-paccayā bhavo,
 Bhava-paccayā jāti,
 Jāti-paccayā jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā sambhavanti.
-Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti.
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hoti.
 
 Avijjāya tv-eva asesa-virāga-nirodhā, saṅkhāra-nirodho,
 Saṅkhāra-nirodhā, viññāṇa-nirodho,
@@ -11362,7 +11362,7 @@ Taṇhā-nirodhā, upādāna-nirodho,
 Upādāna-nirodhā, bhava-nirodho,
 Bhava-nirodhā, jāti-nirodho,
 Jāti-nirodhā, jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā nirujjhanti.
-Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti.
+Evam'etassa kevalassa dukkhakkhandhassa nirodho hoti.
 
 <div class="english">
 

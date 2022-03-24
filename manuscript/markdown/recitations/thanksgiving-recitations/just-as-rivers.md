@@ -17,7 +17,7 @@ Paripūrenti sāgaraṁ
 
 </div>
 
-Evam-eva ito dinnaṁ petānaṁ upakappati
+Evam'eva ito dinnaṁ petānaṁ upakappati
 
 <div class="english">
 

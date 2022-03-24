@@ -29,7 +29,7 @@ Divā ca ratto ca haranti ye baliṁ – Tasmā hi ne rakkhatha appamattā
 
 
 Yaṅ kiñci vittaṁ idha vā huraṁ vā – Saggesu vā yaṁ ratanaṁ paṇītaṁ
-Na no samaṁ atthi tathāgatena – Idam-pi buddhe ratanaṁ paṇītaṁ
+Na no samaṁ atthi tathāgatena – Idam'pi buddhe ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
 
@@ -45,7 +45,7 @@ Etena saccena suvatthi hotu
 
 
 Khayaṁ virāgaṁ amataṁ paṇītaṁ – Yad-ajjhagā sakya-munī samāhito
-Na tena dhammena sam’atthi kiñci – Idam-pi dhamme ratanaṁ paṇītaṁ
+Na tena dhammena sam’atthi kiñci – Idam'pi dhamme ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
 
@@ -61,7 +61,7 @@ Etena saccena suvatthi hotu
 
 
 Yam buddha-seṭṭho parivaṇṇayī suciṁ – Samādhim-ānantarikaññam-āhu
-Samādhinā tena samo na vijjati – Idam-pi dhamme ratanaṁ paṇītaṁ
+Samādhinā tena samo na vijjati – Idam'pi dhamme ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
 
@@ -78,7 +78,7 @@ Etena saccena suvatthi hotu
 
 Ye puggalā aṭṭha sataṁ pasatthā – Cattāri etāni yugāni honti
 Te dakkhiṇeyyā sugatassa sāvakā – Etesu dinnāni mahapphalāni
-Idam-pi saṅghe ratanaṁ paṇītaṁ
+Idam'pi saṅghe ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
 
@@ -96,7 +96,7 @@ Etena saccena suvatthi hotu
 
 Ye suppayuttā manasā daḷhena – Nikkāmino gotama-sāsanamhi
 Te patti-pattā amataṁ vigayha – Laddhā mudhā nibbutiṁ bhuñjamānā
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -113,7 +113,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Yath’inda-khīlo paṭhaviṁ sito siyā – Catubbhi vātebhi asampakampiyo
 Tathūpamaṁ sappurisaṁ vadāmi – Yo ariya-saccāni avecca passati
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -130,7 +130,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Ye ariya-saccāni vibhāvayanti – Gambhīra-paññena sudesitāni
 Kiñ-cāpi te honti bhusappamattā – Na te bhavaṁ aṭṭhamam-ādiyanti
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -148,7 +148,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 Sahā v’assa dassana-sampadāya – Tay’assu dhammā jahitā bhavanti
 Sakkāya-diṭṭhi vicikicchitañ-ca – Sīlabbataṁ vā pi yad-atthi kiñci
 Catūh’apāyehi ca vippamutto – Cha cābhiṭhānāni abhabbo kātuṁ
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -167,7 +167,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Kiñ-cāpi so kammaṁ karoti pāpakaṁ – Kāyena vācā uda cetasā vā
 Abhabbo so tassa paṭicchadāya – Abhabbatā diṭṭha-padassa vuttā
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -184,7 +184,7 @@ Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Vanappagumbe yathā phussi-t-agge – Gimhāna-māse paṭhamasmiṁ gimhe
 Tathūpamaṁ dhamma-varaṁ adesayi – Nibbāna-gāmiṁ paramaṁ hitāya
-Idam-pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">
@@ -200,7 +200,7 @@ Idam-pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 Varo varaññū vara-do var’āharo – Anuttaro dhamma-varaṁ adesayi
-Idam-pi buddhe ratanaṁ paṇītaṁ
+Idam'pi buddhe ratanaṁ paṇītaṁ
 
 
 <div class="english">
@@ -216,7 +216,7 @@ Idam-pi buddhe ratanaṁ paṇītaṁ
 
 Khīṇaṁ purāṇaṁ navaṁ n’atthi sambhavaṁ – Viratta-citt’āyatike bhavasmiṁ
 Te khīṇa-bījā aviruḷhi-chandā – Nibbanti dhīrā yathā’yam padīpo
-Idam-pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
+Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 <div class="english">

@@ -69,7 +69,7 @@ Atthi imasmiṁ kāye
 }
 
 \begin{pali-hang}
-  Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
+  Evam'ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 \end{pali-hang}
 
 \begin{english-verses}

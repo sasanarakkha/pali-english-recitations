@@ -11,7 +11,7 @@ Ayam-eva ariyo aṭṭh'aṅgiko maggo
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 

@@ -1,6 +1,6 @@
 ## Homage to the Dhamma<a id="homage-dhamma"></a>
 
->  [Handa mayaṁ dhammābhitthutiṁ karomase]
+>  [Handa mayaṁ dhamm'ābhitthutiṁ karomase]
 >  [Now let us recite in praise of the Dhamma]
 
 Yo so svākkhāto bhagavatā dhammo
@@ -51,7 +51,7 @@ Paccattaṁ veditabbo viññūhi
 
 </div>
 
-Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
+Tam'ahaṁ dhammaṁ abhipūjayāmi tam'ahaṁ dhammaṁ sirasā namāmi
 
 <div class="english">
 

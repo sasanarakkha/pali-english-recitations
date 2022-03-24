@@ -42,7 +42,7 @@ Sabb’antarāyā ca vināsamentu
 </div>
 
 Saddhamma-senā sugatānugo yo
-Lokassa pāpūpakilesa-jetā
+Lokassa pāp'ūpakilesa-jetā
 Santo sayaṁ santi-niyojako ca
 Svākkhāta-dhammaṁ viditaṁ karoti
 Saṅghaṁ varan-taṁ sirasā namāmi

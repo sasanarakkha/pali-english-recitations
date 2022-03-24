@@ -11,18 +11,18 @@ Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisam
 
 Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
 
-Ayameva ariyo aṭṭhaṅgiko maggo seyyathīdaṁ:
+Ayameva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ:
 
 Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
 Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
 
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ:
 
-Jātipi dukkhā jarāpi dukkhā byādhipi dukkho maraṇampi dukkhaṁ soka-parideva-dukkha-domanassupāyāsāpi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam-picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
+Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanassupāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam-picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
 
 Idaṁ kho pana bhikkhave dukkhasamudayo ariyasaccaṁ:
 
-Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatrābhinandinī seyyathīdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
+Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatrābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
 
 Idaṁ kho pana bhikkhave dukkhanirodho ariyasaccaṁ:
 

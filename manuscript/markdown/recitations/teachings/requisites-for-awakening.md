@@ -66,7 +66,7 @@ Katame ca te bhikkhave dhammā mayā abhiññā desitā
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 

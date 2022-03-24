@@ -103,7 +103,7 @@ Taṇhā-paccayā upādānaṁ,
 Upādāna-paccayā bhavo,
 Bhava-paccayā jāti,
 Jāti-paccayā jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā sambhavanti.
-Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti.
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hoti.
 
 Avijjāya tv-eva asesa-virāga-nirodhā, saṅkhāra-nirodho,
 Saṅkhāra-nirodhā, viññāṇa-nirodho,
@@ -116,7 +116,7 @@ Taṇhā-nirodhā, upādāna-nirodho,
 Upādāna-nirodhā, bhava-nirodho,
 Bhava-nirodhā, jāti-nirodho,
 Jāti-nirodhā, jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā nirujjhanti.
-Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti.
+Evam'etassa kevalassa dukkhakkhandhassa nirodho hoti.
 
 <div class="english">
 

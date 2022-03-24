@@ -1,7 +1,7 @@
 ## Yathā vāri-vahā pūrā<a id="yatha-vari-vaha-pura"></a>
 
 Yathā vāri-vahā pūrā – Paripūrenti sāgaraṁ
-Evam-eva ito dinnaṁ – Petānaṁ upakappati
+Evam'eva ito dinnaṁ – Petānaṁ upakappati
 
 <div class="english">
 

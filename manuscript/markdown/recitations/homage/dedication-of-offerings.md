@@ -34,7 +34,7 @@ Tam'mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ
 
 </div>
 
-Imehi sakkārehi yathārahaṁ āropitehi abhipūjayāma
+Imehi sakkārehi yath'ārahaṁ āropitehi abhipūjayāma
 
 <div class="english">
 
@@ -42,7 +42,7 @@ Imehi sakkārehi yathārahaṁ āropitehi abhipūjayāma
 
 </div>
 
-Sādhu no bhante bhagavā sucira-parinibbutopi
+Sādhu no bhante bhagavā sucira-parinibbuto'pi
 
 <div class="english">
 
@@ -52,7 +52,7 @@ Sādhu no bhante bhagavā sucira-parinibbutopi
 
 </div>
 
-Pacchimā-janatānukampa-mānasā
+Pacchimā-janat'ānukampa-mānasā
 
 <div class="english">
 

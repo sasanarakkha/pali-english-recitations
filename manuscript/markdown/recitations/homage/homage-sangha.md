@@ -1,6 +1,6 @@
 ## Homage to the Saṅgha<a id="homage-sangha"></a>
 
-Handa mayaṁ saṅghābhitthutiṁ karomase
+Handa mayaṁ saṅgh'ābhitthutiṁ karomase
 
 <div class="english">
 
@@ -96,7 +96,7 @@ Anuttaraṁ puññakkhettaṁ lokassa
 
 </div>
 
-Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
+Tam'ahaṁ saṅghaṁ abhipūjayāmi tam'ahaṁ saṅghaṁ sirasā namāmi
 
 <div class="english">
 

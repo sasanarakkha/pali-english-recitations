@@ -175,7 +175,7 @@ Ayam-eva ariyo aṭṭhaṅgiko maggo
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -312,7 +312,7 @@ Idaṁ kho pana bhikkhave dukkhaṁ ariya-saccaṁ
 
 </div>
 
-Jātipi dukkhā
+Jāti'pi dukkhā
 
 <div class="english">
 
@@ -320,7 +320,7 @@ Jātipi dukkhā
 
 </div>
 
-Jarāpi dukkhā
+Jarā'pi dukkhā
 
 <div class="english">
 
@@ -328,7 +328,7 @@ Jarāpi dukkhā
 
 </div>
 
-Byādhipi dukkho
+Byādhi'pi dukkho
 
 <div class="english">
 
@@ -336,7 +336,7 @@ Byādhipi dukkho
 
 </div>
 
-Maraṇampi dukkhaṁ
+Maraṇam'pi dukkhaṁ
 
 <div class="english">
 
@@ -344,7 +344,7 @@ Maraṇampi dukkhaṁ
 
 </div>
 
-Soka-parideva-dukkha-domanassupāyāsāpi dukkhā
+Soka-parideva-dukkha-domanassupāyāsā'pi dukkhā
 
 <div class="english">
 
@@ -376,7 +376,7 @@ Yampicchaṁ na labhati tampi dukkhaṁ
 
 </div>
 
-Saṅkhittena pañcupādānakkhandhā dukkhā
+Saṅkhittena pañc'upādānakkhandhā dukkhā
 
 <div class="english">
 
@@ -424,7 +424,7 @@ Tatra-tatrābhinandinī
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -522,7 +522,7 @@ Ayam-eva ariyo aṭṭh’aṅgiko maggo
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 

@@ -1,6 +1,6 @@
 ## Salutation to the Triple Gem<a id="salutation"></a>
 
-> [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
+> [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañ'ca bhaṇāmase]
 
 > [Now let us recite our salutation to the Triple Gem and a passage to arouse urgency]
 
@@ -20,7 +20,7 @@ Yo'ccanta-suddhabbara-ñāṇa-locano
 
 </div>
 
-Lokassa pāpūpakilesa-ghātako
+Lokassa pāp'ūpakilesa-ghātako
 
 <div class="english">
 
@@ -28,7 +28,7 @@ Lokassa pāpūpakilesa-ghātako
 
 </div>
 
-Vandāmi buddhaṁ aham-ādarena taṁ
+Vandāmi buddhaṁ aham'ādarena taṁ
 
 <div class="english">
 
@@ -44,7 +44,7 @@ Dhammo padīpo viya tassa satthuno
 
 </div>
 
-Yo magga-pākāmata-bheda-bhinnako
+Yo magga-pāk'āmata-bheda-bhinnako
 
 <div class="english">
 
@@ -52,7 +52,7 @@ Yo magga-pākāmata-bheda-bhinnako
 
 </div>
 
-Lokuttaro yo ca tad-attha-dīpano
+Lok'uttaro yo ca tad'attha-dīpano
 
 <div class="english">
 
@@ -60,7 +60,7 @@ Lokuttaro yo ca tad-attha-dīpano
 
 </div>
 
-Vandāmi dhammaṁ aham-ādarena taṁ
+Vandāmi dhammaṁ aham'ādarena taṁ
 
 <div class="english">
 
@@ -68,7 +68,7 @@ Vandāmi dhammaṁ aham-ādarena taṁ
 
 </div>
 
-Saṅgho sukhettābhyati-khetta-saññito
+Saṅgho sukhett'ābhyati-khetta-saññito
 
 <div class="english">
 
@@ -76,7 +76,7 @@ Saṅgho sukhettābhyati-khetta-saññito
 
 </div>
 
-Yo diṭṭha-santo sugatānubodhako
+Yo diṭṭha-santo sugat'ānubodhako
 
 <div class="english">
 
@@ -93,7 +93,7 @@ Lolappahīno ariyo sumedhaso
 
 </div>
 
-Vandāmi saṅghaṁ aham-ādarena taṁ
+Vandāmi saṅghaṁ aham'ādarena taṁ
 
 <div class="english">
 
@@ -101,7 +101,7 @@ Vandāmi saṅghaṁ aham-ādarena taṁ
 
 </div>
 
-Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
+Icc'evam'ekant'abhipūjaneyyakaṁ vatthu-ttayaṁ vandayat'ābhisaṅkhataṁ
 
 <div class="english">
 
@@ -110,7 +110,7 @@ Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ
 
 </div>
 
-Puññaṁ mayā yaṁ mama sabbupaddavā
+Puññaṁ mayā yaṁ mama sabb'upaddavā
 
 <div class="english">
 
@@ -146,7 +146,7 @@ Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappaved
 
 </div>
 
-Mayan-taṁ dhammaṁ sutvā evaṁ jānāma
+Mayan'taṁ dhammaṁ sutvā evaṁ jānāma
 
 <div class="english">
 
@@ -154,7 +154,7 @@ Mayan-taṁ dhammaṁ sutvā evaṁ jānāma
 
 </div>
 
-Jātipi dukkhā
+Jāti'pi dukkhā
 
 <div class="english">
 
@@ -162,7 +162,7 @@ Jātipi dukkhā
 
 </div>
 
-Jarāpi dukkhā
+Jarā'pi dukkhā
 
 <div class="english">
 
@@ -170,7 +170,7 @@ Jarāpi dukkhā
 
 </div>
 
-Maraṇampi dukkhaṁ
+Maraṇam'pi dukkhaṁ
 
 <div class="english">
 
@@ -178,7 +178,7 @@ Maraṇampi dukkhaṁ
 
 </div>
 
-Soka-parideva-dukkha-domanass'upāyāsāpi dukkhā
+Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
 <div class="english">
 
@@ -202,7 +202,7 @@ Piyehi vippayogo dukkho
 
 </div>
 
-Yamp'icchaṁ na labhati tampi dukkhaṁ
+Yam'p'icchaṁ na labhati tampi dukkhaṁ
 
 <div class="english">
 
@@ -210,7 +210,7 @@ Yamp'icchaṁ na labhati tampi dukkhaṁ
 
 </div>
 
-Saṅkhittena pañcupādānakkhandhā dukkhā
+Saṅkhittena pañc'upādānakkhandhā dukkhā
 
 <div class="english">
 
@@ -218,7 +218,7 @@ Saṅkhittena pañcupādānakkhandhā dukkhā
 
 </div>
 
-Seyyathīdaṁ
+Seyyath'īdaṁ
 
 <div class="english">
 
@@ -226,7 +226,7 @@ Seyyathīdaṁ
 
 </div>
 
-Rūpūpādānakkhandho
+Rūp'ūpādānakkhandho
 
 <div class="english">
 
@@ -234,7 +234,7 @@ Rūpūpādānakkhandho
 
 </div>
 
-Vedanūpādānakkhandho
+Vedan'ūpādānakkhandho
 
 <div class="english">
 
@@ -242,7 +242,7 @@ Vedanūpādānakkhandho
 
 </div>
 
-Saññūpādānakkhandho
+Saññ'ūpādānakkhandho
 
 <div class="english">
 
@@ -250,7 +250,7 @@ Saññūpādānakkhandho
 
 </div>
 
-Saṅkhārūpādānakkhandho
+Saṅkhār'ūpādānakkhandho
 
 <div class="english">
 
@@ -258,7 +258,7 @@ Saṅkhārūpādānakkhandho
 
 </div>
 
-Viññāṇūpādānakkhandho
+Viññāṇ'ūpādānakkhandho
 
 <div class="english">
 
@@ -394,7 +394,7 @@ Sabbe dhammā anattā't
 
 </div>
 
-Te mayaṁ otiṇṇāmha jātiyā jarā-maraṇena
+Te mayaṁ otiṇṇ'āmha jātiyā jarā-maraṇena
 
 <div class="english">
 
