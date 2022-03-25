@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Sharing of All Merits<a id="sharing-all-merits"></a>
 Sabba-patti-dāna
 
@@ -66,3 +67,5 @@ Khemappadañ'ca pappontu tesāsā sijjhataṁ subhā
 </div>
 
 suttaRef{[Thai]}
+=======
+>>>>>>> Stashed changes
