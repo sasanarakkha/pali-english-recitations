@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Karaṇīya-metta-sutta<a id="karaniya-metta-sutta"></a>
 
 [Karaṇīya] m-attha-kusalena – Yan'taṁ santaṁ padaṁ abhisamecca
@@ -123,3 +124,5 @@ Kāmesu vineyya gedhaṁ – Na hi jātu gabbha-seyyaṁ punar-etī’ti
 </div>
 
 suttaRef{[Snp 1.8]}
+=======
+>>>>>>> Stashed changes
