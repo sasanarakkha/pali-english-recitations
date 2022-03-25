@@ -249,7 +249,7 @@
   {\pdfbookmark[2]{Set 10}{set10}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 10}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
-    \hyperref[pubba-bhaga-nama-kara-patho]{Funeral Recitations (Pāli)} \ifdesktopversion\else\pageref{pubba-bhaga-nama-kara-patho}\fi\\
+    \hyperref[pubba-bhaga-nama-kara-patho-funeral]{Funeral Recitations (Pāli)} \ifdesktopversion\else\pageref{pubba-bhaga-nama-kara-patho-funeral}\fi\\
     \hyperref[recollection-of-impermanence]{Recollection of Impermanence} \ifdesktopversion\else\pageref{recollection-of-impermanence}\fi\\
     \hyperref[yatha-vari-vaha-pura]{Thanksgiving Recitations (Pāli)} \ifdesktopversion\else\pageref{yatha-vari-vaha-pura}\fi\\
     \hyperref[just-as-rivers]{Just as Rivers} \ifdesktopversion\else\pageref{just-as-rivers}\fi\\
@@ -259,7 +259,6 @@
 
 #+end_src
 
-*
 * Abbreviations
 #+begin_src latex :tangle ./manuscript/tex/abbreviations.tex
 
@@ -326,7 +325,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
   \setsecnumformat{}%
 }
 
-\sectionPaliTitle{Pūjā-niyyātana}
+\sectionPaliTitle{Buddhāmisa-pūjā}
 \section{Dedication of Offerings}
 \label{dedication-of-offerings}
 
@@ -1179,6 +1178,7 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 ** Closing Homage
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
+\sectionPaliTitle{Pacchima-vandanā}
 \section{Closing Homage}
 \label{closing-homage}
 
@@ -1250,7 +1250,7 @@ Saṅghaṁ namāmi
         \vspace{0.8em}
         \hyperref[buddhas-first-exclamation]{Set 1} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[characteristic-of-not-self]{Set 2} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[noble-eightfold-path]{Set 3} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[dedication-of-offerings]{Set 4} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[mindfulness-of-breathing]{Set 5}\\
         \vspace{0.5em}
-        \hyperref[anatta-lakkhana]{Set 6} — \hyperref[dependent-origination]{Set 7} — \hyperref[aditta-pariyaya]{Set 8} — \hyperref[deva-aradhana]{Set 9} — \hyperref[pubba-bhaga-nama-kara-patho]{Set 10}}}
+        \hyperref[anatta-lakkhana]{Set 6} — \hyperref[dependent-origination]{Set 7} — \hyperref[aditta-pariyaya]{Set 8} — \hyperref[deva-aradhana]{Set 9} — \hyperref[pubba-bhaga-nama-kara-patho-funeral]{Set 10}}}
   \end{leader}
 \end{minipage}
 \fi
@@ -1493,8 +1493,6 @@ Saṅghaṁ namāmi
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
-
-\vspace{-0.15cm}
 
 \linkdest{endnote33-body}
 Sabba-pāpassa akaraṇaṁ\makeatletter\hyperlink{endnote33-appendix}\Hy@raisedlink{\hypertarget{endnote33-body}{}{\pagenote{%
@@ -2420,8 +2418,6 @@ Etaṁ buddhāna sāsanaṁ
 \sectionPaliTitle{Maṅgala-sutta}
 \section{The Highest Blessings}
 \label{highest-blessings}
-
-\vspace{-0.1cm}
 
 \linkdest{endnote46-body}
 \begin{leader-english}
@@ -7202,13 +7198,12 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   \end{english-hangtogether-verses}
 \end{english-verses}
 
-% TODO this is a bit hacky, works for now
-\vspace{8pt}
-
-\begin{pali-hangtogether}
+\begin{pali-hang}
   Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti
-\end{pali-hangtogether}
+\end{pali-hang}
+\begin{pali-hangtogether}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+\end{pali-hangtogether}
 
 \begin{english-verses}
   ``Could my spiritual companions find fault with my conduct?''
@@ -7229,16 +7224,21 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   \end{english-hangtogether-verses}
 \end{english-verses}
 
-% TODO this is a bit hacky, works for now
-\vspace{8pt}
-
+\begin{pali-hang}
+  Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo
+\end{pali-hang}
 \begin{pali-hangtogether}
-  Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\\
+Yaṁ kammaṁ karissāmi
 \end{pali-hangtogether}
-Yaṁ kammaṁ karissāmi\\
-Kalyāṇaṁ vā pāpakaṁ vā\\
-Tassa dāyādo bhavissāmī'ti\\
+\begin{pali-hangtogether}
+Kalyāṇaṁ vā pāpakaṁ vā
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
+Tassa dāyādo bhavissāmī'ti
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+\end{pali-hangtogether}
 
 \begin{english-verses}
   ``I am the owner of my kamma\\
@@ -7278,16 +7278,14 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{english-verses}
 
 \begin{pali-hang}
-  Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana viseso adhigato\\
+  Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana viseso adhigato
 \end{pali-hang}
-
-% TODO this is a bit hacky, works for now
-% \vspace{8pt}
-
 \begin{pali-hangtogether}
-  So'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti\\
+  So'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti
 \end{pali-hangtogether}
+\begin{pali-hangtogether}
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+\end{pali-hangtogether}
 
 \begin{english-verses}
   ``Has my practice borne fruit with freedom or insight\\
@@ -9349,7 +9347,7 @@ Sadā sotthī bhavantu te
 #+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Pubba-bhāga-nama-kāra-pāṭho}
-\label{pubba-bhaga-nama-kara-patho}
+\label{pubba-bhaga-nama-kara-patho-protective}
 
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\
@@ -10962,7 +10960,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 #+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
 \section{Bhavatu-sabba-maṅgalaṁ}
-\label{bhavatu-sabba-mangalam}
+\label{bhavatu-sabba-mangalam-protective}
 
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\
@@ -11034,7 +11032,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
 
 \section{Pubba-bhāga-nama-kāra-pāṭho}
-\label{pubba-bhaga-nama-kara-patho}
+\label{pubba-bhaga-nama-kara-patho-funeral}
 
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\
@@ -11689,7 +11687,7 @@ TODO G correct way to git merge
 ** Bhavatu-sabba-maṅgalaṁ
 
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
-\section{Bhavatu-sabba-maṅgalaṁ}
+\section{Bhavatu-sabba-maṅgalaṁ-funeral}
 \label{bhavatu}
 
 \begin{pali-leader}

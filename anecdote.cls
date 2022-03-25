@@ -293,7 +293,7 @@
   bookmarksopen=true,
   bookmarksopenlevel=3,
   hypertexnames=false,
-  linktoc=true,
+  linktoc=all,
   plainpages=false,
   raiselinks=true,
   breaklinks
@@ -1405,7 +1405,7 @@ philo-sophical munindo amaravati thai-land}
       \centering%
       \chaptitlefont%
       \textbf{\textsc{\textls*{##1}}}%
-      \label{contents}%
+      % \label{contents}%
       \par%
     }%
   }
@@ -1580,7 +1580,7 @@ philo-sophical munindo amaravati thai-land}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
   \begin{minipage}{\linewidth}%
     \centering%
-    \pgfornament[color=black,width=7cm,scale=1,ydelta=16pt,symmetry=c]{88}%
+    \pgfornament[color=black,width=7cm,scale=1,ydelta=24pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
   % Starting at the title hyperref above

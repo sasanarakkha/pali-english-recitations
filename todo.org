@@ -1,6 +1,7 @@
 #+TITLE: Todo
 
 * TeX
+** TODO check endnotes that are too close
 ** TODO complete leader intro solution
 ** TODO check spacing of parittas
 ** TODO italicize all non chanted pali (?)
