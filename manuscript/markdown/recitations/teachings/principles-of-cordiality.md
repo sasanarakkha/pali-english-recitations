@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Principles of Cordiality<a id="principles-of-cordiality"></a>
 Cha sāraṇīya-dhammā
 
@@ -286,3 +287,5 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā’ti
 </div>
 
 suttaRef{[MN 104]}
+=======
+>>>>>>> Stashed changes
