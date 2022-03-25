@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Yathā vāri-vahā pūrā<a id="yatha-vari-vaha-pura"></a>
 
 Yathā vāri-vahā pūrā – Paripūrenti sāgaraṁ
@@ -55,3 +56,5 @@ Cattāro dhammā vaḍḍhanti – Āyu vaṇṇo sukhaṁ balaṁi
 > Long-life beauty  ̓  happiness and strength
 
 suttaRef{[Dhp 109]}
+=======
+>>>>>>> Stashed changes
