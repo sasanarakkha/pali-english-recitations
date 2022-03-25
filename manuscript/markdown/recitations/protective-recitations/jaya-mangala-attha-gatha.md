@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Jaya-maṅgala-aṭṭha-gāthā<a id="jaya-mangala-attha-gatha"></a>
 
 [Bāhuṁ] sahassam-abhinimmita sāvudhan'taṁ
@@ -135,3 +136,5 @@ Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 </div>
 
 suttaRef{[Trad]}
+=======
+>>>>>>> Stashed changes
