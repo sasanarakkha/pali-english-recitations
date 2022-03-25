@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Miscellaneous Verses<a id="misc-verses"></a>
 Pakiṇṇaka-gāthā
 
@@ -222,3 +223,5 @@ Ayaṁ vo amhākaṁ anusāsanī’ti
 </div>
 
 suttaRef{[MN 19]}
+=======
+>>>>>>> Stashed changes
