@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## The Seven Factors of Awakening<a id="seven-factors-of-awakening"></a>
 section{The Seven Factors of Awakening}
 paliTitle{Satta-sambojjhaṅgā}
@@ -284,3 +285,5 @@ Ime kho bhikkhave satta bojjhaṅgā’ti
 </div>
 
 suttaRef{[SN 46.22]}
+=======
+>>>>>>> Stashed changes
