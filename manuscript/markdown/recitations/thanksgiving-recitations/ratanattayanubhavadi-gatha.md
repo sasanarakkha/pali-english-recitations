@@ -5,7 +5,7 @@ TODO: indent Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā
 Anekā antarāyā pi – Vinassantu asesato
 Jaya-siddhi dhanaṁ lābhaṁ – Sotthi bhāgyaṁ sukhaṁ balaṁ
 Siri āyu ca vaṇṇo ca – Bhogaṁ vuḍḍhī ca yasavā
-Sata-vassā ca āyu ca – Jīva-siddhī bhavantu te
+Sata-vassā ca āyū ca – Jīva-siddhī bhavantu te
 
 <div class="english">
 
