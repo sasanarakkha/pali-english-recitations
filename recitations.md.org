@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #+TITLE: SBS Pāli-English Recitations
 #+AUTHOR: SBS Saṅgha
 #+format: Markdown
@@ -12387,3 +12388,5 @@ Thanks to all Saṅgha members who are willing to share this meaningful task amo
 #+begin_src markdown :tangle ./manuscript/markdown/appendix.md
 
 #+end_src
+=======
+>>>>>>> Stashed changes
