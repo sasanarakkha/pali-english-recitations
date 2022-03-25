@@ -3477,7 +3477,7 @@ Sakkā imasmim'pi dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipad
 
 \suttaRef{[MN 107]}
 
-So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya adinnādānā paṭivirato hoti dinn'ādāyī dinnapāṭikankhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
+So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno pāṇ'ātipātaṁ pahāya pāṇ'ātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya Adinn'ādānā paṭivirato hoti dinn'ādāyī dinnapāṭikankhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
 
 Musāvādaṁ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṁvādako lokassa. Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti ito sutvā na amutra akkhātā imesaṁ bhedāya amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya—iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā hoti. Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅ'gamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā hoti. Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ.
 
@@ -3986,12 +3986,12 @@ Ime kho bhikkhave satta bojjhaṅgā'ti
 ** The Noble Eightfold Path
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
 
-\sectionPaliTitle{Ariy'aṭṭhaṅgika-magga}
+\sectionPaliTitle{Ariy'aṭṭh'aṅgika-magga}
 \section{The Noble Eightfold Path}
 \label{noble-eightfold-path}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ ariy'aṭṭh'aṅgika-magga-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Ayam'eva ariyo aṭṭh'aṅgiko maggo
@@ -4127,7 +4127,7 @@ Katamā ca bhikkhave sammā-vācā
   And what bhikkhus is Right Speech?
 \end{english}
 
-Musā-vādā veramaṇī
+Musāvādā veramaṇī
 
 \begin{english}
   Abstaining from false speech
@@ -4163,13 +4163,13 @@ Katamo ca bhikkhave sammā-kammanto
   And what bhikkhus is Right Action?
 \end{english}
 
-Pāṇātipātā veramaṇī
+Pāṇ'ātipātā veramaṇī
 
 \begin{english}
   Abstaining from killing living beings
 \end{english}
 
-Adinnādānā veramaṇī
+Adinn'ādānā veramaṇī
 
 \begin{english}
   Abstaining from taking what is not given
@@ -4293,7 +4293,7 @@ Katamā ca bhikkhave sammā-sati
   And what bhikkhus is Right Mindfulness?
 \end{english}
 
-Idha bhikkhave bhikkhu kāye kāyānupassī viharati
+Idha bhikkhave bhikkhu kāye kāy'ānupassī viharati
 
 \begin{english}
   Here bhikkhus a bhikkhu abides\\
@@ -4315,7 +4315,7 @@ Vineyya loke abhijjhā-domanassaṁ
         \hypertarget{endnote62-appendix}{\hyperlink{endnote62-body}{WPN: ``covetousness and grief''}}}}}\makeatother
 \end{english}
 
-Vedanāsu vedanānupassī viharati
+Vedanāsu vedan'ānupassī viharati
 
 \begin{english}
   He abides contemplating feelings as feelings
@@ -4334,7 +4334,7 @@ Vineyya loke abhijjhā-domanassaṁ
   Longing and grief for the world
 \end{english}
 
-Citte cittānupassī viharati
+Citte citt'ānupassī viharati
 
 \begin{english}
   He abides contemplating mind as mind
@@ -4353,7 +4353,7 @@ Vineyya loke abhijjhā-domanassaṁ
   Longing and grief for the world
 \end{english}
 
-Dhammesu dhammānupassī viharati
+Dhammesu dhamm'ānupassī viharati
 
 \linkdest{endnote63-body}
 \begin{english}
@@ -4489,7 +4489,7 @@ Dukkhassa ca pahānā
   And the abandoning of pain
 \end{english}
 
-Pubb'eva somanassa domanassānaṁ atthaṅgamā
+Pubb'eva somanassa domanassānaṁ atthaṅ'gamā
 
 \linkdest{endnote67-body}
 \begin{english}
@@ -4498,7 +4498,7 @@ Pubb'eva somanassa domanassānaṁ atthaṅgamā
 \end{english}
 
 \begin{pali-hang}
-  Adukkhamasukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
+  Adukkham'asukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
 \end{pali-hang}
 
 \begin{english-verses}
@@ -4812,56 +4812,56 @@ Vimocayaṁ cittaṁ passasissāmī'ti sikkhati
   `I shall breathe out liberating the mind'
 \end{english}
 
-Aniccānupassī assasissāmī'ti sikkhati
+Anicc'ānupassī assasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
   `I shall breathe in contemplating impermanence'
 \end{english}
 
-Aniccānupassī passasissāmī'ti sikkhati
+Anicc'ānupassī passasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
   `I shall breathe out contemplating impermanence'
 \end{english}
 
-Virāgānupassī assasissāmī'ti sikkhati
+Virāg'ānupassī assasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
   `I shall breathe in contemplating the fading away of passions'
 \end{english}
 
-Virāgānupassī passasissāmī'ti sikkhati
+Virāg'ānupassī passasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
   `I shall breathe out contemplating the fading away of passions'
 \end{english}
 
-Nirodhānupassī assasissāmī'ti sikkhati
+Nirodh'ānupassī assasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
   `I shall breathe in contemplating cessation'
 \end{english}
 
-Nirodhānupassī passasissāmī'ti sikkhati
+Nirodh'ānupassī passasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
   `I shall breathe out contemplating cessation'
 \end{english}
 
-Paṭinissaggānupassī assasissāmī'ti sikkhati
+Paṭinissagg'ānupassī assasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
   `I shall breathe in contemplating relinquishment'
 \end{english}
 
-Paṭinissaggānupassī passasissāmī'ti sikkhati
+Paṭinissagg'ānupassī passasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
@@ -8503,7 +8503,7 @@ Sabbaṁ bhikkhave ādittaṁ!
 Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 \begin{pali-hang}
-  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8513,7 +8513,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8523,7 +8523,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8533,7 +8533,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8543,7 +8543,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8553,7 +8553,7 @@ Kena ādittaṁ?
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam'pi ādittaṁ.
+  Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
@@ -8566,27 +8566,27 @@ Kena ādittaṁ?
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphassepi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Sotasmim'pi nibbindati \breathmark\ saddesu'pi nibbindati \breathmark\ sotaviññāṇe'pi nibbindati \breathmark\ sotasamphassepi nibbindati \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Sotasmim'pi nibbindati \breathmark\ saddesu'pi nibbindati \breathmark\ sotaviññāṇe'pi nibbindati \breathmark\ sotasamphassepi nibbindati \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ghānasmim'pi nibbindati \breathmark\ gandhesu'pi nibbindati \breathmark\ ghānaviññāṇe'pi nibbindati \breathmark\ ghānasamphassepi nibbindati \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Ghānasmim'pi nibbindati \breathmark\ gandhesu'pi nibbindati \breathmark\ ghānaviññāṇe'pi nibbindati \breathmark\ ghānasamphassepi nibbindati \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jivhāya'pi nibbindati \breathmark\ rasesu'pi nibbindati \breathmark\ jivhāviññāṇe'pi nibbindati \breathmark\ jivhāsamphassepi nibbindati \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Jivhāya'pi nibbindati \breathmark\ rasesu'pi nibbindati \breathmark\ jivhāviññāṇe'pi nibbindati \breathmark\ jivhāsamphassepi nibbindati \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Kāyasmim'pi nibbindati \breathmark\ phoṭṭhabbesu'pi nibbindati \breathmark\ kāyaviññāṇe'pi nibbindati \breathmark\ kāyasamphassepi nibbindati \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Kāyasmim'pi nibbindati \breathmark\ phoṭṭhabbesu'pi nibbindati \breathmark\ kāyaviññāṇe'pi nibbindati \breathmark\ kāyasamphassepi nibbindati \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Manasmim'pi nibbindati \breathmark\ dhammesu'pi nibbindati \breathmark\ manoviññāṇe'pi nibbindati \breathmark\ manosamphasse'pi nibbindati \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmim'pi nibbindati.
+  Manasmim'pi nibbindati \breathmark\ dhammesu'pi nibbindati \breathmark\ manoviññāṇe'pi nibbindati \breathmark\ manosamphasse'pi nibbindati \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -12350,7 +12350,7 @@ Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
   (Repeat each phrase after the leader)
 \end{center}
 
-Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi
+Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi
 
 \linkdest{endnote139-body}
 \begin{english-hang}
@@ -12359,7 +12359,7 @@ Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi
   to refrain from taking the life of any living being.
 \end{english-hang}
 
-Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi
+Adinn'ādānā veramaṇi-sikkhāpadaṁ samādiyāmi
 
 \begin{english}
   I undertake the training to refrain from taking that which is not given.
@@ -12422,13 +12422,13 @@ Sādhu sādhu sādhu
   (Repeat each phrase after the leader)
 \end{center}
 
-Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi
+Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi
 
 \begin{english-hang}
   I undertake the training to refrain from taking the life of any living being.
 \end{english-hang}
 
-Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi
+Adinn'ādānā veramaṇi-sikkhāpadaṁ samādiyāmi
 
 \begin{english-hang}
   I undertake the training to refrain from taking that which is not given.

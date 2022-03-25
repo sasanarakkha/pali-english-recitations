@@ -358,7 +358,7 @@ Vimocayaṁ cittaṁ passasissāmī'ti sikkhati
 
 </div>
 
-Aniccānupassī assasissāmī'ti sikkhati
+Anicc'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -366,7 +366,7 @@ Aniccānupassī assasissāmī'ti sikkhati
 
 </div>
 
-Aniccānupassī passasissāmī'ti sikkhati
+Anicc'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -374,7 +374,7 @@ Aniccānupassī passasissāmī'ti sikkhati
 
 </div>
 
-Virāgānupassī assasissāmī'ti sikkhati
+Virāg'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -382,7 +382,7 @@ Virāgānupassī assasissāmī'ti sikkhati
 
 </div>
 
-Virāgānupassī passasissāmī'ti sikkhati
+Virāg'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -390,7 +390,7 @@ Virāgānupassī passasissāmī'ti sikkhati
 
 </div>
 
-Nirodhānupassī assasissāmī'ti sikkhati
+Nirodh'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -398,7 +398,7 @@ Nirodhānupassī assasissāmī'ti sikkhati
 
 </div>
 
-Nirodhānupassī passasissāmī'ti sikkhati
+Nirodh'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -406,7 +406,7 @@ Nirodhānupassī passasissāmī'ti sikkhati
 
 </div>
 
-Paṭinissaggānupassī assasissāmī'ti sikkhati
+Paṭinissagg'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -414,7 +414,7 @@ Paṭinissaggānupassī assasissāmī'ti sikkhati
 
 </div>
 
-Paṭinissaggānupassī passasissāmī'ti sikkhati
+Paṭinissagg'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 

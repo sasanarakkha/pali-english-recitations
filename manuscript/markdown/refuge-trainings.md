@@ -62,7 +62,7 @@ Yes, Venerable Sir.
 
 > (To undertake the trainings, repeat each training after the leader)
 
-Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
+Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
@@ -70,7 +70,7 @@ Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 </div>
 
-Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
+Adinn'ādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
@@ -119,7 +119,7 @@ subsection{Undertaking the Eight Trainings}
 
 > (To undertake the trainings, repeat each training after the leader)
 
-Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
+Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
@@ -127,7 +127,7 @@ Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 </div>
 
-Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
+Adinn'ādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 

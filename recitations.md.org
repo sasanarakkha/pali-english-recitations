@@ -4105,9 +4105,9 @@ suttaRef{[SN 46.22]}
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/teachings/noble-eightfold-path.md
 
 ## The Noble Eightfold Path<a id="noble-eightfold-path"></a>
-Ariy’aṭṭhaṅgika-magga
+Ariy’aṭṭh'aṅgika-magga
 
-> [Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ bhaṇāmase]
+> [Handa mayaṁ ariy'aṭṭh'aṅgika-magga-pāṭhaṁ bhaṇāmase]
 
 Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
@@ -4286,7 +4286,7 @@ Katamā ca bhikkhave sammā-vācā
 
 </div>
 
-Musā-vādā veramaṇī
+Musāvādā veramaṇī
 
 <div class="english">
 
@@ -4334,7 +4334,7 @@ Katamo ca bhikkhave sammā-kammanto
 
 </div>
 
-Pāṇātipātā veramaṇī
+Pāṇ'ātipātā veramaṇī
 
 <div class="english">
 
@@ -4342,7 +4342,7 @@ Pāṇātipātā veramaṇī
 
 </div>
 
-Adinnādānā veramaṇī
+Adinn'ādānā veramaṇī
 
 <div class="english">
 
@@ -4494,7 +4494,7 @@ Katamā ca bhikkhave sammā-sati
 
 </div>
 
-Idha bhikkhave bhikkhu kāye kāyānupassī viharati
+Idha bhikkhave bhikkhu kāye kāy'ānupassī viharati
 
 <div class="english">
 
@@ -4520,7 +4520,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 </div>
 
-Vedanāsu vedanānupassī viharati
+Vedanāsu vedan'ānupassī viharati
 
 <div class="english">
 
@@ -4545,7 +4545,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 </div>
 
-Citte cittānupassī viharati
+Citte citt'ānupassī viharati
 
 <div class="english">
 
@@ -4570,7 +4570,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 </div>
 
-Dhammesu dhammānupassī viharati
+Dhammesu dhamm'ānupassī viharati
 
 <div class="english">
 
@@ -4726,7 +4726,7 @@ Dukkhassa ca pahānā
 
 </div>
 
-Pubb’eva somanassa domanassānaṁ atthaṅgamā
+Pubb’eva somanassa domanassānaṁ atthaṅ'gamā
 
 <div class="english">
 
@@ -4734,7 +4734,7 @@ Pubb’eva somanassa domanassānaṁ atthaṅgamā
 
 </div>
 
-Adukkhamasukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
+Adukkham'asukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
 
 <div class="english">
 
@@ -5126,7 +5126,7 @@ Vimocayaṁ cittaṁ passasissāmī'ti sikkhati
 
 </div>
 
-Aniccānupassī assasissāmī'ti sikkhati
+Anicc'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -5134,7 +5134,7 @@ Aniccānupassī assasissāmī'ti sikkhati
 
 </div>
 
-Aniccānupassī passasissāmī'ti sikkhati
+Anicc'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -5142,7 +5142,7 @@ Aniccānupassī passasissāmī'ti sikkhati
 
 </div>
 
-Virāgānupassī assasissāmī'ti sikkhati
+Virāg'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -5150,7 +5150,7 @@ Virāgānupassī assasissāmī'ti sikkhati
 
 </div>
 
-Virāgānupassī passasissāmī'ti sikkhati
+Virāg'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -5158,7 +5158,7 @@ Virāgānupassī passasissāmī'ti sikkhati
 
 </div>
 
-Nirodhānupassī assasissāmī'ti sikkhati
+Nirodh'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -5166,7 +5166,7 @@ Nirodhānupassī assasissāmī'ti sikkhati
 
 </div>
 
-Nirodhānupassī passasissāmī'ti sikkhati
+Nirodh'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -5174,7 +5174,7 @@ Nirodhānupassī passasissāmī'ti sikkhati
 
 </div>
 
-Paṭinissaggānupassī assasissāmī'ti sikkhati
+Paṭinissagg'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -5182,7 +5182,7 @@ Paṭinissaggānupassī assasissāmī'ti sikkhati
 
 </div>
 
-Paṭinissaggānupassī passasissāmī'ti sikkhati
+Paṭinissagg'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
@@ -8729,25 +8729,25 @@ Sabbaṁ bhikkhave ādittaṁ!
 
 Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
-Cakkhuṁ bhikkhave ādittaṁ  ̓  rūpā ādittā  ̓  cakkhuviññāṇaṁ ādittaṁ  ̓  cakkhusamphasso āditto  ̓  yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+Cakkhuṁ bhikkhave ādittaṁ  ̓  rūpā ādittā  ̓  cakkhuviññāṇaṁ ādittaṁ  ̓  cakkhusamphasso āditto  ̓  yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam pi ādittaṁ.
 
 Kena ādittaṁ?
 
 Ādittaṁ rāgagginā dosagginā mohagginā  ̓  ādittaṁ jātiyā jarāya maraṇena  ̓  sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.
 
-Sotaṁ ādittaṁ  ̓  saddā ādittā  ̓  sotaviññāṇaṁ ādittaṁ  ̓  sotasamphasso āditto  ̓  yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+Sotaṁ ādittaṁ  ̓  saddā ādittā  ̓  sotaviññāṇaṁ ādittaṁ  ̓  sotasamphasso āditto  ̓  yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam pi ādittaṁ.
 
 Kena ādittaṁ?
 
 Ādittaṁ rāgagginā dosagginā mohagginā  ̓  ādittaṁ jātiyā jarāya maraṇena  ̓  sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.
 
-Ghānaṁ ādittaṁ  ̓  gandhā ādittā  ̓  ghānaviññāṇaṁ ādittaṁ  ̓  ghānasamphasso āditto  ̓  yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+Ghānaṁ ādittaṁ  ̓  gandhā ādittā  ̓  ghānaviññāṇaṁ ādittaṁ  ̓  ghānasamphasso āditto  ̓  yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam pi ādittaṁ.
 
 Kena ādittaṁ?
 
 Ādittaṁ rāgagginā dosagginā mohagginā  ̓  ādittaṁ jātiyā jarāya maraṇena  ̓  sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.
 
-Jivhā ādittā  ̓  rasā ādittā  ̓  jivhāviññāṇaṁ ādittaṁ  ̓  jivhāsamphasso āditto  ̓  yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+Jivhā ādittā  ̓  rasā ādittā  ̓  jivhāviññāṇaṁ ādittaṁ  ̓  jivhāsamphasso āditto  ̓  yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam pi ādittaṁ.
 
 Kena ādittaṁ?
 
@@ -8755,32 +8755,32 @@ Kena ādittaṁ?
 
 Sotasmiṁ pi nibbindati, saddesu pi nibbindati, sotaviññāṇe pi
 nibbindati, sotasamphasse pi nibbindati, yam'p'idaṁ sotasamphassapaccayā
-uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmiṁ pi
+uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmiṁ pi
 nibbindati.
 
-Kāyo āditto  ̓  phoṭṭhabbā ādittā  ̓  kāyaviññāṇaṁ ādittaṁ  ̓  kāyasamphasso āditto  ̓  yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+Kāyo āditto  ̓  phoṭṭhabbā ādittā  ̓  kāyaviññāṇaṁ ādittaṁ  ̓  kāyasamphasso āditto  ̓  yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam pi ādittaṁ.
 
 Kena ādittaṁ?
 
 Ādittaṁ rāgagginā dosagginā mohagginā  ̓  ādittaṁ jātiyā jarāya maraṇena  ̓  sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.
 
-Mano āditto  ̓  dhammā ādittā  ̓  manoviññāṇaṁ ādittaṁ  ̓  manosamphasso āditto  ̓  yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
+Mano āditto  ̓  dhammā ādittā  ̓  manoviññāṇaṁ ādittaṁ  ̓  manosamphasso āditto  ̓  yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam pi ādittaṁ.
 
 Kena ādittaṁ?
 
 Ādittaṁ rāgagginā dosagginā mohagginā  ̓  ādittaṁ jātiyā jarāya maraṇena  ̓  sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.
 
-[Evaṁ passaṁ bhikkhave] sutvā ariyasāvako cakkhusmimpi nibbindati  ̓  rūpesu pi nibbindati  ̓  cakkhuviññāṇe pi nibbindati  ̓  cakkhusamphassepi nibbindati  ̓  yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+[Evaṁ passaṁ bhikkhave] sutvā ariyasāvako cakkhusmimpi nibbindati  ̓  rūpesu pi nibbindati  ̓  cakkhuviññāṇe pi nibbindati  ̓  cakkhusamphassepi nibbindati  ̓  yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmimpi nibbindati.
 
-Sotasmimpi nibbindati  ̓  saddesu pi nibbindati  ̓  sotaviññāṇe pi nibbindati  ̓  sotasamphassepi nibbindati  ̓  yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+Sotasmimpi nibbindati  ̓  saddesu pi nibbindati  ̓  sotaviññāṇe pi nibbindati  ̓  sotasamphassepi nibbindati  ̓  yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmimpi nibbindati.
 
-Ghānasmimpi nibbindati  ̓  gandhesu pi nibbindati  ̓  ghānaviññāṇe pi nibbindati  ̓  ghānasamphassepi nibbindati  ̓  yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+Ghānasmimpi nibbindati  ̓  gandhesu pi nibbindati  ̓  ghānaviññāṇe pi nibbindati  ̓  ghānasamphassepi nibbindati  ̓  yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmimpi nibbindati.
 
-Jivhāya pi nibbindati  ̓  rasesu pi nibbindati  ̓  jivhāviññāṇe pi nibbindati  ̓  jivhāsamphassepi nibbindati  ̓  yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+Jivhāya pi nibbindati  ̓  rasesu pi nibbindati  ̓  jivhāviññāṇe pi nibbindati  ̓  jivhāsamphassepi nibbindati  ̓  yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmimpi nibbindati.
 
-Kāyasmimpi nibbindati  ̓  phoṭṭhabbesu pi nibbindati  ̓  kāyaviññāṇe pi nibbindati  ̓  kāyasamphassepi nibbindati  ̓  yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+Kāyasmimpi nibbindati  ̓  phoṭṭhabbesu pi nibbindati  ̓  kāyaviññāṇe pi nibbindati  ̓  kāyasamphassepi nibbindati  ̓  yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmimpi nibbindati.
 
-Manasmimpi nibbindati  ̓  dhammesu pi nibbindati  ̓  manoviññāṇe pi nibbindati  ̓  manosamphasse pi nibbindati  ̓  yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.
+Manasmimpi nibbindati  ̓  dhammesu pi nibbindati  ̓  manoviññāṇe pi nibbindati  ̓  manosamphasse pi nibbindati  ̓  yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmimpi nibbindati.
 
 Nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ ‘Vimuttam’ iti ñāṇaṁ hoti:
 
@@ -12030,7 +12030,7 @@ Yes, Venerable Sir.
 
 > (To undertake the trainings, repeat each training after the leader)
 
-Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
+Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
@@ -12038,7 +12038,7 @@ Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 </div>
 
-Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
+Adinn'ādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
@@ -12090,7 +12090,7 @@ subsection{Undertaking the Eight Trainings}
 
 > (To undertake the trainings, repeat each training after the leader)
 
-Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
+Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
@@ -12098,7 +12098,7 @@ Pāṇātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 </div>
 
-Adinnādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
+Adinn'ādānā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 

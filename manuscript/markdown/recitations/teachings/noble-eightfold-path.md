@@ -1,8 +1,8 @@
 <<<<<<< Updated upstream
 ## The Noble Eightfold Path<a id="noble-eightfold-path"></a>
-Ariy’aṭṭhaṅgika-magga
+Ariy’aṭṭh'aṅgika-magga
 
-> [Handa mayaṁ ariyaṭṭhaṅgika-magga-pāṭhaṁ bhaṇāmase]
+> [Handa mayaṁ ariy'aṭṭh'aṅgika-magga-pāṭhaṁ bhaṇāmase]
 
 Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
@@ -181,7 +181,7 @@ Katamā ca bhikkhave sammā-vācā
 
 </div>
 
-Musā-vādā veramaṇī
+Musāvādā veramaṇī
 
 <div class="english">
 
@@ -229,7 +229,7 @@ Katamo ca bhikkhave sammā-kammanto
 
 </div>
 
-Pāṇātipātā veramaṇī
+Pāṇ'ātipātā veramaṇī
 
 <div class="english">
 
@@ -237,7 +237,7 @@ Pāṇātipātā veramaṇī
 
 </div>
 
-Adinnādānā veramaṇī
+Adinn'ādānā veramaṇī
 
 <div class="english">
 
@@ -389,7 +389,7 @@ Katamā ca bhikkhave sammā-sati
 
 </div>
 
-Idha bhikkhave bhikkhu kāye kāyānupassī viharati
+Idha bhikkhave bhikkhu kāye kāy'ānupassī viharati
 
 <div class="english">
 
@@ -415,7 +415,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 </div>
 
-Vedanāsu vedanānupassī viharati
+Vedanāsu vedan'ānupassī viharati
 
 <div class="english">
 
@@ -440,7 +440,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 </div>
 
-Citte cittānupassī viharati
+Citte citt'ānupassī viharati
 
 <div class="english">
 
@@ -465,7 +465,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 </div>
 
-Dhammesu dhammānupassī viharati
+Dhammesu dhamm'ānupassī viharati
 
 <div class="english">
 
@@ -621,7 +621,7 @@ Dukkhassa ca pahānā
 
 </div>
 
-Pubb’eva somanassa domanassānaṁ atthaṅgamā
+Pubb’eva somanassa domanassānaṁ atthaṅ'gamā
 
 <div class="english">
 
@@ -629,7 +629,7 @@ Pubb’eva somanassa domanassānaṁ atthaṅgamā
 
 </div>
 
-Adukkhamasukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
+Adukkham'asukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
 
 <div class="english">
 
