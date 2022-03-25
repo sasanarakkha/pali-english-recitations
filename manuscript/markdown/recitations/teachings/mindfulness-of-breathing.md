@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Mindfulness of Breathing<a id="mindfulness-of-breathing"></a>
 Ānāpānassati
 
@@ -438,3 +439,5 @@ Mahapphalā hoti mahānisaṁsā'ti
 </div>
 
 suttaRef{[MN 118]}
+=======
+>>>>>>> Stashed changes
