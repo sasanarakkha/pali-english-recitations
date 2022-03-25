@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Bhojana-dānānumodanā<a id="bhojana-dananumodana"></a>
 
 [Yo yassa bhojanaṁ deti]
@@ -60,3 +61,5 @@ Saha sabbehi ñātibhī
 </div>
 
 suttaRef{[AN 5.37 / Dhp 109 / AN 3.155]}
+=======
+>>>>>>> Stashed changes
