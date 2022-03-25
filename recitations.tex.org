@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 u#+TITLE: SBS Pāli-English Recitations
 #+AUTHOR: SBS Saṅgha
 #+format: TeX
@@ -12679,3 +12680,5 @@ The following points should be considered:
 \end{justify}
 
 #+end_src
+=======
+>>>>>>> Stashed changes
