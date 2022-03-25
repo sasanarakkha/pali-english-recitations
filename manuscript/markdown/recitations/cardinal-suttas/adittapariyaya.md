@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Āditta-pariyāya-sutta<a id="aditta-pariyaya"></a>
 
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. Tatra kho bhagavā bhikkhū āmantesi:
@@ -66,3 +67,5 @@ Nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ ‘Vimuttam’ 
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū’ti.
 
 suttaRef{[SN 35.28]}
+=======
+>>>>>>> Stashed changes
