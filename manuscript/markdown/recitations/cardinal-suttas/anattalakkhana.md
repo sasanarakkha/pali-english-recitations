@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Anatta-lakkhaṇa-sutta<a id="anatta-lakkhana"></a>
 
 [Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: “Bhikkhavo”ti  ̓  “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca.
@@ -95,3 +96,5 @@ Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā 
 Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū’ti.
 
 suttaRef{[SN 22.59]}
+=======
+>>>>>>> Stashed changes
