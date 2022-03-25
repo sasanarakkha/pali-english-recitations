@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Ten Subjects for Frequent Reflection by One Gone Forth<a id="ten-reflections"></a>
 Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā
 
@@ -173,3 +174,5 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 \suttaRef{[AN 10.48]}
 
 \bottomNav{sharing-aspirations}
+=======
+>>>>>>> Stashed changes
