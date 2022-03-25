@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## The Three Characteristics<a id="three-characteristics"></a>
 Ti-lakkhaṇā
 
@@ -82,3 +83,5 @@ Tatr'ābhiratim'iccheyya – Hitvā kāme akiñcano
 </div>
 
 suttaRef{[Dhp 85-87.5]}
+=======
+>>>>>>> Stashed changes
