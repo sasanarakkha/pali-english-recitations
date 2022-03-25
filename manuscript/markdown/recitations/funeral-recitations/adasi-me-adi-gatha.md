@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Adāsi-me ādi gāthā<a id="adasi-me-adi-gatha"></a>
 
 [Adāsi me akāsi me] – Ñāti-mittā sakhā ca me
@@ -49,3 +50,5 @@ Balañ'ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan�
 </div>
 
 suttaRef{[Khp 7]}
+=======
+>>>>>>> Stashed changes
