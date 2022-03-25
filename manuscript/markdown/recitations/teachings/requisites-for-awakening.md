@@ -26,7 +26,7 @@ Te vo sādhukaṁ uggahetvā
 
 </div>
 
-Yathayidaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikaṁ
+Yatha'y'idaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikaṁ
 
 <div class="english">
 
@@ -34,7 +34,7 @@ Yathayidaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikaṁ
 
 </div>
 
-Tadassa bahujana-hitāya bahujana-sukhāya
+Tad'assa bahujana-hitāya bahujana-sukhāya
 
 <div class="english">
 
@@ -42,7 +42,7 @@ Tadassa bahujana-hitāya bahujana-sukhāya
 
 </div>
 
-Lokānukampāya
+Lok'ānukampāya
 
 <div class="english">
 
@@ -98,7 +98,7 @@ Cattāro iddhipādā
 
 </div>
 
-Pañcindriyāni
+Pañc'indriyāni
 
 <div class="english">
 
