@@ -11,7 +11,7 @@ Yamo mittā manussā ca majjhattā verikāpi ca
 Sabbe sattā sukhī hontu puññāni pakatāni me
 Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ
 Iminā puññakammena iminā uddissena ca
-Khippāhaṁ sulabhe ceva taṇhūpādāna-chedanaṁ
+Khipp'āhaṁ sulabhe ceva taṇhūpādāna-chedanaṁ
 Ye santāne hīnā dhammā yāva nibbānato mamaṁ
 Nassantu sabbadā yeva yattha jāto bhave bhave
 Ujucittaṁ satipaññā sallekho viriyamhinā

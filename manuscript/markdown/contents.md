@@ -80,7 +80,7 @@
 [Karaṇīya-metta-sutta](#karaniya-metta-sutta)\
 [Khandha-parittaṁ](#khandha-parittam)\
 [Buddha-Dhamma-Saṅgha-guṇā](#buddha-dhamma-sangha-guna)\
-[Yaṅ kiñci ratanaṁ loke](#yan-kinci-ratanam-loke)\
+[Yaṅ kiñci ratanaṁ loke](#yan-kinci-ratanam'loke)\
 [Bojjh’aṅga-parittaṁ](#bojjhana-parittam)\
 [Abhaya-parittaṁ](#abhaya-parittam)\
 [Devatā-uyyojana-gāthā](#devata-uyyojana-gatha)\

@@ -1,9 +1,9 @@
 <<<<<<< Updated upstream
 ## The Seven Factors of Awakening<a id="seven-factors-of-awakening"></a>
 section{The Seven Factors of Awakening}
-paliTitle{Satta-sambojjhaṅgā}
+paliTitle{Satta-sambojjh'aṅgā}
 
-> [Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ bhaṇāmase]
+> [Handa mayaṁ satta-sambojjh'aṅga-pāṭhaṁ bhaṇāmase]
 
 Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
 
@@ -79,7 +79,7 @@ Vimuttiñāṇadassanasampannā
 
 </div>
 
-Dassanam-pāhaṁ bhikkhave tesaṁ bhikkhūnaṁ bahukāraṁ vadāmi
+Dassanam'p'āhaṁ bhikkhave tesaṁ bhikkhūnaṁ bahukāraṁ vadāmi
 
 <div class="english">
 
@@ -87,7 +87,7 @@ Dassanam-pāhaṁ bhikkhave tesaṁ bhikkhūnaṁ bahukāraṁ vadāmi
 
 </div>
 
-Savanam-pāhaṁ
+Savanam'p'āhaṁ
 
 <div class="english">
 
@@ -95,7 +95,7 @@ Savanam-pāhaṁ
 
 </div>
 
-Upasaṅkamanam-pāhaṁ
+Upasaṅkamanam'p'āhaṁ
 
 <div class="english">
 
@@ -103,7 +103,7 @@ Upasaṅkamanam-pāhaṁ
 
 </div>
 
-Payirupāsanam-pāhaṁ
+Payirupāsanam'p'āhaṁ
 
 <div class="english">
 
@@ -111,7 +111,7 @@ Payirupāsanam-pāhaṁ
 
 </div>
 
-Anussatim-pāhaṁ
+Anussatim'p'āhaṁ
 
 <div class="english">
 
@@ -119,7 +119,7 @@ Anussatim-pāhaṁ
 
 </div>
 
-Anupabbajjam-pāhaṁ
+Anupabbajjam'p'āhaṁ
 
 <div class="english">
 
@@ -191,7 +191,7 @@ Taṁ dhammaṁ paññāya pavicinati
 
 </div>
 
-Pavicarati parivīmaṁsam-āpajjati
+Pavicarati parivīmaṁsam'āpajjati
 
 <div class="english">
 
@@ -207,7 +207,7 @@ Tassa taṁ dhammaṁ paññāya pavicinato
 
 </div>
 
-Pavicarato parivīmaṁsam-āpajjato
+Pavicarato parivīmaṁsam'āpajjato
 
 <div class="english">
 
@@ -232,7 +232,7 @@ Pavicarato parivīmaṁsam-āpajjato
 
 </div>
 
-Pītimanassa kāyopi passambhati
+Pītimanassa kāyo'pi passambhati
 
 <div class="english">
 

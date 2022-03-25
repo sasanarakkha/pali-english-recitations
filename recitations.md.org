@@ -205,7 +205,7 @@
 [Karaṇīya-metta-sutta](#karaniya-metta-sutta)\
 [Khandha-parittaṁ](#khandha-parittam)\
 [Buddha-Dhamma-Saṅgha-guṇā](#buddha-dhamma-sangha-guna)\
-[Yaṅ kiñci ratanaṁ loke](#yan-kinci-ratanam-loke)\
+[Yaṅ kiñci ratanaṁ loke](#yan-kinci-ratanam'loke)\
 [Bojjh’aṅga-parittaṁ](#bojjhana-parittam)\
 [Abhaya-parittaṁ](#abhaya-parittam)\
 [Devatā-uyyojana-gāthā](#devata-uyyojana-gatha)\
@@ -3815,9 +3815,9 @@ suttaRef{[DN 16]}
 
 ## The Seven Factors of Awakening<a id="seven-factors-of-awakening"></a>
 section{The Seven Factors of Awakening}
-paliTitle{Satta-sambojjhaṅgā}
+paliTitle{Satta-sambojjh'aṅgā}
 
-> [Handa mayaṁ satta-sambojjhaṅga-pāṭhaṁ bhaṇāmase]
+> [Handa mayaṁ satta-sambojjh'aṅga-pāṭhaṁ bhaṇāmase]
 
 Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
 
@@ -3893,7 +3893,7 @@ Vimuttiñāṇadassanasampannā
 
 </div>
 
-Dassanam-pāhaṁ bhikkhave tesaṁ bhikkhūnaṁ bahukāraṁ vadāmi
+Dassanam'p'āhaṁ bhikkhave tesaṁ bhikkhūnaṁ bahukāraṁ vadāmi
 
 <div class="english">
 
@@ -3901,7 +3901,7 @@ Dassanam-pāhaṁ bhikkhave tesaṁ bhikkhūnaṁ bahukāraṁ vadāmi
 
 </div>
 
-Savanam-pāhaṁ
+Savanam'p'āhaṁ
 
 <div class="english">
 
@@ -3909,7 +3909,7 @@ Savanam-pāhaṁ
 
 </div>
 
-Upasaṅkamanam-pāhaṁ
+Upasaṅkamanam'p'āhaṁ
 
 <div class="english">
 
@@ -3917,7 +3917,7 @@ Upasaṅkamanam-pāhaṁ
 
 </div>
 
-Payirupāsanam-pāhaṁ
+Payirupāsanam'p'āhaṁ
 
 <div class="english">
 
@@ -3925,7 +3925,7 @@ Payirupāsanam-pāhaṁ
 
 </div>
 
-Anussatim-pāhaṁ
+Anussatim'p'āhaṁ
 
 <div class="english">
 
@@ -3933,7 +3933,7 @@ Anussatim-pāhaṁ
 
 </div>
 
-Anupabbajjam-pāhaṁ
+Anupabbajjam'p'āhaṁ
 
 <div class="english">
 
@@ -4005,7 +4005,7 @@ Taṁ dhammaṁ paññāya pavicinati
 
 </div>
 
-Pavicarati parivīmaṁsam-āpajjati
+Pavicarati parivīmaṁsam'āpajjati
 
 <div class="english">
 
@@ -4021,7 +4021,7 @@ Tassa taṁ dhammaṁ paññāya pavicinato
 
 </div>
 
-Pavicarato parivīmaṁsam-āpajjato
+Pavicarato parivīmaṁsam'āpajjato
 
 <div class="english">
 
@@ -4046,7 +4046,7 @@ Pavicarato parivīmaṁsam-āpajjato
 
 </div>
 
-Pītimanassa kāyopi passambhati
+Pītimanassa kāyo'pi passambhati
 
 <div class="english">
 
@@ -10411,9 +10411,9 @@ suttaRef{[SN 11.3]}
 #+end_src
 
 ** Yaṅ kiñci ratanaṁ loke
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/protective-recitations/yan-kinci-ratanam-loke.md
+#+begin_src markdown :tangle ./manuscript/markdown/recitations/protective-recitations/yan-kinci-ratanam'loke.md
 
-## Yaṅ kiñci ratanaṁ loke<a id="yan-kinci-ratanam-loke"></a>
+## Yaṅ kiñci ratanaṁ loke<a id="yan-kinci-ratanam'loke"></a>
 
 [Yaṅ kiñci ratanaṁ loke] – Vijjati vividhaṁ puthu
 Ratanaṁ buddha-samaṁ n’atthi – Tasmā sotthī bhavantu te
@@ -11610,7 +11610,7 @@ Yamo mittā manussā ca majjhattā verikāpi ca
 Sabbe sattā sukhī hontu puññāni pakatāni me
 Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ
 Iminā puññakammena iminā uddissena ca
-Khippāhaṁ sulabhe ceva taṇhūpādāna-chedanaṁ
+Khipp'āhaṁ sulabhe ceva taṇhūpādāna-chedanaṁ
 Ye santāne hīnā dhammā yāva nibbānato mamaṁ
 Nassantu sabbadā yeva yattha jāto bhave bhave
 Ujucittaṁ satipaññā sallekho viriyamhinā

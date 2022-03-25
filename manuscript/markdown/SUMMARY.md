@@ -86,7 +86,7 @@
   - [Karaṇīya-metta-sutta](recitations/verses/protective-recitations/karaniya-metta-sutta.md)
   - [Khandha-parittaṁ](recitations/verses/protective-recitations/khandha-parittam.md)
   - [Buddha-Dhamma-Saṅgha-guṇā](recitations/verses/protective-recitations/buddha-dhamma-sangha-guna.md)
-  - [Yaṅ kiñci ratanaṁ loke](recitations/verses/protective-recitations/yan-kinci-ratanam-loke.md)
+  - [Yaṅ kiñci ratanaṁ loke](recitations/verses/protective-recitations/yan-kinci-ratanam'loke.md)
   - [Bojjh’aṅga-parittaṁ](recitations/verses/protective-recitations/bojjhana-parittam.md)
   - [Abhaya-parittaṁ](recitations/verses/protective-recitations/abhaya-parittam.md)
   - [Devatā-uyyojana-gāthā](recitations/verses/protective-recitations/devata-uyyojana-gatha.md)

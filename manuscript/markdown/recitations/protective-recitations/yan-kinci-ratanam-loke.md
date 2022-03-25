@@ -1,4 +1,4 @@
-## Yaṅ kiñci ratanaṁ loke<a id="yan-kinci-ratanam-loke"></a>
+## Yaṅ kiñci ratanaṁ loke<a id="yan-kinci-ratanam'loke"></a>
 
 [Yaṅ kiñci ratanaṁ loke] – Vijjati vividhaṁ puthu
 Ratanaṁ buddha-samaṁ n’atthi – Tasmā sotthī bhavantu te
