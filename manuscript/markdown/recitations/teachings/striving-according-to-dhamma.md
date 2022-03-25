@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Striving According to the Dhamma<a id="striving-according-to-dhamma"></a>
 Dhamma-pahaṁsāna
 
@@ -295,5 +294,3 @@ Alam'eva appamādena sampādetun'ti
 </div>
 
 suttaRef{[SN 12.22]}
-=======
->>>>>>> Stashed changes

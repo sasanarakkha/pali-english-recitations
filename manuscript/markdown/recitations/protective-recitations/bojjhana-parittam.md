@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Bojjh'aṅga-parittaṁ<a id="bojjhana-parittam"></a>
 
 [Bojjh’aṅgo sati-saṅkhāto]
@@ -80,5 +79,3 @@ Sotthi te hotu sabbadā
 </div>
 
 suttaRef{[Thai]}
-=======
->>>>>>> Stashed changes

@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## The Buddha's First Exclamation<a id="buddhas-first-exclamation"></a>
 
 Aneka-jāti-saṁsāraṁ – Sandhāvissaṁ anibbisaṁ
@@ -29,5 +28,3 @@ Visaṅkhāra-gataṁ cittaṁ – Taṇhānaṁ khayam'ajjhagā
 </div>
 
 *Dhp 153-154*
-=======
->>>>>>> Stashed changes

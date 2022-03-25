@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Just as Rivers<a id="just-as-rivers"></a>
 Yathā vāri-vahā pūrā
 
@@ -235,5 +234,3 @@ Sadā sotthī bhavantu te
 </div>
 
 suttaRef{[Khp 1.7 / Dhp 109 / Trad]}
-=======
->>>>>>> Stashed changes

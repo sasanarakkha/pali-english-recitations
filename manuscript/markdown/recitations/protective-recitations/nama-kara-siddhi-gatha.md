@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Nama-kāra-siddhi-gāthā<a id="nama-kara-siddhi-gatha"></a>
 
 [Yo cakkhumā] moha-malāpakaṭṭho – Sāmaṁ va buddho sugato vimutto
@@ -65,5 +64,3 @@ Sabb’antarāyā ca vināsamentu
 </div>
 
 suttaRef{[Thai]}
-=======
->>>>>>> Stashed changes

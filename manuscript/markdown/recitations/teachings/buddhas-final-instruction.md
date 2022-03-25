@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## The Buddha's First Exclamation<a id="buddhas-final-instruction"></a>
 Buddha-pacchima-ovāda
 
@@ -72,5 +71,3 @@ Ayaṁ tathāgatassa pacchimā vācā
 </div>
 
 suttaRef{[DN 16]}
-=======
->>>>>>> Stashed changes

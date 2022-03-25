@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## On Protection<a id="protection"></a>
 Tāyana-gāthā
 
@@ -65,5 +64,3 @@ Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti mahapphalan’ti
 </div>
 
 suttaRef{[SN 2.8]}
-=======
->>>>>>> Stashed changes

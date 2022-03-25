@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Devatā-uyyojana-gāthā<a id="devata-uyyojana-gatha"></a>
 
 [Dukkhappattā] ca niddukkhā – Bhayappattā ca nibbhayā
@@ -50,5 +49,3 @@ Arahantānañ'ca tejena – Rakkhaṁ bandhāmi sabbaso
 </div>
 
 suttaRef{[MJG]}
-=======
->>>>>>> Stashed changes

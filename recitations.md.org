@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 #+TITLE: SBS Pāli-English Recitations
 #+AUTHOR: SBS Saṅgha
 #+format: Markdown
@@ -205,7 +204,7 @@
 [Karaṇīya-metta-sutta](#karaniya-metta-sutta)\
 [Khandha-parittaṁ](#khandha-parittam)\
 [Buddha-Dhamma-Saṅgha-guṇā](#buddha-dhamma-sangha-guna)\
-[Yaṅ kiñci ratanaṁ loke](#yan-kinci-ratanam'loke)\
+[Yaṅ kiñci ratanaṁ loke](#yan-kinci-ratanam-loke)\
 [Bojjh’aṅga-parittaṁ](#bojjhana-parittam)\
 [Abhaya-parittaṁ](#abhaya-parittam)\
 [Devatā-uyyojana-gāthā](#devata-uyyojana-gatha)\
@@ -10411,9 +10410,9 @@ suttaRef{[SN 11.3]}
 #+end_src
 
 ** Yaṅ kiñci ratanaṁ loke
-#+begin_src markdown :tangle ./manuscript/markdown/recitations/protective-recitations/yan-kinci-ratanam'loke.md
+#+begin_src markdown :tangle ./manuscript/markdown/recitations/protective-recitations/yan-kinci-ratanam-loke.md
 
-## Yaṅ kiñci ratanaṁ loke<a id="yan-kinci-ratanam'loke"></a>
+## Yaṅ kiñci ratanaṁ loke<a id="yan-kinci-ratanam-loke"></a>
 
 [Yaṅ kiñci ratanaṁ loke] – Vijjati vividhaṁ puthu
 Ratanaṁ buddha-samaṁ n’atthi – Tasmā sotthī bhavantu te

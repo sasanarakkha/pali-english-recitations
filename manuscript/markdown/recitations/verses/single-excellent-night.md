@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## A Single Excellent Night<a id="single-excellent-night"></a>
 Bhadd-eka-ratta
 
@@ -53,5 +52,3 @@ Taṁ ve bhadd’eka-ratto’ti – Santo ācikkhate muni
 </div>
 
 suttaRef{[MN 131]}
-=======
->>>>>>> Stashed changes

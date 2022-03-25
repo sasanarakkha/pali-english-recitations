@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Dhammacakkappavattana-sutta<a id="dhammacakkappavattana-full"></a>
 
 TODO: Shall we seperate and center this?
@@ -98,5 +97,3 @@ Atha kho bhagavā udānaṁ udānesi:
 “Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño”ti. Itihidaṁ āyasmato koṇḍaññassa aññākoṇḍañño tveva nāmaṁ ahosī’ti.
 
 suttaRef{[SN 56.11]}
-=======
->>>>>>> Stashed changes

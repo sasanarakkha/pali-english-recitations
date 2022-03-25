@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ### Undertaking the Three Refuges<a id="three-refuges"></a>
 subsection{Undertaking the Three Refuges}
 
@@ -202,5 +201,3 @@ Therefore let virtue be purified.iv
 Response: Sādhu, sādhu, sādhu
 
 (Bow three times)
-=======
->>>>>>> Stashed changes

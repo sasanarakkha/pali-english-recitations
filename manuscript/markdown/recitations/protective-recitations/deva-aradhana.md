@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Devā-ārādhanā<a id="deva-aradhana"></a>
 
 Pharitvāna mettaṁ samettā bhadantā\
@@ -43,5 +42,3 @@ Saṅgha-payirupāsana-kālo ayam'bhadantā
 </div>
 
 suttaRef{[Thai]}
-=======
->>>>>>> Stashed changes

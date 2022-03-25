@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Anupubba-sikkhā<a id="anupubba-sikkha"></a>
 
 <center>[Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase]</center>
@@ -26,5 +25,3 @@ aṇumattesu vajjesu bhayadassāvī samādāya sikkhassu
 sikkhāpadesū’ti.
 [MN 107]
 So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno
-=======
->>>>>>> Stashed changes

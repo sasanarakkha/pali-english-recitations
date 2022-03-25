@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## From the Elder Raṭṭhapāla<a id="ratthapala"></a>
 Raṭṭhapāla-thera-gāthā
 
@@ -149,5 +148,3 @@ Apaṇṇakaṁ sāmaññam'eva seyyo
 </div>
 
 suttaRef{[Thag 16.4 / MN 82]}
-=======
->>>>>>> Stashed changes

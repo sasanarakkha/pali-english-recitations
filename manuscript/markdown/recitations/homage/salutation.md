@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Salutation to the Triple Gem<a id="salutation"></a>
 
 > [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañ'ca bhaṇāmase]
@@ -468,5 +467,3 @@ Taṁ no brahmacariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁ
 > May this holy life  ̓  lead us to the end of this whole mass of suffering
 
 </div>
-=======
->>>>>>> Stashed changes

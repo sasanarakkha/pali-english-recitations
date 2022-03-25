@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Abhaya-parittaṁ<a id="abhaya-parittam"></a>
 
 [Yan-dunnimittaṁ] avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
@@ -38,5 +37,3 @@ Pāpaggaho dussupinaṁ akantaṁ – Saṅghānubhāvena vināsamentu
 </div>
 
 suttaRef{[Trad]}
-=======
->>>>>>> Stashed changes

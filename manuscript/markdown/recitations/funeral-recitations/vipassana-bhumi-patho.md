@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Vipassanā-bhūmi-pāṭho<a id="vipassana-bhumi-patho"></a>
 
 [Pañcakkhandhā]:
@@ -150,5 +149,3 @@ Evam'etassa kevalassa dukkhakkhandhassa nirodho hoti.
 </div>
 
 suttaRef{[SN 12.1]}
-=======
->>>>>>> Stashed changes

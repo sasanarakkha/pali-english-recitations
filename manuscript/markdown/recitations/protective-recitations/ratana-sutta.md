@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Ratana-sutta<a id="ratana-sutta"></a>
 
 [Yānīdha] bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
@@ -277,5 +276,3 @@ Tathāgataṁ deva-manussa-pūjitaṁ – Saṅghaṁ namassāma suvatthi hotu
 
 
 suttaRef{[Snp 2.1]}
-=======
->>>>>>> Stashed changes

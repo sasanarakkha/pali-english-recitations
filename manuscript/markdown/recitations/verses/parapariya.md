@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## From the Elder Pārāpariya<a id="parapariya"></a>
 Pārāpariya-thera-gāthā
 
@@ -113,5 +112,3 @@ Kiñc'āpi pacchimo kālo – Phuseyya amataṁ padaṁ
 </div>
 
 suttaRef{[Thag 16.10]}
-=======
->>>>>>> Stashed changes
