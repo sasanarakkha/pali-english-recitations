@@ -10088,7 +10088,11 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \begin{pali-hang-continued}
   Varo varaññū vara-do var'āharo\\
   Anuttaro dhamma-varaṁ adesayi\\
+<<<<<<< HEAD
   Idam-pi buddhe ratanaṁ paṇītaṁ\\
+=======
+  Idam'pi buddhe ratanaṁ paṇītaṁ\\
+>>>>>>> fbff2bd (update)
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
 
