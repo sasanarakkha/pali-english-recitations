@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Setting in Motion the Wheel of Dhamma<a id="wheel-of-dhamma-abridged"></a>
 Dhamma-cakkappavattana
 
@@ -838,3 +839,5 @@ N’atthidāni punabbhavo’ti
 </div>
 
 suttaRef{[SN 56.11]}
+=======
+>>>>>>> Stashed changes
