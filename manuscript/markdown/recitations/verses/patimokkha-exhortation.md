@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## The Pāṭimokkha Exhortation<a id="patimokkha-exhortation"></a>
 Ovāda-pāṭimokkha-gāthā
 
@@ -116,3 +117,5 @@ Etaṁ buddhāna sāsanaṁ
 </div>
 
 suttaRef{[Dhp 183-185]}
+=======
+>>>>>>> Stashed changes
