@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Respect for the Dhamma<a id="respect-for-the-dhamma"></a>
 Dhamma-gārava
 
@@ -68,3 +69,5 @@ Na duggatiṁ gacchati dhamma-cārī
 </div>
 
 \suttaRef{[Thag 4.10]}
+=======
+>>>>>>> Stashed changes
