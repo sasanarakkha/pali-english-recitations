@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Homage to the Buddha<a id="homage-buddha"></a>
 
 > [Handa mayaṃ buddhābhitthutiṃ karomase]
@@ -105,3 +106,5 @@ Tam'ahaṁ bhagavantaṁ abhipūjayāmi tam'ahaṁ bhagavantaṁ sirasā namāmi
 > I bow my head to the Blessed One (Bow)
 
 </div>
+=======
+>>>>>>> Stashed changes
