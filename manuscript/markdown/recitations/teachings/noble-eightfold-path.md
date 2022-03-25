@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## The Noble Eightfold Path<a id="noble-eightfold-path"></a>
 Ariy’aṭṭhaṅgika-magga
 
@@ -656,3 +657,5 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 </div>
 
 suttaRef{[SN 45.8]}
+=======
+>>>>>>> Stashed changes
