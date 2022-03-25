@@ -326,6 +326,8 @@
 
 % Color used for links and headers
 \definecolor{sbs-brown}{HTML}{60291F}
+% Color used for subtitle
+\definecolor{sbs-brown2}{HTML}{573005}
 % Color used for dividers
 \definecolor{sbs-gold}{HTML}{aa6a1f}
 
@@ -1371,7 +1373,7 @@ philo-sophical munindo amaravati thai-land}
     {%
       \centering%
       {\chapnumfont\color{chapternum}\bfseries\scshape}%
-      \chaptitlefont\color{sbs-brown}%
+      \chaptitlefont%
       \vspace*{12pt}%
       \par
       \textbf{\textsc{\textls*{##1}}}%
@@ -1388,7 +1390,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering%
-      \chaptitlefont\color{sbs-brown}%
+      \chaptitlefont%
       \textbf{\textsc{\textls*{##1}}}%
       \par%
     }%
@@ -1401,7 +1403,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering%
-      \chaptitlefont\color{sbs-brown}%
+      \chaptitlefont%
       \textbf{\textsc{\textls*{##1}}}%
       \label{contents}%
       \par%
@@ -1415,8 +1417,8 @@ philo-sophical munindo amaravati thai-land}
   \photoFullBleed{\thechaptergraphics}%
     {%
       \centering%
-      {\chapnumfont\fontsize{10}{10}\selectfont\color{sbs-brown}\textls*{Appendix}}%
-      \chaptitlefont\fontsize{13}{18}\selectfont\color{sbs-brown}%
+      {\chapnumfont\fontsize{10}{10}\selectfont\textls*{Appendix}}%
+      \chaptitlefont\fontsize{13}{18}\selectfont%
       \vspace*{12pt}%
       \par
       \textbf{\textsc{\textls*{##1}}}%
@@ -1488,7 +1490,6 @@ philo-sophical munindo amaravati thai-land}
   % \begin{minipage}{\linewidth}%
     \centering%
     \sectionFont\fontsize{15}{15}\selectfont%
-    \color{sbs-brown}%
     % \setlength{\parskip}{2pt}%
     %
     % Top rule
@@ -1548,7 +1549,7 @@ philo-sophical munindo amaravati thai-land}
       \parbox{\linewidth}{%
         \centering%
         % font size for paliTitle
-        \color{sbs-brown}
+        \color{black}
         \fontsize{12}{14}\selectfont
         \@secSubTitle%
         \sectionPaliTitleClear%
@@ -1565,6 +1566,12 @@ philo-sophical munindo amaravati thai-land}
         \vspace*{-4pt}%
         \par%
       }{}%
+      % If there is no subtitle, and the title is more than a single line, adjust the spacing.
+      \ifdimcomp{\sectionTitleLength}{>}{\linewidth}{%
+        \vspace*{-0.5\baselineskip}%
+        % \vspace*{-2pt}%
+        \par%
+      }{}%
     \fi%
     %
     % Bottom rule
@@ -1573,7 +1580,7 @@ philo-sophical munindo amaravati thai-land}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
   \begin{minipage}{\linewidth}%
     \centering%
-    \pgfornament[color=sbs-gold,width=7cm,scale=1,ydelta=8pt,symmetry=c]{88}%
+    \pgfornament[color=black,width=7cm,scale=1,ydelta=16pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
   % Starting at the title hyperref above
@@ -1582,7 +1589,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\subsectionFmt[1]{%
   {%
     \subSectionFont\fontsize{14}{18}\selectfont%
-    \scshape\bfseries\color{sbs-brown}%
+    \scshape\bfseries%
     \centering
     % \vspace*{-7.2pt}% what is the needed for? commented removes gap in anumodana-paritta section
     #1%
@@ -1592,7 +1599,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\subsubsectionFmt[1]{%
   {%
     \subSectionFont\fontsize{11}{17}\selectfont%
-    \itshape\color{sbs-brown}%
+    \itshape%
     \memRTLraggedright%
     \prul{#1}%
   }%

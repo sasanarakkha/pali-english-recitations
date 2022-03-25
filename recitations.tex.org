@@ -114,7 +114,7 @@ u#+TITLE: SBS Pāli-English Recitations
   - [[#the-highest-honour-and-aspirations][The Highest Honour and Aspirations]]
 - [[#appendix][Appendix]]
   - [[#covertitle-9][Cover/Title]]
-  - [[#undertaking-the-refuges--trainings][Undertaking the Refuges & Trainings]]
+  - [[#undertaking-the-refuges][Undertaking the Refuges]]
   - [[#pāli-phonetics-and-pronunciation][Pāli Phonetics and Pronunciation]]
   - [[#chanting-leader-guidelines][Chanting Leader Guidelines]]
 
@@ -126,8 +126,7 @@ u#+TITLE: SBS Pāli-English Recitations
 
 {\centering
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 1}}}}\\
-  \pdfbookmark[2]{Set 1}{set1}
+  {\pdfbookmark[2]{Set 1}{set1}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 1}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[buddhas-first-exclamation]{The Buddha's First Exclamation} \ifdesktopversion\else\pageref{buddhas-first-exclamation}\fi\\
@@ -142,8 +141,7 @@ u#+TITLE: SBS Pāli-English Recitations
 
   \vspace{1.0cm}
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 2}}}}\\
-  \pdfbookmark[2]{Set 2}{set2}
+  {\pdfbookmark[2]{Set 2}{set2}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 2}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[characteristic-of-not-self]{The Discourse on the Characteristic of Not-Self} \ifdesktopversion\else\pageref{characteristic-of-not-self}\fi\\
@@ -155,8 +153,7 @@ u#+TITLE: SBS Pāli-English Recitations
 
   \clearpage
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 3}}}}\\
-  \pdfbookmark[2]{Set 3}{set3}
+  {\pdfbookmark[2]{Set 3}{set3}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 3}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[noble-eightfold-path]{The Noble Eightfold Path} \ifdesktopversion\else\pageref{noble-eightfold-path}\fi\\
@@ -170,8 +167,7 @@ u#+TITLE: SBS Pāli-English Recitations
 
   \vspace{1.0cm}
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 4}}}}\\
-  \pdfbookmark[2]{Set 4}{set4}
+  {\pdfbookmark[2]{Set 4}{set4}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 4}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[dedication-of-offerings]{Homage to the Triple Gem} \ifdesktopversion\else\pageref{dedication-of-offerings}\fi\\
@@ -185,8 +181,7 @@ u#+TITLE: SBS Pāli-English Recitations
 
   \clearpage
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 5}}}}\\
-  \pdfbookmark[2]{Set 5}{set5}
+  {\pdfbookmark[2]{Set 5}{set5}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 5}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing} \ifdesktopversion\else\pageref{mindfulness-of-breathing}\fi\\
@@ -202,22 +197,20 @@ u#+TITLE: SBS Pāli-English Recitations
 
   \vspace{1.0cm}
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 6}}}}\\
-  \pdfbookmark[2]{Set 6}{set6}
+  {\pdfbookmark[2]{Set 6}{set6}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 6}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[anatta-lakkhana]{Anatta-lakkhaṇa Sutta} \ifdesktopversion\else\pageref{anatta-lakkhana}\fi\\
     \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma} \ifdesktopversion\else\pageref{striving-according-to-dhamma}\fi\\
     \hyperref[divine-abidings]{The Divine Abidings} \ifdesktopversion\else\pageref{divine-abidings}\fi\\
     \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ \vspace{-0.4cm} by One Gone Forth} \ifdesktopversion\else\pageref{ten-reflections}\fi\\
-    \hyperref[sharing-aspirations]{Sharing and Aspiraions} \ifdesktopversion\else\pageref{sharing-aspirations}\fi\\
+    \hyperref[sharing-aspirations]{Sharing and Aspirations} \ifdesktopversion\else\pageref{sharing-aspirations}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }
 
   \clearpage
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 7}}}}\\
-  \pdfbookmark[2]{Set 7}{set7}
+  {\pdfbookmark[2]{Set 7}{set7}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 7}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[dependent-origination]{Dependent Origination} \ifdesktopversion\else\pageref{dependent-origination}\fi\\
@@ -228,8 +221,7 @@ u#+TITLE: SBS Pāli-English Recitations
 
   \vspace{1.0cm}
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 8}}}}\\
-  \pdfbookmark[2]{Set 8}{set8}
+  {\pdfbookmark[2]{Set 8}{set8}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 8}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[aditta-pariyaya]{Āditta-Pariyāya Sutta} \ifdesktopversion\else\pageref{aditta-pariyaya}\fi\\
@@ -245,8 +237,7 @@ u#+TITLE: SBS Pāli-English Recitations
 
   \clearpage
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 9}}}}\\
-  \pdfbookmark[2]{Set 9}{set9}
+  {\pdfbookmark[2]{Set 9}{set9}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 9}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[deva-aradhana]{Protective Recitations (Pāli)} \ifdesktopversion\else\pageref{deva-aradhana}\fi\\
@@ -257,8 +248,7 @@ u#+TITLE: SBS Pāli-English Recitations
 
   \vspace{1.0cm}
 
-  {\libertinusFont\selectfont\textbf{\color{sbs-brown}\textsc{\fontsize{18}{12}\selectfont\textls*{Set 10}}}}\\
-  \pdfbookmark[2]{Set 10}{set10}
+  {\pdfbookmark[2]{Set 10}{set10}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 10}}}}\\
 
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[pubba-bhaga-nama-kara-patho]{Funeral Recitations (Pāli)} \ifdesktopversion\else\pageref{pubba-bhaga-nama-kara-patho}\fi\\
@@ -7765,7 +7755,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+  Ayaṁ kho sā bhikkhave majjhimā paṭipadā
+\end{pali-hang}
+
+\begin{pali-hang}
+  Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7773,7 +7767,19 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
+<<<<<<< HEAD
   Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tam'pi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
+=======
+  Jāti'pi dukkhā
+\end{pali-hang}
+
+\begin{pali-hang}
+  Jarā'pi dukkhā byādhi'pi dukkho
+\end{pali-hang}
+
+\begin{pali-hang}
+  Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanassupāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandā dukkhā.
+>>>>>>> b4e8549 (update)
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -10168,7 +10174,11 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   \anglebracketleft\ \hspace{-0.5mm}Karaṇīya m-attha-kusalena \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
+<<<<<<< HEAD
   Yan-taṁ santaṁ padaṁ abhisamecca\\
+=======
+  Yan'taṁ santaṁ padaṁ abhisamecca\\
+>>>>>>> b4e8549 (update)
   Sakko ujū ca suhujū ca\\
   Suvaco c'assa mudu anatimānī
 \end{pali-hangtogether}
@@ -10706,7 +10716,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \label{abhaya-parittam}
 
 \begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ avamaṅgalañ-ca \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ avamaṅgalañ'ca \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
   Yo cāmanāpo sakuṇassa saddo\\
@@ -10838,7 +10848,11 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
+<<<<<<< HEAD
   Sahassam-abhinimmita sāvudhan-taṁ\\
+=======
+  Sahassam-abhinimmita sāvudhan'taṁ\\
+>>>>>>> b4e8549 (update)
   Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
 \linkdest{endnote129-body}
   Dān'ādi-dhamma-vidhinā jitavā\makeatletter\hyperlink{endnote129-appendix}\Hy@raisedlink{\hypertarget{endnote129-body}{}{\pagenote{%
@@ -11664,7 +11678,11 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \begin{pali-hangtogether}
   Ñāti-mittā sakhā ca me\\
   Petānaṁ dakkhiṇaṁ dajjā\\
+<<<<<<< HEAD
   Pubbe katam-anussaraṁ
+=======
+  Pubbe katam'anussaraṁ
+>>>>>>> b4e8549 (update)
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -12040,7 +12058,7 @@ Khemappadañ'ca pappontu tesāsā sijjhataṁ subhā
   \anglebracketleft\ \hspace{-0.5mm}Idaṁ me ñātinaṁ hotu \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-% \vspace{-0.99em}
+\vspace{-0.99em}
 
 Sukhitā hontu ñātayo\\
 Idaṁ no ñātinaṁ hotu sukhitā hontu ñātayo\\
@@ -12066,7 +12084,7 @@ Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 \label{sharing-merits-devas}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Ettāvatā ca amhehi \hspace{-0.5mm}\anglebracketright\ \\
+  \anglebracketleft\ \hspace{-0.5mm}Ettāvatā ca amhehi \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
@@ -12260,24 +12278,22 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 \chapterOpeningPage{appendix.jpg}
 \fi
 
-\addtocontents{toc}{\protect\pagebreak}
+\addtocontents{toc}{\protect\clearpage}
 \chapter{Appendix}
 
 \clearpage
 
 #+end_src
 
-** Undertaking the Refuges & Trainings
+** Undertaking the Refuges
 *** Undertaking the Three Refuges
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 
-\section{Undertaking the Refuges and Trainings}
-
-\vspace{1em}
+\section{The Refuges and Trainings}
 
 \linkdest{endnote138-body}
 \begin{center}
-  \textbf{\color{sbs-brown}{\textsc{Undertaking the Three Refuges}}}\makeatletter\hyperlink{endnote138-appendix}\Hy@raisedlink{\hypertarget{endnote138-body}{}{\pagenote{%
+  \textbf{\textsc{Undertaking the Three Refuges}}\makeatletter\hyperlink{endnote138-appendix}\Hy@raisedlink{\hypertarget{endnote138-body}{}{\pagenote{%
         \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi'' three times which translates to ``I, Venerable Sir, request the Three Refuges and the Five/Eight Precepts'' before ``Namo tassa...''.}}}}}\makeatother
 \end{center}
 
@@ -12343,7 +12359,7 @@ Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 
 \begin{center}
-  \textbf{\color{sbs-brown}{\textsc{Undertaking the Five Trainings}}}
+  \textbf{\textsc{Undertaking the Five Trainings}}
 \end{center}
 
 \begin{center}
@@ -12415,7 +12431,7 @@ Sādhu sādhu sādhu
 #+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
 
 \begin{center}
-  \textbf{\color{sbs-brown}{\textsc{Undertaking the Eight Trainings}}}
+  \textbf{\textsc{Undertaking the Eight Trainings}}
 \end{center}
 
 \begin{center}
@@ -12556,7 +12572,7 @@ Sādhu sādhu sādhu
 \medskip
 
 \begin{center}
-  \textbf{\color{sbs-brown}{\fontsize{14}{18}\textsc{Vowels}}}
+  \textbf{\fontsize{14}{18}\textsc{Vowels}}
 \end{center}
 
 \begin{table}[H]
