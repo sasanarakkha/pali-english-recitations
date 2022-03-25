@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Going to True and False Refuges<a id="true-false-refuges"></a>
 Khem'ākhema-saraṇa-gamana
 
@@ -62,3 +63,5 @@ Etaṁ saraṇam'āgamma – Sabba-dukkhā pamuccatī'ti.
 </div>
 
 suttaRef{[Dhp 188-192]}
+=======
+>>>>>>> Stashed changes
