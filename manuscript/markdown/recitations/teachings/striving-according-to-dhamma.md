@@ -217,7 +217,7 @@ Saphalā sa-udrayā
 
 Yesaṁ mayaṁ paribhuñjāma
 Cīvara-piṇḍapāta
-Senāsana-gilānappaccaya bhesajja-parikkhāraṁ
+Sen'āsana-gilānappaccaya bhesajja-parikkhāraṁ
 Tesaṁ te kārā amhesu
 
 <div class="english">

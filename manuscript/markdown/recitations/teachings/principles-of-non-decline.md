@@ -203,7 +203,7 @@ Yāvakīvañca bhikkhave bhikkhū
 
 </div>
 
-Āraññakesu senāsanesu sāpekkhā bhavissanti
+Āraññakesu sen'āsanesu sāpekkhā bhavissanti
 
 <div class="english">
 

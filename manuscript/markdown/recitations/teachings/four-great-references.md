@@ -180,7 +180,7 @@ Tassa bhikkhave bhikkhuno bhāsitaṁ
 
 </div>
 
-Neva abhinanditabbaṁ nappaṭikkositabbaṁ
+N'eva abhinanditabbaṁ nappaṭikkositabbaṁ
 
 <div class="english">
 

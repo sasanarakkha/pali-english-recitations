@@ -5,7 +5,7 @@
 
 Sabbaṁ bhikkhave ādittaṁ!
 
-Kiñca bhikkhave sabbaṁ ādittaṁ?
+Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 Cakkhuṁ bhikkhave ādittaṁ  ̓  rūpā ādittā  ̓  cakkhuviññāṇaṁ ādittaṁ  ̓  cakkhusamphasso āditto  ̓  yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tam pi ādittaṁ.
 
@@ -62,7 +62,7 @@ Manasmimpi nibbindati  ̓  dhammesu pi nibbindati  ̓  manoviññāṇe pi nibbi
 
 Nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ ‘Vimuttam’ iti ñāṇaṁ hoti:
 
-‘Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā’ti pajānātī’ti.
+‘Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā’ti pajānātī’ti.
 
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū’ti.
 

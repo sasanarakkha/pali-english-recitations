@@ -6,10 +6,10 @@ Cattaro parrikhārā
 \end{leader}
 
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\\
-Yāvadeva sītassa paṭighātāya\\
+Yāva'd'eva sītassa paṭighātāya\\
 Uṇhassa paṭighātāya\\
 Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya\\
-Yāvadeva hirikopina-paṭicchādanatthaṁ
+Yāva'd'eva hirikopina-paṭicchādanatthaṁ
 
 \begin{english-keepwith}
   Wisely reflecting \breathmark\ I use the robe
@@ -20,11 +20,11 @@ Yāvadeva hirikopina-paṭicchādanatthaṁ
 \end{english-keepwith}
 
 Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevāmi\\
-Neva davāya na madāya na maṇḍanāya na vibhūsanāya\\
-Yāvadeva imassa kāyassa ṭhitiyā yāpanāya\\
-Vihiṁsūparatiyā brahmacariyānuggahāya\\
-Iti purāṇañca vedanaṁ paṭihaṅkhāmi\\
-Navañca vedanaṁ na uppādessāmi\\
+N'eva davāya na madāya na maṇḍanāya na vibhūsanāya\\
+Yāva'd'eva imassa kāyassa ṭhitiyā yāpanāya\\
+vihiṁs'ūparatiyā brahmacariy'ānuggahāya\\
+Iti purāṇañ'ca vedanaṁ paṭihaṅkhāmi\\
+navañ'ca vedanaṁ na uppādessāmi\\
 Yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti
 
 \begin{english-keepwith}
@@ -38,11 +38,11 @@ Yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti
   So that I may continue to live blamelessly and at ease''
 \end{english-keepwith}
 
-Paṭisaṅkhā yoniso senāsanaṁ paṭisevāmi\\
-Yāvadeva sītassa paṭighātāya\\
+Paṭisaṅkhā yoniso sen'āsanaṁ paṭisevāmi\\
+Yāva'd'eva sītassa paṭighātāya\\
 Uṇhassa paṭighātāya\\
 Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya\\
-Yāvadeva utuparissaya-vinodanaṁ paṭisallānārāmatthaṁ
+Yāva'd'eva utuparissaya-vinodanaṁ paṭisallānārāmatthaṁ
 
 \begin{english-keepwith}
   Wisely reflecting \breathmark\ I use the lodging
@@ -55,7 +55,7 @@ Yāvadeva utuparissaya-vinodanaṁ paṭisallānārāmatthaṁ
 \end{english-keepwith}
 
 Paṭisaṅkhā yoniso gilāna-paccaya-bhesajja-parikkhāraṁ paṭisevāmi\\
-Yāvadeva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya\\
+Yāva'd'eva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya\\
 Abyāpajjha-paramatāyā'ti
 
 \begin{english-verses}
