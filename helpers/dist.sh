@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-DOT_GIT_DIR="../bhikkhu-manual.github.io-dot-git"
+DOT_GIT_DIR="../sasanarakkha-recitations-book.github.io-dot-git"
 
 if [ ! -d "$DOT_GIT_DIR" -o ! -f "$DOT_GIT_DIR/config" ]; then
     echo "Create the HTML repo .git folder as $DOT_GIT_DIR."

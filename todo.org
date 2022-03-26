@@ -110,9 +110,11 @@
 CLOSED: [2022-03-03 Thu 19:52]
 
 * Markdown
+** TODO look at fixme
 ** TODO adding additional styles
 - hang indent
 ** TODO 3 times
 ** TODO links not working
 ** TODO bottom nav
 ** TODO breathmark
+** TODO ideal workflow for multiple contributors
