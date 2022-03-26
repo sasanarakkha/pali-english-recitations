@@ -1,7 +1,7 @@
 ## Dependent Origination<a id="dependent-origination"></a>
-Paṭicca samuppāda
+Paṭicca-samuppāda
 
-> [Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ bhaṇāmase]
+> [Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase]
 
 > [Now let us recite the Analysis of Dependent Origination]
 
@@ -29,7 +29,7 @@ Viññāṇa-paccayā nāmarūpaṁ
 
 </div>
 
-Nāmarūpa-paccayā saḷāyatanaṁ
+Nāmarūpa-paccayā saḷ'āyatanaṁ
 
 <div class="english">
 
@@ -37,7 +37,7 @@ Nāmarūpa-paccayā saḷāyatanaṁ
 
 </div>
 
-Saḷāyatana-paccayā phasso
+Saḷ'āyatana-paccayā phasso
 
 <div class="english">
 
@@ -348,7 +348,7 @@ Idaṁ vuccati viññāṇa-paccayā nāmarūpaṁ
 
 </div>
 
-Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
+Tattha katamaṁ nāmarūpa-paccayā saḷ'āyatanaṁ
 
 <div class="english">
 
@@ -364,7 +364,7 @@ Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ
 
 </div>
 
-Idaṁ vuccati nāmarūpa-paccayā saḷāyatanaṁ
+Idaṁ vuccati nāmarūpa-paccayā saḷ'āyatanaṁ
 
 <div class="english">
 
@@ -372,7 +372,7 @@ Idaṁ vuccati nāmarūpa-paccayā saḷāyatanaṁ
 
 </div>
 
-Tattha katamo saḷāyatana-paccayā phasso
+Tattha katamo saḷ'āyatana-paccayā phasso
 
 <div class="english">
 
@@ -388,7 +388,7 @@ Cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso man
 
 </div>
 
-Ayaṁ vuccati saḷāyatana-paccayā phasso
+Ayaṁ vuccati saḷ'āyatana-paccayā phasso
 
 <div class="english">
 

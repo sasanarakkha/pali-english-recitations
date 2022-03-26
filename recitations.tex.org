@@ -4761,13 +4761,13 @@ Mahapphalā hoti mahānisaṁsā
 ** Dependent Origination
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
 
-\sectionPaliTitle{Paṭicca samuppāda}
+\sectionPaliTitle{Paṭicca-samuppāda}
 \section{Dependent Origination}
 \label{dependent-origination}
 
 \linkdest{endnote71-body}
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ paṭicca samuppāda-vibhaṅgaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 \begin{leader-english-belowpali}
   \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Analysis of Dependent Origination\makeatletter\hyperlink{endnote71-appendix}\Hy@raisedlink{\hypertarget{endnote71-body}{}{\pagenote{%
@@ -4800,13 +4800,13 @@ Viññāṇa-paccayā nāmarūpaṁ
         \hypertarget{endnote74-appendix}{\hyperlink{endnote74-body}{In the context of dependent origination, the compound ``\textit{nāmarūpa}'' is translated as ``mind-and-body'' in order to cover the entirety of what is conventionally called ``a being, a person''. In other contexts, particularly if used separately, these terms may have other connotations.}}}}}\makeatother
 \end{english}
 
-Nāmarūpa-paccayā saḷāyatanaṁ
+Nāmarūpa-paccayā saḷ'āyatanaṁ
 
 \begin{english}
   From name-and-form as a condition arises the sixfold-sense-base
 \end{english}
 
-Saḷāyatana-paccayā phasso
+Saḷ'āyatana-paccayā phasso
 
 \begin{english}
   From the sixfold-sense-base as a condition arises contact
@@ -5067,7 +5067,7 @@ Idaṁ vuccati viññāṇa-paccayā nāmarūpaṁ
   This is called `name-and-form' \breathmark\ arising from consciousness as a condition
 \end{english-hang}
 
-Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
+Tattha katamaṁ nāmarūpa-paccayā saḷ'āyatanaṁ
 
 \begin{english-hang}
   Therein what is `the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition?
@@ -5081,13 +5081,13 @@ Tattha katamaṁ nāmarūpa-paccayā saḷāyatanaṁ
   The eye-base ear-base nose-base tongue-base body-base mind-base
 \end{english-hang}
 
-Idaṁ vuccati nāmarūpa-paccayā saḷāyatanaṁ
+Idaṁ vuccati nāmarūpa-paccayā saḷ'āyatanaṁ
 
 \begin{english-hang}
   This is called `the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition
 \end{english-hang}
 
-Tattha katamo saḷāyatana-paccayā phasso
+Tattha katamo saḷ'āyatana-paccayā phasso
 
 \begin{english-hang}
   Therein what is `contact' \breathmark\ arising from the sixfold-sense-base as a condition?
@@ -5101,7 +5101,7 @@ Tattha katamo saḷāyatana-paccayā phasso
   Eye-contact ear-contact nose-contact tongue-contact body-contact mind-contact
 \end{english-hang}
 
-Ayaṁ vuccati saḷāyatana-paccayā phasso
+Ayaṁ vuccati saḷ'āyatana-paccayā phasso
 
 \begin{english-hang}
   This is called `contact' \breathmark\ arising from the sixfold-sense-base as a condition
@@ -11423,8 +11423,8 @@ TODO G correct way to git merge
   Avijjā-paccayā saṅkhārā\\
   Saṅkhāra-paccayā viññāṇaṁ\\
   Viññāṇa-paccayā nāma-rūpaṁ\\
-  Nāma-rūpa-paccayā saḷāyatanaṁ\\
-  Saḷāyatana-paccayā phasso\\
+  Nāma-rūpa-paccayā saḷ'āyatanaṁ\\
+  Saḷ'āyatana-paccayā phasso\\
   Phassa-paccayā vedanā\\
   Vedanā-paccayā taṇhā\\
   Taṇhā-paccayā upādānaṁ\\
@@ -11461,8 +11461,8 @@ TODO G correct way to git merge
   Avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho\\
   Saṅkhāra-nirodhā viññāṇa-nirodho\\
   Viññāṇa-nirodhā nāma-rūpa-nirodho\\
-  Nāma-rūpa-nirodhā saḷāyatana-nirodho\\
-  Saḷāyatana-nirodhā phassa-nirodho\\
+  Nāma-rūpa-nirodhā saḷ'āyatana-nirodho\\
+  Saḷ'āyatana-nirodhā phassa-nirodho\\
   Phassa-nirodhā vedanā-nirodho\\
   Vedanā-nirodhā taṇhā-nirodho\\
   Taṇhā-nirodhā upādāna-nirodho\\
