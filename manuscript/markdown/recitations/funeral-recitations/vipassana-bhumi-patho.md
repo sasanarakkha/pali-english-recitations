@@ -14,12 +14,12 @@ viññāṇakkhandho.
 suttaRef{[MN 109]}
 
 Dvā-das’āyatanāni:
-Cakkhv-āyatanaṁ rūp’āyatanaṁ,
-Sot’āyatanaṁ sadd’āyatanaṁ,
-Ghān’āyatanaṁ gandh’āyatanaṁ,
-Jivh’āyatanaṁ ras’āyatanaṁ,
-Kāy’āyatanaṁ phoṭṭhabb’āyatanaṁ,
-Man’āyatanaṁ dhamm’āyatanaṁ
+Cakkhv-'āyatanaṁ rūp’'āyatanaṁ,
+Sot’'āyatanaṁ sadd’'āyatanaṁ,
+Ghān’'āyatanaṁ gandh’'āyatanaṁ,
+Jivh’'āyatanaṁ ras’'āyatanaṁ,
+Kāy’'āyatanaṁ phoṭṭhabb’'āyatanaṁ,
+Man’'āyatanaṁ dhamm’'āyatanaṁ
 
 <div class="english">
 

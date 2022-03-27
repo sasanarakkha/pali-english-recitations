@@ -94,7 +94,7 @@ Jāti-paccayā jarāmaraṇaṁ soka parideva dukkha domanssupāyāsā sambhavan
 
 </div>
 
-Evametassa kevalassa dukkhakkhandhassa samudayo hoti
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hoti
 
 <div class="english">
 
@@ -134,7 +134,7 @@ Tattha katame avijjā-paccayā saṅkhārā
 
 </div>
 
-Puññābhisaṅkhāro apuññābhisaṅkhāro āneñjābhisaṅkhāro
+Puññ'ābhisaṅkhāro apuññ'ābhisaṅkhāro āneñj'ābhisaṅkhāro
 Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
 
 <div class="english">
@@ -146,7 +146,7 @@ Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
 
 </div>
 
-Tattha katamo puññābhisaṅkhāro
+Tattha katamo puññ'ābhisaṅkhāro
 
 <div class="english">
 
@@ -154,7 +154,7 @@ Tattha katamo puññābhisaṅkhāro
 
 </div>
 
-Kusalā cetanā kāmāvacarā rūpāvacarā dānamayā sīlamayā bhāvanāmayā
+Kusalā cetanā kām'āvacarā rūp'āvacarā dānamayā sīlamayā bhāvanāmayā
 
 <div class="english">
 
@@ -162,7 +162,7 @@ Kusalā cetanā kāmāvacarā rūpāvacarā dānamayā sīlamayā bhāvanāmayā
 
 </div>
 
-Ayaṁ vuccati puññābhisaṅkhāro
+Ayaṁ vuccati puññ'ābhisaṅkhāro
 
 <div class="english">
 
@@ -170,7 +170,7 @@ Ayaṁ vuccati puññābhisaṅkhāro
 
 </div>
 
-Tattha katamo apuññābhisaṅkhāro
+Tattha katamo apuññ'ābhisaṅkhāro
 
 <div class="english">
 
@@ -178,7 +178,7 @@ Tattha katamo apuññābhisaṅkhāro
 
 </div>
 
-Akusalā cetanā kāmāvacarā
+Akusalā cetanā kām'āvacarā
 
 <div class="english">
 
@@ -186,7 +186,7 @@ Akusalā cetanā kāmāvacarā
 
 </div>
 
-Ayaṁ vuccati apuññābhisaṅkhāro
+Ayaṁ vuccati apuññ'ābhisaṅkhāro
 
 <div class="english">
 
@@ -194,7 +194,7 @@ Ayaṁ vuccati apuññābhisaṅkhāro
 
 </div>
 
-Tattha katamo āneñjābhisaṅkhāro
+Tattha katamo āneñj'ābhisaṅkhāro
 
 <div class="english">
 
@@ -202,7 +202,7 @@ Tattha katamo āneñjābhisaṅkhāro
 
 </div>
 
-Kusalā cetanā arūpāvacarā
+Kusalā cetanā arūp'āvacarā
 
 <div class="english">
 
@@ -210,7 +210,7 @@ Kusalā cetanā arūpāvacarā
 
 </div>
 
-Ayaṁ vuccati āneñjābhisaṅkhāro
+Ayaṁ vuccati āneñj'ābhisaṅkhāro
 
 <div class="english">
 
@@ -332,7 +332,7 @@ Idaṁ vuccati rūpaṁ
 
 </div>
 
-Iti idañca nāmaṁ idañca rūpaṁ
+Iti idañ'ca nāmaṁ idañ'ca rūpaṁ
 
 <div class="english">
 
@@ -356,7 +356,7 @@ Tattha katamaṁ nāmarūpa-paccayā saḷ'āyatanaṁ
 
 </div>
 
-Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ
+Cakkh'āyatanaṁ sot'āyatanaṁ ghān'āyatanaṁ jivh'āyatanaṁ kāy'āyatanaṁ man'āyatanaṁ
 
 <div class="english">
 
@@ -453,7 +453,7 @@ Tattha katamaṁ taṇhā-paccayā upādānaṁ
 
 </div>
 
-Kāmupādānaṁ diṭṭhupādānaṁ sīlabbatupādānaṁ attavādupādānaṁ
+Kām'upādānaṁ diṭṭh'upādānaṁ sīlabbat'upādānaṁ attavād'upādānaṁ
 
 <div class="english">
 
@@ -533,7 +533,7 @@ Tattha katamo soko
 
 </div>
 
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa  ̓  soko socanā socitattaṁ  ̓  antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
+Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa  ̓  soko socanā socitattaṁ  ̓  antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
 
 <div class="english">
 
@@ -557,7 +557,7 @@ Tattha katamo paridevo
 
 </div>
 
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa  ̓  ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ  ̓  vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
+Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa  ̓  ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ  ̓  vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
 
 <div class="english">
 
@@ -629,7 +629,7 @@ Tattha katamo upāyāso
 
 </div>
 
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa  ̓  āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
+Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa  ̓  āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
 
 <div class="english">
 
@@ -645,7 +645,7 @@ Ayaṁ vuccati upāyāso
 
 </div>
 
-Evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti:
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī’ti:
 
 <div class="english">
 
@@ -653,7 +653,7 @@ Evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti:
 
 </div>
 
-Evametassa kevalassa dukkhakkhandhassa saṅgati hoti  ̓  samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
+Evam'etassa kevalassa dukkhakkhandhassa saṅgati hoti  ̓  samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
 
 <div class="english">
 
@@ -661,7 +661,7 @@ Evametassa kevalassa dukkhakkhandhassa saṅgati hoti  ̓  samāgamo hoti samodh
 
 </div>
 
-Tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotī’ti
+Tena vuccati evam'etassa kevalassa dukkhakkhandhassa samudayo hotī’ti
 
 <div class="english">
 

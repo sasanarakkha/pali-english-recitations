@@ -4851,7 +4851,7 @@ Bhava-paccayā jāti
   Sorrow lamentation pain displeasure and despair
 \end{english}
 
-Evametassa kevalassa dukkhakkhandhassa samudayo hoti
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hoti
 
 \begin{english}
   Such is the origin of this whole mass of suffering
@@ -4891,7 +4891,7 @@ Ayaṁ vuccati avijjā
 \end{english-hang}
 
 \linkdest{endnote77-body}
-Puññābhisaṅkhāro apuññābhisaṅkhāro āneñjābhisaṅkhāro\makeatletter\hyperlink{endnote77-appendix}\Hy@raisedlink{{\pagenote{%
+Puññ'ābhisaṅkhāro apuññ'ābhisaṅkhāro āneñj'ābhisaṅkhāro\makeatletter\hyperlink{endnote77-appendix}\Hy@raisedlink{{\pagenote{%
       \hypertarget{endnote77-appendix}{\hyperlink{endnote77-body}{SN 12.51 explains: ``Bhikkhus, if a person immersed in ignorance generates a meritorious volitional formation, consciousness fares on to the meritorious; if he generates a demeritorious volitional formation, consciousness fares on to the demeritorious; if he generates an imperturbable volitional formation, consciousness fares on to the imperturbable.''}}}}}\makeatother\\
 Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
 
@@ -4902,57 +4902,57 @@ Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
   The bodily formation \breathmark\ the verbal formation \breathmark\ the mental formation
 \end{english-verses}
 
-Tattha katamo puññābhisaṅkhāro
+Tattha katamo puññ'ābhisaṅkhāro
 
 \begin{english}
   Therein what is `heightened formation of wholesomeness'?
 \end{english}
 
 \begin{pali-hang}
-  Kusalā cetanā kāmāvacarā rūpāvacarā dānamayā sīlamayā bhāvanāmayā
+  Kusalā cetanā kām'āvacarā rūp'āvacarā dānamayā sīlamayā bhāvanāmayā
 \end{pali-hang}
 
 \begin{english-hang}
   Skillful volition of the sense-sphere \breathmark\ of the form-sphere \breathmark\ connected with giving \breathmark\ connected with virtue \breathmark\ connected with meditation
 \end{english-hang}
 
-Ayaṁ vuccati puññābhisaṅkhāro
+Ayaṁ vuccati puññ'ābhisaṅkhāro
 
 \begin{english}
   This is called `heightened formation of wholesomeness'
 \end{english}
 
-Tattha katamo apuññābhisaṅkhāro
+Tattha katamo apuññ'ābhisaṅkhāro
 
 \begin{english}
   Therein what is `heightened formation of unwholesomeness'?
 \end{english}
 
-Akusalā cetanā kāmāvacarā
+Akusalā cetanā kām'āvacarā
 
 \begin{english}
   Unskillful volition of the sense-sphere
 \end{english}
 
-Ayaṁ vuccati apuññābhisaṅkhāro
+Ayaṁ vuccati apuññ'ābhisaṅkhāro
 
 \begin{english}
   This is called `heightened formation of unwholesomeness'
 \end{english}
 
-Tattha katamo āneñjābhisaṅkhāro
+Tattha katamo āneñj'ābhisaṅkhāro
 
 \begin{english}
   Therein what is `heightened formation of imperturbability'?
 \end{english}
 
-Kusalā cetanā arūpāvacarā
+Kusalā cetanā arūp'āvacarā
 
 \begin{english}
   Skillful volition of the formless-sphere
 \end{english}
 
-Ayaṁ vuccati āneñjābhisaṅkhāro
+Ayaṁ vuccati āneñj'ābhisaṅkhāro
 
 \begin{english}
   This is called `heightened formation of imperturbability'
@@ -5055,7 +5055,7 @@ Idaṁ vuccati rūpaṁ
   This is called `form'
 \end{english}
 
-Iti idañca nāmaṁ idañca rūpaṁ
+Iti idañ'ca nāmaṁ idañ'ca rūpaṁ
 
 \begin{english}
   Thus is this name and this form
@@ -5074,7 +5074,7 @@ Tattha katamaṁ nāmarūpa-paccayā saḷ'āyatanaṁ
 \end{english-hang}
 
 \begin{pali-hang}
-  Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ
+  Cakkh'āyatanaṁ sot'āyatanaṁ ghān'āyatanaṁ jivh'āyatanaṁ kāy'āyatanaṁ man'āyatanaṁ
 \end{pali-hang}
 
 \begin{english-hang}
@@ -5155,7 +5155,7 @@ Tattha katamaṁ taṇhā-paccayā upādānaṁ
 \end{english}
 
 \begin{pali-hang}
-  Kāmupādānaṁ diṭṭhupādānaṁ sīlabbatupādānaṁ attavādupādānaṁ
+  Kām'upādānaṁ diṭṭh'upādānaṁ sīlabbat'upādānaṁ attavād'upādānaṁ
 \end{pali-hang}
 
 \linkdest{endnote81-body}
@@ -5251,7 +5251,7 @@ Therein what is death?
 \end{english}
 
 \begin{pali-hang}
-Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti \breathmark\ cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālakiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvitindriyass-upacchedo
+Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti \breathmark\ cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālakiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvit'indriyass'upacchedo
 \end{pali-hang}
 
 \begin{english-hang-verses}
@@ -5264,7 +5264,7 @@ Idaṁ vuccati maraṇaṁ
 This is called `death'
 \end{english}
 
-Iti ayañca jarā idañca maraṇaṁ
+Iti ayañ'ca jarā idañ'ca maraṇaṁ
 
 \begin{english}
 Thus are this ageing and this death
@@ -5283,7 +5283,7 @@ Tattha katamo soko
 \end{english}
 
 \begin{pali-hang}
-  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ soko socanā socitattaṁ \breathmark\ antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ soko socanā socitattaṁ \breathmark\ antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
 \end{pali-hang}
 
 \linkdest{endnote84-body}
@@ -5306,7 +5306,7 @@ Tattha katamo paridevo
 \end{english}
 
 \begin{pali-hang}
-  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ \breathmark\ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ \breathmark\ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
 \end{pali-hang}
 
 \begin{english-hang-verses}
@@ -5366,7 +5366,7 @@ Tattha katamo upāyāso
 \end{english}
 
 \begin{pali-hang}
-  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
 \end{pali-hang}
 
 \begin{english-hang-verses}
@@ -5379,14 +5379,14 @@ Ayaṁ vuccati upāyāso
   This is called `despair'
 \end{english}
 
-Evametassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 
 \begin{english}
   ``Such is the origin of this whole mass of suffering'' means this:
 \end{english}
 
 \begin{pali-hang}
-  Evametassa kevalassa dukkhakkhandhassa saṅgati hoti \breathmark\ samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
+  Evam'etassa kevalassa dukkhakkhandhassa saṅgati hoti \breathmark\ samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
 \end{pali-hang}
 
 \begin{english-hang}
@@ -5394,7 +5394,7 @@ Evametassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 \end{english-hang}
 
 \begin{pali-hang}
-  Tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotī'ti
+  Tena vuccati evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti
 \end{pali-hang}
 
 \begin{english}
@@ -7799,7 +7799,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañca dasasahassī lokadhātu saṅkampi sampakampi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkammeva devānaṁ devānubhāvaṁ.
+  Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkampi sampakampi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkammeva devānaṁ devānubhāvaṁ.
 \end{pali-hang}
 
 Atha kho bhagavā udānaṁ udānesi:
@@ -11354,7 +11354,7 @@ TODO G correct way to git merge
 \begin{pali-hang-continued}
   Dvā-das'āyatanāni:
   \begin{pali-hangtogether}
-    Cakkhv-āyatanaṁ rūp'āyatanaṁ sot'āyatanaṁ sadd'āyatanaṁ ghān'āyatanaṁ gandh'āyatanaṁ jivh'āyatanaṁ ras'āyatanaṁ kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ man'āyatanaṁ dhamm'āyatanaṁ
+    Cakkhv-'āyatanaṁ rūp'āyatanaṁ sot'āyatanaṁ sadd'āyatanaṁ ghān'āyatanaṁ gandh'āyatanaṁ jivh'āyatanaṁ ras'āyatanaṁ kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ man'āyatanaṁ dhamm'āyatanaṁ
   \end{pali-hangtogether}
 \end{pali-hang-continued}
 

@@ -90,7 +90,7 @@ Paranimmitavasavattīnaṁ devānaṁ saddaṁ sutvā Brahmakāyikā devā sadda
 
 “Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti.
 
-Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañca dasasahassī lokadhātu saṅkampi sampakampi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkammeva devānaṁ devānubhāvaṁ.
+Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkampi sampakampi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkammeva devānaṁ devānubhāvaṁ.
 
 Atha kho bhagavā udānaṁ udānesi:
 
