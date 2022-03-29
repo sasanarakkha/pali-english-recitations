@@ -11,7 +11,7 @@ Katame bhikkhave satta aparihāniyā dhammā
 
 </div>
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -27,7 +27,7 @@ Abhiṇhaṁ sannipātā bhavissanti sannipātabahulā
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -35,7 +35,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -67,7 +67,7 @@ Samaggā saṅghakaraṇīyāni karissanti
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -75,7 +75,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -107,7 +107,7 @@ Yathāpaññattesu sikkhāpadesu samādāya vattissanti
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -115,7 +115,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -163,7 +163,7 @@ Tesañ'ca sotabbaṁ maññissanti
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -171,7 +171,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -187,7 +187,7 @@ Uppannāya taṇhāya ponobhavikāya na vasaṁ gacchissanti
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -195,7 +195,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -211,7 +211,7 @@ Yāvakīvañca bhikkhave bhikkhū
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -219,7 +219,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -227,7 +227,7 @@ Yāvakīvañca bhikkhave bhikkhū
 
 </div>
 
-Paccattaññeva satiṁ upaṭṭhāpessanti:
+Paccattaññ'eva satiṁ upaṭṭhāpessanti:
 
 <div class="english">
 
@@ -235,7 +235,7 @@ Paccattaññeva satiṁ upaṭṭhāpessanti:
 
 </div>
 
-‘Kinti anāgatā ca pesalā sabrahmacārī āgaccheyyuṁ
+‘Kin'ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṁ
 
 <div class="english">
 
@@ -251,7 +251,7 @@ Paccattaññeva satiṁ upaṭṭhāpessanti:
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -259,7 +259,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-Yāvakīvañca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
+Yāvakīvañ'ca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
 
 <div class="english">
 
@@ -275,7 +275,7 @@ Imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -285,7 +285,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 suttaRef{[AN 7.23]}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -318,7 +318,7 @@ Pahānasaññaṁ bhāvessanti virāgasaññaṁ bhāvessanti nirodhasañña�
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -326,7 +326,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 <div class="english">
 
@@ -350,7 +350,7 @@ Hirimanto bhavissanti ottappino bhavissanti bahussutā bhavissanti
 
 </div>
 
-Na oramattakena visesādhigamena antarāvosānaṁ āpajjissanti
+Na oramattakena vises'ādhigamena antarāvosānaṁ āpajjissanti
 
 <div class="english">
 
@@ -358,7 +358,7 @@ Na oramattakena visesādhigamena antarāvosānaṁ āpajjissanti
 
 </div>
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
@@ -376,7 +376,7 @@ Ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattanti
 
 </div>
 
-Na kammārāmatā na bhassārāmatā na niddārāmatā na saṅgaṇikārāmatā
+Na kamm'ārāmatā na bhass'ārāmatā na nidd'ārāmatā na saṅgaṇik'ārāmatā
 
 <div class="english">
 
@@ -392,7 +392,7 @@ Indriyesu guttadvāratā bhojane mattaññutā
 
 </div>
 
-Asaṁsaggārāmatā nippapañcārāmatā
+Asaṁsagg'ārāmatā nippapañc'ārāmatā
 
 <div class="english">
 

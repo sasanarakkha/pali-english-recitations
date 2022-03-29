@@ -6034,7 +6034,7 @@ Katame bhikkhave satta aparihāniyā dhammā
   What bhikkus are the seven principles of non-decline?
 \end{english}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
@@ -6046,13 +6046,13 @@ Abhiṇhaṁ sannipātā bhavissanti sannipātabahulā
   Assemble often and hold frequent assemblies
 \end{english}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
@@ -6076,13 +6076,13 @@ Samaggā saṅghakaraṇīyāni karissanti
   And conduct the affairs of the Saṅgha in harmony
 \end{english}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
@@ -6106,13 +6106,13 @@ Yathāpaññattesu sikkhāpadesu samādāya vattissanti
   But undertake and follow the training rules \breathmark\ as they have been decreed
 \end{english-hang}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
@@ -6148,13 +6148,13 @@ Tesañ'ca sotabbaṁ maññissanti
   And think they should be heeded
 \end{english}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
@@ -6166,13 +6166,13 @@ Uppannāya taṇhāya ponobhavikāya na vasaṁ gacchissanti
   Do not come under the control of arisen craving \breathmark\ that leads to renewed existence
 \end{english-hang}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
@@ -6184,25 +6184,25 @@ Yāvakīvañca bhikkhave bhikkhū
   Are intent on forest lodgings
 \end{english}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
 \end{english}
 
-Paccattaññeva satiṁ upaṭṭhāpessanti:
+Paccattaññ'eva satiṁ upaṭṭhāpessanti:
 
 \begin{english}
   Establish mindfulness within themselves \breathmark\ thinking thus:
 \end{english}
 
-`Kinti anāgatā ca pesalā sabrahmacārī āgaccheyyuṁ
+`Kin'ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṁ
 
 \begin{english}
   `How can well-behaved fellow monks come \breathmark\ who have not yet come
@@ -6214,14 +6214,14 @@ Paccattaññeva satiṁ upaṭṭhāpessanti:
   And how can well-behaved fellow monks who are here \breathmark\ dwell at ease?'
 \end{english-hang}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
 \begin{pali-hang}
-  Yāvakīvañca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
+  Yāvakīvañ'ca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
 \end{pali-hang}
 
 \begin{english-hang}
@@ -6234,7 +6234,7 @@ Imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti
   And the bhikkhus are seen established in them
 \end{english}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6242,7 +6242,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \suttaRef{[AN 7.23]}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
@@ -6270,13 +6270,13 @@ Asubhasaññaṁ bhāvessanti ādīnavasaññaṁ bhāvessanti
         \hypertarget{endnote86-appendix}{\hyperlink{endnote86-body}{In \textit{Girimānandasutta} (AN 10.60) the Buddha instruced Ven. Ānanda: ``If, Ānanda, you visit the (severely sick) bhikkhu Girimānanda and speak to him about ten perceptions, it is possible that on hearing about them his affliction will immediately subside.'' Then the same seven perceptions as above are mentioned, with the addition of the following three: 8. the perception of non-delight in the entire world; 9. the perception of impermanence in all conditioned phenomena, and 10. mindfulness of breathing. \textit{Girimānandasutta} concludes: ``Then, when the Venerable Ānanda had learned these ten perceptions from the Blessed One, he went to the Venerable Girimānanda and spoke to him about them. When the Venerable Girimānanda heard about these ten perceptions, his affliction immediately subsided.''}}}}}\makeatother
 \end{english-hang}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
 \end{english}
 
-Yāvakīvañca bhikkhave bhikkhū
+Yāvakīvañ'ca bhikkhave bhikkhū
 
 \begin{english}
   As long as the bhikkhus
@@ -6296,13 +6296,13 @@ Hirimanto bhavissanti ottappino bhavissanti bahussutā bhavissanti
   Become energetic \breathmark\ mindful and wise
 \end{english}
 
-Na oramattakena visesādhigamena antarāvosānaṁ āpajjissanti
+Na oramattakena vises'ādhigamena antarāvosānaṁ āpajjissanti
 
 \begin{english-hang}
   Do not stop midway on account of some minor achievement of distinction
 \end{english-hang}
 
-Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6319,7 +6319,7 @@ Vuddhiyeva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 \end{english-hang}
 
 \begin{pali-hang}
-  Na kammārāmatā na bhassārāmatā na niddārāmatā na saṅgaṇikārāmatā
+  Na kamm'ārāmatā na bhass'ārāmatā na nidd'ārāmatā na saṅgaṇik'ārāmatā
 \end{pali-hang}
 
 \begin{english}
@@ -6332,7 +6332,7 @@ Indriyesu guttadvāratā bhojane mattaññutā
   Guarding the doors of the sense faculties \breathmark\ moderation in eating
 \end{english}
 
-Asaṁsaggārāmatā nippapañcārāmatā
+Asaṁsagg'ārāmatā nippapañc'ārāmatā
 
 \begin{english}
   Not taking delight in bonding \breathmark\ not taking delight in proliferation
