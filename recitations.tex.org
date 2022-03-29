@@ -4416,7 +4416,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
   Bhikkhus when mindfulness of breathing is developed and cultivated
 \end{english}
 
-Mahapphalā hoti mahā-nisaṁsā
+Mahapphalā hoti mah'ānisaṁsā
 
 \begin{english}
   It is of great fruit and great benefit
@@ -4464,7 +4464,7 @@ Kathaṁ bhāvitā ca bhikkhave ānāpānassati kathaṁ bahulī-katā
   And how bhikkhus is mindfulness of breathing developed and cultivated
 \end{english-hang}
 
-Mahapphalā hoti mahā-nisaṁsā
+Mahapphalā hoti mah'ānisaṁsā
 
 \begin{english}
   So that it is of great fruit and great benefit?
@@ -4746,7 +4746,7 @@ Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulīkatā
   Bhikkhus, that is how mindfulness of breathing is developed and cultivated
 \end{english-hang}
 
-Mahapphalā hoti mahānisaṁsā
+Mahapphalā hoti mah'ānisaṁsā
 
 \begin{english}
   So that it is of great fruit and great benefit.
@@ -6542,7 +6542,7 @@ bhavissati
         \hypertarget{endnote91-appendix}{\hyperlink{endnote91-body}{WPN: ``thinking in such a way: our going forth will not be barren''}}}}}\makeatother
 \end{english}
 
-Saphalā sa-udrayā
+Saphalā saudrayā
 
 \begin{english}
   But will become fruitful and fertile
@@ -6563,7 +6563,7 @@ Tesaṁ te kārā amhesu
   Given by others for our support
 \end{english-verses}
 
-Mahapphalā bhavissanti mahā-nisaṁsā'ti
+Mahapphalā bhavissanti mah'ānisaṁsā'ti
 
 \begin{english}
   Will reward them with great fruit and great benefit''
@@ -6599,7 +6599,7 @@ Alam'eva appamādena sampādetuṁ
   It is enough to strive for the goal without negligence
 \end{english}
 
-Ubhaya'tthaṁ vā hi bhikkhave sampassamānena
+Ubhay'atthaṁ vā hi bhikkhave sampassamānena
 
 \begin{english}
   Bhikkhus considering the good of both

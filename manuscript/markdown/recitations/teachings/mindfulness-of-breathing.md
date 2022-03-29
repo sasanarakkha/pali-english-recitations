@@ -11,7 +11,7 @@
 
 </div>
 
-Mahapphalā hoti mahā-nisaṁsā
+Mahapphalā hoti mah'ānisaṁsā
 
 <div class="english">
 
@@ -75,7 +75,7 @@ Kathaṁ bhāvitā ca bhikkhave ānāpānassati kathaṁ bahulī-katā
 
 </div>
 
-Mahapphalā hoti mahā-nisaṁsā
+Mahapphalā hoti mah'ānisaṁsā
 
 <div class="english">
 
@@ -429,7 +429,7 @@ Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulīkatā
 
 </div>
 
-Mahapphalā hoti mahānisaṁsā'ti
+Mahapphalā hoti mah'ānisaṁsā'ti
 
 <div class="english">
 

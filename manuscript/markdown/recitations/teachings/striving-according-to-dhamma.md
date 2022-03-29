@@ -206,7 +206,7 @@ Avaṅkatā avañjhāi bhavissati
 
 </div>
 
-Saphalā sa-udrayā
+Saphalā saudrayā
 
 <div class="english">
 
@@ -229,7 +229,7 @@ Tesaṁ te kārā amhesu
 
 </div>
 
-Mahapphalā bhavissanti mahā-nisaṁsā'ti
+Mahapphalā bhavissanti mah'ānisaṁsā'ti
 
 <div class="english">
 
@@ -277,7 +277,7 @@ Alam'eva appamādena sampādetuṁ
 
 </div>
 
-Ubhaya’tthaṁ vā hi bhikkhave sampassamānena
+Ubhay'atthaṁ vā hi bhikkhave sampassamānena
 
 <div class="english">
 
