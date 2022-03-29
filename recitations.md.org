@@ -6364,7 +6364,7 @@ Cha sāraṇīya-dhammā
 
 > [Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase]
 
-Chayime bhikkhave dhammā sāraṇīyā
+Cha'y'ime bhikkhave dhammā sāraṇīyā
 
 <div class="english">
 
@@ -6468,7 +6468,7 @@ Tathārūpehi lābhehi appaṭivibhatta-bhogī hoti
 
 </div>
 
-Sīlavantehi sabrahmacārīhi sādhāraṇabhogī
+Sīlavantehi sabrahmacārīhi sādhāraṇa-bhogī
 
 <div class="english">
 
@@ -6516,7 +6516,7 @@ Sabrahmacārīsu āvi c'eva raho ca
 
 </div>
 
-Bhikkhu yāyaṁ diṭṭhi
+Bhikkhu y'āyaṁ diṭṭhi
 
 <div class="english">
 
@@ -6614,7 +6614,7 @@ Passatha no tumhe taṁ vacana-pathaṁ
 
 </div>
 
-Aṇuṁ vā thūlaṁ vā yaṁ tumhe nādhivāseyyāthā’ti
+Aṇuṁ vā thūlaṁ vā yaṁ tumhe n'ādhivāseyyāthā’ti
 
 <div class="english">
 
@@ -6630,7 +6630,7 @@ No h'etaṁ bhante
 
 </div>
 
-Tasmātiha ime cha sāraṇīye dhamme samādāya vattatha
+Tasmā't'iha ime cha sāraṇīye dhamme samādāya vattatha
 
 <div class="english">
 
@@ -8346,7 +8346,7 @@ Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-
 
 Idaṁ kho pana bhikkhave dukkhasamudayo ariyasaccaṁ:
 
-Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
+Y'āyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
 
 Idaṁ kho pana bhikkhave dukkhanirodho ariyasaccaṁ:
 
@@ -8605,7 +8605,7 @@ Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassitu
 
 No h'etaṁ bhante.
 
-[Tasmātiha bhikkhave] yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ rūpaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+[Tasmā't'iha bhikkhave] yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ rūpaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
 Yā kāci vedanā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā vedanā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 

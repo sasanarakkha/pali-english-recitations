@@ -3,7 +3,7 @@ Cha sāraṇīya-dhammā
 
 > [Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase]
 
-Chayime bhikkhave dhammā sāraṇīyā
+Cha'y'ime bhikkhave dhammā sāraṇīyā
 
 <div class="english">
 
@@ -107,7 +107,7 @@ Tathārūpehi lābhehi appaṭivibhatta-bhogī hoti
 
 </div>
 
-Sīlavantehi sabrahmacārīhi sādhāraṇabhogī
+Sīlavantehi sabrahmacārīhi sādhāraṇa-bhogī
 
 <div class="english">
 
@@ -155,7 +155,7 @@ Sabrahmacārīsu āvi c'eva raho ca
 
 </div>
 
-Bhikkhu yāyaṁ diṭṭhi
+Bhikkhu y'āyaṁ diṭṭhi
 
 <div class="english">
 
@@ -253,7 +253,7 @@ Passatha no tumhe taṁ vacana-pathaṁ
 
 </div>
 
-Aṇuṁ vā thūlaṁ vā yaṁ tumhe nādhivāseyyāthā’ti
+Aṇuṁ vā thūlaṁ vā yaṁ tumhe n'ādhivāseyyāthā’ti
 
 <div class="english">
 
@@ -269,7 +269,7 @@ No h'etaṁ bhante
 
 </div>
 
-Tasmātiha ime cha sāraṇīye dhamme samādāya vattatha
+Tasmā't'iha ime cha sāraṇīye dhamme samādāya vattatha
 
 <div class="english">
 

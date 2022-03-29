@@ -5797,7 +5797,7 @@ Ime kho bhikkhave cattāro mahāpadesā'ti
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Chayime bhikkhave dhammā sāraṇīyā
+Cha'y'ime bhikkhave dhammā sāraṇīyā
 
 \begin{english}
   Bhikkhus there are these six principles of cordiality
@@ -5877,7 +5877,7 @@ Tathārūpehi lābhehi appaṭivibhatta-bhogī hoti
   Such gains he does not use without sharing
 \end{english}
 
-Sīlavantehi sabrahmacārīhi sādhāraṇabhogī
+Sīlavantehi sabrahmacārīhi sādhāraṇa-bhogī
 
 \begin{english}
   But uses them in common \breathmark\ with his virtuous spiritual companions
@@ -5913,7 +5913,7 @@ Sabrahmacārīsu āvi c'eva raho ca
   Both in public and in private \breathmark\ towards his spiritual companions
 \end{english}
 
-Bhikkhu yāyaṁ diṭṭhi
+Bhikkhu y'āyaṁ diṭṭhi
 
 \begin{english}
   A bhikkhu dwells possessing a view
@@ -5987,7 +5987,7 @@ Passatha no tumhe taṁ vacana-pathaṁ
   Do you see any course of speech
 \end{english}
 
-Aṇuṁ vā thūlaṁ vā yaṁ tumhe nādhivāseyyāthā'ti
+Aṇuṁ vā thūlaṁ vā yaṁ tumhe n'ādhivāseyyāthā'ti
 
 \begin{english}
   Trivial or gross \breathmark\ that you could not endure?
@@ -5999,7 +5999,7 @@ No h'etaṁ bhante
   No venerable sir
 \end{english}
 
-Tasmātiha ime cha sāraṇīye dhamme samādāya vattatha
+Tasmā't'iha ime cha sāraṇīye dhamme samādāya vattatha
 
 \begin{english}
   Therefore undertake and maintain \breathmark\ these six principles of cordiality
@@ -7667,7 +7667,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
+  Y'āyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8148,7 +8148,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hangtogether}
 
 \begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Tasmātiha bhikkhave \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Tasmā't'iha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
   Yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.

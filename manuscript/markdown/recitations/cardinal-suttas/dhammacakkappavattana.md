@@ -22,7 +22,7 @@ Jāti'pi dukkhā Jarā'pi dukkhā byādhi'pi dukkho Maraṇam'pi dukkhaṁ soka-
 
 Idaṁ kho pana bhikkhave dukkhasamudayo ariyasaccaṁ:
 
-Yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
+Y'āyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
 
 Idaṁ kho pana bhikkhave dukkhanirodho ariyasaccaṁ:
 
