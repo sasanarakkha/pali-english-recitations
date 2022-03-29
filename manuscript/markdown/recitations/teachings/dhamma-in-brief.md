@@ -3,7 +3,7 @@ Saṅkhitta-dhamma
 
 > [Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase]
 
-Mahāpajāpatī Gotamī yena bhagavā tenupasaṅkami  ̓  upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etadavoca:
+Mahāpajāpatī Gotamī yena bhagavā ten'upasaṅkami  ̓  upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etad'avoca:
 
 <div class="english">
 
@@ -20,7 +20,7 @@ Sādhu me bhante bhagavā saṅkhittena dhammaṁ desetu
 
 </div>
 
-Yamahaṁ bhagavato dhammaṁ sutvā
+Yam'ahaṁ bhagavato dhammaṁ sutvā
 
 <div class="english">
 
@@ -92,7 +92,7 @@ Pavivekāya saṁvattanti no saṅgaṇikāya
 
 </div>
 
-Vīriyārambhāya saṁvattanti no kosajjāya
+Vīriy'ārambhāya saṁvattanti no kosajjāya
 
 <div class="english">
 

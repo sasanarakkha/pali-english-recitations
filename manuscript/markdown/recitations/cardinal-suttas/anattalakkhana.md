@@ -1,6 +1,6 @@
 ## Anatta-lakkhaṇa-sutta<a id="anatta-lakkhana"></a>
 
-[Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: “Bhikkhavo”ti  ̓  “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca.
+[Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: “Bhikkhavo”ti  ̓  “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etad'avoca.
 
 Rūpaṁ bhikkhave anattā  ̓  rūpañca hidaṁ bhikkhave attā abhavissa  ̓  na'y'idaṁ rūpaṁ ābādhāya saṁvatteyya  ̓  labbhetha ca rūpe  ̓  “Evaṁ me rūpaṁ hotu  ̓  evaṁ me rūpaṁ mā ahosī”ti.
 

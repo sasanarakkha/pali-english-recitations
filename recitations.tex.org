@@ -5420,7 +5420,7 @@ Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 \end{leader}
 
 \begin{pali-hang}
-  Mahāpajāpatī Gotamī yena bhagavā tenupasaṅkami \breathmark\ upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etadavoca:
+  Mahāpajāpatī Gotamī yena bhagavā ten'upasaṅkami \breathmark\ upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etad'avoca:
 \end{pali-hang}
 
 \begin{english-hang}
@@ -5434,7 +5434,7 @@ Sādhu me bhante bhagavā saṅkhittena dhammaṁ desetu
   Would teach me the Dhamma in brief
 \end{english}
 
-Yamahaṁ bhagavato dhammaṁ sutvā
+Yam'ahaṁ bhagavato dhammaṁ sutvā
 
 \begin{english}
   Having heard the Dhamma from the Blessed One
@@ -5488,7 +5488,7 @@ Pavivekāya saṁvattanti no saṅgaṇikāya
   To solitude \breathmark\ not to company
 \end{english}
 
-Vīriyārambhāya saṁvattanti no kosajjāya
+Vīriy'ārambhāya saṁvattanti no kosajjāya
 
 \begin{english}
   To the arousing of energy \breathmark\ not to laziness
@@ -8010,8 +8010,8 @@ Atha kho bhagavā udānaṁ udānesi:
 
 \linkdest{endnote107-body}
 \begin{pali-hang}
-  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: {``Bhikkhavo''ti}~\breathmark\ ``Bhadante''ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca.\makeatletter\hyperlink{endnote107-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote107-appendix}{\hyperlink{endnote107-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: “Bhikkhavo” ti; “Bhadante” ti te bhikkhū Bhagavato paccassosuṁ. Bhagavā etadavoca.}}}}}\makeatother
+  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: {``Bhikkhavo''ti}~\breathmark\ ``Bhadante''ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etad'avoca.\makeatletter\hyperlink{endnote107-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote107-appendix}{\hyperlink{endnote107-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: “Bhikkhavo” ti; “Bhadante” ti te bhikkhū Bhagavato paccassosuṁ. Bhagavā etad'avoca.}}}}}\makeatother
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -9567,7 +9567,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
+  Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 \end{pali-hangtogether}
 
 \begin{english-verses}

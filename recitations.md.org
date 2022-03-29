@@ -5894,7 +5894,7 @@ Saṅkhitta-dhamma
 
 > [Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase]
 
-Mahāpajāpatī Gotamī yena bhagavā tenupasaṅkami  ̓  upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etadavoca:
+Mahāpajāpatī Gotamī yena bhagavā ten'upasaṅkami  ̓  upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etad'avoca:
 
 <div class="english">
 
@@ -5911,7 +5911,7 @@ Sādhu me bhante bhagavā saṅkhittena dhammaṁ desetu
 
 </div>
 
-Yamahaṁ bhagavato dhammaṁ sutvā
+Yam'ahaṁ bhagavato dhammaṁ sutvā
 
 <div class="english">
 
@@ -5983,7 +5983,7 @@ Pavivekāya saṁvattanti no saṅgaṇikāya
 
 </div>
 
-Vīriyārambhāya saṁvattanti no kosajjāya
+Vīriy'ārambhāya saṁvattanti no kosajjāya
 
 <div class="english">
 
@@ -8525,7 +8525,7 @@ suttaRef{[SN 56.11]}
 
 ## Anatta-lakkhaṇa-sutta<a id="anatta-lakkhana"></a>
 
-[Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: “Bhikkhavo”ti  ̓  “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca.
+[Evaṁ me sutaṁ] ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: “Bhikkhavo”ti  ̓  “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etad'avoca.
 
 Rūpaṁ bhikkhave anattā  ̓  rūpañca hidaṁ bhikkhave attā abhavissa  ̓  na'y'idaṁ rūpaṁ ābādhāya saṁvatteyya  ̓  labbhetha ca rūpe  ̓  “Evaṁ me rūpaṁ hotu  ̓  evaṁ me rūpaṁ mā ahosī”ti.
 
@@ -9696,7 +9696,7 @@ suttaRef{[Thai]}
 
 ## Maṅgala-sutta<a id="mangala-sutta"></a>
 
-[Evaṁ me sutaṁ]: Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten’upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
+[Evaṁ me sutaṁ]: Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten’upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
 <div class="english">
 
