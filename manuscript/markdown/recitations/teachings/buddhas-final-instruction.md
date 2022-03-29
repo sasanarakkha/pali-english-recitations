@@ -3,7 +3,7 @@ Buddha-pacchima-ovāda
 
 > [Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase]
 
-Siyā kho tumhākaṁ evamassa
+Siyā kho tumhākaṁ evam'assa
 
 <div class="english">
 
@@ -19,7 +19,7 @@ Atītasatthukaṁ pāvacanaṁ n'atthi no satthā’ti
 
 </div>
 
-Na kho panetaṁ evaṁ daṭṭhabbaṁ
+Na kho pan'etaṁ evaṁ daṭṭhabbaṁ
 
 <div class="english">
 
@@ -28,7 +28,7 @@ Na kho panetaṁ evaṁ daṭṭhabbaṁ
 </div>
 
 Yo vo mayā dhammo ca vinayo ca desito paññatto
-So vo mamaccayena satthā
+So vo mam'accayena satthā
 
 <div class="english">
 
