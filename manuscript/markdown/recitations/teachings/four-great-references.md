@@ -19,7 +19,7 @@ Idha bhikkhave bhikkhu evaṁ vadeyya:
 
 </div>
 
-Sammukhā metaṁ āvuso bhagavato sutaṁ
+Sammukhā me'taṁ āvuso bhagavato sutaṁ
 
 <div class="english">
 
@@ -83,7 +83,7 @@ Sambahulā therā bhikkhū viharanti
 
 </div>
 
-Bahussutā āgatāgamā
+Bahussutā āgat'āgamā
 
 <div class="english">
 
@@ -131,7 +131,7 @@ Eko thero bhikkhu viharati
 
 </div>
 
-Bahussuto āgatāgamo
+Bahussuto āgat'āgamo
 
 <div class="english">
 
@@ -220,7 +220,7 @@ Vinaye sandassetabbāni
 
 </div>
 
-Na ceva sutte otaranti na vinaye sandissanti
+Na c'eva sutte otaranti na vinaye sandissanti
 
 <div class="english">
 
@@ -228,7 +228,7 @@ Na ceva sutte otaranti na vinaye sandissanti
 
 </div>
 
-Niṭṭhamettha gantabbaṁ:
+Niṭṭham'ettha gantabbaṁ:
 
 <div class="english">
 
@@ -236,7 +236,7 @@ Niṭṭhamettha gantabbaṁ:
 
 </div>
 
-Addhā idaṁ na ceva tassa bhagavato vacanaṁ arahato sammāsambuddhassa
+Addhā idaṁ na c'eva tassa bhagavato vacanaṁ arahato sammāsambuddhassa
 
 <div class="english">
 
@@ -253,7 +253,7 @@ Tassa ca therassa duggahitan’ti
 
 </div>
 
-Iti hetaṁ bhikkhave chaḍḍeyyātha
+Iti h'etaṁ bhikkhave chaḍḍeyyātha
 
 <div class="english">
 
@@ -261,7 +261,7 @@ Iti hetaṁ bhikkhave chaḍḍeyyātha
 
 </div>
 
-Sutte ceva otaranti vinaye ca sandissanti
+Sutte c'eva otaranti vinaye ca sandissanti
 
 <div class="english">
 
@@ -269,7 +269,7 @@ Sutte ceva otaranti vinaye ca sandissanti
 
 </div>
 
-Niṭṭhamettha gantabbaṁ
+Niṭṭham'ettha gantabbaṁ
 
 <div class="english">
 
@@ -302,7 +302,7 @@ Tassa ca saṅghassa suggahitaṁ
 
 </div>
 
-Tesañca therānaṁ suggahitaṁ
+Tesañ'ca therānaṁ suggahitaṁ
 
 <div class="english">
 

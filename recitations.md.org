@@ -6046,7 +6046,7 @@ Idha bhikkhave bhikkhu evaṁ vadeyya:
 
 </div>
 
-Sammukhā metaṁ āvuso bhagavato sutaṁ
+Sammukhā me'taṁ āvuso bhagavato sutaṁ
 
 <div class="english">
 
@@ -6110,7 +6110,7 @@ Sambahulā therā bhikkhū viharanti
 
 </div>
 
-Bahussutā āgatāgamā
+Bahussutā āgat'āgamā
 
 <div class="english">
 
@@ -6158,7 +6158,7 @@ Eko thero bhikkhu viharati
 
 </div>
 
-Bahussuto āgatāgamo
+Bahussuto āgat'āgamo
 
 <div class="english">
 
@@ -6247,7 +6247,7 @@ Vinaye sandassetabbāni
 
 </div>
 
-Na ceva sutte otaranti na vinaye sandissanti
+Na c'eva sutte otaranti na vinaye sandissanti
 
 <div class="english">
 
@@ -6255,7 +6255,7 @@ Na ceva sutte otaranti na vinaye sandissanti
 
 </div>
 
-Niṭṭhamettha gantabbaṁ:
+Niṭṭham'ettha gantabbaṁ:
 
 <div class="english">
 
@@ -6263,7 +6263,7 @@ Niṭṭhamettha gantabbaṁ:
 
 </div>
 
-Addhā idaṁ na ceva tassa bhagavato vacanaṁ arahato sammāsambuddhassa
+Addhā idaṁ na c'eva tassa bhagavato vacanaṁ arahato sammāsambuddhassa
 
 <div class="english">
 
@@ -6280,7 +6280,7 @@ Tassa ca therassa duggahitan’ti
 
 </div>
 
-Iti hetaṁ bhikkhave chaḍḍeyyātha
+Iti h'etaṁ bhikkhave chaḍḍeyyātha
 
 <div class="english">
 
@@ -6288,7 +6288,7 @@ Iti hetaṁ bhikkhave chaḍḍeyyātha
 
 </div>
 
-Sutte ceva otaranti vinaye ca sandissanti
+Sutte c'eva otaranti vinaye ca sandissanti
 
 <div class="english">
 
@@ -6296,7 +6296,7 @@ Sutte ceva otaranti vinaye ca sandissanti
 
 </div>
 
-Niṭṭhamettha gantabbaṁ
+Niṭṭham'ettha gantabbaṁ
 
 <div class="english">
 
@@ -6329,7 +6329,7 @@ Tassa ca saṅghassa suggahitaṁ
 
 </div>
 
-Tesañca therānaṁ suggahitaṁ
+Tesañ'ca therānaṁ suggahitaṁ
 
 <div class="english">
 
@@ -6428,7 +6428,7 @@ Mettaṁ kāyakammaṁ vacīkammaṁ manokammaṁ paccupaṭṭhitaṁ hoti
 
 </div>
 
-Sabrahmacārīsu āvi ceva raho ca
+Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
@@ -6508,7 +6508,7 @@ Tathārūpesu sīlesu sīlasāmaññagato viharati
 
 </div>
 
-Sabrahmacārīsu āvi ceva raho ca
+Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
@@ -6548,7 +6548,7 @@ Tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati
 
 </div>
 
-Sabrahmacārīsu āvi ceva raho ca
+Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
@@ -6622,7 +6622,7 @@ Aṇuṁ vā thūlaṁ vā yaṁ tumhe nādhivāseyyāthā’ti
 
 </div>
 
-No hetaṁ bhante
+No h'etaṁ bhante
 
 <div class="english">
 
@@ -6809,7 +6809,7 @@ Te sakkarissanti garuṁ karissanti mānessanti pūjessanti
 
 </div>
 
-Tesañca sotabbaṁ maññissanti
+Tesañ'ca sotabbaṁ maññissanti
 
 <div class="english">
 
@@ -8555,7 +8555,7 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
 Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā vāti?
 
@@ -8567,7 +8567,7 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
 Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā vāti?
 
@@ -8579,7 +8579,7 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
 Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā vāti?
 
@@ -8591,7 +8591,7 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
 Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ vāti?
 
@@ -8603,17 +8603,17 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
-[Tasmātiha bhikkhave] yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ rūpaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+[Tasmātiha bhikkhave] yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ rūpaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-Yā kāci vedanā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā vedanā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+Yā kāci vedanā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā vedanā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-Yā kāci saññā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā saññā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+Yā kāci saññā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā saññā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-Ye keci saṅkhārā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbe saṅkhārā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+Ye keci saṅkhārā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbe saṅkhārā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ viññāṇaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ viññāṇaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
 [Evaṁ passaṁ bhikkhave] sutvā ariyasāvako rūpasmim'pi nibbindati  ̓  vedanāya'pi nibbindati  ̓  saññāya'pi nibbindati  ̓  saṅkhāresu'pi nibbindati  ̓  viññāṇasmim'pi nibbindati  ̓  nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ “Vimuttam” iti ñāṇaṁ hoti  ̓  “Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā”ti pajānātī’ti.
 
@@ -11609,7 +11609,7 @@ Yamo mittā manussā ca majjhattā verikāpi ca
 Sabbe sattā sukhī hontu puññāni pakatāni me
 Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ
 Iminā puññakammena iminā uddissena ca
-Khipp'āhaṁ sulabhe ceva taṇhūpādāna-chedanaṁ
+Khipp'āhaṁ sulabhe c'eva taṇhūpādāna-chedanaṁ
 Ye santāne hīnā dhammā yāva nibbānato mamaṁ
 Nassantu sabbadā yeva yattha jāto bhave bhave
 Ujucittaṁ satipaññā sallekho viriyamhinā

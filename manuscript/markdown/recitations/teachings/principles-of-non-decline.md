@@ -155,7 +155,7 @@ Te sakkarissanti garuṁ karissanti mānessanti pūjessanti
 
 </div>
 
-Tesañca sotabbaṁ maññissanti
+Tesañ'ca sotabbaṁ maññissanti
 
 <div class="english">
 

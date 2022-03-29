@@ -30,7 +30,7 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
 Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā vāti?
 
@@ -42,7 +42,7 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
 Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā vāti?
 
@@ -54,7 +54,7 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
 Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā vāti?
 
@@ -66,7 +66,7 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
 Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ vāti?
 
@@ -78,17 +78,17 @@ Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ  ̓  “Etaṁ mama esohamasmi eso me attā”ti?
 
-No hetaṁ bhante.
+No h'etaṁ bhante.
 
-[Tasmātiha bhikkhave] yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ rūpaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+[Tasmātiha bhikkhave] yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ rūpaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-Yā kāci vedanā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā vedanā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+Yā kāci vedanā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā vedanā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-Yā kāci saññā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā saññā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+Yā kāci saññā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbā saññā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-Ye keci saṅkhārā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbe saṅkhārā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+Ye keci saṅkhārā atītānāgata-paccuppannā  ̓  ajjhattā vā bahiddhā vā  ̓  oḷārikā vā sukhumā vā  ̓  hīnā vā paṇītā vā  ̓  yā dūre santike vā  ̓  sabbe saṅkhārā:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ viññāṇaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā bahiddhā vā  ̓  oḷārikaṁ vā sukhumaṁ vā  ̓  hīnaṁ vā paṇītaṁ vā  ̓  yaṁ dūre santike vā  ̓  sabbaṁ viññāṇaṁ:  ̓  “Netaṁ mama nesohamasmi na m’eso attā”ti  ̓  evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
 [Evaṁ passaṁ bhikkhave] sutvā ariyasāvako rūpasmim'pi nibbindati  ̓  vedanāya'pi nibbindati  ̓  saññāya'pi nibbindati  ̓  saṅkhāresu'pi nibbindati  ̓  viññāṇasmim'pi nibbindati  ̓  nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ “Vimuttam” iti ñāṇaṁ hoti  ̓  “Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā”ti pajānātī’ti.
 

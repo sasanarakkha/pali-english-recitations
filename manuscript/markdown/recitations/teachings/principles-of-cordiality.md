@@ -67,7 +67,7 @@ Mettaṁ kāyakammaṁ vacīkammaṁ manokammaṁ paccupaṭṭhitaṁ hoti
 
 </div>
 
-Sabrahmacārīsu āvi ceva raho ca
+Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
@@ -147,7 +147,7 @@ Tathārūpesu sīlesu sīlasāmaññagato viharati
 
 </div>
 
-Sabrahmacārīsu āvi ceva raho ca
+Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
@@ -187,7 +187,7 @@ Tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati
 
 </div>
 
-Sabrahmacārīsu āvi ceva raho ca
+Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
@@ -261,7 +261,7 @@ Aṇuṁ vā thūlaṁ vā yaṁ tumhe nādhivāseyyāthā’ti
 
 </div>
 
-No hetaṁ bhante
+No h'etaṁ bhante
 
 <div class="english">
 
