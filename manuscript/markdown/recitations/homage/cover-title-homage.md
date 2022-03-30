@@ -1,7 +1,10 @@
-# Homage to the Triple Gem
-
 <!-- <div class="titlepage-cover"> -->
 
-<!-- ![Homage to the Triple Gem](../../assets/photos/300dpi/homage-to-the-triple-gem-compressed.jpg) -->
+<!-- ![SBS Pāli-English Reciations](./includes/images/reference-desktop-cover.jpg) -->
 
 <!-- </div> -->
+<div class="titlepage-cover">
+
+![Homage to the Triple Gem](./homage-resize.jpg)
+
+</div>

@@ -1,1 +1,0 @@
-# Saraṇa-gamana-pāṭho

@@ -1,1 +1,0 @@
-# Devatā-uyyojana-gāthā

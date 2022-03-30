@@ -32,7 +32,7 @@ Vandāmi buddhaṁ aham'ādarena taṁ
 
 <div class="english">
 
-> Devotedly indeed  ̓  that Buddha I revere
+> Devotedly indeed <span class="breathmark">'</span>  that Buddha I revere
 
 </div>
 

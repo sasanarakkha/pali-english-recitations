@@ -2,7 +2,7 @@
 # [Purpose and Benefits of Dhamma Recitation](#purpose-and-benefits)
 # [Abbreviations](#abbreviations)
 
-# Morning Chanting
+# Homage to the Triple Gem
 [Dedication of Offerings](#dedication-of-offerings)\
 [Preliminary Homage](#preliminary-homage)\
 [Homage to the Buddha](#homage-buddha)\

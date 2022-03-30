@@ -1,1 +1,0 @@
-# Jaya-maṅgala-aṭṭha-gāthā

@@ -1,1 +1,0 @@
-# Namo-kāra-aṭṭhaka

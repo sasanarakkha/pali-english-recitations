@@ -1,1 +1,0 @@
-# Karaṇīya-metta-sutta

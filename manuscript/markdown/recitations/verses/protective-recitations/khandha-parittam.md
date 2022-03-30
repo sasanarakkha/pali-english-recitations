@@ -1,1 +1,0 @@
-# Khandha-parittaṁ

@@ -1,1 +1,0 @@
-# Nama-kāra-siddhi-gāthā

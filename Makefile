@@ -23,7 +23,7 @@ document:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 sass:
-	node-sass ./assets/sass -o ./assets/stylesheets
+	/home/paladhammika/.local/share/node_modules/node-sass/bin/node-sass ./assets/sass -o ./assets/stylesheets
 
 sass-watch:
 	node-sass -w ./assets/sass -o ./assets/stylesheets

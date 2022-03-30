@@ -1,12 +1,14 @@
 #+TITLE: Todo
 
 * TeX
+** TODO italicize all pali in endnotes
 ** TODO check endnotes that are too close
 ** TODO complete leader intro solution
 ** TODO check spacing of parittas
-** TODO italicize all non chanted pali (?)
 ** TODO document anecdote and local
 ** TODO trim the fat: remove unneeded code, directories, and files
+** DONE italicize all non chanted pali (?)
+CLOSED: [2022-03-29 Tue 09:29]
 ** DONE golden dividers would probably look better
 *CLOSED: [2022-03-22 Tue 12:52]
 ** DONE 3+ lines convert to english-verses
@@ -116,5 +118,7 @@ CLOSED: [2022-03-03 Thu 19:52]
 ** TODO 3 times
 ** TODO links not working
 ** TODO bottom nav
+- create html block
 ** TODO breathmark
-** TODO ideal workflow for multiple contributors
+** DONE ideal workflow for multiple contributors
+CLOSED: [2022-03-28 Mon 09:53]

@@ -4,6 +4,7 @@
 #+startup: fold
 
 * Table of Contents :toc:
+- [[#acknowledgments][Acknowledgments]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#abbreviations][Abbreviations]]
 - [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
@@ -115,6 +116,41 @@
   - [[#undertaking-the-refuges][Undertaking the Refuges]]
   - [[#pāli-phonetics-and-pronunciation][Pāli Phonetics and Pronunciation]]
   - [[#chanting-leader-guidelines][Chanting Leader Guidelines]]
+
+* Acknowledgments
+#+begin_src latex :tangle ./manuscript/tex/acknowledgments.tex
+
+\cleartorecto
+\thispagestyle{empty}
+
+{\setlength{\parskip}{10pt}
+
+{\centering\fontsize{16}{25}\selectfont
+\textsc{We Wish To Gratefully Acknowledge}
+\par}
+
+The Saṅghas of Wat Pah Nanachat (WPN), Amaravati, and Abhayagiri for allowing the use of material from their respective chanting books, the late Ven. Dr. Saddhātissa and Mr. Maurice Walshe for their English translations, as well as Ven. Bhikkhu Bodhi for granting permission to use and slightly adapt his translations. Various Saṅgha members of SBS Monk Training Centre, who contributed in the compilation of an interesting selection of chants, as well as for providing countless suggestions to help improve the English translations.
+
+\linkdest{endnote1-body}
+Additional information on translations, as well as deviations\makeatletter\hyperlink{endnote1-appendix}\Hy@raisedlink{{\pagenote{%
+  \hypertarget{endnote1-appendix}{\hyperlink{endnote1-body}{Due to the balanced and inspiring selection of chants, as well as for the sake of compatability, WPN \textit{Buddhist Chanting} {2014} has served as the basis for this book. Over time, suggestions for the inclusion of additional chants, as well as occasional improvements of existing translations were incorporated. Such changes were meticulously marked down in the endnotes, so that someone familiar with the present book can straight away find the relevant differences, which can be useful when visiting a branch monastery of the Ajahn Chah lineage, in order to know in which places to revert to the original version.}}}}}\makeatother\thickspace
+from WPN \textit{Buddhist Chanting} (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
+
+\medskip
+
+{\centering
+To Āyasmā Aggacitta, the founding father of\\
+Sāsanārakkha Buddhist Sanctuary.
+
+\medskip
+
+\includegraphics[height=54mm]{sbs-logo-tuck-loon-brown.jpg}
+
+}
+
+}
+
+#+end_src
 
 * Recitation Schedule
 #+begin_src latex :tangle ./manuscript/tex/schedule.tex
@@ -329,13 +365,13 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 \section{Dedication of Offerings}
 \label{dedication-of-offerings}
 
-\begin{leader}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Yo so \hspace{-0.5mm}\anglebracketright\
-\end{leader}
+\end{pali-leader}
 
-\vspace{-0.99em}
-
+\begin{pali-hangtogether}
 Bhagavā arahaṁ sammāsambuddho
+\end{pali-hangtogether}
 
 \linkdest{endnote2-body}
 \begin{english-hang}
@@ -4338,7 +4374,7 @@ Yaṁ taṁ ariyā ācikkhanti
 \linkdest{endnote66-body}
 \begin{pali-hangtogether}
   `Upekkhako satimā sukha-vihārī'ti\makeatletter\hyperlink{endnote66-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote66-appendix}{\hyperlink{endnote66-body}{WPN: ``viharatī'ti``}}}}}\makeatother
+        \hypertarget{endnote66-appendix}{\hyperlink{endnote66-body}{WPN: ``viharatī'ti''}}}}}\makeatother
   tatiyaṁ jhānaṁ upasampajja viharati
 \end{pali-hangtogether}
 
@@ -4556,7 +4592,7 @@ Passambhayaṁ kāya-saṅkhāraṁ assasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
-\linkdest{endnote68-body}
+  \linkdest{endnote68-body}
   `I shall breathe in tranquillizing the bodily formation'\makeatletter\hyperlink{endnote68-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote68-appendix}{\hyperlink{endnote68-body}{WPN: ``I shall breathe in tranquillising the bodily formations''. \textit{Kāyasaṅkhāraṁ} is singular, not plural.}}}}}\makeatother
 \end{english}
@@ -4600,9 +4636,9 @@ Citta-saṅkhāra-paṭisaṁvedī assasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
-\linkdest{endnote69-body}
+  \linkdest{endnote69-body}
   `I shall breathe in experiencing the mental formation'\makeatletter\hyperlink{endnote69-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote69-appendix}{\hyperlink{endnote69-body}{WPN: ``I shall breathe in experiencing the mental formations''. \textit{Cittasaṅkhāraṁ} is probably meant to be singular, not plural. This is not clear when looking at compounds, however, considering that the subsequent practice explicitly uses mental formation in singular cittasaṅkhāraṁ'', this suggests that it is probably used in the same way here.}}}}}\makeatother
+        \hypertarget{endnote69-appendix}{\hyperlink{endnote69-body}{WPN: ``I shall breathe in experiencing the mental formations''. \textit{Cittasaṅkhāraṁ} is probably meant to be singular, not plural. This is not clear when looking at compounds, however, considering that the subsequent practice explicitly uses mental formation in ``singular \textit{cittasaṅkhāraṁ}'', this suggests that it is probably used in the same way here.}}}}}\makeatother
 \end{english}
 
 Citta-saṅkhāra-paṭisaṁvedī passasissāmī'ti sikkhati
@@ -4616,7 +4652,7 @@ Passambhayaṁ citta-saṅkhāraṁ assasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
-\linkdest{endnote70-body}
+  \linkdest{endnote70-body}
   `I shall breathe in tranquillizing the mental formation'\makeatletter\hyperlink{endnote70-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote70-appendix}{\hyperlink{endnote70-body}{WPN: ``I shall breathe in tranquillising the mental formations''. \textit{Cittasaṅkhāraṁ} is singular, not plural.}}}}}\makeatother
 \end{english}

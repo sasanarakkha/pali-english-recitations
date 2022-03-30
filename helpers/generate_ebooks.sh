@@ -12,16 +12,17 @@ mv book.toml book-html.toml
 cp book-epub.toml book.toml
 
 # Update the date
+# TODO ensure this works for updating date on copyright.md
 cd manuscript/markdown
 TODAY=$(date --iso-8601)
-sed -i 's/\(Last updated on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' titlepage.md
-sed -i 's/\(Last updated on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' titlepage-ebook.md
+sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' copyright.md
+sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' copyright.md
 cd ../..
 
 # Use titlepage-ebook.md for a simple title page
 cd manuscript/markdown
-mv titlepage.md titlepage-html.md
-cp titlepage-ebook.md titlepage.md
+mv cover.md cover-html.md
+cp cover-ebook.md cover.md
 cd ../..
 
 $MDBOOK_EPUB_BIN --standalone
@@ -34,7 +35,7 @@ fi
 # Restore
 mv book-html.toml book.toml
 cd manuscript/markdown
-mv titlepage-html.md titlepage.md
+mv cover-html.md cover.md
 cd ../..
 
 mv "./book/epub/SBS Pāli-English Recitations.epub" "./$EPUB_FILE"
@@ -44,7 +45,7 @@ if [ "$?" != "0" ]; then
     exit 2
 fi
 
-java -jar ../libs/epubcheck.jar "./$EPUB_FILE"
+java -jar ../libs/epubcheck/epubcheck.jar "./$EPUB_FILE"
 
 
 if [ "$?" != "0" ]; then

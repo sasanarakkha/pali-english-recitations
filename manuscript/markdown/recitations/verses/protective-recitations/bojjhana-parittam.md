@@ -1,1 +1,0 @@
-# Bojjh’aṅga-parittaṁ

@@ -1,14 +1,30 @@
-# Copyright
+<center>
 
-SBS Pāli-English Recitations
+Published by TBD<br>
+<!-- ISBN<br> -->
+Copyright © Sāsanārakkha Buddhist Sanctuary 2022
 
-This book is offered for free distribution, please do not sell this book.
+This book is for free distribution only;<br>
+it may not be sold.
 
-Download this book in PDF, EPUB and MOBI formats at the following addresses:
+Download this book as a PDF, EPUB, or MOBI<br>
+at the following address:<br>
+[https://sasanarakkha.org](https://sasanarakkha.org/)
 
-[www.sasanarakkha.org](https://sasanarakkha.org/)
+Project Manager: Ā. Ariyadhammika<br>
+Editor: Ā. Pāladhammika<br>
+Typesetting: Aj. Gambhiro, Ā. Pāladhammika<br>
+Translators: Ā. Aggacitta, Ā. Bodhi, Aj. Kevalī, Ā. Sujāto, M. Walshe<br>
+Endnotes: Ā. Ariyadhammika
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+This work is licensed under a Creative Commons<br>
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-First Edition, 2021
+Produced with the LaTeX typesetting system,<br>
+set in Libertinus Serif.
 
+<div>
+<p>This version was created on: 2022-03-30</p>
+</div>
+
+</center>
