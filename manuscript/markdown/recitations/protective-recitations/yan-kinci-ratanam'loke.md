@@ -1,0 +1,1 @@
+# Yaṅ kiñci ratanaṁ loke
