@@ -462,7 +462,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
   \setsecnumformat{}%
 }
 
-\sectionPaliTitle{Buddhādi-āmisa-pūjā}
+\sectionPaliTitle{Buddh'ādi-āmisa-pūjā}
 \section{Dedication of Offerings}
 \label{dedication-of-offerings}
 
