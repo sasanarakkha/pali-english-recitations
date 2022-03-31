@@ -21,7 +21,7 @@ Katame dasa
 \end{english}
 
 \begin{pali-hang}
-  Vevaṇṇiyamhi ajjhūpagato'ti\\
+  Vevaṇṇiy'amhi ajjhūpagato'ti\\
   Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hang}
 
@@ -120,7 +120,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   \end{english-hangtogether-verses}
 \end{english-verses}
 
-`Kathambhūtassa me rattindivā vītipatantī'ti\\
+`Katham'bhūtassa me rattin'divā vītipatantī'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english-verses}
@@ -142,7 +142,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{english-verses}
 
 \begin{pali-hang}
-  Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana viseso adhigato\\
+  Atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana viseso adhigato\\
 \end{pali-hang}
 
 % TODO this is a bit hacky, works for now
