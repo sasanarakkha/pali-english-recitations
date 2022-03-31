@@ -7196,21 +7196,21 @@ Tassa dāyādā bhavissanti
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Jarā-dhammomhi jaraṁ anatīto
+Jarā-dhammo'mhi jaraṁ anatīto
 
 \begin{english}
   I am of the nature to age\\
   I have not gone beyond ageing
 \end{english}
 
-Byādhi-dhammomhi byādhiṁ anatīto
+Byādhi-dhammo'mhi byādhiṁ anatīto
 
 \begin{english}
   I am of the nature to sicken\\
   I have not gone beyond sickness
 \end{english}
 
-Maraṇa-dhammomhi maraṇaṁ anatīto
+Maraṇa-dhammo'mhi maraṇaṁ anatīto
 
 \begin{english}
   I am of the nature to die\\
