@@ -1,6 +1,6 @@
 ## Homage to the Buddha<a id="homage-buddha"></a>
 
-[Handa mayaṁ buddhābhitthutiṁ karomase]
+[Handa mayaṁ buddh'ābhitthutiṁ karomase]
 
 [Now let us recite in praise of the Buddha]
 

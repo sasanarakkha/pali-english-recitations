@@ -614,7 +614,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 ** Homage to the Buddha
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
-\sectionPaliTitle{Buddhābhitthuti}
+\sectionPaliTitle{Buddh'ābhitthuti}
 \section{Homage to the Buddha}
 \label{homage-buddha}
 
@@ -720,7 +720,7 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
 ** Homage to the Dhamma
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
-\sectionPaliTitle{Dhammābhitthuti}
+\sectionPaliTitle{Dhamm'ābhitthuti}
 \section{Homage to the Dhamma}
 \label{homage-dhamma}
 
@@ -781,7 +781,7 @@ Paccattaṁ veditabbo viññūhi
 ** Homage to the Saṅgha
 #+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
 
-\sectionPaliTitle{Saṅghābhitthuti}
+\sectionPaliTitle{Saṅgh'ābhitthuti}
 \section{Homage to the Saṅgha}
 \label{homage-sangha}
 
