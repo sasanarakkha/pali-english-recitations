@@ -35,7 +35,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 \end{english}
 
 \begin{pali-hang}
-  Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\\
+  Kammassakomhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\\
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yaṁ kammaṁ karissāmi\\

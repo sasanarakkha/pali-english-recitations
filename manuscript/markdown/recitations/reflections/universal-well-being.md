@@ -22,7 +22,7 @@ Sabbe sattā laddha-sampattito mā vigacchantu
 \bigskip
 
 \begin{pali-hangtogether}
-  Sabbe sattā kammassakā kammadāyādā kammayonī kammabandhū kammapaṭisaraṇā\\
+  Sabbe sattā kammassakā kammadāy'ādā kammayonī kammabandhū kammapaṭisaraṇā\\
 \end{pali-hangtogether}
 Yaṁ kammaṁ karissanti\\
 Kalyāṇaṁ vā pāpakaṁ vā\\

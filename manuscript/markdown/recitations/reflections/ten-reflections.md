@@ -97,7 +97,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \vspace{8pt}
 
 \begin{pali-hangtogether}
-  Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\\
+  Kammassakomhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\\
 \end{pali-hangtogether}
 Yaṁ kammaṁ karissāmi\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
