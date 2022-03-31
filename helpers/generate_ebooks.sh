@@ -21,8 +21,8 @@ cd ../..
 
 # Use titlepage-ebook.md for a simple title page
 cd manuscript/markdown
-mv cover.md cover-html.md
-cp cover-ebook.md cover.md
+mv titlepage.md titlepage-html.md
+cp titlepage-ebook.md titlepage.md
 cd ../..
 
 $MDBOOK_EPUB_BIN --standalone
@@ -35,7 +35,7 @@ fi
 # Restore
 mv book-html.toml book.toml
 cd manuscript/markdown
-mv cover-html.md cover.md
+mv titlepage-html.md titlepage.md
 cd ../..
 
 mv "./book/epub/SBS Pāli-English Recitations.epub" "./$EPUB_FILE"

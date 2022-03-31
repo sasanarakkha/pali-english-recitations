@@ -1,9 +1,8 @@
-[Cover](cover-ebook.md)
+[Cover](titlepage-ebook.md)
 
 [Title](title.md)
 [Copyright](copyright.md)
 [Acknowledgments](acknowledgments.md)
-
 [Contents](contents.md)
 [Recitation Schedule](schedule.md)
 [Purpose and Benefit of Dhamma Recitation](purpose-and-benefits.md)

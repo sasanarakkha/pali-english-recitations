@@ -4,6 +4,8 @@
 #+startup: fold
 
 * Table of Contents :toc:
+- [[#titlepage][Titlepage]]
+- [[#copyright][Copyright]]
 - [[#acknowledgments][Acknowledgments]]
 - [[#recitation-schedule][Recitation Schedule]]
 - [[#abbreviations][Abbreviations]]
@@ -116,6 +118,105 @@
   - [[#undertaking-the-refuges][Undertaking the Refuges]]
   - [[#pāli-phonetics-and-pronunciation][Pāli Phonetics and Pronunciation]]
   - [[#chanting-leader-guidelines][Chanting Leader Guidelines]]
+- [[#copyright-details][Copyright Details]]
+
+* Titlepage
+#+begin_src latex  :tangle ./manuscript/tex/titlepage.tex
+
+\cleartorecto
+\thispagestyle{empty}
+\vspace*{3em}
+
+{\centering
+
+  \settowidth{\titleLength}{%
+    {\Large\chapterTitleFont\textsc{\MakeUppercase{{\thetitle}}}}%
+  }
+
+  % 'SBS' on title page
+  {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip]%
+
+  % 'Monk Training Centre'
+  {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip]
+  \setlength{\xheight}{\heightof{X}}
+
+  % Ornament
+  \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
+
+  % 'Pali-English Recitations'
+  {\Large\scshape \thetitle}\\[2.5\baselineskip]
+
+  % Dhamma quote
+  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated.''\\ \smallskip (AN 5.25)}\\[1.4\baselineskip]
+}
+
+#+end_src
+
+* Copyright
+#+begin_src latex  :tangle ./manuscript/tex/copyright.tex
+
+\cleartoverso
+\thispagestyle{empty}
+
+\vspace*{-\baselineskip}
+
+{%
+
+\fontsize{10}{16}\selectfont
+\centering
+\setlength{\parindent}{0pt}%
+% \setlength{\parskip}{0.8\baselineskip}%
+
+\vspace{0.5cm}
+
+Published by TBD\\
+% TODO need 2 ISBN numbers assigned (1 for print/pdf, 1 for epub); do more research before printing
+% https://www.pnm.gov.my/
+ISBN \theISBN\\
+Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2022
+
+\vspace{0.5cm}
+
+This book is for free distribution only;\\
+it may not be sold.
+
+\vspace{0.5cm}
+
+Download this book as a PDF, EPUB, or MOBI\\
+at the following address:\\
+\href{https://sasanarakkha.org/}{https://sasanarakkha.org}
+
+\vspace{0.5cm}
+
+Project Manager: Ā. Ariyadhammika\\
+Editor: Ā. Pāladhammika\\
+Typesetting: Aj. Gambhiro, Ā. Pāladhammika\\
+Translators: Ā. Aggacitta, Ā. Bodhi, Aj. Kevalī, Ā. Sujāto, M. Walshe\\
+Endnotes: Ā. Ariyadhammika
+
+\vspace{0.5cm}
+
+This work is licensed under a Creative Commons\\
+Attribution-NonCommercial-NoDerivatives 4.0 International~License.
+
+Produced with the \LaTeX\ typesetting system,\\
+set in Libertinus Serif.
+
+\vspace{0.5cm}
+
+\ifdesktopversion
+This version was created on:\\
+\today \space at \currenttime
+\fi
+
+\vspace{0.5cm}
+
+
+\theEditionInfo
+
+}
+
+#+end_src
 
 * Acknowledgments
 #+begin_src latex :tangle ./manuscript/tex/acknowledgments.tex
@@ -12601,5 +12702,58 @@ The following points should be considered:
 \begin{justify}
   Thanks to all Saṅgha members who are willing to share this responsibility, by taking turns as chanting leaders.
 \end{justify}
+
+#+end_src
+* Copyright Details
+#+begin_src latex :tangle ./manuscript/tex/copyright-details.tex
+
+\clearpage
+\thispagestyle{plain}
+
+{%
+
+\fontsize{11}{17}\selectfont%
+
+\setlength{\parindent}{0pt}%
+\raggedright\label{copyright-details}%
+\setlength{\parskip}{4.5pt}%
+
+{\centering
+
+{\fontsize{25}{17}\selectfont \ccbyncnd}
+
+\vspace{0.5cm}
+
+This work is licensed under a Creative Commons\\
+Attribution-NonCommercial-NoDerivatives 4.0 International~License.\\
+\href{https://creativecommons.org/licenses/by-nc-nd/4.0/}{https://creativecommons.org/licenses/by-nc-nd/4.0/}
+
+\vspace{0.5cm}
+
+}
+
+You are free to:
+
+\begin{packeditemize}
+  \item \textbf{Share} — copy and redistribute the material in any medium or format.
+\end{packeditemize}
+
+The licensor cannot revoke these freedoms as long as you follow the license terms listed below:
+
+\begin{packeditemize}
+  \item \textbf{Attribution} — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+  \item \textbf{NonCommercial} — You may not use the material for commercial purposes.
+  \item \textbf{NoDerivatives} — If you remix, transform, or build upon the material, you may not distribute the modified material.
+\end{packeditemize}
+
+\vspace{0.5cm}
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+}
 
 #+end_src

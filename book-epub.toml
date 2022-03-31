@@ -15,6 +15,6 @@ curly-quotes = true
 
 [output.epub]
 additional-css = ["assets/stylesheets/output-epub.css"]
-use-default-css = false
+use-default-css = true
 cover-image = "front-cover-compressed.jpg"
 additional-resources = ["assets/fonts/LibertinusSerif-Regular.otf", "assets/fonts/LibertinusSerif-Italic.otf", "assets/fonts/LibertinusSerif-Bold.otf", "assets/fonts/LibertinusSerif-Regular.otf"]

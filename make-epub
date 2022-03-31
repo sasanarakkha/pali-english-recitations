@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+org-tangle recitations.md.org && ../libs/mdbook-epub --standalone

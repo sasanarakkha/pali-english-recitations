@@ -1,5 +1,5 @@
 <div class="titlepage-cover">
 
-![SBS Pāli-English Reciations](./includes/images/reference-desktop-cover.jpg)
+![SBS Pāli-English Reciations](./includes/images/front-cover-compressed.jpg)
 
 </div>

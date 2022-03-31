@@ -1,6 +1,6 @@
 ## Preliminary Homage<a id="preliminary-homage"></a>
 
-> [Handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase]
+> [Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase]
 
 > [Now let us pay preliminary homage to the Buddha.]
 

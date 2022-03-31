@@ -6,24 +6,24 @@ BIBTEX=bibtex
 
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error -synctex=1
 
-tangle := $(shell org-tangle ./recitations.tex.org && org-tangle ./recitations.md.org)
-
 all: document
 
 dist:
 	./helpers/dist.sh
 
 ebooks:
+	$(shell org-tangle ./recitations.md.org)
 	./helpers/generate_ebooks.sh
 
 four-times:
 	./helpers/four-times.sh
 
 document:
+	$(shell org-tangle ./recitations.tex.org)
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 sass:
-	/home/paladhammika/.local/share/node_modules/node-sass/bin/node-sass ./assets/sass -o ./assets/stylesheets
+	node-sass ./assets/sass -o ./assets/stylesheets
 
 sass-watch:
 	node-sass -w ./assets/sass -o ./assets/stylesheets
