@@ -78,4 +78,4 @@ Sotthi te hotu sabbadā
 
 </div>
 
-suttaRef{[Thai]}
+[Thai]

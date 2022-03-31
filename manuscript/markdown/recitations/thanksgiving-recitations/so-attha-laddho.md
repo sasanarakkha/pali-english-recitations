@@ -36,4 +36,4 @@ Arogā sukhitā hotha – Saha sabbehi ñātibhi
 
 </div>
 
-suttaRef{[AN 3.155]}
+[AN 3.155]

@@ -1,6 +1,8 @@
 ## Anupubba-sikkhā<a id="anupubba-sikkha"></a>
 
-<center>[Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase]</center>
+<center><center>
+〈 Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ
 vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ

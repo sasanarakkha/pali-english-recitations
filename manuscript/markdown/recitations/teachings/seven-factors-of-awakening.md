@@ -1,8 +1,9 @@
 ## The Seven Factors of Awakening<a id="seven-factors-of-awakening"></a>
-section{The Seven Factors of Awakening}
-paliTitle{Satta-sambojjh'aṅgā}
+Satta-sambojjh'aṅgā
 
-> [Handa mayaṁ satta-sambojjh'aṅga-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ satta-sambojjh'aṅga-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
 
@@ -28,7 +29,7 @@ Nīyanti takkarassa sammā dukkhakkhayāya
 
 </div>
 
-/suttaRef{[SN 46.19]}
+[SN 46.19]
 
 Ye te bhikkhave bhikkhū
 
@@ -273,7 +274,7 @@ So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti
 
 </div>
 
-suttaRef{[SN 46.3]}
+[SN 46.3]
 
 Ime kho bhikkhave satta bojjhaṅgā’ti
 
@@ -283,4 +284,4 @@ Ime kho bhikkhave satta bojjhaṅgā’ti
 
 </div>
 
-suttaRef{[SN 46.22]}
+[SN 46.22]

@@ -11,7 +11,7 @@ viññāṇakkhandho.
 
 </div>
 
-suttaRef{[MN 109]}
+[MN 109]
 
 Dvā-das’āyatanāni:
 Cakkhv-'āyatanaṁ rūp’'āyatanaṁ,
@@ -32,7 +32,7 @@ Man’'āyatanaṁ dhamm’'āyatanaṁ
 
 </div>
 
-suttaRef{[MN 148]}
+[MN 148]
 
 Aṭṭhārasa dhātuyo:
 Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu,
@@ -54,7 +54,7 @@ Mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
 
 </div>
 
-suttaRef{[MN 115]}
+[MN 115]
 
 Bā-vīsat’indriyāni:i
 Cakkhu’ndriyaṁ sot’indriyaṁ ghān’indriyaṁ
@@ -72,7 +72,7 @@ anaññātañ-ñassāmīt’indriyaṁ aññ’indriyaṁ aññātāv’indriya�
 
 </div>
 
-suttaRef{[Vibh]}
+[Vibh]
 
 Cattāri ariya-saccāni:
 Dukkhaṁ ariya-saccaṁ,
@@ -90,7 +90,7 @@ Dukkha-nirodha-gāminī paṭipadā ariya-saccaṁ.
 
 </div>
 
-suttaRef{[SN 56.24]}
+[SN 56.24]
 
 Avijjā-paccayā saṅkhārā,
 Saṅkhāra-paccayā viññāṇaṁ,
@@ -148,4 +148,4 @@ Evam'etassa kevalassa dukkhakkhandhassa nirodho hoti.
 
 </div>
 
-suttaRef{[SN 12.1]}
+[SN 12.1]

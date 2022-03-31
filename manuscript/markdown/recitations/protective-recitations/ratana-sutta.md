@@ -275,4 +275,4 @@ Tathāgataṁ deva-manussa-pūjitaṁ – Saṅghaṁ namassāma suvatthi hotu
 </div>
 
 
-suttaRef{[Snp 2.1]}
+[Snp 2.1]

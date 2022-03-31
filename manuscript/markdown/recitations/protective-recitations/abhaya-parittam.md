@@ -36,4 +36,4 @@ Pāpaggaho dussupinaṁ akantaṁ – Saṅghānubhāvena vināsamentu
 
 </div>
 
-suttaRef{[Trad]}
+[Trad]

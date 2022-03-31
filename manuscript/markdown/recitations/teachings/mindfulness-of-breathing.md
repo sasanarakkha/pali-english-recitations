@@ -1,7 +1,9 @@
 ## Mindfulness of Breathing<a id="mindfulness-of-breathing"></a>
 Ānāpānassati
 
-> [Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Ānāpānassati bhikkhave bhāvitā bahulī-katā
 
@@ -437,4 +439,4 @@ Mahapphalā hoti mah'ānisaṁsā'ti
 
 </div>
 
-suttaRef{[MN 118]}
+[MN 118]

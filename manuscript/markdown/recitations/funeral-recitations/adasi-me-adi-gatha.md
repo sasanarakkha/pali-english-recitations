@@ -48,4 +48,4 @@ Balañ'ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan�
 
 </div>
 
-suttaRef{[Khp 7]}
+[Khp 7]

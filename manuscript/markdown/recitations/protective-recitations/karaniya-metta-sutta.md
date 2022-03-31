@@ -77,7 +77,7 @@ Evam pi sabba-bhūtesu – Mānasam-bhāvaye aparimāṇaṁ
 
 <div class="english">
 
-   TODO: something here prevents xport
+TODO: something here prevents xport
 >    Just as a mother [her] own child,
 >    [Her] only child, would protect with [her] life;
 >    Thus also, towards all beings,
@@ -122,4 +122,4 @@ Kāmesu vineyya gedhaṁ – Na hi jātu gabbha-seyyaṁ punar-etī’ti
 
 </div>
 
-suttaRef{[Snp 1.8]}
+[Snp 1.8]

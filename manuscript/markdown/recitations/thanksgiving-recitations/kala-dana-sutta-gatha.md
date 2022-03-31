@@ -38,4 +38,4 @@ Puññāni para-lokasmiṁ – patiṭṭhā honti pāṇinan'ti
 
 </div>
 
-suttaRef{[AN 5.36]}
+[AN 5.36]

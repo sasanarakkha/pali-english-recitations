@@ -30,4 +30,4 @@ vigata-paccayo, avigata-paccayo.
 
 </div>
 
-suttaRef{[Dhs A]}
+[Dhs A]

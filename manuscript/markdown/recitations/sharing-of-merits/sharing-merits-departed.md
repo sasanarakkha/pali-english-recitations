@@ -13,4 +13,4 @@ Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 
 </div>
 
-suttaRef{[Thai]}
+[Thai]

@@ -6,7 +6,7 @@ Bhagavā arahaṁ sammāsambuddho
 
 <div class="english">
 
->  To the Blessed One the Worthy One who fully attained Perfect Enlightenment
+>  To the Blessed One<a href="#endnote2"><sup>2</sup></a> the Worthy One who fully attained Perfect Enlightenment
 
 </div>
 
@@ -46,7 +46,7 @@ Sādhu no bhante bhagavā sucira-parinibbuto'pi
 
 <div class="english">
 
->  It is well for us that the Blessed One\\
+>  It is well for us that the Blessed One\
 
 >  Having attained liberation
 

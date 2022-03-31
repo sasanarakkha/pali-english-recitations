@@ -76,4 +76,4 @@ So’haṁ namo bhagavato – Namo sattannaṁ sammā-sambuddhānaṁ.
 
 </div>
 
-suttaRef{[AN 4.67]}
+[AN 4.67]

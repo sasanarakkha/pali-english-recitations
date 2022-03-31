@@ -36,4 +36,4 @@ Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
 
 </div>
 
-suttaRef{[Trad]}
+[Trad]

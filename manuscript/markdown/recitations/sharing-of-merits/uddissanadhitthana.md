@@ -1,7 +1,9 @@
 ## Sharing and Aspirations<a id="uddissanadhitthana"></a>
 Uddissanādhiṭṭhānā
 
-> [Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase]
+<center>
+〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase 〉
+</center>
 
 Iminā puññakammena upajjhāyā guṇuttarā
 Ācariyūpakārā ca mātāpitā ca ñātakā
@@ -20,7 +22,8 @@ Buddhādhipavaro nātho dhammo nātho varuttamo
 Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ
 Tesottamānubhāvena mārokāsaṁ labhantu mā
 
-> [Now let us recite the verses of sharing and aspiration]
+<center>
+〈 Now let us recite the verses of sharing and aspiration]
 
 <div class="english">
 
@@ -51,4 +54,4 @@ Tesottamānubhāvena mārokāsaṁ labhantu mā
 
 </div>
 
-suttaRef{[Trad]}
+[Trad]

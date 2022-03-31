@@ -1,7 +1,8 @@
 ### Undertaking the Three Refuges<a id="three-refuges"></a>
-subsection{Undertaking the Three Refuges}
 
+<center>
 (Repeat line by line after the leader)
+</center>
 
 Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 
@@ -116,7 +117,9 @@ Response: Sādhu, sādhu, sādhu
 ## Undertaking the Eight Trainings<a id="eight-trainings"></a>
 subsection{Undertaking the Eight Trainings}
 
-> (To undertake the trainings, repeat each training after the leader)
+<center>
+(To undertake the trainings, repeat each training after the leader)
+</center>
 
 Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 

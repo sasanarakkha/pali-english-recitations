@@ -1,6 +1,8 @@
 ## The Gradual Training<a id="gradual-training"></a>
 
-<center>[Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase]</center>
+<center><center>
+〈 Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase 〉
+</center></center>
 
 Bhikkhave ye te mayā dhammā abhiññā desitā
 
@@ -130,4 +132,4 @@ Ariyo aṭṭhaṅgiko maggo
 
 </div>
 
-suttaRef{[DN 16]}
+[DN 16]

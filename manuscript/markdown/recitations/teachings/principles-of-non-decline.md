@@ -1,7 +1,9 @@
 ## Principles of Non-Decline<a id="principles-of-non-decline"></a>
 Aparihāniya-dhammā
 
-> [Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Katame bhikkhave satta aparihāniyā dhammā
 
@@ -283,7 +285,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-suttaRef{[AN 7.23]}
+[AN 7.23]
 
 Yāvakīvañ'ca bhikkhave bhikkhū
 
@@ -366,7 +368,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 </div>
 
-suttaRef{[AN 7.23-27]}
+[AN 7.23-27]
 
 Ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattanti
 
@@ -416,4 +418,4 @@ Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti
 
 </div>
 
-suttaRef{[AN 6.22 & 8.79]}
+[AN 6.22 & 8.79]

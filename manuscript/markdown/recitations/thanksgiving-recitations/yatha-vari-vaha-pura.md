@@ -14,7 +14,7 @@ Evam'eva ito dinnaṁ – Petānaṁ upakappati
 
 </div>
 
-suttaRef{[Khp 1.7]}
+[Khp 1.7]
 
 Icchitaṁ patthitaṁ tumhaṁ – Khippam'eva samijjhatu
 TODO: indent Sabbe pūrentu saṅkappā
@@ -42,7 +42,7 @@ Mā te bhavatv-antarāyo – Sukhī dīgh’āyuko bhava
 
 </div>
 
-suttaRef{[Khp A]}
+[Khp A]
 
 Abhivādana-sīlissa – Niccaṁ vuḍḍhāpacāyino
 Cattāro dhammā vaḍḍhanti – Āyu vaṇṇo sukhaṁ balaṁi
@@ -54,4 +54,4 @@ Cattāro dhammā vaḍḍhanti – Āyu vaṇṇo sukhaṁ balaṁi
 > Four things increase
 > Long-life beauty  ̓  happiness and strength
 
-suttaRef{[Dhp 109]}
+[Dhp 109]

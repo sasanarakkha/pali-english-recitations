@@ -1,7 +1,9 @@
 ## The Highest Honour and Aspirations<a id="highest-honour-aspirations"></a>
 Paramāya pūjāyañca paṇidhiñca
 
-> [Handa mayaṁ buddhapūjañca paṇidhiñca karomase]
+<center>
+〈 Handa mayaṁ buddhapūjañca paṇidhiñca karomase 〉
+</center>
 
 Buddhaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi
 
@@ -59,7 +61,7 @@ Yāva nibbānapattiyā
 
 </div>
 
-suttaRef{[Sri Lanka]}
+[Sri Lanka]
 
 Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā
 
@@ -109,7 +111,7 @@ Paramāya pūjāya
 
 </div>
 
-suttaRef{[DN 16]}
+[DN 16]
 
 Tasmā
 
@@ -154,4 +156,4 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 </div>
 
-suttaRef{[Sri Lanka]}
+[Sri Lanka]

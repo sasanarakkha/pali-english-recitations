@@ -1,7 +1,9 @@
 ## The Buddha's First Exclamation<a id="buddhas-final-instruction"></a>
 Buddha-pacchima-ovāda
 
-> [Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase]
+<center>
+〈 Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase 〉
+</center>
 
 Siyā kho tumhākaṁ evam'assa
 
@@ -38,7 +40,8 @@ So vo mam'accayena satthā
 
 </div>
 
-Handa dāni bhikkhave āmantayāmi vo
+<center>
+〈 Handa dāni bhikkhave āmantayāmi vo
 
 <div class="english">
 
@@ -70,4 +73,4 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 </div>
 
-suttaRef{[DN 16]}
+[DN 16]

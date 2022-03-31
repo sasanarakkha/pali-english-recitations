@@ -39,7 +39,7 @@ Abhiseke sabba-buddhānaṁ Aggappatto pamodati
 
 </div>
 
-suttaRef{[MJG]}
+[MJG]
 
 Sunakkhattaṁ sumaṅgalaṁ Supabhātaṁ suhuṭṭhitaṁ
 Sukhaṇo sumuhutto ca Suyiṭṭhaṁ brahma-cārisu
@@ -68,4 +68,4 @@ Padakkhiṇāni katvāna Labhant’atthe padakkhiṇe
 
 </div>
 
-suttaRef{[AN 3.155]}
+[AN 3.155]

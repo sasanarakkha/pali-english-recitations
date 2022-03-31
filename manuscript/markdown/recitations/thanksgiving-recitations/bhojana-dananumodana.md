@@ -59,4 +59,4 @@ Saha sabbehi ñātibhī
 
 </div>
 
-suttaRef{[AN 5.37 / Dhp 109 / AN 3.155]}
+[AN 5.37 / Dhp 109 / AN 3.155]

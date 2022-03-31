@@ -1,86 +1,195 @@
 ## The Thirty-Two Parts<a id="32-parts"></a>
 Dvattiṁs'ākāra-paccavekkhaṇa
 
-\begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ dvattiṁs'ākāra-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
-\end{leader}
+<center>
+〈 Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase 〉
+</center>
 
-\begin{pali-hang}
-  Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
-\end{pali-hang}
+Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 
-\begin{english-verses}
-  This which is my body\\
-  From the soles of the feet up\\
-  And down from the crown of the head\\
-  Is a sealed bag of skin\\
-  Filled with unattractive things
-\end{english-verses}
+This which is my body\
+From the soles of the feet up\
+And down from the crown of the head\
+Is a sealed bag of skin\
+Filled with unattractive things
 
 Atthi imasmiṁ kāye
 
-\begin{english}
-  In this body there are
-\end{english}
+In this body there are
 
-{\centering
-  \setArrayStretch{1}
+<center>
+<table>
+<tr>
+<td style="text-align:right">kesā</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>hair of the head</em></td>
+</tr>
+<tr>
+<td style="text-align:right">lomā</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>hair of the body</em></td>
+</tr>
+<tr>
+<td style="text-align:right">nakhā</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>nails</em></td>
+</tr>
+<tr>
+<td style="text-align:right">dantā</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>teeth</em></td>
+</tr>
+<tr>
+<td style="text-align:right">taco</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>skin</em></td>
+</tr>
+<tr>
+<td style="text-align:right">maṁsaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>flesh</em></td>
+</tr>
+<tr>
+<td style="text-align:right">nahārū</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>sinews</em></td>
+</tr>
+<tr>
+<td style="text-align:right">aṭṭhī</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>bones</em></td>
+</tr>
+<tr>
+<td style="text-align:right">aṭṭhimiñjaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>bone marrow</em></td>
+</tr>
+<tr>
+<td style="text-align:right">vakkaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>kidneys</em></td>
+</tr>
+<tr>
+<td style="text-align:right">hadayaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>heart</em></td>
+</tr>
+<tr>
+<td style="text-align:right">yakanaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>liver</em></td>
+</tr>
+<tr>
+<td style="text-align:right">kilomakaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>membranes</em></td>
+</tr>
+<tr>
+<td style="text-align:right">pihakaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>spleen</em></td>
+</tr>
+<tr>
+<td style="text-align:right">papphāsaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>lungs</em></td>
+</tr>
+<tr>
+<td style="text-align:right">antaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>bowels</em></td>
+</tr>
+<tr>
+<td style="text-align:right">antaguṇaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>entrails</em></td>
+</tr>
+<tr>
+<td style="text-align:right">udariyaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>undigested food</em></td>
+</tr>
+<tr>
+<td style="text-align:right">karīsaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>excrement</em></td>
+</tr>
+<tr>
+<td style="text-align:right">pittaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>bile</em></td>
+</tr>
+<tr>
+<td style="text-align:right">semhaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>phlegm</em></td>
+</tr>
+<tr>
+<td style="text-align:right">pubbo</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>pus</em></td>
+</tr>
+<tr>
+<td style="text-align:right">lohitaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>blood</em></td>
+</tr>
+<tr>
+<td style="text-align:right">sedo</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>sweat</em></td>
+</tr>
+<tr>
+<td style="text-align:right">medo</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>fat</em></td>
+</tr>
+<tr>
+<td style="text-align:right">assu</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>tears</em></td>
+</tr>
+<tr>
+<td style="text-align:right">vasā</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>grease</em></td>
+</tr>
+<tr>
+<td style="text-align:right">kheḷo</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>spittle</em></td>
+</tr>
+<tr>
+<td style="text-align:right">siṅghāṇikā</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>mucus</em></td>
+</tr>
+<tr>
+<td style="text-align:right">lasikā</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>oil of the joints</em></td>
+</tr>
+<tr>
+<td style="text-align:right">muttaṁ</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>urine</em></td>
+</tr>
+<tr>
+<td style="text-align:right">matthaluṅgan'ti</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align:left"><em>brain</em></td>
+</tr>
+</table>
+</center>
 
-  \begin{tabular}{ r l }
-    kesā            & \tr{hair of the head} \\
-    lomā            & \tr{hair of the body} \\
-    nakhā           & \tr{nails} \\
-    dantā           & \tr{teeth} \\
-    taco            & \tr{skin} \\
-    maṁsaṁ          & \tr{flesh}\\
-    nahārū          & \tr{sinews} \\
-    aṭṭhī           & \tr{bones} \\
-    aṭṭhimiñjaṁ     & \tr{bone marrow} \\
-    vakkaṁ          & \tr{kidneys} \\
-    hadayaṁ         & \tr{heart} \\
-    yakanaṁ         & \tr{liver} \\
-    kilomakaṁ       & \tr{membranes} \\
-  \end{tabular}
-  \begin{tabular}{ r l }
-    pihakaṁ         & \tr{spleen} \\
-    papphāsaṁ       & \tr{lungs} \\
-    antaṁ           & \tr{bowels} \\
-    antaguṇaṁ       & \tr{entrails} \\
-    udariyaṁ        & \tr{undigested food} \\
-    karīsaṁ         & \tr{excrement} \\
-    pittaṁ          & \tr{bile} \\
-    semhaṁ          & \tr{phlegm} \\
-    pubbo           & \tr{pus} \\
-    lohitaṁ         & \tr{blood} \\
-    sedo            & \tr{sweat} \\
-    medo            & \tr{fat} \\
-    assu            & \tr{tears} \\
-    vasā            & \tr{grease} \\
-    kheḷo           & \tr{spittle} \\
-    siṅghāṇikā      & \tr{mucus} \\
-    lasikā          & \tr{oil of the joints} \\
-    muttaṁ          & \tr{urine} \\
-\linkdest{endnote103-body}
-    matthaluṅgan'ti & \tr{brain}\makeatletter\hyperlink{endnote103-appendix}\Hy@raisedlink{\hypertarget{endnote103-body}{}{\pagenote{%
-                      \hypertarget{endnote103-appendix}{\hyperlink{endnote103-body}{In the discourses, except for one occasion in the Khp, the brain is not mentioned as a separate organ or body part, making it a list of only 31 body parts.}}}}}\makeatother
-  \end{tabular}
 
-  \restoreArrayStretch
-}
 
-\begin{pali-hang}
-  Evam'ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
-\end{pali-hang}
+Evam'ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 
-\begin{english-verses}
-  This then which is my body\\
-  From the soles of the feet up\\
-  And down from the crown of the head\\
-  Is a sealed bag of skin\\
-  Filled with unattractive things
-\end{english-verses}
+This then which is my body\
+From the soles of the feet up\
+And down from the crown of the head\
+Is a sealed bag of skin\
+Filled with unattractive things
 
-\suttaRef{[DN 22]}
-
-\enlargethispage{\baselineskip\vspace{-1.0em}}
-\bottomNav{principles-of-cordiality}
+[DN 22]

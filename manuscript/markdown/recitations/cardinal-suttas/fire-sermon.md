@@ -70,4 +70,4 @@ When he is disenchanted passion fades away. With the fading of passion he is lib
 
 That is what the Blessed One said. The bhikkhus were glad and they approved of his words. Now during this utterance  ̓  the hearts of those thousand bhikkhus  ̓  were liberated from the taints through the cessation of clinging.
 
-suttaRef{[SN 35.28]}
+[SN 35.28]

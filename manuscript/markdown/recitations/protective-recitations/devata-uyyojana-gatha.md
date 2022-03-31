@@ -48,4 +48,4 @@ Arahantānañ'ca tejena – Rakkhaṁ bandhāmi sabbaso
 
 </div>
 
-suttaRef{[MJG]}
+[MJG]

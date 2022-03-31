@@ -1,7 +1,9 @@
 ## Sharing of All Merits<a id="sharing-all-merits"></a>
 Sabba-patti-dāna
 
-> [Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase]
+<center>
+〈 Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase 〉
+</center>
 
 Puññass’idāni katassa yān’aññāni katāni me
 Tesañ'ca bhāgino hontu sattānantāppamāṇakā
@@ -65,4 +67,4 @@ Khemappadañ'ca pappontu tesāsā sijjhataṁ subhā
 
 </div>
 
-suttaRef{[Thai]}
+[Thai]

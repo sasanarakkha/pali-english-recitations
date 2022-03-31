@@ -1,130 +1,132 @@
 ## Miscellaneous Verses<a id="misc-verses"></a>
 Pakiṇṇaka-gāthā
 
-> [Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase]
+<center>
+〈 Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase 〉
+</center>
 
-Attadīpā bhikkhave viharatha attasaraṇā anaññasaraṇā
+Attadīpā bhikkhave viharatha attasaraṇā anaññasaraṇā\
 Dhammadīpā dhammasaraṇā anaññasaraṇā
 
 <div class="english">
 
-> Bhikkhus dwell with yourselves as an island
-> With yourselves as a refuge  ̓  with no other refuge
-> With the Dhamma as an island  ̓  with the Dhamma as a refuge
+> Bhikkhus dwell with yourselves as an island\
+> With yourselves as a refuge  ̓  with no other refuge\
+> With the Dhamma as an island  ̓  with the Dhamma as a refuge\
 > With no other refuge
 
 </div>
 
-suttaRef{[SN 22.43]}
+[SN 22.43]
 
-Appassut'āyaṁ puriso – Balibaddo'va jīrati
+Appassut'āyaṁ puriso – Balibaddo'va jīrati\
 Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati
 
 <div class="english">
 
-> The man of little learning
-> Grows old like an ox
+> The man of little learning\
+> Grows old like an ox\
 > He grows only in bulk
 > But his wisdom does not grow
 
 </div>
 
-suttaRef{[Dhp 152]}
+[Dhp 152]
 
-Uyyuñjanti satīmanto – Na nikete ramanti te
-Haṁsā'va pallalaṁ hitvā – Okam'okaṁ jahanti te
+Uyyuñjanti satīmanto – Na nikete ramanti te\
+Haṁsā'va pallalaṁ hitvā – Okam'okaṁ jahanti te\
 
 <div class="english">
 
-> The mindful ones exert themselves
-> They are not attached to any home
-> Like swans that abandon the lake
+> The mindful ones exert themselves\
+> They are not attached to any home\
+> Like swans that abandon the lake\
 > They leave home after home behind
 
 </div>
 
-suttaRef{[Dhp 91]}
+[Dhp 91]
 
-Yaṁ pubbe taṁ visosehi – Pacchā te māhu kiñcanaṁ
+Yaṁ pubbe taṁ visosehi – Pacchā te māhu kiñcanaṁ\
 Majjhe ce no gahessasi – Upasanto carissasi
 
 <div class="english">
 
-> Dry up what pertains to the past
-> Let there be nothing afterward
-> If you do not grasp in the middle
+> Dry up what pertains to the past\
+> Let there be nothing afterward\
+> If you do not grasp in the middle\
 > You will live at peace
 
 </div>
 
-suttaRef{[Snp 949]}
+[Snp 949]
 
-Uṭṭhahatha nisīdatha – Ko attho supitena vo
+Uṭṭhahatha nisīdatha – Ko attho supitena vo\
 Āturānañ'hi kā niddā – Sallaviddhāna ruppataṁ
 
 <div class="english">
 
-> Arouse yourselves  ̓  sit up!
-> What good to you is sleeping?
-> For what sleep can there be for the afflicted
+> Arouse yourselves  ̓  sit up!\
+> What good to you is sleeping?\
+> For what sleep can there be for the afflicted\
 > For those injured  ̓  pierced by the dart?
 
 </div>
 
-Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā
+Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā\
 Mā vo pamatte viññāya – Maccurājā amohayittha vas'ānuge
 
 <div class="english">
 
-> Arouse yourselves  ̓  sit up!
-> Train vigorously for the state of peace
-> Let not the King of Death catch you heedless
+> Arouse yourselves  ̓  sit up!\
+> Train vigorously for the state of peace\
+> Let not the King of Death catch you heedless\
 > And delude you when under his control
 
 </div>
 
-Yāya devā manussā ca – Sitā tiṭṭhanti atthikā
-Tarath'etaṁ visattikaṁ – Khaṇo vo mā upaccagā
+Yāya devā manussā ca – Sitā tiṭṭhanti atthikā\
+Tarath'etaṁ visattikaṁ – Khaṇo vo mā upaccagā\
 Khaṇ'ātītā hi socanti – Nirayamhi samappitā
 
 <div class="english">
 
-> Cross over this attachment
-> By which devas and human beings
-> Full of need are held fast
-> Don’t let the opportunity pass you by
-> For those who have missed the opportunity
+> Cross over this attachment\
+> By which devas and human beings\
+> Full of need are held fast\
+> Don’t let the opportunity pass you by\
+> For those who have missed the opportunity\
 > Sorrow when they arrive in hell
 
 </div>
 
-Pamādo rajo pamādo – Pamād'ānupatito rajo
+Pamādo rajo pamādo – Pamād'ānupatito rajo\
 Appamādena vijjāya – Abbahe sallam'attano'ti
 
 <div class="english">
 
-> Heedlessness is dust always
-> Dust follows upon heedlessness
-> By heedfulness by clear knowledge
+> Heedlessness is dust always\
+> Dust follows upon heedlessness\
+> By heedfulness by clear knowledge\
 > Draw out the dart from yourself
 
 </div>
 
-suttaRef{[Snp 333-336]}
+[Snp 333-336]
 
-Piyato jāyatī soko – Piyato jāyatī bhayaṁ
+Piyato jāyatī soko – Piyato jāyatī bhayaṁ\
 Piyato vippamuttassa – N'atthi soko kuto bhayaṁ
 
 <div class="english">
 
-> From endearment springs sorrow
-> From endearment springs fear
-> For one who is free from endearment
+> From endearment springs sorrow\
+> From endearment springs fear\
+> For one who is free from endearment\
 > There is no sorrow  ̓  whence then fear?
 
 </div>
 
-suttaRef{[Dhp 212]}
+[Dhp 212]
 
 Tiṭṭhat'eva nibbānaṁ
 
@@ -150,7 +152,7 @@ Maggakkhāyī tathāgato
 
 </div>
 
-suttaRef{[MN 107]}
+[MN 107]
 
 Tumhehi kiccam'ātappaṁ
 
@@ -160,15 +162,15 @@ Tumhehi kiccam'ātappaṁ
 
 </div>
 
-suttaRef{[Dhp 276]}
+[Dhp 276]
 
-Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ
+Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ\
 Hitesinā anukampakena anukampaṁ upādāya
 
 <div class="english">
 
-> Bhikkhus what should be done for his disciples
-> Out of compassion by a teacher
+> Bhikkhus what should be done for his disciples\
+> Out of compassion by a teacher\
 > Who seek their welfare and has compassion for them
 
 </div>
@@ -221,4 +223,4 @@ Ayaṁ vo amhākaṁ anusāsanī’ti
 
 </div>
 
-suttaRef{[MN 19]}
+[MN 19]

@@ -1,6 +1,9 @@
 ## Closing Homage<a id="closing-homage"></a>
 
-[Arahaṁ] sammāsambuddho bhagavā
+<center>
+〈 Arahaṁ 〉
+</center>
+Sammāsambuddho bhagavā
 
 <div class="english">
 
@@ -16,7 +19,10 @@ Buddhaṁ bhagavantaṁ abhivādemi
 
 </div>
 
-[Svākkhāto] bhagavatā dhammo
+<center>
+〈 Svākkhāto 〉
+</center>
+Bhagavatā dhammo
 
 <div class="english">
 
@@ -32,7 +38,10 @@ Dhammaṁ namassāmi
 
 </div>
 
-[Supaṭipanno] bhagavato sāvakasaṅgho
+<center>
+〈 Supaṭipanno 〉
+</center>
+Bhagavato sāvakasaṅgho
 
 <div class="english">
 

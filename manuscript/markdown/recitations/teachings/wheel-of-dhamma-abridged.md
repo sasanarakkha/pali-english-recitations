@@ -1,7 +1,9 @@
 ## Setting in Motion the Wheel of Dhamma<a id="wheel-of-dhamma-abridged"></a>
 Dhamma-cakkappavattana
 
-> [Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Dve'me bhikkhave antā
 
@@ -23,7 +25,7 @@ Yo c'āyaṁ kāmesu kāma-sukh’allikānuyogo
 
 <div class="english">
 
-> That is whatever is tied up to sense pleasures
+> That is whatever is tied up to sense pleasures\
 > Within the realm of sensuality
 
 </div>
@@ -72,7 +74,7 @@ Yo c'āyaṁ atta-kilamath'ānuyogo
 
 <div class="english">
 
-> Then there is whatever is tied up
+> Then there is whatever is tied up\
 > With self-deprivation
 
 </div>
@@ -105,8 +107,8 @@ Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisam
 
 <div class="english">
 
-> Bhikkhus without going to either of these extremes
-> The Tathāgata has ultimately awakened
+> Bhikkhus without going to either of these extremes\
+> The Tathāgata has ultimately awakened\
 > To a middle way of practice
 
 </div>
@@ -251,7 +253,7 @@ Ayaṁ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā
 
 <div class="english">
 
-> This bhikkhus is the middle way of practice
+> This bhikkhus is the middle way of practice\
 > That the Tathāgata has ultimately awakened to
 
 </div>
@@ -509,7 +511,7 @@ Idaṁ kho pana bhikkhave dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ
 
 <div class="english">
 
-> This bhikkhus is the Noble Truth of the way of practice
+> This bhikkhus is the Noble Truth of the way of practice\
 > Leading to the cessation of dukkha
 
 </div>
@@ -594,22 +596,22 @@ Sammā-samādhi
 
 </div>
 
-Idaṁ dukkhaṁ ariya-saccan’ti me bhikkhave
-Pubbe ananussutesu dhammesu
-Cakkhuṁ udapādi
-Ñāṇaṁ udapādi
-Paññā udapādi
-Vijjā udapādi
+Idaṁ dukkhaṁ ariya-saccan’ti me bhikkhave\
+Pubbe ananussutesu dhammesu\
+Cakkhuṁ udapādi\
+Ñāṇaṁ udapādi\
+Paññā udapādi\
+Vijjā udapādi\
 Āloko udapādi
 
 <div class="english">
 
-> Bhikkhus in regard to things unheard of before
-> Vision arose
-> Insight arose
-> Discernment arose
-> Knowledge arose
-> Light arose in me
+> Bhikkhus in regard to things unheard of before\
+> Vision arose\
+> Insight arose\
+> Discernment arose\
+> Knowledge arose\
+> Light arose in me\
 > “This is the Noble Truth of dukkha”
 
 </div>
@@ -618,7 +620,7 @@ Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññeyyan’ti
 
 <div class="english">
 
-> This Noble Truth of dukkha
+> This Noble Truth of dukkha\
 > Should be completely understood
 
 </div>
@@ -627,27 +629,27 @@ Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññātan’ti
 
 <div class="english">
 
-> This Noble Truth of dukkha
+> This Noble Truth of dukkha\
 > Has been completely understood
 
 </div>
 
-Idaṁ dukkha-samudayo ariya-saccan’ti me bhikkhave
-Pubbe ananussutesu dhammesu
-Cakkhuṁ udapādi
-Ñāṇaṁ udapādi
-Paññā udapādi
-Vijjā udapādi
+Idaṁ dukkha-samudayo ariya-saccan’ti me bhikkhave\
+Pubbe ananussutesu dhammesu\
+Cakkhuṁ udapādi\
+Ñāṇaṁ udapādi\
+Paññā udapādi\
+Vijjā udapādi\
 Āloko udapādi
 
 <div class="english">
 
-> Bhikkhus in regard to things unheard of before
-> Vision arose
-> Insight arose
-> Discernment arose
-> Knowledge arose
-> Light arose in me
+> Bhikkhus in regard to things unheard of before\
+> Vision arose\
+> Insight arose\
+> Discernment arose\
+> Knowledge arose\
+> Light arose in me\
 > “This is the Noble Truth of the origin of dukkha”
 
 </div>
@@ -656,7 +658,7 @@ Taṁ kho pan’idaṁ dukkha-samudayo ariya-saccaṁ pahātabban’ti
 
 <div class="english">
 
-> This origin of dukkha
+> This origin of dukkha\
 > Should be abandoned
 
 </div>
@@ -665,27 +667,27 @@ Taṁ kho pan’idaṁ dukkha-samudayo ariya-saccaṁ pahīnan’ti
 
 <div class="english">
 
-> This origin of dukkha
+> This origin of dukkha\
 > Has been abandoned
 
 </div>
 
-Idaṁ dukkha-nirodho ariya-saccan’ti me bhikkhave
-Pubbe ananussutesu dhammesu
-Cakkhuṁ udapādi
-Ñāṇaṁ udapādi
-Paññā udapādi
-Vijjā udapādi
+Idaṁ dukkha-nirodho ariya-saccan’ti me bhikkhave\
+Pubbe ananussutesu dhammesu\
+Cakkhuṁ udapādi\
+Ñāṇaṁ udapādi\
+Paññā udapādi\
+Vijjā udapādi\
 Āloko udapādi
 
 <div class="english">
 
-> Bhikkhus in regard to things unheard of before
-> Vision arose
-> Insight arose
-> Discernment arose
-> Knowledge arose
-> Light arose in me
+> Bhikkhus in regard to things unheard of before\
+> Vision arose\
+> Insight arose\
+> Discernment arose\
+> Knowledge arose\
+> Light arose in me\
 > “This is the Noble Truth of the cessation of dukkha”
 
 </div>
@@ -694,7 +696,7 @@ Taṁ kho pan’idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban’ti
 
 <div class="english">
 
-> This cessation of dukkha
+> This cessation of dukkha\
 > Should be experienced directly
 
 </div>
@@ -703,28 +705,28 @@ Taṁ kho pan’idaṁ dukkha-nirodho ariya-saccaṁ sacchikatan’ti
 
 <div class="english">
 
-> This cessation of dukkha
+> This cessation of dukkha\
 > Has been experienced directly
 
 </div>
 
-Idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccan’ti me bhikkhave
-Pubbe ananussutesu dhammesu
-Cakkhuṁ udapādi
-Ñāṇaṁ udapādi
-Paññā udapādi
-Vijjā udapādi
+Idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccan’ti me bhikkhave\
+Pubbe ananussutesu dhammesu\
+Cakkhuṁ udapādi\
+Ñāṇaṁ udapādi\
+Paññā udapādi\
+Vijjā udapādi\
 Āloko udapādi
 
 <div class="english">
 
-> Bhikkhus in regard to things unheard of before
-> Vision arose
-> Insight arose
-> Discernment arose
-> Knowledge arose
-> Light arose in me
-> “This is the Noble Truth of the way of practice
+> Bhikkhus in regard to things unheard of before\
+> Vision arose\
+> Insight arose\
+> Discernment arose\
+> Knowledge arose\
+> Light arose in me\
+> “This is the Noble Truth of the way of practice\
 > Leading to the cessation of dukkha”
 
 </div>
@@ -733,7 +735,7 @@ Taṁ kho pan’idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāve
 
 <div class="english">
 
-> This way of practice  ̓  leading to the cessation of dukkha
+> This way of practice  ̓  leading to the cessation of dukkha\
 > Should be developed
 
 </div>
@@ -742,65 +744,65 @@ Taṁ kho pan’idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvi
 
 <div class="english">
 
-> This way of practice  ̓  leading to the cessation of dukkha
+> This way of practice  ̓  leading to the cessation of dukkha\
 > Has been developed
 
 </div>
 
-Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
+Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu\
 Evan'ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 
 <div class="english">
 
-> As long bhikkhus as my knowledge and understanding
-> As it actually is
-> Of these Four Noble Truths
-> With their three phases and twelve aspects
-> Was not entirely pure
+> As long bhikkhus as my knowledge and understanding\
+> As it actually is\
+> Of these Four Noble Truths\
+> With their three phases and twelve aspects\
+> Was not entirely pure\
 
 </div>
 
-N’eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake
-Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya
+N’eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake\
+Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\
 Anuttaraṁ sammā-sambodhiṁ abhisambuddhoi paccaññāsiṁ
 
 <div class="english">
 
-> I did not claim bhikkhus
-> In this world of devas
-> Māra and Brahmā
-> Amongst mankind with its priests and renunciants
-> Kings and commoners
-> An ultimate awakening
+> I did not claim bhikkhus\
+> In this world of devas\
+> Māra and Brahmā\
+> Amongst mankind with its priests and renunciants\
+> Kings and commoners\
+> An ultimate awakening\
 > To unsurpassed perfect enlightenment
 
 </div>
 
-Yato ca kho me bhikkhave imesu catūsu ariya-saccesu
+Yato ca kho me bhikkhave imesu catūsu ariya-saccesu\
 Evan'ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
 
 <div class="english">
 
-> But when bhikkhus my knowledge and understanding
-> As it actually is
-> Of these Four Noble Truths
-> With their three phases and twelve aspects
+> But when bhikkhus my knowledge and understanding\
+> As it actually is\
+> Of these Four Noble Truths\
+> With their three phases and twelve aspects\
 > Was indeed entirely pure
 
 </div>
 
-Athāhaṁ bhikkhave sadevake loke samārake sabrahmake
-Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya
+Athāhaṁ bhikkhave sadevake loke samārake sabrahmake\
+Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\
 Anuttaraṁ sammā-sambodhiṁ abhisambuddho paccaññāsiṁ
 
 <div class="english">
 
-> Then indeed did I claim bhikkhus
-> In this world of devas
-> Māra and Brahmā
-> Amongst mankind with its priests and renunciants
-> Kings and commoners
-> An ultimate awakening
+> Then indeed did I claim bhikkhus\
+> In this world of devas\
+> Māra and Brahmā\
+> Amongst mankind with its priests and renunciants\
+> Kings and commoners\
+> An ultimate awakening\
 > To unsurpassed perfect enlightenment
 
 </div>
@@ -837,4 +839,4 @@ N’atthidāni punabbhavo’ti
 
 </div>
 
-suttaRef{[SN 56.11]}
+[SN 56.11]

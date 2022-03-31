@@ -1,7 +1,9 @@
 ## The Dhamma in Brief<a id="dhamma-in-brief"></a>
 Saṅkhitta-dhamma
 
-> [Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ saṅkhitta-sutta-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Mahāpajāpatī Gotamī yena bhagavā ten'upasaṅkami  ̓  upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etad'avoca:
 
@@ -128,4 +130,4 @@ Eso dhammo eso vinayo etaṁ satthusāsanan’ti
 
 </div>
 
-suttaRef{[AN 8.53]}
+[AN 8.53]

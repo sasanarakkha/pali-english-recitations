@@ -152,4 +152,4 @@ Sabbattha sotthiṁ gacchanti – Tan-tesaṁ maṅgalam-uttaman’ti
 
 </div>
 
-suttaRef{[Snp 2.4]}
+[Snp 2.4]

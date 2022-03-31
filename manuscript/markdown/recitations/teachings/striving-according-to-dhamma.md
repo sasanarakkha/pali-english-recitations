@@ -1,7 +1,9 @@
 ## Striving According to the Dhamma<a id="striving-according-to-dhamma"></a>
 Dhamma-pahaṁsāna
 
-> [Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Evaṁ svākkhāto bhikkhave mayā dhammo
 
@@ -293,4 +295,4 @@ Alam'eva appamādena sampādetun'ti
 
 </div>
 
-suttaRef{[SN 12.22]}
+[SN 12.22]

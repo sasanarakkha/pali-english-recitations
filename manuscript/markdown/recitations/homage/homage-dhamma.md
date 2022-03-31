@@ -1,7 +1,9 @@
 ## Homage to the Dhamma<a id="homage-dhamma"></a>
 
->  [Handa mayaṁ dhamm'ābhitthutiṁ karomase]
->  [Now let us recite in praise of the Dhamma]
+<center>
+〈 Handa mayaṁ dhamm'ābhitthutiṁ karomase 〉<br>
+〈 Now let us recite in praise of the Dhamma 〉
+</center>
 
 Yo so svākkhāto bhagavatā dhammo
 

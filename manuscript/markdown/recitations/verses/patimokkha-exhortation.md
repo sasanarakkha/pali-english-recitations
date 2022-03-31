@@ -1,7 +1,9 @@
 ## The Pāṭimokkha Exhortation<a id="patimokkha-exhortation"></a>
 Ovāda-pāṭimokkha-gāthā
 
-> [Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase]
+<center>
+〈 Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase 〉
+</center>
 
 Sabba-pāpassa akaraṇaṁ
 
@@ -115,4 +117,4 @@ Etaṁ buddhāna sāsanaṁ
 
 </div>
 
-suttaRef{[Dhp 183-185]}
+[Dhp 183-185]

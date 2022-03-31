@@ -94,4 +94,4 @@ Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā 
 
 Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū’ti.
 
-suttaRef{[SN 22.59]}
+[SN 22.59]

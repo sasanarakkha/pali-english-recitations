@@ -1,7 +1,9 @@
 ## The Noble Eightfold Path<a id="noble-eightfold-path"></a>
 Ariy’aṭṭh'aṅgika-magga
 
-> [Handa mayaṁ ariy'aṭṭh'aṅgika-magga-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ ariy'aṭṭh'aṅgika-magga-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
@@ -655,4 +657,4 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
 </div>
 
-suttaRef{[SN 45.8]}
+[SN 45.8]

@@ -48,4 +48,4 @@ Deva-bhūto manusso vā – Aggappatto pamodatī'ti
 
 </div>
 
-suttaRef{[AN 5.32]}
+[AN 5.32]

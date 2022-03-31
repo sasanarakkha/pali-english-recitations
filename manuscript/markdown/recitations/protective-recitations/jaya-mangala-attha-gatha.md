@@ -134,4 +134,4 @@ Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 
 </div>
 
-suttaRef{[Trad]}
+[Trad]

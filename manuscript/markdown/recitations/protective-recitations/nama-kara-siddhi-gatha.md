@@ -63,4 +63,4 @@ Sabb’antarāyā ca vināsamentu
 
 </div>
 
-suttaRef{[Thai]}
+[Thai]

@@ -45,4 +45,4 @@ Namo-kārassa tejena – Vidhimhi homi tejavā
 
 </div>
 
-suttaRef{[Thai]}
+[Thai]

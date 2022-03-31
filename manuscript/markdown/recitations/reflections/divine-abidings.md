@@ -1,116 +1,117 @@
 ## The Divine Abidings<a id="divine-abidings"></a>
 Brahmavihārā
 
-\begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ caturappamaññā obhāsanaṁ karomase \hspace{-0.5mm}\anglebracketright\
-\end{leader}
 
-\begin{pali-hang}
-  Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
-\end{pali-hang}
+<center>
+〈 Handa mayaṁ caturappamaññā obhāsanaṁ karomase 〉
 
-\medskip
 
-\begin{pali-hang}
-  Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
-\end{pali-hang}
 
-\medskip
+Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 
-\begin{pali-hang}
-  Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
-\end{pali-hang}
 
-\medskip
 
-\begin{pali-hang}
-  Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
-\end{pali-hang}
 
-\clearpage
+
+Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+
+
+
+
+
+Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+
+
+
+
+
+Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
+
+
+
 
 \begin{leader-english}
-  \anglebracketleft\ \hspace{-0.5mm}Now let us make the Four Boundless Qualities shine forth \hspace{-0.5mm}\anglebracketright\
+Now let us make the Four Boundless Qualities shine forth
 \end{leader-english}
 
-\smallskip
 
-\begin{english-hang}
-  I will abide pervading one quarter with a heart imbued with loving-kindness
-\end{english-hang}
 
-\begin{english}
-  Likewise the second likewise the third likewise the fourth\\
-  So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
-\end{english}
 
-\begin{english-hang}
-  I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with loving-kindness
-\end{english-hang}
+I will abide pervading one quarter with a heart imbued with loving-kindness
 
-\begin{english-hang}
-  Abundant exalted immeasurable \breathmark\ without hostility and without ill-will
-\end{english-hang}
 
-\medskip
 
-\begin{english-hang}
-  I will abide pervading one quarter with a heart imbued with compassion
-\end{english-hang}
+Likewise the second likewise the third likewise the fourth\
+So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
 
-\begin{english}
-  Likewise the second likewise the third likewise the fourth\\
-  So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
-\end{english}
 
-\begin{english-hang}
-  I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with compassion
-\end{english-hang}
 
-\begin{english-hang}
-  Abundant exalted immeasurable \breathmark\ without hostility and without ill-will
-\end{english-hang}
+I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with loving-kindness
 
-\medskip
 
-\linkdest{endnote97-body}
-\begin{english-hang}
-  I will abide pervading one quarter with a heart imbued with empathetic joy\makeatletter\hyperlink{endnote97-appendix}\Hy@raisedlink{\hypertarget{endnote97-body}{}{\pagenote{%
-        \hypertarget{endnote97-appendix}{\hyperlink{endnote97-body}{WPN: ``a heart imbued with gladness''}}}}}\makeatother
-\end{english-hang}
 
-\begin{english}
-  Likewise the second likewise the third likewise the fourth\\
-  So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
-\end{english}
+Abundant exalted immeasurable \breathmark\ without hostility and without ill-will
 
-\begin{english-hang}
-  I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with empathetic joy
-\end{english-hang}
 
-\begin{english-hang}
-  Abundant exalted immeasurable \breathmark\ without hostility and without ill-will
-\end{english-hang}
 
-\smallskip
 
-\begin{english-hang}
-  I will abide pervading one quarter with a heart imbued with equanimity
-\end{english-hang}
 
-\begin{english}
-  Likewise the second likewise the third likewise the fourth\\
-  So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
-\end{english}
+I will abide pervading one quarter with a heart imbued with compassion
 
-\begin{english-hang}
-  I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with equanimity
-\end{english-hang}
 
-\begin{english-hang}
-  Abundant exalted immeasurable \breathmark\ without hostility and without ill-will
-\end{english-hang}
 
-\suttaRef{[DN 13]}
+Likewise the second likewise the third likewise the fourth\
+So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
+
+
+
+I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with compassion
+
+
+
+Abundant exalted immeasurable \breathmark\ without hostility and without ill-will
+
+
+
+
+
+
+I will abide pervading one quarter with a heart imbued with empathetic joy
+\hypertarget{endnote97-appendix}{\hyperlink{endnote97-body}{WPN: ``a heart imbued with gladness''}}}}}\makeatother
+
+
+
+Likewise the second likewise the third likewise the fourth\
+So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
+
+
+
+I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with empathetic joy
+
+
+
+Abundant exalted immeasurable \breathmark\ without hostility and without ill-will
+
+
+
+
+
+I will abide pervading one quarter with a heart imbued with equanimity
+
+
+
+Likewise the second likewise the third likewise the fourth\
+So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
+
+
+
+I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with equanimity
+
+
+
+Abundant exalted immeasurable \breathmark\ without hostility and without ill-will
+
+
+[DN 13]
 
 \bottomNav{ten-reflections}

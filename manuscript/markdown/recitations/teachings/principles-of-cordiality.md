@@ -1,7 +1,9 @@
 ## Principles of Cordiality<a id="principles-of-cordiality"></a>
 Cha sāraṇīya-dhammā
 
-> [Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Cha'y'ime bhikkhave dhammā sāraṇīyā
 
@@ -235,7 +237,7 @@ Sāmaggiyā ekībhāvāya saṁvattanti
 
 </div>
 
-suttaRef{[MN 48]}
+[MN 48]
 
 Ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha
 
@@ -285,4 +287,4 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā’ti
 
 </div>
 
-suttaRef{[MN 104]}
+[MN 104]

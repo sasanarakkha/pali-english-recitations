@@ -264,4 +264,4 @@ Anidassanāppaṭighā dhammā
 
 </div>
 
-suttaRef{[Dhs 1]}
+[Dhs 1]

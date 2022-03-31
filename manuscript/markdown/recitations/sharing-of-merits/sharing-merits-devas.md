@@ -29,4 +29,4 @@ Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 
 </div>
 
-suttaRef{[Sri Lanka]}
+[Sri Lanka]

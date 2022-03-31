@@ -25,4 +25,4 @@ Sata-vassā ca āyū ca jīva-siddhī bhavantu te
 
 </div>
 
-suttaRef{[MJG]}
+[MJG]

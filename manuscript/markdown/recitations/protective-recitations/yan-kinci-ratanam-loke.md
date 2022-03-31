@@ -81,4 +81,4 @@ Nassant’upaddavā sabbe – Rogā vūpasamentu te
 
 </div>
 
-suttaRef{[MJG]}
+[MJG]

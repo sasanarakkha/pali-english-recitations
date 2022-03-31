@@ -1,8 +1,9 @@
 ## Salutation to the Triple Gem<a id="salutation"></a>
 
-> [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañ'ca bhaṇāmase]
-
-> [Now let us recite our salutation to the Triple Gem and a passage to arouse urgency]
+<center>
+〈 Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañ'ca bhaṇāmase 〉<br>
+〈 Now let us recite our salutation to the Triple Gem and a passage to arouse urgency 〉
+</center>
 
 Buddho susuddho karuṇā-mahaṇṇavo
 
@@ -105,7 +106,7 @@ Icc'evam'ekant'abhipūjaneyyakaṁ vatthu-ttayaṁ vandayat'ābhisaṅkhataṁ
 
 <div class="english">
 
->This salutation should be made\\
+>This salutation should be made\
 > To that triad which is worthy
 
 </div>

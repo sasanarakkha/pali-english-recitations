@@ -41,4 +41,4 @@ Saṅgha-payirupāsana-kālo ayam'bhadantā
 
 </div>
 
-suttaRef{[Thai]}
+[Thai]

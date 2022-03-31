@@ -233,4 +233,4 @@ Sadā sotthī bhavantu te
 
 </div>
 
-suttaRef{[Khp 1.7 / Dhp 109 / Trad]}
+[Khp 1.7 / Dhp 109 / Trad]

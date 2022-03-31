@@ -21,4 +21,4 @@ Sata-vassā ca āyū ca – Jīva-siddhī bhavantu te
 
 </div>
 
-suttaRef{[Thai]}
+[Thai]

@@ -1,7 +1,9 @@
 ## The Four Great References<a id="four-great-references"></a>
 Cattāro mahāpadesā
 
-> [Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ bhaṇāmase 〉
+</center>
 
 Katame bhikkhave cattāro mahāpadesā
 
@@ -326,4 +328,4 @@ Ime kho bhikkhave cattāro mahāpadesā’ti
 
 </div>
 
-suttaRef{[AN 4.180]}
+[AN 4.180]

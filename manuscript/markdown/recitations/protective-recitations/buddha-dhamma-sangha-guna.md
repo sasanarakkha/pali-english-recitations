@@ -54,4 +54,4 @@ Anuttaraṁ puññakkhettaṁ lokassā’ti
 
 </div>
 
-suttaRef{[SN 11.3]}
+[SN 11.3]

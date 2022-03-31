@@ -1,9 +1,12 @@
 ## Dependent Origination<a id="dependent-origination"></a>
 Paṭicca-samuppāda
 
-> [Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase]
+<center>
+〈 Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase 〉
+</center>
 
-> [Now let us recite the Analysis of Dependent Origination]
+<center>
+〈 Now let us recite the Analysis of Dependent Origination]
 
 Avijjā-paccayā saṅkhārā
 
@@ -670,4 +673,4 @@ Tena vuccati evam'etassa kevalassa dukkhakkhandhassa samudayo hotī’ti
 
 </div>
 
-suttaRef{Vibh 130 / SN 12.2}
+Vibh 130 / SN 12.2}

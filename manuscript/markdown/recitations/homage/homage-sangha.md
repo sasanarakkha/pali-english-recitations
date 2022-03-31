@@ -1,12 +1,9 @@
 ## Homage to the Saṅgha<a id="homage-sangha"></a>
 
-Handa mayaṁ saṅgh'ābhitthutiṁ karomase
-
-<div class="english">
-
-> Now let us recite in praise of the Saṅgha
-
-</div>
+<center>
+〈 Handa mayaṁ saṅgh'ābhitthutiṁ karomase 〉<br>
+〈 Now let us recite in praise of the Saṅgha 〉
+</center>
 
 Yo so supaṭipanno bhagavato sāvakasaṅgho
 

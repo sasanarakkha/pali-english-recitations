@@ -1,6 +1,7 @@
 #+TITLE: Todo
 
 * TeX
+** TODO remove cardinal punctuation
 ** TODO italicize all pali in endnotes
 ** TODO check endnotes that are too close
 ** TODO complete leader intro solution

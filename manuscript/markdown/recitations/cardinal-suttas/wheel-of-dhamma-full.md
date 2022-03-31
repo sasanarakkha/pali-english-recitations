@@ -88,4 +88,4 @@ Then the Blessed One uttered this inspired utterance:
 
 In this way the Venerable Koṇḍañña acquired the name “Aññā Koṇḍañña—Koṇḍañña Who Has Understood.”
 
-suttaRef{[SN 56.11]}
+[SN 56.11]

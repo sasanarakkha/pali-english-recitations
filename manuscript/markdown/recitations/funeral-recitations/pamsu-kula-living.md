@@ -10,4 +10,4 @@ Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ [3x]
 
 </div>
 
-suttaRef{[Dhp 41]}
+[Dhp 41]
