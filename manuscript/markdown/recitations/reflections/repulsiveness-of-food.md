@@ -36,7 +36,7 @@ Upekkhā vā pāṭikulyatā vā saṇṭhāti
 
 \suttaRef{[AN 7.49]}
 
-Sabbo panāyaṁ piṇḍa-pāto ajigucchanīyo
+Sabbo panāyaṁ piṇḍapāto ajigucchanīyo
 
 \begin{english}
   None of this almsfood is innately repulsive
