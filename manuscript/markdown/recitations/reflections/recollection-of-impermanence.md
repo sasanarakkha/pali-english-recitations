@@ -1,8 +1,8 @@
 ## Recollection of Impermanence<a id="recollection-of-impermanence"></a>
-Aniccānussati
+Anicc'ānussati
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ anicc'ānussati-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Sabbe saṅkhārā anicca
