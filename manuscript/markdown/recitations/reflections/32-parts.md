@@ -1,8 +1,8 @@
 ## The Thirty-Two Parts<a id="32-parts"></a>
-Dvattiṁsākārapaccavekkhaṇa
+Dvattiṁs'ākāra-paccavekkhaṇa
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ dvattiṁs'ākāra-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 \begin{pali-hang}
