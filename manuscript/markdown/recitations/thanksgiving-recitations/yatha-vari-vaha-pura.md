@@ -44,7 +44,7 @@ Mā te bhavatv'antarāyo – Sukhī dīgh’āyuko bhava
 
 [Khp A]
 
-Abhivādana-sīlissa – Niccaṁ vuḍḍhāpacāyino
+Abhivādana-sīlissa – Niccaṁ vuḍḍh'āpacāyino
 Cattāro dhammā vaḍḍhanti – Āyu vaṇṇo sukhaṁ balaṁi
 
 <div class="english">

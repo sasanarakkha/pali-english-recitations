@@ -113,7 +113,7 @@ Abhivādana-sīlissa
 
 </div>
 
-Niccaṁ vuḍḍhāpacāyino
+Niccaṁ vuḍḍh'āpacāyino
 
 <div class="english">
 
@@ -153,7 +153,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-buddhānubhāvena
+Sabba-buddh'ānubhāvena
 
 <div class="english">
 
@@ -185,7 +185,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-dhammānubhāvena
+Sabba-dhamm'ānubhāvena
 
 <div class="english">
 
@@ -217,7 +217,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-saṅghānubhāvena
+Sabba-saṅgh'ānubhāvena
 
 <div class="english">
 

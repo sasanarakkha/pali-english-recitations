@@ -13,7 +13,7 @@ Sukhañ'ca paṭibhāna-kaṁii
 Dīgh’āyu yasavā hoti
 Yattha yatthūpapajjati
 Abhivādanasīlissa
-Niccaṁ vuḍḍhāpacāyino
+Niccaṁ vuḍḍh'āpacāyino
 Cattāro dhammā vaḍḍhanti
 Āyu vaṇṇo sukhaṁ balaṁ
 Padakkhiṇaṁ kāyakammaṁ

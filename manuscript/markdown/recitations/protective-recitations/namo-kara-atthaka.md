@@ -33,7 +33,7 @@ Namo-kārappabhāvena – Vigacchantu upaddavā
 
 </div>
 
-Namo-kārānubhāvena – Suvatthi hotu sabbadā
+Namo-kār'ānubhāvena – Suvatthi hotu sabbadā
 Namo-kārassa tejena – Vidhimhi homi tejavā
 
 <div class="english">

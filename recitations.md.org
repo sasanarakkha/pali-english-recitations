@@ -9419,7 +9419,7 @@ Abhivādana-sīlissa
 
 </div>
 
-Niccaṁ vuḍḍhāpacāyino
+Niccaṁ vuḍḍh'āpacāyino
 
 <div class="english">
 
@@ -9459,7 +9459,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-buddhānubhāvena
+Sabba-buddh'ānubhāvena
 
 <div class="english">
 
@@ -9491,7 +9491,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-dhammānubhāvena
+Sabba-dhamm'ānubhāvena
 
 <div class="english">
 
@@ -9523,7 +9523,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-saṅghānubhāvena
+Sabba-saṅgh'ānubhāvena
 
 <div class="english">
 
@@ -9592,7 +9592,7 @@ Mā te bhavatv'antarāyo – Sukhī dīgh’āyuko bhava
 
 [Khp A]
 
-Abhivādana-sīlissa – Niccaṁ vuḍḍhāpacāyino
+Abhivādana-sīlissa – Niccaṁ vuḍḍh'āpacāyino
 Cattāro dhammā vaḍḍhanti – Āyu vaṇṇo sukhaṁ balaṁi
 
 <div class="english">
@@ -9654,7 +9654,7 @@ Sukhañ'ca paṭibhāna-kaṁii
 Dīgh’āyu yasavā hoti
 Yattha yatthūpapajjati
 Abhivādanasīlissa
-Niccaṁ vuḍḍhāpacāyino
+Niccaṁ vuḍḍh'āpacāyino
 Cattāro dhammā vaḍḍhanti
 Āyu vaṇṇo sukhaṁ balaṁ
 Padakkhiṇaṁ kāyakammaṁ
@@ -9713,7 +9713,7 @@ Saha sabbehi ñātibhī
 TODO: indentSabba-dhamm'ānubhāvena
 Sabba-saṅgh'ānubhāvena
 Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ
-Tiṇṇaṁ ratanānaṁ ānubhāvena
+Tiṇṇaṁ ratanānaṁ 'ānubhāvena
 Catur-āsīti-sahassa-dhammakkhandh'ānubhāvena
 Piṭakattay'ānubhāvena
 Jina-sāvak'ānubhāvena
@@ -10119,7 +10119,7 @@ Namo-kārappabhāvena – Vigacchantu upaddavā
 
 </div>
 
-Namo-kārānubhāvena – Suvatthi hotu sabbadā
+Namo-kār'ānubhāvena – Suvatthi hotu sabbadā
 Namo-kārassa tejena – Vidhimhi homi tejavā
 
 <div class="english">
@@ -11040,7 +11040,7 @@ Sotthi te hotu sabbadā
 ## Abhaya-parittaṁ<a id="abhaya-parittam"></a>
 
 [Yan-dunnimittaṁ] avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
-Pāpaggaho dussupinaṁ akantaṁ – Buddhānubhāvena vināsamentu
+Pāpaggaho dussupinaṁ akantaṁ – Buddh'ānubhāvena vināsamentu
 
 <div class="english">
 
@@ -11052,7 +11052,7 @@ Pāpaggaho dussupinaṁ akantaṁ – Buddhānubhāvena vināsamentu
 </div>
 
 Yan-dunnimittaṁ avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
-Pāpaggaho dussupinaṁ akantaṁ – Dhammānubhāvena vināsamentu
+Pāpaggaho dussupinaṁ akantaṁ – Dhamm'ānubhāvena vināsamentu
 
 <div class="english">
 
@@ -11064,7 +11064,7 @@ Pāpaggaho dussupinaṁ akantaṁ – Dhammānubhāvena vināsamentu
 </div>
 
 Yan-dunnimittaṁ avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
-Pāpaggaho dussupinaṁ akantaṁ – Saṅghānubhāvena vināsamentu
+Pāpaggaho dussupinaṁ akantaṁ – Saṅgh'ānubhāvena vināsamentu
 
 <div class="english">
 
@@ -11362,7 +11362,7 @@ Padakkhiṇāni katvāna Labhant’atthe padakkhiṇe
 ## Bhavatu-sabba-maṅgalaṁ<a id="buddhas-first-exclamation"></a>
 
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā
-Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
+Sabba-buddh'ānubhāvena – Sadā sotthī bhavantu te
 
 <div class="english">
 
@@ -11374,7 +11374,7 @@ Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
 </div>
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
-Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
+Sabba-dhamm'ānubhāvena – Sadā sotthī bhavantu te
 
 <div class="english">
 
@@ -11386,7 +11386,7 @@ Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
 </div>
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
-Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
+Sabba-saṅgh'ānubhāvena – Sadā sotthī  ̓  bhavantu te
 
 <div class="english">
 
@@ -12016,7 +12016,7 @@ Chuḍḍho apeta-viññāṇo – Niratthaṁ va kaliṅgaraṁ [3x]
 ## Bhavatu-sabba-maṅgalaṁ<a id="bhavatu-sabba-mangalam"></a>
 
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā
-Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
+Sabba-buddh'ānubhāvena – Sadā sotthī bhavantu te
 
 <div class="english">
 
@@ -12028,7 +12028,7 @@ Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
 </div>
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
-Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
+Sabba-dhamm'ānubhāvena – Sadā sotthī bhavantu te
 
 <div class="english">
 
@@ -12040,7 +12040,7 @@ Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
 </div>
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
-Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
+Sabba-saṅgh'ānubhāvena – Sadā sotthī  ̓  bhavantu te
 
 <div class="english">
 
@@ -12092,7 +12092,7 @@ Ujucittaṁ satipaññā sallekho viriyamhinā
 Mārā labhantu nokāsaṁ kātuñca viriyesu me
 Buddhādhipavaro nātho dhammo nātho varuttamo
 Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ
-Tesottamānubhāvena mārokāsaṁ labhantu mā
+Tesottam'ānubhāvena mārokāsaṁ labhantu mā
 
 <center>
 〈 Now let us recite the verses of sharing and aspiration]

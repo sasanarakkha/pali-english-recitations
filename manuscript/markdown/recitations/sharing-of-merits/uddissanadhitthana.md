@@ -20,7 +20,7 @@ Ujucittaṁ satipaññā sallekho viriyamhinā
 Mārā labhantu nokāsaṁ kātuñca viriyesu me
 Buddhādhipavaro nātho dhammo nātho varuttamo
 Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ
-Tesottamānubhāvena mārokāsaṁ labhantu mā
+Tesottam'ānubhāvena mārokāsaṁ labhantu mā
 
 <center>
 〈 Now let us recite the verses of sharing and aspiration]

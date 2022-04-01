@@ -1,7 +1,7 @@
 ## Bhavatu-sabba-maṅgalaṁ<a id="buddhas-first-exclamation"></a>
 
 [Bhavatu sabba-maṅgalaṁ] – Rakkhantu sabba-devatā
-Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
+Sabba-buddh'ānubhāvena – Sadā sotthī bhavantu te
 
 <div class="english">
 
@@ -13,7 +13,7 @@ Sabba-buddhānubhāvena – Sadā sotthī bhavantu te
 </div>
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
-Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
+Sabba-dhamm'ānubhāvena – Sadā sotthī bhavantu te
 
 <div class="english">
 
@@ -25,7 +25,7 @@ Sabba-dhammānubhāvena – Sadā sotthī bhavantu te
 </div>
 
 Bhavatu sabba-maṅgalaṁ – Rakkhantu sabba-devatā
-Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
+Sabba-saṅgh'ānubhāvena – Sadā sotthī  ̓  bhavantu te
 
 <div class="english">
 

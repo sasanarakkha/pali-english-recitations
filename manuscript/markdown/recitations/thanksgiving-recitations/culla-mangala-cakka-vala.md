@@ -4,7 +4,7 @@
 TODO: indentSabba-dhamm'ānubhāvena
 Sabba-saṅgh'ānubhāvena
 Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ
-Tiṇṇaṁ ratanānaṁ ānubhāvena
+Tiṇṇaṁ ratanānaṁ 'ānubhāvena
 Catur-āsīti-sahassa-dhammakkhandh'ānubhāvena
 Piṭakattay'ānubhāvena
 Jina-sāvak'ānubhāvena
