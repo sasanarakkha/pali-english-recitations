@@ -6,7 +6,7 @@ Viriyam'pīti-passaddhi
 Bojjh’aṅgā ca tathā’pare
 Samādh’upekkha-bojjh’aṅgā
 Satt’ete sabba-dassinā
-Muninā sammad-akkhātā
+Muninā samma'd'akkhātā
 Bhāvitā bahulī-katā
 Saṁvattanti abhiññāya
 Nibbānāya ca bodhiyā
@@ -31,7 +31,7 @@ Moggallānañ'ca Kassapaṁ
 Gilāne dukkhite disvā
 Bojjh’aṅge satta desayi
 Te ca taṁ abhinanditvā
-Rogā mucciṁsu taṅ-khaṇe
+Rogā mucciṁsu taṅ'khaṇe
 Etena sacca-vajjena
 Sotthi te hotu sabbadā
 
@@ -45,8 +45,8 @@ Sotthi te hotu sabbadā
 </div>
 
 Ekadā dhamma-rājā pi
-Gelaññenābhipīḷito
-Cundattherena tañ-ñeva
+Gelaññen'ābhipīḷito
+Cundattherena taññ'eva
 Bhaṇāpetvāna sādaraṁ
 Sammoditvā ca ābādhā
 Tamhā vuṭṭhāsi ṭhānaso
@@ -65,7 +65,7 @@ Sotthi te hotu sabbadā
 Pahīnā te ca ābādhā
 Tiṇṇannam'pi mahesinaṁ
 Magg’āhata-kilesā va
-Pattānuppatti-dhammataṁ
+Patt'ānuppatti-dhammataṁ
 Etena sacca-vajjena
 Sotthi te hotu sabbadā
 

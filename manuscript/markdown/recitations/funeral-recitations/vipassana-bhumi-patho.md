@@ -64,7 +64,7 @@ sukh’indriyaṁ dukkh’indriyaṁ
 somanass’indriyaṁ domanass’indriyaṁ upekkh’indriyaṁ,
 saddh’indriyaṁ viriy’indriyaṁ sat’indriyaṁ
 samādh’indriyaṁ paññ’indriyaṁ,
-anaññātañ-ñassāmīt’indriyaṁ aññ’indriyaṁ aññātāv’indriyaṁ.
+anaññātañ'ñassāmīt’indriyaṁ aññ’indriyaṁ aññātāv’indriyaṁ.
 
 <div class="english">
 

@@ -52,7 +52,7 @@ Nassant’upaddavā sabbe – Dukkhā vūpasamentu te
 </div>
 
 Sakkatvā dhamma-ratanaṁ – Osadhaṁ uttamaṁ varaṁ
-Pariḷāhūpasamanaṁ – Dhamma-tejena sotthinā
+Pariḷāh'ūpasamanaṁ – Dhamma-tejena sotthinā
 Nassant’upaddavā sabbe – Bhayā vūpasamentu te
 
 <div class="english">
