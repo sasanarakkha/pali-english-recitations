@@ -95,7 +95,7 @@ Kāmehi lokamhi na hatthi titti
 
 Na dīgham'āyuṁ labhate dhanena\
 Na c'āpi vittena jaraṁ vihanti\
-Appaṁ hidaṁ jīvitam'āhu dhīrā\
+Appaṁ h'idaṁ jīvitam'āhu dhīrā\
 Asassataṁ vippariṇāma-dhammaṁ
 
 <div class="english">

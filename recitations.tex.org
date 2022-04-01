@@ -1976,7 +1976,7 @@ Etaṁ buddhāna sāsanaṁ
 \begin{verses}
   Na dīgham'āyuṁ labhate dhanena\\
   Na c'āpi vittena jaraṁ vihanti\\
-  Appaṁ hidaṁ jīvitam'āhu dhīrā\\
+  Appaṁ h'idaṁ jīvitam'āhu dhīrā\\
   Asassataṁ vippariṇāma-dhammaṁ
 \end{verses}
 
@@ -8152,35 +8152,35 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Rūpaṁ bhikkhave anattā \breathmark\ rūpañca hidaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ na'y'idaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
+  Rūpaṁ bhikkhave anattā \breathmark\ rūpañ'ca h'idaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ na'y'idaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave rūpaṁ anattā \breathmark\ tasmā rūpaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Vedanā anattā \breathmark\ vedanā ca hidaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
+  Vedanā anattā \breathmark\ vedanā ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave vedanā anattā \breathmark\ tasmā vedanā ābādhāya saṁvattati \breathmark\ na ca labbhati vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Saññā anattā \breathmark\ saññā ca hidaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
+  Saññā anattā \breathmark\ saññā ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Saṅkhārā anattā \breathmark\ saṅkhārā ca hidaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
+  Saṅkhārā anattā \breathmark\ saṅkhārā ca h'idaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave saṅkhārā anattā \breathmark\ tasmā saṅkhārā ābādhāya saṁvattanti \breathmark\ na ca labbhati saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca hidaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
+  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
@@ -8190,95 +8190,95 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Rūpaṁ niccaṁ vā aniccaṁ vāti?
+  Rūpaṁ niccaṁ vā aniccaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Aniccaṁ bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
+  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
+  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā vāti?
+  Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā vā'ti?
 \end{pali-hang}
 \begin{pali-hangtogether}
   Aniccā bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
+  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
+  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā vāti?
+  Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā vā'ti?
 \end{pali-hang}
 \begin{pali-hangtogether}
   Aniccā bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
+  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
+  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā vāti?
+  Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā vā'ti?
 \end{pali-hang}
 \begin{pali-hangtogether}
   Aniccā bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
+  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
+  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ vāti?
+  Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ vā'ti?
 \end{pali-hang}
 \begin{pali-hangtogether}
   Aniccaṁ bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti?
+  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante.
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam panāniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama esohamasmi eso me attā''ti?
+  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante.
@@ -8288,23 +8288,23 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}Tasmā't'iha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Yaṅ'kiñci rūpaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yaṅ'kiñci rūpaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Yā kāci vedanā atītānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā vedanā: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yā kāci vedanā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā vedanā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yā kāci saññā atītānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā vā \breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā saññā: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yā kāci saññā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā vā \breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā saññā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ye keci saṅkhārā atītānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike \mbox{vā}~\breathmark\ sabbe saṅkhārā: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Ye keci saṅkhārā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike \mbox{vā}~\breathmark\ sabbe saṅkhārā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``Netaṁ mama nesohamasmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yaṅ'kiñci viññāṇaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 \end{pali-hang}
 
 \begin{pali-leader}
@@ -8317,7 +8317,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \clearpage
 
 \begin{pali-hang}
-  Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti.
+  Idam'avoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti.
 \end{pali-hang}
 
 \suttaRef{[SN 22.59]}
@@ -8621,7 +8621,7 @@ Kena ādittaṁ?
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū'ti.
+  Idam'avoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū'ti.
 \end{pali-hang}
 
 \suttaRef{[SN 35.28]}
