@@ -9642,9 +9642,9 @@ Sata-vassā ca āyū ca – Jīva-siddhī bhavantu te
 ## Bhojana-dān'ānumodanā<a id="bhojana-dananumodana"></a>
 
 [Yo yassa bhojanaṁ deti]
-So tassa deti pañcapi
+So tassa deti pañca'pi
 Āyuṁ balaṁ sukhaṁ vaṇṇaṁ
-Paṭibhānañca pañcamaṁi
+Paṭibhānañ'ca pañcamaṁi
 Āyu-do bala-do dhīro
 Vaṇṇa-do paṭibhāṇa-do
 Sukhassa dātā medhāvī
@@ -9652,7 +9652,7 @@ Sukhaṁ so adhigacchati
 Āyuṁ datvā balaṁ vaṇṇaṁ
 Sukhañ'ca paṭibhāna-kaṁii
 Dīgh’āyu yasavā hoti
-Yattha yatthūpapajjati
+Yattha yatth'ūpapajjati
 Abhivādanasīlissa
 Niccaṁ vuḍḍh'āpacāyino
 Cattāro dhammā vaḍḍhanti
@@ -9662,7 +9662,7 @@ Vācākammaṁ padakkhiṇaṁ
 Padakkhiṇaṁ manokammaṁ
 Paṇīdhi te padakkhiṇe
 Padakkhiṇāni katvāna
-Labhantatthe padakkhiṇe
+Labhant'atthe padakkhiṇe
 Te atthaladdhā sukhitā
 Virūḷhā Buddhasāsane
 Arogā sukhitā hotha
@@ -9756,7 +9756,7 @@ Agge Buddhe pasannānaṁ – Dakkhiṇeyye anuttare
 
 </div>
 
-Agge dhamme pasannānaṁ – Virāgūpasame sukhe
+Agge dhamme pasannānaṁ – Virāg'ūpasame sukhe
 Agge saṅghe pasannānaṁ – Puññakkhette anuttare
 
 <div class="english">
@@ -10018,7 +10018,7 @@ Tatiyam pi saṅghaṁ saraṇaṁ gacchāmi
 Mārassa pāsā vinimocayanto – Pāpesi khemaṁ janataṁ vineyyaṁ
 Buddhaṁ varan'taṁ sirasā namāmi
 Lokassa nāthañ'ca vināyakañ'ca
-Tan-tejasā te jaya-siddhi hotu
+Tan'tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu
 
 <div class="english">
@@ -10039,7 +10039,7 @@ Niyyāniko dhamma-dharassa dhārī
 Sāt’āvaho santi-karo suciṇṇo
 Dhammaṁ varan'taṁ sirasā namāmi
 Mohappadālaṁ upasanta-dāhaṁ
-Tan-tejasā te jaya-siddhi hotu
+Tan'tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu
 
 <div class="english">
@@ -10060,8 +10060,8 @@ Lokassa pāp'ūpakilesa-jetā
 Santo sayaṁ santi-niyojako ca
 Svākkhāta-dhammaṁ viditaṁ karoti
 Saṅghaṁ varan'taṁ sirasā namāmi
-Buddhānubuddhaṁ sama-sīla-diṭṭhiṁ
-Tan-tejasā te jaya-siddhi hotu
+Buddh'ānubuddhaṁ sama-sīla-diṭṭhiṁ
+Tan'tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu
 
 <div class="english">
@@ -10096,7 +10096,7 @@ Namo uttama-dhammassa – Svākkhātass’eva ten’idha
 </div>
 
 Namo mahā-saṅghassāpi – Visuddha-sīla-diṭṭhino
-Namo omāty-āraddhassa – Ratanattayassa sādhukaṁ
+Namo omāty'āraddhassa – Ratanattayassa sādhukaṁ
 
 <div class="english">
 
@@ -10107,7 +10107,7 @@ Namo omāty-āraddhassa – Ratanattayassa sādhukaṁ
 
 </div>
 
-Namo omakātītassa – Tassa vatthuttayassa-pi
+Namo omak'ātītassa – Tassa vatthuttayassa-pi
 Namo-kārappabhāvena – Vigacchantu upaddavā
 
 <div class="english">
@@ -10148,7 +10148,7 @@ Namo-kārassa tejena – Vidhimhi homi tejavā
 </div>
 
 Bahū devā manussā ca – Maṅgalāni acintayuṁ
-Ākaṅkhamānā sotthānaṁ – Brūhi maṅgalam-uttamaṁ
+Ākaṅkhamānā sotthānaṁ – Brūhi maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10160,7 +10160,7 @@ Bahū devā manussā ca – Maṅgalāni acintayuṁ
 </div>
 
 [Asevanā ca bālānaṁ] – Paṇḍitānañ'ca sevanā
-Pūjā ca pūjanīyānaṁ – Etam maṅgalam-uttamaṁ
+Pūjā ca pūjanīyānaṁ – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10172,7 +10172,7 @@ Pūjā ca pūjanīyānaṁ – Etam maṅgalam-uttamaṁ
 </div>
 
 Paṭirūpa-desa-vāso ca – Pubbe ca kata-puññatā
-Atta-sammā-paṇidhi ca – Etam maṅgalam-uttamaṁ
+Atta-sammā-paṇidhi ca – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10184,7 +10184,7 @@ Atta-sammā-paṇidhi ca – Etam maṅgalam-uttamaṁ
 </div>
 
 Bāhu-saccañ'ca sippañ'ca – Vinayo ca susikkhito
-Subhāsitā ca yā vācā – Etam maṅgalam-uttamaṁ
+Subhāsitā ca yā vācā – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10196,7 +10196,7 @@ Subhāsitā ca yā vācā – Etam maṅgalam-uttamaṁ
 </div>
 
 Mātā-pitu-upaṭṭhānaṁ – Putta-dārassa saṅgaho
-Anākulā ca kammantā – Etam maṅgalam-uttamaṁ
+Anākulā ca kammantā – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10208,7 +10208,7 @@ Anākulā ca kammantā – Etam maṅgalam-uttamaṁ
 </div>
 
 Dānañ'ca dhamma-cariyā ca – Ñātakānañ'ca saṅgaho
-Anavajjāni kammāni – Etam maṅgalam-uttamaṁ
+Anavajjāni kammāni – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10220,7 +10220,7 @@ Anavajjāni kammāni – Etam maṅgalam-uttamaṁ
 </div>
 
 Āratī viratī pāpā – Majja-pānā ca saññamo
-Appamādo ca dhammesu – Etam maṅgalam-uttamaṁ
+Appamādo ca dhammesu – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10232,7 +10232,7 @@ Appamādo ca dhammesu – Etam maṅgalam-uttamaṁ
 </div>
 
 Gāravo ca nivāto ca – Santuṭṭhī ca kataññutā
-Kālena dhammassavanaṁ – Etam maṅgalam-uttamaṁ
+Kālena dhammassavanaṁ – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10244,7 +10244,7 @@ Kālena dhammassavanaṁ – Etam maṅgalam-uttamaṁ
 </div>
 
 Khantī ca sovacassatā – Samaṇānañ'ca dassanaṁ
-Kālena dhamma-sākacchā – Etam maṅgalam-uttamaṁ
+Kālena dhamma-sākacchā – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10255,8 +10255,8 @@ Kālena dhamma-sākacchā – Etam maṅgalam-uttamaṁ
 
 </div>
 
-Tapo ca brahma-cariyañ'ca – Ariya-saccāna-dassanaṁ
-Nibbāna-sacchikiriyā ca – Etam maṅgalam-uttamaṁ
+Tapo ca brahmacariyañ'ca – Ariya-saccāna-dassanaṁ
+Nibbāna-sacchikiriyā ca – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10268,7 +10268,7 @@ Nibbāna-sacchikiriyā ca – Etam maṅgalam-uttamaṁ
 </div>
 
 Phuṭṭhassa loka-dhammehi – Cittaṁ yassa na kampati
-Asokaṁ virajaṁ khemaṁ – Etam maṅgalam-uttamaṁ
+Asokaṁ virajaṁ khemaṁ – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -10280,7 +10280,7 @@ Asokaṁ virajaṁ khemaṁ – Etam maṅgalam-uttamaṁ
 </div>
 
 Etādisāni katvāna – Sabbattham-aparājitā
-Sabbattha sotthiṁ gacchanti – Tan-tesaṁ maṅgalam-uttaman’ti
+Sabbattha sotthiṁ gacchanti – Tan'tesaṁ maṅgalam'uttaman’ti
 
 <div class="english">
 
@@ -11144,7 +11144,7 @@ Arahantānañ'ca tejena – Rakkhaṁ bandhāmi sabbaso
 [Bāhuṁ] sahassam-abhinimmita sāvudhan'taṁ
 Grīmekhalaṁ udita-ghora-sasena-māraṁ
 Dān’ādi-dhamma-vidhinā jitavāi mun’indo
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
 
@@ -11158,7 +11158,7 @@ Tan-tejasā bhavatu te jaya-maṅgalāni
 Mārātirekam-abhiyujjhita-sabba-rattiṁ
 Ghoram-pan’āḷavakam-akkhama-thaddha-yakkhaṁ
 Khantī-sudanta-vidhinā jitavā mun’indo
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
 
@@ -11173,7 +11173,7 @@ Tan-tejasā bhavatu te jaya-maṅgalāni
 Nāḷāgiriṁ gaja-varaṁ atimatta-bhūtaṁ
 Dāv’aggi-cakkam-asanīva sudāruṇan'taṁ
 Mett’ambu-seka-vidhinā jitavā mun’indo
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 Nāḷāgiri, the excellent elephant, when maddened,
 
 <div class="english">
@@ -11188,7 +11188,7 @@ Nāḷāgiri, the excellent elephant, when maddened,
 Ukkhitta-khaggam-atihattha-sudāruṇan'taṁ
 Dhāvan-ti-yojana-path’aṅguli-mālavantaṁ
 Iddhī’bhisaṅkhata-mano jitavā mun’indo
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
 
@@ -11203,7 +11203,7 @@ Tan-tejasā bhavatu te jaya-maṅgalāni
 Katvāna kaṭṭham-udaraṁ iva gabbhinīyā
 Ciñcāya duṭṭha-vacanaṁ jana-kāya majjhe
 Santena soma-vidhinā jitavā mun’indo
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
 
@@ -11218,7 +11218,7 @@ Tan-tejasā bhavatu te jaya-maṅgalāni
 Saccaṁ vihāya mati-saccaka-vāda-ketuṁ
 Vādābhiropita-manaṁ ati-andha-bhūtaṁ
 Paññā-padīpa-jalito jitavā mun’indo
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
 
@@ -11233,7 +11233,7 @@ Tan-tejasā bhavatu te jaya-maṅgalāni
 Nandopananda-bhujagaṁ vibudhaṁ mah’iddhiṁ
 Puttena thera-bhujagena damāpayanto
 Iddhūpadesa-vidhinā jitavā mun’indo
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
 
@@ -11248,7 +11248,7 @@ Tan-tejasā bhavatu te jaya-maṅgalāni
 Duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṁ
 Brahmaṁ visuddhi-jutim-iddhi-bakābhidhānaṁ
 Ñāṇāgadena vidhinā jitavā mun’indo
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
 

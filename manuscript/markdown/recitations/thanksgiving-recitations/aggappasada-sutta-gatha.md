@@ -12,7 +12,7 @@ Agge Buddhe pasannānaṁ – Dakkhiṇeyye anuttare
 
 </div>
 
-Agge dhamme pasannānaṁ – Virāgūpasame sukhe
+Agge dhamme pasannānaṁ – Virāg'ūpasame sukhe
 Agge saṅghe pasannānaṁ – Puññakkhette anuttare
 
 <div class="english">

@@ -10,7 +10,7 @@ Namo uttama-dhammassa – Svākkhātass’eva ten’idha
 </div>
 
 Namo mahā-saṅghassāpi – Visuddha-sīla-diṭṭhino
-Namo omāty-āraddhassa – Ratanattayassa sādhukaṁ
+Namo omāty'āraddhassa – Ratanattayassa sādhukaṁ
 
 <div class="english">
 
@@ -21,7 +21,7 @@ Namo omāty-āraddhassa – Ratanattayassa sādhukaṁ
 
 </div>
 
-Namo omakātītassa – Tassa vatthuttayassa-pi
+Namo omak'ātītassa – Tassa vatthuttayassa-pi
 Namo-kārappabhāvena – Vigacchantu upaddavā
 
 <div class="english">

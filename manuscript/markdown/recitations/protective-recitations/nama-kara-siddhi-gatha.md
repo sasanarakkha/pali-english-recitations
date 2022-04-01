@@ -4,7 +4,7 @@
 Mārassa pāsā vinimocayanto – Pāpesi khemaṁ janataṁ vineyyaṁ
 Buddhaṁ varan'taṁ sirasā namāmi
 Lokassa nāthañ'ca vināyakañ'ca
-Tan-tejasā te jaya-siddhi hotu
+Tan'tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu
 
 <div class="english">
@@ -25,7 +25,7 @@ Niyyāniko dhamma-dharassa dhārī
 Sāt’āvaho santi-karo suciṇṇo
 Dhammaṁ varan'taṁ sirasā namāmi
 Mohappadālaṁ upasanta-dāhaṁ
-Tan-tejasā te jaya-siddhi hotu
+Tan'tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu
 
 <div class="english">
@@ -46,8 +46,8 @@ Lokassa pāp'ūpakilesa-jetā
 Santo sayaṁ santi-niyojako ca
 Svākkhāta-dhammaṁ viditaṁ karoti
 Saṅghaṁ varan'taṁ sirasā namāmi
-Buddhānubuddhaṁ sama-sīla-diṭṭhiṁ
-Tan-tejasā te jaya-siddhi hotu
+Buddh'ānubuddhaṁ sama-sīla-diṭṭhiṁ
+Tan'tejasā te jaya-siddhi hotu
 Sabb’antarāyā ca vināsamentu
 
 <div class="english">

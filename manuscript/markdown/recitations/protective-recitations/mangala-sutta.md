@@ -9,7 +9,7 @@
 </div>
 
 Bahū devā manussā ca – Maṅgalāni acintayuṁ
-Ākaṅkhamānā sotthānaṁ – Brūhi maṅgalam-uttamaṁ
+Ākaṅkhamānā sotthānaṁ – Brūhi maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -21,7 +21,7 @@ Bahū devā manussā ca – Maṅgalāni acintayuṁ
 </div>
 
 [Asevanā ca bālānaṁ] – Paṇḍitānañ'ca sevanā
-Pūjā ca pūjanīyānaṁ – Etam maṅgalam-uttamaṁ
+Pūjā ca pūjanīyānaṁ – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -33,7 +33,7 @@ Pūjā ca pūjanīyānaṁ – Etam maṅgalam-uttamaṁ
 </div>
 
 Paṭirūpa-desa-vāso ca – Pubbe ca kata-puññatā
-Atta-sammā-paṇidhi ca – Etam maṅgalam-uttamaṁ
+Atta-sammā-paṇidhi ca – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -45,7 +45,7 @@ Atta-sammā-paṇidhi ca – Etam maṅgalam-uttamaṁ
 </div>
 
 Bāhu-saccañ'ca sippañ'ca – Vinayo ca susikkhito
-Subhāsitā ca yā vācā – Etam maṅgalam-uttamaṁ
+Subhāsitā ca yā vācā – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -57,7 +57,7 @@ Subhāsitā ca yā vācā – Etam maṅgalam-uttamaṁ
 </div>
 
 Mātā-pitu-upaṭṭhānaṁ – Putta-dārassa saṅgaho
-Anākulā ca kammantā – Etam maṅgalam-uttamaṁ
+Anākulā ca kammantā – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -69,7 +69,7 @@ Anākulā ca kammantā – Etam maṅgalam-uttamaṁ
 </div>
 
 Dānañ'ca dhamma-cariyā ca – Ñātakānañ'ca saṅgaho
-Anavajjāni kammāni – Etam maṅgalam-uttamaṁ
+Anavajjāni kammāni – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -81,7 +81,7 @@ Anavajjāni kammāni – Etam maṅgalam-uttamaṁ
 </div>
 
 Āratī viratī pāpā – Majja-pānā ca saññamo
-Appamādo ca dhammesu – Etam maṅgalam-uttamaṁ
+Appamādo ca dhammesu – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -93,7 +93,7 @@ Appamādo ca dhammesu – Etam maṅgalam-uttamaṁ
 </div>
 
 Gāravo ca nivāto ca – Santuṭṭhī ca kataññutā
-Kālena dhammassavanaṁ – Etam maṅgalam-uttamaṁ
+Kālena dhammassavanaṁ – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -105,7 +105,7 @@ Kālena dhammassavanaṁ – Etam maṅgalam-uttamaṁ
 </div>
 
 Khantī ca sovacassatā – Samaṇānañ'ca dassanaṁ
-Kālena dhamma-sākacchā – Etam maṅgalam-uttamaṁ
+Kālena dhamma-sākacchā – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -116,8 +116,8 @@ Kālena dhamma-sākacchā – Etam maṅgalam-uttamaṁ
 
 </div>
 
-Tapo ca brahma-cariyañ'ca – Ariya-saccāna-dassanaṁ
-Nibbāna-sacchikiriyā ca – Etam maṅgalam-uttamaṁ
+Tapo ca brahmacariyañ'ca – Ariya-saccāna-dassanaṁ
+Nibbāna-sacchikiriyā ca – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -129,7 +129,7 @@ Nibbāna-sacchikiriyā ca – Etam maṅgalam-uttamaṁ
 </div>
 
 Phuṭṭhassa loka-dhammehi – Cittaṁ yassa na kampati
-Asokaṁ virajaṁ khemaṁ – Etam maṅgalam-uttamaṁ
+Asokaṁ virajaṁ khemaṁ – Etam maṅgalam'uttamaṁ
 
 <div class="english">
 
@@ -141,7 +141,7 @@ Asokaṁ virajaṁ khemaṁ – Etam maṅgalam-uttamaṁ
 </div>
 
 Etādisāni katvāna – Sabbattham-aparājitā
-Sabbattha sotthiṁ gacchanti – Tan-tesaṁ maṅgalam-uttaman’ti
+Sabbattha sotthiṁ gacchanti – Tan'tesaṁ maṅgalam'uttaman’ti
 
 <div class="english">
 

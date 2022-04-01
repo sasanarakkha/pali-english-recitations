@@ -1,9 +1,9 @@
 ## Bhojana-dān'ānumodanā<a id="bhojana-dananumodana"></a>
 
 [Yo yassa bhojanaṁ deti]
-So tassa deti pañcapi
+So tassa deti pañca'pi
 Āyuṁ balaṁ sukhaṁ vaṇṇaṁ
-Paṭibhānañca pañcamaṁi
+Paṭibhānañ'ca pañcamaṁi
 Āyu-do bala-do dhīro
 Vaṇṇa-do paṭibhāṇa-do
 Sukhassa dātā medhāvī
@@ -11,7 +11,7 @@ Sukhaṁ so adhigacchati
 Āyuṁ datvā balaṁ vaṇṇaṁ
 Sukhañ'ca paṭibhāna-kaṁii
 Dīgh’āyu yasavā hoti
-Yattha yatthūpapajjati
+Yattha yatth'ūpapajjati
 Abhivādanasīlissa
 Niccaṁ vuḍḍh'āpacāyino
 Cattāro dhammā vaḍḍhanti
@@ -21,7 +21,7 @@ Vācākammaṁ padakkhiṇaṁ
 Padakkhiṇaṁ manokammaṁ
 Paṇīdhi te padakkhiṇe
 Padakkhiṇāni katvāna
-Labhantatthe padakkhiṇe
+Labhant'atthe padakkhiṇe
 Te atthaladdhā sukhitā
 Virūḷhā Buddhasāsane
 Arogā sukhitā hotha
