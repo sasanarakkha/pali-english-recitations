@@ -53,11 +53,11 @@ Sataṁ samāgamo hotu
 
 </div>
 
-Yāva nibbānapattiyā
+Yāva Nibbānapattiyā
 
 <div class="english">
 
-> Until the attainment of nibbāna
+> Until the attainment of Nibbāna
 
 </div>
 
@@ -148,7 +148,7 @@ Idaṁ me puññaṁ āsavakkhayā-vahaṁ hotu
 
 </div>
 
-Idaṁ me puññaṁ nibbānassa paccayo hotu
+Idaṁ me puññaṁ Nibbānassa paccayo hotu
 
 <div class="english">
 

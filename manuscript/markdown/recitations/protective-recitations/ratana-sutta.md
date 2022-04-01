@@ -192,7 +192,7 @@ Idam'pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 > Like a woodland thicket with flowering crests
 > In a summer month, in the first of the summer,
 > Just so he taught the excellent Dhamma,
-> Leading to nibbāna, for the supreme welfare.
+> Leading to Nibbāna, for the supreme welfare.
 > This too is the sublime gem in the Buddha:
 > By this truth, may there be safety!
 

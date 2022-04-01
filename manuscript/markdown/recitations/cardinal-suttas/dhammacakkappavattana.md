@@ -7,14 +7,14 @@ Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra 
 
 Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo c'āyaṁ attakilamath'ānuyogo dukkho anariyo anatthasañhito.
 
-Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati.
 
-Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
+Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati?
 
 Ayameva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ:
 
 Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
-Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati.
 
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ:
 

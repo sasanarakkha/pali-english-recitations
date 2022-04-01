@@ -14,7 +14,7 @@ Sabbe sattā sukhī hontu puññāni pakatāni me
 Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ
 Iminā puññakammena iminā uddissena ca
 Khipp'āhaṁ sulabhe c'eva taṇhūpādāna-chedanaṁ
-Ye santāne hīnā dhammā yāva nibbānato mamaṁ
+Ye santāne hīnā dhammā yāva Nibbānato mamaṁ
 Nassantu sabbadā yeva yattha jāto bhave bhave
 Ujucittaṁ satipaññā sallekho viriyamhinā
 Mārā labhantu nokāsaṁ kātuñca viriyesu me

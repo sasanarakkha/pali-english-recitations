@@ -2590,7 +2590,7 @@ Piyato vippamuttassa – N'atthi soko kuto bhayaṁ
 
 [Dhp 212]
 
-Tiṭṭhat'eva nibbānaṁ
+Tiṭṭhat'eva Nibbānaṁ
 
 <div class="english">
 
@@ -2598,11 +2598,11 @@ Tiṭṭhat'eva nibbānaṁ
 
 </div>
 
-Tiṭṭhati nibbānagāmī maggo
+Tiṭṭhati Nibbānagāmī maggo
 
 <div class="english">
 
-> The path leading to nibbāna exists
+> The path leading to Nibbāna exists
 
 </div>
 
@@ -8745,14 +8745,14 @@ Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra 
 
 Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo c'āyaṁ attakilamath'ānuyogo dukkho anariyo anatthasañhito.
 
-Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati.
 
-Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
+Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati?
 
 Ayameva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ:
 
 Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
-Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati.
 
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ:
 
@@ -10262,7 +10262,7 @@ Nibbāna-sacchikiriyā ca – Etam maṅgalam-uttamaṁ
 
 > Austerity and the holy life,
 > Seeing of the noble truths,
-> And realization of nibbāna:
+> And realization of Nibbāna:
 > This is the highest blessing.
 
 </div>
@@ -10492,7 +10492,7 @@ Idam'pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 > Like a woodland thicket with flowering crests
 > In a summer month, in the first of the summer,
 > Just so he taught the excellent Dhamma,
-> Leading to nibbāna, for the supreme welfare.
+> Leading to Nibbāna, for the supreme welfare.
 > This too is the sublime gem in the Buddha:
 > By this truth, may there be safety!
 
@@ -12086,7 +12086,7 @@ Sabbe sattā sukhī hontu puññāni pakatāni me
 Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ
 Iminā puññakammena iminā uddissena ca
 Khipp'āhaṁ sulabhe c'eva taṇhūpādāna-chedanaṁ
-Ye santāne hīnā dhammā yāva nibbānato mamaṁ
+Ye santāne hīnā dhammā yāva Nibbānato mamaṁ
 Nassantu sabbadā yeva yattha jāto bhave bhave
 Ujucittaṁ satipaññā sallekho viriyamhinā
 Mārā labhantu nokāsaṁ kātuñca viriyesu me
@@ -12327,11 +12327,11 @@ Sataṁ samāgamo hotu
 
 </div>
 
-Yāva nibbānapattiyā
+Yāva Nibbānapattiyā
 
 <div class="english">
 
-> Until the attainment of nibbāna
+> Until the attainment of Nibbāna
 
 </div>
 
@@ -12422,7 +12422,7 @@ Idaṁ me puññaṁ āsavakkhayā-vahaṁ hotu
 
 </div>
 
-Idaṁ me puññaṁ nibbānassa paccayo hotu
+Idaṁ me puññaṁ Nibbānassa paccayo hotu
 
 <div class="english">
 

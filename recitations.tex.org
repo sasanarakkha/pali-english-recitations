@@ -2378,7 +2378,7 @@ Etaṁ buddhāna sāsanaṁ
 \suttaRef{[Dhp 212]}
 
 \begin{verses}
-  Tiṭṭhat'eva nibbānaṁ
+  Tiṭṭhat'eva Nibbānaṁ
 \end{verses}
 
 \begin{english}
@@ -2386,11 +2386,11 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{verses}
-  Tiṭṭhati nibbānagāmī maggo
+  Tiṭṭhati Nibbānagāmī maggo
 \end{verses}
 
 \begin{english}
-  The path leading to nibbāna exists
+  The path leading to Nibbāna exists
 \end{english}
 
 \begin{verses}
@@ -7760,11 +7760,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+  Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
+  Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati?
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7780,7 +7780,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+  Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -9852,7 +9852,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \begin{english-verses}
   Austerity and the holy life,\\
   Seeing of the noble truths,\\
-  And realization of nibbāna:\\
+  And realization of Nibbāna:\\
   This is the highest blessing.
 \end{english-verses}
 
@@ -10097,7 +10097,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Like a woodland thicket with flowering crests\\
   In a summer month, in the first of the summer,\\
   Just so he taught the excellent Dhamma,\\
-  Leading to nibbāna, for the supreme welfare.\\
+  Leading to Nibbāna, for the supreme welfare.\\
   This too is the sublime gem in the Buddha:\\
   By this truth, may there be safety!
 \end{english-verses}
@@ -11921,7 +11921,7 @@ Sabbe sattā sukhī hontu puññāni pakatāni me\\
 Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ\\
 Iminā puññakammena iminā uddissena ca\\
 Khipp'āhaṁ sulabhe c'eva taṇhūpādāna-chedanaṁ\\
-Ye santāne hīnā dhammā yāva nibbānato mamaṁ\\
+Ye santāne hīnā dhammā yāva Nibbānato mamaṁ\\
 Nassantu sabbadā yeva yattha jāto bhave bhave\\
 Ujucittaṁ satipaññā sallekho viriyamhinā\\
 Mārā labhantu nokāsaṁ kātuñca viriyesu me\\
@@ -12187,10 +12187,10 @@ Sataṁ samāgamo hotu
   With the wise may I associate
 \end{english}
 
-Yāva nibbānapattiyā
+Yāva Nibbānapattiyā
 
 \begin{english}
-  Until the attainment of nibbāna
+  Until the attainment of Nibbāna
 \end{english}
 
 \suttaRef{[Sri Lanka]}
@@ -12262,7 +12262,7 @@ Idaṁ me puññaṁ āsavakkhayā-vahaṁ hotu
   May my merit lead to the destruction of the taints
 \end{english}
 
-Idaṁ me puññaṁ nibbānassa paccayo hotu
+Idaṁ me puññaṁ Nibbānassa paccayo hotu
 
 \begin{english}
   May my merit be a condition for the attainment of Nibbāna

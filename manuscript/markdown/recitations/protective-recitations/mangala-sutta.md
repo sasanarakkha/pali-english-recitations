@@ -123,7 +123,7 @@ Nibbāna-sacchikiriyā ca – Etam maṅgalam-uttamaṁ
 
 > Austerity and the holy life,
 > Seeing of the noble truths,
-> And realization of nibbāna:
+> And realization of Nibbāna:
 > This is the highest blessing.
 
 </div>

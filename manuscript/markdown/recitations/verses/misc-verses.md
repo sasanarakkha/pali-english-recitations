@@ -128,7 +128,7 @@ Piyato vippamuttassa – N'atthi soko kuto bhayaṁ
 
 [Dhp 212]
 
-Tiṭṭhat'eva nibbānaṁ
+Tiṭṭhat'eva Nibbānaṁ
 
 <div class="english">
 
@@ -136,11 +136,11 @@ Tiṭṭhat'eva nibbānaṁ
 
 </div>
 
-Tiṭṭhati nibbānagāmī maggo
+Tiṭṭhati Nibbānagāmī maggo
 
 <div class="english">
 
-> The path leading to nibbāna exists
+> The path leading to Nibbāna exists
 
 </div>
 
