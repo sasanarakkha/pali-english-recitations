@@ -1,4 +1,4 @@
-## Bhojana-dānānumodanā<a id="bhojana-dananumodana"></a>
+## Bhojana-dān'ānumodanā<a id="bhojana-dananumodana"></a>
 
 [Yo yassa bhojanaṁ deti]
 So tassa deti pañcapi

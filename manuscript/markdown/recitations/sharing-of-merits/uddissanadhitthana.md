@@ -1,5 +1,5 @@
 ## Sharing and Aspirations<a id="uddissanadhitthana"></a>
-Uddissanādhiṭṭhānā
+Uddissan'ādhiṭṭhānā
 
 <center>
 〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase 〉

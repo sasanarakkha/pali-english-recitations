@@ -72,7 +72,7 @@
   - [[#just-as-rivers][Just as Rivers]]
   - [[#yathā-vāri-vahā-pūrā][Yathā vāri-vahā pūrā]]
   - [[#ratanattayānubhāvādi-gāthā][Ratanattayānubhāv'ādi-gāthā]]
-  - [[#bhojana-dānānumodanā][Bhojana-dānānumodanā]]
+  - [[#bhojana-dān'ānumodanā][Bhojana-dān'ānumodanā]]
   - [[#culla-maṅgala-cakka-vāḷa][Culla-maṅgala-cakka-vāḷa]]
   - [[#aggappasāda-sutta-gāthā][Aggappasāda-sutta-gāthā]]
   - [[#kāla-dāna-sutta-gāthā][Kāla-dāna-sutta-gāthā]]
@@ -9078,10 +9078,10 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Bhojana-dānānumodanā
+** Bhojana-dān'ānumodanā
 #+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
 
-\section{Bhojana-dānānumodanā}
+\section{Bhojana-dān'ānumodanā}
 \label{bhojana-dananumodana}
 
 \begin{leader-only}
@@ -10188,7 +10188,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \label{karaniya-metta-sutta}
 
 \begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Karaṇīya m-attha-kusalena \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Karaṇīyam'attha-kusalena \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
   Yan'taṁ santaṁ padaṁ abhisamecca\\
@@ -11902,7 +11902,7 @@ TODO G correct way to git merge
   \setsecnumformat{}%
 }
 
-\sectionPaliTitle{Uddissanādhiṭṭhānā}
+\sectionPaliTitle{Uddissan'ādhiṭṭhānā}
 \setsecheadstyle{\sectionFmt}
 
 \section{Sharing and Aspirations}
@@ -12143,12 +12143,12 @@ Sabba-sampatti-siddhiyā
 ** The Highest Honour and Aspirations
 #+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
 
-\sectionPaliTitle{Paramāya pūjāyañca paṇidhiñca}
+\sectionPaliTitle{Paramāya pūjāyañ'ca paṇidhiñ'ca}
 \section{The Highest Honour and Aspirations}
 \label{highest-honour-aspirations}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddhapūjañca paṇidhiñca karomase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddhapūjañ'ca paṇidhiñ'ca karomase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Buddhaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi

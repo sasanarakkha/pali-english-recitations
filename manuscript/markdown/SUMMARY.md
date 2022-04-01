@@ -70,7 +70,7 @@
 [Just as Rivers](recitations/thanksgiving-recitations/just-as-rivers.md)
 [Yathā vāri-vahā pūrā](recitations/thanksgiving-recitations/yatha-vari-vaha-pura.md)
 [Ratanattayānubhāv’ādi-gāthā](recitations/thanksgiving-recitations/ratanattayanubhavadi-gatha.md)
-[Bhojana-dānānumodanā](recitations/thanksgiving-recitations/bhojana-dananumodana.md)
+[Bhojana-dān'ānumodanā](recitations/thanksgiving-recitations/bhojana-dananumodana.md)
 [Culla-maṅgala-cakka-vāḷa](recitations/thanksgiving-recitations/culla-mangala-cakka-vala.md)
 [Aggappasāda-sutta-gāthā](recitations/thanksgiving-recitations/aggappasada-sutta-gatha.md)
 [Kāla-dāna-sutta-gāthā](recitations/thanksgiving-recitations/kala-dana-sutta-gatha.md)

@@ -63,7 +63,7 @@
 [Just as Rivers](#just-as-rivers)\
 [Yathā vāri-vahā pūrā](#yatha-vari-vaha-pura)\
 [Ratanattayānubhāv’ādi-gāthā](#ratanattayanubhavadi-gatha)\
-[Bhojana-dānānumodanā](#bhojana-dananumodana)\
+[Bhojana-dān'ānumodanā](#bhojana-dananumodana)\
 [Culla-maṅgala-cakka-vāḷa](#culla-mangala-cakka-vala)\
 [Aggappasāda-sutta-gāthā](#aggappasada-sutta-gatha)\
 [Kāla-dāna-sutta-gāthā](#kala-dana-sutta-gatha)\

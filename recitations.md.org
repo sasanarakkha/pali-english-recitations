@@ -75,7 +75,7 @@
   - [[#just-as-rivers][Just as Rivers]]
   - [[#yathā-vāri-vahā-pūrā][Yathā vāri-vahā pūrā]]
   - [[#ratanattayānubhāvādi-gāthā][Ratanattayānubhāv’ādi-gāthā]]
-  - [[#bhojana-dānānumodanā][Bhojana-dānānumodanā]]
+  - [[#bhojana-dān'ānumodanā][Bhojana-dān'ānumodanā]]
   - [[#culla-maṅgala-cakka-vāḷa][Culla-maṅgala-cakka-vāḷa]]
   - [[#aggappasāda-sutta-gāthā][Aggappasāda-sutta-gāthā]]
   - [[#kāla-dāna-sutta-gāthā][Kāla-dāna-sutta-gāthā]]
@@ -287,7 +287,7 @@ Sāsanārakkha Buddhist Sanctuary.
 [Just as Rivers](#just-as-rivers)\
 [Yathā vāri-vahā pūrā](#yatha-vari-vaha-pura)\
 [Ratanattayānubhāv’ādi-gāthā](#ratanattayanubhavadi-gatha)\
-[Bhojana-dānānumodanā](#bhojana-dananumodana)\
+[Bhojana-dān'ānumodanā](#bhojana-dananumodana)\
 [Culla-maṅgala-cakka-vāḷa](#culla-mangala-cakka-vala)\
 [Aggappasāda-sutta-gāthā](#aggappasada-sutta-gatha)\
 [Kāla-dāna-sutta-gāthā](#kala-dana-sutta-gatha)\
@@ -9636,10 +9636,10 @@ Sata-vassā ca āyū ca – Jīva-siddhī bhavantu te
 
 #+end_src
 
-** Bhojana-dānānumodanā
+** Bhojana-dān'ānumodanā
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/thanksgiving-recitations/bhojana-dananumodana.md
 
-## Bhojana-dānānumodanā<a id="bhojana-dananumodana"></a>
+## Bhojana-dān'ānumodanā<a id="bhojana-dananumodana"></a>
 
 [Yo yassa bhojanaṁ deti]
 So tassa deti pañcapi
@@ -12071,7 +12071,7 @@ Sabba-saṅghānubhāvena – Sadā sotthī  ̓  bhavantu te
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/sharing-of-merits/uddissanadhitthana.md
 
 ## Sharing and Aspirations<a id="uddissanadhitthana"></a>
-Uddissanādhiṭṭhānā
+Uddissan'ādhiṭṭhānā
 
 <center>
 〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase 〉
@@ -12273,10 +12273,10 @@ Sabbe sattā anumodantu – Sabba-sampatti-siddhiyā
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/sharing-of-merits/highest-honour-aspirations.md
 
 ## The Highest Honour and Aspirations<a id="highest-honour-aspirations"></a>
-Paramāya pūjāyañca paṇidhiñca
+Paramāya pūjāyañ'ca paṇidhiñ'ca
 
 <center>
-〈 Handa mayaṁ buddhapūjañca paṇidhiñca karomase 〉
+〈 Handa mayaṁ buddhapūjañ'ca paṇidhiñ'ca karomase 〉
 </center>
 
 Buddhaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi

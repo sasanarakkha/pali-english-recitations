@@ -1,8 +1,8 @@
 ## The Highest Honour and Aspirations<a id="highest-honour-aspirations"></a>
-Paramāya pūjāyañca paṇidhiñca
+Paramāya pūjāyañ'ca paṇidhiñ'ca
 
 <center>
-〈 Handa mayaṁ buddhapūjañca paṇidhiñca karomase 〉
+〈 Handa mayaṁ buddhapūjañ'ca paṇidhiñ'ca karomase 〉
 </center>
 
 Buddhaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi
