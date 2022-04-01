@@ -60,7 +60,7 @@ Etena saccena suvatthi hotu
 </div>
 
 
-Yam buddha-seṭṭho parivaṇṇayī suciṁ – Samādhim-ānantarikaññam-āhu
+Yam buddha-seṭṭho parivaṇṇayī suciṁ – Samādhim'ānantarikañ'ñam'āhu
 Samādhinā tena samo na vijjati – Idam'pi dhamme ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
@@ -112,7 +112,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 Yath’inda-khīlo paṭhaviṁ sito siyā – Catubbhi vātebhi asampakam'piyo
-Tathūpamaṁ sappurisaṁ vadāmi – Yo ariya-saccāni avecca passati
+Tath'ūpamaṁ sappurisaṁ vadāmi – Yo ariya-saccāni avecca passati
 Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
@@ -129,7 +129,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 Ye ariya-saccāni vibhāvayanti – Gambhīra-paññena sudesitāni
-Kiñ'c'āpi te honti bhusappamattā – Na te bhavaṁ aṭṭhamam-ādiyanti
+Kiñ'c'āpi te honti bhusa'ppamattā – Na te bhavaṁ aṭṭhamam'ādiyanti
 Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
@@ -147,7 +147,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 Sahā v’assa dassana-sampadāya – Tay’assu dhammā jahitā bhavanti
 Sakkāya-diṭṭhi vicikicchitañ'ca – Sīlabbataṁ vā pi yad'atthi kiñci
-Catūh’apāyehi ca vippamutto – Cha cābhiṭhānāni abhabbo kātuṁ
+Catūh’apāyehi ca vippamutto – Cha c'ābhiṭhānāni abhabbo kātuṁ
 Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
@@ -182,8 +182,8 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 </div>
 
 
-Vanappagumbe yathā phussi-t-agge – Gimhāna-māse paṭhamasmiṁ gimhe
-Tathūpamaṁ dhamma-varaṁ adesayi – Nibbāna-gāmiṁ paramaṁ hitāya
+Vanappagumbe yathā phussi't'agge – Gimhāna-māse paṭhamasmiṁ gimhe
+Tath'ūpamaṁ dhamma-varaṁ adesayi – Nibbāna-gāmiṁ paramaṁ hitāya
 Idam'pi buddhe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
