@@ -60,8 +60,8 @@ Bhūtā vā sambhavesī vā – Sabbe sattā bhavantu sukhit’attā
 
 </div>
 
-Na paro paraṁ nikubbetha – Nātimaññetha katthaci naṁ kiñci
-Byārosanā paṭīgha-saññā – Nāññam-aññassa dukkham-iccheyya
+Na paro paraṁ nikubbetha – N'ātimaññetha katthaci naṁ kiñci
+Byārosanā paṭīgha-saññā – N'āññam'aññassa dukkham'iccheyya
 
 <div class="english">
 
@@ -73,7 +73,7 @@ Byārosanā paṭīgha-saññā – Nāññam-aññassa dukkham-iccheyya
 </div>
 
 Mātā yathā niyaṁ puttaṁ – Āyusā eka-puttam'anurakkhe
-Evam pi sabba-bhūtesu – Mānasam-bhāvaye aparimāṇaṁ
+Evam pi sabba-bhūtesu – Mānasam'bhāvaye aparimāṇaṁ
 
 <div class="english">
 
@@ -86,7 +86,7 @@ TODO: something here prevents xport
 </div>
 
 
-Mettañ'ca sabba-lokasmiṁ – Mānasam-bhāvaye aparimāṇaṁ
+Mettañ'ca sabba-lokasmiṁ – Mānasam'bhāvaye aparimāṇaṁ
 Uddhaṁ adho ca tiriyañ'ca – Asambādhaṁ averaṁ asapattaṁ
 
 <div class="english">
@@ -99,7 +99,7 @@ Uddhaṁ adho ca tiriyañ'ca – Asambādhaṁ averaṁ asapattaṁ
 </div>
 
 Tiṭṭhañ'caraṁ nisinno vā – Sayāno vā yāvat’assa vigata-middho
-Etaṁ satiṁ adhiṭṭheyya – Brahmam-etaṁ vihāraṁ idham-āhu
+Etaṁ satiṁ adhiṭṭheyya – Brahmam'etaṁ vihāraṁ idham'āhu
 
 <div class="english">
 
