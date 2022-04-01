@@ -36,7 +36,7 @@ Supaṭipanno bhagavato sāvaka-saṅgho
 Uju-paṭipanno bhagavato sāvaka-saṅgho
 Ñāya-paṭipanno bhagavato sāvaka-saṅgho
 Sāmīci-paṭipanno bhagavato sāvaka-saṅgho
-Yad-idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā
+Yad'idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā
 Esa bhagavato sāvaka-saṅgho
 Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo
 Anuttaraṁ puññakkhettaṁ lokassā’ti

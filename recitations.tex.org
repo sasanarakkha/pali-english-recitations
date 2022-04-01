@@ -9895,7 +9895,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \label{ratana-sutta}
 
 \begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Yānīdha bhūtāni samāgatāni \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Yān'īdha bhūtāni samāgatāni \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
   Bhummāni vā yāni va antalikkhe\\
@@ -9942,7 +9942,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Khayaṁ virāgaṁ amataṁ paṇītaṁ\\
-  Yad-ajjhagā sakya-munī samāhito\\
+  Yad'ajjhagā sakya-munī samāhito\\
   Na tena dhammena sam'atthi kiñci\\
   Idam'pi dhamme ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
@@ -10048,7 +10048,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Sahā v'assa dassana-sampadāya\\
   Tay'assu dhammā jahitā bhavanti\\
   Sakkāya-diṭṭhi vicikicchitañ'ca\\
-  Sīlabbataṁ vā'pi yad-atthi kiñci\\
+  Sīlabbataṁ vā'pi yad'atthi kiñci\\
   Catūh'apāyehi ca vippamutto\\
   Cha cābhiṭhānāni abhabbo kātuṁ\\
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
@@ -10136,7 +10136,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yānīdha bhūtāni samāgatāni\\
+  Yān'īdha bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
   Tathāgataṁ deva-manussa-pūjitaṁ\\
   Buddhaṁ namassāma suvatthi hotu
@@ -10150,7 +10150,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yānīdha bhūtāni samāgatāni\\
+  Yān'īdha bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
   Tathāgataṁ deva-manussa-pūjitaṁ\\
   Dhammaṁ namassāma suvatthi hotu
@@ -10164,7 +10164,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yānīdha bhūtāni samāgatāni\\
+  Yān'īdha bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
   Tathāgataṁ deva-manussa-pūjitaṁ\\
   Saṅghaṁ namassāma suvatthi hotu
@@ -10484,7 +10484,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Uju-paṭipanno bhagavato sāvaka-saṅgho\\
   Ñāya-paṭipanno bhagavato sāvaka-saṅgho\\
   Sāmīci-paṭipanno bhagavato sāvaka-saṅgho\\
-  Yad-idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā\\
+  Yad'idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā\\
   Esa bhagavato sāvaka-saṅgho\\
   Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo\\
   Anuttaraṁ puññakkhettaṁ lokassā'ti

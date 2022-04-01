@@ -1,6 +1,6 @@
 ## Ratana-sutta<a id="ratana-sutta"></a>
 
-[Yānīdha] bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
+[Yān'īdha] bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
 Sabb’eva bhūtā sumanā bhavantu – Atho pi sakkacca suṇantu bhāsitaṁ
 
 
@@ -44,7 +44,7 @@ Etena saccena suvatthi hotu
 </div>
 
 
-Khayaṁ virāgaṁ amataṁ paṇītaṁ – Yad-ajjhagā sakya-munī samāhito
+Khayaṁ virāgaṁ amataṁ paṇītaṁ – Yad'ajjhagā sakya-munī samāhito
 Na tena dhammena sam’atthi kiñci – Idam'pi dhamme ratanaṁ paṇītaṁ
 Etena saccena suvatthi hotu
 
@@ -146,7 +146,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
 
 Sahā v’assa dassana-sampadāya – Tay’assu dhammā jahitā bhavanti
-Sakkāya-diṭṭhi vicikicchitañ'ca – Sīlabbataṁ vā pi yad-atthi kiñci
+Sakkāya-diṭṭhi vicikicchitañ'ca – Sīlabbataṁ vā pi yad'atthi kiñci
 Catūh’apāyehi ca vippamutto – Cha cābhiṭhānāni abhabbo kātuṁ
 Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 
@@ -231,7 +231,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 </div>
 
 
-Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
+Yān'īdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
 Tathāgataṁ deva-manussa-pūjitaṁ – Buddhaṁ namassāma suvatthi hotu
 
 
@@ -245,7 +245,7 @@ Tathāgataṁ deva-manussa-pūjitaṁ – Buddhaṁ namassāma suvatthi hotu
 </div>
 
 
-Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
+Yān'īdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
 Tathāgataṁ deva-manussa-pūjitaṁ – Dhammaṁ namassāma suvatthi hotu
 
 
@@ -259,7 +259,7 @@ Tathāgataṁ deva-manussa-pūjitaṁ – Dhammaṁ namassāma suvatthi hotu
 </div>
 
 
-Yānīdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
+Yān'īdha bhūtāni samāgatāni – Bhummāni vā yāni va antalikkhe
 Tathāgataṁ deva-manussa-pūjitaṁ – Saṅghaṁ namassāma suvatthi hotu
 
 
