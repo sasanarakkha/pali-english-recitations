@@ -1,7 +1,7 @@
 ## Jaya-parittaṁ<a id="jaya-parittam"></a>
 
 [Mahā-kāruṇiko] nātho Hitāya sabba-pāṇinaṁ
-Pūretvā pāramī sabbā Patto sambodhim-uttamaṁ
+Pūretvā pāramī sabbā Patto sambodhim'uttamaṁ
 Etena sacca-vajjena Hotu te jaya-maṅgalaṁ
 
 <div class="english">
@@ -42,7 +42,7 @@ Abhiseke sabba-buddhānaṁ Aggappatto pamodati
 [MJG]
 
 Sunakkhattaṁ sumaṅgalaṁ Supabhātaṁ suhuṭṭhitaṁ
-Sukhaṇo sumuhutto ca Suyiṭṭhaṁ brahma-cārisu
+Sukhaṇo sumuhutto ca Suyiṭṭhaṁ brahmacārisu
 
 <div class="english">
 

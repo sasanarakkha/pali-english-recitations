@@ -27,7 +27,7 @@ Sabbe devā anumodantui – Sabba-sampatti-siddhiyā
 </div>
 
 Dānaṁ dadantu saddhāya – Sīlaṁ rakkhantu sabbadā
-Bhāvanābhiratā hontu – Gacchantu devatā-gatā
+Bhāvan'ābhiratā hontu – Gacchantu devatā-gatā
 
 <div class="english">
 

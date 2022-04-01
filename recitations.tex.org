@@ -10732,7 +10732,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ avamaṅgalañ'ca \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Yo cāmanāpo sakuṇassa saddo\\
+  Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Buddh'ānubhāvena vināsamentu
 \end{pali-hangtogether}
@@ -10746,7 +10746,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Yan-dunnimittaṁ avamaṅgalañ'ca\\
-  Yo cāmanāpo sakuṇassa saddo\\
+  Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Dhamm'ānubhāvena vināsamentu
 \end{pali-hang-continued}
@@ -10760,7 +10760,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Yan-dunnimittaṁ avamaṅgalañ'ca\\
-  Yo cāmanāpo sakuṇassa saddo\\
+  Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Saṅgh'ānubhāvena vināsamentu
 \end{pali-hang-continued}
@@ -10817,7 +10817,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \begin{pali-hang-continued}
   Dānaṁ dadantu saddhāya\\
   Sīlaṁ rakkhantu sabbadā\\
-  Bhāvanābhiratā hontu\\
+  Bhāvan'ābhiratā hontu\\
   Gacchantu devatā-gatā
 \end{pali-hang-continued}
 
@@ -10861,7 +10861,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sahassam-abhinimmita sāvudhan'taṁ\\
+  Sahassam'abhinimmita sāvudhan'taṁ\\
   Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
 \linkdest{endnote129-body}
   Dān'ādi-dhamma-vidhinā jitavā\makeatletter\hyperlink{endnote129-appendix}\Hy@raisedlink{{\pagenote{%
@@ -10882,8 +10882,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Mārātirekam-abhiyujjhita-sabba-rattiṁ\\
-  Ghoram-pan'āḷavakam-akkhama-thaddha-yakkhaṁ\\
+  Mār'ātirekam'abhiyujjhita-sabba-rattiṁ\\
+  Ghoram'pan'āḷavakam-akkhama-thaddha-yakkhaṁ\\
   Khantī-sudanta-vidhinā jitavā mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni
 \end{pali-hang-continued}
@@ -10897,7 +10897,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Nāḷāgiriṁ gaja-varaṁ atimatta-bhūtaṁ\\
-  Dāv'aggi-cakkam-asanīva sudāruṇan'taṁ\\
+  Dāv'aggi-cakkam'asanīva sudāruṇan'taṁ\\
   Mett'ambu-seka-vidhinā jitavā mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni\\
 \end{pali-hang-continued}
@@ -10911,7 +10911,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Ukkhitta-khaggam-atihattha-sudāruṇan'taṁ\\
-  Dhāvan-ti-yojana-path'aṅguli-mālavantaṁ\\
+  Dhāvan'ti-yojana-path'aṅguli-mālavantaṁ\\
   Iddhī'bhisaṅkhata-mano jitavā mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni
 \end{pali-hang-continued}
@@ -10924,7 +10924,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Katvāna kaṭṭham-udaraṁ iva gabbhinīyā\\
+  Katvāna kaṭṭham'udaraṁ iva gabbhinīyā\\
   Ciñcāya duṭṭha-vacanaṁ jana-kāya majjhe\\
   Santena soma-vidhinā jitavā mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni
@@ -10939,7 +10939,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Saccaṁ vihāya mati-saccaka-vāda-ketuṁ\\
-  Vādābhiropita-manaṁ ati-andha-bhūtaṁ\\
+  Vād'ābhiropita-manaṁ ati-andha-bhūtaṁ\\
   Paññā-padīpa-jalito jitavā mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni
 \end{pali-hang-continued}
@@ -10953,8 +10953,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Nandopananda-bhujagaṁ vibudhaṁ mah'iddhiṁ\\
-  Puttena thera-bhujagena damāpayanto\\
-  Iddhūpadesa-vidhinā jitavā mun'indo\\
+  Puttena thera-bhujagena dam'āpayanto\\
+  Iddh'ūpadesa-vidhinā jitavā mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni
 \end{pali-hang-continued}
 
@@ -10967,7 +10967,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṁ\\
-  Brahmaṁ visuddhi-jutim-iddhi-bakābhidhānaṁ\\
+  Brahmaṁ visuddhi-jutim-iddhi-bak'ābhidhānaṁ\\
   Ñāṇāgadena vidhinā jitavā mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni
 \end{pali-hang-continued}
@@ -10981,7 +10981,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Etā'pi buddha-jaya-maṅgala-aṭṭha-gāthā\\
-  Yo vācano dina-dine saratem-atandī\\
+  Yo vācano dina-dine sarate'm'atandī\\
   Hitvān'aneka-vividhāni c'upaddavāni\\
   Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 \end{pali-hang-continued}
@@ -11011,7 +11011,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \begin{pali-hangtogether}
   Hitāya sabba-pāṇinaṁ\\
   Pūretvā pāramī sabbā\\
-  Patto sambodhim-uttamaṁ\\
+  Patto sambodhim'uttamaṁ\\
   Etena sacca-vajjena\\
   Hotu te jaya-maṅgalaṁ
 \end{pali-hangtogether}
@@ -11059,7 +11059,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Sunakkhattaṁ sumaṅgalaṁ\\
   Supabhātaṁ suhuṭṭhitaṁ\\
   Sukhaṇo sumuhutto ca\\
-  Suyiṭṭhaṁ brahma-cārisu
+  Suyiṭṭhaṁ brahmacārisu
 \end{pali-hang-continued}
 
 \begin{english-verses}

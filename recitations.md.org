@@ -11039,7 +11039,7 @@ Sotthi te hotu sabbadā
 
 ## Abhaya-parittaṁ<a id="abhaya-parittam"></a>
 
-[Yan-dunnimittaṁ] avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
+[Yan-dunnimittaṁ] avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
 Pāpaggaho dussupinaṁ akantaṁ – Buddh'ānubhāvena vināsamentu
 
 <div class="english">
@@ -11051,7 +11051,7 @@ Pāpaggaho dussupinaṁ akantaṁ – Buddh'ānubhāvena vināsamentu
 
 </div>
 
-Yan-dunnimittaṁ avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
+Yan-dunnimittaṁ avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
 Pāpaggaho dussupinaṁ akantaṁ – Dhamm'ānubhāvena vināsamentu
 
 <div class="english">
@@ -11063,7 +11063,7 @@ Pāpaggaho dussupinaṁ akantaṁ – Dhamm'ānubhāvena vināsamentu
 
 </div>
 
-Yan-dunnimittaṁ avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
+Yan-dunnimittaṁ avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
 Pāpaggaho dussupinaṁ akantaṁ – Saṅgh'ānubhāvena vināsamentu
 
 <div class="english">
@@ -11111,7 +11111,7 @@ Sabbe devā anumodantui – Sabba-sampatti-siddhiyā
 </div>
 
 Dānaṁ dadantu saddhāya – Sīlaṁ rakkhantu sabbadā
-Bhāvanābhiratā hontu – Gacchantu devatā-gatā
+Bhāvan'ābhiratā hontu – Gacchantu devatā-gatā
 
 <div class="english">
 
@@ -11141,7 +11141,7 @@ Arahantānañ'ca tejena – Rakkhaṁ bandhāmi sabbaso
 
 ## Jaya-maṅgala-aṭṭha-gāthā<a id="jaya-mangala-attha-gatha"></a>
 
-[Bāhuṁ] sahassam-abhinimmita sāvudhan'taṁ
+[Bāhuṁ] Sahassam'abhinimmita sāvudhan'taṁ
 Grīmekhalaṁ udita-ghora-sasena-māraṁ
 Dān’ādi-dhamma-vidhinā jitavāi mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
@@ -11155,8 +11155,8 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 
 </div>
 
-Mārātirekam-abhiyujjhita-sabba-rattiṁ
-Ghoram-pan’āḷavakam-akkhama-thaddha-yakkhaṁ
+Mār'ātirekam'abhiyujjhita-sabba-rattiṁ
+Ghoram'pan’āḷavakam-akkhama-thaddha-yakkhaṁ
 Khantī-sudanta-vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
@@ -11171,7 +11171,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Nāḷāgiriṁ gaja-varaṁ atimatta-bhūtaṁ
-Dāv’aggi-cakkam-asanīva sudāruṇan'taṁ
+Dāv’aggi-cakkam'asanīva sudāruṇan'taṁ
 Mett’ambu-seka-vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 Nāḷāgiri, the excellent elephant, when maddened,
@@ -11186,7 +11186,7 @@ Nāḷāgiri, the excellent elephant, when maddened,
 </div>
 
 Ukkhitta-khaggam-atihattha-sudāruṇan'taṁ
-Dhāvan-ti-yojana-path’aṅguli-mālavantaṁ
+Dhāvan'ti-yojana-path’aṅguli-mālavantaṁ
 Iddhī’bhisaṅkhata-mano jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
@@ -11200,7 +11200,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 
 </div>
 
-Katvāna kaṭṭham-udaraṁ iva gabbhinīyā
+Katvāna kaṭṭham'udaraṁ iva gabbhinīyā
 Ciñcāya duṭṭha-vacanaṁ jana-kāya majjhe
 Santena soma-vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
@@ -11216,7 +11216,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Saccaṁ vihāya mati-saccaka-vāda-ketuṁ
-Vādābhiropita-manaṁ ati-andha-bhūtaṁ
+Vād'ābhiropita-manaṁ ati-andha-bhūtaṁ
 Paññā-padīpa-jalito jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
@@ -11231,8 +11231,8 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Nandopananda-bhujagaṁ vibudhaṁ mah’iddhiṁ
-Puttena thera-bhujagena damāpayanto
-Iddhūpadesa-vidhinā jitavā mun’indo
+Puttena thera-bhujagena dam'āpayanto
+Iddh'ūpadesa-vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
@@ -11246,7 +11246,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṁ
-Brahmaṁ visuddhi-jutim-iddhi-bakābhidhānaṁ
+Brahmaṁ visuddhi-jutim-iddhi-bak'ābhidhānaṁ
 Ñāṇāgadena vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
@@ -11261,7 +11261,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Etā pi buddha-jaya-maṅgala-aṭṭha-gāthā
-Yo vācano dina-dine saratem-atandī
+Yo vācano dina-dine sarate'm'atandī
 Hitvān’aneka-vividhāni c’upaddavāni
 Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 
@@ -11285,7 +11285,7 @@ Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 ## Jaya-parittaṁ<a id="jaya-parittam"></a>
 
 [Mahā-kāruṇiko] nātho Hitāya sabba-pāṇinaṁ
-Pūretvā pāramī sabbā Patto sambodhim-uttamaṁ
+Pūretvā pāramī sabbā Patto sambodhim'uttamaṁ
 Etena sacca-vajjena Hotu te jaya-maṅgalaṁ
 
 <div class="english">
@@ -11326,7 +11326,7 @@ Abhiseke sabba-buddhānaṁ Aggappatto pamodati
 [MJG]
 
 Sunakkhattaṁ sumaṅgalaṁ Supabhātaṁ suhuṭṭhitaṁ
-Sukhaṇo sumuhutto ca Suyiṭṭhaṁ brahma-cārisu
+Sukhaṇo sumuhutto ca Suyiṭṭhaṁ brahmacārisu
 
 <div class="english">
 

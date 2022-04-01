@@ -1,6 +1,6 @@
 ## Abhaya-parittaṁ<a id="abhaya-parittam"></a>
 
-[Yan-dunnimittaṁ] avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
+[Yan-dunnimittaṁ] avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
 Pāpaggaho dussupinaṁ akantaṁ – Buddh'ānubhāvena vināsamentu
 
 <div class="english">
@@ -12,7 +12,7 @@ Pāpaggaho dussupinaṁ akantaṁ – Buddh'ānubhāvena vināsamentu
 
 </div>
 
-Yan-dunnimittaṁ avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
+Yan-dunnimittaṁ avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
 Pāpaggaho dussupinaṁ akantaṁ – Dhamm'ānubhāvena vināsamentu
 
 <div class="english">
@@ -24,7 +24,7 @@ Pāpaggaho dussupinaṁ akantaṁ – Dhamm'ānubhāvena vināsamentu
 
 </div>
 
-Yan-dunnimittaṁ avamaṅgalañ'ca – Yo cāmanāpo sakuṇassa saddo
+Yan-dunnimittaṁ avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
 Pāpaggaho dussupinaṁ akantaṁ – Saṅgh'ānubhāvena vināsamentu
 
 <div class="english">

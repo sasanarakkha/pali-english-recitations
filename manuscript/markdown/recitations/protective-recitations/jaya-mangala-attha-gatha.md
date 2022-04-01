@@ -1,6 +1,6 @@
 ## Jaya-maṅgala-aṭṭha-gāthā<a id="jaya-mangala-attha-gatha"></a>
 
-[Bāhuṁ] sahassam-abhinimmita sāvudhan'taṁ
+[Bāhuṁ] Sahassam'abhinimmita sāvudhan'taṁ
 Grīmekhalaṁ udita-ghora-sasena-māraṁ
 Dān’ādi-dhamma-vidhinā jitavāi mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
@@ -14,8 +14,8 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 
 </div>
 
-Mārātirekam-abhiyujjhita-sabba-rattiṁ
-Ghoram-pan’āḷavakam-akkhama-thaddha-yakkhaṁ
+Mār'ātirekam'abhiyujjhita-sabba-rattiṁ
+Ghoram'pan’āḷavakam-akkhama-thaddha-yakkhaṁ
 Khantī-sudanta-vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
@@ -30,7 +30,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Nāḷāgiriṁ gaja-varaṁ atimatta-bhūtaṁ
-Dāv’aggi-cakkam-asanīva sudāruṇan'taṁ
+Dāv’aggi-cakkam'asanīva sudāruṇan'taṁ
 Mett’ambu-seka-vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 Nāḷāgiri, the excellent elephant, when maddened,
@@ -45,7 +45,7 @@ Nāḷāgiri, the excellent elephant, when maddened,
 </div>
 
 Ukkhitta-khaggam-atihattha-sudāruṇan'taṁ
-Dhāvan-ti-yojana-path’aṅguli-mālavantaṁ
+Dhāvan'ti-yojana-path’aṅguli-mālavantaṁ
 Iddhī’bhisaṅkhata-mano jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
@@ -59,7 +59,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 
 </div>
 
-Katvāna kaṭṭham-udaraṁ iva gabbhinīyā
+Katvāna kaṭṭham'udaraṁ iva gabbhinīyā
 Ciñcāya duṭṭha-vacanaṁ jana-kāya majjhe
 Santena soma-vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
@@ -75,7 +75,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Saccaṁ vihāya mati-saccaka-vāda-ketuṁ
-Vādābhiropita-manaṁ ati-andha-bhūtaṁ
+Vād'ābhiropita-manaṁ ati-andha-bhūtaṁ
 Paññā-padīpa-jalito jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
@@ -90,8 +90,8 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Nandopananda-bhujagaṁ vibudhaṁ mah’iddhiṁ
-Puttena thera-bhujagena damāpayanto
-Iddhūpadesa-vidhinā jitavā mun’indo
+Puttena thera-bhujagena dam'āpayanto
+Iddh'ūpadesa-vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
@@ -105,7 +105,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṁ
-Brahmaṁ visuddhi-jutim-iddhi-bakābhidhānaṁ
+Brahmaṁ visuddhi-jutim-iddhi-bak'ābhidhānaṁ
 Ñāṇāgadena vidhinā jitavā mun’indo
 Tan'tejasā bhavatu te jaya-maṅgalāni
 
@@ -120,7 +120,7 @@ Tan'tejasā bhavatu te jaya-maṅgalāni
 </div>
 
 Etā pi buddha-jaya-maṅgala-aṭṭha-gāthā
-Yo vācano dina-dine saratem-atandī
+Yo vācano dina-dine sarate'm'atandī
 Hitvān’aneka-vividhāni c’upaddavāni
 Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 
