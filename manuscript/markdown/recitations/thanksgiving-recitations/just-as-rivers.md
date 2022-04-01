@@ -89,7 +89,7 @@ Sabba-rogo vinassatu
 
 </div>
 
-Mā te bhavatv-antarāyo
+Mā te bhavatv'antarāyo
 
 <div class="english">
 

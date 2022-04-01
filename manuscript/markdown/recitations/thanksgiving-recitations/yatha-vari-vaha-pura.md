@@ -31,7 +31,7 @@ Cando paṇṇa-raso yathā – Maṇi joti-raso yathāi
 </div>
 
 Sabb’ītiyo vivajjantui – Sabba-rogo vinassatu
-Mā te bhavatv-antarāyo – Sukhī dīgh’āyuko bhava
+Mā te bhavatv'antarāyo – Sukhī dīgh’āyuko bhava
 
 <div class="english">
 
