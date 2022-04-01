@@ -111,7 +111,7 @@ Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 </div>
 
 
-Yath’inda-khīlo paṭhaviṁ sito siyā – Catubbhi vātebhi asampakampiyo
+Yath’inda-khīlo paṭhaviṁ sito siyā – Catubbhi vātebhi asampakam'piyo
 Tathūpamaṁ sappurisaṁ vadāmi – Yo ariya-saccāni avecca passati
 Idam'pi saṅghe ratanaṁ paṇītaṁ – Etena saccena suvatthi hotu
 

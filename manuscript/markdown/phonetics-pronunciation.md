@@ -133,7 +133,7 @@ in ‘mad dog’, or textbf{gg} in ‘maggo’ as in ‘big gun’.
 
 textbf{2.} textbf{Aspirated consonants} like textbf{bh, dh} etc.
 count as single consonant and don't get divided (Therefore
-textbf{am·hā·kaṃ}, but textbf{sa·dham·maṃ}, not textbf{sad·ham·maṃ}
+textbf{am·hā·kaṁ}, but textbf{sa·dham·maṁ}, not textbf{sad·ham·maṁ}
 or, another example: textbf{Bud·dho} and not textbf{Bu·ddho}).
 
 Precise pronunciation and correct separation of the syllables is

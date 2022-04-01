@@ -7756,19 +7756,19 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo c'āyaṁ attakilamath'ānuyogo dukkho anariyo anatthasañhito.
+  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāmasukhallik'ānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo c'āyaṁ attakilamath'ānuyogo dukkho anariyo anatthasañhito.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati.
+  Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati?
+  Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ayameva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ:
+  Ayam'eva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ:
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7780,7 +7780,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya Nibbānāya saṁvattati.
+  Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7796,7 +7796,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanassupāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tampi dukkhaṁ saṅkhittena pañc'upādānakkhandā dukkhā.
+  Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tam'pi dukkhaṁ saṅkhittena pañc'upādānakkhandā dukkhā.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7820,7 +7820,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ayameva ariyo aṭṭhaṅgiko maggo seyyathīdam: Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
+  Ayam'eva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ: Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7828,7 +7828,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan'ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7840,7 +7840,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhasamudayo ariyasaccaṁ pahātabbanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhasamudayo ariyasaccaṁ pahātabban'ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7852,7 +7852,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhanirodho ariyasaccaṁ sacchikātabbanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhanirodho ariyasaccaṁ sacchikātabban'ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7864,7 +7864,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabbanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban'ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7872,17 +7872,17 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāva kīvañca me bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
+  Yāvakīvañ'ca me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evantiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddham ahosi athāham bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
+  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddham ahosi athāham bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
 \end{pali-hang}
 
-Ñāṇañca pana me dassanaṁ udapādi.
+Ñāṇañ'ca pana me dassanaṁ udapādi.
 
 \begin{pali-hang}
-  ``Akuppā me vimutti ayamantimā jāti n'atthidāni punabbhavo''ti.
+  ``Akuppā me vimutti ayam'antimā jāti n'atthidāni punabbhavo''ti.
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7890,13 +7890,13 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
+  Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
 \end{pali-hang}
 
-``Yaṅkinci samudayadhammaṁ sabbantaṁ nirodhadhamman''ti.
+``Yaṁ kiñ'ci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman''ti.
 
 \begin{pali-hang}
-  Pavattite ca bhagavatā dhammacakke bhummā devā saddamanussāvesuṁ:
+  Pavattite ca bhagavatā dhammacakke bhummā devā saddam'anussāvesuṁ:
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7904,19 +7904,19 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Bhummānaṁ devānaṁ saddaṁ sutvā Cātummahārājikā devā saddamanussāvesuṁ...
+  Bhummānaṁ devānaṁ saddaṁ sutvā Cātummahārājikā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Cātummahārājikanaṁ devānaṁ saddaṁ sutvā Tāvatiṁsā devā saddamanussāvesuṁ...
+  Cātummahārājikanaṁ devānaṁ saddaṁ sutvā Tāvatiṁsā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā Yāmā devā saddamanussāvesuṁ...
+  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā Yāmā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāmānaṁ devānaṁ saddaṁ sutvā Tusitā devā saddamanussāvesuṁ...
+  Yāmānaṁ devānaṁ saddaṁ sutvā Tusitā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7924,11 +7924,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Nimmānaratīnaṁ devānaṁ saddaṁ sutvā Paranimmitavasavattī devā saddamanussāvesuṁ...
+  Nimmānaratīnaṁ devānaṁ saddaṁ sutvā Paranimmitavasavattī devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Paranimmitavasavattīnaṁ devānaṁ saddaṁ sutvā Brahmakāyikā devā saddamanussāvesuṁ:
+  Paranimmitavasavattīnaṁ devānaṁ saddaṁ sutvā Brahmakāyikā devā saddam'anussāvesuṁ:
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7936,13 +7936,13 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkampi sampakampi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkammeva devānaṁ devānubhāvaṁ.
+  Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkam'pi sampakam'pi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkamm'eva devānaṁ dev'ānubhāvaṁ.
 \end{pali-hang}
 
 Atha kho bhagavā udānaṁ udānesi:
 
 \begin{pali-hang}
-  ``Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño''ti. Itihidaṁ āyasmato koṇḍaññassa aññākoṇḍañño tveva nāmaṁ ahosī'ti.
+  ``Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño''ti. Iti h'idaṁ āyasmato koṇḍaññassa aññākoṇḍañño tv'eva nāmaṁ ahosī'ti.
 \end{pali-hang}
 
 \suttaRef{[SN 56.11]}
@@ -8180,7 +8180,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañca hidaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
+  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca hidaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
@@ -8317,7 +8317,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \clearpage
 
 \begin{pali-hang}
-  Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti.
+  Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti.
 \end{pali-hang}
 
 \suttaRef{[SN 22.59]}
@@ -8621,7 +8621,7 @@ Kena ādittaṁ?
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū'ti.
+  Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū'ti.
 \end{pali-hang}
 
 \suttaRef{[SN 35.28]}
@@ -10010,7 +10010,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Yath'inda-khīlo paṭhaviṁ sito siyā\\
-  Catubbhi vātebhi asampakampiyo\\
+  Catubbhi vātebhi asampakam'piyo\\
   Tathūpamaṁ sappurisaṁ vadāmi\\
   Yo ariya-saccāni avecca passati\\
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\

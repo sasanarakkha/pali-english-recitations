@@ -63,6 +63,6 @@ Nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ ‘Vimuttam’ 
 
 ‘Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā’ti pajānātī’ti.
 
-Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū’ti.
+Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū’ti.
 
 [SN 35.28]

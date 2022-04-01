@@ -18,7 +18,7 @@ Saṅkhārā anattā  ̓  saṅkhārā ca hidaṁ bhikkhave attā abhavissaṁsu
 
 Yasmā ca kho bhikkhave saṅkhārā anattā  ̓  tasmā saṅkhārā ābādhāya saṁvattanti  ̓  na ca labbhati saṅkhāresu  ̓  “Evaṁ me saṅkhārā hontu  ̓  evaṁ me saṅkhārā mā ahesun”ti.
 
-Viññāṇaṁ anattā  ̓  viññāṇañca hidaṁ bhikkhave attā abhavissa  ̓  na'y'idaṁ viññāṇam ābādhāya saṁvatteyya  ̓  labbhetha ca viññāṇe  ̓  “Evaṁ me viññāṇaṁ hotu  ̓  evaṁ me viññāṇaṁ mā ahosī”ti.
+Viññāṇaṁ anattā  ̓  viññāṇañ'ca hidaṁ bhikkhave attā abhavissa  ̓  na'y'idaṁ viññāṇam ābādhāya saṁvatteyya  ̓  labbhetha ca viññāṇe  ̓  “Evaṁ me viññāṇaṁ hotu  ̓  evaṁ me viññāṇaṁ mā ahosī”ti.
 
 Yasmā ca kho bhikkhave viññāṇaṁ anattā  ̓  tasmā viññāṇaṁ ābādhāya saṁvattati  ̓  na ca labbhati viññāṇe  ̓  “Evaṁ me viññāṇaṁ hotu  ̓  evaṁ me viññāṇaṁ mā ahosī”ti.
 
@@ -92,6 +92,6 @@ Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ  ̓  ajjhattaṁ vā 
 
 [Evaṁ passaṁ bhikkhave] sutvā ariyasāvako rūpasmim'pi nibbindati  ̓  vedanāya'pi nibbindati  ̓  saññāya'pi nibbindati  ̓  saṅkhāresu'pi nibbindati  ̓  viññāṇasmim'pi nibbindati  ̓  nibbindaṁ virajjati  ̓  virāgā vimuccati  ̓  vimuttasmiṁ “Vimuttam” iti ñāṇaṁ hoti  ̓  “Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā”ti pajānātī’ti.
 
-Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū’ti.
+Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū’ti.
 
 [SN 22.59]
