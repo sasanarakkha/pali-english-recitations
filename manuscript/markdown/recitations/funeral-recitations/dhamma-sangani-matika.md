@@ -14,7 +14,7 @@ Abyākatā dhammā
 
 Sukhāya vedanāya sampayuttā dhammā
 Dukkhāya vedanāya sampayuttā dhammā
-Adukkhamasukhāya vedanāya sampayuttā dhammā
+Adukkham'asukhāya vedanāya sampayuttā dhammā
 
 <div class="english">
 
