@@ -11491,7 +11491,7 @@ TODO G correct way to git merge
 \begin{pali-hang-continued}
   Dvā-das'āyatanāni:
   \begin{pali-hangtogether}
-    Cakkhv-'āyatanaṁ rūp'āyatanaṁ sot'āyatanaṁ sadd'āyatanaṁ ghān'āyatanaṁ gandh'āyatanaṁ jivh'āyatanaṁ ras'āyatanaṁ kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ man'āyatanaṁ dhamm'āyatanaṁ
+    Cakkhv'āyatanaṁ rūp'āyatanaṁ sot'āyatanaṁ sadd'āyatanaṁ ghān'āyatanaṁ gandh'āyatanaṁ jivh'āyatanaṁ ras'āyatanaṁ kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ man'āyatanaṁ dhamm'āyatanaṁ
   \end{pali-hangtogether}
 \end{pali-hang-continued}
 
@@ -11525,7 +11525,7 @@ TODO G correct way to git merge
   Bā-vīsat'indriyāni:\makeatletter\hyperlink{endnote131-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote131-appendix}{\hyperlink{endnote131-body}{While these faculties are mentioned as a set of 22 only in the Abhi. Vibh., all of them are also found within the discourses.}}}}}\makeatother
   \begin{pali-hangtogether}
-    Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ'ñassāmīt'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
+    Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ'ñassāmī't'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
   \end{pali-hangtogether}
 \end{pali-hang-continued}
 
@@ -11667,7 +11667,7 @@ TODO G correct way to git merge
   \anglebracketleft\ \hspace{-0.5mm}Hetu-paccayo \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Ārammaṇa-paccayo adhipati-paccayo anantara-paccayo samanantara-paccayo saha-jāta-paccayo aññam-añña-paccayo nissaya-paccayo upanissaya-paccayo pure-jāta-paccayo pacchā-jāta-paccayo āsevana-paccayo kamma-paccayo vipāka-paccayo āhāra-paccayo indriya-paccayo jhāna-paccayo magga-paccayo sampayutta-paccayo vippayutta-paccayo atthi-paccayo n'atthi-paccayo vigata-paccayo avigata-paccayo
+  Ārammaṇa-paccayo adhipati-paccayo anantara-paccayo samanantara-paccayo saha-jāta-paccayo aññam'añña-paccayo nissaya-paccayo upanissaya-paccayo pure-jāta-paccayo pacchā-jāta-paccayo āsevana-paccayo kamma-paccayo vipāka-paccayo āhāra-paccayo indriya-paccayo jhāna-paccayo magga-paccayo sampayutta-paccayo vippayutta-paccayo atthi-paccayo n'atthi-paccayo vigata-paccayo avigata-paccayo
 \end{pali-hangtogether}
 
 \begin{english-hang-verses}
@@ -11703,7 +11703,7 @@ TODO G correct way to git merge
 \begin{pali-hang-continued}
   Na hi ruṇṇaṁ vā soko vā\\
   Yā v'aññā paridevanā\\
-  Na taṁ petānam-atthāya\\
+  Na taṁ petānam'atthāya\\
   Evaṁ tiṭṭhanti ñātayo
 \end{pali-hang-continued}
 
@@ -11731,7 +11731,7 @@ TODO G correct way to git merge
 \begin{pali-hang-continued}
   So ñāti-dhammo ca ayaṁ nidassito\\
   Petāna'pūjā ca katā uḷārā\\
-  Balañ'ca bhikkhūnam-anuppadinnaṁ\\
+  Balañ'ca bhikkhūnam'anuppadinnaṁ\\
   Tumhehi puññaṁ pasutaṁ anappakan'ti
 \end{pali-hang-continued}
 
@@ -11780,7 +11780,7 @@ TODO G correct way to git merge
 
 \begin{pali-hang-continued}
   Maranti ca mariṁsu ca marissare\\
-  Tath'evāhaṁ marissāmi\\
+  Tath'ev'āhaṁ marissāmi\\
   N'atthi me ettha saṁsayo \hfill{[3x]}
 \end{pali-hang-continued}
 

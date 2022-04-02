@@ -13,7 +13,7 @@ Petānaṁ dakkhiṇaṁ dajjā – Pubbe katam'anussaraṁ
 </div>
 
 Na hi ruṇṇaṁ vā soko vā – Yā v’aññā paridevanā
-Na taṁ petānam-atthāya – Evaṁ tiṭṭhanti ñātayo
+Na taṁ petānam'atthāya – Evaṁ tiṭṭhanti ñātayo
 
 <div class="english">
 
@@ -37,7 +37,7 @@ Dīgharattaṁ hitāy’assa – Ṭhānaso upakappati
 </div>
 
 So ñāti-dhammo ca ayaṁ nidassito – Petāna’pūjā ca katā uḷārā
-Balañ'ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan’ti
+Balañ'ca bhikkhūnam'anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan’ti
 
 <div class="english">
 

@@ -11722,7 +11722,7 @@ viññāṇakkhandho.
 [MN 109]
 
 Dvā-das’āyatanāni:
-Cakkhv-'āyatanaṁ rūp’'āyatanaṁ,
+Cakkhv'āyatanaṁ rūp’'āyatanaṁ,
 Sot’'āyatanaṁ sadd’'āyatanaṁ,
 Ghān’'āyatanaṁ gandh’'āyatanaṁ,
 Jivh’'āyatanaṁ ras’'āyatanaṁ,
@@ -11772,7 +11772,7 @@ sukh’indriyaṁ dukkh’indriyaṁ
 somanass’indriyaṁ domanass’indriyaṁ upekkh’indriyaṁ,
 saddh’indriyaṁ viriy’indriyaṁ sat’indriyaṁ
 samādh’indriyaṁ paññ’indriyaṁ,
-anaññātañ'ñassāmīt’indriyaṁ aññ’indriyaṁ aññātāv’indriyaṁ.
+anaññātañ'ñassāmī't'indriyaṁ aññ’indriyaṁ aññātāv’indriyaṁ.
 
 <div class="english">
 
@@ -11868,7 +11868,7 @@ Evam'etassa kevalassa dukkhakkhandhassa nirodho hoti.
 [Hetu-paccayo], ārammaṇa-paccayo,
 adhipati-paccayo, anantara-paccayo,
 samanantara-paccayo, saha-jāta-paccayo,
-aññam-añña-paccayo, nissaya-paccayo,
+aññam'añña-paccayo, nissaya-paccayo,
 upanissaya-paccayo, pure-jāta-paccayo,
 pacchā-jāta-paccayo, āsevana-paccayo,
 kamma-paccayo, vipāka-paccayo,
@@ -11917,7 +11917,7 @@ Petānaṁ dakkhiṇaṁ dajjā – Pubbe katam'anussaraṁ
 </div>
 
 Na hi ruṇṇaṁ vā soko vā – Yā v’aññā paridevanā
-Na taṁ petānam-atthāya – Evaṁ tiṭṭhanti ñātayo
+Na taṁ petānam'atthāya – Evaṁ tiṭṭhanti ñātayo
 
 <div class="english">
 
@@ -11941,7 +11941,7 @@ Dīgharattaṁ hitāy’assa – Ṭhānaso upakappati
 </div>
 
 So ñāti-dhammo ca ayaṁ nidassito – Petāna’pūjā ca katā uḷārā
-Balañ'ca bhikkhūnam-anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan’ti
+Balañ'ca bhikkhūnam'anuppadinnaṁ – Tumhehi puññaṁ pasutaṁ anappakan’ti
 
 <div class="english">
 
@@ -11975,7 +11975,7 @@ Uppajjitvā nirujjhanti – Tesaṁ vūpasamo sukho [3x]
 [DN 16]
 
 [Sabbe sattā] maranti ca – Mariṁsu ca marissare
-Tath’evāhaṁ marissāmi – N’atthi me ettha saṁsayo [3x]
+Tath’ev'āhaṁ marissāmi – N’atthi me ettha saṁsayo [3x]
 
 <div class="english">
 

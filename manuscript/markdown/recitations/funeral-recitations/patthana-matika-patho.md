@@ -3,7 +3,7 @@
 [Hetu-paccayo], ārammaṇa-paccayo,
 adhipati-paccayo, anantara-paccayo,
 samanantara-paccayo, saha-jāta-paccayo,
-aññam-añña-paccayo, nissaya-paccayo,
+aññam'añña-paccayo, nissaya-paccayo,
 upanissaya-paccayo, pure-jāta-paccayo,
 pacchā-jāta-paccayo, āsevana-paccayo,
 kamma-paccayo, vipāka-paccayo,

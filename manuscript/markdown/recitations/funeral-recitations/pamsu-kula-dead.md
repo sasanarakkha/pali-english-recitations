@@ -15,7 +15,7 @@ Uppajjitvā nirujjhanti – Tesaṁ vūpasamo sukho [3x]
 [DN 16]
 
 [Sabbe sattā] maranti ca – Mariṁsu ca marissare
-Tath’evāhaṁ marissāmi – N’atthi me ettha saṁsayo [3x]
+Tath’ev'āhaṁ marissāmi – N’atthi me ettha saṁsayo [3x]
 
 <div class="english">
 

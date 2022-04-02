@@ -14,7 +14,7 @@ viññāṇakkhandho.
 [MN 109]
 
 Dvā-das’āyatanāni:
-Cakkhv-'āyatanaṁ rūp’'āyatanaṁ,
+Cakkhv'āyatanaṁ rūp’'āyatanaṁ,
 Sot’'āyatanaṁ sadd’'āyatanaṁ,
 Ghān’'āyatanaṁ gandh’'āyatanaṁ,
 Jivh’'āyatanaṁ ras’'āyatanaṁ,
@@ -64,7 +64,7 @@ sukh’indriyaṁ dukkh’indriyaṁ
 somanass’indriyaṁ domanass’indriyaṁ upekkh’indriyaṁ,
 saddh’indriyaṁ viriy’indriyaṁ sat’indriyaṁ
 samādh’indriyaṁ paññ’indriyaṁ,
-anaññātañ'ñassāmīt’indriyaṁ aññ’indriyaṁ aññātāv’indriyaṁ.
+anaññātañ'ñassāmī't'indriyaṁ aññ’indriyaṁ aññātāv’indriyaṁ.
 
 <div class="english">
 
