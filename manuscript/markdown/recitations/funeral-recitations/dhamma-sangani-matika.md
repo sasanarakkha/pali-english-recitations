@@ -38,7 +38,7 @@ N’eva vipāka na vipāka-dhamma-dhammā
 
 Upādinn’upādāniyā dhammā
 Anupādinn’upādāniyā dhammā
-Anupādinnānupādāniyā dhammā
+Anupādinn'ānupādāniyā dhammā
 
 <div class="english">
 
@@ -50,7 +50,7 @@ Anupādinnānupādāniyā dhammā
 
 Saṅkiliṭṭha-saṅkilesikā dhammā
 Asaṅkiliṭṭha-saṅkilesikā dhammā
-Asaṅkiliṭṭhāsaṅkilesikā dhammā
+Asaṅkiliṭṭh'āsaṅkilesikā dhammā
 
 <div class="english">
 
@@ -62,7 +62,7 @@ Asaṅkiliṭṭhāsaṅkilesikā dhammā
 
 Savitakka-savicārā dhammā
 Avitakka-vicāra-mattā dhammā
-Avitakkāvicārā dhammā
+Avitakk'āvicārā dhammā
 
 <div class="english">
 
@@ -72,9 +72,9 @@ Avitakkāvicārā dhammā
 
 </div>
 
-Pīti-saha-gatā dhammā
-Sukha-saha-gatā dhammā
-Upekkhā-saha-gatā dhammā
+Pīti-sahagatā dhammā
+Sukha-sahagatā dhammā
+Upekkhā-sahagatā dhammā
 
 <div class="english">
 
@@ -110,7 +110,7 @@ N’eva dassanena na bhāvanāya pahātabba-hetukā dhammā
 
 Ācaya-gāmino dhammā
 Apacaya-gāmino dhammā
-N’ev’ācaya-gāmino nāpacaya-gāmino dhammā
+N’ev’ācaya-gāmino n'āpacaya-gāmino dhammā
 
 <div class="english">
 
@@ -122,7 +122,7 @@ N’ev’ācaya-gāmino nāpacaya-gāmino dhammā
 
 Sekkhā dhammā
 Asekkhā dhammā
-N’eva sekkhā nāsekkhā dhammā
+N’eva sekkhā n'āsekkhā dhammā
 
 <div class="english">
 
@@ -182,7 +182,7 @@ Aniyatā dhammā
 
 Magg’ārammaṇā dhammā
 Magga-hetukā dhammā
-Maggādhipatino dhammā
+Magg'ādhipatino dhammā
 
 <div class="english">
 
