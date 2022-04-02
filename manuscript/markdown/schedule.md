@@ -9,7 +9,7 @@ Set 1\
 [The Four Great References](#four-great-references)\
 [The Pāṭimokkha Exhortation](#patimokkha-exhortation)\
 [The Buddha's Final Instruction](#buddhas-final-instruction)\
-[Uddissanādhiṭṭhāna](#uddissanadhitthana)\
+[Uddissan'ādhiṭṭhāna](#uddissanadhitthana)\
 [Closing Homage (Pāli-English)](#closing-homage)\
 
 Set 2\
@@ -62,7 +62,7 @@ by One Gone Forth](#ten-reflections)\
 Set 7\
 [Dependent Origination](#dependent-origination)\
 [The Dhamma in Brief](#dhamma-in-brief)\
-[Uddissanādhiṭṭhāna](#uddissanadhitthana)\
+[Uddissan'ādhiṭṭhāna](#uddissanadhitthana)\
 [Closing Homage (Pāli-English)](#closing-homage)\
 
 Set 8\

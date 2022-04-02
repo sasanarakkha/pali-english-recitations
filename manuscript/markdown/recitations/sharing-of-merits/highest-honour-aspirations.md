@@ -71,7 +71,7 @@ Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā
 
 </div>
 
-Dhammānudhamma-paṭipanno viharati
+Dhamm'ānudhamma-paṭipanno viharati
 
 <div class="english">
 
@@ -121,7 +121,7 @@ Tasmā
 
 </div>
 
-Imāya dhammānudhamma-paṭipattiyā buddhaṁ pūjemi
+Imāya dhamm'ānudhamma-paṭipattiyā buddhaṁ pūjemi
 Paramāya pūjāya
 
 <div class="english">

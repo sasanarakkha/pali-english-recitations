@@ -2,25 +2,25 @@
 Uddissan'ādhiṭṭhānā
 
 <center>
-〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase 〉
+〈 Handa mayaṁ uddissan'ādhiṭṭhāna-gāthāyo bhaṇāmase 〉
 </center>
 
-Iminā puññakammena upajjhāyā guṇuttarā
-Ācariyūpakārā ca mātāpitā ca ñātakā
-Suriyo candimā rājā guṇavantā narāpi ca
+Iminā puññakammena upajjhāyā guṇ'uttarā
+Ācariy'ūpakārā ca mātāpitā ca ñātakā
+Suriyo candimā rājā guṇavantā narā'pi ca
 Brahma-mārā ca indā ca lokapālā ca devatā
 Yamo mittā manussā ca majjhattā verikāpi ca
 Sabbe sattā sukhī hontu puññāni pakatāni me
-Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ
+Sukhañ'ca tividhaṁ dentu khippaṁ pāpetha vo'mataṁ
 Iminā puññakammena iminā uddissena ca
-Khipp'āhaṁ sulabhe c'eva taṇhūpādāna-chedanaṁ
+Khipp'āhaṁ sulabhe c'eva taṇh'ūpādāna-chedanaṁ
 Ye santāne hīnā dhammā yāva Nibbānato mamaṁ
 Nassantu sabbadā yeva yattha jāto bhave bhave
 Ujucittaṁ satipaññā sallekho viriyamhinā
-Mārā labhantu nokāsaṁ kātuñca viriyesu me
-Buddhādhipavaro nātho dhammo nātho varuttamo
+Mārā labhantu nokāsaṁ kātuñ'ca viriyesu me
+Buddh'ādhipavaro nātho dhammo nātho varuttamo
 Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ
-Tesottam'ānubhāvena mārokāsaṁ labhantu mā
+Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
 
 <center>
 〈 Now let us recite the verses of sharing and aspiration]

@@ -6,7 +6,7 @@ Sabba-patti-dāna
 </center>
 
 Puññass’idāni katassa yān’aññāni katāni me
-Tesañ'ca bhāgino hontu sattānantāppamāṇakā
+Tesañ'ca bhāgino hontu satt'ānant'āppamāṇakā
 
 <div class="english">
 
@@ -18,7 +18,7 @@ Tesañ'ca bhāgino hontu sattānantāppamāṇakā
 </div>
 
 Ye piyā guṇavantā ca mayhaṁ mātā-pitā-dayo
-Diṭṭhā me cāpy-adiṭṭhā vā aññe majjhatta-verino
+Diṭṭhā me c'āpy'adiṭṭhā vā aññe majjhatta-verino
 
 <div class="english">
 
@@ -41,7 +41,7 @@ Pañc’eka-catu-vokārā saṁsarantā bhavābhave
 
 </div>
 
-Ñātaṁ ye patti-dānam-me anumodantu te sayaṁ
+Ñātaṁ ye patti-dānam'me anumodantu te sayaṁ
 Ye c’imaṁ nappajānanti devā tesaṁ nivedayuṁ
 
 <div class="english">

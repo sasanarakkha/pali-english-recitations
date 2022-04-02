@@ -351,7 +351,7 @@ Set 1\
 [The Four Great References](#four-great-references)\
 [The Pāṭimokkha Exhortation](#patimokkha-exhortation)\
 [The Buddha's Final Instruction](#buddhas-final-instruction)\
-[Uddissanādhiṭṭhāna](#uddissanadhitthana)\
+[Uddissan'ādhiṭṭhāna](#uddissanadhitthana)\
 [Closing Homage (Pāli-English)](#closing-homage)\
 
 Set 2\
@@ -404,7 +404,7 @@ by One Gone Forth](#ten-reflections)\
 Set 7\
 [Dependent Origination](#dependent-origination)\
 [The Dhamma in Brief](#dhamma-in-brief)\
-[Uddissanādhiṭṭhāna](#uddissanadhitthana)\
+[Uddissan'ādhiṭṭhāna](#uddissanadhitthana)\
 [Closing Homage (Pāli-English)](#closing-homage)\
 
 Set 8\
@@ -12074,25 +12074,25 @@ Sabba-saṅgh'ānubhāvena – Sadā sotthī  ̓  bhavantu te
 Uddissan'ādhiṭṭhānā
 
 <center>
-〈 Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase 〉
+〈 Handa mayaṁ uddissan'ādhiṭṭhāna-gāthāyo bhaṇāmase 〉
 </center>
 
-Iminā puññakammena upajjhāyā guṇuttarā
-Ācariyūpakārā ca mātāpitā ca ñātakā
-Suriyo candimā rājā guṇavantā narāpi ca
+Iminā puññakammena upajjhāyā guṇ'uttarā
+Ācariy'ūpakārā ca mātāpitā ca ñātakā
+Suriyo candimā rājā guṇavantā narā'pi ca
 Brahma-mārā ca indā ca lokapālā ca devatā
 Yamo mittā manussā ca majjhattā verikāpi ca
 Sabbe sattā sukhī hontu puññāni pakatāni me
-Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ
+Sukhañ'ca tividhaṁ dentu khippaṁ pāpetha vo'mataṁ
 Iminā puññakammena iminā uddissena ca
-Khipp'āhaṁ sulabhe c'eva taṇhūpādāna-chedanaṁ
+Khipp'āhaṁ sulabhe c'eva taṇh'ūpādāna-chedanaṁ
 Ye santāne hīnā dhammā yāva Nibbānato mamaṁ
 Nassantu sabbadā yeva yattha jāto bhave bhave
 Ujucittaṁ satipaññā sallekho viriyamhinā
-Mārā labhantu nokāsaṁ kātuñca viriyesu me
-Buddhādhipavaro nātho dhammo nātho varuttamo
+Mārā labhantu nokāsaṁ kātuñ'ca viriyesu me
+Buddh'ādhipavaro nātho dhammo nātho varuttamo
 Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ
-Tesottam'ānubhāvena mārokāsaṁ labhantu mā
+Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
 
 <center>
 〈 Now let us recite the verses of sharing and aspiration]
@@ -12142,7 +12142,7 @@ Sabba-patti-dāna
 </center>
 
 Puññass’idāni katassa yān’aññāni katāni me
-Tesañ'ca bhāgino hontu sattānantāppamāṇakā
+Tesañ'ca bhāgino hontu satt'ānant'āppamāṇakā
 
 <div class="english">
 
@@ -12154,7 +12154,7 @@ Tesañ'ca bhāgino hontu sattānantāppamāṇakā
 </div>
 
 Ye piyā guṇavantā ca mayhaṁ mātā-pitā-dayo
-Diṭṭhā me cāpy-adiṭṭhā vā aññe majjhatta-verino
+Diṭṭhā me c'āpy'adiṭṭhā vā aññe majjhatta-verino
 
 <div class="english">
 
@@ -12177,7 +12177,7 @@ Pañc’eka-catu-vokārā saṁsarantā bhavābhave
 
 </div>
 
-Ñātaṁ ye patti-dānam-me anumodantu te sayaṁ
+Ñātaṁ ye patti-dānam'me anumodantu te sayaṁ
 Ye c’imaṁ nappajānanti devā tesaṁ nivedayuṁ
 
 <div class="english">
@@ -12345,7 +12345,7 @@ Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā
 
 </div>
 
-Dhammānudhamma-paṭipanno viharati
+Dhamm'ānudhamma-paṭipanno viharati
 
 <div class="english">
 
@@ -12395,7 +12395,7 @@ Tasmā
 
 </div>
 
-Imāya dhammānudhamma-paṭipattiyā buddhaṁ pūjemi
+Imāya dhamm'ānudhamma-paṭipattiyā buddhaṁ pūjemi
 Paramāya pūjāya
 
 <div class="english">
