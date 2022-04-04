@@ -1,4 +1,8 @@
 ## Closing Homage<a id="closing-homage"></a>
+Pacchima-vandanā
+
+---
+<br>
 
 <center>
 〈 Arahaṁ 〉
@@ -45,7 +49,7 @@ Bhagavato sāvakasaṅgho
 
 <div class="english">
 
-> The Blessed One’s disciples who have practiced well
+> The Blessed One's disciples who have practiced well
 
 </div>
 

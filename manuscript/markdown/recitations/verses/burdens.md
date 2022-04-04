@@ -1,6 +1,9 @@
 ## The Burdens<a id="burdens"></a>
 Bhārā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ bhāra-sutta-gāthāyo bhaṇāmase 〉
 </center>
@@ -11,7 +14,7 @@ Bhār'ādānaṁ dukkhaṁ loke – Bhāra-nikkhepanaṁ sukhaṁ
 <div class="english">
 
 > The five aggregates indeed are burdens\
-> The beast of burden is the person\
+> The beast of burden is the person<a href="appendix/endnotes.html#en39" style="text-decoration: none;"><sup>39</sup></a>\
 > In this world to take up burdens is dukkha\
 > Putting them down brings happiness
 
@@ -29,4 +32,4 @@ Samūlaṁ taṇhaṁ abbuyha – Nicchāto parinibbuto
 
 </div>
 
-[SN 22.22]
+<p style="text-align:right;">[SN 22.22]</p>

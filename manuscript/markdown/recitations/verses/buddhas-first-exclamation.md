@@ -1,4 +1,8 @@
 ## The Buddha's First Exclamation<a id="buddhas-first-exclamation"></a>
+Buddha-paṭhama-bhāsita
+
+---
+<br>
 
 Aneka-jāti-saṁsāraṁ – Sandhāvissaṁ anibbisaṁ\
 Gaha-kāraṁ gavesanto – Dukkhā jāti punappunaṁ
@@ -27,4 +31,4 @@ Visaṅkhāra-gataṁ cittaṁ – Taṇhānaṁ khayam'ajjhagā
 
 </div>
 
-*[Dhp 153-154]*
+<p style="text-align:right;">[Dhp 153-154]</p>

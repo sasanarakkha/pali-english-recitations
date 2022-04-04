@@ -1,18 +1,19 @@
 ## Dependent Origination<a id="dependent-origination"></a>
 Paṭicca-samuppāda
 
-<center>
-〈 Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase 〉
-</center>
+---
+<br>
 
 <center>
-〈 Now let us recite the Analysis of Dependent Origination]
+〈 Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase 〉<br>
+〈 Now let us recite the Analysis of Dependent Origination 〉<a href="appendix/endnotes.html#en71" style="text-decoration: none;"><sup>71</sup></a>
+</center>
 
 Avijjā-paccayā saṅkhārā
 
 <div class="english">
 
-> From ignorance as a condition arise formations
+> From ignorance<a href="appendix/endnotes.html#en72" style="text-decoration: none;"><sup>72</sup></a> as a condition arise<a href="appendix/endnotes.html#en73" style="text-decoration: none;"><sup>73</sup></a> formations
 
 </div>
 
@@ -28,7 +29,7 @@ Viññāṇa-paccayā nāmarūpaṁ
 
 <div class="english">
 
-> From consciousness as a condition arises name-and-form
+> From consciousness as a condition arises name-and-form<a href="appendix/endnotes.html#en74" style="text-decoration: none;"><sup>74</sup></a>
 
 </div>
 
@@ -92,7 +93,7 @@ Jāti-paccayā jarāmaraṇaṁ soka parideva dukkha domanssupāyāsā sambhavan
 
 <div class="english">
 
-> From birth as a condition arise ageing-and-death
+> From birth as a condition arise ageing-and-death\
 > Sorrow lamentation pain displeasure and despair
 
 </div>
@@ -117,7 +118,7 @@ Dukkhe aññāṇaṁ dukkhasamudaye aññāṇaṁ dukkhanirodhe aññāṇaṁ
 
 <div class="english">
 
-> Not knowing suffering  ̓  not knowing the origin of suffering  ̓  not knowing the cessation of suffering  ̓  not knowing the way of practice leading to the cessation of suffering
+> Not knowing suffering <span class="breathmark">'</span> not knowing the origin of suffering <span class="breathmark">'</span> not knowing the cessation of suffering <span class="breathmark">'</span> not knowing the way of practice leading to the cessation of suffering
 
 </div>
 
@@ -133,19 +134,19 @@ Tattha katame avijjā-paccayā saṅkhārā
 
 <div class="english">
 
-> Therein what are 'formations'  ̓  arising from ignorance as a condition?
+> Therein what are 'formations' <span class="breathmark">'</span> arising<a href="appendix/endnotes.html#en75" style="text-decoration: none;"><sup>75</sup></a> from ignorance as a condition?<a href="appendix/endnotes.html#en76" style="text-decoration: none;"><sup>76</sup></a>
 
 </div>
 
-Puññ'ābhisaṅkhāro apuññ'ābhisaṅkhāro āneñj'ābhisaṅkhāro
+Puññ'ābhisaṅkhāro apuññ'ābhisaṅkhāro āneñj'ābhisaṅkhāro<a href="appendix/endnotes.html#en77" style="text-decoration: none;"><sup>77</sup></a>\
 Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
 
 <div class="english">
 
-> Heightened formation of wholesomeness
-> Heightened formation of unwholesomeness
-> Heightened formation of imperturbability
-> The bodily formation  ̓  the verbal formation  ̓  the mental formation
+> Heightened formation of wholesomeness\
+> Heightened formation of unwholesomeness\
+> Heightened formation of imperturbability\
+> The bodily formation <span class="breathmark">'</span> the verbal formation <span class="breathmark">'</span> the mental formation
 
 </div>
 
@@ -161,7 +162,7 @@ Kusalā cetanā kām'āvacarā rūp'āvacarā dānamayā sīlamayā bhāvanāmay
 
 <div class="english">
 
-> Skillful volition of the sense-sphere  ̓  of the form-sphere  ̓  connected with giving  ̓  connected with virtue  ̓  connected with meditation
+> Skillful volition of the sense-sphere <span class="breathmark">'</span> of the form-sphere <span class="breathmark">'</span> connected with giving <span class="breathmark">'</span> connected with virtue <span class="breathmark">'</span> connected with meditation
 
 </div>
 
@@ -229,13 +230,13 @@ Tattha katamo kāyasaṅkhāro
 
 </div>
 
-Kāyasañcetanā kāyasaṅkhāro vacīsañcetanā vacīsaṅkhāro manosañcetanā cittasaṅkhāro
+Kāyasañcetanā kāyasaṅkhāro vacīsañcetanā vacīsaṅkhāro manosañcetanā cittasaṅkhāro<a href="appendix/endnotes.html#en78" style="text-decoration: none;"><sup>78</sup></a>
 
 <div class="english">
 
-> Volition associated with the body is the bodily formation
-> Volition associated with speech is the verbal formation
-> Volition associated with the mind is the mentali formation
+> Volition associated with the body is the bodily formation\
+> Volition associated with speech is the verbal formation\
+> Volition associated with the mind is the mental<a href="appendix/endnotes.html#en79" style="text-decoration: none;"><sup>79</sup></a> formation
 
 </div>
 
@@ -243,7 +244,7 @@ Ime vuccanti avijjā-paccayā saṅkhārā
 
 <div class="english">
 
-> These are called 'formations'  ̓  arising from ignorance as a condition
+> These are called 'formations' <span class="breathmark">'</span> arising from ignorance as a condition
 
 </div>
 
@@ -251,7 +252,7 @@ Tattha katamaṁ saṅkhāra-paccayā viññāṇaṁ
 
 <div class="english">
 
-> Therein what is 'consciousness'  ̓  arising from formations as a condition?
+> Therein what is 'consciousness' <span class="breathmark">'</span> arising from formations as a condition?
 
 </div>
 
@@ -267,7 +268,7 @@ Idaṁ vuccati saṅkhāra-paccayā viññāṇaṁ
 
 <div class="english">
 
-> This is called 'consciousness'  ̓  arising from formations as a condition
+> This is called 'consciousness' <span class="breathmark">'</span> arising from formations as a condition
 
 </div>
 
@@ -275,7 +276,7 @@ Tattha katamaṁ viññāṇa-paccayā nāmarūpaṁ
 
 <div class="english">
 
-> Therein what is 'name-and-form'  ̓  arising from consciousness as a condition?
+> Therein what is 'name-and-form' <span class="breathmark">'</span> arising from consciousness as a condition?
 
 </div>
 
@@ -283,7 +284,7 @@ Atthi nāmaṁ atthi rūpaṁ
 
 <div class="english">
 
-> There is name  ̓  there is form
+> There is name <span class="breathmark">'</span> there is form
 
 </div>
 
@@ -295,7 +296,7 @@ Tattha katamaṁ nāmaṁ
 
 </div>
 
-Vedanā saññā cetanā phasso manasikāro
+Vedanā saññā cetanā phasso manasikāro<a href="appendix/endnotes.html#en80" style="text-decoration: none;"><sup>80</sup></a>
 
 <div class="english">
 
@@ -347,7 +348,7 @@ Idaṁ vuccati viññāṇa-paccayā nāmarūpaṁ
 
 <div class="english">
 
-> This is called 'name-and-form'  ̓  arising from consciousness as a condition
+> This is called 'name-and-form' <span class="breathmark">'</span> arising from consciousness as a condition
 
 </div>
 
@@ -355,7 +356,7 @@ Tattha katamaṁ nāmarūpa-paccayā saḷ'āyatanaṁ
 
 <div class="english">
 
-> Therein what is 'the sixfold-sense-base'  ̓  arising from name-and-form as a condition?
+> Therein what is 'the sixfold-sense-base' <span class="breathmark">'</span> arising from name-and-form as a condition?
 
 </div>
 
@@ -371,7 +372,7 @@ Idaṁ vuccati nāmarūpa-paccayā saḷ'āyatanaṁ
 
 <div class="english">
 
-> This is called 'the sixfold-sense-base'  ̓  arising from name-and-form as a condition
+> This is called 'the sixfold-sense-base' <span class="breathmark">'</span> arising from name-and-form as a condition
 
 </div>
 
@@ -379,7 +380,7 @@ Tattha katamo saḷ'āyatana-paccayā phasso
 
 <div class="english">
 
-> Therein what is 'contact'  ̓  arising from the sixfold-sense-base as a condition?
+> Therein what is 'contact' <span class="breathmark">'</span> arising from the sixfold-sense-base as a condition?
 
 </div>
 
@@ -395,7 +396,7 @@ Ayaṁ vuccati saḷ'āyatana-paccayā phasso
 
 <div class="english">
 
-> This is called 'contact'  ̓  arising from the sixfold-sense-base as a condition
+> This is called 'contact' <span class="breathmark">'</span> arising from the sixfold-sense-base as a condition
 
 </div>
 
@@ -403,7 +404,7 @@ Tattha katamā phassa-paccayā vedanā
 
 <div class="english">
 
-> Therein what is 'feeling'  ̓  arising from contact as a condition?
+> Therein what is 'feeling' <span class="breathmark">'</span> arising from contact as a condition?
 
 </div>
 
@@ -411,8 +412,8 @@ Cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā j
 
 <div class="english">
 
-> Feeling born of eye-contact  ̓  feeling born of ear-contact  ̓
-> feeling born of nose-contact  ̓  feeling born of tongue-contact  ̓  feeling born of body-contact  ̓  feeling born of mind-contact
+> Feeling born of eye-contact <span class="breathmark">'</span> feeling born of ear-contact  ̓\
+> feeling born of nose-contact <span class="breathmark">'</span> feeling born of tongue-contact <span class="breathmark">'</span> feeling born of body-contact <span class="breathmark">'</span> feeling born of mind-contact
 
 </div>
 
@@ -420,7 +421,7 @@ Ayaṁ vuccati phassa-paccayā vedanā
 
 <div class="english">
 
-> This is called 'feeling'  ̓  arising from contact as a condition
+> This is called 'feeling' <span class="breathmark">'</span> arising from contact as a condition
 
 </div>
 
@@ -428,7 +429,7 @@ Tattha katamā vedanā-paccayā taṇhā
 
 <div class="english">
 
-> Therein what is 'craving'  ̓  arising from feeling as a condition?
+> Therein what is 'craving' <span class="breathmark">'</span> arising from feeling as a condition?
 
 </div>
 
@@ -436,7 +437,7 @@ Rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā d
 
 <div class="english">
 
-> Craving for forms  ̓  craving for sounds  ̓  craving for odours  ̓  craving for flavours  ̓  craving for tangibles  ̓  craving for mind-objects
+> Craving for forms <span class="breathmark">'</span> craving for sounds <span class="breathmark">'</span> craving for odours <span class="breathmark">'</span> craving for flavours <span class="breathmark">'</span> craving for tangibles <span class="breathmark">'</span> craving for mind-objects
 
 </div>
 
@@ -444,7 +445,7 @@ Ayaṁ vuccati vedanā-paccayā taṇhā
 
 <div class="english">
 
-> This is called 'craving'  ̓  arising from feeling as a condition
+> This is called 'craving' <span class="breathmark">'</span> arising from feeling as a condition
 
 </div>
 
@@ -452,7 +453,7 @@ Tattha katamaṁ taṇhā-paccayā upādānaṁ
 
 <div class="english">
 
-> Therein what is 'clinging'  ̓  arising from craving as a condition?
+> Therein what is 'clinging' <span class="breathmark">'</span> arising from craving as a condition?
 
 </div>
 
@@ -460,7 +461,7 @@ Kām'upādānaṁ diṭṭh'upādānaṁ sīlabbat'upādānaṁ attavād'upādā
 
 <div class="english">
 
-> Clinging to sensuality  ̓  clinging to views  ̓  clinging to rules and rituals  ̓  clinging to a sense of selfi
+> Clinging to sensuality <span class="breathmark">'</span> clinging to views <span class="breathmark">'</span> clinging to rules and rituals <span class="breathmark">'</span> clinging to a sense of self<a href="appendix/endnotes.html#en81" style="text-decoration: none;"><sup>81</sup></a>
 
 </div>
 
@@ -468,7 +469,7 @@ Idaṁ vuccati taṇhā-paccayā upādānaṁ
 
 <div class="english">
 
-> This is called 'clinging'  ̓  arising from craving as a condition
+> This is called 'clinging' <span class="breathmark">'</span> arising from craving as a condition
 
 </div>
 
@@ -476,11 +477,11 @@ Tattha katamo upādāna-paccayā bhavo
 
 <div class="english">
 
-> Therein what is 'becoming'  ̓  arising from clinging as a condition?
+> Therein what is 'becoming' <span class="breathmark">'</span> arising from clinging as a condition?
 
 </div>
 
-Kāmabhavo rūpabhavo arūpabhavo
+Kāmabhavo rūpabhavo arūpabhavo<a href="appendix/endnotes.html#en82" style="text-decoration: none;"><sup>82</sup></a>
 
 <div class="english">
 
@@ -492,7 +493,7 @@ Ayaṁ vuccati upādāna-paccayā bhavo
 
 <div class="english">
 
-> This is called 'becoming'  ̓  arising from clinging as a condition
+> This is called 'becoming' <span class="breathmark">'</span> arising from clinging as a condition
 
 </div>
 
@@ -500,15 +501,15 @@ Tattha katamā bhava-paccayā jāti
 
 <div class="english">
 
-> Therein what is 'birth'  ̓  arising from becoming as a condition?
+> Therein what is 'birth' <span class="breathmark">'</span> arising from becoming as a condition?
 
 </div>
 
-Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti  ̓  sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho
+Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti <span class="breathmark">'</span> sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho<a href="appendix/endnotes.html#en83" style="text-decoration: none;"><sup>83</sup></a>
 
 <div class="english">
 
-> The birth of various beings among the various classes of beings  ̓  their being born  ̓  descent  ̓  production  ̓  appearance of the aggregates  ̓  obtaining of the sense-bases
+> The birth of various beings among the various classes of beings <span class="breathmark">'</span> their being born <span class="breathmark">'</span> descent <span class="breathmark">'</span> production <span class="breathmark">'</span> appearance of the aggregates <span class="breathmark">'</span> obtaining of the sense-bases
 
 </div>
 
@@ -516,7 +517,7 @@ Ayaṁ vuccati bhava-paccayā jāti
 
 <div class="english">
 
-> This is called 'birth'  ̓  arising from becoming as a condition
+> This is called 'birth' <span class="breathmark">'</span> arising from becoming as a condition
 
 </div>
 
@@ -524,7 +525,7 @@ Tattha katamaṁ jāti-paccayā jarāmaraṇaṁ
 
 <div class="english">
 
-> This is called 'ageing-and-death'  ̓  arising from birth as a condition
+> This is called 'ageing-and-death' <span class="breathmark">'</span> arising from birth as a condition
 
 </div>
 
@@ -536,11 +537,11 @@ Tattha katamo soko
 
 </div>
 
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa  ̓  soko socanā socitattaṁ  ̓  antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
+Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa <span class="breathmark">'</span> aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa <span class="breathmark">'</span> soko socanā socitattaṁ <span class="breathmark">'</span> antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
 
 <div class="english">
 
-> Affected by the loss of relatives  ̓  or loss of wealth  ̓  or misfortune of sickness  ̓  or loss of virtue  ̓  or loss of right viewi  ̓  by whatever misfortune one encounters  ̓  by whatever painful thing one is affected  ̓  the sorrow  ̓  sorrowing  ̓  sorrowfulness  ̓  inner sorrow  ̓  extensive inner sorrow  ̓  the mind’s thorough burning  ̓  displeasure  ̓  the dart of sorrow
+> Affected by the loss of relatives <span class="breathmark">'</span> or loss of wealth <span class="breathmark">'</span> or misfortune of sickness <span class="breathmark">'</span> or loss of virtue <span class="breathmark">'</span> or loss of right view<a href="appendix/endnotes.html#en84" style="text-decoration: none;"><sup>84</sup></a> <span class="breathmark">'</span> by whatever misfortune one encounters <span class="breathmark">'</span> by whatever painful thing one is affected <span class="breathmark">'</span> the sorrow <span class="breathmark">'</span> sorrowing <span class="breathmark">'</span> sorrowfulness <span class="breathmark">'</span> inner sorrow <span class="breathmark">'</span> extensive inner sorrow <span class="breathmark">'</span> the mind's thorough burning <span class="breathmark">'</span> displeasure <span class="breathmark">'</span> the dart of sorrow
 
 </div>
 
@@ -560,11 +561,11 @@ Tattha katamo paridevo
 
 </div>
 
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa  ̓  ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ  ̓  vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
+Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa <span class="breathmark">'</span> aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa <span class="breathmark">'</span> ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ <span class="breathmark">'</span> vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
 
 <div class="english">
 
-> Affected by the loss of relatives  ̓  or loss of wealth  ̓  or misfortune of sickness  ̓  or loss of virtue  ̓  or loss of right view  ̓  by whatever misfortune one encounters  ̓  by whatever painful thing one is affected  ̓  the wail and lament  ̓  wailing and lamenting  ̓  bewailing and lamentation  ̓  sorrowful talk  ̓  senseless  ̓  confused  ̓  sorrowful murmur  ̓  sorrowful murmuring  ̓  sorrowful murmuration
+> Affected by the loss of relatives <span class="breathmark">'</span> or loss of wealth <span class="breathmark">'</span> or misfortune of sickness <span class="breathmark">'</span> or loss of virtue <span class="breathmark">'</span> or loss of right view <span class="breathmark">'</span> by whatever misfortune one encounters <span class="breathmark">'</span> by whatever painful thing one is affected <span class="breathmark">'</span> the wail and lament <span class="breathmark">'</span> wailing and lamenting <span class="breathmark">'</span> bewailing and lamentation <span class="breathmark">'</span> sorrowful talk <span class="breathmark">'</span> senseless <span class="breathmark">'</span> confused <span class="breathmark">'</span> sorrowful murmur <span class="breathmark">'</span> sorrowful murmuring <span class="breathmark">'</span> sorrowful murmuration
 
 </div>
 
@@ -584,11 +585,11 @@ Tattha katamaṁ dukkhaṁ?
 
 </div>
 
-Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ  ̓  kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ  ̓  kāyasamphassajā asātā dukkhā vedanā
+Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ <span class="breathmark">'</span> kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ <span class="breathmark">'</span> kāyasamphassajā asātā dukkhā vedanā
 
 <div class="english">
 
-> The bodily discomfort  ̓  bodily pain  ̓  what is felt as uncomfortable  ̓  painful  ̓  that is born of body-contact  ̓  the uncomfortable painful feeling that is born of body-contact
+> The bodily discomfort <span class="breathmark">'</span> bodily pain <span class="breathmark">'</span> what is felt as uncomfortable <span class="breathmark">'</span> painful <span class="breathmark">'</span> that is born of body-contact <span class="breathmark">'</span> the uncomfortable painful feeling that is born of body-contact
 
 </div>
 
@@ -608,11 +609,11 @@ Tattha katamaṁ domanassaṁ
 
 </div>
 
-Yaṁ cetasikaṁ asātaṁ cetasikaṁ dukkhaṁ  ̓  cetosamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ  ̓  cetosamphassajā asātā dukkhā vedanā
+Yaṁ cetasikaṁ asātaṁ cetasikaṁ dukkhaṁ <span class="breathmark">'</span> cetosamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ <span class="breathmark">'</span> cetosamphassajā asātā dukkhā vedanā
 
 <div class="english">
 
-> The mental discomfort  ̓  mental pain  ̓  what is felt as uncomfortable  ̓  painful  ̓  that is born of mind-contact  ̓  the uncomfortable painful feeling that is born of mind-contact
+> The mental discomfort <span class="breathmark">'</span> mental pain <span class="breathmark">'</span> what is felt as uncomfortable <span class="breathmark">'</span> painful <span class="breathmark">'</span> that is born of mind-contact <span class="breathmark">'</span> the uncomfortable painful feeling that is born of mind-contact
 
 </div>
 
@@ -632,11 +633,11 @@ Tattha katamo upāyāso
 
 </div>
 
-Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa  ̓  aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa  ̓  āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
+Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa <span class="breathmark">'</span> aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena phuṭṭhassa <span class="breathmark">'</span> āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
 
 <div class="english">
 
-> Affected by the loss of relatives  ̓  or loss of wealth  ̓  or misfortune of sickness  ̓  or loss of virtue  ̓  or loss of right view  ̓  by whatever misfortune one encounters  ̓  by whatever painful thing one is affected  ̓  the trouble and despair  ̓  tribulation and desperation
+> Affected by the loss of relatives <span class="breathmark">'</span> or loss of wealth <span class="breathmark">'</span> or misfortune of sickness <span class="breathmark">'</span> or loss of virtue <span class="breathmark">'</span> or loss of right view <span class="breathmark">'</span> by whatever misfortune one encounters <span class="breathmark">'</span> by whatever painful thing one is affected <span class="breathmark">'</span> the trouble and despair <span class="breathmark">'</span> tribulation and desperation
 
 </div>
 
@@ -648,7 +649,7 @@ Ayaṁ vuccati upāyāso
 
 </div>
 
-Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī’ti:
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 
 <div class="english">
 
@@ -656,15 +657,15 @@ Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī’ti:
 
 </div>
 
-Evam'etassa kevalassa dukkhakkhandhassa saṅgati hoti  ̓  samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
+Evam'etassa kevalassa dukkhakkhandhassa saṅgati hoti <span class="breathmark">'</span> samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
 
 <div class="english">
 
-> Such is the combination  ̓  composition  ̓  collocation  ̓  manifestation  ̓  of this whole mass of suffering
+> Such is the combination <span class="breathmark">'</span> composition <span class="breathmark">'</span> collocation <span class="breathmark">'</span> manifestation <span class="breathmark">'</span> of this whole mass of suffering
 
 </div>
 
-Tena vuccati evam'etassa kevalassa dukkhakkhandhassa samudayo hotī’ti
+Tena vuccati evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti
 
 <div class="english">
 
@@ -673,4 +674,4 @@ Tena vuccati evam'etassa kevalassa dukkhakkhandhassa samudayo hotī’ti
 
 </div>
 
-Vibh 130 / SN 12.2}
+<p style="text-align:right;">[Vibh 130 / SN 12.2]

@@ -1,7 +1,7 @@
 <center>
 
 Published by TBD<br>
-<!-- ISBN<br> -->
+ISBN<br>
 Copyright © Sāsanārakkha Buddhist Sanctuary 2022
 
 This book is for free distribution only;<br>
@@ -9,7 +9,7 @@ it may not be sold.
 
 Download this book as a PDF, EPUB, or MOBI<br>
 at the following address:<br>
-[https://sasanarakkha.org](https://sasanarakkha.org/)
+<a href="https://sasanarakkha.org" style="text-decoration: none;">https://sasanarakkha.org</a>
 
 Project Manager: Ā. Ariyadhammika<br>
 Editor: Ā. Pāladhammika<br>
@@ -24,7 +24,7 @@ Produced with the LaTeX typesetting system,<br>
 set in Libertinus Serif.
 
 <div>
-<p>This version was created on: 2022-03-31</p>
+<p>This version was created on: 2022-03-29</p>
 </div>
 
 </center>

@@ -1,6 +1,9 @@
 ## Principles of Non-Decline<a id="principles-of-non-decline"></a>
 Aparihāniya-dhammā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ aparihāniya-dhamma-pāṭhaṁ bhaṇāmase 〉
 </center>
@@ -33,7 +36,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
@@ -73,7 +76,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
@@ -105,7 +108,7 @@ Yathāpaññattesu sikkhāpadesu samādāya vattissanti
 
 <div class="english">
 
-> But undertake and follow the training rules  ̓  as they have been decreed
+> But undertake and follow the training rules <span class="breathmark">'</span> as they have been decreed
 
 </div>
 
@@ -113,7 +116,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
@@ -129,7 +132,7 @@ Ye te bhikkhū therā rattaññū
 
 <div class="english">
 
-> Venerate those bhikkhus who are elders  ̓  of long standing
+> Venerate those bhikkhus who are elders <span class="breathmark">'</span> of long standing
 
 </div>
 
@@ -153,7 +156,7 @@ Te sakkarissanti garuṁ karissanti mānessanti pūjessanti
 
 <div class="english">
 
-> Honour  ̓  respect  ̓  esteem them
+> Honour <span class="breathmark">'</span> respect <span class="breathmark">'</span> esteem them
 
 </div>
 
@@ -169,7 +172,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
@@ -185,7 +188,7 @@ Uppannāya taṇhāya ponobhavikāya na vasaṁ gacchissanti
 
 <div class="english">
 
-> Do not come under the control of arisen craving  ̓  that leads to renewed existence
+> Do not come under the control of arisen craving <span class="breathmark">'</span> that leads to renewed existence
 
 </div>
 
@@ -193,7 +196,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
@@ -217,7 +220,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
@@ -233,23 +236,23 @@ Paccattaññ'eva satiṁ upaṭṭhāpessanti:
 
 <div class="english">
 
-> Establish mindfulness within themselves  ̓  thinking thus:
+> Establish mindfulness within themselves <span class="breathmark">'</span> thinking thus:
 
 </div>
 
-‘Kin'ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṁ
+'Kin'ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṁ
 
 <div class="english">
 
-> ‘How can well-behaved fellow monks come  ̓  who have not yet come
+> 'How can well-behaved fellow monks come <span class="breathmark">'</span> who have not yet come
 
 </div>
 
-Āgatā ca pesalā sabrahmacārī phāsuṁ vihareyyun’ti
+Āgatā ca pesalā sabrahmacārī phāsuṁ vihareyyun'ti
 
 <div class="english">
 
-> And how can well-behaved fellow monks who are here  ̓  dwell at ease?’
+> And how can well-behaved fellow monks who are here <span class="breathmark">'</span> dwell at ease?'
 
 </div>
 
@@ -257,7 +260,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
@@ -265,7 +268,7 @@ Yāvakīvañ'ca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
 
 <div class="english">
 
-> Bhikkhus as long as these seven principles of non-decline  ̓  continue among the bhikkhus
+> Bhikkhus as long as these seven principles of non-decline <span class="breathmark">'</span> continue among the bhikkhus
 
 </div>
 
@@ -281,11 +284,11 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
-[AN 7.23]
+<p style="text-align:right;">[AN 7.23]
 
 Yāvakīvañ'ca bhikkhave bhikkhū
 
@@ -299,7 +302,7 @@ Aniccasaññaṁ bhāvessanti anattasaññaṁ bhāvessanti
 
 <div class="english">
 
-> Develop the perception of impermanence  ̓  the perception of not-self
+> Develop the perception of impermanence <span class="breathmark">'</span> the perception of not-self
 
 </div>
 
@@ -307,7 +310,7 @@ Asubhasaññaṁ bhāvessanti ādīnavasaññaṁ bhāvessanti
 
 <div class="english">
 
-> The perception of unattractiveness  ̓  the perception of danger
+> The perception of unattractiveness <span class="breathmark">'</span> the perception of danger
 
 </div>
 
@@ -315,8 +318,8 @@ Pahānasaññaṁ bhāvessanti virāgasaññaṁ bhāvessanti nirodhasañña�
 
 <div class="english">
 
-> The perception of abandoning  ̓  the perception of dispassion  ̓
-> the perception of cessation
+> The perception of abandoning <span class="breathmark">'</span> the perception of dispassion  ̓
+> the perception of cessation<a href="appendix/endnotes.html#en86" style="text-decoration: none;"><sup>86</sup></a>
 
 </div>
 
@@ -324,7 +327,7 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
@@ -340,7 +343,7 @@ Hirimanto bhavissanti ottappino bhavissanti bahussutā bhavissanti
 
 <div class="english">
 
-> Develop moral shame  ̓  moral dread  ̓  learnedness
+> Develop moral shame <span class="breathmark">'</span> moral dread <span class="breathmark">'</span> learnedness
 
 </div>
 
@@ -348,7 +351,7 @@ Hirimanto bhavissanti ottappino bhavissanti bahussutā bhavissanti
 
 <div class="english">
 
-> Become energetic  ̓  mindful and wise
+> Become energetic <span class="breathmark">'</span> mindful and wise
 
 </div>
 
@@ -364,11 +367,11 @@ Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 <div class="english">
 
-> Only growth is to be expected for the bhikkhus  ̓  not decline
+> Only growth is to be expected for the bhikkhus <span class="breathmark">'</span> not decline
 
 </div>
 
-[AN 7.23-27]
+<p style="text-align:right;">[AN 7.23-27]
 
 Ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattanti
 
@@ -382,7 +385,7 @@ Na kamm'ārāmatā na bhass'ārāmatā na nidd'ārāmatā na saṅgaṇik'ārām
 
 <div class="english">
 
-> Not taking delight in work  ̓  in talk  ̓  in sleep  ̓  in company
+> Not taking delight in work <span class="breathmark">'</span> in talk <span class="breathmark">'</span> in sleep <span class="breathmark">'</span> in company
 
 </div>
 
@@ -390,7 +393,7 @@ Indriyesu guttadvāratā bhojane mattaññutā
 
 <div class="english">
 
-> Guarding the doors of the sense faculties  ̓  moderation in eating
+> Guarding the doors of the sense faculties <span class="breathmark">'</span> moderation in eating
 
 </div>
 
@@ -398,7 +401,7 @@ Asaṁsagg'ārāmatā nippapañc'ārāmatā
 
 <div class="english">
 
-> Not taking delight in bonding  ̓  not taking delight in proliferation
+> Not taking delight in bonding <span class="breathmark">'</span> not taking delight in proliferation
 
 </div>
 
@@ -418,4 +421,4 @@ Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti
 
 </div>
 
-[AN 6.22 & 8.79]
+<p style="text-align:right;">[AN 6.22 & 8.79]</p>

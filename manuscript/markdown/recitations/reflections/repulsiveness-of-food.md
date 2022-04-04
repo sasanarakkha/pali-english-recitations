@@ -1,58 +1,72 @@
 ## The Repulsiveness of Food<a id="repulsiveness-of-food"></a>
 Āhāra-paṭikūla-paccavekkhaṇa-pāṭho
 
+---
+<br>
+
 <center>
-〈 Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ\ bhaṇāmase 〉
+〈 Handa mayaṁ āhāra-paṭikūla-paccavekkhaṇa-pāṭhaṁ bhaṇāmase 〉
 </center>
 
-Āhāre paṭikūlasaññāparicitena bhikkhave \breathmark\ bhikkhuno cetasā bahulaṁ viharato
+Āhāre paṭikūlasaññāparicitena bhikkhave <span class="breathmark">'</span> bhikkhuno cetasā bahulaṁ viharato
 
+<div class="english">
 
+> When a bhikkhu often dwells with a mind\
+> Accustomed to the perception of the repulsiveness of food
 
-When a bhikkhu often dwells with a mind\
-Accustomed to the perception of the repulsiveness of food
-
+</div>
 
 Rasataṇhāya cittaṁ patilīyati
 
+<div class="english">
 
-His mind shrinks away from craving for tastes
+> His mind shrinks away from craving for tastes
 
+</div>
 
 Patikuṭati pativattati na sampasāriyati
 
+<div class="english">
 
-Turns back from it\
-Rolls away from it\
-And is not drawn towards it
+> Turns back from it\
+> Rolls away from it\
+> And is not drawn towards it
 
+</div>
 
 Upekkhā vā pāṭikulyatā vā saṇṭhāti
 
+<div class="english">
 
-Either equanimity or disgust become settled in him
+> Either equanimity or disgust become settled in him
 
+</div>
 
-[AN 7.49]
+<p style="text-align:right;">[AN 7.49]</p>
 
-Sabbo panāyaṁ piṇḍapāto ajigucchanīyo
+Sabbo panāyaṁ piṇḍa-pāto ajigucchanīyo
 
+<div class="english">
 
-None of this almsfood is innately repulsive
+> None of this almsfood is innately repulsive
 
+</div>
 
 Imaṁ pūti-kāyaṁ patvā
 
+<div class="english">
 
-But touching this unclean body
+> But touching this unclean body
 
+</div>
 
 Ativiya jigucchanīyo jāyati
 
+<div class="english">
 
-It becomes disgusting indeed
+> It becomes disgusting indeed
 
+</div>
 
-[Trad]
-
-\bottomNav{requisites-for-awakening}
+<p style="text-align:right;">[Trad]</p>

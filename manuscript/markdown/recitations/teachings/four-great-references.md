@@ -1,6 +1,9 @@
 ## The Four Great References<a id="four-great-references"></a>
 Cattāro mahāpadesā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ bhaṇāmase 〉
 </center>
@@ -89,7 +92,7 @@ Bahussutā āgat'āgamā
 
 <div class="english">
 
-> Who are learned  ̓  heirs to the heritage
+> Who are learned <span class="breathmark">'</span> heirs to the heritage
 
 </div>
 
@@ -97,7 +100,7 @@ Dhammadharā vinayadharā mātikādharā
 
 <div class="english">
 
-> Experts on the Dhamma  ̓  experts on the Vinaya  ̓  experts on the outlines
+> Experts on the Dhamma <span class="breathmark">'</span> experts on the Vinaya <span class="breathmark">'</span> experts on the outlines
 
 </div>
 
@@ -137,7 +140,7 @@ Bahussuto āgat'āgamo
 
 <div class="english">
 
-> Who is learned  ̓  an heir to the heritage
+> Who is learned <span class="breathmark">'</span> an heir to the heritage
 
 </div>
 
@@ -145,7 +148,7 @@ Dhammadharo vinayadharo mātikādharo
 
 <div class="english">
 
-> An expert on the Dhamma  ̓  an expert on the Vinaya  ̓  an expert on the outlines
+> An expert on the Dhamma <span class="breathmark">'</span> an expert on the Vinaya <span class="breathmark">'</span> an expert on the outlines
 
 </div>
 
@@ -165,12 +168,12 @@ Sammukhā paṭiggahitaṁ
 
 </div>
 
-Ayaṁ dhammo ayaṁ vinayo idaṁ satthusāsanan’ti
+Ayaṁ dhammo ayaṁ vinayo idaṁ satthusāsanan'ti
 
 <div class="english">
 
-> “This is the Dhamma  ̓  this is the Vinaya
-> This is the Teacher’s teaching!”
+> “This is the Dhamma <span class="breathmark">'</span> this is the Vinaya\
+> This is the Teacher's teaching!”
 
 </div>
 
@@ -178,7 +181,7 @@ Tassa bhikkhave bhikkhuno bhāsitaṁ
 
 <div class="english">
 
-> That bhikkhu’s statement
+> That bhikkhu's statement
 
 </div>
 
@@ -226,7 +229,7 @@ Na c'eva sutte otaranti na vinaye sandissanti
 
 <div class="english">
 
-> If they are neither found in the suttas  ̓  nor seen in the Vinaya
+> If they are neither found in the suttas <span class="breathmark">'</span> nor seen in the Vinaya
 
 </div>
 
@@ -242,12 +245,12 @@ Addhā idaṁ na c'eva tassa bhagavato vacanaṁ arahato sammāsambuddhassa
 
 <div class="english">
 
-> Surely this is not the word of the Blessed One
-> The Worthy One  ̓  the Perfectly Enlightened One
+> Surely this is not the word of the Blessed One\
+> The Worthy One <span class="breathmark">'</span> the Perfectly Enlightened One
 
 </div>
 
-Tassa ca therassa duggahitan’ti
+Tassa ca therassa duggahitan'ti
 
 <div class="english">
 
@@ -267,7 +270,7 @@ Sutte c'eva otaranti vinaye ca sandissanti
 
 <div class="english">
 
-> But if they are found in the suttas  ̓  and seen in the Vinaya
+> But if they are found in the suttas <span class="breathmark">'</span> and seen in the Vinaya
 
 </div>
 
@@ -283,8 +286,8 @@ Addhā idaṁ tassa bhagavato vacanaṁ arahato sammāsambuddhassa
 
 <div class="english">
 
-> Surely this is the word of the Blessed One
-> The Worthy One  ̓  the Perfectly Enlightened One
+> Surely this is the word of the Blessed One\
+> The Worthy One <span class="breathmark">'</span> the Perfectly Enlightened One
 
 </div>
 
@@ -312,7 +315,7 @@ Tesañ'ca therānaṁ suggahitaṁ
 
 </div>
 
-Tassa ca therassa suggahitan’ti
+Tassa ca therassa suggahitan'ti
 
 <div class="english">
 
@@ -320,7 +323,7 @@ Tassa ca therassa suggahitan’ti
 
 </div>
 
-Ime kho bhikkhave cattāro mahāpadesā’ti
+Ime kho bhikkhave cattāro mahāpadesā'ti
 
 <div class="english">
 
@@ -328,4 +331,4 @@ Ime kho bhikkhave cattāro mahāpadesā’ti
 
 </div>
 
-[AN 4.180]
+<p style="text-align:right;">[AN 4.180]</p>

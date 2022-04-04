@@ -1,13 +1,21 @@
 #+TITLE: Todo
 
+* TODO readd devamittas sandhi to cardinal 1
+* TODO make cardinal sutta 1 chantable, add breathmarks
+* TODO ensure anupubba and gradual training match up
+* TODO sutta refs for homage to the triple gem
+* TODO pali words uncapitalized, except for beginning of sentence
+* TODO refuges training pronunciation remove
 * TeX
+** TODO bring back commas for cardinal sutta 1
 ** TODO remove cardinal punctuation
 ** TODO italicize all pali in endnotes
-** TODO check endnotes that are too close
-** TODO complete leader intro solution
+** TODO check for endnotes that are too close to proceeding word
 ** TODO check spacing of parittas
 ** TODO document anecdote and local
 ** TODO trim the fat: remove unneeded code, directories, and files
+** DONE complete leader intro solution
+CLOSED: [2022-04-01 Fri 16:32]
 ** DONE italicize all non chanted pali (?)
 CLOSED: [2022-03-29 Tue 09:29]
 ** DONE golden dividers would probably look better
@@ -113,6 +121,11 @@ CLOSED: [2022-03-29 Tue 09:29]
 CLOSED: [2022-03-03 Thu 19:52]
 
 * Markdown
+** TODO if possible, make pali alphabet table in csv then convert to html
+** TODO check ids/labels
+** TODO add together all recitations sections respectively
+** TODO missing some intros
+** TODO change quotes
 ** TODO look at fixme
 ** TODO adding additional styles
 - hang indent

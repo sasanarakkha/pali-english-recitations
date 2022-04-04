@@ -1,0 +1,313 @@
+Tangled 110 code blocks from recitations.md.org
+./helpers/generate_ebooks.sh
+/home/paladhammika/Documents/Projects/sasanarakkha-recitations-book
+Validating using EPUB version 2.0.1 rules.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/titlepage-ebook.html(1,30): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/title.html(1,9): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/copyright.html(1,9): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/copyright.html(2,26): Fatal Error while parsing file: The element type "br" must be terminated by the matching end-tag "</br>".
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/copyright.html(-1,-1): Error while parsing file: The element type "br" must be terminated by the matching end-tag "</br>".
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/acknowledgments.html(1,9): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/acknowledgments.html(4,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/acknowledgments.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/contents.html(2,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/contents.html(3,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/contents.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/schedule.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/schedule.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/schedule.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/purpose-and-benefits.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/purpose-and-benefits.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/purpose-and-benefits.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/abbreviations.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/abbreviations.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/abbreviations.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/cover-title-homage.html(1,30): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/dedication-of-offerings.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/dedication-of-offerings.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/dedication-of-offerings.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/preliminary-homage.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/preliminary-homage.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/preliminary-homage.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-buddha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-buddha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-buddha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-dhamma.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-dhamma.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-dhamma.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-sangha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-sangha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/homage-sangha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/salutation.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/salutation.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/salutation.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/closing-homage.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/closing-homage.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/homage/closing-homage.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/verses-cover.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/buddhas-first-exclamation.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/buddhas-first-exclamation.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/buddhas-first-exclamation.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/respect-for-the-dhamma.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/respect-for-the-dhamma.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/respect-for-the-dhamma.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/true-false-refuges.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/true-false-refuges.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/true-false-refuges.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/patimokkha-exhortation.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/patimokkha-exhortation.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/patimokkha-exhortation.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/three-characteristics.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/three-characteristics.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/three-characteristics.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/burdens.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/burdens.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/burdens.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/ratthapala.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/ratthapala.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/ratthapala.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/parapariya.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/parapariya.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/parapariya.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/protection.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/protection.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/protection.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/misc-verses.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/misc-verses.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/misc-verses.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/single-excellent-night.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/single-excellent-night.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/single-excellent-night.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/highest-blessings.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/highest-blessings.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/highest-blessings.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/words-on-loving-kindness.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/words-on-loving-kindness.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/verses/words-on-loving-kindness.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/cover-teachings.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/wheel-of-dhamma-abridged.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/wheel-of-dhamma-abridged.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/wheel-of-dhamma-abridged.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/anupubba-sikkha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/anupubba-sikkha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/anupubba-sikkha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/gradual-training.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/gradual-training.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/gradual-training.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/requisites-for-awakening.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/requisites-for-awakening.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/requisites-for-awakening.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/seven-factors-of-awakening.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/seven-factors-of-awakening.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/seven-factors-of-awakening.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/noble-eightfold-path.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/noble-eightfold-path.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/noble-eightfold-path.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/mindfulness-of-breathing.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/mindfulness-of-breathing.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/mindfulness-of-breathing.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/dependent-origination.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/dependent-origination.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/dependent-origination.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/dhamma-in-brief.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/dhamma-in-brief.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/dhamma-in-brief.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/four-great-references.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/four-great-references.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/four-great-references.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/principles-of-cordiality.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/principles-of-cordiality.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/principles-of-cordiality.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/principles-of-non-decline.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/principles-of-non-decline.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/principles-of-non-decline.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/striving-according-to-dhamma.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/striving-according-to-dhamma.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/striving-according-to-dhamma.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/buddhas-final-instruction.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/buddhas-final-instruction.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/teachings/buddhas-final-instruction.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/cover-reflections.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/four-requisites.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/four-requisites.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/four-requisites.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/repulsiveness-of-food.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/repulsiveness-of-food.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/repulsiveness-of-food.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/universal-well-being.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/universal-well-being.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/universal-well-being.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/divine-abidings.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/divine-abidings.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/divine-abidings.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/five-reflections.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/five-reflections.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/five-reflections.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/ten-reflections.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/ten-reflections.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/ten-reflections.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/32-parts.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/32-parts.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/32-parts.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/recollection-of-impermanence.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/recollection-of-impermanence.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/reflections/recollection-of-impermanence.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/cover-tital-cardinal-suttas.html(1,30): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/dhammacakkappavattana.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/dhammacakkappavattana.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/dhammacakkappavattana.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/wheel-of-dhamma-full.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/wheel-of-dhamma-full.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/wheel-of-dhamma-full.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/anatta-lakkhana.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/anatta-lakkhana.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/anatta-lakkhana.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/characteristic-of-not-self.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/characteristic-of-not-self.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/characteristic-of-not-self.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/aditta-pariyaya.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/aditta-pariyaya.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/aditta-pariyaya.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/fire-sermon.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/fire-sermon.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/cardinal-suttas/fire-sermon.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/cover-thanksgiving-recitations.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/just-as-rivers.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/just-as-rivers.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/just-as-rivers.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/yatha-vari-vaha-pura.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/yatha-vari-vaha-pura.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/yatha-vari-vaha-pura.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/ratanattayanubhavadi-gatha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/ratanattayanubhavadi-gatha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/ratanattayanubhavadi-gatha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/bhojana-dananumodana.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/bhojana-dananumodana.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/bhojana-dananumodana.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/culla-mangala-cakka-vala.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/culla-mangala-cakka-vala.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/culla-mangala-cakka-vala.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/aggappasada-sutta-gatha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/aggappasada-sutta-gatha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/aggappasada-sutta-gatha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/kala-dana-sutta-gatha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/kala-dana-sutta-gatha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/kala-dana-sutta-gatha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/so-attha-laddho.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/so-attha-laddho.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/thanksgiving-recitations/so-attha-laddho.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/cover-protective-recitations.html(1,30): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/deva-aradhana.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/deva-aradhana.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/deva-aradhana.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/pubba-bhaga-nama-kara-patho-protective.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/pubba-bhaga-nama-kara-patho-protective.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/pubba-bhaga-nama-kara-patho-protective.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/sarana-gamana-patho.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/sarana-gamana-patho.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/sarana-gamana-patho.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/nama-kara-siddhi-gatha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/nama-kara-siddhi-gatha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/nama-kara-siddhi-gatha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/namo-kara-atthaka.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/namo-kara-atthaka.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/namo-kara-atthaka.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/mangala-sutta.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/mangala-sutta.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/mangala-sutta.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/ratana-sutta.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/ratana-sutta.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/ratana-sutta.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/karaniya-metta-sutta.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/karaniya-metta-sutta.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/karaniya-metta-sutta.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/khandha-parittam.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/khandha-parittam.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/khandha-parittam.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/buddha-dhamma-sangha-guna.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/buddha-dhamma-sangha-guna.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/buddha-dhamma-sangha-guna.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/yan-kinci-ratanam-loke.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/yan-kinci-ratanam-loke.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/yan-kinci-ratanam-loke.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/bojjhana-parittam.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/bojjhana-parittam.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/bojjhana-parittam.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/abhaya-parittam.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/abhaya-parittam.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/abhaya-parittam.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/devata-uyyojana-gatha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/devata-uyyojana-gatha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/devata-uyyojana-gatha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/jaya-mangala-attha-gatha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/jaya-mangala-attha-gatha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/jaya-mangala-attha-gatha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/jaya-parittam.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/jaya-parittam.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/jaya-parittam.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/bhavatu-sabba-mangalam-protective.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/bhavatu-sabba-mangalam-protective.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/protective-recitations/bhavatu-sabba-mangalam-protective.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/cover-funeral-recitations.html(1,30): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pubba-bhaga-nama-kara-patho-funeral.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pubba-bhaga-nama-kara-patho-funeral.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pubba-bhaga-nama-kara-patho-funeral.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/dhamma-sangani-matika.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/dhamma-sangani-matika.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/dhamma-sangani-matika.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/vipassana-bhumi-patho.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/vipassana-bhumi-patho.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/vipassana-bhumi-patho.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/patthana-matika-patho.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/patthana-matika-patho.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/patthana-matika-patho.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/adasi-me-adi-gatha.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/adasi-me-adi-gatha.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/adasi-me-adi-gatha.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pamsu-kula-dead.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pamsu-kula-dead.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pamsu-kula-dead.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pamsu-kula-living.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pamsu-kula-living.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/pamsu-kula-living.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/funeral-recitations/bhavatu-sabba-mangalam-funeral.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/cover-sharing-of-merits.html(1,30): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/uddissanadhitthana.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/uddissanadhitthana.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/uddissanadhitthana.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-all-merits.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-all-merits.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-all-merits.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-merits-departed.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-merits-departed.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-merits-departed.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-merits-devas.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-merits-devas.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/sharing-merits-devas.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/highest-honour-aspirations.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/highest-honour-aspirations.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/recitations/sharing-of-merits/highest-honour-aspirations.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/cover-appendix.html(1,30): Error while parsing file: elements from namespace "" are not allowed
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/refuge-trainings.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/refuge-trainings.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/refuge-trainings.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/phonetics-pronunciation.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/phonetics-pronunciation.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/phonetics-pronunciation.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/guidelines.html(1,5): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/guidelines.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/guidelines.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/endnotes.html(1,4): Error while parsing file: elements from namespace "" are not allowed
+FATAL(RSC-016): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/endnotes.html(2,2): Fatal Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-005): ./SBS Pāli-English Recitations.epub/OEBPS/appendix/endnotes.html(-1,-1): Error while parsing file: The markup in the document following the root element must be well-formed.
+ERROR(RSC-007): ./SBS Pāli-English Recitations.epub/OEBPS/stylesheet.css(438,3): Referenced resource "OEBPS/NunitoSans-Regular.ttf" could not be found in the EPUB.
+ERROR(RSC-007): ./SBS Pāli-English Recitations.epub/OEBPS/stylesheet.css(445,3): Referenced resource "OEBPS/NunitoSans-Italic.ttf" could not be found in the EPUB.
+ERROR(RSC-007): ./SBS Pāli-English Recitations.epub/OEBPS/stylesheet.css(452,3): Referenced resource "OEBPS/NunitoSans-Bold.ttf" could not be found in the EPUB.
+ERROR(RSC-007): ./SBS Pāli-English Recitations.epub/OEBPS/stylesheet.css(459,3): Referenced resource "OEBPS/OpenSansX-Regular.ttf" could not be found in the EPUB.
+
+Check finished with errors
+Messages: 95 fatals / 207 errors / 0 warnings / 0 infos
+
+EPUBCheck completed
+Error, exiting.
+make: *** [Makefile:16: ebooks] Error 2

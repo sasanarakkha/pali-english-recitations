@@ -1,4 +1,4 @@
-<div class="titlepage-cover">
+<div class="cover-page">
 
 ![Cardinal Suttas](./cardinal-suttas-resize.jpg)
 

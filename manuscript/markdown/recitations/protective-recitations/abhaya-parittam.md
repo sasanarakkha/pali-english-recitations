@@ -1,39 +1,47 @@
-## Abhaya-parittaṁ<a id="abhaya-parittam"></a>
+### Abhaya-parittaṁ<a id="abhaya-parittam"></a>
 
-[Yan-dunnimittaṁ] avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
-Pāpaggaho dussupinaṁ akantaṁ – Buddh'ānubhāvena vināsamentu
+<center>
+〈 Yan-dunnimittaṁ avamaṅgalañ'ca 〉
+</center>
+Yo c'āmanāpo sakuṇassa saddo<br>
+Pāpaggaho dussupinaṁ akantaṁ<br>
+Buddh'ānubhāvena vināsamentu
 
 <div class="english">
 
-> May bad omens, inauspiciousness,
-> Undesirable sounds of birds,
-> Unlucky planets and unpleasant bad dreams
+> May bad omens, inauspiciousness,\
+> Undesirable sounds of birds,\
+> Unlucky planets and unpleasant bad dreams\
 > Go to ruin by the power of the Buddha.
 
 </div>
 
-Yan-dunnimittaṁ avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
-Pāpaggaho dussupinaṁ akantaṁ – Dhamm'ānubhāvena vināsamentu
+Yan-dunnimittaṁ avamaṅgalañ'ca\
+Yo c'āmanāpo sakuṇassa saddo\
+Pāpaggaho dussupinaṁ akantaṁ\
+Dhamm'ānubhāvena vināsamentu
 
 <div class="english">
 
-> May bad omens, inauspiciousness,
-> Undesirable sounds of birds,
-> Unlucky planets and unpleasant bad dreams
+> May bad omens, inauspiciousness,\
+> Undesirable sounds of birds,\
+> Unlucky planets and unpleasant bad dreams\
 > Go to ruin by the power of the Dhamma.
 
 </div>
 
-Yan-dunnimittaṁ avamaṅgalañ'ca – Yo c'āmanāpo sakuṇassa saddo
-Pāpaggaho dussupinaṁ akantaṁ – Saṅgh'ānubhāvena vināsamentu
+Yan-dunnimittaṁ avamaṅgalañ'ca\
+Yo c'āmanāpo sakuṇassa saddo\
+Pāpaggaho dussupinaṁ akantaṁ\
+Saṅgh'ānubhāvena vināsamentu
 
 <div class="english">
 
-> May bad omens, inauspiciousness,
-> Undesirable sounds of birds,
-> Unlucky planets and unpleasant bad dreams
+> May bad omens, inauspiciousness,\
+> Undesirable sounds of birds,\
+> Unlucky planets and unpleasant bad dreams\
 > Go to ruin by the power of the Saṅgha.
 
 </div>
 
-[Trad]
+<p style="text-align:right;">[Trad]</p>

@@ -1,6 +1,9 @@
 ## Striving According to the Dhamma<a id="striving-according-to-dhamma"></a>
 Dhamma-pahaṁsāna
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ bhaṇāmase 〉
 </center>
@@ -49,8 +52,8 @@ Alam'eva saddhā-pabbajitena kula-puttena vīriyaṁ ārabhituṁ
 
 <div class="english">
 
-> This is enough for a clansman
-> Who has gone forth out of faith
+> This is enough for a clansman\
+> Who has gone forth out of faith\
 > To arouse his energy thus
 
 </div>
@@ -71,17 +74,17 @@ Sarīre upasussatu maṁsa-lohitaṁ
 
 </div>
 
-Yaṁ taṁ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṁ
-Na taṁ apāpuṇitvā
-Vīriyassa saṇṭhānaṁ bhavissatī’ti
+Yaṁ taṁ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṁ\
+Na taṁ apāpuṇitvā\
+Vīriyassa saṇṭhānaṁ bhavissatī'ti
 
 <div class="english">
 
-> As long as whatever is to be attained
-> By manly strength
-> By manly energy
-> By manly effort
-> Has not been attained
+> As long as whatever is to be attained\
+> By manly strength\
+> By manly energy\
+> By manly effort<a href="appendix/endnotes.html#en87" style="text-decoration: none;"><sup>87</sup></a>\
+> Has not been attained\
 > Let not my efforts stand still”
 
 </div>
@@ -122,7 +125,7 @@ Pavivitto pāpakehi akusalehi dhammehi
 
 <div class="english">
 
-> Well withdrawn from evil unwholesome states
+> Well withdrawn from evil<a href="appendix/endnotes.html#en88" style="text-decoration: none;"><sup>88</sup></a> unwholesome states
 
 </div>
 
@@ -154,7 +157,7 @@ Maṇḍapeyyam'idaṁ bhikkhave brahmacariyaṁ
 
 <div class="english">
 
-> Bhikkhus this holy life is like a milkshake
+> Bhikkhus this holy life is like cream from milk<a href="appendix/endnotes.html#en89" style="text-decoration: none;"><sup>89</sup></a>
 
 </div>
 
@@ -166,11 +169,11 @@ Satthā sammukhī-bhūto
 
 </div>
 
-Tasmā’tiha bhikkhave vīriyaṁ ārabhatha
+Tasmā'tiha bhikkhave vīriyaṁ ārabhatha
 
 <div class="english">
 
-> Therefore bhikkhus  ̓  start to arouse your energy
+> Therefore bhikkhus <span class="breathmark">'</span> start to arouse your energy
 
 </div>
 
@@ -198,13 +201,13 @@ Asacchikatassa sacchikiriyāya
 
 </div>
 
-‘Evaṁ no ayaṁ amhākaṁ pabbajjā
-Avaṅkatā avañjhāi bhavissati
+'Evaṁ no ayaṁ amhākaṁ pabbajjā\
+Avaṅkatā avañjhā<a href="appendix/endnotes.html#en90" style="text-decoration: none;"><sup>90</sup></a> bhavissati
 
 <div class="english">
 
-> Thinking thus:
-> “Our going forth will not be crooked and barren
+> Thinking thus:\
+> “Our going forth will not be crooked and barren<a href="appendix/endnotes.html#en91" style="text-decoration: none;"><sup>91</sup></a>
 
 </div>
 
@@ -216,17 +219,17 @@ Saphalā saudrayā
 
 </div>
 
-Yesaṁ mayaṁ paribhuñjāma
-Cīvara-piṇḍapāta
-Sen'āsana-gilānappaccaya bhesajja-parikkhāraṁ
+Yesaṁ mayaṁ paribhuñjāma\
+Cīvara-piṇḍapāta\
+Sen'āsana-gilānappaccaya bhesajja-parikkhāraṁ\
 Tesaṁ te kārā amhesu
 
 <div class="english">
 
-> And all our use of robes
-> Almsfood
-> Lodgings
-> Supports for the sick and medicinal requisites
+> And all our use of robes\
+> Almsfood\
+> Lodgings\
+> Supports for the sick and medicinal requisites<a href="appendix/endnotes.html#en92" style="text-decoration: none;"><sup>92</sup></a>\
 > Given by others for our support
 
 </div>
@@ -247,7 +250,7 @@ Evaṁ hi vo bhikkhave sikkhitabbaṁ
 
 </div>
 
-Att’atthaṁ vā hi bhikkhave sampassamānena
+Att'atthaṁ vā hi bhikkhave sampassamānena
 
 <div class="english">
 
@@ -263,7 +266,7 @@ Alam'eva appamādena sampādetuṁ
 
 </div>
 
-Par’atthaṁ vā hi bhikkhave sampassamānena
+Par'atthaṁ vā hi bhikkhave sampassamānena
 
 <div class="english">
 
@@ -287,7 +290,7 @@ Ubhay'atthaṁ vā hi bhikkhave sampassamānena
 
 </div>
 
-Alam'eva appamādena sampādetun'ti
+Alam'eva appamādena sampādetun'ti<a href="appendix/endnotes.html#en93" style="text-decoration: none;"><sup>93</sup></a>
 
 <div class="english">
 
@@ -295,4 +298,4 @@ Alam'eva appamādena sampādetun'ti
 
 </div>
 
-[SN 12.22]
+<p style="text-align:right;">[SN 12.22]

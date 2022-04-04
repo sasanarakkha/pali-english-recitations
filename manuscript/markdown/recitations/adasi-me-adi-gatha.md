@@ -1,1 +1,0 @@
-# Adāsi-me ādi gāthā

@@ -1,11 +1,14 @@
 ## The Pāṭimokkha Exhortation<a id="patimokkha-exhortation"></a>
 Ovāda-pāṭimokkha-gāthā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase 〉
 </center>
 
-Sabba-pāpassa akaraṇaṁ
+Sabba-pāpassa akaraṇaṁ<a href="appendix/endnotes.html#en33" style="text-decoration: none;"><sup>33</sup></a>
 
 <div class="english">
 
@@ -117,4 +120,4 @@ Etaṁ buddhāna sāsanaṁ
 
 </div>
 
-[Dhp 183-185]
+<p style="text-align:right;">[Dhp 183-185]</p>

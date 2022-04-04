@@ -1,12 +1,17 @@
 ## Dedication of Offerings<a id="dedication-of-offerings"></a>
+Buddh’ādi-āmisa-pūjā
 
-<center>〈 Yo so 〉</center>
+---
+<br>
 
+<center>
+〈 Yo so 〉
+</center>
 Bhagavā arahaṁ sammāsambuddho
 
 <div class="english">
 
->  To the Blessed One<a href="#endnote2"><sup>2</sup></a> the Worthy One who fully attained Perfect Enlightenment
+>  To the Blessed One<a href="appendix/endnotes.html#en2" style="text-decoration: none;"><sup>2</sup></a> the Worthy One who fully attained Perfect Enlightenment
 
 </div>
 
@@ -22,7 +27,7 @@ Supaṭipanno yassa bhagavato sāvakasaṅgho
 
 <div class="english">
 
->  And to the Blessed One’s disciples who have practiced well
+>  And to the Blessed One's disciples who have practiced well
 
 </div>
 
@@ -76,7 +81,10 @@ Amhākaṁ dīgharattaṁ hitāya sukhāya
 
 </div>
 
-Arahaṁ sammāsambuddho bhagavā
+<center>
+〈 Arahaṁ 〉
+</center>
+Sammāsambuddho bhagavā
 
 <div class="english">
 
@@ -84,7 +92,7 @@ Arahaṁ sammāsambuddho bhagavā
 
 </div>
 
-Buddhaṁ bhagavantaṁ abhivādemi\relax
+Buddhaṁ bhagavantaṁ abhivādemi
 
 <div class="english">
 
@@ -92,7 +100,10 @@ Buddhaṁ bhagavantaṁ abhivādemi\relax
 
 </div>
 
-[Svākkhāto] bhagavatā dhammo
+<center>
+〈 Svākkhāto 〉
+</center>
+Bhagavatā dhammo
 
 <div class="english">
 
@@ -108,11 +119,14 @@ Dhammaṁ namassāmi
 
 </div>
 
-[Supaṭipanno] bhagavato sāvakasaṅgho
+<center>
+〈 Supaṭipanno 〉
+</center>
+Bhagavato sāvakasaṅgho
 
 <div class="english">
 
->  The Blessed One’s disciples who have practiced well
+>  The Blessed One's disciples who have practiced well
 
 </div>
 

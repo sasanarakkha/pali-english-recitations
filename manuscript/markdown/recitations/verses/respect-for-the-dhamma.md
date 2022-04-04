@@ -1,5 +1,8 @@
 ## Respect for the Dhamma<a id="respect-for-the-dhamma"></a>
-###### Dhamma-gārava
+Dhamma-gārava
+
+---
+<br>
 
 Ye ca atītā sambuddhā – Ye ca buddhā anāgatā\
 Yo c'eta'r'ahi sambuddho – Bahunnaṁ soka-nāsano
@@ -37,7 +40,7 @@ Saddhammo garu-kātabbo – Saraṁ buddhāna sāsanaṁ
 
 </div>
 
-[SN 6.2]
+<p style="text-align:right;">[SN 6.2]</p>
 
 Na hi dhammo adhammo ca\
 Ubho sama-vipākino\
@@ -46,9 +49,9 @@ Dhammo pāpeti suggatiṁ
 
 <div class="english">
 
-> What is true Dhamma and what's not\
+> What is true Dhamma and what's<a href="appendix/endnotes.html#en29" style="text-decoration: none;"><sup>29</sup></a> not\
 > Will never have the same results\
-> While wrong Dhamma leads to hell realms\
+> While wrong<a href="appendix/endnotes.html#en30" style="text-decoration: none;"><sup>30</sup></a> Dhamma leads to hell realms\
 > True Dhamma takes one on a good course
 
 </div>
@@ -56,7 +59,7 @@ Dhammo pāpeti suggatiṁ
 Dhammo have rakkhati dhamma-cāriṁ\
 Dhammo suciṇṇo sukham'āvahāti\
 Es'ānisaṁso dhamme suciṇṇe\
-Na duggatiṁ gacchati dhamma-cārī
+Na duggatiṁ gacchati dhamma-cārī<a href="appendix/endnotes.html#en31" style="text-decoration: none;"><sup>31</sup></a>
 
 <div class="english">
 
@@ -67,4 +70,4 @@ Na duggatiṁ gacchati dhamma-cārī
 
 </div>
 
-[Thag 4.10]
+<p style="text-align:right;">[Thag 4.10]</p>

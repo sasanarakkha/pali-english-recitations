@@ -1,6 +1,9 @@
 ## The Buddha's First Exclamation<a id="buddhas-final-instruction"></a>
 Buddha-pacchima-ovāda
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase 〉
 </center>
@@ -13,11 +16,11 @@ Siyā kho tumhākaṁ evam'assa
 
 </div>
 
-Atītasatthukaṁ pāvacanaṁ n'atthi no satthā’ti
+Atītasatthukaṁ pāvacanaṁ n'atthi no satthā'ti
 
 <div class="english">
 
-> “The Teacher’s word has passed  ̓  we are without a teacher”
+> “The Teacher's word has passed <span class="breathmark">'</span> we are without a teacher”
 
 </div>
 
@@ -29,19 +32,16 @@ Na kho pan'etaṁ evaṁ daṭṭhabbaṁ
 
 </div>
 
-Yo vo mayā dhammo ca vinayo ca desito paññatto
+Yo vo mayā dhammo ca vinayo ca desito paññatto\
 So vo mam'accayena satthā
 
 <div class="english">
 
-> Whatever Dhamma and Vinaya
-> I have pointed out and formulated for you
+> Whatever Dhamma and Vinaya\
+> I have pointed out and formulated for you\
 > That will be your teacher when I am gone
 
 </div>
-
-<center>
-〈 Handa dāni bhikkhave āmantayāmi vo
 
 <div class="english">
 
@@ -53,7 +53,7 @@ Vaya-dhammā saṅkhārā
 
 <div class="english">
 
-> Conditioned things are of ceasing nature
+> Conditioned things are of ceasing nature<a href="appendix/endnotes.html#en94" style="text-decoration: none;"><sup>94</sup></a>
 
 </div>
 
@@ -69,8 +69,8 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 <div class="english">
 
-> These are the Tathāgata’s final words
+> These are the Tathāgata's final words
 
 </div>
 
-[DN 16]
+<p style="text-align:right;">[DN 16]</p>

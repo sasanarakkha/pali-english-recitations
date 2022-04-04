@@ -1,6 +1,9 @@
 ## From the Elder Pārāpariya<a id="parapariya"></a>
 Pārāpariya-thera-gāthā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ pārāpariyatthera-gāthāyo bhaṇāmase 〉
 </center>
@@ -58,7 +61,7 @@ Vivekam'anubrūhantā – Vihaṁsu tapparāyaṇā
 
 <div class="english">
 
-> In the wilderness  ̓  at the foot of a tree\
+> In the wilderness <span class="breathmark">'</span> at the foot of a tree\
 > In caves and caverns\
 > Fostering seclusion\
 > They lived with that as their final goal
@@ -70,9 +73,9 @@ Abyāsekā amukharā – Atthacintā vas'ānugā
 
 <div class="english">
 
-> They were used to simple things  ̓  easy to look after\
-> Gentle  ̓  not stubborn at heart\
-> Unsullied  ̓  not gossipy\
+> They were used to simple things <span class="breathmark">'</span> easy to look after\
+> Gentle <span class="breathmark">'</span> not stubborn at heart\
+> Unsullied <span class="breathmark">'</span> not gossipy\
 > Their thoughts were intent on the goal
 
 </div>
@@ -82,7 +85,7 @@ Siniddhā teladhārāva – Ahosi iriyāpatho
 
 <div class="english">
 
-> That’s why they inspired confidence\
+> That's why they inspired confidence\
 > In their movements eating and practice\
 > Their deportment was as smooth\
 > As a stream of oil
@@ -97,7 +100,7 @@ Satiṁ upaṭṭhapetvāna – Evaṁ gāme munī care
 > When barefoot on a thorny path\
 > One would walk\
 > Quite mindfully\
-> That’s how a sage should walk in the village
+> That's how a sage should walk in the village
 
 </div>
 
@@ -113,4 +116,4 @@ Kiñc'āpi pacchimo kālo – Phuseyya amataṁ padaṁ
 
 </div>
 
-[Thag 16.10]
+<p style="text-align:right;">[Thag 16.10]</p>

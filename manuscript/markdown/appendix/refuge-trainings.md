@@ -1,4 +1,6 @@
-### Undertaking the Three Refuges<a id="three-refuges"></a>
+### Undertaking the Three Refuges<a href="appendix/endnotes.html#en139" style="text-decoration: none;"><sup>139</sup></a><a id="three-refuges"></a>
+---
+<br>
 
 <center>
 (Repeat line by line after the leader)
@@ -12,61 +14,73 @@ Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 
 </div>
 
-Buddhaṁ saraṇaṁ gacchāmi
-Dhammaṁ saraṇaṁ gacchāmi
+Buddhaṁ saraṇaṁ gacchāmi\
+Dhammaṁ saraṇaṁ gacchāmi\
 Saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
-> To the Buddha I go for refuge
-> To the Dhamma I go for refuge
+> To the Buddha I go for refuge\
+> To the Dhamma I go for refuge\
 > To the Saṅgha I go for refuge.
 
 </div>
 
-Dutiyam'pi buddhaṁ saraṇaṁ gacchāmi
-Dutiyam'pi dhammaṁ saraṇaṁ gacchāmi
+Dutiyam'pi buddhaṁ saraṇaṁ gacchāmi\
+Dutiyam'pi dhammaṁ saraṇaṁ gacchāmi\
 Dutiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
-> For the second time, to the Buddha I go for refuge
-> For the second time, to the Dhamma I go for refuge
+> For the second time, to the Buddha I go for refuge\
+> For the second time, to the Dhamma I go for refuge\
 > For the second time, to the Saṅgha I go for refuge.
 
 </div>
 
-Tatiyam'pi buddhaṁ saraṇaṁ gacchāmi
-Tatiyam'pi dhammaṁ saraṇaṁ gacchāmi
+Tatiyam'pi buddhaṁ saraṇaṁ gacchāmi\
+Tatiyam'pi dhammaṁ saraṇaṁ gacchāmi\
 Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
-> For the third time, to the Buddha I go for refuge.
-> For the third time, to the Dhamma I go for refuge.
+> For the third time, to the Buddha I go for refuge.\
+> For the third time, to the Dhamma I go for refuge.\
 > For the third time, to the Saṅgha I go for refuge.
 
 </div>
 
-Leader:         Tisaraṇa-gamanaṁ niṭṭhitaṁ
+<center>
+〈 Tisaraṇa-gamanaṁ niṭṭhitaṁ 〉
+</center>
 
-This completes the going to the Three Refuges.
+<div class="english">
 
-Response:     Āma bhante
-Yes, Venerable Sir.
+> This completes the going to the Three Refuges.
 
-(Bow three times)
+</div>
+
+Āma bhante
+
+<div class="english">
+
+> Yes, Venerable Sir.
+
+</div>
 
 ### Undertaking the Five Trainings<a id="five-training"></a>
-<!-- subsection{Undertaking the Five Trainings} -->
+---
+<br>
 
-> (To undertake the trainings, repeat each training after the leader)
+<center>
+(Repeat each phrase after the leader)
+</center>
 
 Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
-> I undertake the trainingi to refrain from taking the life of any living being.
+> I undertake the training<a href="appendix/endnotes.html#en140" style="text-decoration: none;"><sup>140</sup></a> to refrain from taking the life of any living being.
 
 </div>
 
@@ -98,27 +112,30 @@ Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
-> I undertake the training to refrain from consuming intoxicating drink and drugs that lead to carelessness.ii
+> I undertake the training to refrain from consuming intoxicating drink and drugs that lead to carelessness.<a href="appendix/endnotes.html#en141" style="text-decoration: none;"><sup>141</sup></a>
 
 </div>
 
-Leader: Appamādena sampādetha
+<center>
+〈 Appamādena sampādetha 〉
+</center>
 
 <div class="english">
 
-Perfect yourselves not being negligent.
+>Perfect yourselves not being negligent.
 
 </div>
 
-Response: Sādhu, sādhu, sādhu
+Sādhu, sādhu, sādhu
 
-(Bow three times)
+(Bow 3x)
 
 ## Undertaking the Eight Trainings<a id="eight-trainings"></a>
-subsection{Undertaking the Eight Trainings}
+---
+<br>
 
 <center>
-(To undertake the trainings, repeat each training after the leader)
+(Repeat each phrase after the leader)
 </center>
 
 Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi.
@@ -157,7 +174,7 @@ Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
-> I undertake the training to refrain from consuming intoxicating drink and drugs thati lead to carelessness.
+> I undertake the training to refrain from consuming intoxicating drink and drugs that<a href="appendix/endnotes.html#en142" style="text-decoration: none;"><sup>142</sup></a> lead to carelessness.
 
 </div>
 
@@ -165,7 +182,7 @@ Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi.
 
 <div class="english">
 
-> I undertake the training to refrain from eating after noon.ii
+> I undertake the training to refrain from eating after noon.<a href="appendix/endnotes.html#en143" style="text-decoration: none;"><sup>143</sup></a>
 
 </div>
 
@@ -173,7 +190,7 @@ Nacca-gīta-vādita-visūkadassanā mālā-gandha-vilepana-dhāraṇa-maṇḍan
 
 <div class="english">
 
-> I undertake the training to refrain from dancing, singing, music and going to entertainments; from perfumes, beautification and adornments.iii
+> I undertake the training to refrain from dancing, singing, music and going to entertainments; from perfumes, beautification and adornments.<a href="appendix/endnotes.html#en144" style="text-decoration: none;"><sup>144</sup></a>
 
 </div>
 
@@ -193,14 +210,20 @@ Imāni aṭṭha sikkhāpadāni samādiyāmi [3x]
 
 </div>
 
-Leader: Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye
+<center>
+〈 Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye 〉
+</center>
 
-These Eight Trainings
-have virtue as a vehicle for happiness,
-have virtue as a vehicle for good fortune,
-have virtue as a vehicle for liberation.
-Therefore let virtue be purified.iv
+<div class="english">
 
-Response: Sādhu, sādhu, sādhu
+> These Eight Trainings
+> have virtue as a vehicle for happiness,
+> have virtue as a vehicle for good fortune,
+> have virtue as a vehicle for liberation.
+> Therefore let virtue be purified.<a href="appendix/endnotes.html#en145" style="text-decoration: none;"><sup>145</sup></a>
 
-(Bow three times)
+</div>
+
+Sādhu, sādhu, sādhu
+
+(Bow 3x)

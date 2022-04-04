@@ -1,5 +1,8 @@
 # Abbreviations<a id="abbreviations"></a>
 
+---
+<br>
+
 <table>
 <tr>
 <td>〈...〉</td>

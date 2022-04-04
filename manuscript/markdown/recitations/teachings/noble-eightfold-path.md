@@ -1,5 +1,8 @@
 ## The Noble Eightfold Path<a id="noble-eightfold-path"></a>
-Ariy’aṭṭh'aṅgika-magga
+Ariy'aṭṭh'aṅgika-magga
+
+---
+<br>
 
 <center>
 〈 Handa mayaṁ ariy'aṭṭh'aṅgika-magga-pāṭhaṁ bhaṇāmase 〉
@@ -121,7 +124,7 @@ Dukkha-nirodha-gāminiyā paṭipadāya ñāṇaṁ
 
 <div class="english">
 
-> Knowledge of the way of practice
+> Knowledge of the way of practice\
 > Leading to the cessation of suffering
 
 </div>
@@ -270,14 +273,14 @@ Katamo ca bhikkhave sammā-ājīvo
 
 </div>
 
-Idha bhikkhave ariya-sāvako
-Micchā-ājīvaṁ pahāya
+Idha bhikkhave ariya-sāvako\
+Micchā-ājīvaṁ pahāya\
 Sammā-ājīvena jīvitaṁ kappeti
 
 <div class="english">
 
-> Here bhikkhus a noble disciple
-> Having abandoned wrong livelihood
+> Here bhikkhus a noble disciple\
+> Having abandoned wrong livelihood\
 > Earns his living by right livelihood
 
 </div>
@@ -298,78 +301,76 @@ Katamo ca bhikkhave sammā-vāyāmo
 
 </div>
 
-Idha bhikkhave bhikkhu
-Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya
-Chandaṁ janeti
-Vāyamati
-Vīriyaṁ ārabhati
+Idha bhikkhave bhikkhu\
+Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya\
+Chandaṁ janeti\
+Vāyamati\
+Vīriyaṁ ārabhati\
 Cittaṁ paggaṇhāti padahati
 
 <div class="english">
 
-> Here bhikkhus a bhikkhu awakens zeal
-
-</div>
-> For the non-arising of unarisen evil unwholesome states
-> He puts forth effort
-> Arouses energy
-> Exerts his mind
+> Here bhikkhus a bhikkhu awakens zeal\
+> For the non-arising of unarisen evil unwholesome states\
+> He puts forth effort\
+> Arouses energy\
+> Exerts his mind\
 > And strives
 
 </div>
 
-Uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya
-Chandaṁ janeti
-Vāyamati
-Vīriyaṁ ārabhati
+Uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya\
+Chandaṁ janeti\
+Vāyamati\
+Vīriyaṁ ārabhati\
 Cittaṁ paggaṇhāti padahati
 
 <div class="english">
 
-> He awakens zeal for the abandoning of arisen evil unwholesome states
-> He puts forth effort
-> Arouses energy
-> Exerts his mind
+> He awakens zeal for the abandoning of arisen evil unwholesome states\
+> He puts forth effort\
+> Arouses energy\
+> Exerts his mind\
 > And strives
 
 </div>
 
-Anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya
-Chandaṁ janeti
-Vāyamati
-Vīriyaṁ ārabhati
+Anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya\
+Chandaṁ janeti\
+Vāyamati\
+Vīriyaṁ ārabhati\
 Cittaṁ paggaṇhāti padahati
 
 <div class="english">
 
-> He awakens zeal for the arising of unarisen wholesome states
-> He puts forth effort
-> Arouses energy
-> Exerts his mind
+> He awakens zeal for the arising of unarisen wholesome states\
+> He puts forth effort\
+> Arouses energy\
+> Exerts his mind\
 > And strives
 
 </div>
 
-Uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā
-Asammosāya
-Bhiyyobhāvāya
-Vepullāya
-Bhāvanāya pāripūriyā
-Chandaṁ janeti
-Vāyamati
-Vīriyaṁ ārabhati
+Uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā\
+Asammosāya\
+Bhiyyobhāvāya\
+Vepullāya\
+Bhāvanāya pāripūriyā\
+Chandaṁ janeti\
+Vāyamati\
+Vīriyaṁ ārabhati\
 Cittaṁ paggaṇhāti padahati
 
 <div class="english">
 
-> He awakens zeal for the continuance
-> Non-disappearance
-> Strengthening
-> Increase and fulfillment by development
-> Of arisen wholesome states
-> He puts forth effort
-> Arouses energy
-> Exerts his mind
+> He awakens zeal for the continuance\
+> Non-disappearance\
+> Strengthening\
+> Increase and fulfillment by development\
+> Of arisen wholesome states\
+> He puts forth effort\
+> Arouses energy\
+> Exerts his mind\
 > And strives
 
 </div>
@@ -394,7 +395,7 @@ Idha bhikkhave bhikkhu kāye kāy'ānupassī viharati
 
 <div class="english">
 
-> Here bhikkhus a bhikkhu abides
+> Here bhikkhus a bhikkhu abides\
 > Contemplating the body as a body
 
 </div>
@@ -403,7 +404,7 @@ Idha bhikkhave bhikkhu kāye kāy'ānupassī viharati
 
 <div class="english">
 
-> Ardent  ̓  fully aware  ̓  and mindful
+> Ardent <span class="breathmark">'</span> fully aware <span class="breathmark">'</span> and mindful
 
 </div>
 
@@ -411,8 +412,8 @@ Vineyya loke abhijjhā-domanassaṁ
 
 <div class="english">
 
-> Having put away
-> Longing and grief for the worldi
+> Having put away\
+> Longing and grief for the world<a href="appendix/endnotes.html#en62" style="text-decoration: none;"><sup>62</sup></a>
 
 </div>
 
@@ -428,7 +429,7 @@ Vedanāsu vedan'ānupassī viharati
 
 <div class="english">
 
-> Ardent  ̓  fully aware  ̓  and mindful
+> Ardent <span class="breathmark">'</span> fully aware <span class="breathmark">'</span> and mindful
 
 </div>
 
@@ -436,7 +437,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 <div class="english">
 
-> Having put away
+> Having put away\
 > Longing and grief for the world
 
 </div>
@@ -453,7 +454,7 @@ Citte citt'ānupassī viharati
 
 <div class="english">
 
-> Ardent  ̓  fully aware  ̓  and mindful
+> Ardent <span class="breathmark">'</span> fully aware <span class="breathmark">'</span> and mindful
 
 </div>
 
@@ -461,7 +462,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 <div class="english">
 
-> Having put away
+> Having put away\
 > Longing and grief for the world
 
 </div>
@@ -470,7 +471,7 @@ Dhammesu dhamm'ānupassī viharati
 
 <div class="english">
 
-> He abides contemplating dhammas as dhammas
+> He abides contemplating dhammas as dhammas<a href="appendix/endnotes.html#en63" style="text-decoration: none;"><sup>63</sup></a>
 
 </div>
 
@@ -478,7 +479,7 @@ Dhammesu dhamm'ānupassī viharati
 
 <div class="english">
 
-> Ardent  ̓  fully aware  ̓  and mindful
+> Ardent <span class="breathmark">'</span> fully aware <span class="breathmark">'</span> and mindful
 
 </div>
 
@@ -486,7 +487,7 @@ Vineyya loke abhijjhā-domanassaṁ
 
 <div class="english">
 
-> Having put away
+> Having put away\
 > Longing and grief for the world
 
 </div>
@@ -515,7 +516,7 @@ Idha bhikkhave bhikkhu
 
 </div>
 
-Vivicc’eva kāmehi
+Vivicc'eva<a href="appendix/endnotes.html#en64" style="text-decoration: none;"><sup>64</sup></a> kāmehi
 
 <div class="english">
 
@@ -535,9 +536,9 @@ Savitakkaṁ savicāraṁ viveka-jaṁ pīti-sukhaṁ paṭhamaṁ jhānaṁ upa
 
 <div class="english">
 
-> Enters upon and abides  ̓  in the first Jhāna
-> Accompanied by thought and examination
-> With rapture and pleasure  ̓  born of seclusion
+> Enters upon and abides <span class="breathmark">'</span> in the first Jhāna\
+> Accompanied by thought and examination\
+> With rapture and pleasure <span class="breathmark">'</span> born of seclusion
 
 </div>
 
@@ -549,16 +550,16 @@ Vitakka-vicārānaṁ vūpasamā
 
 </div>
 
-Ajjhattaṁ sampasādanaṁ
-Cetaso ekodibhāvaṁ
+Ajjhattaṁ sampasādanaṁ\
+Cetaso ekodibhāvaṁ\
 Avitakkaṁ avicāraṁ samādhi-jaṁ pīti-sukhaṁ dutiyaṁ jhānaṁ upasampajja viharati
 
 <div class="english">
 
-> He enters upon and abides  ̓  in the second Jhāna
-> Accompanied by self-confidence  ̓  and singleness of mind
-> Without thought and examination
-> With rapture and pleasure  ̓  born of concentration
+> He enters upon and abides <span class="breathmark">'</span> in the second Jhāna\
+> Accompanied by self-confidence <span class="breathmark">'</span> and singleness of mind\
+> Without thought and examination\
+> With rapture and pleasure <span class="breathmark">'</span> born of concentration
 
 </div>
 
@@ -582,7 +583,7 @@ Sato ca sampajāno
 
 <div class="english">
 
-> Mindful  ̓  and fully aware
+> Mindful <span class="breathmark">'</span> and fully aware
 
 </div>
 
@@ -590,19 +591,19 @@ Sukhañ'ca kāyena paṭisaṁvedeti
 
 <div class="english">
 
-> And experiencing pleasure with the body
+> And experiencing pleasure with the body<a href="appendix/endnotes.html#en65" style="text-decoration: none;"><sup>65</sup></a>
 
 </div>
 
-Yaṁ taṁ ariyā ācikkhanti
-‘Upekkhako satimā sukha-vihārī’tii tatiyaṁ jhānaṁ upasampajja viharat
+Yaṁ taṁ ariyā ācikkhanti\
+'Upekkhako satimā sukha-vihārī'ti<a href="appendix/endnotes.html#en66" style="text-decoration: none;"><sup>66</sup></a> tatiyaṁ jhānaṁ upasampajja viharati
 
 <div class="english">
 
-> He enters upon and abides  ̓  in the third Jhāna
-> On account of which the Noble Ones announce
-> ‘He has a pleasant abiding
-> With equanimity and is mindful’
+> He enters upon and abides <span class="breathmark">'</span> in the third Jhāna\
+> On account of which the Noble Ones announce\
+> 'He has a pleasant abiding\
+> With equanimity and is mindful'
 
 </div>
 
@@ -622,11 +623,11 @@ Dukkhassa ca pahānā
 
 </div>
 
-Pubb’eva somanassa domanassānaṁ atthaṅ'gamā
+Pubb'eva somanassa domanassānaṁ atthaṅ'gamā
 
 <div class="english">
 
-> With the previous disappearance of joy and displeasure
+> With the previous disappearance of joy and displeasure<a href="appendix/endnotes.html#en67" style="text-decoration: none;"><sup>67</sup></a>
 
 </div>
 
@@ -634,9 +635,9 @@ Adukkham'asukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajj
 
 <div class="english">
 
-> He enters upon and abides  ̓  in the fourth Jhāna
-> Accompanied by neither pain nor pleasure
-> And purity of mindfulness
+> He enters upon and abides <span class="breathmark">'</span> in the fourth Jhāna\
+> Accompanied by neither pain nor pleasure\
+> And purity of mindfulness\
 > Due to equanimity
 
 </div>
@@ -651,10 +652,11 @@ Ayaṁ vuccati bhikkhave sammā-samādhi
 
 Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
+
 <div class="english">
 
 > This is the Noble Eightfold Path
 
 </div>
 
-[SN 45.8]
+<p style="text-align:right;">[SN 45.8]</p>

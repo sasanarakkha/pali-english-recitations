@@ -1,6 +1,9 @@
 ## The Seven Factors of Awakening<a id="seven-factors-of-awakening"></a>
 Satta-sambojjh'aṅgā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ satta-sambojjh'aṅga-pāṭhaṁ bhaṇāmase 〉
 </center>
@@ -25,11 +28,11 @@ Nīyanti takkarassa sammā dukkhakkhayāya
 
 <div class="english">
 
-> Acting them out  ̓  leads to the complete destruction of suffering
+> Acting them out <span class="breathmark">'</span> leads to the complete destruction of suffering
 
 </div>
 
-[SN 46.19]
+<p style="text-align:right;">[SN 46.19]</p>
 
 Ye te bhikkhave bhikkhū
 
@@ -195,7 +198,7 @@ Pavicarati parivīmaṁsam'āpajjati
 
 <div class="english">
 
-> Examines it  ̓  makes an investigation of it
+> Examines it <span class="breathmark">'</span> makes an investigation of it
 
 </div>
 
@@ -211,7 +214,7 @@ Pavicarato parivīmaṁsam'āpajjato
 
 <div class="english">
 
-> Examines it  ̓  makes an investigation of it
+> Examines it <span class="breathmark">'</span> makes an investigation of it
 
 </div>
 
@@ -219,7 +222,7 @@ Pavicarato parivīmaṁsam'āpajjato
 
 <div class="english">
 
-> One’s energy is aroused without slackening
+> One's energy is aroused without slackening
 
 </div>
 
@@ -269,14 +272,14 @@ So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti
 
 <div class="english">
 
-> One closely looks on with equanimity
+> One closely looks on with equanimity\
 > At the mind thus concentrated
 
 </div>
 
-[SN 46.3]
+<p style="text-align:right;">[SN 46.3]</p>
 
-Ime kho bhikkhave satta bojjhaṅgā’ti
+Ime kho bhikkhave satta bojjhaṅgā'ti
 
 <div class="english">
 
@@ -284,4 +287,4 @@ Ime kho bhikkhave satta bojjhaṅgā’ti
 
 </div>
 
-[SN 46.22]
+<p style="text-align:right;">[SN 46.22]</p>

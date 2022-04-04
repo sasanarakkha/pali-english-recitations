@@ -1,8 +1,12 @@
 ## Just as Rivers<a id="just-as-rivers"></a>
 Yathā vāri-vahā pūrā
 
-[Yathā vāri-vahā pūrā]
+---
+<br>
 
+<center>
+〈 Yathā vāri-vahā pūrā 〉
+</center>
 <div class="english">
 
 > Just as rivers full of water
@@ -21,7 +25,7 @@ Evam'eva ito dinnaṁ petānaṁ upakappati
 
 <div class="english">
 
-> Likewise what’s been given here
+> Likewise what's been given here<a href="appendix/endnotes.html#en114" style="text-decoration: none;"><sup>114</sup></a>
 
 </div>
 
@@ -29,7 +33,7 @@ Petānaṁ upakappati
 
 <div class="english">
 
-> Benefits the departed ones
+> Benefits the departed ones<a href="appendix/endnotes.html#en115" style="text-decoration: none;"><sup>115</sup></a>
 
 </div>
 
@@ -65,7 +69,7 @@ Cando paṇṇaraso yathā
 
 </div>
 
-Maṇi jotiraso yathā
+Maṇi jotiraso yathā<a href="appendix/endnotes.html#en116" style="text-decoration: none;"><sup>116</sup></a>
 
 <div class="english">
 
@@ -73,7 +77,7 @@ Maṇi jotiraso yathā
 
 </div>
 
-Sabb'ītiyo vivajjantu
+Sabb'ītiyo vivajjantu<a href="appendix/endnotes.html#en117" style="text-decoration: none;"><sup>117</sup></a>
 
 <div class="english">
 
@@ -133,7 +137,7 @@ Cattāro dhammā vaḍḍhanti
 
 <div class="english">
 
-> Long-life beauty  ̓  happiness and strength
+> Long-life beauty <span class="breathmark">'</span> happiness and strength
 
 </div>
 
@@ -233,4 +237,4 @@ Sadā sotthī bhavantu te
 
 </div>
 
-[Khp 1.7 / Dhp 109 / Trad]
+<p style="text-align:right;">[Khp 1.7 / Dhp 109 / Trad]</p>

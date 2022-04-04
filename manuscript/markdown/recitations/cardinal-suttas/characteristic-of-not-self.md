@@ -1,89 +1,86 @@
 ## The Discourse on the Characteristic of Not-Self<a id="characteristic-of-not-self"></a>
+---
+<br>
 
-[Thus have I heard] on one occasion the Blessed One was dwelling at Benares  ̓  in the Deer Park at Isipatana. There he addressed the bhikkhus of the group of five: “Bhikkhus” – “Venerable Sir” they replied. The Blessed One said this:i
+<center>
+〈 Thus have I heard 〉
+</center>
 
-Bhikkhus form is not-self. If form were self  ̓  then form would not lead to affliction  ̓  and one could command to form: “Let my form be thus  ̓  let my form not be thus.”
+On one occasion<a href="appendix/endnotes.html#en108" style="text-decoration: none;"><sup>108</sup></a> the Blessed One was dwelling at Benares <span class="breathmark">'</span> in the Deer Park at Isipatana. There he addressed the bhikkhus of the group of five: “Bhikkhus” – “Venerable Sir” they replied. The Blessed One said this:<a href="appendix/endnotes.html#en109" style="text-decoration: none;"><sup>109</sup></a>
 
-But since form is not-self  ̓  it leads to affliction  ̓  and none can command to form: “Let my form be thus  ̓  let my form not be thus.”
+Bhikkhus form is not-self. If form were self <span class="breathmark">'</span> then form would not lead to affliction <span class="breathmark">'</span> and one could command to form: “Let my form be thus <span class="breathmark">'</span> let my form not be thus.”\
+But since form is not-self <span class="breathmark">'</span> it leads to affliction <span class="breathmark">'</span> and none can command to form: “Let my form be thus <span class="breathmark">'</span> let my form not be thus.”
 
-Feeling is not-self. If feeling were self  ̓  then feeling would not lead to affliction  ̓  and one could command to feeling: “Let my feeling be thus  ̓  let my feeling not be thus.”
+Feeling is not-self. If feeling were self <span class="breathmark">'</span> then feeling would not lead to affliction <span class="breathmark">'</span> and one could command to feeling: “Let my feeling be thus <span class="breathmark">'</span> let my feeling not be thus.”\
+But since feeling is not-self <span class="breathmark">'</span> it leads to affliction <span class="breathmark">'</span> and none can command to feeling: “Let my feeling be thus <span class="breathmark">'</span> let my feeling not be thus.”
 
-But since feeling is not-self  ̓  it leads to affliction  ̓  and none can command to feeling: “Let my feeling be thus  ̓  let my feeling not be thus.”
+Perception is not-self. If perception were self <span class="breathmark">'</span> then perception would not lead to affliction <span class="breathmark">'</span> and one could command to perception: “Let my perception be thus <span class="breathmark">'</span> let my perception not be thus.”\
+But since perception is not-self <span class="breathmark">'</span> it leads to affliction <span class="breathmark">'</span> and none can command to perception: “Let my perception be thus <span class="breathmark">'</span> let my perception not be thus.”
 
-Perception is not-self. If perception were self  ̓  then perception would not lead to affliction  ̓  and one could command to perception: “Let my perception be thus  ̓  let my perception not be thus.”
+Volitional formations are not-self. If volitional formations were self <span class="breathmark">'</span> then volitional formations would not lead to affliction <span class="breathmark">'</span> and one could command to volitional formations: “Let my volitional formations be thus <span class="breathmark">'</span> let my volitional formations not be thus.”\
+But since volitional formations are not-self <span class="breathmark">'</span> they lead to affliction <span class="breathmark">'</span> and none can command to volitional formations: “Let my volitional formations be thus <span class="breathmark">'</span> let my volitional formations not be thus.”
 
-But since perception is not-self  ̓  it leads to affliction  ̓  and none can command to perception: “Let my perception be thus  ̓  let my perception not be thus.”
+Consciousness is not-self. If consciousness were self <span class="breathmark">'</span> then consciousness would not lead to affliction <span class="breathmark">'</span> and one could command to consciousness: “Let my consciousness be thus <span class="breathmark">'</span> let my consciousness not be thus.”\
+But since consciousness is not-self <span class="breathmark">'</span> it leads to affliction <span class="breathmark">'</span> and none can command to consciousness: “Let my consciousness be thus <span class="breathmark">'</span> let my consciousness not be thus.”
 
-Volitional formations are not-self. If volitional formations were self  ̓  then volitional formations would not lead to affliction  ̓  and one could command to volitional formations: “Let my volitional formations be thus  ̓  let my volitional formations not be thus.”
-
-But since volitional formations are not-self  ̓  they lead to affliction  ̓  and none can command to volitional formations: “Let my volitional formations be thus  ̓  let my volitional formations not be thus.”
-
-Consciousness is not-self. If consciousness were self  ̓  then consciousness would not lead to affliction  ̓  and one could command to consciousness: “Let my consciousness be thus  ̓  let my consciousness not be thus.”
-
-But since consciousness is not-self  ̓  it leads to affliction  ̓  and none can command to consciousness: “Let my consciousness be thus  ̓  let my consciousness not be thus.”
-
-[Bhikkhus what do you think:] “Is form permanent or impermanent?”
-
-“Impermanent venerable Sir.”
-
-“Is what is impermanent satisfactory or unsatisfactory?” “Unsatisfactory venerable Sir.”
-
-“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine  ̓  this I am  ̓  this is my self?'”
-
+<center>
+〈 Bhikkhus what do you think: 〉
+</center>
+“Is form permanent or impermanent?”\
+“Impermanent venerable Sir.”\
+“Is what is impermanent satisfactory or unsatisfactory?”\
+“Unsatisfactory venerable Sir.”\
+“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine <span class="breathmark">'</span> this I am <span class="breathmark">'</span> this is my self?'”\
 “No venerable Sir.”
 
-Bhikkhus what do you think: “Is feeling permanent or impermanent?”
-
-“Impermanent venerable Sir.”
-
-“Is what is impermanent satisfactory or unsatisfactory?” “Unsatisfactory venerable Sir.”
-
-“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine  ̓  this I am  ̓  this is my self?'”
-
+Bhikkhus what do you think: “Is feeling permanent or impermanent?”\
+“Impermanent venerable Sir.”\
+“Is what is impermanent satisfactory or unsatisfactory?”\
+“Unsatisfactory venerable Sir.”\
+“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine <span class="breathmark">'</span> this I am <span class="breathmark">'</span> this is my self?'”\
 “No venerable Sir.”
 
-Bhikkhus what do you think: “Is perception permanent or impermanent?” “Impermanent venerable Sir.”
-
-“Is what is impermanent satisfactory or unsatisfactory?” “Unsatisfactory venerable Sir.”
-
-“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine  ̓  this I am  ̓  this is my self?'
-
+Bhikkhus what do you think: “Is perception permanent or impermanent?”\
+“Impermanent venerable Sir.”\
+“Is what is impermanent satisfactory or unsatisfactory?”\
+“Unsatisfactory venerable Sir.”\
+“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine <span class="breathmark">'</span> this I am <span class="breathmark">'</span> this is my self?'\
 “No venerable Sir.”
 
-Bhikkhus what do you think: “Are volitional formations permanent or impermanent?”
-
-“Impermanent venerable Sir.”
-
-“Is what is impermanent satisfactory or unsatisfactory?” “Unsatisfactory venerable Sir.”
-
-“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine  ̓  this I am  ̓  this is my self?'”
-
+Bhikkhus what do you think: “Are volitional formations permanent or impermanent?”\
+“Impermanent venerable Sir.”\
+“Is what is impermanent satisfactory or unsatisfactory?”\
+“Unsatisfactory venerable Sir.”\
+“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine <span class="breathmark">'</span> this I am <span class="breathmark">'</span> this is my self?'”\
 “No venerable Sir.”
 
-Bhikkhus what do you think: “Is consciousness permanent or impermanent?”
-
-“Impermanent venerable Sir.”
-
-“Is what is impermanent satisfactory or unsatisfactory?” “Unsatisfactory venerable Sir.”
-
-“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine  ̓  this I am  ̓  this is my self?'
-
+Bhikkhus what do you think: “Is consciousness permanent or impermanent?”\
+“Impermanent venerable Sir.”\
+“Is what is impermanent satisfactory or unsatisfactory?”\
+“Unsatisfactory venerable Sir.”\
+“Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine <span class="breathmark">'</span> this I am <span class="breathmark">'</span> this is my self?'\
 “No venerable Sir.”
 
-[Therefore bhikkhus] any kind of form whatsoever  ̓  whether past future or present  ̓  internal or external  ̓  gross or subtle  ̓  inferior or superior  ̓  far or near  ̓  must be seen with right wisdom as it really is: “This is not mine  ̓  this I am not  ̓  this is not my self.”
+<center>
+〈 Therefore bhikkhus 〉
+</center>
+Any kind of form whatsoever <span class="breathmark">'</span> whether past future or present <span class="breathmark">'</span> internal or external <span class="breathmark">'</span> gross or subtle <span class="breathmark">'</span> inferior or superior <span class="breathmark">'</span> far or near <span class="breathmark">'</span> must be seen with right wisdom as it really is: “This is not mine <span class="breathmark">'</span> this I am not <span class="breathmark">'</span> this is not my self.”
 
-Any kind of feeling whatsoever  ̓  whether past future or present  ̓  internal or external  ̓  gross or subtle  ̓  inferior or superior  ̓  far or near  ̓  must be seen with right wisdom as it really is: “This is not mine  ̓  this I am not  ̓  this is not my self.”
+Any kind of feeling whatsoever <span class="breathmark">'</span> whether past future or present <span class="breathmark">'</span> internal or external <span class="breathmark">'</span> gross or subtle <span class="breathmark">'</span> inferior or superior <span class="breathmark">'</span> far or near <span class="breathmark">'</span> must be seen with right wisdom as it really is: “This is not mine <span class="breathmark">'</span> this I am not <span class="breathmark">'</span> this is not my self.”
 
-Any kind of perception whatsoever  ̓  whether past future or present  ̓  internal or external  ̓  gross or subtle  ̓  inferior or superior  ̓  far or near  ̓  must be seen with right wisdom as it really is: “This is not mine  ̓  this I am not  ̓  this is not my self.”
+Any kind of perception whatsoever <span class="breathmark">'</span> whether past future or present <span class="breathmark">'</span> internal or external <span class="breathmark">'</span> gross or subtle <span class="breathmark">'</span> inferior or superior <span class="breathmark">'</span> far or near <span class="breathmark">'</span> must be seen with right wisdom as it really is: “This is not mine <span class="breathmark">'</span> this I am not <span class="breathmark">'</span> this is not my self.”
 
-Any kind of volitional formation whatsoever  ̓  whether past future or present  ̓  internal or external  ̓  gross or subtle  ̓  inferior or superior  ̓  far or near  ̓  must be seen with right wisdom as it really is: “This is not mine  ̓  this I am not  ̓  this is not my self.”
+Any kind of volitional formation whatsoever <span class="breathmark">'</span> whether past future or present <span class="breathmark">'</span> internal or external <span class="breathmark">'</span> gross or subtle <span class="breathmark">'</span> inferior or superior <span class="breathmark">'</span> far or near <span class="breathmark">'</span> must be seen with right wisdom as it really is: “This is not mine <span class="breathmark">'</span> this I am not <span class="breathmark">'</span> this is not my self.”
 
-Any kind of consciousness whatsoever  ̓  whether past future or present  ̓  internal or external  ̓  gross or subtle  ̓  inferior or superior  ̓  far or near  ̓  must be seen with right wisdom as it really is: “This is not mine  ̓  this I am not  ̓  this is not my self.”
+Any kind of consciousness whatsoever <span class="breathmark">'</span> whether past future or present <span class="breathmark">'</span> internal or external <span class="breathmark">'</span> gross or subtle <span class="breathmark">'</span> inferior or superior <span class="breathmark">'</span> far or near <span class="breathmark">'</span> must be seen with right wisdom as it really is: “This is not mine <span class="breathmark">'</span> this I am not <span class="breathmark">'</span> this is not my self.”
 
-[Bhikkhus when a noble discipleii]  ̓  who has heard the teachingiii sees thus  ̓  he becomes disenchanted with form  ̓  becomes disenchanted with feeling  ̓  becomes disenchanted with perception  ̓  becomes disenchanted with volitional formations  ̓  becomes disenchanted with consciousness.
+<center>
+〈 Bhikkhus when a noble disciple<a href="appendix/endnotes.html#en110" style="text-decoration: none;"><sup>110</sup></a> 〉
+</center>
+Who has heard the teaching<a href="appendix/endnotes.html#en111" style="text-decoration: none;"><sup>111</sup></a> sees thus <span class="breathmark">'</span> he becomes disenchanted with form <span class="breathmark">'</span> becomes disenchanted with feeling <span class="breathmark">'</span> becomes disenchanted with perception <span class="breathmark">'</span> becomes disenchanted with volitional formations <span class="breathmark">'</span> becomes disenchanted with consciousness.
 
-When he is disenchanted passion fades away. With the fading of passion he is liberated. When liberated there is knowledge that he is liberated. He understands: “Birth is exhausted  ̓  the holy life is fulfilled  ̓  what has to be done is done  ̓  there is nothing else to do for the sake of liberation.”iv
+When he is disenchanted passion fades away. With the fading of passion he is liberated. When liberated there is knowledge that he is liberated. He understands: “Birth is exhausted <span class="breathmark">'</span> the holy life is fulfilled <span class="breathmark">'</span> what has to be done is done <span class="breathmark">'</span> there is nothing else to do for the sake of liberation.”<a href="appendix/endnotes.html#en112" style="text-decoration: none;"><sup>112</sup></a>
 
-That is what the Blessed One said. The bhikkhus of the group of five were glad and they approved of his words. Now during this utterance  ̓  the hearts of the bhikkhus of the group of five  ̓  were liberated from the taints through the cessation of clinging.
+That is what the Blessed One said. The bhikkhus of the group of five were glad and they approved of his words. Now during this utterance <span class="breathmark">'</span> the hearts of the bhikkhus of the group of five <span class="breathmark">'</span> were liberated from the taints through the cessation of clinging.
 
-[SN 22.59]
+<p style="text-align:right;">[SN 22.59]</p>

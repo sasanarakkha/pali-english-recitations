@@ -1,4 +1,8 @@
 ## Salutation to the Triple Gem<a id="salutation"></a>
+Ratanattaya-paṇāma
+
+---
+<br>
 
 <center>
 〈 Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañ'ca bhaṇāmase 〉<br>
@@ -41,7 +45,7 @@ Dhammo padīpo viya tassa satthuno
 
 <div class="english">
 
-> The Teaching of the Lord is like a lamp
+> The Teaching of the Lord is like a lamp<a href="appendix/endnotes.html#en8" style="text-decoration: none;"><sup>8</sup></a>
 
 </div>
 
@@ -49,7 +53,7 @@ Yo magga-pāk'āmata-bheda-bhinnako
 
 <div class="english">
 
-> Divided into path and its fruit  ̓  the Deathless
+> Divided into path and its fruit <span class="breathmark">'</span> the Deathless<a href="appendix/endnotes.html#en9" style="text-decoration: none;"><sup>9</sup></a>
 
 </div>
 
@@ -57,7 +61,7 @@ Lok'uttaro yo ca tad'attha-dīpano
 
 <div class="english">
 
-> And illuminating that goal  ̓  which is beyond the conditioned worldi
+> And illuminating that goal <span class="breathmark">'</span> which is beyond the conditioned world<a href="appendix/endnotes.html#en10" style="text-decoration: none;"><sup>10</sup></a>
 
 </div>
 
@@ -65,7 +69,7 @@ Vandāmi dhammaṁ aham'ādarena taṁ
 
 <div class="english">
 
-> Devotedly indeed  ̓  that Dhamma I revere
+> Devotedly indeed <span class="breathmark">'</span> that Dhamma I revere
 
 </div>
 
@@ -81,7 +85,7 @@ Yo diṭṭha-santo sugat'ānubodhako
 
 <div class="english">
 
-> Those who have realised peace
+> Those who have realised peace\
 > Awakened after the Accomplished One
 
 </div>
@@ -90,7 +94,7 @@ Lolappahīno ariyo sumedhaso
 
 <div class="english">
 
-> Noble and wise  ̓  all longing abandoned
+> Noble and wise <span class="breathmark">'</span> all longing abandoned
 
 </div>
 
@@ -98,7 +102,7 @@ Vandāmi saṅghaṁ aham'ādarena taṁ
 
 <div class="english">
 
-> Devotedly indeed  ̓  that Saṅgha I revere
+> Devotedly indeed <span class="breathmark">'</span> that Saṅgha I revere
 
 </div>
 
@@ -107,7 +111,7 @@ Icc'evam'ekant'abhipūjaneyyakaṁ vatthu-ttayaṁ vandayat'ābhisaṅkhataṁ
 <div class="english">
 
 >This salutation should be made\
-> To that triad which is worthy
+> To that triad<a href="appendix/endnotes.html#en11" style="text-decoration: none;"><sup>11</sup></a> which is worthy
 
 </div>
 
@@ -131,8 +135,8 @@ Idha tathāgato loke uppanno arahaṁ sammāsambuddho
 
 <div class="english">
 
->  One who knows things as they are  ̓  has arisen in this world
->  And he is an Arahant  ̓  a perfectly awakened being
+>  One who knows things as they are <span class="breathmark">'</span> has arisen in this world<a href="appendix/endnotes.html#en12" style="text-decoration: none;"><sup>12</sup></a>\
+>  And he is an Arahant <span class="breathmark">'</span> a perfectly awakened being
 
 </div>
 
@@ -140,9 +144,9 @@ Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappaved
 
 <div class="english">
 
->  Teaching the way leading out of delusion
->  Calming and directing to perfect peace
->  And leading to enlightenment
+>  Teaching the way leading out of delusion<a href="appendix/endnotes.html#en13" style="text-decoration: none;"><sup>13</sup></a>\
+>  Calming and directing to perfect peace\
+>  And leading to enlightenment\
 >  This way he has made known
 
 </div>
@@ -183,7 +187,7 @@ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
 <div class="english">
 
-> Sorrow lamentation pain displeasurei and despair are dukkha
+> Sorrow lamentation pain displeasure<a href="appendix/endnotes.html#en14" style="text-decoration: none;"><sup>14</sup></a> and despair are dukkha
 
 </div>
 
@@ -207,7 +211,7 @@ Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 <div class="english">
 
-> Not attaining one’s wishes is dukkha
+> Not attaining one's wishes is dukkha
 
 </div>
 
@@ -215,7 +219,7 @@ Saṅkhittena pañc'upādānakkhandhā dukkhā
 
 <div class="english">
 
-> In brief  ̓  the five aggregates of clinging are dukkhai
+> In brief <span class="breathmark">'</span> the five aggregates of clinging are dukkha<a href="appendix/endnotes.html#en15" style="text-decoration: none;"><sup>15</sup></a>
 
 </div>
 
@@ -255,7 +259,7 @@ Saṅkhār'ūpādānakkhandho
 
 <div class="english">
 
-> Attachment to volitional formations
+> Attachment to volitional formations<a href="appendix/endnotes.html#en16" style="text-decoration: none;"><sup>16</sup></a>
 
 </div>
 
@@ -263,7 +267,7 @@ Viññāṇ'ūpādānakkhandho
 
 <div class="english">
 
-> Attachment to consciousness
+> Attachment to consciousness<a href="appendix/endnotes.html#en17" style="text-decoration: none;"><sup>17</sup></a>
 
 </div>
 
@@ -327,7 +331,7 @@ Saṅkhārā aniccā
 
 <div class="english">
 
-> Volitional formations are impermanent
+> Volitional formations are impermanent<a href="appendix/endnotes.html#en18" style="text-decoration: none;"><sup>18</sup></a>
 
 </div>
 
@@ -335,7 +339,7 @@ Viññāṇaṁ aniccaṁ
 
 <div class="english">
 
-> Consciousness is impermanent
+> Consciousness is impermanent<a href="appendix/endnotes.html#en19" style="text-decoration: none;"><sup>19</sup></a>
 
 </div>
 
@@ -367,7 +371,7 @@ Saṅkhārā anattā
 
 <div class="english">
 
-> Volitional formations are not-self
+> Volitional formations are not-self<a href="appendix/endnotes.html#en20" style="text-decoration: none;"><sup>20</sup></a>
 
 </div>
 
@@ -375,7 +379,7 @@ Viññāṇaṁ anattā
 
 <div class="english">
 
-> Consciousness is not-self
+> Consciousness is not-self<a href="appendix/endnotes.html#en21" style="text-decoration: none;"><sup>21</sup></a>
 
 </div>
 
@@ -383,7 +387,7 @@ Sabbe saṅkhārā aniccā
 
 <div class="english">
 
-> All conditioned things are impermanent
+> All conditioned things are impermanent<a href="appendix/endnotes.html#en22" style="text-decoration: none;"><sup>22</sup></a>
 
 </div>
 
@@ -391,7 +395,7 @@ Sabbe dhammā anattā't
 
 <div class="english">
 
-> All things are not-self
+> All things are not-self<a href="appendix/endnotes.html#en23" style="text-decoration: none;"><sup>23</sup></a>
 
 </div>
 
@@ -399,7 +403,7 @@ Te mayaṁ otiṇṇ'āmha jātiyā jarā-maraṇena
 
 <div class="english">
 
-> All of us are affected by birth  ̓  ageing and deathi
+> All of us are affected by birth <span class="breathmark">'</span> ageing and death<a href="appendix/endnotes.html#en24" style="text-decoration: none;"><sup>24</sup></a>
 
 </div>
 
@@ -407,7 +411,7 @@ Sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
 <div class="english">
 
-> By sorrow lamentation pain displeasure and despair
+> By sorrow lamentation pain displeasure<a href="appendix/endnotes.html#en25" style="text-decoration: none;"><sup>25</sup></a> and despair<a href="appendix/endnotes.html#en26" style="text-decoration: none;"><sup>26</sup></a>
 
 </div>
 
@@ -415,7 +419,7 @@ Dukkhotiṇṇā dukkha-paretā
 
 <div class="english">
 
-> Affected by dukkha and afflicted by dukkha
+> Affected by dukkha and afflicted by dukkha<a href="appendix/endnotes.html#en27" style="text-decoration: none;"><sup>27</sup></a>
 
 </div>
 
@@ -431,7 +435,7 @@ Cira-parinibbutam'pi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ
 
 <div class="english">
 
-> Remembering the Blessed One  ̓  the Worthy One  ̓  and Perfectly Enlightened One
+> Remembering the Blessed One <span class="breathmark">'</span> the Worthy One <span class="breathmark">'</span> and Perfectly Enlightened One\
 > Who long ago attained Parinibbāna
 
 </div>
@@ -440,7 +444,7 @@ Saddhā agārasmā anagāriyaṁ pabbajitā
 
 <div class="english">
 
->  We have gone forth with faith
+>  We have gone forth with faith\
 >  From home to homelessness
 
 </div>
@@ -449,7 +453,7 @@ Tasmiṁ bhagavati brahmacariyaṁ carāma
 
 <div class="english">
 
-> And like the Blessed One  ̓  we practice the holy life
+> And like the Blessed One <span class="breathmark">'</span> we practice the holy life
 
 </div>
 
@@ -457,7 +461,7 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 
 <div class="english">
 
-> Possessing the bhikkhus’ training and way of life
+> Possessing the bhikkhus <span class="breathmark">'</span> training and way of life<a href="appendix/endnotes.html#en28" style="text-decoration: none;"><sup>28</sup></a>
 
 </div>
 
@@ -465,6 +469,6 @@ Taṁ no brahmacariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁ
 
 <div class="english">
 
-> May this holy life  ̓  lead us to the end of this whole mass of suffering
+> May this holy life <span class="breathmark">'</span> lead us to the end of this whole mass of suffering
 
 </div>

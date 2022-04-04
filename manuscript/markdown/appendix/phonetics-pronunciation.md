@@ -2,11 +2,41 @@
 
 Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
 
-**Vowels**\
-**a** as in magm**a** **ā** as in f**a**ther\
-**i** as in **i**ll **ī** as in l**i**ter\
-**u** as in p**u**t **ū** as in h**u**la hoop\
-**e** as in Santa F**e** **o** as in f**o**r
+<center>
+<b>Vowels</b>
+<table>
+    <tr>
+        <td>Short</td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>Long</td>
+    </tr>
+    <tr>
+        <td>a as in magma</td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>ā as in father</td>
+    </tr>
+    <tr>
+        <td>i as in ill</td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>ī as in liter</td>
+    </tr>
+    <tr>
+        <td>u as in put</td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>ū as in hula hoop</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>e as in Santa Fe</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>o as in for</td>
+    </tr>
+</table>
+</center>
 
 Long vowels are pronounced as above, but are held for twice the length of their short counterparts. By default **e** and **o** are long vowels, but they become short if followed by double consonants e.g. *mettā*, ,*sotthi*. In such a case they are pronounced short as in "pet" and "soft" respectively.
 

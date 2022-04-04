@@ -1,7 +1,11 @@
 ## Homage to the Buddha<a id="homage-buddha"></a>
+Buddh’ābhitthuti
+
+---
+<br>
 
 <center>
-〈 Handa mayaṁ buddh'ābhitthutiṁ karomase 〉<br>
+〈 Handa mayaṁ buddhābhitthutiṁ karomase 〉<br>
 〈 Now let us recite in praise of the Buddha 〉
 </center>
 
@@ -41,7 +45,7 @@ Anuttaro purisadamma-sārathi
 
 <div class="english">
 
->  Unsurpassed leader of persons to be tamedi
+>  Unsurpassed leader of persons to be tamed<a href="appendix/endnotes.html#en3" style="text-decoration: none;"><sup>3</sup></a>
 
 </div>
 
@@ -73,7 +77,7 @@ Sassamaṇa-brāhmaṇiṁ pajaṁ sadeva-manussaṁ sayaṁ abhiññā sacchika
 
 <div class="english">
 
-> Its seekers and sages  ̓  celestial and human beings
+> Its seekers and sages  ̓  celestial and human beings\
 > He has by deep insight revealed the truth
 
 </div>
@@ -82,9 +86,9 @@ Yo dhammaṁ desesi ādi-kalyāṇaṁ majjhe-kalyāṇaṁ pariyosāna-kalyā�
 
 <div class="english">
 
-> He has pointed out the Dhamma
-> Beautiful in the beginning
-> Beautiful in the middle
+> He has pointed out the Dhamma\
+> Beautiful in the beginning\
+> Beautiful in the middle\
 > Beautiful in the end
 
 </div>
@@ -93,7 +97,7 @@ Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ 
 
 <div class="english">
 
-> He has explained the holy life of complete purity
+> He has explained the holy life of complete purity<a href="appendix/endnotes.html#en4" style="text-decoration: none;"><sup>4</sup></a>\
 > In its essence and conventions
 
 </div>
@@ -102,7 +106,7 @@ Tam'ahaṁ bhagavantaṁ abhipūjayāmi tam'ahaṁ bhagavantaṁ sirasā namāmi
 
 <div class="english">
 
-> I chant my praise to the Blessed One
+> I chant my praise to the Blessed One\
 > I bow my head to the Blessed One (Bow)
 
 </div>

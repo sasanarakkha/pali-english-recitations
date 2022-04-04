@@ -1,6 +1,9 @@
 ## The Highest Honour and Aspirations<a id="highest-honour-aspirations"></a>
 Paramāya pūjāyañ'ca paṇidhiñ'ca
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ buddhapūjañ'ca paṇidhiñ'ca karomase 〉
 </center>
@@ -61,13 +64,13 @@ Yāva Nibbānapattiyā
 
 </div>
 
-[Sri Lanka]
+<p style="text-align:right;">[Sri Lanka]
 
 Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā
 
 <div class="english">
 
-> Any bhikkhu  ̓  bhikkhunī  ̓  male or female lay follower
+> Any bhikkhu <span class="breathmark">'</span> bhikkhunī <span class="breathmark">'</span> male or female lay follower
 
 </div>
 
@@ -99,7 +102,7 @@ So tathāgataṁ sakkaroti garuṁ karoti māneti pūjeti apaciyati
 
 <div class="english">
 
-> Respects  ̓  esteems  ̓  cherishes  ̓  honours and pays homage to the Tathāgata
+> Respects <span class="breathmark">'</span> esteems <span class="breathmark">'</span> cherishes <span class="breathmark">'</span> honours and pays homage to the Tathāgata
 
 </div>
 
@@ -111,7 +114,7 @@ Paramāya pūjāya
 
 </div>
 
-[DN 16]
+<p style="text-align:right;">[DN 16]
 
 Tasmā
 
@@ -121,12 +124,12 @@ Tasmā
 
 </div>
 
-Imāya dhamm'ānudhamma-paṭipattiyā buddhaṁ pūjemi
+Imāya dhamm'ānudhamma-paṭipattiyā buddhaṁ pūjemi\
 Paramāya pūjāya
 
 <div class="english">
 
-> By this Dhamma practice according to the Dhamma
+> By this Dhamma practice according to the Dhamma\
 > I honour the Buddha with the highest honour
 
 </div>
@@ -135,8 +138,8 @@ Addhā imāya paṭipadāya jāti-jarā-byādhi-maraṇamhā parimuccissāmi
 
 <div class="english">
 
-> Surely by this way of practice
-> I will be free from birth  ̓  ageing  ̓  sickness and death
+> Surely by this way of practice\
+> I will be free from birth <span class="breathmark">'</span> ageing <span class="breathmark">'</span> sickness and death
 
 </div>
 
@@ -156,4 +159,4 @@ Idaṁ me puññaṁ Nibbānassa paccayo hotu
 
 </div>
 
-[Sri Lanka]
+<p style="text-align:right;">[Sri Lanka]</p>

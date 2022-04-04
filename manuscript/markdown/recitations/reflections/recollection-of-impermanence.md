@@ -1,156 +1,187 @@
 ## Recollection of Impermanence<a id="recollection-of-impermanence"></a>
-Anicc'ānussati
+Aniccānussati
+
+---
+<br>
 
 <center>
-〈 Handa mayaṁ anicc'ānussati-pāṭhaṁ bhaṇāmase 〉
+〈 Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase 〉
 </center>
 
 Sabbe saṅkhārā anicca
 
+<div class="english">
 
-All conditioned things are impermanent
+> All conditioned things are impermanent
 
+</div>
 
 Sabbe saṅkhārā dukkhā
 
+<div class="english">
 
-All conditioned things are dukkha
+> All conditioned things are dukkha
 
+</div>
 
 Sabbe dhammā anattā
 
-\linkdest{endnote104-body}
+<div class="english">
 
-All things are not-self\makeatletter\hyperlink{endnote104-appendix}\Hy@raisedlink{\hypertarget{endnote104-body}{}{\pagenote{%
-\hypertarget{endnote104-appendix}{\hyperlink{endnote104-body}{WPN: ``Everything is void of self''}}}}}\makeatother
+> All things are not-self<a href="appendix/endnotes.html#en104" style="text-decoration: none;"><sup>104</sup></a>
 
-
-[Dhp 277-279]
+</div>
 
 Addhuvaṁ jīvitaṁ
 
+<div class="english">
 
-Life is not for sure
+> Life is not for sure
 
+</div>
 
 Dhuvaṁ maraṇaṁ
 
+<div class="english">
 
-Death is for sure
+> Death is for sure
 
+</div>
 
 Avassaṁ mayā maritabbaṁ
 
+<div class="english">
 
-It is inevitable that I'll die
+> It is inevitable that I'll die
 
+</div>
 
 Maraṇa-pariyosānaṁ me jīvitaṁ
 
+<div class="english">
 
-Death is the culmination of my life
+> Death is the culmination of my life
 
+</div>
 
 Jīvitaṁ me aniyataṁ
 
+<div class="english">
 
-My life is uncertain
+> My life is uncertain
 
+</div>
 
 Maraṇaṁ me niyataṁ
 
+<div class="english">
 
-My death is certain
+> My death is certain
 
-
-[Dhp A]
-
-
+</div>
 
 Vata
 
+<div class="english">
 
-Indeed
+> Indeed
 
+</div>
 
 Ayaṁ kāyo
 
+<div class="english">
 
-This body
+> This body
 
+</div>
 
 Aciraṁ
 
+<div class="english">
 
-Will soon
+> Will soon
 
+</div>
 
 Apeta-viññāṇo
 
+<div class="english">
 
-Be void of consciousness
+> Be void of consciousness
 
+</div>
 
 Chuḍḍho
 
+<div class="english">
 
-And cast away
+> And cast away
 
+</div>
 
 Adhisessati
 
+<div class="english">
 
-It will lie
+> It will lie
 
+</div>
 
 Paṭhaviṁ
 
+<div class="english">
 
-On the ground
+> On the ground
 
+</div>
 
 Kaliṅgaraṁ iva
 
+<div class="english">
 
-Just like a rotten log
+> Just like a rotten log
 
+</div>
 
 Niratthaṁ
 
-\linkdest{endnote105-body}
+<div class="english">
 
-Useless\makeatletter\hyperlink{endnote105-appendix}\Hy@raisedlink{\hypertarget{endnote105-body}{}{\pagenote{%
-\hypertarget{endnote105-appendix}{\hyperlink{endnote105-body}{WPN: ``Completely void of use''}}}}}\makeatother
+> Useless<a href="appendix/endnotes.html#en105" style="text-decoration: none;"><sup>105</sup></a>
 
-
-[Dhp 41]
+</div>
 
 Aniccā vata saṅkhārā
 
+<div class="english">
 
-Indeed \breathmark\ conditioned things cannot last
+> Indeed  conditioned things cannot last
 
+</div>
 
 Uppāda-vaya-dhammino
 
-\linkdest{endnote106-body}
+<div class="english">
 
-Their nature is to rise and cease\makeatletter\hyperlink{endnote106-appendix}\Hy@raisedlink{\hypertarget{endnote106-body}{}{\pagenote{%
-\hypertarget{endnote106-appendix}{\hyperlink{endnote106-body}{WPN: ``Their nature is to rise and fall''}}}}}\makeatother
+> Their nature is to rise and cease<a href="appendix/endnotes.html#en106" style="text-decoration: none;"><sup>106</sup></a>
 
+</div>
 
 Uppajjitvā nirujjhanti
 
+<div class="english">
 
-Having arisen things must cease
+> Having arisen things must cease
 
+</div>
 
 Tesaṁ vūpasamo sukho
 
+<div class="english">
 
-Their stilling is true happiness
+> Their stilling is true happiness
 
+</div>
 
-[Trad]
-
-\bottomNav{yatha-vari-vaha-pura}
+<p style="text-align:right;">[Trad]</p>

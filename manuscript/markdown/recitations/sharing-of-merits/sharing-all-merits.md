@@ -1,54 +1,57 @@
 ## Sharing of All Merits<a id="sharing-all-merits"></a>
 Sabba-patti-dāna
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase 〉
 </center>
 
-Puññass’idāni katassa yān’aññāni katāni me
+Puññass’idāni katassa yān’aññāni katāni me\
 Tesañ'ca bhāgino hontu satt'ānant'āppamāṇakā
 
 <div class="english">
 
-> May whatever living beings
-> Without measure without end
-> Partake of all the merit
+> May whatever living beings\
+> Without measure without end\
+> Partake of all the merit\
 > From the good deeds I have done
 
 </div>
 
-Ye piyā guṇavantā ca mayhaṁ mātā-pitā-dayo
+Ye piyā guṇavantā ca mayhaṁ mātā-pitā-dayo\
 Diṭṭhā me c'āpy'adiṭṭhā vā aññe majjhatta-verino
 
 <div class="english">
 
-> Those loved and full of goodness
-> My mother and my father dear
-> Beings seen by me and those unseen
+> Those loved and full of goodness\
+> My mother and my father dear\
+> Beings seen by me and those unseen\
 > Those neutral and averse
 
 </div>
 
-Sattā tiṭṭhanti lokasmiṁ te bhummā catu-yonikā
-Pañc’eka-catu-vokārā saṁsarantā bhavābhave
+Sattā tiṭṭhanti lokasmiṁ te bhummā catu-yonikā\
+Pañc'eka-catu-vokārā saṁsarantā bhavābhave
 
 <div class="english">
 
-> Beings established in the world
-> From the three planes and four grounds of birth
-> With five aggregates or one or four
+> Beings established in the world\
+> From the three planes and four grounds of birth\
+> With five aggregates or one or four\
 > Wandering on from realm to realm
 
 </div>
 
-Ñātaṁ ye patti-dānam'me anumodantu te sayaṁ
+Ñātaṁ ye patti-dānam'me anumodantu te sayaṁ\
 Ye c’imaṁ nappajānanti devā tesaṁ nivedayuṁ
 
 <div class="english">
 
-> Those who know my act of dedication
-> May they all rejoice in it
-> And as for those yet unaware
+> Those who know my act of dedication\
+> May they all rejoice in it\
+> And as for those yet unaware\
 > May the devas let them know
 
 </div>
@@ -67,4 +70,4 @@ Khemappadañ'ca pappontu tesāsā sijjhataṁ subhā
 
 </div>
 
-[Thai]
+<p style="text-align:right;">[Thai]</p>

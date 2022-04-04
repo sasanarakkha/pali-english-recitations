@@ -1,86 +1,90 @@
 ## The Discourse on Setting in Motion the Wheel of Dhamma<a id="wheel-of-dhamma-full"></a>
+---
+<br>
 
-[Thus have I heard]
+<center>
+〈 Thus Have I Heard 〉
+</center>
 
-On one occasion the Blessed One was dwelling at Bārāṇasī  ̓  in the Deer Park at Isipatana. There the Blessed One addressed the bhikkhus of the group of five thus:
+On one occasion the Blessed One was dwelling at Bārāṇasī <span class="breathmark">'</span> in the Deer Park at Isipatana. There the Blessed One addressed the bhikkhus of the group of five thus:
 
-Bhikkhus these two extremes should not be followed by one who has gone forth into homelessness. What two? The pursuit of sensual happiness in sensual pleasures  ̓  which is low  ̓  vulgar  ̓  the way of worldlings  ̓  ignoble  ̓  unbeneficial  ̓  and the pursuit of self-mortification  ̓  which is painful  ̓  ignoble  ̓  unbeneficial.
+Bhikkhus these two extremes should not be followed by one who has gone forth into homelessness. What two? The pursuit of sensual happiness in sensual pleasures <span class="breathmark">'</span> which is low <span class="breathmark">'</span> vulgar <span class="breathmark">'</span> the way of worldlings <span class="breathmark">'</span> ignoble <span class="breathmark">'</span> unbeneficial <span class="breathmark">'</span> and the pursuit of self-mortification <span class="breathmark">'</span> which is painful <span class="breathmark">'</span> ignoble <span class="breathmark">'</span> unbeneficial.
 
-Without veering towards either of these extremes  ̓  the Tathāgata has awakened to the middle way  ̓  which gives rise to vision  ̓  which gives rise to knowledge  ̓  which leads to peace  ̓  to direct knowledge  ̓  to enlightenment  ̓  to Nibbāna.
+Without veering towards either of these extremes <span class="breathmark">'</span> the Tathāgata has awakened to the middle way <span class="breathmark">'</span> which gives rise to vision <span class="breathmark">'</span> which gives rise to knowledge <span class="breathmark">'</span> which leads to peace <span class="breathmark">'</span> to direct knowledge <span class="breathmark">'</span> to enlightenment <span class="breathmark">'</span> to Nibbāna.
 
-And what  ̓  bhikkhus  ̓  is the Middle Way awakened to by the Tathāgata which gives rise to vision  ̓  which gives rise to knowledge  ̓  which leads to peace  ̓  to direct knowledge  ̓  to enlightenment  ̓  to Nibbāna.
+And what <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> is the Middle Way awakened to by the Tathāgata which gives rise to vision <span class="breathmark">'</span> which gives rise to knowledge <span class="breathmark">'</span> which leads to peace <span class="breathmark">'</span> to direct knowledge <span class="breathmark">'</span> to enlightenment <span class="breathmark">'</span> to Nibbāna.
 
 It is this Noble Eightfold Path:
 
-That Is  ̓  Right View  ̓  Right Intention  ̓  Right Speech  ̓  Right Action  ̓  Right Livelihood  ̓  Right Effort  ̓  Right Mindfulness  ̓  Right Concentration.
+That Is <span class="breathmark">'</span> Right View <span class="breathmark">'</span> Right Intention <span class="breathmark">'</span> Right Speech <span class="breathmark">'</span> Right Action <span class="breathmark">'</span> Right Livelihood <span class="breathmark">'</span> Right Effort <span class="breathmark">'</span> Right Mindfulness <span class="breathmark">'</span> Right Concentration.
 
-This  ̓  bhikkhus  ̓  is that middle way awakened to by the Tathāgata  ̓  which gives rise to vision  ̓  which gives rise to knowledge  ̓  which leads to peace  ̓  to direct knowledge  ̓  to enlightenment  ̓  to Nibbāna.
+This <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> is that middle way awakened to by the Tathāgata <span class="breathmark">'</span> which gives rise to vision <span class="breathmark">'</span> which gives rise to knowledge <span class="breathmark">'</span> which leads to peace <span class="breathmark">'</span> to direct knowledge <span class="breathmark">'</span> to enlightenment <span class="breathmark">'</span> to Nibbāna.
 
-Now this  ̓  bhikkhus  ̓  is the noble truth of suffering: birth is suffering  ̓  ageing is suffering  ̓  illness is suffering  ̓  death is suffering  ̓  union with what is displeasing is suffering  ̓  separation from what is pleasing is suffering  ̓  not to get what one wants is suffering  ̓  in brief  ̓  the five aggregates subject to clinging are suffering.
+Now this <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> is the noble truth of suffering: birth is suffering <span class="breathmark">'</span> ageing is suffering <span class="breathmark">'</span> illness is suffering <span class="breathmark">'</span> death is suffering <span class="breathmark">'</span> union with what is displeasing is suffering <span class="breathmark">'</span> separation from what is pleasing is suffering <span class="breathmark">'</span> not to get what one wants is suffering <span class="breathmark">'</span> in brief <span class="breathmark">'</span> the five aggregates subject to clinging are suffering.
 
-Now this  ̓  bhikkhus  ̓  is the noble truth of the origin of suffering: it is this craving which leads to renewed existence  ̓  accompanied by delight and lust  ̓  seeking delight here and there  ̓  that is  ̓  craving for sensual pleasures  ̓  craving for existence  ̓  craving for extermination.
+Now this <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> is the noble truth of the origin of suffering: it is this craving which leads to renewed existence <span class="breathmark">'</span> accompanied by delight and lust <span class="breathmark">'</span> seeking delight here and there <span class="breathmark">'</span> that is <span class="breathmark">'</span> craving for sensual pleasures <span class="breathmark">'</span> craving for existence <span class="breathmark">'</span> craving for extermination.
 
-Now this  ̓  bhikkhus  ̓  is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation of that same craving  ̓  the giving up and relinquishing of it  ̓  freedom from it  ̓  nonreliance on it.
+Now this <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation of that same craving <span class="breathmark">'</span> the giving up and relinquishing of it <span class="breathmark">'</span> freedom from it <span class="breathmark">'</span> nonreliance on it.
 
-Now this  ̓  bhikkhus  ̓  is the noble truth of the way leading to the cessation of suffering: It is this Noble Eightfold Path;
+Now this <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> is the noble truth of the way leading to the cessation of suffering: It is this Noble Eightfold Path;
 
-That Is  ̓  Right View  ̓  Right Intention  ̓  Right Speech  ̓  Right Action  ̓  Right Livelihood  ̓  Right Effort  ̓  Right Mindfulness  ̓  Right Concentration.
+That Is <span class="breathmark">'</span> Right View <span class="breathmark">'</span> Right Intention <span class="breathmark">'</span> Right Speech <span class="breathmark">'</span> Right Action <span class="breathmark">'</span> Right Livelihood <span class="breathmark">'</span> Right Effort <span class="breathmark">'</span> Right Mindfulness <span class="breathmark">'</span> Right Concentration.
 
-This is the noble truth of suffering’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This is the noble truth of suffering': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This noble truth of suffering is to be fully understood’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This noble truth of suffering is to be fully understood': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This noble truth of suffering has been fully understood’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This noble truth of suffering has been fully understood': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This is the noble truth of the origin of suffering’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This is the noble truth of the origin of suffering': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This noble truth of the origin of suffering is to be abandoned’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This noble truth of the origin of suffering is to be abandoned': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This noble truth of the origin of suffering has been abandoned’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This noble truth of the origin of suffering has been abandoned': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This is the noble truth of the cessation of suffering’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This is the noble truth of the cessation of suffering': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This noble truth of the cessation of suffering is to be realized’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This noble truth of the cessation of suffering is to be realized': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This noble truth of the cessation of suffering has been realized’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This noble truth of the cessation of suffering has been realized': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This is the noble truth of the way leading to the cessation of suffering’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This is the noble truth of the way leading to the cessation of suffering': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This noble truth of the way leading to the cessation of suffering is to be developed’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This noble truth of the way leading to the cessation of suffering is to be developed': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-This noble truth of the way leading to the cessation of suffering has been developed’: thus  ̓  bhikkhus  ̓  in regard to things unheard before  ̓  there arose in me vision  ̓  knowledge  ̓  wisdom  ̓  true knowledge  ̓  and light.
+This noble truth of the way leading to the cessation of suffering has been developed': thus <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> in regard to things unheard before <span class="breathmark">'</span> there arose in me vision <span class="breathmark">'</span> knowledge <span class="breathmark">'</span> wisdom <span class="breathmark">'</span> true knowledge <span class="breathmark">'</span> and light.
 
-So long  ̓  bhikkhus  ̓  as my knowledge and vision of these Four Noble Truths as they really are in their three phases and twelve aspects was not thoroughly purified in this way  ̓  I did not claim to have awakened to the unsurpassed perfect enlightenment in this world with its devas  ̓  Māra  ̓  and Brahmā  ̓  in this generation with its ascetics and brahmins  ̓  its devas and humans.
+So long <span class="breathmark">'</span> bhikkhus <span class="breathmark">'</span> as my knowledge and vision of these Four Noble Truths as they really are in their three phases and twelve aspects was not thoroughly purified in this way <span class="breathmark">'</span> I did not claim to have awakened to the unsurpassed perfect enlightenment in this world with its devas <span class="breathmark">'</span> Māra <span class="breathmark">'</span> and Brahmā <span class="breathmark">'</span> in this generation with its ascetics and brahmins <span class="breathmark">'</span> its devas and humans.
 
-But when my knowledge and vision of these Four Noble Truths as they really are in their three phases and twelve aspects was thoroughly purified in this way  ̓  then I claimed to have awakened to the unsurpassed perfect enlightenment in this world with its devas  ̓  Māra  ̓  and Brahmā  ̓  in this generation with its ascetics and brahmins  ̓  its devas and humans.
+But when my knowledge and vision of these Four Noble Truths as they really are in their three phases and twelve aspects was thoroughly purified in this way <span class="breathmark">'</span> then I claimed to have awakened to the unsurpassed perfect enlightenment in this world with its devas <span class="breathmark">'</span> Māra <span class="breathmark">'</span> and Brahmā <span class="breathmark">'</span> in this generation with its ascetics and brahmins <span class="breathmark">'</span> its devas and humans.
 
-This is what the Blessed One said. Elated  ̓  the bhikkhus of the group of five delighted in the Blessed One’s statement.
+This is what the Blessed One said. Elated <span class="breathmark">'</span> the bhikkhus of the group of five delighted in the Blessed One's statement.
 
-And while this discourse was being spoken  ̓  there arose in the Venerable Kondañña the dust-free  ̓  stainless vision of the Dhamma:
+And while this discourse was being spoken <span class="breathmark">'</span> there arose in the Venerable Kondañña the dust-free <span class="breathmark">'</span> stainless vision of the Dhamma:
 
 “Whatever is subject to origination is all subject to cessation.”
 
 And when the Wheel of the Dhamma had been set in motion by the Blessed One, the earth-dwelling devas raised a cry:
 
-“At Bārāṇasī in the Deer Park at Isipatana  ̓  this unsurpassed Wheel of the Dhamma has been set in motion by the Blessed One  ̓  which cannot be stopped by any ascetic or brahmin or deva or Māra or Brahmā or by anyone in the world.”
+“At Bārāṇasī in the Deer Park at Isipatana <span class="breathmark">'</span> this unsurpassed Wheel of the Dhamma has been set in motion by the Blessed One <span class="breathmark">'</span> which cannot be stopped by any ascetic or brahmin or deva or Māra or Brahmā or by anyone in the world.”
 
-Having heard the cry of the earth-dwelling devas  ̓  the devas of the realm of the Four Great Kings raised a cry …
+Having heard the cry of the earth-dwelling devas <span class="breathmark">'</span> the devas of the realm of the Four Great Kings raised a cry...
 
-Having heard the cry of the devas of the realm of the Four Great Kings  ̓  the Tāvatiṁsa devas raised a cry …
+Having heard the cry of the devas of the realm of the Four Great Kings <span class="breathmark">'</span> the Tāvatiṁsa devas raised a cry...
 
-Having heard the cry of the Tāvatiṁsa devas  ̓  the Yāma devas raised a cry …
+Having heard the cry of the Tāvatiṁsa devas <span class="breathmark">'</span> the Yāma devas raised a cry...
 
-Having heard the cry of the Yāma devas  ̓  the Tusita devas raised a cry …
+Having heard the cry of the Yāma devas <span class="breathmark">'</span> the Tusita devas raised a cry...
 
-Having heard the cry of the Tusita devas  ̓  the Nimmānaratī devas raised a cry …
+Having heard the cry of the Tusita devas <span class="breathmark">'</span> the Nimmānaratī devas raised a cry...
 
-Having heard the cry of the Nimmānaratī devas  ̓  the Paranimmitavasavattī devas raised a cry …
+Having heard the cry of the Nimmānaratī devas <span class="breathmark">'</span> the Paranimmitavasavattī devas raised a cry...
 
-Having heard the cry of the Paranimmitavasavattī devas  ̓  the devas of Brahmā’s company raised a cry:
+Having heard the cry of the Paranimmitavasavattī devas <span class="breathmark">'</span> the devas of Brahmā's company raised a cry:
 
-“At Bārāṇasī in the Deer Park at Isipatana  ̓  this unsurpassed Wheel of the Dhamma has been set in motion by the Blessed One  ̓  which cannot be stopped by any ascetic or brahmin or deva or Māra or Brahmā or by anyone in the world.”
+“At Bārāṇasī in the Deer Park at Isipatana <span class="breathmark">'</span> this unsurpassed Wheel of the Dhamma has been set in motion by the Blessed One <span class="breathmark">'</span> which cannot be stopped by any ascetic or brahmin or deva or Māra or Brahmā or by anyone in the world.”
 
-Thus at that moment  ̓  at that instant  ̓  at that second  ̓  the cry spread as far as the brahmā world  ̓  and this ten thousandfold world system shook  ̓  quaked  ̓  and trembled  ̓  and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas.
+Thus at that moment <span class="breathmark">'</span> at that instant <span class="breathmark">'</span> at that second <span class="breathmark">'</span> the cry spread as far as the brahmā world <span class="breathmark">'</span> and this ten thousandfold world system shook <span class="breathmark">'</span> quaked <span class="breathmark">'</span> and trembled <span class="breathmark">'</span> and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas.
 
 Then the Blessed One uttered this inspired utterance:
 
@@ -88,4 +92,4 @@ Then the Blessed One uttered this inspired utterance:
 
 In this way the Venerable Koṇḍañña acquired the name “Aññā Koṇḍañña—Koṇḍañña Who Has Understood.”
 
-[SN 56.11]
+<p style="text-align:right;">[SN 56.11]</p>

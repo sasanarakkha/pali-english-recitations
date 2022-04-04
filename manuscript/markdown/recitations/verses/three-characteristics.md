@@ -1,23 +1,26 @@
 ## The Three Characteristics<a id="three-characteristics"></a>
 Ti-lakkhaṇā
 
+---
+<br>
+
 <center>
-〈 Handa mayaṁ ti-lakkhaṇ’ādi-gāthāyo bhaṇāmase 〉
+〈 Handa mayaṁ ti-lakkhaṇ'ādi-gāthāyo bhaṇāmase 〉
 </center>
 
-Sabbe saṅkhārā aniccā’ti – Yadā paññāya passati\
+Sabbe saṅkhārā aniccā'ti – Yadā paññāya passati\
 Atha nibbindati dukkhe – Esa maggo visuddhiyā
 
 <div class="english">
 
-> “All conditioned things are impermanent”\
+> “All conditioned things are impermanent”<a href="appendix/endnotes.html#en34" style="text-decoration: none;"><sup>34</sup></a>\
 > When with wisdom this is seen\
-> One feels weary of all dukkha\
+> One feels weary of all dukkha<a href="appendix/endnotes.html#en35" style="text-decoration: none;"><sup>35</sup></a>\
 > This is the path to purity
 
 </div>
 
-Sabbe saṅkhārā dukkhā’ti – Yadā paññāya passati\
+Sabbe saṅkhārā dukkhā'ti – Yadā paññāya passati\
 Atha nibbindati dukkhe – Esa maggo visuddhiyā
 
 <div class="english">
@@ -29,19 +32,19 @@ Atha nibbindati dukkhe – Esa maggo visuddhiyā
 
 </div>
 
-Sabbe dhammā anattā’ti – Yadā paññāya passati\
+Sabbe dhammā anattā'ti – Yadā paññāya passati\
 Atha nibbindati dukkhe – Esa maggo visuddhiyā
 
 <div class="english">
 
-> “All things are not-self”\
+> “All things are not-self”<a href="appendix/endnotes.html#en36" style="text-decoration: none;"><sup>36</sup></a>\
 > When with wisdom this is seen\
 > One feels weary of all dukkha\
 > This is the path to purity
 
 </div>
 
-[Dhp 183-185]
+<p style="text-align:right;">[Dhp 183-185]</p>
 
 Appakā te manussesu – Ye janā pāra-gāmino\
 Ath'āyaṁ itarā pajā – Tīram'ev'ānudhāvati
@@ -75,12 +78,12 @@ Tatr'ābhiratim'iccheyya – Hitvā kāme akiñcano
 
 > Abandoning the darker states\
 > The wise pursue the bright\
-> Gone from home to homelessness\
-> Living withdrawn so hard to enjoy\
+> Gone from home to homelessness<a href="appendix/endnotes.html#en37" style="text-decoration: none;"><sup>37</sup></a>\
+> Living withdrawn so hard to enjoy<a href="appendix/endnotes.html#en38" style="text-decoration: none;"><sup>38</sup></a>\
 > Such rare delight one should desire\
 > Sense pleasures cast away\
 > Not having anything
 
 </div>
 
-[Dhp 85-87.5]
+<p style="text-align:right;">[Dhp 85-87.5]</p>

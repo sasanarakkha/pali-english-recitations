@@ -1,4 +1,8 @@
 ## Homage to the Dhamma<a id="homage-dhamma"></a>
+Dhamm’ābhitthuti
+
+---
+<br>
 
 <center>
 〈 Handa mayaṁ dhamm'ābhitthutiṁ karomase 〉<br>
@@ -57,7 +61,7 @@ Tam'ahaṁ dhammaṁ abhipūjayāmi tam'ahaṁ dhammaṁ sirasā namāmi
 
 <div class="english">
 
-> I chant my praise to this teaching
+> I chant my praise to this teaching\
 > I bow my head to this truth (Bow)
 
 </div>

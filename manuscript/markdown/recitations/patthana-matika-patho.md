@@ -1,1 +1,0 @@
-# Paṭṭhāna-mātikā-pāṭho

@@ -1,7 +1,10 @@
 ## Dhammacakkappavattana-sutta<a id="dhammacakkappavattana-full"></a>
+---
+<br>
 
-TODO: Shall we seperate and center this?
-[Evaṁ me sutaṁ]
+<center>
+〈 Evaṁ me sutaṁ 〉
+</center>
 
 Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
 
@@ -90,10 +93,10 @@ Paranimmitavasavattīnaṁ devānaṁ saddaṁ sutvā Brahmakāyikā devā sadda
 
 “Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti.
 
-Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkam'pi sampakam'pi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkamm'eva devānaṁ dev'ānubhāvaṁ.
+Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkampi sampakampi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkammeva devānaṁ devānubhāvaṁ.
 
 Atha kho bhagavā udānaṁ udānesi:
 
-“Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño”ti. Iti h'idaṁ āyasmato koṇḍaññassa aññākoṇḍañño tv'eva nāmaṁ ahosī’ti.
+“Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño”ti. Itihidaṁ āyasmato koṇḍaññassa aññākoṇḍañño tveva nāmaṁ ahosī'ti.
 
-[SN 56.11]
+<p style="text-align:right;">[SN 56.11]</p>

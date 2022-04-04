@@ -1,5 +1,8 @@
 ## Going to True and False Refuges<a id="true-false-refuges"></a>
-Khem'ākhema-saraṇa-gamana
+Khem’ākhema-saraṇa-gamana
+
+---
+<br>
 
 Bahuṁ ve saraṇaṁ yanti – Pabbatāni vanāni ca\
 Ārāma-rukkha-cetyāni – Manussā bhaya-tajjitā
@@ -21,7 +24,7 @@ N'etaṁ saraṇam'āgamma – Sabba-dukkhā pamuccati
 > Such a refuge is not secure\
 > Such a refuge is not supreme\
 > Such a refuge does not bring\
-> Complete release from all suffering
+> Complete release from all suffering<a href="appendix/endnotes.html#en32" style="text-decoration: none;"><sup>32</sup></a>
 
 </div>
 
@@ -61,4 +64,4 @@ Etaṁ saraṇam'āgamma – Sabba-dukkhā pamuccatī'ti.
 
 </div>
 
-[Dhp 188-192]
+<p style="text-align:right;">[Dhp 188-192]</p>

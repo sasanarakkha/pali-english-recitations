@@ -1,4 +1,6 @@
 ## Requisites for Awakening<a id="requisites-for-awakening"></a>
+---
+<br>
 
 <center><center>
 〈 Handa mayaṁ bodhipakkhiya-dhamma-pāṭhaṁ bhaṇāmase 〉
@@ -132,4 +134,4 @@ Ariyo aṭṭhaṅgiko maggo
 
 </div>
 
-[DN 16]
+<p style="text-align:right;">[DN 16]</p>

@@ -12,7 +12,7 @@ Monk Training Centre, who contributed in the compilation of an
 interesting selection of chants, as well as for providing countless
 suggestions to help improve the English translations.
 
-Additional information on translations, as well as deviations<a href="#endnote1-appendix"><sup>1</sup></a> from WPN <em>Buddhist Chanting</em> (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
+Additional information on translations, as well as deviations<a href="appendix/endnotes.html#en1" style="text-decoration: none;"><sup>1</sup></a> from WPN <em>Buddhist Chanting</em> (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
 
 <center>
 To Āyasmā Aggacitta, the founding father of<br>

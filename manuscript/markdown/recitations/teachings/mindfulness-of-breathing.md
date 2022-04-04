@@ -1,6 +1,9 @@
 ## Mindfulness of Breathing<a id="mindfulness-of-breathing"></a>
 Ānāpānassati
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase 〉
 </center>
@@ -121,7 +124,7 @@ Nisīdati pallaṅkaṁ ābhujitvā
 
 <div class="english">
 
-> Sits down  ̓  having crossed his legs
+> Sits down <span class="breathmark">'</span> having crossed his legs
 
 </div>
 
@@ -129,129 +132,112 @@ Ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā
 
 <div class="english">
 
-> Sets his body erect
+> Sets his body erect\
 > Having established mindfulness in front of him
 
 </div>
 
-So sato’va assasati sato’va passasati
+So sato'va assasati sato'va passasati
 
 <div class="english">
 
-> Ever mindful he breathes in
+> Ever mindful he breathes in\
 > Mindful he breathes out
 
 </div>
 
-Dīghaṁ vā assasanto dīghaṁ assasāmī’ti pajānāti
+Dīghaṁ vā assasanto dīghaṁ assasāmī'ti pajānāti
 
 <div class="english">
 
-> Breathing in long he knows ‘I breathe in long’
+> Breathing in long he knows 'I breathe in long'
 
 </div>
 
-Dīghaṁ vā passasanto dīghaṁ passasāmī’ti pajānāti
+Dīghaṁ vā passasanto dīghaṁ passasāmī'ti pajānāti
 
 <div class="english">
 
-> Breathing out long he knows ‘I breathe out long’
+> Breathing out long he knows 'I breathe out long'
 
 </div>
 
-Rassaṁ vā assasanto rassaṁ assasāmī’ti pajānāti
+Rassaṁ vā assasanto rassaṁ assasāmī'ti pajānāti
 
 <div class="english">
 
-> Breathing in short he knows ‘I breathe in short’
+> Breathing in short he knows 'I breathe in short'
 
 </div>
 
-Rassaṁ vā passasanto rassaṁ passasāmī’ti pajānāti
+Rassaṁ vā passasanto rassaṁ passasāmī'ti pajānāti
 
 <div class="english">
 
-> Breathing out short he knows ‘I breathe out short’
+> Breathing out short he knows 'I breathe out short'
 
 </div>
 
-Sabba-kāya-paṭisaṁvedī assasissāmī’ti sikkhati
+Sabba-kāya-paṭisaṁvedī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus:
-> ‘I shall breathe in experiencing the whole body’
+> He trains thus:\
+> 'I shall breathe in experiencing the whole body'
 
 </div>
 
-Sabba-kāya-paṭisaṁvedī passasissāmī’ti sikkhati
+Sabba-kāya-paṭisaṁvedī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus:
-> ‘I shall breathe out experiencing the whole body’
+> He trains thus:\
+> 'I shall breathe out experiencing the whole body'
 
 </div>
 
-Passambhayaṁ kāya-saṅkhāraṁ assasissāmī’ti sikkhati
+Passambhayaṁ kāya-saṅkhāraṁ assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus:
-> ‘I shall breathe in tranquillizing the bodily formation’
+> He trains thus:\
+> 'I shall breathe in tranquillizing the bodily formation'<a href="appendix/endnotes.html#en68" style="text-decoration: none;"><sup>68</sup></a>
 
 </div>
 
-Passambhayaṁ kāya-saṅkhāraṁ passasissāmī’ti sikkhati
+Passambhayaṁ kāya-saṅkhāraṁ passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus:
-> ‘I shall breathe out tranquillizing the bodily formation’
+> He trains thus:\
+> 'I shall breathe out tranquillizing the bodily formation'
 
 </div>
 
-Pīti-paṭisaṁvedī assasissāmī’ti sikkhati
+Pīti-paṭisaṁvedī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus:
-> ‘I shall breathe in experiencing rapture’
+> He trains thus:\
+> 'I shall breathe in experiencing rapture'
 
 </div>
 
-Pīti-paṭisaṁvedī passasissāmī’ti sikkhati
+Pīti-paṭisaṁvedī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus:
-> ‘I shall breathe out experiencing rapture’
+> He trains thus:\
+> 'I shall breathe out experiencing rapture'
 
 </div>
 
-Sukha-paṭisaṁvedī assasissāmī’ti sikkhati
+Sukha-paṭisaṁvedī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus:
-> ‘I shall breathe in experiencing pleasure’
-
-</div>
-
-Sukha-paṭisaṁvedī passasissāmī’ti sikkhati
-
-<div class="english">
-
-> He trains thus:
-> ‘I shall breathe out experiencing pleasure’
-
-</div>
-
-TODO: missing pali
-
-<div class="english">
-
-> He trains thus: `I shall breathe in experiencing pleasure'
+> He trains thus:\
+> 'I shall breathe in experiencing pleasure'
 
 </div>
 
@@ -259,7 +245,8 @@ Sukha-paṭisaṁvedī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out experiencing pleasure'.
+> He trains thus:\
+> 'I shall breathe out experiencing pleasure'
 
 </div>
 
@@ -267,7 +254,8 @@ Citta-saṅkhāra-paṭisaṁvedī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in experiencing the mental formations'.
+> He trains thus:\
+> `I shall breathe in experiencing the mental formations'<a href="appendix/endnotes.html#en69" style="text-decoration: none;"><sup>69</sup></a>
 
 </div>
 
@@ -275,7 +263,8 @@ Citta-saṅkhāra-paṭisaṁvedī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out experiencing the mental formations'.
+> He trains thus:\
+> `I shall breathe out experiencing the mental formations'<a href="appendix/endnotes.html#en70" style="text-decoration: none;"><sup>70</sup></a>
 
 </div>
 
@@ -283,7 +272,8 @@ Passambhayaṁ citta-saṅkhāraṁ assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in tranquillizing the mental formations'.
+> He trains thus:\
+> `I shall breathe in tranquillizing the mental formations'
 
 </div>
 
@@ -291,7 +281,8 @@ Passambhayaṁ citta-saṅkhāraṁ passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out tranquillizing the mental formations'.
+> He trains thus:\
+> `I shall breathe out tranquillizing the mental formations'
 
 </div>
 
@@ -299,7 +290,8 @@ Citta-paṭisaṁvedī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in experiencing the mind'.
+> He trains thus:\
+> `I shall breathe in experiencing the mind'
 
 </div>
 
@@ -307,7 +299,8 @@ Citta-paṭisaṁvedī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out experiencing the mind'.
+> He trains thus:\
+> `I shall breathe out experiencing the mind'
 
 </div>
 
@@ -315,7 +308,8 @@ Abhippamodayaṁ cittaṁ assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in gladdening the mind'.
+> He trains thus:\
+> `I shall breathe in gladdening the mind'
 
 </div>
 
@@ -323,7 +317,8 @@ Abhippamodayaṁ cittaṁ passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out gladdening the mind'.
+> He trains thus:\
+> `I shall breathe out gladdening the mind'
 
 </div>
 
@@ -331,7 +326,8 @@ Samādahaṁ cittaṁ assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in concentrating the mind'
+> He trains thus:\
+> `I shall breathe in concentrating the mind'
 
 </div>
 
@@ -339,7 +335,8 @@ Samādahaṁ cittaṁ passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out concentrating the mind'.
+> He trains thus:\
+> `I shall breathe out concentrating the mind'
 
 </div>
 
@@ -347,7 +344,8 @@ Vimocayaṁ cittaṁ assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in liberating the mind'.
+> He trains thus:\
+> `I shall breathe in liberating the mind'
 
 </div>
 
@@ -355,7 +353,8 @@ Vimocayaṁ cittaṁ passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out liberating the mind'.
+> He trains thus:\
+> `I shall breathe out liberating the mind'
 
 </div>
 
@@ -363,7 +362,8 @@ Anicc'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in contemplating impermanence'.
+> He trains thus:\
+> `I shall breathe in contemplating impermanence'
 
 </div>
 
@@ -371,7 +371,8 @@ Anicc'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out contemplating impermanence'.
+> He trains thus:\
+> `I shall breathe out contemplating impermanence'
 
 </div>
 
@@ -379,7 +380,8 @@ Virāg'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in contemplating the fading away of passions'.
+> He trains thus:\
+> `I shall breathe in contemplating the fading away of passions'
 
 </div>
 
@@ -387,7 +389,8 @@ Virāg'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out contemplating the fading away of passions'.
+> He trains thus:\
+> `I shall breathe out contemplating the fading away of passions'
 
 </div>
 
@@ -395,7 +398,8 @@ Nirodh'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in contemplating cessation'.
+> He trains thus:\
+> `I shall breathe in contemplating cessation'
 
 </div>
 
@@ -403,7 +407,8 @@ Nirodh'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out contemplating cessation'.
+> He trains thus:\
+> `I shall breathe out contemplating cessation'
 
 </div>
 
@@ -411,7 +416,8 @@ Paṭinissagg'ānupassī assasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe in contemplating relinquishment'.
+> He trains thus:\
+> `I shall breathe in contemplating relinquishment'
 
 </div>
 
@@ -419,7 +425,8 @@ Paṭinissagg'ānupassī passasissāmī'ti sikkhati
 
 <div class="english">
 
-> He trains thus: `I shall breathe out contemplating relinquishment'.
+> He trains thus:\
+> `I shall breathe out contemplating relinquishment'
 
 </div>
 
@@ -435,8 +442,8 @@ Mahapphalā hoti mah'ānisaṁsā'ti
 
 <div class="english">
 
-> So that it is of great fruit and great benefit.
+> So that it is of great fruit and great benefit
 
 </div>
 
-[MN 118]
+<p style="text-align:right;">[MN 118]

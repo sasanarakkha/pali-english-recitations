@@ -1,6 +1,9 @@
 ## Setting in Motion the Wheel of Dhamma<a id="wheel-of-dhamma-abridged"></a>
 Dhamma-cakkappavattana
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ dhamma-cakkappavattana sutta-pāṭhaṁ bhaṇāmase 〉
 </center>
@@ -17,11 +20,11 @@ Pabbajitena na sevitabbā
 
 <div class="english">
 
-> That should not be pursued  ̓  by one who has gone forth
+> That should not be pursued <span class="breathmark">'</span> by one who has gone forth
 
 </div>
 
-Yo c'āyaṁ kāmesu kāma-sukh’allikānuyogo
+Yo c'āyaṁ kāmesu kāma-sukh'allikānuyogo
 
 <div class="english">
 
@@ -173,7 +176,7 @@ Ayam'eva ariyo aṭṭhaṅgiko maggo
 
 <div class="english">
 
-> It is just this Noble Eightfold Path
+> It is just this Noble Eightfold Path<a href="appendix/endnotes.html#en51" style="text-decoration: none;"><sup>51</sup></a>
 
 </div>
 
@@ -334,7 +337,7 @@ Byādhi'pi dukkho
 
 <div class="english">
 
-> Sickness is dukkha
+> Sickness is dukkha<a href="appendix/endnotes.html#en52" style="text-decoration: none;"><sup>52</sup></a>
 
 </div>
 
@@ -350,7 +353,7 @@ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
 <div class="english">
 
-> Sorrow lamentation pain displeasure and despair are dukkha
+> Sorrow lamentation pain displeasure<a href="appendix/endnotes.html#en53" style="text-decoration: none;"><sup>53</sup></a> and despair are dukkha
 
 </div>
 
@@ -374,7 +377,7 @@ Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 <div class="english">
 
-> Not attaining one’s wishes is dukkha
+> Not attaining one's wishes is dukkha
 
 </div>
 
@@ -382,7 +385,7 @@ Saṅkhittena pañc'upādānakkhandhā dukkhā
 
 <div class="english">
 
-> In brief  ̓  the five aggregates of clinging are dukkha
+> In brief <span class="breathmark">'</span> the five aggregates of clinging are dukkha<a href="appendix/endnotes.html#en54" style="text-decoration: none;"><sup>54</sup></a>
 
 </div>
 
@@ -394,7 +397,7 @@ Idaṁ kho pana bhikkhave dukkha-samudayo ariya-saccaṁ
 
 </div>
 
-Yā’yaṁ taṇhā
+Yā'yaṁ taṇhā
 
 <div class="english">
 
@@ -466,7 +469,7 @@ Idaṁ kho pana bhikkhave dukkha-nirodho ariya-saccaṁ
 
 </div>
 
-Yo tassāy’eva taṇhāya asesa-virāga-nirodho
+Yo tassāy'eva taṇhāya asesa-virāga-nirodho
 
 <div class="english">
 
@@ -516,7 +519,7 @@ Idaṁ kho pana bhikkhave dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ
 
 </div>
 
-Ayam'eva ariyo aṭṭh’aṅgiko maggo
+Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
 <div class="english">
 
@@ -596,7 +599,7 @@ Sammā-samādhi
 
 </div>
 
-Idaṁ dukkhaṁ ariya-saccan’ti me bhikkhave\
+Idaṁ dukkhaṁ ariya-saccan'ti me bhikkhave\
 Pubbe ananussutesu dhammesu\
 Cakkhuṁ udapādi\
 Ñāṇaṁ udapādi\
@@ -611,21 +614,21 @@ Vijjā udapādi\
 > Insight arose\
 > Discernment arose\
 > Knowledge arose\
-> Light arose in me\
+> Light arose in me<a href="appendix/endnotes.html#en55" style="text-decoration: none;"><sup>55</sup></a>\
 > “This is the Noble Truth of dukkha”
 
 </div>
 
-Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññeyyan’ti
+Taṁ kho pan'idaṁ dukkhaṁ ariya-saccaṁ pariññeyyan'ti
 
 <div class="english">
 
-> This Noble Truth of dukkha\
+> This Noble Truth of dukkha<a href="appendix/endnotes.html#en56" style="text-decoration: none;"><sup>56</sup></a>\
 > Should be completely understood
 
 </div>
 
-Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññātan’ti
+Taṁ kho pan'idaṁ dukkhaṁ ariya-saccaṁ pariññātan'ti
 
 <div class="english">
 
@@ -634,7 +637,7 @@ Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññātan’ti
 
 </div>
 
-Idaṁ dukkha-samudayo ariya-saccan’ti me bhikkhave\
+Idaṁ dukkha-samudayo ariya-saccan'ti me bhikkhave\
 Pubbe ananussutesu dhammesu\
 Cakkhuṁ udapādi\
 Ñāṇaṁ udapādi\
@@ -654,7 +657,7 @@ Vijjā udapādi\
 
 </div>
 
-Taṁ kho pan’idaṁ dukkha-samudayo ariya-saccaṁ pahātabban’ti
+Taṁ kho pan'idaṁ dukkha-samudayo ariya-saccaṁ pahātabban'ti
 
 <div class="english">
 
@@ -663,7 +666,7 @@ Taṁ kho pan’idaṁ dukkha-samudayo ariya-saccaṁ pahātabban’ti
 
 </div>
 
-Taṁ kho pan’idaṁ dukkha-samudayo ariya-saccaṁ pahīnan’ti
+Taṁ kho pan'idaṁ dukkha-samudayo ariya-saccaṁ pahīnan'ti
 
 <div class="english">
 
@@ -672,7 +675,7 @@ Taṁ kho pan’idaṁ dukkha-samudayo ariya-saccaṁ pahīnan’ti
 
 </div>
 
-Idaṁ dukkha-nirodho ariya-saccan’ti me bhikkhave\
+Idaṁ dukkha-nirodho ariya-saccan'ti me bhikkhave\
 Pubbe ananussutesu dhammesu\
 Cakkhuṁ udapādi\
 Ñāṇaṁ udapādi\
@@ -692,7 +695,7 @@ Vijjā udapādi\
 
 </div>
 
-Taṁ kho pan’idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban’ti
+Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban'ti
 
 <div class="english">
 
@@ -701,7 +704,7 @@ Taṁ kho pan’idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban’ti
 
 </div>
 
-Taṁ kho pan’idaṁ dukkha-nirodho ariya-saccaṁ sacchikatan’ti
+Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchikatan'ti
 
 <div class="english">
 
@@ -710,7 +713,7 @@ Taṁ kho pan’idaṁ dukkha-nirodho ariya-saccaṁ sacchikatan’ti
 
 </div>
 
-Idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccan’ti me bhikkhave\
+Idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccan'ti me bhikkhave\
 Pubbe ananussutesu dhammesu\
 Cakkhuṁ udapādi\
 Ñāṇaṁ udapādi\
@@ -731,40 +734,40 @@ Vijjā udapādi\
 
 </div>
 
-Taṁ kho pan’idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvetabban’ti
+Taṁ kho pan'idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvetabban'ti
 
 <div class="english">
 
-> This way of practice  ̓  leading to the cessation of dukkha\
+> This way of practice <span class="breathmark">'</span> leading to the cessation of dukkha\
 > Should be developed
 
 </div>
 
-Taṁ kho pan’idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvitan’ti
+Taṁ kho pan'idaṁ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ bhāvitan'ti
 
 <div class="english">
 
-> This way of practice  ̓  leading to the cessation of dukkha\
+> This way of practice <span class="breathmark">'</span> leading to the cessation of dukkha\
 > Has been developed
 
 </div>
 
 Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu\
-Evan'ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
+Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 
 <div class="english">
 
 > As long bhikkhus as my knowledge and understanding\
 > As it actually is\
 > Of these Four Noble Truths\
-> With their three phases and twelve aspects\
+> With their three phases and twelve aspects<a href="appendix/endnotes.html#en57" style="text-decoration: none;"><sup>57</sup></a>\
 > Was not entirely pure\
 
 </div>
 
-N’eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake\
+N'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake\
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\
-Anuttaraṁ sammā-sambodhiṁ abhisambuddhoi paccaññāsiṁ
+Anuttaraṁ sammā-sambodhiṁ abhisambuddho<a href="appendix/endnotes.html#en58" style="text-decoration: none;"><sup>58</sup></a> paccaññāsiṁ
 
 <div class="english">
 
@@ -779,7 +782,7 @@ Anuttaraṁ sammā-sambodhiṁ abhisambuddhoi paccaññāsiṁ
 </div>
 
 Yato ca kho me bhikkhave imesu catūsu ariya-saccesu\
-Evan'ti-parivaṭṭaṁ dvādas’ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
+Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
 
 <div class="english">
 
@@ -831,12 +834,12 @@ Ayam'antimā jāti
 
 </div>
 
-N’atthidāni punabbhavo’ti
+N'atthidāni punabbhavo'ti
 
 <div class="english">
 
-> There won’t be any further becoming
+> There won't be any further becoming
 
 </div>
 
-[SN 56.11]
+<p style="text-align:right;">[SN 56.11]</p>

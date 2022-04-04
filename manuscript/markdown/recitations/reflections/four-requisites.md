@@ -1,6 +1,9 @@
 ## The Four Requisites<a id="four-requisites"></a>
 Cattaro parrikhārā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase 〉
 </center>
@@ -8,16 +11,16 @@ Cattaro parrikhārā
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\
 Yāva'd'eva sītassa paṭighātāya\
 Uṇhassa paṭighātāya\
-Ḍaṁsa-makasa-vāt'ātapa-siriṁsapa-samphassānaṁ paṭighātāya\
-Yāva'd'eva hirikopina-paṭicchādan'atthaṁ
+Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya\
+Yāva'd'eva hirikopina-paṭicchādanatthaṁ
 
-\begin{english-keepwith}
-Wisely reflecting \breathmark\ I use the robe
+<div class="english">
 
-Only to ward off cold \breathmark\ to ward off heat \breathmark\ to ward off the touch of flies \breathmark\ mosquitoes wind burning and creeping things
+> Wisely reflecting <span class="breathmark">'</span> I use the robe\
+> Only to ward off cold <span class="breathmark">'</span> to ward off heat <span class="breathmark">'</span> to ward off the touch of flies <span class="breathmark">'</span> mosquitoes wind burning and creeping things\
+> Only for the sake of modesty
 
-Only for the sake of modesty
-\end{english-keepwith}
+</div>
 
 Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevāmi\
 N'eva davāya na madāya na maṇḍanāya na vibhūsanāya\
@@ -27,41 +30,41 @@ Iti purāṇañ'ca vedanaṁ paṭihaṅkhāmi\
 navañ'ca vedanaṁ na uppādessāmi\
 Yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti
 
-\begin{english-keepwith}
-Wisely reflecting \breathmark\ I use almsfood
+<div class="english">
 
-Not for fun \breathmark\ not for pleasure \breathmark\ not for fattening \breathmark\ not for beautification
+> Wisely reflecting <span class="breathmark">'</span> I use almsfood
+> Not for fun <span class="breathmark">'</span> not for pleasure <span class="breathmark">'</span> not for fattening <span class="breathmark">'</span> not for beautification
+> Only for the maintenance and nourishment of this body\
+> For keeping it healthy <span class="breathmark">'</span> for helping with the holy life\
+> Thinking thus: ``I will allay hunger without overeating\
+> So that I may continue to live blamelessly and at ease''
 
-Only for the maintenance and nourishment of this body\
-For keeping it healthy \breathmark\ for helping with the holy life\
-Thinking thus: ``I will allay hunger without overeating\
-So that I may continue to live blamelessly and at ease''
-\end{english-keepwith}
+</div>
 
 Paṭisaṅkhā yoniso sen'āsanaṁ paṭisevāmi\
 Yāva'd'eva sītassa paṭighātāya\
 Uṇhassa paṭighātāya\
-Ḍaṁsa-makasa-vāt'ātapa-siriṁsapa-samphassānaṁ paṭighātāya\
-Yāva'd'eva utuparissaya-vinodanaṁ paṭisallānārām'atthaṁ
+Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya\
+Yāva'd'eva utuparissaya-vinodanaṁ paṭisallānārāmatthaṁ
 
-Wisely reflecting \breathmark\ I use the lodging
+<div class="english">
 
-Only to ward off cold \breathmark\ to ward off heat \breathmark\ to ward off the touch of flies \breathmark\ mosquitoes wind burning and creeping things
+> Wisely reflecting <span class="breathmark">'</span> I use the lodging
+> Only to ward off cold <span class="breathmark">'</span> to ward off heat <span class="breathmark">'</span> to ward off the touch of flies <span class="breathmark">'</span> mosquitoes wind burning and creeping things
+> Only to remove the danger from weather <span class="breathmark">'</span> and for living in seclusion
 
-
-Only to remove the danger from weather \breathmark\ and for living in seclusion
-
+</div>
 
 Paṭisaṅkhā yoniso gilāna-paccaya-bhesajja-parikkhāraṁ paṭisevāmi\
 Yāva'd'eva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya\
 Abyāpajjha-paramatāyā'ti
 
+<div class="english">
 
-Wisely reflecting \breathmark\ I use supports for the sick and medicinal requisites\
-Only to ward off painful feelings that have arisen\
-For the maximum freedom from disease
+> Wisely reflecting <span class="breathmark">'</span> I use supports for the sick and medicinal requisites\
+> Only to ward off painful feelings that have arisen\
+> For the maximum freedom from disease
 
+</div>
 
-[MN 2]
-
-\bottomNav{five-reflections}
+<p style="text-align:right;">[MN 2]</p>

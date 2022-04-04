@@ -1,93 +1,92 @@
 # Recitation Schedule<a id="schedule"></a>
+---
+<br>
 
 <center>
 
-Set 1\
-[The Buddha's First Exclamation](#buddhas-first-exclamation)\
-[Setting in Motion the Wheel of Dhamma](#wheel-of-dhamma-abridged)\
-[Going to True and False Refuges](#true-false-refuges)\
-[The Four Great References](#four-great-references)\
-[The Pāṭimokkha Exhortation](#patimokkha-exhortation)\
-[The Buddha's Final Instruction](#buddhas-final-instruction)\
-[Uddissan'ādhiṭṭhāna](#uddissanadhitthana)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 1
+<p><a href="recitations/verses/buddhas-first-exclamation.html#buddhas-first-exclamation" style="text-decoration: none;">The Buddha’s First Exclamation</a></p>
+<p><a href="recitations/teachings/wheel-of-dhamma-abridged.html#wheel-of-dhamma-abridged" style="text-decoration: none;">Setting in Motion the Wheel of Dhamma</a></p>
+<p><a href="recitations/verses/true-false-refuges.html#true-false-refuges" style="text-decoration: none;">Going to True and False Refuges</a></p>
+<p><a href="recitations/teachings/four-great-references.html#four-great-references" style="text-decoration: none;">The Four Great References</a></p>
+<p><a href="recitations/verses/patimokkha-exhortation.html#patimokkha-exhortation" style="text-decoration: none;">The Pāṭimokkha Exhortation</a></p>
+<p><a href="recitations/teachings/buddhas-final-instruction.html#buddhas-final-instruction" style="text-decoration: none;">The Buddha’s Final Instruction</a></p>
+<p><a href="recitations/sharing-of-merits/uddissanadhitthana.html#uddissanadhitthana" style="text-decoration: none;">Uddissanādhiṭṭhāna</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
-Set 2\
-[The Discourse on the Characteristic of
-Not-Self](#characteristic-of-not-self)\
-[The Fire Sermon](#fire-sermon)\
-[The Gradual Training](#gradual-training)\
-[Sharing and Aspirations](#sharing-aspirations)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 2
+<p><a href="recitations/cardinal-suttas/characteristic-not-self.html#characteristic-not-self" style="text-decoration: none;">The Discourse on the Characteristic of Not-Self</a></p>
+<p><a href="recitations/cardinal-suttas/fire-sermon.html#fire-sermon" style="text-decoration: none;">The Fire Sermon</a></p>
+<p><a href="recitations/teachings/gradual-training.html#gradual-training" style="text-decoration: none;">The Gradual Training</a></p>
+<p><a href="recitations/sharing-of-merits/uddissanadhitthana.html#sharing-aspirations" style="text-decoration: none;">Sharing and Aspirations</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
-Set 3\
-[The Noble Eightfold Path](#noble-eightfold-path)\
-[The Repulsiveness of Food](#repulsiveness-of-food)\
-[Requisites Awakening](#requisites-for-awakening)\
-[Principles of Non-Decline](#principles-of-non-decline)\
-[On Protection](#protection)\
-[Sharing of Merits](#sharing-all-merits)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 3
+<p><a href="recitations/teachings/noble-eightfold-path.html#noble-eightfold-path" style="text-decoration: none;">The Noble Eightfold Path</a></p>
+<p><a href="recitations/reflections/repulsiveness-of-food.html#repulsiveness-of-food" style="text-decoration: none;">The Repulsiveness of Food</a></p>
+<p><a href="recitations/teachings/requisites-for-awakening.html#requisites-for-awakening" style="text-decoration: none;">Requisites for Awakening</a></p>
+<p><a href="recitations/teachings/principles-of-non-decline.html#principles-of-non-decline" style="text-decoration: none;">Principles of Non-Decline</a></p>
+<p><a href="recitations/verses/protection.html#protection" style="text-decoration: none;">On Protection</a></p>
+<p><a href="recitations/sharing-of-merits/sharing-all-merits.html#sharing-all-merits" style="text-decoration: none;">Sharing of All Merits</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
-Set 4\
-[Homage to the Triple Gem](#dedication-of-offerings)\
-[Universal Well-Being](#universal-well-being)\
-[The Seven Factor of Awakening](#seven-factors-of-awakening)\
-[The Buddha's Words on Loving-Kindness](#words-on-loving-kindness)\
-[Sharing of Merits with the Departed
-(Pāli-English)](#sharing-merits-departed)\
-[Sharing of Merits with the Devas (Pāli)](#sharing-merits-devas)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 4
+<p><a href="recitations/homage/dedication-of-offerings.html#dedication-of-offerings" style="text-decoration: none;">Dedication of Offerings</a></p>
+<p><a href="recitations/reflections/universal-well-being.html#universal-well-being" style="text-decoration: none;">Universal Well-Being</a></p>
+<p><a href="recitations/teachings/seven-factors-of-awakening.html#seven-factors-of-awakening" style="text-decoration: none;">The Seven Factors of Awakening</a></p>
+<p><a href="recitations/verses/words-on-loving-kindness.html#words-on-loving-kindness" style="text-decoration: none;">The Buddha’s Words on Loving-Kindness</a></p>
+<p><a href="recitations/sharing-of-merits/sharing-merits-departed.html#sharing-merits-departed" style="text-decoration: none;">Sharing of Merits with the Departed (Pāli-English)</a></p>
+<p><a href="recitations/sharing-of-merits/sharing-merits-devas.html#sharing-merits-devas" style="text-decoration: none;">Sharing of Merits with the Devas (Pāli)</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
-Set 5\
-[Mindfulness of Breathing](#mindfulness-of-breathing)\
-[The Highest Blessings](#highest-blessings)\
-[The Three Characteristics](#three-characteristics)\
-[The Four Requisites](#four-requisites)\
-[Five Subjects for Frequent Reflection](#five-reflections)\
-[The Thirty-Two Body Parts](#32-parts)\
-[Principles of Cordiality](#principles-of-cordiality)\
-[The Highest Honour and Aspirations](#highest-honour-aspirations)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 5
+<p><a href="recitations/teachings/mindfulness-of-breathing.html#mindfulness-of-breathing" style="text-decoration: none;">Mindfulness of Breathing</a></p>
+<p><a href="recitations/verses/highest-blessings.html#highest-blessings" style="text-decoration: none;">The Highest Blessings</a></p>
+<p><a href="recitations/verses/three-characteristics.html#three-characteristics" style="text-decoration: none;">The Three Characteristics</a></p>
+<p><a href="recitations/reflections/four-requisites.html#four-requisites" style="text-decoration: none;">The Four Requisites</a></p>
+<p><a href="recitations/reflections/five-reflections.html#five-reflections" style="text-decoration: none;">Five Subjects for Frequent Reflection</a></p>
+<p><a href="recitations/reflections/32-parts.html#32-parts" style="text-decoration: none;">The Thirty-Two Body Parts</a></p>
+<p><a href="recitations/teachings/principles-of-cordiality.html#principles-of-cordiality" style="text-decoration: none;">Principles of Cordiality</a></p>
+<p><a href="recitations/sharing-of-merits/highest-honour-aspirations.html#highest-honour-aspirations" style="text-decoration: none;">The Highest Honour and Aspirations</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
-Set 6\
-[Anatta-lakkhaṇa Sutta](#anatta-lakkhana)\
-[Striving According to the Dhamma](#striving-according-to-dhamma)\
-[The Divine Abidings](#divine-abidings)\
-[Ten Subjects for Frequent Reflection\
-by One Gone Forth](#ten-reflections)\
-[Sharing and Aspirations](#sharing-aspirations)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 6
+<p><a href="recitations/cardinal-suttas/anatta-lakkhana.html#anatta-lakkhana" style="text-decoration: none;">Anatta-lakkhaṇa-sutta</a></p>
+<p><a href="recitations/teachings/striving-according-to-dhamma.html#striving-according-to-dhamma" style="text-decoration: none;">Striving According to the Dhamma</a></p>
+<p><a href="recitations/reflections/divine-abidings.html#divine-abidings" style="text-decoration: none;">The Divine Abidings</a></p>
+<p><a href="recitations/reflections/ten-reflections.html#ten-reflections" style="text-decoration: none;">Ten Subjects for Frequent Reflection by One Gone Forth</a></p>
+<p><a href="recitations/sharing-of-merits/uddissanadhitthana.html#sharing-aspirations" style="text-decoration: none;">Sharing and Aspirations</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
-Set 7\
-[Dependent Origination](#dependent-origination)\
-[The Dhamma in Brief](#dhamma-in-brief)\
-[Uddissan'ādhiṭṭhāna](#uddissanadhitthana)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 7
+<p><a href="recitations/teachings/dependent-origination.html#dependent-origination" style="text-decoration: none;">Dependent Origination</a></p>
+<p><a href="recitations/teachings/dhamma-in-brief.html#dhamma-in-brief" style="text-decoration: none;">The Dhamma in Brief</a></p>
+<p><a href="recitations/sharing-of-merits/uddissanadhitthana.html#uddissanadhitthana" style="text-decoration: none;">Uddissanādhiṭṭhāna</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
-Set 8\
-[Āditta-Pariyāya Sutta](#aditta-pariyaya)\
-[The Burdens](#burdens)\
-[Respect for the Dhamma](#respect-for-the-dhamma)\
-[A Single Excellent Night](#single-excellent-night)\
-[From the Elder Raṭṭhapāla](#ratthapala)\
-[From the Elder Pārāpariya](#parapariya)\
-[Miscellaneous Verses](#misc-verses)\
-[The Highest Honour and Aspirations](#highest-honour-aspirations)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 8
+<p><a href="recitations/cardinal-suttas/aditta-pariyaya.html#aditta-pariyaya" style="text-decoration: none;">Āditta-pariyāya-sutta</a></p>
+<p><a href="recitations/verses/burdens.html#burdens" style="text-decoration: none;">The Burdens</a></p>
+<p><a href="recitations/verses/respect-for-the-dhamma.html#respect-for-the-dhamma" style="text-decoration: none;">Respect for the Dhamma</a></p>
+<p><a href="recitations/verses/single-excellent-night.html#single-excellent-night" style="text-decoration: none;">A Single Excellent Night</a></p>
+<p><a href="recitations/verses/ratthapala.html#ratthapala" style="text-decoration: none;">From the Elder Raṭṭhapāla</a></p>
+<p><a href="recitations/verses/parapariya.html#parapariya" style="text-decoration: none;">From the Elder Pārāpariya</a></p>
+<p><a href="recitations/verses/misc-verses.html#misc-verses" style="text-decoration: none;">Miscellaneous Verses</a></p>
+<p><a href="recitations/sharing-of-merits/highest-honour-aspirations.html#highest-honour-aspirations" style="text-decoration: none;">The Highest Honour and Aspirations</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
-Set 9\
-[Protective Recitations (Pāli)](#deva-aradhana)\
-[Sharing of Merits with the Departed (Pāli)](#sharing-merits-departed)\
-[Sharing of Merits with the Devas (Pāli)](#sharing-merits-devas)\
-[Closing Homage (Pāli)](#closing-homage)\
+## Set 9
+<p><a href="recitations/protective-recitations/#deva-aradhana" style="text-decoration: none;">Protective Recitations (Pāli)</a></p>
+<p><a href="recitations/sharing-of-merits/sharing-merits-departed.html#sharing-merits-departed" style="text-decoration: none;">Sharing of Merits with the Departed (Pāli)</a></p>
+<p><a href="recitations/sharing-of-merits/sharing-merits-devas.html#sharing-merits-devas" style="text-decoration: none;">Sharing of Merits with the Devas (Pāli)</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli)</a></p>
 
-Set 10\
-[Funeral Recitations (Pāli)](#pubba-bhaga-nama-kara-patho-funeral)\
-[Recollection of Impermanence](#recollection-of-impermanence)\
-[Thanksgiving Recitations (Pāli)](#yatha-vari-vaha-pura)\
-[Just as Rivers](#just-as-rivers)\
-[Sharing of All Merits](#sharing-all-merits)\
-[Closing Homage (Pāli-English)](#closing-homage)\
+## Set 10
+<p><a href="recitations/funeral-recitations#pubba-bhaga-nama-kara-patho-funeral" style="text-decoration: none;">Funeral Recitations (Pāli)</a></p>
+<p><a href="recitations/reflections/recollection-of-impermanence.html#recollection-of-impermanence" style="text-decoration: none;">Recollection of Impermanence</a></p>
+<p><a href="recitations/thanksgiving-recitations#yatha-vari-vaha-pura" style="text-decoration: none;">Thanksgiving Recitations (Pāli)</a></p>
+<p><a href="recitations/thanksgiving-recitations/just-as-rivers" style="text-decoration: none;">Just as Rivers</a></p>
+<p><a href="recitations/sharing-of-merits/sharing-all-merits.html#sharing-all-merits" style="text-decoration: none;">Sharing of All Merits</a></p>
+<p><a href="recitations/homage/closing-homage.html#closing-homage" style="text-decoration: none;">Closing Homage (Pāli-English)</a></p>
 
 </center>

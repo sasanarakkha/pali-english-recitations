@@ -1,5 +1,8 @@
 ## The Thirty-Two Parts<a id="32-parts"></a>
-Dvattiṁs'ākāra-paccavekkhaṇa
+Dvattiṁsākārapaccavekkhaṇa
+
+---
+<br>
 
 <center>
 〈 Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase 〉
@@ -7,15 +10,23 @@ Dvattiṁs'ākāra-paccavekkhaṇa
 
 Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 
-This which is my body\
-From the soles of the feet up\
-And down from the crown of the head\
-Is a sealed bag of skin\
-Filled with unattractive things
+<div class="english">
+
+> This which is my body\
+> From the soles of the feet up\
+> And down from the crown of the head\
+> Is a sealed bag of skin\
+> Filled with unattractive things
+
+</div>
 
 Atthi imasmiṁ kāye
 
-In this body there are
+<div class="english">
+
+> In this body there are
+
+</div>
 
 <center>
 <table>
@@ -177,19 +188,21 @@ In this body there are
 <tr>
 <td style="text-align:right">matthaluṅgan'ti</td>
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td style="text-align:left"><em>brain</em></td>
+<td style="text-align:left"><em>brain<a href="appendix/endnotes.html#en103" style="text-decoration: none;"><sup>103</sup></a></em></td>
 </tr>
 </table>
 </center>
 
-
-
 Evam'ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
 
-This then which is my body\
-From the soles of the feet up\
-And down from the crown of the head\
-Is a sealed bag of skin\
-Filled with unattractive things
+<div class="english">
 
-[DN 22]
+> This then which is my body\
+> From the soles of the feet up\
+> And down from the crown of the head\
+> Is a sealed bag of skin\
+> Filled with unattractive things
+
+</div>
+
+<p style="text-align:right;">[DN 22]</p>

@@ -1,6 +1,9 @@
 ## From the Elder Raṭṭhapāla<a id="ratthapala"></a>
 Raṭṭhapāla-thera-gāthā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ raṭṭhapālatthera-gāthāyo bhaṇāmase 〉
 </center>
@@ -12,7 +15,7 @@ Passa cittakataṁ bimbaṁ – Arukāyaṁ samussitaṁ\
 
 > See this fancy puppet\
 > A body built of sores\
-> Diseased  ̓  obsessed over\
+> Diseased <span class="breathmark">'</span> obsessed over\
 > Which does not last at all
 
 </div>
@@ -73,7 +76,7 @@ Bhiyyo'va kāme abhipatthayanti
 <div class="english">
 
 > I see rich people in the world\
-> Who from delusion give not the wealth they’ve earned\
+> Who from delusion give not the wealth they've earned\
 > Greedily they hoard their riches\
 > Yearning for ever more sense pleasures
 
@@ -103,7 +106,7 @@ Asassataṁ vippariṇāma-dhammaṁ
 > Longevity is not gained by riches\
 > Nor does wealth banish ageing\
 > For the wise say this life is short\
-> Subject to change  ̓  and not eternal
+> Subject to change <span class="breathmark">'</span> and not eternal
 
 </div>
 
@@ -117,7 +120,7 @@ Pāpāni kammāni karoti mohā
 > Therefore wisdom is much better than wealth\
 > By which one reaches perfection in this life\
 > People through ignorance do evil deeds\
-> Failing to reach the goal  ̓  from life to life
+> Failing to reach the goal <span class="breathmark">'</span> from life to life
 
 </div>
 
@@ -128,7 +131,7 @@ Tasmā ahaṁ pabbajito'mhi rāja
 
 <div class="english">
 
-> Sense pleasures are diverse  ̓  sweet  ̓  delightful\
+> Sense pleasures are diverse <span class="breathmark">'</span> sweet <span class="breathmark">'</span> delightful\
 > Appearing in disguise they disturb the mind\
 > Seeing danger in the cords of sense pleasure\
 > Therefore I went forth O King
@@ -142,11 +145,11 @@ Apaṇṇakaṁ sāmaññam'eva seyyo
 
 <div class="english">
 
-> As fruits fall from a tree  ̓  so people fall\
-> Young and old  ̓  when the body breaks up\
+> As fruits fall from a tree <span class="breathmark">'</span> so people fall\
+> Young and old <span class="breathmark">'</span> when the body breaks up\
 > Seeing this too I went forth O King\
 > Surely the ascetic life is better
 
 </div>
 
-[Thag 16.4 / MN 82]
+<p style="text-align:right;">[Thag 16.4 / MN 82]</p>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:9c04733a-2ff5-4df3-af05-bc1cd27389a4"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.36.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>SBS Pāli-English Recitations</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>SBS Pāli-English Recitations</text>
+      </navLabel>
+      <content src="cover-page-ebook.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Title</text>
+      </navLabel>
+      <content src="titlepage.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="acknowledgments.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="contents.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Recitation Schedule</text>
+      </navLabel>
+      <content src="schedule.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Purpose and Benefit of Dhamma Recitation</text>
+      </navLabel>
+      <content src="purpose-and-benefits.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Abbreviations</text>
+      </navLabel>
+      <content src="abbreviations.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>1. Homage to the Triple Gem</text>
+      </navLabel>
+      <content src="recitations/homage/cover-title-homage.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>2. Verses</text>
+      </navLabel>
+      <content src="recitations/verses/cover-verses.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>3. Teachings</text>
+      </navLabel>
+      <content src="recitations/teachings/cover-teachings.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>4. Reflections</text>
+      </navLabel>
+      <content src="recitations/reflections/cover-reflections.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>5. Cardinal Suttas</text>
+      </navLabel>
+      <content src="recitations/cardinal-suttas/cover-tital-cardinal-suttas.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>6. Thanksgiving Recitations</text>
+      </navLabel>
+      <content src="recitations/thanksgiving-recitations/cover-thanksgiving-recitations.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>7. Protective Recitations</text>
+      </navLabel>
+      <content src="recitations/protective-recitations/cover-protective-recitations.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>8. Funeral Recitations</text>
+      </navLabel>
+      <content src="recitations/funeral-recitations/cover-funeral-recitations.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>9. Sharing of Merits</text>
+      </navLabel>
+      <content src="recitations/sharing-of-merits/cover-sharing-of-merits.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>10. Appendix</text>
+      </navLabel>
+      <content src="appendix/cover-appendix.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Back Cover</text>
+      </navLabel>
+      <content src="back-cover-page-ebook.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

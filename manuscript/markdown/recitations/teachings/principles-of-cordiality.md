@@ -1,6 +1,9 @@
 ## Principles of Cordiality<a id="principles-of-cordiality"></a>
 Cha sāraṇīya-dhammā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ sāraṇīyā-dhammā-pāṭhaṁ bhaṇāmase 〉
 </center>
@@ -65,7 +68,7 @@ Mettaṁ kāyakammaṁ vacīkammaṁ manokammaṁ paccupaṭṭhitaṁ hoti
 
 <div class="english">
 
-> Maintains bodily  ̓  verbal  ̓  and mental acts of loving-kindness
+> Maintains bodily <span class="breathmark">'</span> verbal <span class="breathmark">'</span> and mental acts of loving-kindness
 
 </div>
 
@@ -73,7 +76,7 @@ Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
-> Both in public and in private  ̓  towards his spiritual companions
+> Both in public and in private <span class="breathmark">'</span> towards his spiritual companions
 
 </div>
 
@@ -89,7 +92,7 @@ Dhammikā dhammaladdhā
 
 <div class="english">
 
-> That accords with the Dhamma  ̓  and has been righteously obtained
+> That accords with the Dhamma <span class="breathmark">'</span> and has been righteously obtained
 
 </div>
 
@@ -113,7 +116,7 @@ Sīlavantehi sabrahmacārīhi sādhāraṇa-bhogī
 
 <div class="english">
 
-> But uses them in common  ̓  with his virtuous spiritual companions
+> But uses them in common <span class="breathmark">'</span> with his virtuous spiritual companions
 
 </div>
 
@@ -129,7 +132,7 @@ Akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni
 
 <div class="english">
 
-> That are unbroken  ̓  untorn  ̓  unblotched  ̓  unmottled  ̓  liberating
+> That are unbroken <span class="breathmark">'</span> untorn <span class="breathmark">'</span> unblotched <span class="breathmark">'</span> unmottled <span class="breathmark">'</span> liberating
 
 </div>
 
@@ -137,7 +140,7 @@ Viññuppasatthāni aparāmaṭṭhāni samādhi-saṁvattanikāni
 
 <div class="english">
 
-> Commended by the wise  ̓  not misapprehended  ̓  and conducive to concentration
+> Commended by the wise <span class="breathmark">'</span> not misapprehended <span class="breathmark">'</span> and conducive to concentration
 
 </div>
 
@@ -153,7 +156,7 @@ Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
-> Both in public and in private  ̓  towards his spiritual companions
+> Both in public and in private <span class="breathmark">'</span> towards his spiritual companions
 
 </div>
 
@@ -177,7 +180,7 @@ Niyyāti takkarassa sammā dukkhakkhayāya
 
 <div class="english">
 
-> Acting it out  ̓  leads to the complete destruction of suffering
+> Acting it out <span class="breathmark">'</span> leads to the complete destruction of suffering
 
 </div>
 
@@ -193,7 +196,7 @@ Sabrahmacārīsu āvi c'eva raho ca
 
 <div class="english">
 
-> Both in public and in private  ̓  towards his spiritual companions
+> Both in public and in private <span class="breathmark">'</span> towards his spiritual companions
 
 </div>
 
@@ -237,13 +240,13 @@ Sāmaggiyā ekībhāvāya saṁvattanti
 
 </div>
 
-[MN 48]
+<p style="text-align:right;">[MN 48]</p>
 
 Ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha
 
 <div class="english">
 
-> If you undertake and maintain  ̓  these six principles of cordiality
+> If you undertake and maintain <span class="breathmark">'</span> these six principles of cordiality
 
 </div>
 
@@ -255,11 +258,11 @@ Passatha no tumhe taṁ vacana-pathaṁ
 
 </div>
 
-Aṇuṁ vā thūlaṁ vā yaṁ tumhe n'ādhivāseyyāthā’ti
+Aṇuṁ vā thūlaṁ vā yaṁ tumhe n'ādhivāseyyāthā'ti
 
 <div class="english">
 
-> Trivial or gross  ̓  that you could not endure?
+> Trivial or gross <span class="breathmark">'</span> that you could not endure?
 
 </div>
 
@@ -275,11 +278,11 @@ Tasmā't'iha ime cha sāraṇīye dhamme samādāya vattatha
 
 <div class="english">
 
-> Therefore undertake and maintain  ̓  these six principles of cordiality
+> Therefore undertake and maintain <span class="breathmark">'</span> these six principles of cordiality
 
 </div>
 
-Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā’ti
+Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā'ti
 
 <div class="english">
 
@@ -287,4 +290,4 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā’ti
 
 </div>
 
-[MN 104]
+<p style="text-align:right;">[MN 104]</p>

@@ -1,6 +1,8 @@
-## Vipassanā-bhūmi-pāṭho<a id="vipassana-bhumi-patho"></a>
+### Vipassanā-bhūmi-pāṭho<a id="vipassana-bhumi-patho"></a>
 
-[Pañcakkhandhā]:
+<center>
+〈 Pañcakkhandhā: 〉
+</center>
 Rūpakkhandho, vedanākkhandho,
 saññākkhandho, saṅkhārakkhandho,
 viññāṇakkhandho.
@@ -11,15 +13,15 @@ viññāṇakkhandho.
 
 </div>
 
-[MN 109]
+<p style="text-align:right;">[MN 109]</p>
 
-Dvā-das’āyatanāni:
-Cakkhv'āyatanaṁ rūp’'āyatanaṁ,
-Sot’'āyatanaṁ sadd’'āyatanaṁ,
-Ghān’'āyatanaṁ gandh’'āyatanaṁ,
-Jivh’'āyatanaṁ ras’'āyatanaṁ,
-Kāy’'āyatanaṁ phoṭṭhabb’'āyatanaṁ,
-Man’'āyatanaṁ dhamm’'āyatanaṁ
+Dvā-das'āyatanāni:
+Cakkhv'āyatanaṁ rūp'āyatanaṁ,
+Sot'āyatanaṁ sadd'āyatanaṁ,
+Ghān'āyatanaṁ gandh'āyatanaṁ,
+Jivh'āyatanaṁ ras'āyatanaṁ,
+Kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ,
+Man'āyatanaṁ dhamm'āyatanaṁ
 
 <div class="english">
 
@@ -32,7 +34,7 @@ Man’'āyatanaṁ dhamm’'āyatanaṁ
 
 </div>
 
-[MN 148]
+<p style="text-align:right;">[MN 148]</p>
 
 Aṭṭhārasa dhātuyo:
 Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu,
@@ -54,25 +56,26 @@ Mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
 
 </div>
 
-[MN 115]
+<p style="text-align:right;">[MN 115]</p>
 
-Bā-vīsat’indriyāni:i
-Cakkhu’ndriyaṁ sot’indriyaṁ ghān’indriyaṁ
-jivh’indriyaṁ kāy’indriyaṁ man’indriyaṁ,
-itth’indriyaṁ puris’indriyaṁ jīvit’indriyaṁ,
-sukh’indriyaṁ dukkh’indriyaṁ
-somanass’indriyaṁ domanass’indriyaṁ upekkh’indriyaṁ,
-saddh’indriyaṁ viriy’indriyaṁ sat’indriyaṁ
-samādh’indriyaṁ paññ’indriyaṁ,
-anaññātañ'ñassāmī't'indriyaṁ aññ’indriyaṁ aññātāv’indriyaṁ.
+Bā-vīsat'indriyāni:<a href="appendix/endnotes.html#en132" style="text-decoration: none;"><sup>132</sup></a>
+Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ
+jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ,
+itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ,
+sukh'indriyaṁ dukkh'indriyaṁ
+somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ,
+saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ
+samādh'indriyaṁ paññ'indriyaṁ,
+anaññātañ'ñassāmī'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
 
 <div class="english">
 
-> Twenty-two faculties: The eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mind faculty, faculty of feminity, faculty of masculinity, life faculty, pleasure faculty, pain faculty, happiness faculty, displeasure faculty, equanimity faculty, conviction faculty, energy faculty, mindfulness faculty, concentration faculty, wisdom faculty, the ‘I am knowing the unknown’ faculty, knowledge faculty, the faculty of one with complete knowledge.
+> Twenty-two faculties: The eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mind faculty, faculty of feminity, faculty of masculinity, life faculty, pleasure faculty, pain faculty, happiness faculty, displeasure faculty, equanimity faculty, conviction faculty, energy faculty, mindfulness faculty, concentration faculty, wisdom faculty, the 'I am knowing the unknown' faculty, knowledge faculty, the faculty of one with complete knowledge.
 
 </div>
 
-[Vibh]
+
+<p style="text-align:right;">[Vibh]</p>
 
 Cattāri ariya-saccāni:
 Dukkhaṁ ariya-saccaṁ,
@@ -90,7 +93,7 @@ Dukkha-nirodha-gāminī paṭipadā ariya-saccaṁ.
 
 </div>
 
-[SN 56.24]
+<p style="text-align:right;">[SN 56.24]</p>
 
 Avijjā-paccayā saṅkhārā,
 Saṅkhāra-paccayā viññāṇaṁ,
@@ -102,7 +105,7 @@ Vedanā-paccayā taṇhā,
 Taṇhā-paccayā upādānaṁ,
 Upādāna-paccayā bhavo,
 Bhava-paccayā jāti,
-Jāti-paccayā jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā sambhavanti.
+Jāti-paccayā jarā-maraṇaṁ soka-parideva-dukkha-domanass'upāyāsā sambhavanti.
 Evam'etassa kevalassa dukkhakkhandhassa samudayo hoti.
 
 Avijjāya tv'eva asesa-virāga-nirodhā, saṅkhāra-nirodho,
@@ -115,7 +118,7 @@ Vedanā-nirodhā, taṇhā-nirodho,
 Taṇhā-nirodhā, upādāna-nirodho,
 Upādāna-nirodhā, bhava-nirodho,
 Bhava-nirodhā, jāti-nirodho,
-Jāti-nirodhā, jarā-maraṇaṁ soka-parideva-dukkha-domanass’upāyāsā nirujjhanti.
+Jāti-nirodhā, jarā-maraṇaṁ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.
 Evam'etassa kevalassa dukkhakkhandhassa nirodho hoti.
 
 <div class="english">
@@ -148,4 +151,4 @@ Evam'etassa kevalassa dukkhakkhandhassa nirodho hoti.
 
 </div>
 
-[SN 12.1]
+<p style="text-align:right;">[SN 12.1]</p>

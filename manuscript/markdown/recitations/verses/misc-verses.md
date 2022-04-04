@@ -1,6 +1,9 @@
 ## Miscellaneous Verses<a id="misc-verses"></a>
 Pakiṇṇaka-gāthā
 
+---
+<br>
+
 <center>
 〈 Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase 〉
 </center>
@@ -11,13 +14,13 @@ Dhammadīpā dhammasaraṇā anaññasaraṇā
 <div class="english">
 
 > Bhikkhus dwell with yourselves as an island\
-> With yourselves as a refuge  ̓  with no other refuge\
-> With the Dhamma as an island  ̓  with the Dhamma as a refuge\
+> With yourselves as a refuge <span class="breathmark">'</span> with no other refuge\
+> With the Dhamma as an island <span class="breathmark">'</span> with the Dhamma as a refuge\
 > With no other refuge
 
 </div>
 
-[SN 22.43]
+<p style="text-align:right;">[SN 22.43]</p>
 
 Appassut'āyaṁ puriso – Balibaddo'va jīrati\
 Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati
@@ -31,7 +34,7 @@ Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati
 
 </div>
 
-[Dhp 152]
+<p style="text-align:right;">[Dhp 152]</p>
 
 Uyyuñjanti satīmanto – Na nikete ramanti te\
 Haṁsā'va pallalaṁ hitvā – Okam'okaṁ jahanti te\
@@ -45,7 +48,7 @@ Haṁsā'va pallalaṁ hitvā – Okam'okaṁ jahanti te\
 
 </div>
 
-[Dhp 91]
+<p style="text-align:right;">[Dhp 91]</p>
 
 Yaṁ pubbe taṁ visosehi – Pacchā te māhu kiñcanaṁ\
 Majjhe ce no gahessasi – Upasanto carissasi
@@ -59,17 +62,17 @@ Majjhe ce no gahessasi – Upasanto carissasi
 
 </div>
 
-[Snp 949]
+<p style="text-align:right;">[Snp 949]</p>
 
 Uṭṭhahatha nisīdatha – Ko attho supitena vo\
 Āturānañ'hi kā niddā – Sallaviddhāna ruppataṁ
 
 <div class="english">
 
-> Arouse yourselves  ̓  sit up!\
+> Arouse yourselves <span class="breathmark">'</span> sit up!\
 > What good to you is sleeping?\
 > For what sleep can there be for the afflicted\
-> For those injured  ̓  pierced by the dart?
+> For those injured <span class="breathmark">'</span> pierced by the dart?
 
 </div>
 
@@ -78,7 +81,7 @@ Mā vo pamatte viññāya – Maccurājā amohayittha vas'ānuge
 
 <div class="english">
 
-> Arouse yourselves  ̓  sit up!\
+> Arouse yourselves <span class="breathmark">'</span> sit up!\
 > Train vigorously for the state of peace\
 > Let not the King of Death catch you heedless\
 > And delude you when under his control
@@ -94,7 +97,7 @@ Khaṇ'ātītā hi socanti – Nirayamhi samappitā
 > Cross over this attachment\
 > By which devas and human beings\
 > Full of need are held fast\
-> Don’t let the opportunity pass you by\
+> Don't let the opportunity pass you by\
 > For those who have missed the opportunity\
 > Sorrow when they arrive in hell
 
@@ -106,13 +109,13 @@ Appamādena vijjāya – Abbahe sallam'attano'ti
 <div class="english">
 
 > Heedlessness is dust always\
-> Dust follows upon heedlessness\
+> Dust follows upon heedlessness<a href="appendix/endnotes.html#en42" style="text-decoration: none;"><sup>42</sup></a>\
 > By heedfulness by clear knowledge\
 > Draw out the dart from yourself
 
 </div>
 
-[Snp 333-336]
+<p style="text-align:right;">[Snp 333-336]</p>
 
 Piyato jāyatī soko – Piyato jāyatī bhayaṁ\
 Piyato vippamuttassa – N'atthi soko kuto bhayaṁ
@@ -122,11 +125,11 @@ Piyato vippamuttassa – N'atthi soko kuto bhayaṁ
 > From endearment springs sorrow\
 > From endearment springs fear\
 > For one who is free from endearment\
-> There is no sorrow  ̓  whence then fear?
+> There is no sorrow <span class="breathmark">'</span> whence then fear?
 
 </div>
 
-[Dhp 212]
+<p style="text-align:right;">[Dhp 212]</p>
 
 Tiṭṭhat'eva Nibbānaṁ
 
@@ -152,7 +155,7 @@ Maggakkhāyī tathāgato
 
 </div>
 
-[MN 107]
+<p style="text-align:right;">[MN 107]</p>
 
 Tumhehi kiccam'ātappaṁ
 
@@ -162,7 +165,7 @@ Tumhehi kiccam'ātappaṁ
 
 </div>
 
-[Dhp 276]
+<p style="text-align:right;">[Dhp 276]</p>
 
 Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ\
 Hitesinā anukampakena anukampaṁ upādāya
@@ -203,7 +206,7 @@ Jhāyatha bhikkhave mā pamādattha
 
 <div class="english">
 
-> Meditate bhikkhus  ̓  do not be negligent
+> Meditate bhikkhus <span class="breathmark">'</span> do not be negligent
 
 </div>
 
@@ -215,7 +218,7 @@ Mā pacchā vippaṭisārino ahuvattha
 
 </div>
 
-Ayaṁ vo amhākaṁ anusāsanī’ti
+Ayaṁ vo amhākaṁ anusāsanī'ti
 
 <div class="english">
 
@@ -223,4 +226,4 @@ Ayaṁ vo amhākaṁ anusāsanī’ti
 
 </div>
 
-[MN 19]
+<p style="text-align:right;">[MN 19]</p>

@@ -1,4 +1,8 @@
 ## Homage to the Saṅgha<a id="homage-sangha"></a>
+Saṅgh’ābhitthuti
+
+---
+<br>
 
 <center>
 〈 Handa mayaṁ saṅgh'ābhitthutiṁ karomase 〉<br>
@@ -9,7 +13,7 @@ Yo so supaṭipanno bhagavato sāvakasaṅgho
 
 <div class="english">
 
-> They are the Blessed One’s disciples who have practiced well
+> They are the Blessed One's disciples who have practiced well
 
 </div>
 
@@ -17,7 +21,7 @@ Ujupaṭipanno bhagavato sāvakasaṅgho
 
 <div class="english">
 
-> Who have practiced directly
+> Who have practiced directly<a href="appendix/endnotes.html#en5" style="text-decoration: none;"><sup>5</sup></a>
 
 </div>
 
@@ -25,7 +29,7 @@ Ujupaṭipanno bhagavato sāvakasaṅgho
 
 <div class="english">
 
-> Who have practiced correctlyi
+> Who have practiced correctly<a href="appendix/endnotes.html#en6" style="text-decoration: none;"><sup>6</sup></a>
 
 </div>
 
@@ -33,7 +37,7 @@ Sāmīcipaṭipanno bhagavato sāvakasaṅgho
 
 <div class="english">
 
-> Who have practiced properlyi
+> Who have practiced properly<a href="appendix/endnotes.html#en7" style="text-decoration: none;"><sup>7</sup></a>
 
 </div>
 
@@ -49,7 +53,7 @@ Esa bhagavato sāvakasaṅgho
 
 <div class="english">
 
-> These are the Blessed One’s disciples
+> These are the Blessed One's disciples
 
 </div>
 
@@ -97,7 +101,7 @@ Tam'ahaṁ saṅghaṁ abhipūjayāmi tam'ahaṁ saṅghaṁ sirasā namāmi
 
 <div class="english">
 
-> I chant my praise to this Saṅgha
+> I chant my praise to this Saṅgha\
 > I bow my head to this Saṅgha (Bow)
 
 </div>

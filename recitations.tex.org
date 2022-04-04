@@ -65,7 +65,7 @@
   - [[#the-discourse-on-setting-in-motion-the-wheel-of-dhamma][The Discourse on Setting in Motion the Wheel of Dhamma]]
   - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa Sutta]]
   - [[#the-discourse-on-the-characteristic-of-not-self][The Discourse on the Characteristic of Not-Self]]
-  - [[#āditta-pariyāya-sutta][Āditta-Pariyāya Sutta]]
+  - [[#āditta-pariyāya-sutta][Āditta-pariyāya Sutta]]
   - [[#the-fire-sermon][The Fire Sermon]]
 - [[#thanksgiving-recitations][Thanksgiving Recitations]]
   - [[#covertitle-5][Cover/Title]]
@@ -88,7 +88,7 @@
   - [[#ratana-sutta][Ratana-sutta]]
   - [[#karaṇīya-metta-sutta][Karaṇīya-metta-sutta]]
   - [[#khandha-parittaṁ][Khandha-parittaṁ]]
-  - [[#buddha-dhamma-saṅgha-guṇā][Buddha-Dhamma-Saṅgha-guṇā]]
+  - [[#buddha-dhamma-saṅgha-guṇā][Buddha-dhamma-saṅgha-guṇā]]
   - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ kiñci ratanaṁ loke]]
   - [[#bojjhaṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
   - [[#abhaya-parittaṁ][Abhaya-parittaṁ]]
@@ -234,7 +234,7 @@ The Saṅghas of Wat Pah Nanachat (WPN), Amaravati, and Abhayagiri for allowing 
 
 \linkdest{endnote1-body}
 Additional information on translations, as well as deviations\makeatletter\hyperlink{endnote1-appendix}\Hy@raisedlink{{\pagenote{%
-  \hypertarget{endnote1-appendix}{\hyperlink{endnote1-body}{Due to the balanced and inspiring selection of chants, as well as for the sake of compatability, WPN \textit{Buddhist Chanting} {2014} has served as the basis for this book. Over time, suggestions for the inclusion of additional chants, as well as occasional improvements of existing translations were incorporated. Such changes were meticulously marked down in the endnotes, so that someone familiar with the present book can straight away find the relevant differences, which can be useful when visiting a branch monastery of the Ajahn Chah lineage, in order to know in which places to revert to the original version.}}}}}\makeatother\thickspace
+  \hypertarget{endnote1-appendix}{\hyperlink{endnote1-body}{Due to the balanced and inspiring selection of chants, as well as for the sake of compatability, WPN \textit{Buddhist Chanting} (2014) has served as the basis for this book. Over time, suggestions for the inclusion of additional chants, as well as occasional improvements of existing translations were incorporated. Such changes were meticulously marked down in the endnotes, so that someone familiar with the present book can straight away find the relevant differences, which can be useful when visiting a branch monastery of the Ajahn Chah lineage, in order to know in which places to revert to the original version.}}}}}\makeatother\thickspace
 from WPN \textit{Buddhist Chanting} (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
 
 \medskip
@@ -477,7 +477,7 @@ Bhagavā arahaṁ sammāsambuddho
 \linkdest{endnote2-body}
 \begin{english-hang}
   To the Blessed One the Worthy One\makeatletter\hyperlink{endnote2-appendix}\Hy@raisedlink{{\pagenote{%\linebreak
-        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{WPN: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``\textit{an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler.'' The ``Worthy One'' seems a better choice of terms, since it is also how \textit``Arahant'' was used in pre-Buddhist era. PTS explains: ``[Vedic arhant, ppr. of arhati (see arahati), meaning deserving, worthy]. Before Buddhism used as honourific title of high officials like the English ``His Worship'' ; at the rise of Buddhism applied popularly to all ascetics (Dial. III.3–6).''} Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus substituting previous translations as ``The Lord'', ``Noble One'' etc.}}}}}\makeatother
+        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{WPN: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``\textit{an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler.'' The ``Worthy One'' seems a better choice of terms, since it is also how \textit``Arahant'' was used in pre-Buddhist era. PTS explains: ``[Vedic arhant, ppr. of arhati (see arahati), meaning deserving, worthy]. Before Buddhism used as honourific title of high officials like the English ``His Worship'' ; at the rise of Buddhism applied popularly to all ascetics (Dial. III.3–6).''} Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus substituting previous translations as ``The Lord'', ``Noble One'' etc.}}}}}\makeatother\thinspace
   who fully attained Perfect Enlightenment
 \end{english-hang}
 
@@ -608,6 +608,8 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \begin{english}
   Homage to the Blessed Worthy and Perfectly Enlightened One \hfill{[3x]}
 \end{english}
+
+\suttaRef{[DN 21]}
 
 #+end_src
 
@@ -4317,9 +4319,9 @@ Idha bhikkhave bhikkhu kāye kāy'ānupassī viharati
 
 Vineyya loke abhijjhā-domanassaṁ
 
+\linkdest{endnote62-body}
 \begin{english}
   Having put away\\
-\linkdest{endnote62-body}
   Longing and grief for the world\makeatletter\hyperlink{endnote62-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote62-appendix}{\hyperlink{endnote62-body}{WPN: ``covetousness and grief''}}}}}\makeatother
 \end{english}
@@ -8507,7 +8509,7 @@ Atha kho bhagavā udānaṁ udānesi:
 
 #+end_src
 
-** Āditta-Pariyāya Sutta
+** Āditta-pariyāya Sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya.tex
 
 \section{Āditta-pariyāya-sutta}
@@ -8643,7 +8645,7 @@ Kena ādittaṁ?
 \linkdest{endnote113-body}
 \begin{english-only-hang}
   On one occasion\makeatletter\hyperlink{endnote113-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote113-appendix}{\hyperlink{endnote113-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother the Blessed One was dwelling at Gayā \breathmark\ at Gayā's Head \breathmark\ together with a thousand bhikkhus. There he addressed the bhikkhus:
+        \hypertarget{endnote113-appendix}{\hyperlink{endnote113-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother\thinspace the Blessed One was dwelling at Gayā \breathmark\ at Gayā's Head \breathmark\ together with a thousand bhikkhus. There he addressed the bhikkhus:
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9117,7 +9119,7 @@ Sadā sotthī bhavantu te
   Padakkhiṇāni katvāna\\
   Labhant'atthe padakkhiṇe\\
   Te atthaladdhā sukhitā\\
-  Virūḷhā Buddhasāsane\\
+  Virūḷhā buddhasāsane\\
   Arogā sukhitā hotha\\
   Saha sabbehi ñātibhī
 \end{verses}
@@ -9219,7 +9221,7 @@ Sadā sotthī bhavantu te
   Aggaṁ dhammaṁ vijānataṁ
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Agge Buddhe pasannānaṁ\\
+  Agge buddhe pasannānaṁ\\
   Dakkhiṇeyye anuttare
 \end{pali-hangtogether}
 
@@ -9361,10 +9363,10 @@ Sadā sotthī bhavantu te
 \label{so-attha-laddho}
 
 \begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}So attha-laddho \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}So attha-laddho sukhito \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sukhito viruḷho buddha-sāsane\\
+  Viruḷho buddha-sāsane\\
   Arogo sukhito hohi\\
   Saha sabbehi ñātibhi
 \end{pali-hangtogether}
@@ -9450,7 +9452,7 @@ Sadā sotthī bhavantu te
         \hypertarget{endnote125-appendix}{\hyperlink{endnote125-body}{When chanted for laypeople, only the 2nd line (\textit{Dhammassavana kālo}...) is recited, which is repeated three times.}}}}}\makeatother\\
 \linkdest{endnote126-body}
   Saṅgha-payirupāsana-kālo ayam'bhadantā\makeatletter\hyperlink{endnote126-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{WPN: “Payirūpāsana”. Pari+upa=payirupa}}}}}\makeatother \hspace{-0.5mm}\anglebracketright\
+        \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{WPN: “Payirūpāsana”. Pari+upa=payirupa}}}}}\makeatother\thinspace \hspace{-0.5mm}\anglebracketright\
 \end{leader-yatha}
 
 \begin{leader-yatha}
@@ -9497,8 +9499,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
 \end{english}
 
-% \vspace{1em}
-% TODO does the job, make sure even with spacing
+\suttaRef{[DN 21]}
 
 #+end_src
 
@@ -9540,13 +9541,16 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 \end{pali-hang-continued}
 
+\linkdest{endnote146-body}
 \begin{english-verses}
   A third time, to the Buddha I go for refuge.\\
   A third time, to the Dhamma I go for refuge.\\
-  A third time, to the Saṅgha I go for refuge.
+  A third time, to the Saṅgha I go for refuge.\makeatletter\hyperlink{endnote146-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote146-appendix}{\hyperlink{endnote146-body}{The above chant as been list sas a traditional because }}}}}\makeatother
+
 \end{english-verses}
 
-% \vspace{1em}
+\suttaRef{[Trad]}
 
 #+end_src
 
@@ -10439,10 +10443,10 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 #+end_src
 
-** Buddha-Dhamma-Saṅgha-guṇā
+** Buddha-dhamma-saṅgha-guṇā
 #+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
 
-\section{Buddha-Dhamma-Saṅgha-guṇā}
+\section{Buddha-dhamma-saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
 
 \begin{pali-leader}
@@ -10668,7 +10672,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Ekasmiṁ samaye nātho\\
-  Moggallānañ'ca Kassapaṁ\\
+  Moggallānañ'ca kassapaṁ\\
   Gilāne dukkhite disvā\\
   Bojjh'aṅge satta desayi\\
   Te ca taṁ abhinanditvā\\
@@ -10829,13 +10833,13 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Sabbe buddhā \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Sabbe buddhā balappattā \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang-continued}
-  Balappattā paccekānañ'ca yaṁ balaṁ\\
+  Paccekānañ'ca yaṁ balaṁ\\
   Arahantānañ'ca tejena\\
   Rakkhaṁ bandhāmi sabbaso
 \end{pali-hang-continued}
@@ -11182,7 +11186,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
 \end{english}
 
-\vspace{1em}
+\suttaRef{[DN 21]}
 
 #+end_src
 
@@ -11471,9 +11475,9 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 % \begin{leader-only}
 %   \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-1.00mm}\anglebracketright\
 % \end{leader-only}
-TODO fix hang indent and hand indent continued
-TODO don't let line end with the
-TODO G correct way to git merge
+% TODO fix hang indent and hand indent continued
+% TODO don't let line end with the
+% TODO G correct way to git merge
 
 \begin{pali-hangtogether}
   Rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
@@ -11824,8 +11828,8 @@ TODO G correct way to git merge
 ** Bhavatu-sabba-maṅgalaṁ
 
 #+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
-\section{Bhavatu-sabba-maṅgalaṁ-funeral}
-\label{bhavatu}
+\section{Bhavatu-sabba-maṅgalaṁ}
+\label{bhavatu-funeral}
 
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\
