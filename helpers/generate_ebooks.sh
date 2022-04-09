@@ -43,17 +43,17 @@ if [ "$?" != "0" ]; then
     exit 2
 fi
 
-epubcheck "./$EPUB_FILE"
+java -jar ../libs/epubcheck/epubcheck.jar "./$EPUB_FILE" || epubcheck "./$EPUB_FILE"
 # TODO find a way to make conditional for these two command, if epubcheck in is in path then run otherwise run relative path to command, same with kindlegen
-#java -jar ../libs/epubcheck/epubcheck.jar "./$EPUB_FILE"
+
 
 if [ "$?" != "0" ]; then
     echo "Error, exiting."
     exit 2
 fi
 
-kindlegen "./$EPUB_FILE" -dont_append_source -c1 -verbose
-#../libs/kindlegen "./$EPUB_FILE" -dont_append_source -c1 -verbose
+../libs/kindlegen "./$EPUB_FILE" -dont_append_source -c1 -verbose || kindlegen "./$EPUB_FILE" -dont_append_source -c1 -verbose
+
 
 if [ "$?" != "0" ]; then
     echo "Error, exiting."
