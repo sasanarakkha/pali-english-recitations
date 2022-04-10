@@ -61,18 +61,18 @@
   - [[#recollection-of-impermanence][Recollection of Impermanence]]
 - [[#cardinal-suttas][Cardinal Suttas]]
   - [[#covertitle-4][Cover/Title]]
-  - [[#dhammacakkappavattana-sutta][Dhammacakkappavattana Sutta]]
+  - [[#dhammacakkappavattana-sutta][Dhammacakkappavattana-sutta]]
   - [[#the-discourse-on-setting-in-motion-the-wheel-of-dhamma][The Discourse on Setting in Motion the Wheel of Dhamma]]
-  - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa Sutta]]
+  - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa-sutta]]
   - [[#the-discourse-on-the-characteristic-of-not-self][The Discourse on the Characteristic of Not-Self]]
-  - [[#āditta-pariyāya-sutta][Āditta-pariyāya Sutta]]
+  - [[#āditta-pariyāya-sutta][Āditta-pariyāya-sutta]]
   - [[#the-fire-sermon][The Fire Sermon]]
 - [[#thanksgiving-recitations][Thanksgiving Recitations]]
   - [[#covertitle-5][Cover/Title]]
   - [[#just-as-rivers][Just as Rivers]]
   - [[#yathā-vāri-vahā-pūrā][Yathā vāri-vahā pūrā]]
   - [[#ratanattayānubhāvādi-gāthā][Ratanattayānubhāv'ādi-gāthā]]
-  - [[#bhojana-dān'ānumodanā][Bhojana-dān'ānumodanā]]
+  - [[#bhojana-dānānumodanā][Bhojana-dān'ānumodanā]]
   - [[#culla-maṅgala-cakka-vāḷa][Culla-maṅgala-cakka-vāḷa]]
   - [[#aggappasāda-sutta-gāthā][Aggappasāda-sutta-gāthā]]
   - [[#kāla-dāna-sutta-gāthā][Kāla-dāna-sutta-gāthā]]
@@ -427,7 +427,7 @@ Sāsanārakkha Buddhist Sanctuary.
   Thai  & Composed in Thailand, normally in recent centuries \\
   Sri L & Composed in Sri Lanka                              \\
   Trad  & Traditional verses not found in the original Pāli  \\
-  WPN  & Wat Pah Nanachat Buddhist Chanting (2014)           \\
+  WPN   & Wat Pah Nanachat Buddhist Chanting (2014)          \\
 \end{tabular}
 
 \bigskip
@@ -586,6 +586,8 @@ Saṅghaṁ namāmi
   I bow to the Saṅgha \hfill{(Bow)}
 \end{english}
 
+\suttaRef{[Trad]}
+
 #+end_src
 
 ** Preliminary Homage
@@ -656,7 +658,7 @@ Anuttaro purisadamma-sārathi
 \linkdest{endnote3-body}
 \begin{english}
   Unsurpassed leader of persons to be tamed\makeatletter\hyperlink{endnote3-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote3-appendix}{\hyperlink{endnote3-body}{WPN: ``He trains perfectly those who wish to be trained''. The aspect of wishing to be trained is not found in the Pāli.}}}}}\makeatother
+        \hypertarget{endnote3-appendix}{\hyperlink{endnote3-body}{WPN: ``He trains perfectly those who wish to be trained''. The aspect of wishing to be trained is not found in the \textit{Pāli}.}}}}}\makeatother
 \end{english}
 
 Satthā deva-manussānaṁ
@@ -708,6 +710,8 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
   In its essence and conventions
 \end{english}
 
+\suttaRef{[SN 55.7]}
+
 \begin{pali-hang}
   Tam'ahaṁ bhagavantaṁ abhipūjayāmi tam'ahaṁ bhagavantaṁ sirasā namāmi
 \end{pali-hang}
@@ -716,6 +720,8 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
   I chant my praise to the Blessed One\\
   I bow my head to the Blessed One \hfill{(Bow)}
 \end{english}
+
+\suttaRef{[Thai]}
 
 #+end_src
 
@@ -769,6 +775,8 @@ Paccattaṁ veditabbo viññūhi
   To be experienced individually by the wise
 \end{english}
 
+\suttaRef{[SN 12.41]}
+
 \begin{pali-hang}
   Tam'ahaṁ dhammaṁ abhipūjayāmi tam'ahaṁ dhammaṁ sirasā namāmi
 \end{pali-hang}
@@ -777,6 +785,8 @@ Paccattaṁ veditabbo viññūhi
   I chant my praise to this teaching\\
   I bow my head to this truth \hfill{(Bow)}
 \end{english}
+
+\suttaRef{[Trad]}
 
 #+end_src
 
@@ -869,6 +879,8 @@ Anuttaraṁ puññakkhettaṁ lokassa
   They give occasion for incomparable goodness to arise in the world
 \end{english}
 
+\suttaRef{[12.51]}
+
 \begin{pali-hang}
   Tam'ahaṁ saṅghaṁ abhipūjayāmi tam'ahaṁ saṅghaṁ sirasā namāmi
 \end{pali-hang}
@@ -877,6 +889,7 @@ Anuttaraṁ puññakkhettaṁ lokassa
   I chant my praise to this Saṅgha\\
   I bow my head to this Saṅgha \hfill{(Bow)}
 \end{english}
+
 #+end_src
 
 ** Salutation to the Triple Gem
@@ -921,7 +934,7 @@ Dhammo padīpo viya tassa satthuno
 
 \linkdest{endnote8-body}
 \begin{english}
-    The Teaching of the Lord is like a lamp\makeatletter\hyperlink{endnote8-appendix}\Hy@raisedlink{{\pagenote{%
+  The Teaching of the Lord is like a lamp\makeatletter\hyperlink{endnote8-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote8-appendix}{\hyperlink{endnote8-body}{WPN: ``The teaching of the Lord like a lamp''}}}}}\makeatother
 \end{english}
 
@@ -929,7 +942,7 @@ Yo magga-pāk'āmata-bheda-bhinnako
 
 \linkdest{endnote9-body}
 \begin{english}
-    Divided into path and its fruit \breathmark\ the Deathless\makeatletter\hyperlink{endnote9-appendix}\Hy@raisedlink{{\pagenote{%
+  Divided into path and its fruit \breathmark\ the Deathless\makeatletter\hyperlink{endnote9-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote9-appendix}{\hyperlink{endnote9-body}{WPN: ``Illuminating the path and its fruit, the Deathless''}}}}}\makeatother
 \end{english}
 
@@ -937,7 +950,7 @@ Lok'uttaro yo ca tad'attha-dīpano
 
 \linkdest{endnote10-body}
 \begin{english}
-    And illuminating that goal \breathmark\ which is beyond the conditioned world\makeatletter\hyperlink{endnote10-appendix}\Hy@raisedlink{{\pagenote{%
+  And illuminating that goal \breathmark\ which is beyond the conditioned world\makeatletter\hyperlink{endnote10-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote10-appendix}{\hyperlink{endnote10-body}{WPN: ``That which is beyond the conditioned world''}}}}}\makeatother
 \end{english}
 
@@ -972,14 +985,14 @@ Vandāmi saṅghaṁ aham'ādarena taṁ
   Devotedly indeed \breathmark\ that Saṅgha I revere
 \end{english}
 
-  Icc'evam'ekant'abhipūjaneyyakaṁ\\
-  vatthu-ttayaṁ vandayat'ābhisaṅkhataṁ
+Icc'evam'ekant'abhipūjaneyyakaṁ\\
+vatthu-ttayaṁ vandayat'ābhisaṅkhataṁ
 
 \linkdest{endnote11-body}
 \begin{english}
-    This salutation should be made\\
+  This salutation should be made\\
   To that triad\makeatletter\hyperlink{endnote11-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote11-appendix}{\hyperlink{endnote11-body}{WPN: ``To that which is worthy''. This passage refers to the triple (\textit{taya}) gems and not just to the Saṅgha.}}}}}\makeatother
+        \hypertarget{endnote11-appendix}{\hyperlink{endnote11-body}{WPN: ``To that which is worthy''. This passage refers to the triple (\textit{taya}) gems and not just to the \textit{Saṅgha}.}}}}}\makeatother
   which is worthy
 \end{english}
 
@@ -999,7 +1012,7 @@ Idha tathāgato loke uppanno arahaṁ sammāsambuddho
 
 \linkdest{endnote12-body}
 \begin{english}
-    One who knows things as they are \breathmark\ has arisen in this world\makeatletter\hyperlink{endnote12-appendix}\Hy@raisedlink{{\pagenote{%
+  One who knows things as they are \breathmark\ has arisen in this world\makeatletter\hyperlink{endnote12-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote12-appendix}{\hyperlink{endnote12-body}{``One who knows things as they are'' is an unusual translation for \textit{Tathāgata}. Also ``arisen in'' is better than ``has come into'', otherwise one might think that he has come from somewhere, already being a \textit{Tathāgata}.}}}}}\makeatother\\
 
   And he is an \textit{Arahant} \breathmark\ a perfectly awakened being
@@ -1011,9 +1024,8 @@ Idha tathāgato loke uppanno arahaṁ sammāsambuddho
 
 \linkdest{endnote13-body}
 \begin{english-verses}
-    Teaching the way leading out of delusion\makeatletter\hyperlink{endnote13-appendix}\Hy@raisedlink{{\pagenote{%
+  Teaching the way leading out of delusion\makeatletter\hyperlink{endnote13-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote13-appendix}{\hyperlink{endnote13-body}{No mention of ``delusion'' in the Pāli. It could also refer to \textit{samsāra} or \textit{dukkha}.}}}}}\makeatother\\
-
   Calming and directing to perfect peace\\
   And leading to enlightenment\\
   This way he has made known\\
@@ -1024,6 +1036,8 @@ Mayan'taṁ dhammaṁ sutvā evaṁ jānāma
 \begin{english}
   Having heard the Teaching we know this
 \end{english}
+
+\suttaRef{[Thai]}
 
 Jāti'pi dukkhā
 
@@ -1047,7 +1061,7 @@ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
 \linkdest{endnote14-body}
 \begin{english}
-    Sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote14-appendix}\Hy@raisedlink{{\pagenote{%
+  Sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote14-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote14-appendix}{\hyperlink{endnote14-body}{WPN: ``grief''}}}}}\makeatother
   and despair are dukkha
 \end{english}
@@ -1070,11 +1084,13 @@ Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
   Not attaining one's wishes is dukkha
 \end{english}
 
+\suttaRef{[SN 56.11]}
+
 Saṅkhittena pañc'upādānakkhandhā dukkhā
 
 \linkdest{endnote15-body}
 \begin{english}
-    In brief \breathmark\ the five aggregates of clinging are dukkha\makeatletter\hyperlink{endnote15-appendix}\Hy@raisedlink{{\pagenote{%
+  In brief \breathmark\ the five aggregates of clinging are dukkha\makeatletter\hyperlink{endnote15-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote15-appendix}{\hyperlink{endnote15-body}{WPN: ``In brief the five focuses of identity are dukkha''}}}}}\makeatother
 \end{english}
 
@@ -1106,7 +1122,7 @@ Saṅkhār'ūpādānakkhandho
 
 \linkdest{endnote16-body}
 \begin{english}
-    Attachment to volitional formations\makeatletter\hyperlink{endnote16-appendix}\Hy@raisedlink{{\pagenote{%
+  Attachment to volitional formations\makeatletter\hyperlink{endnote16-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote16-appendix}{\hyperlink{endnote16-body}{WPN: ``Attachment to mental formations''}}}}}\makeatother
 \end{english}
 
@@ -1114,9 +1130,11 @@ Viññāṇ'ūpādānakkhandho
 
 \linkdest{endnote17-body}
 \begin{english}
-    Attachment to consciousness\makeatletter\hyperlink{endnote17-appendix}\Hy@raisedlink{{\pagenote{%
+  Attachment to consciousness\makeatletter\hyperlink{endnote17-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote17-appendix}{\hyperlink{endnote17-body}{WPN: ``Attachment to sense-consciousness''}}}}}\makeatother
 \end{english}
+
+\suttaRef{[Vibh 202]}
 
 Yesaṁ pariññāya
 
@@ -1144,6 +1162,8 @@ Evaṁ bahulaṁ sāvake vineti
   In addition he further instructed
 \end{english}
 
+\suttaRef{[Thai]}
+
 Rūpaṁ aniccaṁ
 
 \begin{english}
@@ -1166,7 +1186,7 @@ Saṅkhārā aniccā
 
 \linkdest{endnote18-body}
 \begin{english}
-    Volitional formations are impermanent\makeatletter\hyperlink{endnote18-appendix}\Hy@raisedlink{{\pagenote{%
+  Volitional formations are impermanent\makeatletter\hyperlink{endnote18-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote18-appendix}{\hyperlink{endnote18-body}{WPN: ``Mental formations are impermanent''}}}}}\makeatother
 \end{english}
 
@@ -1174,7 +1194,7 @@ Viññāṇaṁ aniccaṁ
 
 \linkdest{endnote19-body}
 \begin{english}
-    Consciousness is impermanent\makeatletter\hyperlink{endnote19-appendix}\Hy@raisedlink{{\pagenote{%
+  Consciousness is impermanent\makeatletter\hyperlink{endnote19-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote19-appendix}{\hyperlink{endnote19-body}{WPN: ``Sense-consciousness is impermanent''}}}}}\makeatother
 \end{english}
 
@@ -1200,7 +1220,7 @@ Saṅkhārā anattā
 
 \linkdest{endnote20-body}
 \begin{english}
-    Volitional formations are not-self\makeatletter\hyperlink{endnote20-appendix}\Hy@raisedlink{{\pagenote{%
+  Volitional formations are not-self\makeatletter\hyperlink{endnote20-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote20-appendix}{\hyperlink{endnote20-body}{WPN: ``Mental formations are not-self''}}}}}\makeatother
 \end{english}
 
@@ -1208,7 +1228,7 @@ Viññāṇaṁ anattā
 
 \linkdest{endnote21-body}
 \begin{english}
-    Consciousness is not-self\thinspace\makeatletter\hyperlink{endnote21-appendix}\Hy@raisedlink{{\pagenote{%
+  Consciousness is not-self\thinspace\makeatletter\hyperlink{endnote21-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote21-appendix}{\hyperlink{endnote21-body}{WPN: ``Sense-consciousness is not-self''}}}}}\makeatother
 \end{english}
 
@@ -1216,7 +1236,7 @@ Sabbe saṅkhārā aniccā
 
 \linkdest{endnote22-body}
 \begin{english}
-    All conditioned things are impermanent\makeatletter\hyperlink{endnote22-appendix}\Hy@raisedlink{{\pagenote{%
+  All conditioned things are impermanent\makeatletter\hyperlink{endnote22-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote22-appendix}{\hyperlink{endnote22-body}{WPN: ``All conditions are transient''}}}}}\makeatother
 \end{english}
 
@@ -1224,15 +1244,17 @@ Sabbe dhammā anattā'ti
 
 \linkdest{endnote23-body}
 \begin{english}
-    All things are not-self\thinspace\makeatletter\hyperlink{endnote23-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote23-appendix}{\hyperlink{endnote23-body}{WPN: ``There is no self in the created or the uncreated''. While this is not a very accurate translation, it is indeed the case that the term ``sabbe dhammā'' includes the uncreated, \textit{nibbāna} (see AN 5.32).}}}}}\makeatother
+  All things are not-self\thinspace\makeatletter\hyperlink{endnote23-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote23-appendix}{\hyperlink{endnote23-body}{WPN: ``There is no self in the created or the uncreated''. While this is not a very accurate translation, it is indeed the case that the term ``\textit{sabbe dhammā}'' includes the uncreated, \textit{nibbāna} (see AN 5.32).}}}}}\makeatother
 \end{english}
+
+\suttaRef{[MN 35]}
 
 Te mayaṁ otiṇṇ'āmha jātiyā jarā-maraṇena
 
 \linkdest{endnote24-body}
 \begin{english}
-    All of us are affected by birth \breathmark\ ageing and death\makeatletter\hyperlink{endnote24-appendix}\Hy@raisedlink{{\pagenote{%
+  All of us are affected by birth \breathmark\ ageing and death\makeatletter\hyperlink{endnote24-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote24-appendix}{\hyperlink{endnote24-body}{WPN: ``All of us are bound by birth ageing and death''}}}}}\makeatother
 \end{english}
 
@@ -1241,9 +1263,9 @@ Sokehi paridevehi dukkhehi domanassehi upāyāsehi
 \linkdest{endnote25-body}
 \linkdest{endnote26-body}
 \begin{english}
-    By sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote25-appendix}\Hy@raisedlink{{\pagenote{%
+  By sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote25-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote25-appendix}{\hyperlink{endnote25-body}{WPN: ``grief''}}}}}\makeatother
-    and despair\makeatletter\hyperlink{endnote26-appendix}\Hy@raisedlink{{\pagenote{%
+  and despair\makeatletter\hyperlink{endnote26-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote26-appendix}{\hyperlink{endnote26-body}{In Pāli, these terms are in plural form, however, for the sake recitation they are kept singular.}}}}}\makeatother
 \end{english}
 
@@ -1251,7 +1273,7 @@ Dukkhotiṇṇā dukkha-paretā
 
 \linkdest{endnote27-body}
 \begin{english}
-    Affected by dukkha and afflicted by dukkha\makeatletter\hyperlink{endnote27-appendix}\Hy@raisedlink{{\pagenote{%
+  Affected by dukkha and afflicted by dukkha\makeatletter\hyperlink{endnote27-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote27-appendix}{\hyperlink{endnote27-body}{WPN: ``All of us are bound by birth ageing and death''}}}}}\makeatother
 \end{english}
 
@@ -1262,6 +1284,8 @@ Dukkhotiṇṇā dukkha-paretā
 \begin{english}
   Let us all aspire to complete freedom from suffering
 \end{english}
+
+\suttaRef{[SN 22.80]}
 
 \clearpage
 
@@ -1298,7 +1322,7 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 
 \linkdest{endnote28-body}
 \begin{english}
-    Possessing the bhikkhus' training and way of life\makeatletter\hyperlink{endnote28-appendix}\Hy@raisedlink{{\pagenote{%
+  Possessing the bhikkhus' training and way of life\makeatletter\hyperlink{endnote28-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote28-appendix}{\hyperlink{endnote28-body}{WPN: ``Being fully equipped with the bhikkhus'system of training''}}}}}\makeatother
 \end{english}
 
@@ -1309,6 +1333,8 @@ Bhikkhūnaṁ sikkhāsājīva-samāpannā
 \begin{english}
   May this holy life \breathmark\ lead us to the end of this whole mass of suffering
 \end{english}
+
+\suttaRef{[Thai]}
 
 \bottomNav{universal-well-being}
 
@@ -1376,6 +1402,8 @@ Saṅghaṁ namāmi
 \begin{english}
   I bow to the Saṅgha \hfill{(Bow)}\\
 \end{english}
+
+\suttaRef{[Thai]}
 
 \null
 \vfill
@@ -1511,23 +1539,23 @@ Saṅghaṁ namāmi
 \linkdest{endnote29-body}
 \linkdest{endnote30-body}
 \begin{english-verses}
-    What is true Dhamma and what's\makeatletter\hyperlink{endnote29-appendix}\Hy@raisedlink{{\pagenote{%
+  What is true Dhamma and what's\makeatletter\hyperlink{endnote29-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote29-appendix}{\hyperlink{endnote29-body}{WPN: ``what not'': What not is usually followed by what is similar.}}}}}\makeatother
   not\\
   Will never have the same results\\
-    While wrong\makeatletter\hyperlink{endnote30-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote30-appendix}{\hyperlink{endnote30-body}{WPN: ``lack of Dhamma'' This translation is problematic, because a mere ``lack of Dhamma'' does not lead to rebirth in hell; otherwise all non-Buddhists would be destined to hell. In reality, it is the view and practice of ``wrong Dhamma'' that leads to hell, which is also substantiated by the Commentary, which defines ``adhamma'' as the opposite (\textit{paṭipakkha}) of true Dhamma.}}}}}\makeatother
+  While wrong\makeatletter\hyperlink{endnote30-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote30-appendix}{\hyperlink{endnote30-body}{WPN: ``lack of \textit{Dhamma}'' This translation is problematic, because a mere ``lack of \textit{Dhamma}'' does not lead to rebirth in hell; otherwise all non-Buddhists would be destined to hell. In reality, it is the view and practice of ``wrong \textit{Dhamma}'' that leads to hell, which is also substantiated by the Commentary, which defines ``\textit{adhamma}'' as the opposite (\textit{paṭipakkha}) of true \textit{Dhamma}.}}}}}\makeatother
   Dhamma leads to hell realms\\
   True Dhamma takes one on a good course
 \end{english-verses}
 
 \linkdest{endnote31-body}
 \begin{verses}
-    Dhammo have rakkhati dhamma-cāriṁ\\
+  Dhammo have rakkhati dhamma-cāriṁ\\
   Dhammo suciṇṇo sukham'āvahāti\\
   Es'ānisaṁso dhamme suciṇṇe\\
   Na duggatiṁ gacchati dhamma-cārī\makeatletter\hyperlink{endnote31-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote31-appendix}{\hyperlink{endnote31-body}{This line is missing in Wat Pah Nanachat chanting book.}}}}}\makeatother
+        \hypertarget{endnote31-appendix}{\hyperlink{endnote31-body}{This line is missing in Wat Pah Nanachat \textit{Buddhist Chanting} (2014).}}}}}\makeatother
 \end{verses}
 
 \begin{english-verses}
@@ -2568,7 +2596,7 @@ Etaṁ buddhāna sāsanaṁ
 \begin{english-only}
   Thus have I heard that the Blessed One\\
   Was dwelling at Sāvatthī\makeatletter\hyperlink{endnote47-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote47-appendix}{\hyperlink{endnote47-body}{WPN: ``Was staying at Sāvatthī''}}}}}\makeatother\\
+        \hypertarget{endnote47-appendix}{\hyperlink{endnote47-body}{WPN: ``Was staying at \textit{Sāvatthī}''}}}}}\makeatother\\
   Residing at the Jeta's Grove\\
   In Anāthapiṇḍika's Park
 \end{english-only}
@@ -3064,7 +3092,7 @@ Saṅkhittena pañc'upādānakkhandhā dukkhā
 \linkdest{endnote54-body}
 \begin{english}
   In brief \breathmark\ the five aggregates of clinging are dukkha\makeatletter\hyperlink{endnote54-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote54-appendix}{\hyperlink{endnote54-body}{WPN: ``In brief the five focuses of identity are dukkha''}}}}}\makeatother
+        \hypertarget{endnote54-appendix}{\hyperlink{endnote54-body}{WPN: ``In brief the five focuses of identity are \textit{dukkha}''}}}}}\makeatother
 \end{english}
 
 Idaṁ kho pana bhikkhave dukkha-samudayo ariya-saccaṁ
@@ -3241,10 +3269,10 @@ Vijjā udapādi\\
   Insight arose\\
   Discernment arose\\
   Knowledge arose\\
-\linkdest{endnote55-body}
+  \linkdest{endnote55-body}
   Light arose in me\makeatletter\hyperlink{endnote55-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote55-appendix}{\hyperlink{endnote55-body}{WPN: ``Light arose''}}}}}\makeatother\\
-  ``This is the Noble Truth of dukkha''
+  ``This is the Noble Truth of \textit{dukkha}''
 \end{english-verses}
 
 Taṁ kho pan'idaṁ dukkhaṁ ariya-saccaṁ pariññeyyan'ti
@@ -3252,7 +3280,7 @@ Taṁ kho pan'idaṁ dukkhaṁ ariya-saccaṁ pariññeyyan'ti
 \linkdest{endnote56-body}
 \begin{english}
   This Noble Truth of dukkha\makeatletter\hyperlink{endnote56-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote56-appendix}{\hyperlink{endnote56-body}{WPN: ``Now this Noble Truth of dukkha''}}}}}\makeatother\\
+        \hypertarget{endnote56-appendix}{\hyperlink{endnote56-body}{WPN: ``Now this Noble Truth of \textit{dukkha}''}}}}}\makeatother\\
   Should be completely understood
 \end{english}
 
@@ -3389,7 +3417,7 @@ Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
   Bhikkhus as long as my knowledge and understanding\\
   As it actually is\\
   Of these Four Noble Truths\\
-\linkdest{endnote57-body}
+  \linkdest{endnote57-body}
   With their three phases and twelve aspects\makeatletter\hyperlink{endnote57-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote57-appendix}{\hyperlink{endnote57-body}{The three phases are comprised of the statement of the noble truth itself, followed by what is the task that is to be performed in relation to this noble truth, followed by the statement that the task has been performed. Four truths multiplied by three phases, results in 12 aspects.}}}}}\makeatother\\
   Was not entirely pure
@@ -3478,7 +3506,7 @@ N'atthidāni punabbhavo'ti
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ anupubba-sikkha-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: `sambādho gharāvāso rajopatho abbhokāso pabbajjā. Na'y'idaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yan'nūn'āhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.
+Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ``sambādho gharāvāso rajopatho abbhokāso pabbajjā. Na'y'idaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yan'nūn'āhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.''
 
 \suttaRef{[MN 27 / 38 / 51]}
 
@@ -3569,7 +3597,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \linkdest{endnote59-body}
 \begin{english-only-justify}
   ``Abandoning false speech \breathmark\ he abstains from false speech \breathmark\ he speaks \mbox{truth}~\breathmark\ adheres to truth \breathmark\ is trustworthy and reliable \breathmark\ one who is no deceiver of the world. Abandoning malicious speech \breathmark\ he abstains from malicious speech \breathmark\ he does not repeat elsewhere what he has heard here \breathmark\ in order to divide those people\makeatletter\hyperlink{endnote59-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote59-appendix}{\hyperlink{endnote59-body}{WPN: [those people]. Removed brackets for the sake of recitability.}}}}}\makeatother
+        \hypertarget{endnote59-appendix}{\hyperlink{endnote59-body}{Bhikkhu Bodhi: [those people]. Removed brackets for the sake of recitability.}}}}}\makeatother
   from these \breathmark\ nor does he repeat here what he has heard elsewhere \breathmark\ in order to divide these people from those \breathmark\ thus he is one who reunites those who are divided \breathmark\ a promoter of \mbox{friendships}~\breathmark\ who enjoys unity \breathmark\ rejoices in unity \breathmark\ delights in unity \breathmark\ a speaker of words that promote unity. Abandoning harsh speech \breathmark\ he abstains from harsh speech \breathmark\ he speaks words that are gentle \breathmark\ pleasing to the ear \breathmark\ and \mbox{loveable}~\breathmark\ that go to the heart \breathmark\ are courteous \breathmark\ desired by many and agreeable to many. Abandoning idle chatter \breathmark\ he abstains from idle chatter \breathmark\ he speaks at the right time \breathmark\ speaks what is fact \breathmark\ speaks on what is good \breathmark\ speaks on the Dhamma and Vinaya \breathmark\ at the right time \breathmark\ he speaks words that are worth recording \breathmark\ reasonable \breathmark\ moderate \breathmark\ and beneficial.''
 \end{english-only-justify}
 
@@ -4470,14 +4498,14 @@ Sukhañ'ca kāyena paṭisaṁvedeti
 \linkdest{endnote65-body}
 \begin{english}
   And experiencing pleasure with the body\makeatletter\hyperlink{endnote65-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote65-appendix}{\hyperlink{endnote65-body}{WPN: ``Still feeling pleasure with the body''. The Pāli doesn't say ``still'', but more importantly SN 48.40 states that physical pleasure (sukha) has ceased in 3rd Jhāna, and mental pleasure (\textit{somanassa}) has ceased in 4th Jhāna. Therefore, according to SN 48.40 \textit{kāya} in the context of the 3rd Jhāna stock formula cannot refer to the physical body. The Pāli commentaries agree, and explain that ``\textit{kāya}'' here refers to the `mental body', in particular to mental pleasure (\textit{somanassa}). However, a comparative study by Prof. Kuan Tse-Fu titled \textit{``Clarification on Feelings in Buddhist Dhyāna/Jhāna Meditation''} brought to light that the Chinese parallel to SN 48.40 has a different sequence of disappearing types of \textit{vedanā} in the sequence of the four Jhānas. While it would go beyond the scope of this footnote to discuss the matter in detail, it is noteworthy that the parallel to SN 48.40, the \textit{Aviparātaka Sūtra} of the \textit{Āgamas}, indeed mentions that bodily pleasant feeling (\textit{sukha}) disappears only in the 4th Jhāna, whereas mental pleasant feeling (\textit{somanassa}) has disappeared already in the 3rd Jhāna, alongside with the disappearance of \textit{pīti}. In the context of this chanting book, we have therefore chosen to stay with the literal translation of the word ``\textit{kāya}'' as ``body'', and invite the reader to draw his own conclusions.}}}}}\makeatother
+        \hypertarget{endnote65-appendix}{\hyperlink{endnote65-body}{WPN: ``Still feeling pleasure with the body''. The Pāli doesn't say ``still'', but more importantly SN 48.40 states that physical pleasure (sukha) has ceased in 3rd \textit{Jhāna}, and mental pleasure (\textit{somanassa}) has ceased in 4th \textit{Jhāna}. Therefore, according to SN 48.40 \textit{kāya} in the context of the 3rd \textit{Jhāna} stock formula cannot refer to the physical body. The Pāli commentaries agree, and explain that ``\textit{kāya}'' here refers to the `mental body', in particular to mental pleasure (\textit{somanassa}). However, a comparative study by Prof. Kuan Tse-Fu titled \textit{``Clarification on Feelings in Buddhist Dhyāna/Jhāna Meditation''} brought to light that the Chinese parallel to SN 48.40 has a different sequence of disappearing types of \textit{vedanā} in the sequence of the four \textit{Jhānas}. While it would go beyond the scope of this footnote to discuss the matter in detail, it is noteworthy that the parallel to SN 48.40, the \textit{Aviparātaka Sūtra} of the \textit{Āgamas}, indeed mentions that bodily pleasant feeling (\textit{sukha}) disappears only in the 4th \textit{Jhāna}, whereas mental pleasant feeling (\textit{somanassa}) has disappeared already in the 3rd \textit{Jhāna}, alongside with the disappearance of \textit{pīti}. In the context of this chanting book, we have therefore chosen to stay with the literal translation of the word ``\textit{kāya}'' as ``body'', and invite the reader to draw his own conclusions.}}}}}\makeatother
 \end{english}
 
 Yaṁ taṁ ariyā ācikkhanti
 \linkdest{endnote66-body}
 \begin{pali-hangtogether}
   `Upekkhako satimā sukha-vihārī'ti\makeatletter\hyperlink{endnote66-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote66-appendix}{\hyperlink{endnote66-body}{WPN: ``viharatī'ti''}}}}}\makeatother
+        \hypertarget{endnote66-appendix}{\hyperlink{endnote66-body}{WPN: ``\textit{viharatī'ti}''}}}}}\makeatother
   tatiyaṁ jhānaṁ upasampajja viharati
 \end{pali-hangtogether}
 
@@ -6572,7 +6600,7 @@ Sarīre upasussatu maṁsa-lohitaṁ
   As long as whatever is to be attained\\
   By manly strength\\
   By manly energy\\
-\linkdest{endnote87-body}
+  \linkdest{endnote87-body}
   By manly effort\makeatletter\hyperlink{endnote87-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote87-appendix}{\hyperlink{endnote87-body}{WPN: ``By human strength/energy/effort''; while purisa can also mean person, or human, in this context it probably refers to the feature of strength, which is typically associated with masculinity. A similar analogy occurs with the expression of a strong man (\textit{purisa}) extending or contracting his arm (AN 7.61).}}}}}\makeatother\\
   Has not been attained\\
@@ -6671,12 +6699,12 @@ Asacchikatassa sacchikiriyāya
 `Evaṁ no ayaṁ amhākaṁ pabbajjā\\
 \linkdest{endnote90-body}
 Avaṅkatā avañjhā\makeatletter\hyperlink{endnote90-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote90-appendix}{\hyperlink{endnote90-body}{WPN: ``avaññā''}}}}}\makeatother
+      \hypertarget{endnote90-appendix}{\hyperlink{endnote90-body}{WPN: ``\textit{avaññā}''}}}}}\makeatother
 bhavissati
 
 \begin{english}
   Thinking thus:\\
-\linkdest{endnote91-body}
+  \linkdest{endnote91-body}
   ``Our going forth will not be crooked and barren\makeatletter\hyperlink{endnote91-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote91-appendix}{\hyperlink{endnote91-body}{WPN: ``thinking in such a way: our going forth will not be barren''}}}}}\makeatother
 \end{english}
@@ -6696,7 +6724,7 @@ Tesaṁ te kārā amhesu
   And all our use of robes\\
   Almsfood\\
   Lodgings\\
-\linkdest{endnote92-body}
+  \linkdest{endnote92-body}
   Supports for the sick and medicinal requisites\makeatletter\hyperlink{endnote92-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote92-appendix}{\hyperlink{endnote92-body}{WPN: ``And supports for the sick''}}}}}\makeatother\\
   Given by others for our support
@@ -6746,7 +6774,7 @@ Ubhay'atthaṁ vā hi bhikkhave sampassamānena
 
 \linkdest{endnote93-body}
 Alam'eva appamādena sampādetun'ti\makeatletter\hyperlink{endnote93-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote93-appendix}{\hyperlink{endnote93-body}{WPN: ``sampādetun''}}}}}\makeatother
+      \hypertarget{endnote93-appendix}{\hyperlink{endnote93-body}{WPN: ``\textit{sampādetun}''}}}}}\makeatother
 
 \begin{english}
   It is enough to strive for the goal without negligence
@@ -7283,7 +7311,7 @@ Katame dasa
 \linkdest{endnote99-body}
 \begin{english-hang-verses}
   Bhikkhus there are these ten dhammas\makeatletter\hyperlink{endnote99-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote99-appendix}{\hyperlink{endnote99-body}{WPN: ``Bhikkhus there are ten dhammas''}}}}}\makeatother
+        \hypertarget{endnote99-appendix}{\hyperlink{endnote99-body}{WPN: ``\textit{Bhikkhus} there are ten \textit{dhammas}''}}}}}\makeatother
   \breathmark\ which should be reflected upon again and again by one who has gone forth\\
 \end{english-hang-verses}
 
@@ -7341,7 +7369,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti
 \end{pali-hang}
 \begin{pali-hangtogether}
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+  Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -7367,16 +7395,16 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Kammassakomhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo
 \end{pali-hang}
 \begin{pali-hangtogether}
-Yaṁ kammaṁ karissāmi
+  Yaṁ kammaṁ karissāmi
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-Kalyāṇaṁ vā pāpakaṁ vā
+  Kalyāṇaṁ vā pāpakaṁ vā
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-Tassa dāyādo bhavissāmī'ti
+  Tassa dāyādo bhavissāmī'ti
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+  Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -7387,9 +7415,9 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Abide supported by my kamma\\
   Whatever kamma I shall do\\
   Either skillful or harmful\\
-\linkdest{endnote102-body}
+  \linkdest{endnote102-body}
   Of such acts \breathmark\ I will be the heir''\makeatletter\hyperlink{endnote102-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote102-appendix}{\hyperlink{endnote102-body}{WPN: ``For good or for ill, Of that I will be the heir`` For the sake of consistency with other passages which were translated differently, this translation has been chosen.}}}}}\makeatother
+        \hypertarget{endnote102-appendix}{\hyperlink{endnote102-body}{WPN: ``For good or for ill, Of that I will be the heir'' For the sake of consistency with other passages which were translated differently, this translation has been chosen.}}}}}\makeatother
   \begin{english-hangtogether-verses}
     This should be reflected upon again and again by one who has gone forth
   \end{english-hangtogether-verses}
@@ -7423,7 +7451,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   So'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+  Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -7743,7 +7771,7 @@ Tesaṁ vūpasamo sukho
 
 #+end_src
 
-** Dhammacakkappavattana Sutta
+** Dhammacakkappavattana-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
 
 \section{Dhammacakkappavattana-sutta}
@@ -7754,19 +7782,19 @@ Tesaṁ vūpasamo sukho
 \end{leader}
 
 \begin{pali-hang}
-  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
+  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye \breathmark\ Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāmasukhallik'ānuyogo hīno gammo pothujjaniko anariyo anatthasañhito yo c'āyaṁ attakilamath'ānuyogo dukkho anariyo anatthasañhito.
+  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāmasukhallik'ānuyogo hīno gammo pothujjaniko anariyo anatthasañhito \breathmark\ yo c'āyaṁ attakilamath'ānuyogo dukkho anariyo anatthasañhito.
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+  Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā \breathmark\ cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati
 \end{pali-hang}
 
 \begin{pali-hang}
-  Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
+  Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā \breathmark\ cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7774,15 +7802,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
+  Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ayaṁ kho sā bhikkhave majjhimā paṭipadā
-\end{pali-hang}
-
-\begin{pali-hang}
-  Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+  Ayaṁ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā \breathmark\ cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7790,15 +7814,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jāti'pi dukkhā
+  Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jarā'pi dukkhā byādhi'pi dukkho
-\end{pali-hang}
-
-\begin{pali-hang}
-  Maraṇam'pi dukkhaṁ soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tam'pi dukkhaṁ saṅkhittena pañc'upādānakkhandā dukkhā.
+   Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādānakkhandā dukkhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7806,7 +7826,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Y'āyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā.
+  Y'āyaṁ taṇhā ponobbhavikā nandirāgasahagatā \breathmark\ tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7814,7 +7834,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yo tassā yeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.
+  Yo tassā yeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -7822,129 +7842,129 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ayam'eva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ: Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
+  Ayam'eva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ: sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkhaṁ ariyasaccanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Idaṁ dukkhaṁ ariyasaccanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan'ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkhasamudayo ariyasaccanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Idaṁ dukkhasamudayo ariyasaccanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhasamudayo ariyasaccaṁ pahātabban'ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhasamudayo ariyasaccaṁ pahātabban'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhasamudayo ariyasaccaṁ pahīnanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhasamudayo ariyasaccaṁ pahīnanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkhanirodho ariyasaccanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Idaṁ dukkhanirodho ariyasaccanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhanirodho ariyasaccaṁ sacchikātabban'ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhanirodho ariyasaccaṁ sacchikātabban'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhanirodho ariyasaccaṁ sacchikatanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhanirodho ariyasaccaṁ sacchikatanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkhanirodhagāminī paṭipadā ariyasaccanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Idaṁ dukkhanirodhagāminī paṭipadā ariyasaccanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban'ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvitanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
+  Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvitanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāvakīvañ'ca me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
+  Yāvakīvañ'ca me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi \breathmark\ n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇabrāhmaṇiyā pajāya sadevamanussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddham ahosi athāham bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ.
+  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddham ahosi \breathmark\ athāham bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇabrāhmaṇiyā pajāya sadevamanussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 \end{pali-hang}
 
-Ñāṇañ'ca pana me dassanaṁ udapādi.
+Ñāṇañ'ca pana me dassanaṁ udapādi
 
 \begin{pali-hang}
-  ``Akuppā me vimutti ayam'antimā jāti n'atthidāni punabbhavo''ti.
-\end{pali-hang}
-
-\begin{pali-hang}
-  Idam avoca bhagavā. Attamanā pañcavaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ.
+  ``Akuppā me vimutti ayam'antimā jāti n'atthidāni punabbhavo''ti
 \end{pali-hang}
 
 \begin{pali-hang}
-  Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
+  Idam avoca bhagavā \breathmark\ Attamanā pañcavaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
 \end{pali-hang}
 
-``Yaṁ kiñ'ci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman''ti.
+\begin{pali-hang}
+  Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
+\end{pali-hang}
+
+``Yaṁ kiñ'ci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman''ti
 
 \begin{pali-hang}
   Pavattite ca bhagavatā dhammacakke bhummā devā saddam'anussāvesuṁ:
 \end{pali-hang}
 
 \begin{pali-hang}
-  ``Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin''ti.
+  ``Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye \breathmark\ anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ \breathmark\ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin''ti
 \end{pali-hang}
 
 \begin{pali-hang}
-  Bhummānaṁ devānaṁ saddaṁ sutvā Cātummahārājikā devā saddam'anussāvesuṁ...
+  Bhummānaṁ devānaṁ saddaṁ sutvā \breathmark\ Cātummahārājikā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Cātummahārājikanaṁ devānaṁ saddaṁ sutvā Tāvatiṁsā devā saddam'anussāvesuṁ...
+  Cātummahārājikanaṁ devānaṁ saddaṁ sutvā \breathmark\ Tāvatiṁsā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā Yāmā devā saddam'anussāvesuṁ...
+  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā \breathmark\ Yāmā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāmānaṁ devānaṁ saddaṁ sutvā Tusitā devā saddam'anussāvesuṁ...
+  Yāmānaṁ devānaṁ saddaṁ sutvā \breathmark\ Tusitā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tusitānaṁ devānaṁ saddaṁ sutvā Nimmānaratī devā saddamanussavesum...
+  Tusitānaṁ devānaṁ saddaṁ sutvā \breathmark\ Nimmānaratī devā saddamanussavesum...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Nimmānaratīnaṁ devānaṁ saddaṁ sutvā Paranimmitavasavattī devā saddam'anussāvesuṁ...
+  Nimmānaratīnaṁ devānaṁ saddaṁ sutvā \breathmark\ Paranimmitavasavattī devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Paranimmitavasavattīnaṁ devānaṁ saddaṁ sutvā Brahmakāyikā devā saddam'anussāvesuṁ:
+  Paranimmitavasavattīnaṁ devānaṁ saddaṁ sutvā \breathmark\ Brahmakāyikā devā saddam'anussāvesuṁ:
 \end{pali-hang}
 
 \begin{pali-hang}
-  ``Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin''ti.
+  ``Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye \breathmark\ anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ \breathmark\ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin''ti
 \end{pali-hang}
 
 \begin{pali-hang}
-  Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkam'pi sampakam'pi sampavedhi appamāṇo ca oḷāro obhāso loke pāturahosi atikkamm'eva devānaṁ dev'ānubhāvaṁ.
+  Itiha tena khaṇena tena muhuttena \breathmark\ yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu \breathmark\ saṅkam'pi sampakam'pi sampavedhi \breathmark\ appamāṇo ca oḷāro obhāso loke pāturahosi atikkamm'eva devānaṁ dev'ānubhāvaṁ
 \end{pali-hang}
 
 Atha kho bhagavā udānaṁ udānesi:
 
 \begin{pali-hang}
-  ``Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño''ti. Iti h'idaṁ āyasmato koṇḍaññassa aññākoṇḍañño tv'eva nāmaṁ ahosī'ti.
+  ``Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño''ti \breathmark\ Iti h'idaṁ āyasmato koṇḍaññassa aññākoṇḍañño tv'eva nāmaṁ ahosī'ti
 \end{pali-hang}
 
 \suttaRef{[SN 56.11]}
@@ -7962,19 +7982,19 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{leader-english}
 
 \begin{english-only-hang}
-  On one occasion the Blessed One was dwelling at Bārāṇasī in the Deer Park at Isipatana. There the Blessed One addressed the bhikkhus of the group of five thus:
+  On one occasion the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana \breathmark\ There he addressed the bhikkhus of the group of five thus:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus these two extremes should not be followed by one who has gone forth into homelessness. What two? The pursuit of sensual happiness in sensual pleasures which is low vulgar the way of worldlings ignoble unbeneficial and the pursuit of self-mortification which is painful ignoble unbeneficial.
+  Bhikkhus these two extremes should not be followed \breathmark\ by one who has gone forth into homelessness \breathmark\ What two? The pursuit of sensual happiness in sensual pleasures \breathmark\ which is low \breathmark\ vulgar \breathmark\ the way of worldlings \breathmark\ ignoble \breathmark\ unbeneficial \breathmark\ and the pursuit of self-mortification \breathmark\ which is painful \breathmark\ ignoble \breathmark\ unbeneficial
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Without veering towards either of these extremes the Tathāgata has awakened to the middle way which gives rise to vision which gives rise to knowledge which leads to peace to direct knowledge to enlightenment to Nibbāna.
+  Without veering towards either of these extremes \breathmark\ the Tathāgata has awakened to the Middle Way \breathmark\ which gives rise to vision \breathmark\ which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  And what bhikkhus is the Middle Way awakened to by the Tathāgata which gives rise to vision which gives rise to knowledge which leads to peace to direct knowledge to enlightenment to Nibbāna.
+  And what is the Middle Way awakened to by the Tathāgata \breathmark\ which gives rise to vision \breathmark\ which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -7982,23 +8002,23 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  That Is Right View Right Intention Right Speech Right Action Right Livelihood Right Effort Right Mindfulness Right Concentration.
+  That Is Right View \breathmark\ Right Intention \breathmark\ Right Speech \breathmark\ Right Action \breathmark\ Right Livelihood \breathmark\ Right Effort \breathmark\ Right Mindfulness \breathmark\ Right Concentration
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  This bhikkhus is that middle way awakened to by the \mbox{Tathāgata}~which gives rise to vision which gives rise to knowledge which leads to peace to direct knowledge to enlightenment to Nibbāna.
+  This bhikkhus is that Middle Way awakened to by the Tathāgata \breathmark\ which gives rise to vision \breathmark\ which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this bhikkhus is the noble truth of suffering: birth is suffering ageing is suffering illness is suffering death is suffering union with what is displeasing is suffering separation from what is pleasing is suffering not to get what one wants is suffering in \mbox{brief}~the five aggregates subject to clinging are suffering.
+  Now this bhikkhus is the noble truth of suffering: birth is suffering \breathmark\ ageing is suffering \breathmark\ illness is suffering \breathmark\ death is suffering \breathmark\ union with what is displeasing is suffering \breathmark\ separation from what is pleasing is suffering \breathmark\ not to get what one wants is suffering \breathmark\ in brief \breathmark\ the five aggregates subject to clinging are suffering
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this bhikkhus is the noble truth of the origin of suffering: it is this craving which leads to renewed existence accompanied by delight and lust seeking delight here and there that is craving for sensual pleasures craving for existence craving for extermination.
+  Now this bhikkhus is the noble truth of the origin of suffering: it is this craving \breathmark\ which leads to renewed existence \breathmark\ accompanied by delight and lust \breathmark\ seeking delight here and there \breathmark\ that is craving for sensual pleasures \breathmark\ craving for existence \breathmark\ craving for extermination
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this bhikkhus is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation of that same craving the giving up and relinquishing of it freedom from it nonreliance on it.
+  Now this bhikkhus is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation \breathmark\ of that same craving \breathmark\ the giving up and relinquishing of it \breathmark\ freedom from it \breathmark\ nonreliance on it
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8006,71 +8026,71 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  That Is Right View Right Intention Right Speech Right Action Right Livelihood Right Effort Right Mindfulness Right Concentration.
+  That Is Right View \breathmark\ Right Intention \breathmark\ Right Speech \breathmark\ Right Action \breathmark\ Right Livelihood \breathmark\ Right Effort \breathmark\ Right Mindfulness \breathmark\ Right Concentration
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of suffering': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This is the noble truth of suffering': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  This noble truth of suffering is to be fully understood': thus \mbox{bhikkhus}~in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  This noble truth of suffering is to be fully understood': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  This noble truth of suffering has been fully understood': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  This noble truth of suffering has been fully understood': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of the origin of suffering': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This is the noble truth of the origin of suffering': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the origin of suffering is to be abandoned': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This noble truth of the origin of suffering is to be abandoned': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the origin of suffering has been abandoned': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This noble truth of the origin of suffering has been abandoned': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of the cessation of suffering': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This is the noble truth of the cessation of suffering': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the cessation of suffering is to be realized': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This noble truth of the cessation of suffering is to be realized': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the cessation of suffering has been realized': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This noble truth of the cessation of suffering has been realized': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of the way leading to the cessation of suffering': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This is the noble truth of the way leading to the cessation of suffering': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the way leading to the cessation of suffering is to be developed': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This noble truth of the way leading to the cessation of suffering is to be developed': thus bhikkhus in regard to things unheard \breathmark\ before there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the way leading to the cessation of suffering has been developed': thus bhikkhus in regard to things unheard before there arose in me vision knowledge wisdom true knowledge and light.
+  `This noble truth of the way leading to the cessation of suffering has been developed': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  So long bhikkhus as my knowledge and vision of these Four Noble Truths as they really are in their three phases and twelve aspects was not thoroughly purified in this way I did not claim to have awakened to the unsurpassed perfect enlightenment in this world with its devas Māra and Brahmā in this generation with its ascetics and brahmins its devas and humans.
+  Bhikkhus as long as my knowledge and vision \breathmark\ of these Four Noble Truths \breathmark\ as they really are \breathmark\ in their three phases and twelve aspects \breathmark\ was not entirely purified \breathmark\ in this way I did not claim to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas \breathmark\ Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans.
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  But when my knowledge and vision of these Four Noble Truths as they really are in their three phases and twelve aspects was thoroughly purified in this way then I claimed to have awakened to the unsurpassed perfect enlightenment in this world with its devas Māra and Brahmā in this generation with its ascetics and brahmins its devas and humans.
+  But when my knowledge and vision \breathmark\ of these Four Noble Truths \breathmark\ as they really are \breathmark\ in their three phases and twelve aspects \breathmark\ was entirely purified \breathmark\ in this way then I claimed to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas \breathmark\ Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans.
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  This is what the Blessed One said. Elated the bhikkhus of the group of five delighted in the Blessed One's statement.
+  This is what the Blessed One said \breathmark\ Elated the bhikkhus of the group of five delighted in the Blessed One's statement
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  And while this discourse was being spoken there arose in the Venerable Kondañña the dust-free stainless vision of the Dhamma:
+  And while this discourse was being spoken there arose in the Venerable Kondañña \breathmark\ the dust-free stainless vision of the Dhamma:
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8078,47 +8098,47 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  And when the Wheel of the Dhamma had been set in motion by the Blessed One, the earth-dwelling devas raised a cry:
+  And when the Wheel of the Dhamma had been set in motion by the Blessed One \breathmark\ the earth-dwelling devas raised a cry:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``At Bārāṇasī in the Deer Park at Isipatana this unsurpassed Wheel of the Dhamma has been set in motion by the Blessed One which cannot be stopped by any ascetic or brahmin or deva or Māra or Brahmā or by anyone in the world.''
+  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion \breathmark\ by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world.''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Having heard the cry of the earth-dwelling devas the devas of the realm of the Four Great Kings raised a cry...
+  Having heard the cry of the earth-dwelling devas \breathmark\ the devas of the realm of the Four Great Kings raised a cry...
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Having heard the cry of the devas of the realm of the Four Great Kings the Tāvatiṁsa devas raised a cry...
+  Having heard the cry of the devas of the realm of the Four Great Kings \breathmark\ the Tāvatiṁsa devas raised a cry...
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Having heard the cry of the Tāvatiṁsa devas the Yāma devas raised a cry...
+  Having heard the cry of the Tāvatiṁsa devas \breathmark\ the Yāma devas raised a cry...
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Having heard the cry of the Yāma devas the Tusita devas raised a cry...
+  Having heard the cry of the Yāma devas \breathmark\ the Tusita devas raised a cry...
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Having heard the cry of the Tusita devas the Nimmānaratī devas raised a cry...
+  Having heard the cry of the Tusita devas \breathmark\ the Nimmānaratī devas raised a cry...
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Having heard the cry of the Nimmānaratī devas the Paranimmitavasavattī devas raised a cry...
+  Having heard the cry of the Nimmānaratī devas \breathmark\ the Paranimmitavasavattī devas raised a cry...
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Having heard the cry of the Paranimmitavasavattī devas the devas of Brahmā's company raised a cry:
+  Having heard the cry of the Paranimmitavasavattī devas \breathmark\ the devas of Brahmā's company raised a cry:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``At Bārāṇasī in the Deer Park at Isipatana this unsurpassed Wheel of the Dhamma has been set in motion by the Blessed One which cannot be stopped by any ascetic or brahmin or deva or Māra or Brahmā or by anyone in the world.''
+  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion \breathmark\ by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world.''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Thus at that moment at that instant at that second the cry spread as far as the brahmā world and this ten thousandfold world system shook quaked and trembled and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas.
+  Thus at that moment \breathmark\ at that instant \breathmark\ at that second \breathmark\ the cry spread as far as the brahmā world \breathmark\ and this ten thousandfold world system shook \breathmark\ quaked and trembled \breathmark\ and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas.
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8130,14 +8150,14 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  In this way the Venerable Koṇḍañña acquired the name ``Aññā Koṇḍañña—Koṇḍañña Who Has Understood.''
+  In this way the Venerable Koṇḍañña acquired the name \breathmark\ ``Aññā Koṇḍañña—Koṇḍañña Who Has Understood.''
 \end{english-only-hang}
 
 \suttaRef{[SN 56.11]}
 
 #+end_src
 
-** Anatta-lakkhaṇa Sutta
+** Anatta-lakkhaṇa-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/anattalakkhana.tex
 
 \section{Anatta-lakkhaṇa-sutta}
@@ -8149,43 +8169,43 @@ Atha kho bhagavā udānaṁ udānesi:
 
 \linkdest{endnote107-body}
 \begin{pali-hang}
-  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: {``Bhikkhavo''ti}~\breathmark\ ``Bhadante''ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etad'avoca.\makeatletter\hyperlink{endnote107-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote107-appendix}{\hyperlink{endnote107-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: “Bhikkhavo” ti; “Bhadante” ti te bhikkhū Bhagavato paccassosuṁ. Bhagavā etad'avoca.}}}}}\makeatother
+  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye \breathmark\ Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: {``Bhikkhavo''ti}~\breathmark\ ``Bhadante''ti te bhikkhū bhagavato paccassosuṁ \breathmark\ Bhagavā etad'avoca\makeatletter\hyperlink{endnote107-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote107-appendix}{\hyperlink{endnote107-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: ``Bhikkhavo'' ti; ``Bhadante'' ti te bhikkhū Bhagavato paccassosuṁ. Bhagavā etad'avoca.}}}}}\makeatother
 \end{pali-hang}
 
 \begin{pali-hang}
-  Rūpaṁ bhikkhave anattā \breathmark\ rūpañ'ca h'idaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ na'y'idaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
+  Rūpaṁ bhikkhave anattā \breathmark\ rūpañ'ca h'idaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ na'y'idaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave rūpaṁ anattā \breathmark\ tasmā rūpaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti.
+  Yasmā ca kho bhikkhave rūpaṁ anattā \breathmark\ tasmā rūpaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Vedanā anattā \breathmark\ vedanā ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
+  Vedanā anattā \breathmark\ vedanā ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave vedanā anattā \breathmark\ tasmā vedanā ābādhāya saṁvattati \breathmark\ na ca labbhati vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti.
+  Yasmā ca kho bhikkhave vedanā anattā \breathmark\ tasmā vedanā ābādhāya saṁvattati \breathmark\ na ca labbhati vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Saññā anattā \breathmark\ saññā ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
+  Saññā anattā \breathmark\ saññā ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti.
+  Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Saṅkhārā anattā \breathmark\ saṅkhārā ca h'idaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
+  Saṅkhārā anattā \breathmark\ saṅkhārā ca h'idaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave saṅkhārā anattā \breathmark\ tasmā saṅkhārā ābādhāya saṁvattanti \breathmark\ na ca labbhati saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti.
+  Yasmā ca kho bhikkhave saṅkhārā anattā \breathmark\ tasmā saṅkhārā ābādhāya saṁvattanti \breathmark\ na ca labbhati saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
+  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti.
+  Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
 \end{pali-hangtogether}
 
 \begin{pali-leader}
@@ -8195,131 +8215,131 @@ Atha kho bhagavā udānaṁ udānesi:
   Rūpaṁ niccaṁ vā aniccaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Aniccaṁ bhante.
+  Aniccaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Dukkhaṁ bhante.
+  Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  No h'etaṁ bhante.
+  No h'etaṁ bhante
 \end{pali-hangtogether}
 
 \begin{pali-hang}
   Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā vā'ti?
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Aniccā bhante.
+  Aniccā bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Dukkhaṁ bhante.
+  Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  No h'etaṁ bhante.
+  No h'etaṁ bhante
 \end{pali-hangtogether}
 
 \begin{pali-hang}
   Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā vā'ti?
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Aniccā bhante.
+  Aniccā bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Dukkhaṁ bhante.
+  Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  No h'etaṁ bhante.
+  No h'etaṁ bhante
 \end{pali-hangtogether}
 
 \begin{pali-hang}
   Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā vā'ti?
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Aniccā bhante.
+  Aniccā bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Dukkhaṁ bhante.
+  Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  No h'etaṁ bhante.
+  No h'etaṁ bhante
 \end{pali-hangtogether}
 
 \begin{pali-hang}
   Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ vā'ti?
 \end{pali-hang}
 \begin{pali-hangtogether}
-  Aniccaṁ bhante.
+  Aniccaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Dukkhaṁ bhante.
+  Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  No h'etaṁ bhante.
+  No h'etaṁ bhante
 \end{pali-hangtogether}
 
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Tasmā't'iha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Yaṅ'kiñci rūpaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yaṅ'kiñci rūpaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Yā kāci vedanā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā vedanā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yā kāci vedanā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā vedanā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yā kāci saññā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā vā \breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā saññā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yā kāci saññā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā vā \breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā saññā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ye keci saṅkhārā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike \mbox{vā}~\breathmark\ sabbe saṅkhārā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Ye keci saṅkhārā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike \mbox{vā}~\breathmark\ sabbe saṅkhārā: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yaṅ'kiñci viññāṇaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
+  Yaṅ'kiñci viññāṇaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``N'etaṁ mama neso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ
 \end{pali-hang}
 
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sutvā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti.
+  Sutvā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
 \end{pali-hangtogether}
 
 \clearpage
 
 \begin{pali-hang}
-  Idam'avoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti.
+  Idam'avoca bhagavā \breathmark\ Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ \breathmark\ Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti
 \end{pali-hang}
 
 \suttaRef{[SN 22.59]}
@@ -8343,43 +8363,43 @@ Atha kho bhagavā udānaṁ udānesi:
   On one occasion\makeatletter\hyperlink{endnote108-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote108-appendix}{\hyperlink{endnote108-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother
 \linkdest{endnote109-body}
-  the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana. There he addressed the bhikkhus of the group of five: ``Bhikkhus'' – ``Venerable Sir'' they replied. The Blessed One said this:\makeatletter\hyperlink{endnote109-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote109-appendix}{\hyperlink{endnote109-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: “'Bhikkhus' – 'Venerable Sir', they replied. The Blessed One said this:”}}}}}\makeatother
+  the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana \breathmark\ There he addressed the bhikkhus of the group of five: ``Bhikkhus'' – ``Venerable Sir'' they replied. The Blessed One said this:\makeatletter\hyperlink{endnote109-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote109-appendix}{\hyperlink{endnote109-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: ``'Bhikkhus' – 'Venerable Sir', they replied. The Blessed One said this:''}}}}}\makeatother
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus form is not-self. If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
+  Bhikkhus form is not-self \breathmark\ If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus''
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus.''
+  But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus''
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Feeling is not-self. If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''
+  Feeling is not-self \breathmark\ If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus''
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since feeling is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus.''
+  But since feeling is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus''
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Perception is not-self. If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''
+  Perception is not-self \breathmark\ If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus''
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since perception is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus.''
+  But since perception is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus''
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Volitional formations are not-self. If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''
+  Volitional formations are not-self \breathmark\ If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus''
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since volitional formations are not-self \breathmark\ they lead to \mbox{affliction}~\breathmark\ and none can command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus.''
+  But since volitional formations are not-self \breathmark\ they lead to \mbox{affliction}~\breathmark\ and none can command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus''
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Consciousness is not-self. If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
+  Consciousness is not-self \breathmark\ If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus''
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus.''
+  But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus''
 \end{english-only-hangtogether}
 
 \begin{english-only-leader}
@@ -8389,118 +8409,118 @@ Atha kho bhagavā udānaṁ udānesi:
     ``Is form permanent or impermanent?''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
-  ``Impermanent venerable Sir.''
+  ``Impermanent Venerable Sir''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
   ``Is what is impermanent satisfactory or unsatisfactory?''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
-  ``Unsatisfactory venerable Sir.''
+  ``Unsatisfactory Venerable Sir''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
-  ``No venerable Sir.''
+  ``No Venerable Sir''
   \end{english-only-hangtogether}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Is feeling permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent venerable Sir.''\\
+  ``Impermanent Venerable Sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory venerable Sir.''\\
+  ``Unsatisfactory Venerable Sir''\\
   \begin{english-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
-  ``No venerable Sir.''
+  ``No Venerable Sir''
 \end{english-only-nohang}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Is perception permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent venerable Sir.''\\
+  ``Impermanent Venerable Sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory venerable Sir.''\\
+  ``Unsatisfactory Venerable Sir''\\
   \begin{english-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
-  ``No venerable Sir.''
+  ``No Venerable Sir''
 \end{english-only-nohang}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Are volitional formations permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent venerable Sir.''\\
+  ``Impermanent Venerable Sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory venerable Sir.''
+  ``Unsatisfactory Venerable Sir''
   \begin{english-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''
   \end{english-hangtogether}
-  ``No venerable Sir.''
+  ``No Venerable Sir''
 \end{english-only-nohang}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Is consciousness permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent venerable Sir.''\\
+  ``Impermanent Venerable Sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory venerable Sir.''\\
+  ``Unsatisfactory Venerable Sir''\\
   \begin{english-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
-  ``No venerable Sir.''
+  ``No Venerable Sir''
 \end{english-only-nohang}
 
 \begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Therefore bhikkhus} \hspace{-0.5mm}\anglebracketright\
 \end{english-only-leader}
 \begin{english-only-hangtogether}
-  Any kind of form whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+  Any kind of form whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Any kind of feeling whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+  Any kind of feeling whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Any kind of perception whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or \mbox{superior}~\breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+  Any kind of perception whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or \mbox{superior}~\breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Any kind of volitional formation whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+  Any kind of volitional formation whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Any kind of consciousness whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or \mbox{superior}~\breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self.''
+  Any kind of consciousness whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or \mbox{superior}~\breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
 \end{english-only-hang}
 
 \linkdest{endnote110-body}
 \begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple}\makeatletter\hyperlink{endnote110-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as “noble disciple” or “disciple of the noble one” (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
+        \hypertarget{endnote110-appendix}{\hyperlink{endnote110-body}{\textit{Ariyasāvaka} can be translated as ``noble disciple'' or ``disciple of the noble one'' (\textit{ariyassa}+\textit{sāvaka}=\textit{ariyasāvaka}). I have opted for the first option here because the discourse addresses the group of five monks who all were \textit{Ariyas} already at that time, but it needs to be kept in mind that the term \textit{ariyasāvaka} does not always refer to individuals who have already attained one of the four paths or fruits. This can be seen from MN 27, where a person is referred to as \textit{ariyasāvaka} without reference to any form of awakening-attainment. It is only at the end of the discourse that this \textit{ariyasāvaka} attains awakening.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
 \end{english-only-leader}
 \linkdest{endnote111-body}
 \begin{english-only-hangtogether}
   Who has heard the teaching\makeatletter\hyperlink{endnote111-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote111-appendix}{\hyperlink{endnote111-body}{The word “the teaching” is not explicitly expressed in the Pāḷi, but was inserted for comprehension.}}}}}\makeatother
-  sees thus \breathmark\ he becomes disenchanted with form \breathmark\ becomes disenchanted with feeling \breathmark\ becomes disenchanted with \mbox{perception}~\breathmark\ becomes disenchanted with volitional formations \breathmark\ becomes disenchanted with consciousness.
+        \hypertarget{endnote111-appendix}{\hyperlink{endnote111-body}{The word ``the teaching'' is not explicitly expressed in the Pāḷi, but was inserted for comprehension.}}}}}\makeatother
+  sees thus \breathmark\ he becomes disenchanted with form \breathmark\ becomes disenchanted with feeling \breathmark\ becomes disenchanted with \mbox{perception}~\breathmark\ becomes disenchanted with volitional formations \breathmark\ becomes disenchanted with consciousness
 \end{english-only-hangtogether}
 
 \linkdest{endnote112-body}
 \begin{english-only-hang}
-  When he is disenchanted passion fades away. With the fading of passion he is liberated. When liberated there is knowledge that he is liberated. He understands: ``Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation.''\makeatletter\hyperlink{endnote112-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote112-appendix}{\hyperlink{endnote112-body}{\textit{Kataṁ karaṇīyaṁ, n'āparaṁ itthattāyā’ti} literally means “What has to be done is done. There is nothing else (to so) for the sake of such a (liberated) state.” For a discussion of this passage see Bhikkhu Bodhi, Middle Length Discourses, \textit{Bhayabheravasutta}, MN 4, footnote 76.}}}}}\makeatother
+  When he is disenchanted passion fades away \breathmark\ With the fading of passion he is liberated \breathmark\ When liberated there is knowledge that he is liberated \breathmark\ He understands: ``Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation''\makeatletter\hyperlink{endnote112-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote112-appendix}{\hyperlink{endnote112-body}{\textit{Kataṁ karaṇīyaṁ, n'āparaṁ itthattāyā’ti} literally means ``What has to be done is done. There is nothing else (to so) for the sake of such a (liberated) state.'' For a discussion of this passage see Bhikkhu Bodhi, Middle Length Discourses, \textit{Bhayabheravasutta}, MN 4, footnote 76.}}}}}\makeatother
 \end{english-only-hang}
 
 \clearpage
 
 \begin{english-only-hang}
-  That is what the Blessed One said. The bhikkhus of the group of five were glad and they approved of his words. Now during this utterance \breathmark\ the hearts of the bhikkhus of the group of five \breathmark\ were liberated from the taints through the cessation of clinging.
+  That is what the Blessed One said \breathmark\ The bhikkhus of the group of five were glad and they approved of his words \breathmark\ Now during this utterance \breathmark\ the hearts of the bhikkhus of the group of five \breathmark\ were liberated from the taints through the cessation of clinging
 \end{english-only-hang}
 
 \suttaRef{[SN 22.59]}
@@ -8509,7 +8529,7 @@ Atha kho bhagavā udānaṁ udānesi:
 
 #+end_src
 
-** Āditta-pariyāya Sutta
+** Āditta-pariyāya-sutta
 #+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya.tex
 
 \section{Āditta-pariyāya-sutta}
@@ -8520,7 +8540,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{leader}
 
 \begin{pali-hang}
-  Ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. Tatra kho bhagavā bhikkhū āmantesi:
+  Ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena \breathmark\ Tatra kho bhagavā bhikkhū āmantesi:
 \end{pali-hang}
 
 Sabbaṁ bhikkhave ādittaṁ!
@@ -8528,90 +8548,90 @@ Sabbaṁ bhikkhave ādittaṁ!
 Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 \begin{pali-hang}
-  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
+  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhuviññāṇaṁ ādittaṁ \breathmark\ cakkhusamphasso āditto \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
+  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sotaviññāṇaṁ ādittaṁ \breathmark\ sotasamphasso āditto \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
+  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghānaviññāṇaṁ ādittaṁ \breathmark\ ghānasamphasso āditto \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
+  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhāviññāṇaṁ ādittaṁ \breathmark\ jivhāsamphasso āditto \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
+  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāyaviññāṇaṁ ādittaṁ \breathmark\ kāyasamphasso āditto \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ.
+  Mano āditto \breathmark\ dhammā ādittā \breathmark\ manoviññāṇaṁ ādittaṁ \breathmark\ manosamphasso āditto \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
 Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi.
+  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
 \end{pali-hangtogether}
 
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphasse'pi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
+  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphasse'pi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Sotasmim'pi nibbindati \breathmark\ saddesu'pi nibbindati \breathmark\ sotaviññāṇe'pi nibbindati \breathmark\ sotasamphasse'pi nibbindati \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
+  Sotasmim'pi nibbindati \breathmark\ saddesu'pi nibbindati \breathmark\ sotaviññāṇe'pi nibbindati \breathmark\ sotasamphasse'pi nibbindati \breathmark\ yam'p'idaṁ sotasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ghānasmim'pi nibbindati \breathmark\ gandhesu'pi nibbindati \breathmark\ ghānaviññāṇe'pi nibbindati \breathmark\ ghānasamphasse'pi nibbindati \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
+  Ghānasmim'pi nibbindati \breathmark\ gandhesu'pi nibbindati \breathmark\ ghānaviññāṇe'pi nibbindati \breathmark\ ghānasamphasse'pi nibbindati \breathmark\ yam'p'idaṁ ghānasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jivhāya'pi nibbindati \breathmark\ rasesu'pi nibbindati \breathmark\ jivhāviññāṇe'pi nibbindati \breathmark\ jivhāsamphasse'pi nibbindati \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
+  Jivhāya'pi nibbindati \breathmark\ rasesu'pi nibbindati \breathmark\ jivhāviññāṇe'pi nibbindati \breathmark\ jivhāsamphasse'pi nibbindati \breathmark\ yam'p'idaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hang}
 
 \begin{pali-hang}
-  Kāyasmim'pi nibbindati \breathmark\ phoṭṭhabbesu'pi nibbindati \breathmark\ kāyaviññāṇe'pi nibbindati \breathmark\ kāyasamphasse'pi nibbindati \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
+  Kāyasmim'pi nibbindati \breathmark\ phoṭṭhabbesu'pi nibbindati \breathmark\ kāyaviññāṇe'pi nibbindati \breathmark\ kāyasamphasse'pi nibbindati \breathmark\ yam'p'idaṁ kāyasamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hang}
 
 \begin{pali-hang}
-  Manasmim'pi nibbindati \breathmark\ dhammesu'pi nibbindati \breathmark\ manoviññāṇe'pi nibbindati \breathmark\ manosamphasse'pi nibbindati \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati.
+  Manasmim'pi nibbindati \breathmark\ dhammesu'pi nibbindati \breathmark\ manoviññāṇe'pi nibbindati \breathmark\ manosamphasse'pi nibbindati \breathmark\ yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8619,11 +8639,11 @@ Kena ādittaṁ?
 \end{pali-hang}
 
 \begin{pali-hang}
-  `Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā'ti pajānātī'ti.
+  `Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā'ti pajānātī'ti
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idam'avoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū'ti.
+  Idam'avoca bhagavā \breathmark\ Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsū'ti
 \end{pali-hang}
 
 \suttaRef{[SN 35.28]}
@@ -8645,7 +8665,7 @@ Kena ādittaṁ?
 \linkdest{endnote113-body}
 \begin{english-only-hang}
   On one occasion\makeatletter\hyperlink{endnote113-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote113-appendix}{\hyperlink{endnote113-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother\thinspace the Blessed One was dwelling at Gayā \breathmark\ at Gayā's Head \breathmark\ together with a thousand bhikkhus. There he addressed the bhikkhus:
+        \hypertarget{endnote113-appendix}{\hyperlink{endnote113-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother\thinspace the Blessed One was dwelling at Gayā \breathmark\ at Gayā's Head \breathmark\ together with a thousand bhikkhus \breathmark\ There he addressed the bhikkhus:
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8657,116 +8677,116 @@ Kena ādittaṁ?
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus the eye is burning \breathmark\ forms are burning \breathmark\ eye-consciousness is burning \breathmark\ eye-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ that too is burning.
+  Bhikkhus the eye is burning \breathmark\ forms are burning \breathmark\ eye-consciousness is burning \breathmark\ eye-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
   Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The ear is burning \breathmark\ sounds are burning \breathmark\ ear-consciousness is burning \breathmark\ ear-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ that too is burning.
+  The ear is burning \breathmark\ sounds are burning \breathmark\ ear-consciousness is burning \breathmark\ ear-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
   Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The nose is burning \breathmark\ odours are burning \breathmark\ nose-consciousness is \mbox{burning}~\breathmark\ nose-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ that too is burning.
+  The nose is burning \breathmark\ odours are burning \breathmark\ nose-consciousness is \mbox{burning}~\breathmark\ nose-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
   Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The tongue is burning \breathmark\ flavours are burning \breathmark\ tongue-consciousness is burning \breathmark\ tongue-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ that too is burning.
+  The tongue is burning \breathmark\ flavours are burning \breathmark\ tongue-consciousness is burning \breathmark\ tongue-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
   Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The body is burning \breathmark\ tangibles are burning \breathmark\ body-consciousness is burning \breathmark\ body-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ that too is burning.
+  The body is burning \breathmark\ tangibles are burning \breathmark\ body-consciousness is burning \breathmark\ body-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
   Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The mind is burning \breathmark\ mind-objects are burning \breathmark\ mind-consciousness is burning \breathmark\ mind-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-{pleasant}~\breathmark\ that arises from mind-contact as its condition \breathmark\ that too is burning.
+  The mind is burning \breathmark\ mind-objects are burning \breathmark\ mind-consciousness is burning \breathmark\ mind-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-{pleasant}~\breathmark\ that arises from mind-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
   Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion.
+  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs.
+  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple} \hspace{-0.5mm}\anglebracketright\
 \end{english-only-leader}
 \begin{english-only-hangtogether}
-  Who has heard the teaching sees \mbox{thus}~\breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted.
+  Who has heard the teaching sees \mbox{thus}~\breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the ear \breathmark\ becomes disenchanted with sounds \breathmark\ becomes disenchanted with ear-consciousness \breathmark\ becomes disenchanted with ear-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ with that too be becomes disenchanted.
+  He becomes disenchanted with the ear \breathmark\ becomes disenchanted with sounds \breathmark\ becomes disenchanted with ear-consciousness \breathmark\ becomes disenchanted with ear-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ with that too be becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the nose \breathmark\ becomes disenchanted with odours \breathmark\ becomes disenchanted with nose-consciousness \breathmark\ becomes disenchanted with nose-contact \breathmark\ and what is felt as pleasant or \mbox{painful}~\breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ with that too he becomes disenchanted.
+  He becomes disenchanted with the nose \breathmark\ becomes disenchanted with odours \breathmark\ becomes disenchanted with nose-consciousness \breathmark\ becomes disenchanted with nose-contact \breathmark\ and what is felt as pleasant or \mbox{painful}~\breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the tongue \breathmark\ becomes disenchanted with flavours \breathmark\ becomes disenchanted with tongue-consciousness \breathmark\ becomes disenchanted with tongue-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ with that too he becomes disenchanted.
+  He becomes disenchanted with the tongue \breathmark\ becomes disenchanted with flavours \breathmark\ becomes disenchanted with tongue-consciousness \breathmark\ becomes disenchanted with tongue-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the body \breathmark\ becomes disenchanted with tangibles \breathmark\ becomes disenchanted with body-consciousness \breathmark\ becomes disenchanted with body-contact \breathmark\ and what is felt as pleasant or \mbox{painful}~\breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ with that too he becomes disenchanted.
+  He becomes disenchanted with the body \breathmark\ becomes disenchanted with tangibles \breathmark\ becomes disenchanted with body-consciousness \breathmark\ becomes disenchanted with body-contact \breathmark\ and what is felt as pleasant or \mbox{painful}~\breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the mind \breathmark\ becomes disenchanted with mind-objects \breathmark\ becomes disenchanted with mind-consciousness \breathmark\ becomes disenchanted with mind-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from mind-contact as its condition \breathmark\ with that too he becomes disenchanted.
+  He becomes disenchanted with the mind \breathmark\ becomes disenchanted with mind-objects \breathmark\ becomes disenchanted with mind-consciousness \breathmark\ becomes disenchanted with mind-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from mind-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  When he is disenchanted passion fades away. With the fading of passion he is liberated. When liberated there is knowledge that he is liberated. He understands: ``Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation.''
+  When he is disenchanted passion fades away \breathmark\ With the fading of passion he is liberated \breathmark\ When liberated there is knowledge that he is liberated \breathmark\ He understands: ``Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  That is what the Blessed One said. The bhikkhus were glad and they approved of his words. Now during this utterance \breathmark\ the hearts of those thousand bhikkhus \breathmark\ were liberated from the taints through the cessation of clinging.
+  That is what the Blessed One said \breathmark\ The bhikkhus were glad and they approved of his words \breathmark\ Now during this utterance \breathmark\ the hearts of those thousand bhikkhus \breathmark\ were liberated from the taints through the cessation of clinging
 \end{english-only-hang}
 
 \suttaRef{[SN 35.28]}
@@ -8819,7 +8839,7 @@ Evam'eva ito dinnaṁ
 \linkdest{endnote114-body}
 \begin{english}
   Likewise what's been given here\makeatletter\hyperlink{endnote114-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote114-appendix}{\hyperlink{endnote114-body}{WPN: “So will what’s here been given”}}}}}\makeatother
+        \hypertarget{endnote114-appendix}{\hyperlink{endnote114-body}{WPN: ``So will what’s here been given''}}}}}\makeatother
 \end{english}
 
 Petānaṁ upakappati
@@ -8827,7 +8847,7 @@ Petānaṁ upakappati
 \linkdest{endnote115-body}
 \begin{english}
   Benefits the departed ones\makeatletter\hyperlink{endnote115-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote115-appendix}{\hyperlink{endnote115-body}{WPN: “Bring blessings to departed spirits”}}}}}\makeatother
+        \hypertarget{endnote115-appendix}{\hyperlink{endnote115-body}{WPN: ``Bring blessings to departed spirits''}}}}}\makeatother
 \end{english}
 
 
@@ -8865,7 +8885,7 @@ Maṇi joti-raso yathā\makeatletter\hyperlink{endnote116-appendix}\Hy@raisedlin
 
 \linkdest{endnote117-body}
 Sabb'ītiyo vivajjantu\makeatletter\hyperlink{endnote117-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote117-appendix}{\hyperlink{endnote117-body}{When chanted for laypeople, this line is recited only by the secondmost senior monk. Subsequently, the remainder of the Saṅgha joins in.}}}}}\makeatother
+      \hypertarget{endnote117-appendix}{\hyperlink{endnote117-body}{When chanted for laypeople, this line is recited only by the secondmost senior monk. Subsequently, the remainder of the \textit{Saṅgha} joins in.}}}}}\makeatother
 
 \begin{english}
   May all misfortunes be avoided
@@ -9004,14 +9024,14 @@ Sadā sotthī bhavantu te
 
 \linkdest{endnote119-body}
 % \begin{leader-yatha}
-  \anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā paripūrenti sāgaraṁ \breathmark\ evam'eva ito dinnaṁ petānaṁ upakappati \breathmark\ icchitaṁ patthitaṁ tumhaṁ khippam'eva samijjhatu sabbe pūrentu saṅkappā \breathmark\ cando paṇṇa-raso yathā maṇi joti-raso yathā\makeatletter\hyperlink{endnote119-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the Saṅghatthera.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
+\anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā paripūrenti sāgaraṁ \breathmark\ evam'eva ito dinnaṁ petānaṁ upakappati \breathmark\ icchitaṁ patthitaṁ tumhaṁ khippam'eva samijjhatu sabbe pūrentu saṅkappā \breathmark\ cando paṇṇa-raso yathā maṇi joti-raso yathā\makeatletter\hyperlink{endnote119-appendix}\Hy@raisedlink{{\pagenote{%
+      \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the \textit{Saṅghatthera}.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
 % \end{leader-yatha}
 
 \linkdest{endnote120-body}
 \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}Sabb'ītiyo vivajjantu\makeatletter\hyperlink{endnote120-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote120-appendix}{\hyperlink{endnote120-body}{This line is recited only by the secondmost senior monk. Subsequently, the remainder of the Saṅgha joins in.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
+        \hypertarget{endnote120-appendix}{\hyperlink{endnote120-body}{This line is recited only by the secondmost senior monk. Subsequently, the remainder of the \textit{Saṅgha} joins in.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.5cm}
@@ -9037,7 +9057,7 @@ Sadā sotthī bhavantu te
 \linkdest{endnote145-body}
 \begin{pali-hangtogether}
   Āyu vaṇṇo sukhaṁ balaṁ\makeatletter\hyperlink{endnote121-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote121-appendix}{\hyperlink{endnote121-body}{In the Thai tradition, a long pause is made after “\textit{sukhaṁ}”, and “\textit{balaṁ}” is recited in a slow and drawn-out manner.}}}}}\makeatother\makeatletter\hyperlink{endnote145-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote121-appendix}{\hyperlink{endnote121-body}{In the Thai tradition, a long pause is made after ``\textit{sukhaṁ}'', and ``\textit{balaṁ}'' is recited in a slow and drawn-out manner.}}}}}\makeatother\makeatletter\hyperlink{endnote145-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote145-appendix}{\hyperlink{endnote145-body}{For translations of the above see the the previous chant, titled ``Just as Rivers''.}}}}}\makeatother
 \end{pali-hangtogether}
 
@@ -9095,7 +9115,7 @@ Sadā sotthī bhavantu te
 \begin{verses}
   So tassa deti pañca'pi\\
   Āyuṁ balaṁ sukhaṁ vaṇṇaṁ\\
-\linkdest{endnote122-body}
+  \linkdest{endnote122-body}
   Paṭibhānañ'ca pañcamaṁ\makeatletter\hyperlink{endnote122-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote122-appendix}{\hyperlink{endnote122-body}{The first four lines were composed by Āyasmā Aggacitta, functioning as an introduction to the chant.}}}}}\makeatother\\
   Āyu-do bala-do dhīro\\
@@ -9103,9 +9123,9 @@ Sadā sotthī bhavantu te
   Sukhassa dātā medhāvī\\
   Sukhaṁ so adhigacchati\\
   Āyuṁ datvā balaṁ vaṇṇaṁ\\
-\linkdest{endnote123-body}
+  \linkdest{endnote123-body}
   Sukhañ'ca paṭibhānakaṁ\makeatletter\hyperlink{endnote123-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote123-appendix}{\hyperlink{endnote123-body}{WPN: “paṭībhāna-do”}}}}}\makeatother\\
+        \hypertarget{endnote123-appendix}{\hyperlink{endnote123-body}{WPN: ``\textit{paṭībhāna-do}''}}}}}\makeatother\\
   Dīgh'āyu yasavā hoti\\
   Yattha yatth'ūpapajjati\\
   Abhivādanasīlissa\\
@@ -9290,8 +9310,6 @@ Sadā sotthī bhavantu te
 \section{Kāla-dāna-sutta-gāthā}
 \label{kala-dana-sutta-gatha}
 
-% \vspace{-0.6em}
-
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Kāle dadanti sapaññā \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
@@ -9439,7 +9457,7 @@ Sadā sotthī bhavantu te
 \linkdest{endnote124-body}
 \begin{leader-yatha}
   \anglebracketleft\ \hspace{-0.5mm}Pharitvāna\makeatletter\hyperlink{endnote124-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote124-appendix}{\hyperlink{endnote124-body}{The “Invitation to the Devas” is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do.}}}}}\makeatother
+        \hypertarget{endnote124-appendix}{\hyperlink{endnote124-body}{The ``Invitation to the Devas'' is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do.}}}}}\makeatother
   mettaṁ samettā bhadantā\\
   Avikkhitta-cittā parittaṁ bhaṇantu\\
   Sagge kāme ca rūpe giri-sikhara-taṭe c'antalikkhe vimāne\\
@@ -9447,12 +9465,12 @@ Sadā sotthī bhavantu te
   Bhummā c'āyantu devā jala-thala-visame yakkha-gandhabba-nāgā\\
   Tiṭṭhantā santike yaṁ muni-vara-vacanaṁ sādhavo me suṇantu\\
   Buddha-dassana-kālo ayam'bhadantā\\
-\linkdest{endnote125-body}
+  \linkdest{endnote125-body}
   Dhammassavana-kālo ayam'bhadantā\makeatletter\hyperlink{endnote125-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote125-appendix}{\hyperlink{endnote125-body}{When chanted for laypeople, only the 2nd line (\textit{Dhammassavana kālo}...) is recited, which is repeated three times.}}}}}\makeatother\\
-\linkdest{endnote126-body}
+  \linkdest{endnote126-body}
   Saṅgha-payirupāsana-kālo ayam'bhadantā\makeatletter\hyperlink{endnote126-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{WPN: “Payirūpāsana”. Pari+upa=payirupa}}}}}\makeatother\thinspace \hspace{-0.5mm}\anglebracketright\
+        \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{WPN: ``\textit{Payirūpāsana}''. \textit{Pari} + \textit{upa} = \textit{payirupa}}}}}}\makeatother\thinspace \hspace{-0.5mm}\anglebracketright\
 \end{leader-yatha}
 
 \begin{leader-yatha}
@@ -9546,8 +9564,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   A third time, to the Buddha I go for refuge.\\
   A third time, to the Dhamma I go for refuge.\\
   A third time, to the Saṅgha I go for refuge.\makeatletter\hyperlink{endnote146-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote146-appendix}{\hyperlink{endnote146-body}{The above chant as been list sas a traditional because }}}}}\makeatother
-
+        \hypertarget{endnote146-appendix}{\hyperlink{endnote146-body}{This chant has been referenced as traditional because there is no direct correlative. The closest would be the stock phrase of a newly acquired lay follower:  MN 26  }}}}}\makeatother
 \end{english-verses}
 
 \suttaRef{[Trad]}
@@ -10577,9 +10594,9 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Sakkatvā buddha-ratanaṁ\\
-\linkdest{endnote127-body}
+  \linkdest{endnote127-body}
   Osadhaṁ\makeatletter\hyperlink{endnote127-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote127-appendix}{\hyperlink{endnote127-body}{WPN: “Osathaṁ”. \textit{Osatha} is not a word found in Pāli dictionaries, but “\textit{osadha}” (medicine) is. The spelling “\textit{osatha}” is due to a faulty transliteration, influenced by Thai style of Pāli pronunciation, where “d” often becomes “t”. The \textit{Mahā-jaya-maṅgala-gāthā} was originally composed in Sri Lanka. The Sri Lankan version indeed speaks of “\textit{osadha}”, thus confirming above explanation for the spelling error.}}}}}\makeatother
+        \hypertarget{endnote127-appendix}{\hyperlink{endnote127-body}{WPN: ``\textit{Osathaṁ}''. \textit{Osatha} is not a word found in Pāli dictionaries, but ``\textit{osadha}'' (medicine) is. The spelling ``\textit{osatha}'' is due to a faulty transliteration, influenced by Thai style of Pāli pronunciation, where ``d'' often becomes ``t''. The \textit{Mahā-jaya-maṅgala-gāthā} was originally composed in Sri Lanka. The Sri Lankan version indeed speaks of ``\textit{osadha}'', thus confirming above explanation for the spelling error.}}}}}\makeatother
   uttamaṁ varaṁ\\
   Hitaṁ deva-manussānaṁ\\
   Buddha-tejena sotthinā\\
@@ -10805,9 +10822,9 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \begin{pali-hang-continued}
   Ettāvatā ca amhehi\\
   Sambhataṁ puñña-sampadaṁ\\
-\linkdest{endnote128-body}
+  \linkdest{endnote128-body}
   Sabbe devā anumodantu\makeatletter\hyperlink{endnote128-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote128-appendix}{\hyperlink{endnote128-body}{WPN: “devānumodantu”}}}}}\makeatother\\
+        \hypertarget{endnote128-appendix}{\hyperlink{endnote128-body}{WPN: ``\textit{devānumodantu}''}}}}}\makeatother\\
   Sabba-sampatti-siddhiyā
 \end{pali-hang-continued}
 
@@ -10869,7 +10886,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
 \linkdest{endnote129-body}
   Dān'ādi-dhamma-vidhinā jitavā\makeatletter\hyperlink{endnote129-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote129-appendix}{\hyperlink{endnote129-body}{Here and in all subsequent verses we find the word “\textit{jitavā}”. The standard spelling would be “\textit{jitvā}” (abs. of \textit{jināti}; having conquered). In contrast “\textit{jitavā}” is a transliteration based on Thai spelling and pronunciation of Pāli, which has a tendency to insert the letter “a” between two consonants such as -\textit{tvā}, thus making it into -\textit{tavā}. It is by spelling anomalies like this, that Pāli scholars can determine the place of origin and age of certain Pāli texts.}}}}}\makeatother
+        \hypertarget{endnote129-appendix}{\hyperlink{endnote129-body}{Here and in all subsequent verses we find the word ``\textit{jitavā}''. The standard spelling would be ``\textit{jitvā}'' (abs. of \textit{jināti}; having conquered). In contrast ``\textit{jitavā}'' is a transliteration based on Thai spelling and pronunciation of Pāli, which has a tendency to insert the letter ``a'' between two consonants such as -\textit{tvā}, thus making it into -\textit{tavā}. It is by spelling anomalies like this, that Pāli scholars can determine the place of origin and age of certain Pāli texts.}}}}}\makeatother
   mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni
 \end{pali-hangtogether}
@@ -11077,9 +11094,9 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Padakkhiṇaṁ kāya-kammaṁ\\
   Vācā-kammaṁ padakkhiṇaṁ\\
   Padakkhiṇaṁ mano-kammaṁ\\
-\linkdest{endnote130-body}
+  \linkdest{endnote130-body}
   Paṇīdhi te padakkhiṇe\makeatletter\hyperlink{endnote130-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote130-appendix}{\hyperlink{endnote130-body}{WPN: “paṇidhi” and “padakkhiṇā”}}}}}\makeatother\\
+        \hypertarget{endnote130-appendix}{\hyperlink{endnote130-body}{WPN: ``\textit{paṇidhi}'' and ``\textit{padakkhiṇā}''}}}}}\makeatother\\
   Padakkhiṇāni katvāna\\
   Labhant'atthe padakkhiṇe
 \end{pali-hang-continued}
@@ -11472,13 +11489,11 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
 
-% \begin{leader-only}
-%   \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-1.00mm}\anglebracketright\
-% \end{leader-only}
+\begin{pali-leader}
+  \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-1.00mm}\anglebracketright\
+\end{pali-leader}
 % TODO fix hang indent and hand indent continued
 % TODO don't let line end with the
-% TODO G correct way to git merge
-
 \begin{pali-hangtogether}
   Rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
 \end{pali-hangtogether}
@@ -11492,17 +11507,17 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 
 \suttaRef{[MN 109]}
 
-\begin{pali-hang-continued}
+\begin{pali-hangtogether-continued}
   Dvā-das'āyatanāni:
   \begin{pali-hangtogether}
     Cakkhv'āyatanaṁ rūp'āyatanaṁ sot'āyatanaṁ sadd'āyatanaṁ ghān'āyatanaṁ gandh'āyatanaṁ jivh'āyatanaṁ ras'āyatanaṁ kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ man'āyatanaṁ dhamm'āyatanaṁ
   \end{pali-hangtogether}
-\end{pali-hang-continued}
+\end{pali-hangtogether-continued}
 
 \begin{english-verses}
   Twelve sense bases:
   \begin{english-hangtogether-verses}
-    The eye-base, the form base, the ear-base, the sound-base, the nose-base, the odour-base, the tongue-base, the flavour-base, the body-base, the tangible-base, the mind-base, the mind-object base.
+    The eye-base, the form base, the ear-base, the sound-base, the~nose-base, the odour-base, the tongue-base, the flavour-base, the~body-base, the tangible-base, the mind-base, the mind-object base.
   \end{english-hangtogether-verses}
 \end{english-verses}
 
@@ -11769,7 +11784,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
   Indeed, conditioned things cannot last\\
 \linkdest{endnote132-body}
   Their nature is to rise and cease;\makeatletter\hyperlink{endnote132-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote132-appendix}{\hyperlink{endnote132-body}{WPN: “Their nature is to rise and fall”}}}}}\makeatother\\
+        \hypertarget{endnote132-appendix}{\hyperlink{endnote132-body}{WPN: ``Their nature is to rise and fall''}}}}}\makeatother\\
   Having arisen things must cease;\\
   Their stilling is true happiness.
 \end{english-verses}
@@ -11949,17 +11964,17 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
   Through the goodness that arises from my practice\\
   May my spiritual teachers and guides of great virtue\\
   My mother my father and my relatives\\
-\linkdest{endnote133-body}
+  \linkdest{endnote133-body}
   The sun and the moon \breathmark\ and all virtuous leaders of the world\makeatletter\hyperlink{endnote133-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote133-appendix}{\hyperlink{endnote133-body}{While the celestial bodies themselves are not regarded as living beings, this passage refers to the similarly named young devas (\textit{candimā}/\textit{sūriyo devaputto}) residing there. See also SN 2.9-10. Furthermore, the term “\textit{rārā}” (leaders/kings) does not refer to “\textit{guṅavantā}” (virtuous people), but to “\textit{suriyo candima}” (sun and moon). A translation closer to the meaning of the Pāli would be: “The sovereign Sun and Moon, and also virtuous people.”}}}}}\makeatother\\
+        \hypertarget{endnote133-appendix}{\hyperlink{endnote133-body}{While the celestial bodies themselves are not regarded as living beings, this passage refers to the similarly named young devas (\textit{candimā}/\textit{sūriyo devaputto}) residing there. See also SN 2.9-10. Furthermore, the term ``\textit{rārā}'' (leaders/kings) does not refer to ``\textit{guṅavantā}'' (virtuous people), but to ``\textit{suriyo candima}'' (sun and moon). A translation closer to the meaning of the Pāli would be: ``The sovereign Sun and Moon, and also virtuous people.''}}}}}\makeatother\\
   May the highest gods and evil forces\\
   Celestial beings \breathmark\ guardian spirits of the earth\\
   And the Lord of Death\\
   May those who are friendly \breathmark\ indifferent or hostile\\
   May all beings receive the blessings of my life\\
-\linkdest{endnote134-body}
+  \linkdest{endnote134-body}
   May they soon attain the threefold bliss\makeatletter\hyperlink{endnote134-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote134-appendix}{\hyperlink{endnote134-body}{This probably refers to  1. worldly or human happiness; 2. celestial or heavenly happiness; 3. transcendent happiness or \textit{Nibbāna}. Rhys Davids Pāli-English Dictionary - \textit{sukha}: “Two kinds, viz \textit{kāyika} \& \textit{cetasika}; at Pts.i.188; several other pairs at AN.i.80; three (praise, wealth, heaven) Iti.67; another three (\textit{manussa}°, \textit{dibba}°, \textit{nibbāna}°) Dhp-a.iii.51; four (possessing, making good use of possessions, having no debts, living a blameless life) AN.ii.69”}}}}}\makeatother
+        \hypertarget{endnote134-appendix}{\hyperlink{endnote134-body}{This probably refers to  1. worldly or human happiness; 2. celestial or heavenly happiness; 3. transcendent happiness or \textit{Nibbāna}. Rhys Davids Pāli-English Dictionary - \textit{sukha}: ``Two kinds, viz \textit{kāyika} \& \textit{cetasika}; at Pts.i.188; several other pairs at AN.i.80; three (praise, wealth, heaven) Iti.67; another three (\textit{manussa}°, \textit{dibba}°, \textit{nibbāna}°) Dhp-a.iii.51; four (possessing, making good use of possessions, having no debts, living a blameless life) AN.ii.69''}}}}}\makeatother
   \breathmark\ and realize the Deathless\\
   Through the goodness that arises from my practice\\
   And through this act of sharing\\
@@ -11968,20 +11983,20 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
   Until I realize Nibbāna\\
   In every kind of birth \breathmark\ may I have an upright mind\\
   With mindfulness and wisdom \breathmark\ austerity and vigor\\
-\linkdest{endnote135-body}
+  \linkdest{endnote135-body}
   May the forces of delusion\makeatletter\hyperlink{endnote135-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote135-appendix}{\hyperlink{endnote135-body}{The Pāli speaks about Māra's forces.}}}}}\makeatother
+        \hypertarget{endnote135-appendix}{\hyperlink{endnote135-body}{The \textit{Pāli} speaks about \textit{Māra's} forces.}}}}}\makeatother
   not take hold \breathmark\ nor weaken my resolve\\
   The Buddha is my excellent refuge\\
   Unsurpassed is the protection of the Dhamma\\
-\linkdest{endnote136-body}
+  \linkdest{endnote136-body}
   The Solitary Buddha is my noble guide\makeatletter\hyperlink{endnote136-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote136-appendix}{\hyperlink{endnote136-body}{Even though a \textit{Paccekabuddha} does not/is not able to teach the path to \textit{Nibbāna}, he can nonetheless give guidance in good conduct and virtue; Functioning as an inspirational role model.}}}}}\makeatother\\
   The Saṅgha is my supreme support\\
   Through the supreme power of all these\\
-\linkdest{endnote137-body}
+  \linkdest{endnote137-body}
   May darkness and delusion be dispelled\makeatletter\hyperlink{endnote137-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote137-appendix}{\hyperlink{endnote137-body}{“Darkness and delusion” is not a literal translation for Māra.}}}}}\makeatother
+        \hypertarget{endnote137-appendix}{\hyperlink{endnote137-body}{``Darkness and delusion'' is not a literal translation for Māra.}}}}}\makeatother
 \end{english}
 
 \suttaRef{[Trad]}
@@ -12306,7 +12321,7 @@ Idaṁ me puññaṁ Nibbānassa paccayo hotu
 \linkdest{endnote138-body}
 \begin{center}
   \textbf{\textsc{Undertaking the Three Refuges}}\makeatletter\hyperlink{endnote138-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi'' three times which translates to ``I, Venerable Sir, request the Three Refuges and the Five/Eight Precepts'' before ``Namo tassa...''.}}}}}\makeatother
+        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, Venerable Sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}...''.}}}}}\makeatother
 \end{center}
 
 \begin{center}
@@ -12383,7 +12398,7 @@ Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi
 \linkdest{endnote139-body}
 \begin{english-hang}
   I undertake the training\makeatletter\hyperlink{endnote139-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote139-appendix}{\hyperlink{endnote139-body}{WPN: “precept”. The same applies to the next four lines.}}}}}\makeatother
+        \hypertarget{endnote139-appendix}{\hyperlink{endnote139-body}{WPN: ``precept''. The same applies to the next four lines.}}}}}\makeatother
   to refrain from taking the life of any living being.
 \end{english-hang}
 
@@ -12413,7 +12428,7 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
   I undertake the training to refrain from consuming intoxicating\\
 \linkdest{endnote140-body}
   drink and drugs that lead to carelessness.\makeatletter\hyperlink{endnote140-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote140-appendix}{\hyperlink{endnote140-body}{WPN: “drugs which lead to carelessness”}}}}}\makeatother
+        \hypertarget{endnote140-appendix}{\hyperlink{endnote140-body}{WPN: ``drugs which lead to carelessness''}}}}}\makeatother
 \end{english-hang}
 
 
@@ -12481,7 +12496,7 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
 \linkdest{endnote141-body}
 \begin{english-hang}
   I undertake the training to refrain from consuming intoxicating drink and drugs that\makeatletter\hyperlink{endnote141-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote141-appendix}{\hyperlink{endnote141-body}{WPN: “which”}}}}}\makeatother
+        \hypertarget{endnote141-appendix}{\hyperlink{endnote141-body}{WPN: ``which''}}}}}\makeatother
   lead to carelessness.
 \end{english-hang}
 
@@ -12490,7 +12505,7 @@ Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
 \linkdest{endnote142-body}
 \begin{english}
   I undertake the training to refrain from eating after noon.\makeatletter\hyperlink{endnote142-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote142-appendix}{\hyperlink{endnote142-body}{WPN: “at inappropriate times”.}}}}}\makeatother
+        \hypertarget{endnote142-appendix}{\hyperlink{endnote142-body}{WPN: ``at inappropriate times''.}}}}}\makeatother
 \end{english}
 
 \begin{pali-hang}
@@ -12500,7 +12515,7 @@ Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
 \linkdest{endnote143-body}
 \begin{english-hang}
   I undertake the training to refrain from dancing, singing, music and going to entertainments; from perfumes, beautification and adornments.\makeatletter\hyperlink{endnote143-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote143-appendix}{\hyperlink{endnote143-body}{WPN: “entertainment, beautification, and adornment”}}}}}\makeatother
+        \hypertarget{endnote143-appendix}{\hyperlink{endnote143-body}{WPN: ``entertainment, beautification, and adornment''}}}}}\makeatother
 \end{english-hang}
 
 Uccāsayana-mahāsayanā veramaṇi-sikkhāpadaṁ samādiyāmi
@@ -12526,7 +12541,7 @@ Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}
   have virtue as a vehicle for liberation.\\
 \linkdest{endnote144-body}
   Therefore let virtue be purified.\makeatletter\hyperlink{endnote144-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote144-appendix}{\hyperlink{endnote144-body}{WPN: “These are the Eight Precepts; Virtue is the source of happiness, Virtue is the source of true wealth, Virtue is the source of peacefulness. Therefore let virtue be purified.”}}}}}\makeatother
+        \hypertarget{endnote144-appendix}{\hyperlink{endnote144-body}{WPN: ``These are the Eight Precepts; Virtue is the source of happiness, Virtue is the source of true wealth, Virtue is the source of peacefulness. Therefore let virtue be purified.''}}}}}\makeatother
 \end{english-verses}
 
 Sādhu sādhu sādhu
