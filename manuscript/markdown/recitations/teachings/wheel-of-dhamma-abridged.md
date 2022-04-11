@@ -24,7 +24,7 @@ Pabbajitena na sevitabbā
 
 </div>
 
-Yo c'āyaṁ kāmesu kāma-sukh'allikānuyogo
+Yo c'āyaṁ kāmesu kāma-sukh'allik'ānuyogo
 
 <div class="english">
 
@@ -172,7 +172,7 @@ Katamā ca sā bhikkhave majjhimā paṭipadā
 
 </div>
 
-Ayam'eva ariyo aṭṭhaṅgiko maggo
+Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
 <div class="english">
 
@@ -794,7 +794,7 @@ Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ
 
 </div>
 
-Athāhaṁ bhikkhave sadevake loke samārake sabrahmake\
+Ath'āhaṁ bhikkhave sadevake loke samārake sabrahmake\
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\
 Anuttaraṁ sammā-sambodhiṁ abhisambuddho paccaññāsiṁ
 

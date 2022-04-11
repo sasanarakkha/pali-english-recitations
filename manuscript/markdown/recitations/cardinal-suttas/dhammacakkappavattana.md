@@ -14,7 +14,7 @@ Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā Tathāgatena abhisam
 
 Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
 
-Ayam'eva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ:
+Ayam'eva ariyo aṭṭh'aṅgiko maggo seyyath'īdaṁ:
 
 Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
 Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
@@ -33,7 +33,7 @@ Yo tassā yeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālay
 
 Idaṁ kho pana bhikkhave dukkhanirodhagāminī paṭipadā ariyasaccaṁ:
 
-Ayam'eva ariyo aṭṭhaṅgiko maggo seyyath'īdaṁ: Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
+Ayam'eva ariyo aṭṭh'aṅgiko maggo seyyath'īdaṁ: Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
 
 [Idaṁ dukkhaṁ] ariyasaccanti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.
 

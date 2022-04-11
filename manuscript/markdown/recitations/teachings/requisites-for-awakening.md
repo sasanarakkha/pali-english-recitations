@@ -126,7 +126,7 @@ Satta bojjhaṅgā
 
 </div>
 
-Ariyo aṭṭhaṅgiko maggo
+Ariyo aṭṭh'aṅgiko maggo
 
 <div class="english">
 
