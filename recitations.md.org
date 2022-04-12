@@ -2777,7 +2777,7 @@ Ayaṁ vo amhākaṁ anusāsanī'ti
 #+begin_src markdown :tangle ./manuscript/markdown/recitations/verses/single-excellent-night.md
 
 ## A Single Excellent Night<a id="single-excellent-night"></a>
-Bhadd-eka-ratta
+Bhadd'eka-ratta
 
 ---
 <br>

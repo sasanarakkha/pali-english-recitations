@@ -1,5 +1,5 @@
 ## A Single Excellent Night<a id="single-excellent-night"></a>
-Bhadd-eka-ratta
+Bhadd'eka-ratta
 
 ---
 <br>

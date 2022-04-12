@@ -2511,7 +2511,7 @@ Etaṁ buddhāna sāsanaṁ
 ** A Single Excellent Night
 #+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
 
-\sectionPaliTitle{Bhadd-eka-ratta}
+\sectionPaliTitle{Bhadd'eka-ratta}
 \section{A Single Excellent Night}
 \label{single-excellent-night}
 
