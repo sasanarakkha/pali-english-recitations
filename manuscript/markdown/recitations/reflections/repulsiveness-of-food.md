@@ -45,7 +45,7 @@ Upekkhā vā pāṭikulyatā vā saṇṭhāti
 
 <p style="text-align:right;">[AN 7.49]</p>
 
-Sabbo panāyaṁ piṇḍa-pāto ajigucchanīyo
+Sabbo pan'āyaṁ piṇḍa-pāto ajigucchanīyo
 
 <div class="english">
 
