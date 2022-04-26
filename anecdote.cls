@@ -875,7 +875,7 @@ philo-sophical munindo amaravati thai-land}
 % }
 
 \newcommand\bottomNav[1]{%
-  % \vfill% these are now manually input
+  \vfill
   \ifdesktopversion
   \begin{minipage}{\linewidth}%
     % \centering

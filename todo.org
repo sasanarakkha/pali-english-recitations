@@ -3,25 +3,26 @@
 * TODO fix indentation issue in parittas
 * TODO finish endnote 127
 * TODO search project for TODO
-* TODO consider bringing bottomnav back to bottom of page
 * TODO readd devamittas sandhi to cardinal 1
-* DONE make cardinal sutta 1 chantable, add breathmarks
-CLOSED: [2022-04-09 Sat 20:08]
 * TODO ensure anupubba and gradual training match up
 * TODO sutta refs for homage to the triple gem
 * TODO pali words uncapitalized, except for beginning of sentence
 * TODO refuges training pronunciation remove
+* DONE make cardinal sutta 1 chantable, add breathmarks
+CLOSED: [2022-04-09 Sat 20:08]
 * TeX
+** TODO check for endnotes that are too close to proceeding word
+** TODO check spacing of parittas
+** TODO document anecdote and local
+** TODO trim the fat: remove unneeded code, directories, and files
+** DONE consider bringing bottomnav back to bottom of page
+CLOSED: [2022-04-12 Tue 12:31]
 ** DONE bring back commas for cardinal sutta 1 -- actually, make this sutta chantable instead
 CLOSED: [2022-04-09 Sat 05:31]
 ** DONE remove cardinal punctuation
 CLOSED: [2022-04-09 Sat 05:31]
 ** DONE italicize all pali in endnotes
 CLOSED: [2022-04-09 Sat 18:01]
-** TODO check for endnotes that are too close to proceeding word
-** TODO check spacing of parittas
-** TODO document anecdote and local
-** TODO trim the fat: remove unneeded code, directories, and files
 ** DONE complete leader intro solution
 CLOSED: [2022-04-01 Fri 16:32]
 ** DONE italicize all non chanted pali (?)

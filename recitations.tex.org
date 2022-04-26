@@ -293,7 +293,7 @@ Sāsanārakkha Buddhist Sanctuary.
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[noble-eightfold-path]{The Noble Eightfold Path} \ifdesktopversion\else\pageref{noble-eightfold-path}\fi\\
     \hyperref[repulsiveness-of-food]{The Repulsiveness of Food} \ifdesktopversion\else\pageref{repulsiveness-of-food}\fi\\
-    \hyperref[requisites-for-awakening]{Requisites Awakening} \ifdesktopversion\else\pageref{requisites-for-awakening}\fi\\
+    \hyperref[requisites-for-awakening]{Requisites for Awakening} \ifdesktopversion\else\pageref{requisites-for-awakening}\fi\\
     \hyperref[principles-of-non-decline]{Principles of Non-Decline} \ifdesktopversion\else\pageref{principles-of-non-decline}\fi\\
     \hyperref[protection]{On Protection} \ifdesktopversion\else\pageref{protection}\fi\\
     \hyperref[sharing-all-merits]{Sharing of Merits} \ifdesktopversion\else\pageref{sharing-all-merits}\fi\\
@@ -879,7 +879,7 @@ Anuttaraṁ puññakkhettaṁ lokassa
   They give occasion for incomparable goodness to arise in the world
 \end{english}
 
-\suttaRef{[12.51]}
+\suttaRef{[SN 12.51]}
 
 \begin{pali-hang}
   Tam'ahaṁ saṅghaṁ abhipūjayāmi tam'ahaṁ saṅghaṁ sirasā namāmi
@@ -1134,7 +1134,7 @@ Viññāṇ'ūpādānakkhandho
         \hypertarget{endnote17-appendix}{\hyperlink{endnote17-body}{WPN: ``Attachment to sense-consciousness''}}}}}\makeatother
 \end{english}
 
-\suttaRef{[Vibh 202]}
+\suttaRef{[DN 33]}
 
 Yesaṁ pariññāya
 
@@ -2386,7 +2386,7 @@ Etaṁ buddhāna sāsanaṁ
 \begin{english-verses}
   Heedlessness is dust always\\
   Dust follows upon heedlessness\makeatletter\hyperlink{endnote42-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote42-appendix}{\hyperlink{endnote42-body}{The meaning of this statement is somewhat cryptic. The Commentary explains as follows: \textit{pamādo rajo} = heedlessness is dust; \textit{pamādo Pamād'ānupatito rajo} = the dust that follows heedlessness is (also) heedlessness; the Commentary further explains that this is about procrastination e.g. ``I am still young, so can afford to be heedless; maybe later I'll be heedful''.}}}}}\makeatother\\
+        \hypertarget{endnote42-appendix}{\hyperlink{endnote42-body}{The meaning of this statement is somewhat cryptic. The Commentary explains as follows: \textit{pamādo rajo} = heedlessness is dust; \textit{pamādo pamād'ānupatito rajo} = the dust that follows heedlessness is (also) heedlessness; the Commentary further explains that this is about procrastination e.g. ``I am still young, so can afford to be heedless; maybe later I'll be heedful''.}}}}}\makeatother\\
   By heedfulness by clear knowledge\\
   Draw out the dart from yourself
 \end{english-verses}
@@ -3446,7 +3446,7 @@ Yato ca kho me bhikkhave imesu catūsu ariya-saccesu\\
 \end{pali-hang}
 
 \begin{english-verses}
-  But when bhikkhus my knowledge and understanding\\
+  But bhikkhus when my knowledge and understanding\\
   As it actually is\\
   Of these Four Noble Truths\\
   With their three phases and twelve aspects\\
@@ -3639,7 +3639,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \linkdest{endnote61-body}
 \begin{english-only-justify}
   ``After his meal on returning from almsround he sits down \breathmark\ having crossed his legs \breathmark\ sets his body erect \breathmark\ having established mindfulness in front of him. Abandoning longing\makeatletter\hyperlink{endnote61-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote61-appendix}{\hyperlink{endnote61-body}{WPN: ``covetousness''}}}}}\makeatother
+        \hypertarget{endnote61-appendix}{\hyperlink{endnote61-body}{WPN: ``covetousness''}}}}}\makeatother\thinspace
   for the world \breathmark\ he abides with a mind free from longing \breathmark\ he purifies his mind from longing. Abandoning ill will and hatred \breathmark\ he abides with a mind free from ill will \breathmark\ compassionate for the welfare of all living \mbox{beings}~\breathmark\ he~purifies his mind from ill will and hatred. Abandoning sloth and torpor \breathmark\ he abides free from sloth and torpor \breathmark\ percipient of light \breathmark\ mindful and fully aware \breathmark\ he purifies his mind from sloth and torpor. Abandoning restlessness and remorse \breathmark\ he abides unagitated \breathmark\ with a mind inwardly peaceful \breathmark\ he purifies his mind from restlessness and remorse. Abandoning doubt \breathmark\ he abides having gone beyond doubt \breathmark\ unperplexed about wholesome states \breathmark\ he purifies his mind from doubt.''
 \end{english-only-justify}
 
@@ -3650,7 +3650,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \end{english-only-justify}
 
 \begin{english-only-justify}
-  ``Having abandoned these five hindrances \breathmark\ imperfections of the mind that weaken wisdom \breathmark\ he enters upon and abides in the first jhāna \breathmark\ the second jhāna \breathmark\ the third jhāna \breathmark\ the fourth jhāna.''
+  ``Having abandoned these five hindrances \breathmark\ imperfections of the mind that weaken wisdom \breathmark\ he enters upon and abides in the first Jhāna \breathmark\ the second Jhāna \breathmark\ the third Jhāna \breathmark\ the fourth Jhāna.''
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -4563,6 +4563,548 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 \bottomNav{repulsiveness-of-food}
 
 #+end_src
+
+#+RESULTS:
+#+begin_example
+\sectionPaliTitle{Ariy'aṭṭh'aṅgika-magga}
+\section{The Noble Eightfold Path}
+\label{noble-eightfold-path}
+
+\begin{leader}
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ ariy'aṭṭh'aṅgika-magga-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+\end{leader}
+
+Ayam'eva ariyo aṭṭh'aṅgiko maggo
+
+\begin{english}
+  This is the Noble Eightfold Path
+\end{english}
+
+Seyyath'īdaṁ
+
+\begin{english}
+  Which is as follows
+\end{english}
+
+Sammā-diṭṭhi
+
+\begin{english}
+  Right View
+\end{english}
+
+Sammā-saṅkappo
+
+\begin{english}
+  Right Intention
+\end{english}
+
+Sammā-vācā
+
+\begin{english}
+  Right Speech
+\end{english}
+
+Sammā-kammanto
+
+\begin{english}
+  Right Action
+\end{english}
+
+Sammā-ājīvo
+
+\begin{english}
+  Right Livelihood
+\end{english}
+
+Sammā-vāyāmo
+
+\begin{english}
+  Right Effort
+\end{english}
+
+Sammā-sati
+
+\begin{english}
+  Right Mindfulness
+\end{english}
+
+Sammā-samādhi
+
+\begin{english}
+  Right Concentration
+\end{english}
+
+Katamā ca bhikkhave sammā-diṭṭhi
+
+\begin{english}
+  And what bhikkhus is Right View?
+\end{english}
+
+Yaṁ kho bhikkhave dukkhe ñāṇaṁ
+
+\begin{english}
+  Knowledge of suffering
+\end{english}
+
+Dukkha-samudaye ñāṇaṁ
+
+\begin{english}
+  Knowledge of the origin of suffering
+\end{english}
+
+Dukkha-nirodhe ñāṇaṁ
+
+\begin{english}
+  Knowledge of the cessation of suffering
+\end{english}
+
+Dukkha-nirodha-gāminiyā paṭipadāya ñāṇaṁ
+
+\begin{english}
+  Knowledge of the way of practice\\
+  Leading to the cessation of suffering
+\end{english}
+
+Ayaṁ vuccati bhikkhave sammā-diṭṭhi
+
+\begin{english}
+  This bhikkhus is called Right View
+\end{english}
+
+Katamo ca bhikkhave sammā-saṅkappo
+
+\begin{english}
+  And what bhikkhus is Right Intention?
+\end{english}
+
+Nekkhamma-saṅkappo
+
+\begin{english}
+  The intention of renunciation
+\end{english}
+
+Abyāpāda-saṅkappo
+
+\begin{english}
+  The intention of non-ill-will
+\end{english}
+
+Avihiṁsā-saṅkappo
+
+\begin{english}
+  The intention of non-cruelty
+\end{english}
+
+Ayaṁ vuccati bhikkhave sammā-saṅkappo
+
+\begin{english}
+  This bhikkhus is called Right Intention
+\end{english}
+
+Katamā ca bhikkhave sammā-vācā
+
+\begin{english}
+  And what bhikkhus is Right Speech?
+\end{english}
+
+Musāvādā veramaṇī
+
+\begin{english}
+  Abstaining from false speech
+\end{english}
+
+Pisuṇāya vācāya veramaṇī
+
+\begin{english}
+  Abstaining from malicious speech
+\end{english}
+
+Pharusāya vācāya veramaṇī
+
+\begin{english}
+  Abstaining from harsh speech
+\end{english}
+
+Samphappalāpā veramaṇī
+
+\begin{english}
+  Abstaining from idle chatter
+\end{english}
+
+Ayaṁ vuccati bhikkhave sammā-vācā
+
+\begin{english}
+  This bhikkhus is called Right Speech
+\end{english}
+
+Katamo ca bhikkhave sammā-kammanto
+
+\begin{english}
+  And what bhikkhus is Right Action?
+\end{english}
+
+Pāṇ'ātipātā veramaṇī
+
+\begin{english}
+  Abstaining from killing living beings
+\end{english}
+
+Adinn'ādānā veramaṇī
+
+\begin{english}
+  Abstaining from taking what is not given
+\end{english}
+
+Kāmesu-micchācārā veramaṇī
+
+\begin{english}
+  Abstaining from sexual misconduct
+\end{english}
+
+Ayaṁ vuccati bhikkhave sammā-kammanto
+
+\begin{english}
+  This bhikkhus is called Right Action
+\end{english}
+
+Katamo ca bhikkhave sammā-ājīvo
+
+\begin{english}
+  And what bhikkhus is Right Livelihood?
+\end{english}
+
+Idha bhikkhave ariya-sāvako\\
+Micchā-ājīvaṁ pahāya\\
+Sammā-ājīvena jīvitaṁ kappeti
+
+\begin{english-verses}
+  Here bhikkhus a noble disciple\\
+  Having abandoned wrong livelihood\\
+  Earns his living by right livelihood
+\end{english-verses}
+
+Ayaṁ vuccati bhikkhave sammā-ājīvo
+
+\begin{english}
+  This bhikkhus is called Right Livelihood
+\end{english}
+
+Katamo ca bhikkhave sammā-vāyāmo
+
+\begin{english}
+  And what bhikkhus is Right Effort?
+\end{english}
+
+Idha bhikkhave bhikkhu\\
+Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya\\
+Chandaṁ janeti\\
+Vāyamati\\
+Vīriyaṁ ārabhati\\
+Cittaṁ paggaṇhāti padahati
+
+\begin{english-verses}
+  Here bhikkhus a bhikkhu awakens zeal\\
+  For the non-arising of unarisen evil unwholesome states\\
+  He puts forth effort\\
+  Arouses energy\\
+  Exerts his mind\\
+  And strives
+\end{english-verses}
+
+Uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya\\
+Chandaṁ janeti\\
+Vāyamati\\
+Vīriyaṁ ārabhati\\
+Cittaṁ paggaṇhāti padahati
+
+\begin{english-verses}
+  He awakens zeal for the abandoning of arisen evil unwholesome states\\
+  He puts forth effort\\
+  Arouses energy\\
+  Exerts his mind\\
+  And strives
+\end{english-verses}
+
+Anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya\\
+Chandaṁ janeti\\
+Vāyamati\\
+Vīriyaṁ ārabhati\\
+Cittaṁ paggaṇhāti padahati
+
+\begin{english-verses}
+  He awakens zeal for the arising of unarisen wholesome states\\
+  He puts forth effort\\
+  Arouses energy\\
+  Exerts his mind\\
+  And strives
+\end{english-verses}
+
+Uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā\\
+Asammosāya\\
+Bhiyyobhāvāya\\
+Vepullāya\\
+Bhāvanāya pāripūriyā\\
+Chandaṁ janeti\\
+Vāyamati\\
+Vīriyaṁ ārabhati\\
+Cittaṁ paggaṇhāti padahati
+
+\begin{english-verses}
+  He awakens zeal for the continuance\\
+  Non-disappearance\\
+  Strengthening\\
+  Increase and fulfillment by development\\
+  Of arisen wholesome states\\
+  He puts forth effort\\
+  Arouses energy\\
+  Exerts his mind\\
+  And strives
+\end{english-verses}
+
+Ayaṁ vuccati bhikkhave sammā-vāyāmo
+
+\begin{english}
+  This bhikkhus is called Right Effort
+\end{english}
+
+Katamā ca bhikkhave sammā-sati
+
+\begin{english}
+  And what bhikkhus is Right Mindfulness?
+\end{english}
+
+Idha bhikkhave bhikkhu kāye kāy'ānupassī viharati
+
+\begin{english}
+  Here bhikkhus a bhikkhu abides\\
+  Contemplating the body as a body
+\end{english}
+
+Ātāpī sampajāno satimā
+
+\begin{english}
+  Ardent \breathmark\ fully aware \breathmark\ and mindful
+\end{english}
+
+Vineyya loke abhijjhā-domanassaṁ
+
+\linkdest{endnote62-body}
+\begin{english}
+  Having put away\\
+  Longing and grief for the world\makeatletter\hyperlink{endnote62-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote62-appendix}{\hyperlink{endnote62-body}{WPN: ``covetousness and grief''}}}}}\makeatother
+\end{english}
+
+Vedanāsu vedan'ānupassī viharati
+
+\begin{english}
+  He abides contemplating feelings as feelings
+\end{english}
+
+Ātāpī sampajāno satimā
+
+\begin{english}
+  Ardent \breathmark\ fully aware \breathmark\ and mindful
+\end{english}
+
+Vineyya loke abhijjhā-domanassaṁ
+
+\begin{english}
+  Having put away\\
+  Longing and grief for the world
+\end{english}
+
+Citte citt'ānupassī viharati
+
+\begin{english}
+  He abides contemplating mind as mind
+\end{english}
+
+Ātāpī sampajāno satimā
+
+\begin{english}
+  Ardent \breathmark\ fully aware \breathmark\ and mindful
+\end{english}
+
+Vineyya loke abhijjhā-domanassaṁ
+
+\begin{english}
+  Having put away\\
+  Longing and grief for the world
+\end{english}
+
+Dhammesu dhamm'ānupassī viharati
+
+\linkdest{endnote63-body}
+\begin{english}
+  He abides contemplating dhammas as dhammas\makeatletter\hyperlink{endnote63-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote63-appendix}{\hyperlink{endnote63-body}{WPN: ``He abides contemplating mind-objects as mind-objects''. Since ``mind-object'' is not an ideal translation for ``\textit{dhamma}'' in this context, it is preferable to leave ``\textit{dhamma}'' untranslated here.}}}}}\makeatother
+\end{english}
+
+Ātāpī sampajāno satimā
+
+\begin{english}
+  Ardent \breathmark\ fully aware \breathmark\ and mindful
+\end{english}
+
+Vineyya loke abhijjhā-domanassaṁ
+
+\begin{english}
+  Having put away\\
+  Longing and grief for the world
+\end{english}
+
+Ayaṁ vuccati bhikkhave sammā-sati
+
+\begin{english}
+  This bhikkhus is called Right Mindfulness
+\end{english}
+
+Katamo ca bhikkhave sammā-samādhi
+
+\begin{english}
+  And what bhikkhus is Right Concentration?
+\end{english}
+
+Idha bhikkhave bhikkhu
+
+\begin{english}
+  Here bhikkhus a bhikkhu
+\end{english}
+
+\linkdest{endnote64-body}
+Vivicc'eva\makeatletter\hyperlink{endnote64-appendix}\Hy@raisedlink{{\pagenote{%
+      \hypertarget{endnote64-appendix}{\hyperlink{endnote64-body}{``Quite secluded from sense pleasures'' means being completely and entirely secluded; not just somewhat/moderately secluded. The Pāli term `\textit{eva}', which has been translated as `quite' is an emphatic particle, intensifying the adjective it qualifies. Acc. to Oxford English Dictionary, the English term `quite'has two connotations: 1. to the utmost or most absolute extent or degree; absolutely; completely; 2. To a certain or fairly significant extent or degree; fairly. It is the first connotation in which `quite'is used in the phrase ``quite secluded from sense pleasures''.}}}}}\makeatother
+kāmehi
+
+\begin{english}
+  Quite secluded from sense pleasures
+\end{english}
+
+Vivicca akusalehi dhammehi
+
+\begin{english}
+  Secluded from unwholesome states
+\end{english}
+
+\begin{pali-hang}
+  Savitakkaṁ savicāraṁ viveka-jaṁ pīti-sukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati
+\end{pali-hang}
+
+\begin{english-verses}
+  Enters upon and abides \breathmark\ in the first Jhāna\\
+  Accompanied by thought and examination\\
+  With rapture and pleasure \breathmark\ born of seclusion
+\end{english-verses}
+
+Vitakka-vicārānaṁ vūpasamā
+
+\begin{english}
+  With the stilling of thought and examination
+\end{english}
+
+Ajjhattaṁ sampasādanaṁ\\
+Cetaso ekodibhāvaṁ
+\begin{pali-hangtogether}
+  Avitakkaṁ avicāraṁ samādhi-jaṁ pīti-sukhaṁ dutiyaṁ jhānaṁ upasampajja viharati
+\end{pali-hangtogether}
+
+\begin{english-verses}
+  He enters upon and abides \breathmark\ in the second Jhāna\\
+  Accompanied by self-confidence \breathmark\ and singleness of mind\\
+  Without thought and examination\\
+  With rapture and pleasure \breathmark\ born of concentration
+\end{english-verses}
+
+Pītiyā ca virāgā
+
+\begin{english}
+  With the fading away as well of rapture
+\end{english}
+
+Upekkhako ca viharati
+
+\begin{english}
+  He abides in equanimity
+\end{english}
+
+Sato ca sampajāno
+
+\begin{english}
+  Mindful \breathmark\ and fully aware
+\end{english}
+
+Sukhañ'ca kāyena paṭisaṁvedeti
+
+\linkdest{endnote65-body}
+\begin{english}
+  And experiencing pleasure with the body\makeatletter\hyperlink{endnote65-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote65-appendix}{\hyperlink{endnote65-body}{WPN: ``Still feeling pleasure with the body''. The Pāli doesn't say ``still'', but more importantly SN 48.40 states that physical pleasure (sukha) has ceased in 3rd \textit{Jhāna}, and mental pleasure (\textit{somanassa}) has ceased in 4th \textit{Jhāna}. Therefore, according to SN 48.40 \textit{kāya} in the context of the 3rd \textit{Jhāna} stock formula cannot refer to the physical body. The Pāli commentaries agree, and explain that ``\textit{kāya}'' here refers to the `mental body', in particular to mental pleasure (\textit{somanassa}). However, a comparative study by Prof. Kuan Tse-Fu titled \textit{``Clarification on Feelings in Buddhist Dhyāna/Jhāna Meditation''} brought to light that the Chinese parallel to SN 48.40 has a different sequence of disappearing types of \textit{vedanā} in the sequence of the four \textit{Jhānas}. While it would go beyond the scope of this footnote to discuss the matter in detail, it is noteworthy that the parallel to SN 48.40, the \textit{Aviparātaka Sūtra} of the \textit{Āgamas}, indeed mentions that bodily pleasant feeling (\textit{sukha}) disappears only in the 4th \textit{Jhāna}, whereas mental pleasant feeling (\textit{somanassa}) has disappeared already in the 3rd \textit{Jhāna}, alongside with the disappearance of \textit{pīti}. In the context of this chanting book, we have therefore chosen to stay with the literal translation of the word ``\textit{kāya}'' as ``body'', and invite the reader to draw his own conclusions.}}}}}\makeatother
+\end{english}
+
+Yaṁ taṁ ariyā ācikkhanti
+\linkdest{endnote66-body}
+\begin{pali-hangtogether}
+  `Upekkhako satimā sukha-vihārī'ti\makeatletter\hyperlink{endnote66-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote66-appendix}{\hyperlink{endnote66-body}{WPN: ``\textit{viharatī'ti}''}}}}}\makeatother
+  tatiyaṁ jhānaṁ upasampajja viharati
+\end{pali-hangtogether}
+
+\begin{english-verses}
+  He enters upon and abides \breathmark\ in the third Jhāna\\
+  On account of which the Noble Ones announce\\
+  `He has a pleasant abiding\\
+  With equanimity and is mindful'
+\end{english-verses}
+
+Sukhassa ca pahānā
+
+\begin{english}
+  With the abandoning of pleasure
+\end{english}
+
+Dukkhassa ca pahānā
+
+\begin{english}
+  And the abandoning of pain
+\end{english}
+
+Pubb'eva somanassa domanassānaṁ atthaṅ'gamā
+
+\linkdest{endnote67-body}
+\begin{english}
+  With the previous disappearance of joy and displeasure\makeatletter\hyperlink{endnote67-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote67-appendix}{\hyperlink{endnote67-body}{WPN: ``grief''}}}}}\makeatother
+\end{english}
+
+\begin{pali-hang}
+  Adukkham'asukhaṁ upekkhā-sati-pārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
+\end{pali-hang}
+
+\begin{english-verses}
+  He enters upon and abides \breathmark\ in the fourth Jhāna\\
+  Accompanied by neither pain nor pleasure\\
+  And purity of mindfulness\\
+  Due to equanimity
+\end{english-verses}
+
+Ayaṁ vuccati bhikkhave sammā-samādhi
+
+\begin{english}
+  This bhikkhus is called Right Concentration
+\end{english}
+
+Ayam'eva ariyo aṭṭh'aṅgiko maggo
+
+\begin{english}
+  This is the Noble Eightfold Path
+\end{english}
+
+\suttaRef{[SN 45.8]}
+
+\enlargethispage{\baselineskip\vspace{-0.5em}}
+\bottomNav{repulsiveness-of-food}
+#+end_example
 
 ** Mindfulness of Breathing
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
