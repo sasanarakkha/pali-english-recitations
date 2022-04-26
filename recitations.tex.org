@@ -10103,8 +10103,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \begin{english-verses}
   A third time, to the Buddha I go for refuge.\\
   A third time, to the Dhamma I go for refuge.\\
-  A third time, to the Saṅgha I go for refuge.\makeatletter\hyperlink{endnote146-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote146-appendix}{\hyperlink{endnote146-body}{This chant has been referenced as traditional because there is no direct correlative. The closest would be the stock phrase of a newly acquired lay follower:  MN 26  }}}}}\makeatother
+  A third time, to the Saṅgha I go for refuge.
 \end{english-verses}
 
 \suttaRef{[Trad]}
@@ -12506,7 +12505,7 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
   My mother my father and my relatives\\
   \linkdest{endnote133-body}
   The sun and the moon \breathmark\ and all virtuous leaders of the world\makeatletter\hyperlink{endnote133-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote133-appendix}{\hyperlink{endnote133-body}{While the celestial bodies themselves are not regarded as living beings, this passage refers to the similarly named young devas (\textit{candimā}/\textit{sūriyo devaputto}) residing there. See also SN 2.9-10. Furthermore, the term ``\textit{rārā}'' (leaders/kings) does not refer to ``\textit{guṅavantā}'' (virtuous people), but to ``\textit{suriyo candima}'' (sun and moon). A translation closer to the meaning of the Pāli would be: ``The sovereign Sun and Moon, and also virtuous people.''}}}}}\makeatother\\
+        \hypertarget{endnote133-appendix}{\hyperlink{endnote133-body}{While the celestial bodies themselves are not regarded as living beings, this passage refers to the similarly named young devas (\textit{candimā}/\textit{sūriyo devaputto}) residing there. See also SN 2.9-10. Furthermore, the term ``\textit{rājā}'' (leaders/kings) does not refer to ``\textit{guṅavantā}'' (virtuous people), but to ``\textit{suriyo candima}'' (sun and moon). A translation closer to the meaning of the Pāli would be: ``The sovereign Sun and Moon, and also virtuous people.''}}}}}\makeatother\\
   May the highest gods and evil forces\\
   Celestial beings \breathmark\ guardian spirits of the earth\\
   And the Lord of Death\\
