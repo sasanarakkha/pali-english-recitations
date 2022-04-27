@@ -90,7 +90,7 @@
   - [[#khandha-parittaṁ][Khandha-parittaṁ]]
   - [[#buddha-dhamma-saṅgha-guṇā][Buddha-dhamma-saṅgha-guṇā]]
   - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ kiñci ratanaṁ loke]]
-  - [[#bojjhaṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
+  - [[#bojjh'aṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
   - [[#abhaya-parittaṁ][Abhaya-parittaṁ]]
   - [[#devatā-uyyojana-gāthā][Devatā-uyyojana-gāthā]]
   - [[#jaya-maṅgala-aṭṭha-gāthā][Jaya-maṅgala-aṭṭha-gāthā]]
@@ -3772,7 +3772,7 @@ Pañca balāni
   The Five Powers
 \end{english}
 
-Satta bojjhaṅgā
+Satta bojjh'aṅgā
 
 \begin{english}
   The Seven Factors of Awakening
@@ -3801,7 +3801,7 @@ Ariyo aṭṭh'aṅgiko maggo
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ satta-sambojjh'aṅga-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
+Satt'ime bhikkhave bojjh'aṅgā bhāvitā bahulīkatā
 
 \begin{english-hang}
   Bhikkhus when the Seven Factors of Awakening are developed and cultivated
@@ -4008,7 +4008,7 @@ So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti
 
 \suttaRef{[SN 46.3]}
 
-Ime kho bhikkhave satta bojjhaṅgā'ti
+Ime kho bhikkhave satta bojjh'aṅgā'ti
 
 \begin{english}
   Bhikkhus these are the Seven Factors of Awakening
@@ -5147,13 +5147,13 @@ Cattāro satipaṭṭhānā bhāvitā bahulī-katā
   When the Four Foundations of Mindfulness are developed and cultivated
 \end{english-hang}
 
-Satta-bojjhaṅge paripūrenti
+Satta-bojjh'aṅge paripūrenti
 
 \begin{english}
   They fulfill the Seven Factors of Awakening
 \end{english}
 
-Satta-bojjhaṅgā bhāvitā bahulī-katā
+Satta-bojjh'aṅgā bhāvitā bahulī-katā
 
 \begin{english}
   When the Seven Factors of Awakening are developed and cultivated
@@ -7419,7 +7419,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 \label{four-requisites}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ taṅ'khaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\\
@@ -7459,7 +7459,7 @@ Paṭisaṅkhā yoniso sen'āsanaṁ paṭisevāmi\\
 Yāva'd'eva sītassa paṭighātāya\\
 Uṇhassa paṭighātāya\\
 Ḍaṁsa-makasa-vāt'ātapa-siriṁsapa-samphassānaṁ paṭighātāya\\
-Yāva'd'eva utuparissaya-vinodanaṁ paṭisallānārām'atthaṁ
+Yāva'd'eva utuparissaya-vinodanaṁ paṭisallān'ārām'atthaṁ
 
 \begin{english-keepwith}
   Wisely reflecting \breathmark\ I use the lodging
@@ -7585,7 +7585,7 @@ Sabbe sattā laddha-sampattito mā vigacchantu
 \end{pali-hangtogether}
 Yaṁ kammaṁ karissanti\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
-Tassa dāyādā bhavissanti
+Tassa dāy'ādā bhavissanti
 
 \clearpage
 
@@ -7796,7 +7796,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 \end{english}
 
 \begin{pali-hang}
-  Kammassakomhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\\
+  Kammassako'mhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\\
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yaṁ kammaṁ karissāmi\\
@@ -7932,7 +7932,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{english-verses}
 
 \begin{pali-hang}
-  Kammassakomhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo
+  Kammassako'mhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yaṁ kammaṁ karissāmi
@@ -8758,13 +8758,13 @@ Atha kho bhagavā udānaṁ udānesi:
   Aniccaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante
@@ -8777,13 +8777,13 @@ Atha kho bhagavā udānaṁ udānesi:
   Aniccā bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante
@@ -8796,13 +8796,13 @@ Atha kho bhagavā udānaṁ udānesi:
   Aniccā bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante
@@ -8815,13 +8815,13 @@ Atha kho bhagavā udānaṁ udānesi:
   Aniccā bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante
@@ -8834,13 +8834,13 @@ Atha kho bhagavā udānaṁ udānesi:
   Aniccaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yam pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ viparināmadhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante

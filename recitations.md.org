@@ -93,7 +93,7 @@
   - [[#khandha-parittaṁ][Khandha-parittaṁ]]
   - [[#buddha-dhamma-saṅgha-guṇā][Buddha-dhamma-saṅgha-guṇā]]
   - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ kiñci ratanaṁ loke]]
-  - [[#bojjhaṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
+  - [[#bojjh'aṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
   - [[#abhaya-parittaṁ][Abhaya-parittaṁ]]
   - [[#devatā-uyyojana-gāthā][Devatā-uyyojana-gāthā]]
   - [[#jaya-maṅgala-aṭṭha-gāthā][Jaya-maṅgala-aṭṭha-gāthā]]
@@ -4104,7 +4104,7 @@ Pañca balāni
 
 </div>
 
-Satta bojjhaṅgā
+Satta bojjh'aṅgā
 
 <div class="english">
 
@@ -4137,7 +4137,7 @@ Satta-sambojjh'aṅgā
 〈 Handa mayaṁ satta-sambojjh'aṅga-pāṭhaṁ bhaṇāmase 〉
 </center>
 
-Sattime bhikkhave bojjhaṅgā bhāvitā bahulīkatā
+Satt'ime bhikkhave bojjh'aṅgā bhāvitā bahulīkatā
 
 <div class="english">
 
@@ -4408,7 +4408,7 @@ So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti
 
 <p style="text-align:right;">[SN 46.3]</p>
 
-Ime kho bhikkhave satta bojjhaṅgā'ti
+Ime kho bhikkhave satta bojjh'aṅgā'ti
 
 <div class="english">
 
@@ -5141,7 +5141,7 @@ Cattāro satipaṭṭhānā bhāvitā bahulī-katā
 
 </div>
 
-Satta-bojjhaṅge paripūrenti
+Satta-bojjh'aṅge paripūrenti
 
 <div class="english">
 
@@ -5149,7 +5149,7 @@ Satta-bojjhaṅge paripūrenti
 
 </div>
 
-Satta-bojjhaṅgā bhāvitā bahulī-katā
+Satta-bojjh'aṅgā bhāvitā bahulī-katā
 
 <div class="english">
 
@@ -7848,7 +7848,7 @@ Cattaro parrikhārā
 <br>
 
 <center>
-〈 Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase 〉
+〈 Handa mayaṁ taṅ'khaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase 〉
 </center>
 
 Paṭisaṅkhā yoniso cīvaraṁ paṭisevāmi\
@@ -7888,7 +7888,7 @@ Paṭisaṅkhā yoniso sen'āsanaṁ paṭisevāmi\
 Yāva'd'eva sītassa paṭighātāya\
 Uṇhassa paṭighātāya\
 Ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ paṭighātāya\
-Yāva'd'eva utuparissaya-vinodanaṁ paṭisallānārāmatthaṁ
+Yāva'd'eva utuparissaya-vinodanaṁ paṭisallān'ārāmatthaṁ
 
 <div class="english">
 
@@ -8019,10 +8019,10 @@ Sabbe sattā sukhī attānaṁ pariharantu\
 Sabbe sattā sabbadukkhā pamuccantu\
 Sabbe sattā laddha-sampattito mā vigacchantu\
 
-Sabbe sattā kammassakā kammadāyādā kammayonī kammabandhū kammapaṭisaraṇā\
+Sabbe sattā kammassakā kammadāy'ādā kammayonī kammabandhū kammapaṭisaraṇā\
 Yaṁ kammaṁ karissanti\
 Kalyāṇaṁ vā pāpakaṁ vā\
-Tassa dāyādā bhavissanti
+Tassa dāy'ādā bhavissanti
 
 <center>
 〈 Now let us recite the reflections on universal well-being 〉
@@ -8185,7 +8185,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 
 </div>
 
-Kammassakomhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\
+Kammassako'mhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\
 Yaṁ kammaṁ karissāmi\
 Kalyāṇaṁ vā pāpakaṁ vā\
 Tassa dāyādo bhavissāmi
@@ -8302,7 +8302,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 </div>
 
-Kammassakomhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\
+Kammassako'mhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\
 Yaṁ kammaṁ karissāmi|
 Kalyāṇaṁ vā pāpakaṁ vā\
 Tassa dāyādo bhavissāmī'ti\
@@ -10051,7 +10051,7 @@ Mārassa pāsā vinimocayanto<br>
 Pāpesi khemaṁ janataṁ vineyyaṁ<br>
 Buddhaṁ varan'taṁ sirasā namāmi<br>
 Lokassa nāthañ'ca vināyakañ'ca<br>
-Tan-tejasā te jaya-siddhi hotu<br>
+Tan'tejasā te jaya-siddhi hotu<br>
 Sabb'antarāyā ca vināsamentu
 
 <div class="english">
@@ -11347,7 +11347,7 @@ Nāḷāgiri, the excellent elephant, when maddened,
 Ukkhitta-khaggam-atihattha-sudāruṇan'taṁ\
 Dhāvan'ti-yojana-path'aṅguli-mālavantaṁ\
 Iddhī'bhisaṅkhata-mano jitavā mun'indo\
-Tan-tejasā bhavatu te jaya-maṅgalāni
+Tan'tejasā bhavatu te jaya-maṅgalāni
 
 <div class="english">
 
