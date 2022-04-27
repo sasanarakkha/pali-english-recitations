@@ -1780,7 +1780,7 @@ Yo c'eta'r'ahi sambuddho – Bahunnaṁ soka-nāsano
 </div>
 
 Sabbe saddhamma-garuno – Vihariṁsu viharanti ca\
-Atho pi viharissanti – Esā buddhāna dhammatā
+Atho'pi viharissanti – Esā buddhāna dhammatā
 
 <div class="english">
 
@@ -2398,7 +2398,7 @@ Na bāḷhaṁ ussukā āsuṁ – Yathā te āsavakkhaye
 </div>
 
 Araññe rukkhamūlesu – Kandarāsu guhāsu ca\
-Vivekam'anubrūhantā – Vihaṁsu tapparāyaṇā
+Vivekam'anubrūhantā – Vihaṁsu tap'parāyaṇā
 
 <div class="english">
 
@@ -2786,7 +2786,7 @@ Bhadd'eka-ratta
 〈 Handa mayaṁ bhadd'eka-ratta-gāthāyo bhaṇāmase 〉
 </center>
 
-Atītaṁ nānvāgameyya – Nappaṭikaṅkhe anāgataṁ\
+Atītaṁ n'ānvāgameyya – Nappaṭikaṅkhe anāgataṁ\
 Yad'atītam'pahīnan'taṁ – Appattañ'ca anāgataṁ
 
 <div class="english">
@@ -5637,7 +5637,7 @@ Bhava-paccayā jāti
 
 </div>
 
-Jāti-paccayā jarāmaraṇaṁ soka parideva dukkha domanssupāyāsā sambhavanti
+Jāti-paccayā jarāmaraṇaṁ soka-parideva dukkha domanssupāyāsā sambhavanti
 
 <div class="english">
 
@@ -5868,7 +5868,7 @@ Tattha katamaṁ rūpaṁ
 
 </div>
 
-Cattāro mahābhūtā catunnañca mahābhūtānaṁ upādāya rūpaṁ
+Cattāro mahābhūtā catunnañ'ca mahābhūtānaṁ upādāya rūpaṁ
 
 <div class="english">
 
@@ -7611,7 +7611,7 @@ Satthā sammukhī-bhūto
 
 </div>
 
-Tasmā'tiha bhikkhave vīriyaṁ ārabhatha
+Tasmā't'iha bhikkhave vīriyaṁ ārabhatha
 
 <div class="english">
 
@@ -8076,13 +8076,13 @@ Brahmavihārā
 〈 Handa mayaṁ caturappamaññā obhāsanaṁ karomase 〉
 </center>
 
-Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 
-Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 
-Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 
-Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
+Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
 
 <center>
 〈 Now let us make the Four Boundless Qualities shine forth 〉
@@ -9079,7 +9079,7 @@ Yaṅ'kiñci viññāṇaṁ atītānāgata-paccuppannaṁ <span class="breathma
 <center>
 〈 Evaṁ passaṁ bhikkhave 〉
 </center>
-Sutvā ariyasāvako rūpasmim'pi nibbindati <span class="breathmark">'</span> vedanāya'pi nibbindati <span class="breathmark">'</span> saññāya'pi nibbindati <span class="breathmark">'</span> saṅkhāresu'pi nibbindati <span class="breathmark">'</span> viññāṇasmim'pi nibbindati <span class="breathmark">'</span> nibbindaṁ virajjati <span class="breathmark">'</span> virāgā vimuccati <span class="breathmark">'</span> vimuttasmiṁ “Vimuttam” iti ñāṇaṁ hoti <span class="breathmark">'</span> “Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā”ti pajānātī'ti.
+Sutvā ariyasāvako rūpasmim'pi nibbindati <span class="breathmark">'</span> vedanāya'pi nibbindati <span class="breathmark">'</span> saññāya'pi nibbindati <span class="breathmark">'</span> saṅkhāresu'pi nibbindati <span class="breathmark">'</span> viññāṇasmim'pi nibbindati <span class="breathmark">'</span> nibbindaṁ virajjati <span class="breathmark">'</span> virāgā vimuccati <span class="breathmark">'</span> vimuttasmiṁ “Vimuttam”iti ñāṇaṁ hoti <span class="breathmark">'</span> “Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā”ti pajānātī'ti.
 
 Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti.
 
@@ -9235,7 +9235,7 @@ Kāyasmimpi nibbindati <span class="breathmark">'</span> phoṭṭhabbesu pi nib
 
 Manasmimpi nibbindati <span class="breathmark">'</span> dhammesu pi nibbindati <span class="breathmark">'</span> manoviññāṇe pi nibbindati <span class="breathmark">'</span> manosamphasse pi nibbindati <span class="breathmark">'</span> yam'p'idaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmimpi nibbindati.
 
-Nibbindaṁ virajjati <span class="breathmark">'</span> virāgā vimuccati <span class="breathmark">'</span> vimuttasmiṁ 'Vimuttam' iti ñāṇaṁ hoti:
+Nibbindaṁ virajjati <span class="breathmark">'</span> virāgā vimuccati <span class="breathmark">'</span> vimuttasmiṁ 'Vimuttam'iti ñāṇaṁ hoti:
 
 'Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā'ti pajānātī'ti.
 
@@ -10132,7 +10132,7 @@ Svākkhātass'eva ten'idha
 
 </div>
 
-Namo mahā-saṅghassāpi\
+Namo mahā-saṅghassā'pi\
 Visuddha-sīla-diṭṭhino\
 Namo omāty'āraddhassa\
 Ratanattayassa sādhukaṁ
@@ -10147,7 +10147,7 @@ Ratanattayassa sādhukaṁ
 </div>
 
 Namo omak'ātītassa\
-Tassa vatthuttayassa-pi\
+Tassa vatthuttayassa'pi\
 Namo-kārappabhāvena\
 Vigacchantu upaddavā
 
@@ -10378,7 +10378,7 @@ Tan'tesaṁ maṅgalam'uttaman'ti
 </center>
 Bhummāni vā yāni va antalikkhe<br>
 Sabb'eva bhūtā sumanā bhavantu<br>
-Atho pi sakkacca suṇantu bhāsitaṁ
+Atho'pi sakkacca suṇantu bhāsitaṁ
 
 <div class="english">
 
@@ -10435,7 +10435,7 @@ Etena saccena suvatthi hotu
 
 </div>
 
-Yam buddha-seṭṭho parivaṇṇayī suciṁ\
+Yam'buddha-seṭṭho parivaṇṇayī suciṁ\
 Samādhim'ānantarikañ'ñam'āhu\
 Samādhinā tena samo na vijjati\
 Idam'pi dhamme ratanaṁ paṇītaṁ\
@@ -10488,7 +10488,7 @@ Etena saccena suvatthi hotu
 </div>
 
 Yath'inda-khīlo paṭhaviṁ sito siyā\
-Catubbhi vātebhi asampakam'piyo\
+Catubbhi vātebhi asampakampiyo\
 Tath'ūpamaṁ sappurisaṁ vadāmi\
 Yo ariya-saccāni avecca passati\
 Idam'pi saṅghe ratanaṁ paṇītaṁ\
@@ -10880,7 +10880,7 @@ Appamāṇo dhammo<br>
 Appamāṇo saṅgho<br>
 Pamāṇavantāni siriṁsapāni<br>
 Ahi-vicchikā sata-padī<br>
-Uṇṇā-nābhī sarabhū mūsikā
+Uṇṇānābhī sarabhū mūsikā
 
 <div class="english">
 
@@ -11180,7 +11180,7 @@ Sotthi te hotu sabbadā
 ### Abhaya-parittaṁ<a id="abhaya-parittam"></a>
 
 <center>
-〈 Yan-dunnimittaṁ avamaṅgalañ'ca 〉
+〈 Yan'dunnimittaṁ avamaṅgalañ'ca 〉
 </center>
 Yo c'āmanāpo sakuṇassa saddo<br>
 Pāpaggaho dussupinaṁ akantaṁ<br>
@@ -11195,7 +11195,7 @@ Buddh'ānubhāvena vināsamentu
 
 </div>
 
-Yan-dunnimittaṁ avamaṅgalañ'ca\
+Yan'dunnimittaṁ avamaṅgalañ'ca\
 Yo c'āmanāpo sakuṇassa saddo\
 Pāpaggaho dussupinaṁ akantaṁ\
 Dhamm'ānubhāvena vināsamentu
@@ -11209,7 +11209,7 @@ Dhamm'ānubhāvena vināsamentu
 
 </div>
 
-Yan-dunnimittaṁ avamaṅgalañ'ca\
+Yan'dunnimittaṁ avamaṅgalañ'ca\
 Yo c'āmanāpo sakuṇassa saddo\
 Pāpaggaho dussupinaṁ akantaṁ\
 Saṅgh'ānubhāvena vināsamentu
@@ -11876,7 +11876,7 @@ Ajjhatta-bahiddh'ārammaṇā dhammā
 
 Sanidassana-sappaṭighā dhammā\
 Anidassana-sappaṭighā dhammā\
-Anidassanāppaṭighā dhammā
+Anidassan'āppaṭighā dhammā
 
 <div class="english">
 
@@ -12285,7 +12285,7 @@ Iminā puññakammena upajjhāyā guṇ'uttarā\
 Ācariy'ūpakārā ca mātāpitā ca ñātakā\
 Suriyo candimā rājā guṇavantā narā'pi ca\
 Brahma-mārā ca indā ca lokapālā ca devatā\
-Yamo mittā manussā ca majjhattā verikāpi ca\
+Yamo mittā manussā ca majjhattā verikā'pi ca\
 Sabbe sattā sukhī hontu puññāni pakatāni me\
 Sukhañ'ca tividhaṁ dentu khippaṁ pāpetha vo'mataṁ\
 Iminā puññakammena iminā uddissena ca\
@@ -12374,7 +12374,7 @@ Diṭṭhā me c'āpy'adiṭṭhā vā aññe majjhatta-verino
 </div>
 
 Sattā tiṭṭhanti lokasmiṁ te bhummā catu-yonikā\
-Pañc'eka-catu-vokārā saṁsarantā bhavābhave
+Pañc'eka-catu-vokārā saṁsarantā bhav'ābhave
 
 <div class="english">
 
@@ -13183,11 +13183,11 @@ Thanks to all Saṅgha members who are willing to share this responsibility, by 
 
 <a href="../recitations/teachings/dependent-origination.html#en72" style="text-decoration: none;"><sup>72</sup></a> Here and at other places of the English translation, the term “a condition” is used. The indefinite article “a” indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (<em>adhipati-paccaya</em>) for the subsequent conditioned thing to arise.
 
-<a href="../recitations/teachings/dependent-origination.html#en73" style="text-decoration: none;"><sup>73</sup></a> Here and at other places of the English translation, the term “arises” is inserted, because the term “<em>sambhavati</em>” from “<em>Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanass’upāyāsā sambhavanti</em>” applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.
+<a href="../recitations/teachings/dependent-origination.html#en73" style="text-decoration: none;"><sup>73</sup></a> Here and at other places of the English translation, the term “arises” is inserted, because the term “<em>sambhavati</em>” from “<em>Jāti-paccayā jarāmaraṇaṁ; soka-parideva-dukkha-domanass’upāyāsā sambhavanti</em>” applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.
 
 <a href="../recitations/teachings/dependent-origination.html#en74" style="text-decoration: none;"><sup>74</sup></a> In the context of dependent origination, the compound “<em>nāmarūpa</em>” is translated as “mind-and-body” in order to cover the entirety of what is conventionally called “a being, a person”. In other contexts, particularly if used separately, these terms may have other connotations.
 
-<a href="../recitations/teachings/dependent-origination.html#en75" style="text-decoration: none;"><sup>75</sup></a> Here and at other places of the English translation, the term “arises” is inserted, because the term “<em>sambhavati</em>” from “<em>Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanass’upāyāsā sambhavanti</em>” applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.
+<a href="../recitations/teachings/dependent-origination.html#en75" style="text-decoration: none;"><sup>75</sup></a> Here and at other places of the English translation, the term “arises” is inserted, because the term “<em>sambhavati</em>” from “<em>Jāti-paccayā jarāmaraṇaṁ; soka-parideva-dukkha-domanass’upāyāsā sambhavanti</em>” applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.
 
 <a href="../recitations/teachings/dependent-origination.html#en76" style="text-decoration: none;"><sup>76</sup></a> To render as “Therein what is from ignorance as a condition arise formations.” would be misleading, because it is not the conditioned relationship between A and B (here: ignorance and formations) that gets elaborated upon in the following lines, but it is only the term B (here: formations), that gets defined. Hence the preferable translation: “Therein what are ’formations’, arising from ignorance as a condition?”
 

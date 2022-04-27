@@ -1507,7 +1507,7 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Sabbe saddhamma-garuno – Vihariṁsu viharanti ca\\
-  Atho pi viharissanti – Esā buddhāna dhammatā
+  Atho'pi viharissanti – Esā buddhāna dhammatā
 \end{verses}
 
 \begin{english-verses}
@@ -2126,7 +2126,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Araññe rukkhamūlesu – Kandarāsu guhāsu ca\\
-  Vivekam'anubrūhantā – Vihaṁsu tapparāyaṇā
+  Vivekam'anubrūhantā – Vihaṁsu tap'parāyaṇā
 \end{verses}
 
 \begin{english-verses}
@@ -2520,7 +2520,7 @@ Etaṁ buddhāna sāsanaṁ
 \end{leader}
 
 \begin{verses}
-  Atītaṁ nānvāgameyya – Nappaṭikaṅkhe anāgataṁ\\
+  Atītaṁ n'ānvāgameyya – Nappaṭikaṅkhe anāgataṁ\\
   Yad'atītam'pahīnan'taṁ – Appattañ'ca anāgataṁ
 \end{verses}
 
@@ -5489,7 +5489,7 @@ Avijjā-paccayā saṅkhārā
   From ignorance as a\makeatletter\hyperlink{endnote72-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother
   condition arise\makeatletter\hyperlink{endnote73-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
+        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
   formations
 \end{english}
 
@@ -5550,7 +5550,7 @@ Bhava-paccayā jāti
 \end{english}
 
 \begin{pali-hang}
-  Jāti-paccayā jarāmaraṇaṁ soka parideva dukkha domanass'upāyāsā sambhavanti
+  Jāti-paccayā jarāmaraṇaṁ soka-parideva-dukkha-domanass'upāyāsā sambhavanti
 \end{pali-hang}
 
 \begin{english}
@@ -5592,7 +5592,7 @@ Ayaṁ vuccati avijjā
 \linkdest{endnote76-body}
 \begin{english-hang}
   Therein what are 'formations' \breathmark\ arising\makeatletter\hyperlink{endnote75-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka parideva dukkha domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
+        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
   from ignorance as a condition?\makeatletter\hyperlink{endnote76-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote76-appendix}{\hyperlink{endnote76-body}{To render as ``Therein what is from ignorance as a condition arise formations.'' would be misleading, because it is not the conditioned relationship between A and B (here: ignorance and formations) that gets elaborated upon in the following lines, but it is only the term B (here: formations), that gets defined. Hence the preferable translation: ``Therein what are 'formations', arising from ignorance as a condition?''}}}}}\makeatother
 \end{english-hang}
@@ -5750,7 +5750,7 @@ Tattha katamaṁ rūpaṁ
   Therein what is form?
 \end{english}
 
-Cattāro mahābhūtā catunnañca mahābhūtānaṁ upādāya rūpaṁ
+Cattāro mahābhūtā catunnañ'ca mahābhūtānaṁ upādāya rūpaṁ
 
 \begin{english-hang}
   The four great elements and form dependent on the four great elements
@@ -7212,7 +7212,7 @@ Satthā sammukhī-bhūto
   The Teacher is present
 \end{english}
 
-Tasmā'tiha bhikkhave vīriyaṁ ārabhatha
+Tasmā't'iha bhikkhave vīriyaṁ ārabhatha
 
 \begin{english}
   Therefore bhikkhus \breathmark\ start to arouse your energy
@@ -7644,25 +7644,25 @@ Tassa dāy'ādā bhavissanti
 \end{leader}
 
 \begin{pali-hang}
-  Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+  Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 \end{pali-hang}
 
 \medskip
 
 \begin{pali-hang}
-  Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+  Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 \end{pali-hang}
 
 \medskip
 
 \begin{pali-hang}
-  Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+  Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 \end{pali-hang}
 
 \medskip
 
 \begin{pali-hang}
-  Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
+  Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
 \end{pali-hang}
 
 \clearpage
@@ -8873,7 +8873,7 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sutvā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ ``Vimuttam'' iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
+  Sutvā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ ``Vimuttam''iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
 \end{pali-hangtogether}
 
 \clearpage
@@ -9151,7 +9151,7 @@ Kena ādittaṁ?
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphasse'pi nibbindati \breathmark\ yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
+  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphasse'pi nibbindati \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hangtogether}
 
 \begin{pali-hang}
@@ -9748,7 +9748,7 @@ Sadā sotthī bhavantu te
   Bala-vaḍḍhako\\
   Vaṇṇa-vaḍḍhako\\
   Sukha-vaḍḍhako hotu sabbadā\\
-  Dukkha-roga-bhayāverā\\
+  Dukkha-roga-bhaya-verā\\
   Sokā sattu c'upaddavā\\
   Anekā antarāyā'pi\\
   Vinassantu ca tejasā\\
@@ -10210,7 +10210,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Namo mahā-saṅghassāpi\\
+  Namo mahā-saṅghassā'pi\\
   Visuddha-sīla-diṭṭhino\\
   Namo omāty'āraddhassa\\
   Ratanattayassa sādhukaṁ
@@ -10225,7 +10225,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Namo omak'ātītassa\\
-  Tassa vatthuttayassa-pi\\
+  Tassa vatthuttayassa'pi\\
   Namo-kārappabhāvena\\
   Vigacchantu upaddavā\\
 \end{pali-hang-continued}
@@ -10518,7 +10518,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yam buddha-seṭṭho parivaṇṇayī suciṁ\\
+  Yam'buddha-seṭṭho parivaṇṇayī suciṁ\\
   Samādhim'ānantarikañ'ñam'āhu\\
   Samādhinā tena samo na vijjati\\
   Idam'pi dhamme ratanaṁ paṇītaṁ\\
@@ -10571,7 +10571,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Yath'inda-khīlo paṭhaviṁ sito siyā\\
-  Catubbhi vātebhi asampakam'piyo\\
+  Catubbhi vātebhi asampakampiyo\\
   Tath'ūpamaṁ sappurisaṁ vadāmi\\
   Yo ariya-saccāni avecca passati\\
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
@@ -10969,7 +10969,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Appamāṇo saṅgho\\
   Pamāṇavantāni siriṁsapāni\\
   Ahi-vicchikā sata-padī\\
-  Uṇṇā-nābhī sarabhū mūsikā
+  Uṇṇānābhī sarabhū mūsikā
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -11290,7 +11290,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \label{abhaya-parittam}
 
 \begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Yan-dunnimittaṁ avamaṅgalañ'ca \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Yan'dunnimittaṁ avamaṅgalañ'ca \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
   Yo c'āmanāpo sakuṇassa saddo\\
@@ -11306,7 +11306,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yan-dunnimittaṁ avamaṅgalañ'ca\\
+  Yan'dunnimittaṁ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Dhamm'ānubhāvena vināsamentu
@@ -11320,7 +11320,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yan-dunnimittaṁ avamaṅgalañ'ca\\
+  Yan'dunnimittaṁ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Saṅgh'ānubhāvena vināsamentu
@@ -12010,7 +12010,7 @@ Bhagavato arahato sammā-sambuddhassa \hfill{[3x]}
 \begin{pali-hang-continued}
   Sanidassana-sappaṭighā dhammā\\
   Anidassana-sappaṭighā dhammā\\
-  Anidassanāppaṭighā dhammā
+  Anidassan'āppaṭighā dhammā
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -12475,7 +12475,7 @@ Iminā puññakammena upajjhāyā guṇ'uttarā\\
 Ācariy'ūpakārā ca mātāpitā ca ñātakā\\
 Suriyo candimā rājā guṇavantā narā'pi ca\\
 Brahma-mārā ca indā ca lokapālā ca devatā\\
-Yamo mittā manussā ca majjhattā verikāpi ca\\
+Yamo mittā manussā ca majjhattā verikā'pi ca\\
 Sabbe sattā sukhī hontu puññāni pakatāni me\\
 Sukhañ'ca tividhaṁ dentu khippaṁ pāpetha vo'mataṁ\\
 Iminā puññakammena iminā uddissena ca\\
@@ -12577,7 +12577,7 @@ Diṭṭhā me c'āpy'adiṭṭhā vā aññe majjhatta-verino
 \end{english-verses}
 
 Sattā tiṭṭhanti lokasmiṁ te bhummā catu-yonikā\\
-Pañc'eka-catu-vokārā saṁsarantā bhavābhave
+Pañc'eka-catu-vokārā saṁsarantā bhav'ābhave
 
 \begin{english-verses}
   Beings established in the world\\
