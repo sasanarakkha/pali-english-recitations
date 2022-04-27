@@ -1,429 +1,244 @@
-<?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="epub-id-1">
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>SBS Pāli-English Recitations</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="Saṅgha, SBS">SBS Saṅgha</dc:creator>
-    <dc:identifier id="epub-id-1">urn:uuid:9c04733a-2ff5-4df3-af05-bc1cd27389a4</dc:identifier>
-    <dc:date>2022-04-03T22:47:06+00:00</dc:date>
+    <dc:identifier id="BookId">urn:uuid:8f0ffe23-9a55-476b-9474-5cfc6b7b9b82</dc:identifier>
     <dc:language>en</dc:language>
-    <dc:identifier opf:scheme="calibre">233892be-b810-4eaa-83e4-4c397a4b18b1</dc:identifier>
-    <meta name="calibre:title_sort" content="SBS Pāli-English Recitations"/>
-    <meta name="calibre:author_link_map" content="{&quot;SBS Saṅgha&quot;: &quot;&quot;}"/>
+    <dc:title>[Main title here]</dc:title>
+    <meta property="dcterms:modified">2022-04-27T15:06:27Z</meta>
+    <meta content="1.7.0" name="Sigil version"/>
+    <meta name="cover" content="front-cover-compressed.jpg"/>
   </metadata>
   <manifest>
-    <item media-type="application/xhtml+xml" id="cover-page-ebook_html" href="cover-page-ebook.html"/>
-    <item media-type="application/xhtml+xml" id="titlepage_html" href="titlepage.html"/>
-    <item media-type="application/xhtml+xml" id="copyright_html" href="copyright.html"/>
-    <item media-type="application/xhtml+xml" id="acknowledgments_html" href="acknowledgments.html"/>
-    <item media-type="application/xhtml+xml" id="contents_html" href="contents.html"/>
-    <item media-type="application/xhtml+xml" id="schedule_html" href="schedule.html"/>
-    <item media-type="application/xhtml+xml" id="purpose-and-benefits_html" href="purpose-and-benefits.html"/>
-    <item media-type="application/xhtml+xml" id="abbreviations_html" href="abbreviations.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_cover-title-homage_html" href="recitations/homage/cover-title-homage.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_dedication-of-offerings_html" href="recitations/homage/dedication-of-offerings.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_dedication-of-offerings_html" href="recitations/homage/dedication-of-offerings.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_preliminary-homage_html" href="recitations/homage/preliminary-homage.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_preliminary-homage_html" href="recitations/homage/preliminary-homage.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_homage-buddha_html" href="recitations/homage/homage-buddha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_homage-buddha_html" href="recitations/homage/homage-buddha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_homage-dhamma_html" href="recitations/homage/homage-dhamma.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_homage-dhamma_html" href="recitations/homage/homage-dhamma.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_homage-sangha_html" href="recitations/homage/homage-sangha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_homage-sangha_html" href="recitations/homage/homage-sangha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_salutation_html" href="recitations/homage/salutation.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_salutation_html" href="recitations/homage/salutation.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_closing-homage_html" href="recitations/homage/closing-homage.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_homage_closing-homage_html" href="recitations/homage/closing-homage.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_cover-verses_html" href="recitations/verses/cover-verses.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_buddhas-first-exclamation_html" href="recitations/verses/buddhas-first-exclamation.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_buddhas-first-exclamation_html" href="recitations/verses/buddhas-first-exclamation.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_respect-for-the-dhamma_html" href="recitations/verses/respect-for-the-dhamma.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_respect-for-the-dhamma_html" href="recitations/verses/respect-for-the-dhamma.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_true-false-refuges_html" href="recitations/verses/true-false-refuges.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_true-false-refuges_html" href="recitations/verses/true-false-refuges.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_patimokkha-exhortation_html" href="recitations/verses/patimokkha-exhortation.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_patimokkha-exhortation_html" href="recitations/verses/patimokkha-exhortation.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_three-characteristics_html" href="recitations/verses/three-characteristics.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_three-characteristics_html" href="recitations/verses/three-characteristics.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_burdens_html" href="recitations/verses/burdens.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_burdens_html" href="recitations/verses/burdens.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_ratthapala_html" href="recitations/verses/ratthapala.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_ratthapala_html" href="recitations/verses/ratthapala.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_parapariya_html" href="recitations/verses/parapariya.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_parapariya_html" href="recitations/verses/parapariya.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_protection_html" href="recitations/verses/protection.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_protection_html" href="recitations/verses/protection.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_misc-verses_html" href="recitations/verses/misc-verses.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_misc-verses_html" href="recitations/verses/misc-verses.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_single-excellent-night_html" href="recitations/verses/single-excellent-night.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_single-excellent-night_html" href="recitations/verses/single-excellent-night.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_highest-blessings_html" href="recitations/verses/highest-blessings.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_highest-blessings_html" href="recitations/verses/highest-blessings.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_words-on-loving-kindness_html" href="recitations/verses/words-on-loving-kindness.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_verses_words-on-loving-kindness_html" href="recitations/verses/words-on-loving-kindness.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_cover-teachings_html" href="recitations/teachings/cover-teachings.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_wheel-of-dhamma-abridged_html" href="recitations/teachings/wheel-of-dhamma-abridged.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_wheel-of-dhamma-abridged_html" href="recitations/teachings/wheel-of-dhamma-abridged.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_anupubba-sikkha_html" href="recitations/teachings/anupubba-sikkha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_anupubba-sikkha_html" href="recitations/teachings/anupubba-sikkha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_gradual-training_html" href="recitations/teachings/gradual-training.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_gradual-training_html" href="recitations/teachings/gradual-training.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_requisites-for-awakening_html" href="recitations/teachings/requisites-for-awakening.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_requisites-for-awakening_html" href="recitations/teachings/requisites-for-awakening.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_seven-factors-of-awakening_html" href="recitations/teachings/seven-factors-of-awakening.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_seven-factors-of-awakening_html" href="recitations/teachings/seven-factors-of-awakening.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_noble-eightfold-path_html" href="recitations/teachings/noble-eightfold-path.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_noble-eightfold-path_html" href="recitations/teachings/noble-eightfold-path.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_mindfulness-of-breathing_html" href="recitations/teachings/mindfulness-of-breathing.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_mindfulness-of-breathing_html" href="recitations/teachings/mindfulness-of-breathing.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_dependent-origination_html" href="recitations/teachings/dependent-origination.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_dependent-origination_html" href="recitations/teachings/dependent-origination.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_dhamma-in-brief_html" href="recitations/teachings/dhamma-in-brief.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_dhamma-in-brief_html" href="recitations/teachings/dhamma-in-brief.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_four-great-references_html" href="recitations/teachings/four-great-references.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_four-great-references_html" href="recitations/teachings/four-great-references.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_principles-of-cordiality_html" href="recitations/teachings/principles-of-cordiality.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_principles-of-cordiality_html" href="recitations/teachings/principles-of-cordiality.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_principles-of-non-decline_html" href="recitations/teachings/principles-of-non-decline.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_principles-of-non-decline_html" href="recitations/teachings/principles-of-non-decline.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_striving-according-to-dhamma_html" href="recitations/teachings/striving-according-to-dhamma.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_striving-according-to-dhamma_html" href="recitations/teachings/striving-according-to-dhamma.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_buddhas-final-instruction_html" href="recitations/teachings/buddhas-final-instruction.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_teachings_buddhas-final-instruction_html" href="recitations/teachings/buddhas-final-instruction.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_cover-reflections_html" href="recitations/reflections/cover-reflections.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_four-requisites_html" href="recitations/reflections/four-requisites.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_four-requisites_html" href="recitations/reflections/four-requisites.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_repulsiveness-of-food_html" href="recitations/reflections/repulsiveness-of-food.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_repulsiveness-of-food_html" href="recitations/reflections/repulsiveness-of-food.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_universal-well-being_html" href="recitations/reflections/universal-well-being.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_universal-well-being_html" href="recitations/reflections/universal-well-being.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_divine-abidings_html" href="recitations/reflections/divine-abidings.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_divine-abidings_html" href="recitations/reflections/divine-abidings.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_five-reflections_html" href="recitations/reflections/five-reflections.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_five-reflections_html" href="recitations/reflections/five-reflections.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_ten-reflections_html" href="recitations/reflections/ten-reflections.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_ten-reflections_html" href="recitations/reflections/ten-reflections.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_32-parts_html" href="recitations/reflections/32-parts.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_32-parts_html" href="recitations/reflections/32-parts.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_recollection-of-impermanence_html" href="recitations/reflections/recollection-of-impermanence.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_reflections_recollection-of-impermanence_html" href="recitations/reflections/recollection-of-impermanence.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_cover-tital-cardinal-suttas_html" href="recitations/cardinal-suttas/cover-tital-cardinal-suttas.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_dhammacakkappavattana_html" href="recitations/cardinal-suttas/dhammacakkappavattana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_dhammacakkappavattana_html" href="recitations/cardinal-suttas/dhammacakkappavattana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_wheel-of-dhamma-full_html" href="recitations/cardinal-suttas/wheel-of-dhamma-full.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_wheel-of-dhamma-full_html" href="recitations/cardinal-suttas/wheel-of-dhamma-full.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_anatta-lakkhana_html" href="recitations/cardinal-suttas/anatta-lakkhana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_anatta-lakkhana_html" href="recitations/cardinal-suttas/anatta-lakkhana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_characteristic-of-not-self_html" href="recitations/cardinal-suttas/characteristic-of-not-self.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_characteristic-of-not-self_html" href="recitations/cardinal-suttas/characteristic-of-not-self.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_aditta-pariyaya_html" href="recitations/cardinal-suttas/aditta-pariyaya.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_aditta-pariyaya_html" href="recitations/cardinal-suttas/aditta-pariyaya.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_fire-sermon_html" href="recitations/cardinal-suttas/fire-sermon.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_cardinal-suttas_fire-sermon_html" href="recitations/cardinal-suttas/fire-sermon.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_cover-thanksgiving-recitations_html" href="recitations/thanksgiving-recitations/cover-thanksgiving-recitations.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_just-as-rivers_html" href="recitations/thanksgiving-recitations/just-as-rivers.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_just-as-rivers_html" href="recitations/thanksgiving-recitations/just-as-rivers.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_yatha-vari-vaha-pura_html" href="recitations/thanksgiving-recitations/yatha-vari-vaha-pura.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_yatha-vari-vaha-pura_html" href="recitations/thanksgiving-recitations/yatha-vari-vaha-pura.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_ratanattayanubhavadi-gatha_html" href="recitations/thanksgiving-recitations/ratanattayanubhavadi-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_ratanattayanubhavadi-gatha_html" href="recitations/thanksgiving-recitations/ratanattayanubhavadi-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_bhojana-dananumodana_html" href="recitations/thanksgiving-recitations/bhojana-dananumodana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_bhojana-dananumodana_html" href="recitations/thanksgiving-recitations/bhojana-dananumodana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_culla-mangala-cakka-vala_html" href="recitations/thanksgiving-recitations/culla-mangala-cakka-vala.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_culla-mangala-cakka-vala_html" href="recitations/thanksgiving-recitations/culla-mangala-cakka-vala.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_aggappasada-sutta-gatha_html" href="recitations/thanksgiving-recitations/aggappasada-sutta-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_aggappasada-sutta-gatha_html" href="recitations/thanksgiving-recitations/aggappasada-sutta-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_kala-dana-sutta-gatha_html" href="recitations/thanksgiving-recitations/kala-dana-sutta-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_kala-dana-sutta-gatha_html" href="recitations/thanksgiving-recitations/kala-dana-sutta-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_so-attha-laddho_html" href="recitations/thanksgiving-recitations/so-attha-laddho.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_thanksgiving-recitations_so-attha-laddho_html" href="recitations/thanksgiving-recitations/so-attha-laddho.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_cover-protective-recitations_html" href="recitations/protective-recitations/cover-protective-recitations.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_deva-aradhana_html" href="recitations/protective-recitations/deva-aradhana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_deva-aradhana_html" href="recitations/protective-recitations/deva-aradhana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_pubba-bhaga-nama-kara-patho-protective_html" href="recitations/protective-recitations/pubba-bhaga-nama-kara-patho-protective.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_pubba-bhaga-nama-kara-patho-protective_html" href="recitations/protective-recitations/pubba-bhaga-nama-kara-patho-protective.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_sarana-gamana-patho_html" href="recitations/protective-recitations/sarana-gamana-patho.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_sarana-gamana-patho_html" href="recitations/protective-recitations/sarana-gamana-patho.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_nama-kara-siddhi-gatha_html" href="recitations/protective-recitations/nama-kara-siddhi-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_nama-kara-siddhi-gatha_html" href="recitations/protective-recitations/nama-kara-siddhi-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_namo-kara-atthaka_html" href="recitations/protective-recitations/namo-kara-atthaka.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_namo-kara-atthaka_html" href="recitations/protective-recitations/namo-kara-atthaka.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_mangala-sutta_html" href="recitations/protective-recitations/mangala-sutta.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_mangala-sutta_html" href="recitations/protective-recitations/mangala-sutta.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_ratana-sutta_html" href="recitations/protective-recitations/ratana-sutta.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_ratana-sutta_html" href="recitations/protective-recitations/ratana-sutta.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_karaniya-metta-sutta_html" href="recitations/protective-recitations/karaniya-metta-sutta.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_karaniya-metta-sutta_html" href="recitations/protective-recitations/karaniya-metta-sutta.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_khandha-parittam_html" href="recitations/protective-recitations/khandha-parittam.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_khandha-parittam_html" href="recitations/protective-recitations/khandha-parittam.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_buddha-dhamma-sangha-guna_html" href="recitations/protective-recitations/buddha-dhamma-sangha-guna.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_buddha-dhamma-sangha-guna_html" href="recitations/protective-recitations/buddha-dhamma-sangha-guna.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_yan-kinci-ratanam-loke_html" href="recitations/protective-recitations/yan-kinci-ratanam-loke.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_yan-kinci-ratanam-loke_html" href="recitations/protective-recitations/yan-kinci-ratanam-loke.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_bojjhana-parittam_html" href="recitations/protective-recitations/bojjhana-parittam.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_bojjhana-parittam_html" href="recitations/protective-recitations/bojjhana-parittam.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_abhaya-parittam_html" href="recitations/protective-recitations/abhaya-parittam.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_abhaya-parittam_html" href="recitations/protective-recitations/abhaya-parittam.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_devata-uyyojana-gatha_html" href="recitations/protective-recitations/devata-uyyojana-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_devata-uyyojana-gatha_html" href="recitations/protective-recitations/devata-uyyojana-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_jaya-mangala-attha-gatha_html" href="recitations/protective-recitations/jaya-mangala-attha-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_jaya-mangala-attha-gatha_html" href="recitations/protective-recitations/jaya-mangala-attha-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_jaya-parittam_html" href="recitations/protective-recitations/jaya-parittam.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_jaya-parittam_html" href="recitations/protective-recitations/jaya-parittam.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_bhavatu-sabba-mangalam-protective_html" href="recitations/protective-recitations/bhavatu-sabba-mangalam-protective.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_protective-recitations_bhavatu-sabba-mangalam-protective_html" href="recitations/protective-recitations/bhavatu-sabba-mangalam-protective.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_cover-funeral-recitations_html" href="recitations/funeral-recitations/cover-funeral-recitations.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_pubba-bhaga-nama-kara-patho-funeral_html" href="recitations/funeral-recitations/pubba-bhaga-nama-kara-patho-funeral.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_pubba-bhaga-nama-kara-patho-funeral_html" href="recitations/funeral-recitations/pubba-bhaga-nama-kara-patho-funeral.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_dhamma-sangani-matika_html" href="recitations/funeral-recitations/dhamma-sangani-matika.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_dhamma-sangani-matika_html" href="recitations/funeral-recitations/dhamma-sangani-matika.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_vipassana-bhumi-patho_html" href="recitations/funeral-recitations/vipassana-bhumi-patho.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_vipassana-bhumi-patho_html" href="recitations/funeral-recitations/vipassana-bhumi-patho.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_patthana-matika-patho_html" href="recitations/funeral-recitations/patthana-matika-patho.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_patthana-matika-patho_html" href="recitations/funeral-recitations/patthana-matika-patho.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_adasi-me-adi-gatha_html" href="recitations/funeral-recitations/adasi-me-adi-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_adasi-me-adi-gatha_html" href="recitations/funeral-recitations/adasi-me-adi-gatha.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_pamsu-kula-dead_html" href="recitations/funeral-recitations/pamsu-kula-dead.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_pamsu-kula-dead_html" href="recitations/funeral-recitations/pamsu-kula-dead.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_pamsu-kula-living_html" href="recitations/funeral-recitations/pamsu-kula-living.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_pamsu-kula-living_html" href="recitations/funeral-recitations/pamsu-kula-living.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_bhavatu-sabba-mangalam-funeral_html" href="recitations/funeral-recitations/bhavatu-sabba-mangalam-funeral.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_funeral-recitations_bhavatu-sabba-mangalam-funeral_html" href="recitations/funeral-recitations/bhavatu-sabba-mangalam-funeral.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_cover-sharing-of-merits_html" href="recitations/sharing-of-merits/cover-sharing-of-merits.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_uddissanadhitthana_html" href="recitations/sharing-of-merits/uddissanadhitthana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_uddissanadhitthana_html" href="recitations/sharing-of-merits/uddissanadhitthana.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_sharing-all-merits_html" href="recitations/sharing-of-merits/sharing-all-merits.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_sharing-all-merits_html" href="recitations/sharing-of-merits/sharing-all-merits.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_sharing-merits-departed_html" href="recitations/sharing-of-merits/sharing-merits-departed.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_sharing-merits-departed_html" href="recitations/sharing-of-merits/sharing-merits-departed.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_sharing-merits-devas_html" href="recitations/sharing-of-merits/sharing-merits-devas.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_sharing-merits-devas_html" href="recitations/sharing-of-merits/sharing-merits-devas.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_highest-honour-aspirations_html" href="recitations/sharing-of-merits/highest-honour-aspirations.html"/>
-    <item media-type="application/xhtml+xml" id="recitations_sharing-of-merits_highest-honour-aspirations_html" href="recitations/sharing-of-merits/highest-honour-aspirations.html"/>
-    <item media-type="application/xhtml+xml" id="appendix_cover-appendix_html" href="appendix/cover-appendix.html"/>
-    <item media-type="application/xhtml+xml" id="appendix_refuge-trainings_html" href="appendix/refuge-trainings.html"/>
-    <item media-type="application/xhtml+xml" id="appendix_refuge-trainings_html" href="appendix/refuge-trainings.html"/>
-    <item media-type="application/xhtml+xml" id="appendix_phonetics-pronunciation_html" href="appendix/phonetics-pronunciation.html"/>
-    <item media-type="application/xhtml+xml" id="appendix_phonetics-pronunciation_html" href="appendix/phonetics-pronunciation.html"/>
-    <item media-type="application/xhtml+xml" id="appendix_guidelines_html" href="appendix/guidelines.html"/>
-    <item media-type="application/xhtml+xml" id="appendix_guidelines_html" href="appendix/guidelines.html"/>
-    <item media-type="application/xhtml+xml" id="back-cover-page-ebook_html" href="back-cover-page-ebook.html"/>
-    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-    <item media-type="text/css" id="stylesheet_css" href="stylesheet.css"/>
-    <item media-type="image/jpeg" id="appendix_appendix-resize_jpg" href="appendix/appendix-resize.jpg"/>
-    <item media-type="image/jpeg" id="includes_images_back-cover-compressed_jpg" href="includes/images/back-cover-compressed.jpg"/>
-    <item media-type="image/jpeg" id="includes_images_front-cover-compressed_jpg" href="includes/images/front-cover-compressed.jpg"/>
-    <item media-type="image/jpeg" id="recitations_cardinal-suttas_cardinal-suttas-resize_jpg" href="recitations/cardinal-suttas/cardinal-suttas-resize.jpg"/>
-    <item media-type="image/jpeg" id="recitations_funeral-recitations_funeral-recitations-resize_jpg" href="recitations/funeral-recitations/funeral-recitations-resize.jpg"/>
-    <item media-type="image/jpeg" id="recitations_homage_homage-resize_jpg" href="recitations/homage/homage-resize.jpg"/>
-    <item media-type="image/jpeg" id="recitations_protective-recitations_protective-recitations-resize_jpg" href="recitations/protective-recitations/protective-recitations-resize.jpg"/>
-    <item media-type="image/jpeg" id="recitations_reflections_reflections-resize_jpg" href="recitations/reflections/reflections-resize.jpg"/>
-    <item media-type="image/jpeg" id="recitations_sharing-of-merits_sharing-of-merits-resize_jpg" href="recitations/sharing-of-merits/sharing-of-merits-resize.jpg"/>
-    <item media-type="image/jpeg" id="recitations_teachings_teachings-resize_jpg" href="recitations/teachings/teachings-resize.jpg"/>
-    <item media-type="image/jpeg" id="recitations_thanksgiving-recitations_thanksgiving-recitations-resize_jpg" href="recitations/thanksgiving-recitations/thanksgiving-recitations-resize.jpg"/>
-    <item media-type="image/jpeg" id="recitations_verses_verses-resize_jpg" href="recitations/verses/verses-resize.jpg"/>
+    <item id="titlepage.xhtml" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="contents.xhtml" href="Text/contents.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="front-cover-compressed.jpg" href="Images/front-cover-compressed.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="cover-front.xhtml" href="Text/cover-front.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="acknowledgments.xhtml" href="Text/acknowledgments.xhtml" media-type="application/xhtml+xml"/>
+    <item id="purpose-and-benefits.xhtml" href="Text/purpose-and-benefits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="abbreviations.xhtml" href="Text/abbreviations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="homage-to-the-triple-gem-compressed.jpg" href="Images/homage-to-the-triple-gem-compressed.jpg" media-type="image/jpeg"/>
+    <item id="dedication-of-offerings.xhtml" href="Text/dedication-of-offerings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preliminary-homage.xhtml" href="Text/preliminary-homage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-homage.xhtml" href="Text/cover-homage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="verses-compressed.jpg" href="Images/verses-compressed.jpg" media-type="image/jpeg"/>
+    <item id="thanksgiving-recitations-compressed.jpg" href="Images/thanksgiving-recitations-compressed.jpg" media-type="image/jpeg"/>
+    <item id="teachings-compressed.jpg" href="Images/teachings-compressed.jpg" media-type="image/jpeg"/>
+    <item id="sharing-of-merits-compressed.jpg" href="Images/sharing-of-merits-compressed.jpg" media-type="image/jpeg"/>
+    <item id="sbs-logo-tuck-loon-brown.jpg" href="Images/sbs-logo-tuck-loon-brown.jpg" media-type="image/jpeg"/>
+    <item id="reflections-compressed.jpg" href="Images/reflections-compressed.jpg" media-type="image/jpeg"/>
+    <item id="protective-recitations-compressed.jpg" href="Images/protective-recitations-compressed.jpg" media-type="image/jpeg"/>
+    <item id="funeral-recitations-compressed.jpg" href="Images/funeral-recitations-compressed.jpg" media-type="image/jpeg"/>
+    <item id="cardinal-suttas-compressed.jpg" href="Images/cardinal-suttas-compressed.jpg" media-type="image/jpeg"/>
+    <item id="appendix-compressed.jpg" href="Images/appendix-compressed.jpg" media-type="image/jpeg"/>
+    <item id="homage-buddha.xhtml" href="Text/homage-buddha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="homage-dhamma.xhtml" href="Text/homage-dhamma.xhtml" media-type="application/xhtml+xml"/>
+    <item id="homage-sangha.xhtml" href="Text/homage-sangha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salutation.xhtml" href="Text/salutation.xhtml" media-type="application/xhtml+xml"/>
+    <item id="closing-homage.xhtml" href="Text/closing-homage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-verses.xhtml" href="Text/cover-verses.xhtml" media-type="application/xhtml+xml"/>
+    <item id="buddhas-first-exclamation.xhtml" href="Text/buddhas-first-exclamation.xhtml" media-type="application/xhtml+xml"/>
+    <item id="respect-for-the-dhamma.xhtml" href="Text/respect-for-the-dhamma.xhtml" media-type="application/xhtml+xml"/>
+    <item id="true-false-refuges.xhtml" href="Text/true-false-refuges.xhtml" media-type="application/xhtml+xml"/>
+    <item id="patimokkha-exhortation.xhtml" href="Text/patimokkha-exhortation.xhtml" media-type="application/xhtml+xml"/>
+    <item id="three-characteristics.xhtml" href="Text/three-characteristics.xhtml" media-type="application/xhtml+xml"/>
+    <item id="burdens.xhtml" href="Text/burdens.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ratthapala.xhtml" href="Text/ratthapala.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parapariya.xhtml" href="Text/parapariya.xhtml" media-type="application/xhtml+xml"/>
+    <item id="protection.xhtml" href="Text/protection.xhtml" media-type="application/xhtml+xml"/>
+    <item id="misc-verses.xhtml" href="Text/misc-verses.xhtml" media-type="application/xhtml+xml"/>
+    <item id="single-excellent-night.xhtml" href="Text/single-excellent-night.xhtml" media-type="application/xhtml+xml"/>
+    <item id="highest-blessings.xhtml" href="Text/highest-blessings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="words-on-loving-kindness.xhtml" href="Text/words-on-loving-kindness.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-teachings.xhtml" href="Text/cover-teachings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="wheel-of-dhamma-abridged.xhtml" href="Text/wheel-of-dhamma-abridged.xhtml" media-type="application/xhtml+xml"/>
+    <item id="anupubba-sikkha.xhtml" href="Text/anupubba-sikkha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="gradual-training.xhtml" href="Text/gradual-training.xhtml" media-type="application/xhtml+xml"/>
+    <item id="requisites-for-awakening.xhtml" href="Text/requisites-for-awakening.xhtml" media-type="application/xhtml+xml"/>
+    <item id="seven-factors-of-awakening.xhtml" href="Text/seven-factors-of-awakening.xhtml" media-type="application/xhtml+xml"/>
+    <item id="noble-eightfold-path.xhtml" href="Text/noble-eightfold-path.xhtml" media-type="application/xhtml+xml"/>
+    <item id="mindfulness-of-breathing.xhtml" href="Text/mindfulness-of-breathing.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dependent-origination.xhtml" href="Text/dependent-origination.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dhamma-in-brief.xhtml" href="Text/dhamma-in-brief.xhtml" media-type="application/xhtml+xml"/>
+    <item id="four-great-references.xhtml" href="Text/four-great-references.xhtml" media-type="application/xhtml+xml"/>
+    <item id="principles-of-cordiality.xhtml" href="Text/principles-of-cordiality.xhtml" media-type="application/xhtml+xml"/>
+    <item id="principles-of-non-decline.xhtml" href="Text/principles-of-non-decline.xhtml" media-type="application/xhtml+xml"/>
+    <item id="striving-according-to-dhamma.xhtml" href="Text/striving-according-to-dhamma.xhtml" media-type="application/xhtml+xml"/>
+    <item id="buddhas-final-instructions.xhtml" href="Text/buddhas-final-instructions.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-reflections.xhtml" href="Text/cover-reflections.xhtml" media-type="application/xhtml+xml"/>
+    <item id="four-requisites.xhtml" href="Text/four-requisites.xhtml" media-type="application/xhtml+xml"/>
+    <item id="repulsiveness-of-food.xhtml" href="Text/repulsiveness-of-food.xhtml" media-type="application/xhtml+xml"/>
+    <item id="universal-well-being.xhtml" href="Text/universal-well-being.xhtml" media-type="application/xhtml+xml"/>
+    <item id="divine-abidings.xhtml" href="Text/divine-abidings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="five-reflections.xhtml" href="Text/five-reflections.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ten-reflections.xhtml" href="Text/ten-reflections.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x32-parts.xhtml" href="Text/32-parts.xhtml" media-type="application/xhtml+xml"/>
+    <item id="recollection-of-impermanence.xhtml" href="Text/recollection-of-impermanence.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-cardinal-suttas.xhtml" href="Text/cover-cardinal-suttas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dhammacakkappavattana.xhtml" href="Text/dhammacakkappavattana.xhtml" media-type="application/xhtml+xml"/>
+    <item id="wheel-of-dhamma-full.xhtml" href="Text/wheel-of-dhamma-full.xhtml" media-type="application/xhtml+xml"/>
+    <item id="anatta-lakkhana.xhtml" href="Text/anatta-lakkhana.xhtml" media-type="application/xhtml+xml"/>
+    <item id="characteristic-of-not-self.xhtml" href="Text/characteristic-of-not-self.xhtml" media-type="application/xhtml+xml"/>
+    <item id="aditta-pariyaya.xhtml" href="Text/aditta-pariyaya.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fire-sermon.xhtml" href="Text/fire-sermon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="just-as-rivers.xhtml" href="Text/just-as-rivers.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yatha-vari-vah-pura.xhtml" href="Text/yatha-vari-vah-pura.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ratanattayanubhavadi-gatha.xhtml" href="Text/ratanattayanubhavadi-gatha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bhojana-dananumodana.xhtml" href="Text/bhojana-dananumodana.xhtml" media-type="application/xhtml+xml"/>
+    <item id="culla-mangala-cakka-vala.xhtml" href="Text/culla-mangala-cakka-vala.xhtml" media-type="application/xhtml+xml"/>
+    <item id="aggappasada-sutta-gatha.xhtml" href="Text/aggappasada-sutta-gatha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kala-dana-sutta-gatha.xhtml" href="Text/kala-dana-sutta-gatha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="so-attha-laddho.xhtml" href="Text/so-attha-laddho.xhtml" media-type="application/xhtml+xml"/>
+    <item id="deva-aradhana.xhtml" href="Text/deva-aradhana.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yan-kinci-ratanam-loke.xhtml" href="Text/yan-kinci-ratanam-loke.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bojjhana-parittam.xhtml" href="Text/bojjhana-parittam.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-thanksgiving-recitations.xhtml" href="Text/cover-thanksgiving-recitations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-protective-recitations.xhtml" href="Text/cover-protective-recitations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pubba-bhaga-nama-kara-patho-protective.xhtml" href="Text/pubba-bhaga-nama-kara-patho-protective.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sarana-gamana-patho.xhtml" href="Text/sarana-gamana-patho.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nama-kara-siddhi-gatha.xhtml" href="Text/nama-kara-siddhi-gatha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="namo-kara-atthaka.xhtml" href="Text/namo-kara-atthaka.xhtml" media-type="application/xhtml+xml"/>
+    <item id="mangala-sutta.xhtml" href="Text/mangala-sutta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ratana-sutta.xhtml" href="Text/ratana-sutta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="karaniya-metta-sutta.xhtml" href="Text/karaniya-metta-sutta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="khandha-parittam.xhtml" href="Text/khandha-parittam.xhtml" media-type="application/xhtml+xml"/>
+    <item id="buddha-dhamma-sangha-gun.xhtml" href="Text/buddha-dhamma-sangha-gun.xhtml" media-type="application/xhtml+xml"/>
+    <item id="abhaya-parittam.xhtml" href="Text/abhaya-parittam.xhtml" media-type="application/xhtml+xml"/>
+    <item id="devata-uyyojana-gatha.xhtml" href="Text/devata-uyyojana-gatha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="jaya-mangala-attha-gatha.xhtml" href="Text/jaya-mangala-attha-gatha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="jaya-parittam.xhtml" href="Text/jaya-parittam.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bhavatu-sabba-mangalam-protective.xhtml" href="Text/bhavatu-sabba-mangalam-protective.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pubba-bhaga-nama-kara-patho-funeral.xhtml" href="Text/pubba-bhaga-nama-kara-patho-funeral.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dhamma-sangani-matika.xhtml" href="Text/dhamma-sangani-matika.xhtml" media-type="application/xhtml+xml"/>
+    <item id="vipassana-bhumi-patho.xhtml" href="Text/vipassana-bhumi-patho.xhtml" media-type="application/xhtml+xml"/>
+    <item id="patthana-matika-patho.xhtml" href="Text/patthana-matika-patho.xhtml" media-type="application/xhtml+xml"/>
+    <item id="adasi-me-adi-gatha.xhtml" href="Text/adasi-me-adi-gatha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pamsu-kula-dead.xhtml" href="Text/pamsu-kula-dead.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pamsu-kula-living.xhtml" href="Text/pamsu-kula-living.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bhavatu-sabba-mangalam-funeral.xhtml" href="Text/bhavatu-sabba-mangalam-funeral.xhtml" media-type="application/xhtml+xml"/>
+    <item id="uddissanadhitthana.xhtml" href="Text/uddissanadhitthana.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sharing-all-merits.xhtml" href="Text/sharing-all-merits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sharing-merits-departed.xhtml" href="Text/sharing-merits-departed.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sharing-merits-devas.xhtml" href="Text/sharing-merits-devas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="highest-honour-aspirations.xhtml" href="Text/highest-honour-aspirations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="refuge-trainings.xhtml" href="Text/refuge-trainings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="phonetics-pronuncation.xhtml" href="Text/phonetics-pronuncation.xhtml" media-type="application/xhtml+xml"/>
+    <item id="guidelines.xhtml" href="Text/guidelines.xhtml" media-type="application/xhtml+xml"/>
+    <item id="endnotes.xhtml" href="Text/endnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-funeral-recitations.xhtml" href="Text/cover-funeral-recitations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-sharing-of-merits.xhtml" href="Text/cover-sharing-of-merits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-appendix.xhtml" href="Text/cover-appendix.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-back.xhtml" href="Text/cover-back.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
-  <spine toc="ncx">
-    <itemref idref="cover-page-ebook_html"/>
-    <itemref idref="titlepage_html"/>
-    <itemref idref="copyright_html"/>
-    <itemref idref="acknowledgments_html"/>
-    <itemref idref="contents_html"/>
-    <itemref idref="schedule_html"/>
-    <itemref idref="purpose-and-benefits_html"/>
-    <itemref idref="abbreviations_html"/>
-    <itemref idref="recitations_homage_cover-title-homage_html"/>
-    <itemref idref="recitations_homage_dedication-of-offerings_html"/>
-    <itemref idref="recitations_homage_preliminary-homage_html"/>
-    <itemref idref="recitations_homage_homage-buddha_html"/>
-    <itemref idref="recitations_homage_homage-dhamma_html"/>
-    <itemref idref="recitations_homage_homage-sangha_html"/>
-    <itemref idref="recitations_homage_salutation_html"/>
-    <itemref idref="recitations_homage_closing-homage_html"/>
-    <itemref idref="recitations_homage_dedication-of-offerings_html"/>
-    <itemref idref="recitations_homage_preliminary-homage_html"/>
-    <itemref idref="recitations_homage_homage-buddha_html"/>
-    <itemref idref="recitations_homage_homage-dhamma_html"/>
-    <itemref idref="recitations_homage_homage-sangha_html"/>
-    <itemref idref="recitations_homage_salutation_html"/>
-    <itemref idref="recitations_homage_closing-homage_html"/>
-    <itemref idref="recitations_verses_cover-verses_html"/>
-    <itemref idref="recitations_verses_buddhas-first-exclamation_html"/>
-    <itemref idref="recitations_verses_respect-for-the-dhamma_html"/>
-    <itemref idref="recitations_verses_true-false-refuges_html"/>
-    <itemref idref="recitations_verses_patimokkha-exhortation_html"/>
-    <itemref idref="recitations_verses_three-characteristics_html"/>
-    <itemref idref="recitations_verses_burdens_html"/>
-    <itemref idref="recitations_verses_ratthapala_html"/>
-    <itemref idref="recitations_verses_parapariya_html"/>
-    <itemref idref="recitations_verses_protection_html"/>
-    <itemref idref="recitations_verses_misc-verses_html"/>
-    <itemref idref="recitations_verses_single-excellent-night_html"/>
-    <itemref idref="recitations_verses_highest-blessings_html"/>
-    <itemref idref="recitations_verses_words-on-loving-kindness_html"/>
-    <itemref idref="recitations_verses_buddhas-first-exclamation_html"/>
-    <itemref idref="recitations_verses_respect-for-the-dhamma_html"/>
-    <itemref idref="recitations_verses_true-false-refuges_html"/>
-    <itemref idref="recitations_verses_patimokkha-exhortation_html"/>
-    <itemref idref="recitations_verses_three-characteristics_html"/>
-    <itemref idref="recitations_verses_burdens_html"/>
-    <itemref idref="recitations_verses_ratthapala_html"/>
-    <itemref idref="recitations_verses_parapariya_html"/>
-    <itemref idref="recitations_verses_protection_html"/>
-    <itemref idref="recitations_verses_misc-verses_html"/>
-    <itemref idref="recitations_verses_single-excellent-night_html"/>
-    <itemref idref="recitations_verses_highest-blessings_html"/>
-    <itemref idref="recitations_verses_words-on-loving-kindness_html"/>
-    <itemref idref="recitations_teachings_cover-teachings_html"/>
-    <itemref idref="recitations_teachings_wheel-of-dhamma-abridged_html"/>
-    <itemref idref="recitations_teachings_anupubba-sikkha_html"/>
-    <itemref idref="recitations_teachings_gradual-training_html"/>
-    <itemref idref="recitations_teachings_requisites-for-awakening_html"/>
-    <itemref idref="recitations_teachings_seven-factors-of-awakening_html"/>
-    <itemref idref="recitations_teachings_noble-eightfold-path_html"/>
-    <itemref idref="recitations_teachings_mindfulness-of-breathing_html"/>
-    <itemref idref="recitations_teachings_dependent-origination_html"/>
-    <itemref idref="recitations_teachings_dhamma-in-brief_html"/>
-    <itemref idref="recitations_teachings_four-great-references_html"/>
-    <itemref idref="recitations_teachings_principles-of-cordiality_html"/>
-    <itemref idref="recitations_teachings_principles-of-non-decline_html"/>
-    <itemref idref="recitations_teachings_striving-according-to-dhamma_html"/>
-    <itemref idref="recitations_teachings_buddhas-final-instruction_html"/>
-    <itemref idref="recitations_teachings_wheel-of-dhamma-abridged_html"/>
-    <itemref idref="recitations_teachings_anupubba-sikkha_html"/>
-    <itemref idref="recitations_teachings_gradual-training_html"/>
-    <itemref idref="recitations_teachings_requisites-for-awakening_html"/>
-    <itemref idref="recitations_teachings_seven-factors-of-awakening_html"/>
-    <itemref idref="recitations_teachings_noble-eightfold-path_html"/>
-    <itemref idref="recitations_teachings_mindfulness-of-breathing_html"/>
-    <itemref idref="recitations_teachings_dependent-origination_html"/>
-    <itemref idref="recitations_teachings_dhamma-in-brief_html"/>
-    <itemref idref="recitations_teachings_four-great-references_html"/>
-    <itemref idref="recitations_teachings_principles-of-cordiality_html"/>
-    <itemref idref="recitations_teachings_principles-of-non-decline_html"/>
-    <itemref idref="recitations_teachings_striving-according-to-dhamma_html"/>
-    <itemref idref="recitations_teachings_buddhas-final-instruction_html"/>
-    <itemref idref="recitations_reflections_cover-reflections_html"/>
-    <itemref idref="recitations_reflections_four-requisites_html"/>
-    <itemref idref="recitations_reflections_repulsiveness-of-food_html"/>
-    <itemref idref="recitations_reflections_universal-well-being_html"/>
-    <itemref idref="recitations_reflections_divine-abidings_html"/>
-    <itemref idref="recitations_reflections_five-reflections_html"/>
-    <itemref idref="recitations_reflections_ten-reflections_html"/>
-    <itemref idref="recitations_reflections_32-parts_html"/>
-    <itemref idref="recitations_reflections_recollection-of-impermanence_html"/>
-    <itemref idref="recitations_reflections_four-requisites_html"/>
-    <itemref idref="recitations_reflections_repulsiveness-of-food_html"/>
-    <itemref idref="recitations_reflections_universal-well-being_html"/>
-    <itemref idref="recitations_reflections_divine-abidings_html"/>
-    <itemref idref="recitations_reflections_five-reflections_html"/>
-    <itemref idref="recitations_reflections_ten-reflections_html"/>
-    <itemref idref="recitations_reflections_32-parts_html"/>
-    <itemref idref="recitations_reflections_recollection-of-impermanence_html"/>
-    <itemref idref="recitations_cardinal-suttas_cover-tital-cardinal-suttas_html"/>
-    <itemref idref="recitations_cardinal-suttas_dhammacakkappavattana_html"/>
-    <itemref idref="recitations_cardinal-suttas_wheel-of-dhamma-full_html"/>
-    <itemref idref="recitations_cardinal-suttas_anatta-lakkhana_html"/>
-    <itemref idref="recitations_cardinal-suttas_characteristic-of-not-self_html"/>
-    <itemref idref="recitations_cardinal-suttas_aditta-pariyaya_html"/>
-    <itemref idref="recitations_cardinal-suttas_fire-sermon_html"/>
-    <itemref idref="recitations_cardinal-suttas_dhammacakkappavattana_html"/>
-    <itemref idref="recitations_cardinal-suttas_wheel-of-dhamma-full_html"/>
-    <itemref idref="recitations_cardinal-suttas_anatta-lakkhana_html"/>
-    <itemref idref="recitations_cardinal-suttas_characteristic-of-not-self_html"/>
-    <itemref idref="recitations_cardinal-suttas_aditta-pariyaya_html"/>
-    <itemref idref="recitations_cardinal-suttas_fire-sermon_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_cover-thanksgiving-recitations_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_just-as-rivers_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_yatha-vari-vaha-pura_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_ratanattayanubhavadi-gatha_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_bhojana-dananumodana_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_culla-mangala-cakka-vala_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_aggappasada-sutta-gatha_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_kala-dana-sutta-gatha_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_so-attha-laddho_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_just-as-rivers_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_yatha-vari-vaha-pura_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_ratanattayanubhavadi-gatha_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_bhojana-dananumodana_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_culla-mangala-cakka-vala_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_aggappasada-sutta-gatha_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_kala-dana-sutta-gatha_html"/>
-    <itemref idref="recitations_thanksgiving-recitations_so-attha-laddho_html"/>
-    <itemref idref="recitations_protective-recitations_cover-protective-recitations_html"/>
-    <itemref idref="recitations_protective-recitations_deva-aradhana_html"/>
-    <itemref idref="recitations_protective-recitations_pubba-bhaga-nama-kara-patho-protective_html"/>
-    <itemref idref="recitations_protective-recitations_sarana-gamana-patho_html"/>
-    <itemref idref="recitations_protective-recitations_nama-kara-siddhi-gatha_html"/>
-    <itemref idref="recitations_protective-recitations_namo-kara-atthaka_html"/>
-    <itemref idref="recitations_protective-recitations_mangala-sutta_html"/>
-    <itemref idref="recitations_protective-recitations_ratana-sutta_html"/>
-    <itemref idref="recitations_protective-recitations_karaniya-metta-sutta_html"/>
-    <itemref idref="recitations_protective-recitations_khandha-parittam_html"/>
-    <itemref idref="recitations_protective-recitations_buddha-dhamma-sangha-guna_html"/>
-    <itemref idref="recitations_protective-recitations_yan-kinci-ratanam-loke_html"/>
-    <itemref idref="recitations_protective-recitations_bojjhana-parittam_html"/>
-    <itemref idref="recitations_protective-recitations_abhaya-parittam_html"/>
-    <itemref idref="recitations_protective-recitations_devata-uyyojana-gatha_html"/>
-    <itemref idref="recitations_protective-recitations_jaya-mangala-attha-gatha_html"/>
-    <itemref idref="recitations_protective-recitations_jaya-parittam_html"/>
-    <itemref idref="recitations_protective-recitations_bhavatu-sabba-mangalam-protective_html"/>
-    <itemref idref="recitations_protective-recitations_deva-aradhana_html"/>
-    <itemref idref="recitations_protective-recitations_pubba-bhaga-nama-kara-patho-protective_html"/>
-    <itemref idref="recitations_protective-recitations_sarana-gamana-patho_html"/>
-    <itemref idref="recitations_protective-recitations_nama-kara-siddhi-gatha_html"/>
-    <itemref idref="recitations_protective-recitations_namo-kara-atthaka_html"/>
-    <itemref idref="recitations_protective-recitations_mangala-sutta_html"/>
-    <itemref idref="recitations_protective-recitations_ratana-sutta_html"/>
-    <itemref idref="recitations_protective-recitations_karaniya-metta-sutta_html"/>
-    <itemref idref="recitations_protective-recitations_khandha-parittam_html"/>
-    <itemref idref="recitations_protective-recitations_buddha-dhamma-sangha-guna_html"/>
-    <itemref idref="recitations_protective-recitations_yan-kinci-ratanam-loke_html"/>
-    <itemref idref="recitations_protective-recitations_bojjhana-parittam_html"/>
-    <itemref idref="recitations_protective-recitations_abhaya-parittam_html"/>
-    <itemref idref="recitations_protective-recitations_devata-uyyojana-gatha_html"/>
-    <itemref idref="recitations_protective-recitations_jaya-mangala-attha-gatha_html"/>
-    <itemref idref="recitations_protective-recitations_jaya-parittam_html"/>
-    <itemref idref="recitations_protective-recitations_bhavatu-sabba-mangalam-protective_html"/>
-    <itemref idref="recitations_funeral-recitations_cover-funeral-recitations_html"/>
-    <itemref idref="recitations_funeral-recitations_pubba-bhaga-nama-kara-patho-funeral_html"/>
-    <itemref idref="recitations_funeral-recitations_dhamma-sangani-matika_html"/>
-    <itemref idref="recitations_funeral-recitations_vipassana-bhumi-patho_html"/>
-    <itemref idref="recitations_funeral-recitations_patthana-matika-patho_html"/>
-    <itemref idref="recitations_funeral-recitations_adasi-me-adi-gatha_html"/>
-    <itemref idref="recitations_funeral-recitations_pamsu-kula-dead_html"/>
-    <itemref idref="recitations_funeral-recitations_pamsu-kula-living_html"/>
-    <itemref idref="recitations_funeral-recitations_bhavatu-sabba-mangalam-funeral_html"/>
-    <itemref idref="recitations_funeral-recitations_pubba-bhaga-nama-kara-patho-funeral_html"/>
-    <itemref idref="recitations_funeral-recitations_dhamma-sangani-matika_html"/>
-    <itemref idref="recitations_funeral-recitations_vipassana-bhumi-patho_html"/>
-    <itemref idref="recitations_funeral-recitations_patthana-matika-patho_html"/>
-    <itemref idref="recitations_funeral-recitations_adasi-me-adi-gatha_html"/>
-    <itemref idref="recitations_funeral-recitations_pamsu-kula-dead_html"/>
-    <itemref idref="recitations_funeral-recitations_pamsu-kula-living_html"/>
-    <itemref idref="recitations_funeral-recitations_bhavatu-sabba-mangalam-funeral_html"/>
-    <itemref idref="recitations_sharing-of-merits_cover-sharing-of-merits_html"/>
-    <itemref idref="recitations_sharing-of-merits_uddissanadhitthana_html"/>
-    <itemref idref="recitations_sharing-of-merits_sharing-all-merits_html"/>
-    <itemref idref="recitations_sharing-of-merits_sharing-merits-departed_html"/>
-    <itemref idref="recitations_sharing-of-merits_sharing-merits-devas_html"/>
-    <itemref idref="recitations_sharing-of-merits_highest-honour-aspirations_html"/>
-    <itemref idref="recitations_sharing-of-merits_uddissanadhitthana_html"/>
-    <itemref idref="recitations_sharing-of-merits_sharing-all-merits_html"/>
-    <itemref idref="recitations_sharing-of-merits_sharing-merits-departed_html"/>
-    <itemref idref="recitations_sharing-of-merits_sharing-merits-devas_html"/>
-    <itemref idref="recitations_sharing-of-merits_highest-honour-aspirations_html"/>
-    <itemref idref="appendix_cover-appendix_html"/>
-    <itemref idref="appendix_refuge-trainings_html"/>
-    <itemref idref="appendix_phonetics-pronunciation_html"/>
-    <itemref idref="appendix_guidelines_html"/>
-    <itemref idref="appendix_refuge-trainings_html"/>
-    <itemref idref="appendix_phonetics-pronunciation_html"/>
-    <itemref idref="appendix_guidelines_html"/>
-    <itemref idref="back-cover-page-ebook_html"/>
+  <spine>
+    <itemref idref="cover-front.xhtml"/>
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+    <itemref idref="acknowledgments.xhtml"/>
+    <itemref idref="purpose-and-benefits.xhtml"/>
+    <itemref idref="abbreviations.xhtml"/>
+    <itemref idref="cover-homage.xhtml"/>
+    <itemref idref="dedication-of-offerings.xhtml"/>
+    <itemref idref="preliminary-homage.xhtml"/>
+    <itemref idref="homage-buddha.xhtml"/>
+    <itemref idref="homage-dhamma.xhtml"/>
+    <itemref idref="homage-sangha.xhtml"/>
+    <itemref idref="salutation.xhtml"/>
+    <itemref idref="closing-homage.xhtml"/>
+    <itemref idref="cover-verses.xhtml"/>
+    <itemref idref="buddhas-first-exclamation.xhtml"/>
+    <itemref idref="respect-for-the-dhamma.xhtml"/>
+    <itemref idref="true-false-refuges.xhtml"/>
+    <itemref idref="patimokkha-exhortation.xhtml"/>
+    <itemref idref="three-characteristics.xhtml"/>
+    <itemref idref="burdens.xhtml"/>
+    <itemref idref="ratthapala.xhtml"/>
+    <itemref idref="parapariya.xhtml"/>
+    <itemref idref="protection.xhtml"/>
+    <itemref idref="misc-verses.xhtml"/>
+    <itemref idref="single-excellent-night.xhtml"/>
+    <itemref idref="highest-blessings.xhtml"/>
+    <itemref idref="words-on-loving-kindness.xhtml"/>
+    <itemref idref="cover-teachings.xhtml"/>
+    <itemref idref="wheel-of-dhamma-abridged.xhtml"/>
+    <itemref idref="anupubba-sikkha.xhtml"/>
+    <itemref idref="gradual-training.xhtml"/>
+    <itemref idref="requisites-for-awakening.xhtml"/>
+    <itemref idref="seven-factors-of-awakening.xhtml"/>
+    <itemref idref="noble-eightfold-path.xhtml"/>
+    <itemref idref="mindfulness-of-breathing.xhtml"/>
+    <itemref idref="dependent-origination.xhtml"/>
+    <itemref idref="dhamma-in-brief.xhtml"/>
+    <itemref idref="four-great-references.xhtml"/>
+    <itemref idref="principles-of-cordiality.xhtml"/>
+    <itemref idref="principles-of-non-decline.xhtml"/>
+    <itemref idref="striving-according-to-dhamma.xhtml"/>
+    <itemref idref="buddhas-final-instructions.xhtml"/>
+    <itemref idref="cover-reflections.xhtml"/>
+    <itemref idref="four-requisites.xhtml"/>
+    <itemref idref="repulsiveness-of-food.xhtml"/>
+    <itemref idref="universal-well-being.xhtml"/>
+    <itemref idref="divine-abidings.xhtml"/>
+    <itemref idref="five-reflections.xhtml"/>
+    <itemref idref="ten-reflections.xhtml"/>
+    <itemref idref="x32-parts.xhtml"/>
+    <itemref idref="recollection-of-impermanence.xhtml"/>
+    <itemref idref="cover-cardinal-suttas.xhtml"/>
+    <itemref idref="dhammacakkappavattana.xhtml"/>
+    <itemref idref="wheel-of-dhamma-full.xhtml"/>
+    <itemref idref="anatta-lakkhana.xhtml"/>
+    <itemref idref="characteristic-of-not-self.xhtml"/>
+    <itemref idref="aditta-pariyaya.xhtml"/>
+    <itemref idref="fire-sermon.xhtml"/>
+    <itemref idref="cover-thanksgiving-recitations.xhtml"/>
+    <itemref idref="just-as-rivers.xhtml"/>
+    <itemref idref="yatha-vari-vah-pura.xhtml"/>
+    <itemref idref="ratanattayanubhavadi-gatha.xhtml"/>
+    <itemref idref="bhojana-dananumodana.xhtml"/>
+    <itemref idref="culla-mangala-cakka-vala.xhtml"/>
+    <itemref idref="aggappasada-sutta-gatha.xhtml"/>
+    <itemref idref="kala-dana-sutta-gatha.xhtml"/>
+    <itemref idref="so-attha-laddho.xhtml"/>
+    <itemref idref="cover-protective-recitations.xhtml"/>
+    <itemref idref="deva-aradhana.xhtml"/>
+    <itemref idref="pubba-bhaga-nama-kara-patho-protective.xhtml"/>
+    <itemref idref="sarana-gamana-patho.xhtml"/>
+    <itemref idref="nama-kara-siddhi-gatha.xhtml"/>
+    <itemref idref="namo-kara-atthaka.xhtml"/>
+    <itemref idref="mangala-sutta.xhtml"/>
+    <itemref idref="ratana-sutta.xhtml"/>
+    <itemref idref="karaniya-metta-sutta.xhtml"/>
+    <itemref idref="khandha-parittam.xhtml"/>
+    <itemref idref="buddha-dhamma-sangha-gun.xhtml"/>
+    <itemref idref="yan-kinci-ratanam-loke.xhtml"/>
+    <itemref idref="bojjhana-parittam.xhtml"/>
+    <itemref idref="abhaya-parittam.xhtml"/>
+    <itemref idref="devata-uyyojana-gatha.xhtml"/>
+    <itemref idref="jaya-mangala-attha-gatha.xhtml"/>
+    <itemref idref="jaya-parittam.xhtml"/>
+    <itemref idref="bhavatu-sabba-mangalam-protective.xhtml"/>
+    <itemref idref="cover-funeral-recitations.xhtml"/>
+    <itemref idref="pubba-bhaga-nama-kara-patho-funeral.xhtml"/>
+    <itemref idref="dhamma-sangani-matika.xhtml"/>
+    <itemref idref="vipassana-bhumi-patho.xhtml"/>
+    <itemref idref="patthana-matika-patho.xhtml"/>
+    <itemref idref="adasi-me-adi-gatha.xhtml"/>
+    <itemref idref="pamsu-kula-dead.xhtml"/>
+    <itemref idref="pamsu-kula-living.xhtml"/>
+    <itemref idref="bhavatu-sabba-mangalam-funeral.xhtml"/>
+    <itemref idref="cover-sharing-of-merits.xhtml"/>
+    <itemref idref="uddissanadhitthana.xhtml"/>
+    <itemref idref="sharing-all-merits.xhtml"/>
+    <itemref idref="sharing-merits-departed.xhtml"/>
+    <itemref idref="sharing-merits-devas.xhtml"/>
+    <itemref idref="highest-honour-aspirations.xhtml"/>
+    <itemref idref="cover-appendix.xhtml"/>
+    <itemref idref="refuge-trainings.xhtml"/>
+    <itemref idref="phonetics-pronuncation.xhtml"/>
+    <itemref idref="guidelines.xhtml"/>
+    <itemref idref="endnotes.xhtml"/>
+    <itemref idref="cover-back.xhtml"/>
+    <itemref idref="contents.xhtml" linear="no"/>
   </spine>
-  <guide>
-    <reference type="toc" title="Table Of Contents" href="nav.xhtml"/>
-  </guide>
 </package>
