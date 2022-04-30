@@ -18,15 +18,17 @@ ebooks:
 four-times:
 	./helpers/four-times.sh
 
-document:
+pdf:
 	$(shell org-tangle ./recitations.tex.org)
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
-sass:
-	node-sass ./assets/sass -o ./assets/stylesheets
+# pdf-requirements:
 
-sass-watch:
-	node-sass -w ./assets/sass -o ./assets/stylesheets
+# sass:
+	# node-sass ./assets/sass -o ./assets/stylesheets
+
+# sass-watch:
+	# node-sass -w ./assets/sass -o ./assets/stylesheets
 
 preview:
 	latexmk -pvc $(FILE).tex

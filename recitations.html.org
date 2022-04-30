@@ -1,3 +1,123 @@
+#+TITLE: SBS Pāli-English Recitations
+#+AUTHOR: SBS Saṅgha
+#+format: HTML
+#+startup: fold
+
+* Table of Contents :toc:
+- [[#cover-front][Cover Front]]
+- [[#titlepage][Titlepage]]
+- [[#copyright][Copyright]]
+- [[#acknowledgments][Acknowledgments]]
+- [[#purpose-and-benfits-of-dhamma-recitation][Purpose and Benfits of Dhamma Recitation]]
+- [[#abbreviations][Abbreviations]]
+
+* Cover Front
+#+begin_src html :tangle ./manuscript/html/OEBPS/Text/cover-front.xhtml
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title>Front Cover</title>
+</head>
+
+<body>
+  <div style="text-align: center; padding: 0pt; margin: 0pt;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="100%" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 1748 2480" width="100%" xmlns:xlink="http://www.w3.org/1999/xlink"><image width="1748" height="2480" xlink:href="../Images/front-cover-compressed.jpg"/></svg>
+  </div>
+</body>
+</html>
+
+#+end_src
+
+* Titlepage
+#+begin_src html :tangle ./manuscript/html/OEBPS/Text/titlepage.xhtml
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title></title>
+</head>
+
+<body>
+  <center><h1>SBS</h1>
+
+ Monk Training Centre
+
+  <hr/>
+
+<em>Pāli-English Recitations</em>
+
+  <p><em>"In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated."</em><br/><br/> <em>(AN 5.25)</em></p></center>
+</body>
+</html>
+
+#+end_src
+
+* Copyright
+#+begin_src html :tangle ./manuscript/html/OEBPS/Text/copyright.xhtml
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title></title>
+</head>
+
+<body>
+  <p style="text-align: center;">Published by TBD<br/> ISBN<br/> Copyright ©&#160;Sāsanārakkha Buddhist Sanctuary 2022</p>
+
+  <p style="text-align: center;">This book is for free distribution only;<br/> it may not be sold.</p>
+
+  <p style="text-align: center;">Download this book as a PDF, EPUB, or MOBI<br/> at the following address:<br/> <a href="https://sasanarakkha.org" style="text-decoration: none;">https://sasanarakkha.org</a></p>
+
+  <p style="text-align: center;">Project Manager: Ā. Ariyadhammika<br/> Editor: Ā. Pāladhammika<br/> Typesetting: Aj. Gambhiro, Ā. Pāladhammika<br/> Translators: Ā. Aggacitta, Ā. Bodhi, Aj. Kevalī, Ā. Sujāto, M. Walshe<br/> Endnotes: Ā. Ariyadhammika</p>
+
+  <p style="text-align: center;">This work is licensed under a Creative Commons<br/> Attribution-NonCommercial-NoDerivatives 4.0 International&#160;License.</p>
+
+  <p style="text-align: center;">Produced with the LaTeX&#160;typesetting system,<br/> set in Libertinus Serif.</p>
+
+  <div>
+    <p style="text-align: center;">This version was created on: 2022-04-03 at 20:56:41</p>
+  </div>
+</body>
+</html>
+
+#+end_src
+
+* Acknowledgments
+#+begin_src html :tangle ./manuscript/html/OEBPS/Text/acknowledgments.xhtml
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title></title>
+</head>
+
+<body>
+  <center>We Wish To Gratefully Acknowledge</center>
+
+  <p style="text-align:justify;">The Saṅghas of Wat Pah Nanachat (WPN), Amaravati, and Abhayagiri for allowing the use of material from their respective chanting books, the late Ven. Dr. Saddhātissa and Mr. Maurice Walshe for their English translations, as well as Ven. Bhikkhu Bodhi for granting permission to use and slightly adapt his translations. Various Saṅgha members of SBS Monk Training Centre, who contributed in the compilation of an interesting selection of chants, as well as for providing countless suggestions to help improve the English translations.</p>
+
+  <p>Additional information on translations, as well as deviations<a href="appendix/endnotes.html#en1" style="text-decoration: none;"><sup>1</sup></a> from WPN <em>Buddhist Chanting</em> (2014), have been annotated by Ven. Ariyadhammika in the endnotes.</p>
+
+  <center>To Āyasmā Aggacitta, the founding father of<br/> Sāsanārakkha Buddhist Sanctuary.</center>
+
+  <p></p>
+</body>
+</html>
+
+#+end_src
+
+* Purpose and Benfits of Dhamma Recitation
+#+begin_src html :tangle ./manuscript/html/OEBPS/Text/purpose-and-benefits.xhtml
+
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 
@@ -114,3 +234,327 @@
   <p>[4] Ṭhānissaro Bhikkhu <a href="https://www.dhammatalks.org/Archive/Writings/Ebooks/BMC1&amp;2_200826.pdf"><em>The Buddhist Monastic Code II</em></a>, Metta Forest Monastery (2013)</p>
 </body>
 </html>
+
+#+end_src
+
+* Abbreviations
+#+begin_src html :tangle ./manuscript/html/OEBPS/Text/abbreviations.xhtml
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title></title>
+</head>
+
+<body>
+  <h1>Abbreviations<a id="abbreviations"></a></h1>
+
+  <hr/>
+
+  <br/>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          〈...〉
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Only recited by the leader
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          ''
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Breathing pause
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Vin
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Vinaya Piṭaka
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          DN
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Dīgha Nikāya
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          MN
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Majjhima Nikāya
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          SN
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Saṁyutta Nikāya
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          AN
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Aṅguttara Nikāya
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Khp
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Khuddakapāṭha
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Dhp
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Dhammapada
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Ud
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Udāna
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Snp
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Sutta Nipāta
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Thag
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Theragāthā
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Ja
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Jātaka
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Vibh
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Abhidhamma Vibhaṅga
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Dhs
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Dhammasaṅganī
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          A
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Aṭṭhakathā (Commentary)
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          MJG
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Mahā-jaya-maṅgala-gāthā (Sri Lanka)
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Thai
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Composed in Thailand, normally in recent centuries
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Sri L
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Composed in Sri Lanka
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Trad
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Traditional verses not found in the original Pāli
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          WPN
+        </td>
+
+        <td>
+          &#160;&#160;&#160;&#160;&#160;&#160;
+        </td>
+
+        <td>
+          Wat Pah Nanachat Buddhist Chanting (2014)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Wisdom Publication sources: Nikāya and sutta # (eg. DN 1)<br/> P.T.S. sources: Nikāya, volume #, page # (eg. D i 1)</p>
+</body>
+</html>
+
+#+end_src

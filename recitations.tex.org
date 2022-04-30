@@ -1,6 +1,6 @@
 #+TITLE: SBS Pāli-English Recitations
 #+AUTHOR: SBS Saṅgha
-#+format: TeX
+#+format: LaTeX
 #+startup: fold
 
 * Table of Contents :toc:
@@ -90,7 +90,7 @@
   - [[#khandha-parittaṁ][Khandha-parittaṁ]]
   - [[#buddha-dhamma-saṅgha-guṇā][Buddha-dhamma-saṅgha-guṇā]]
   - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ kiñci ratanaṁ loke]]
-  - [[#bojjh'aṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
+  - [[#bojjhaṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
   - [[#abhaya-parittaṁ][Abhaya-parittaṁ]]
   - [[#devatā-uyyojana-gāthā][Devatā-uyyojana-gāthā]]
   - [[#jaya-maṅgala-aṭṭha-gāthā][Jaya-maṅgala-aṭṭha-gāthā]]
