@@ -171,7 +171,8 @@ endif
 
 
 edit: $(CURRENTEPUB)
-	./assets/tools/edit-epub
+	./assets/scripts/edit-epub
+
 
 
 sigiledit: $(CURRENTEPUB)
