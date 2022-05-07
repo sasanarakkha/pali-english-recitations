@@ -30,9 +30,6 @@ Windows: =C:\Users\<your-username>\texmf\tex=
 - =make pdfrequirements= downloads the tabularray and ninecolors packages and sets them in =$TEXMFHOME/tex=.
 
 * EPUB 
-- Epubcheck
-- KindleGen
-
 ** =make= Commands
 - =make epub= build epub format; placed in =build/=
 - =make mobi= build mobi format with KindleGen; placed in =build/=
