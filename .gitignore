@@ -1,7 +1,9 @@
 # Project output
 output/
 book/
+build/
 main.pdf
+build/current.epub
 
 # Emacs temp files
 *~
@@ -42,4 +44,5 @@ auto/
 .LSOverride
 
 # Other
-.sass-cache/
+assets/tools/kindlegen
+assets/tools/epubcheck

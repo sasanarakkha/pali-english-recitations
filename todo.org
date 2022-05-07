@@ -1,5 +1,6 @@
 #+TITLE: Todo
 
+* TODO -v=5 for the readme. explain the nuances of the makefile
 * TODO fix indentation issue in parittas
 * TODO finish endnote 127
 * TODO search project for TODO

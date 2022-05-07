@@ -2,12 +2,51 @@
 
 A collaborative effort from the SBS Saṅgha and members of the greater community.
 
-* Prequisites
+* Prerequisites
+- make
+- texlive (the complete TeXLive distribution is preferrable though you may be able to install only the needed binaries depending on your distribution or OS.)
+- inotifywait
+- calibre
+- java
+- python3
+  - lxml
+- epubcheck
+- kindlegen
+
+* LaTeX 
 - [[https://www.ctan.org/pkg/tabularray][Tabularray]]
 - [[https://www.ctan.org/pkg/ninecolors][Ninecolors]]
 
-Download package archive and move .sty to the repository root directory or to =texmf/tex= found in the users home directory. Create the directory if it isn't there.
+LaTeX prerequisites can be installed on GNU/Linux by simply running =make pdfrequirements=
 
-On Linux: =/home/<your-username>/texmf/tex=
+Otherwise, download the package archives and unzip to =texmf/tex= found in the user home directory. Create the directory if needed.
 
-On Windows: =C:\Users\<your-username>\texmf\tex=
+Linux: =/home/<your-username>/texmf/tex=
+
+Windows: =C:\Users\<your-username>\texmf\tex=
+
+** =make= Commands
+- =make pdf= tangles =recitations.tex.org= to the respective tex files, builds the pdf, then renames and places the pdf in =build/=. =make pdf2x= does the same just twice over to ensure the hyperlinks are set properly.
+- =make pdfrequirements= downloads the tabularray and ninecolors packages and sets them in =$TEXMFHOME/tex=.
+
+* EPUB 
+- Epubcheck
+- KindleGen
+
+** =make= Commands
+- =make epub= build epub format; placed in =build/=
+- =make mobi= build mobi format with KindleGen; placed in =build/=
+- =make azw3= build azw3 format with Calibre; placed in =build/=
+- =make validate=
+- =make optimize=
+- =make view=
+- =make edit=
+- =make sigledit=
+- =make clean=
+- =make current=
+- =make extractcurrent=
+- =make watchcurrent=
+- =make release=
+
+* Using the Makefile
+The makefile is an amalgamation of code sourced from Ajahn Gambhiro and [[github:daniel-j/epubmake][daniel-j/epubmake]] with needed tweaks.
