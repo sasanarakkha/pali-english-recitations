@@ -45,5 +45,3 @@ Windows: =C:\Users\<your-username>\texmf\tex=
 - =make watchcurrent=
 - =make release=
 
-* Using the Makefile
-The makefile is an amalgamation of code sourced from Ajahn Gambhiro and [[https://github.com/daniel-j/epubmake][daniel-j/epubmake]] with needed tweaks.
