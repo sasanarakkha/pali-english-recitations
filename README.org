@@ -5,12 +5,11 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 * Prerequisites
 - make
 - texlive (the complete TeXLive distribution is preferrable though you may be able to install only the needed binaries depending on your distribution or OS.)
-- inotifywait
-- calibre
+- [[https://github.com/inotify-tools/inotify-tools][inotify-tools]]
+- [[https://github.com/kovidgoyal/calibre][calibre]]
 - java
-- python3
-  - lxml
-- epubcheck
+- [[https://github.com/lxml/lxml][lxml]]
+- [[https://github.com/w3c/epubcheck][epubcheck]]
 - kindlegen
 
 * LaTeX 
