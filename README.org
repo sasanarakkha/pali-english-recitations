@@ -40,4 +40,3 @@ Windows: =C:\Users\<your-username>\texmf\tex=
 - =make extractcurrent=
 - =make watchcurrent=
 - =make release=
-

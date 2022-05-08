@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:identifier id="BookId">urn:uuid:8f0ffe23-9a55-476b-9474-5cfc6b7b9b82</dc:identifier>
     <dc:language>en</dc:language>
-    <dc:title>[Main title here]</dc:title>
-    <meta property="dcterms:modified">2022-04-27T15:06:27Z</meta>
-    <meta content="1.7.0" name="Sigil version"/>
+    <dc:title>SBS Pāli-English Recitations</dc:title>
+    <dc:creator id="cre">SBS Saṅgha</dc:creator>
+    <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
+    <dc:publisher>Sasanārakkha Buddhist Sanctuary</dc:publisher>
+    <meta property="dcterms:modified">2022-05-08T21:53:34Z</meta>
+    <dc:identifier id="BookId">urn:uuid:8f0ffe23-9a55-476b-9474-5cfc6b7b9b82</dc:identifier>
+    <meta content="1.9.2" name="Sigil version"/>
     <meta name="cover" content="front-cover-compressed.jpg"/>
   </metadata>
   <manifest>
@@ -65,7 +68,7 @@
     <item id="principles-of-cordiality.xhtml" href="Text/principles-of-cordiality.xhtml" media-type="application/xhtml+xml"/>
     <item id="principles-of-non-decline.xhtml" href="Text/principles-of-non-decline.xhtml" media-type="application/xhtml+xml"/>
     <item id="striving-according-to-dhamma.xhtml" href="Text/striving-according-to-dhamma.xhtml" media-type="application/xhtml+xml"/>
-    <item id="buddhas-final-instructions.xhtml" href="Text/buddhas-final-instructions.xhtml" media-type="application/xhtml+xml"/>
+    <item id="buddhas-final-instruction.xhtml" href="Text/buddhas-final-instruction.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover-reflections.xhtml" href="Text/cover-reflections.xhtml" media-type="application/xhtml+xml"/>
     <item id="four-requisites.xhtml" href="Text/four-requisites.xhtml" media-type="application/xhtml+xml"/>
     <item id="repulsiveness-of-food.xhtml" href="Text/repulsiveness-of-food.xhtml" media-type="application/xhtml+xml"/>
@@ -83,7 +86,7 @@
     <item id="aditta-pariyaya.xhtml" href="Text/aditta-pariyaya.xhtml" media-type="application/xhtml+xml"/>
     <item id="fire-sermon.xhtml" href="Text/fire-sermon.xhtml" media-type="application/xhtml+xml"/>
     <item id="just-as-rivers.xhtml" href="Text/just-as-rivers.xhtml" media-type="application/xhtml+xml"/>
-    <item id="yatha-vari-vah-pura.xhtml" href="Text/yatha-vari-vah-pura.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yatha-vari-vaha-pura.xhtml" href="Text/yatha-vari-vaha-pura.xhtml" media-type="application/xhtml+xml"/>
     <item id="ratanattayanubhavadi-gatha.xhtml" href="Text/ratanattayanubhavadi-gatha.xhtml" media-type="application/xhtml+xml"/>
     <item id="bhojana-dananumodana.xhtml" href="Text/bhojana-dananumodana.xhtml" media-type="application/xhtml+xml"/>
     <item id="culla-mangala-cakka-vala.xhtml" href="Text/culla-mangala-cakka-vala.xhtml" media-type="application/xhtml+xml"/>
@@ -126,16 +129,25 @@
     <item id="phonetics-pronuncation.xhtml" href="Text/phonetics-pronuncation.xhtml" media-type="application/xhtml+xml"/>
     <item id="guidelines.xhtml" href="Text/guidelines.xhtml" media-type="application/xhtml+xml"/>
     <item id="endnotes.xhtml" href="Text/endnotes.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-funeral-recitations.xhtml" href="Text/cover-funeral-recitations.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-sharing-of-merits.xhtml" href="Text/cover-sharing-of-merits.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-appendix.xhtml" href="Text/cover-appendix.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-back.xhtml" href="Text/cover-back.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-sharing-of-merits.xhtml" href="Text/cover-sharing-of-merits.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="cover-appendix.xhtml" href="Text/cover-appendix.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="cover-back.xhtml" href="Text/cover-back.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="back-cover-compressed.jpg" href="Images/back-cover-compressed.jpg" media-type="image/jpeg"/>
+    <item id="cover-funeral-recitations.xhtml" href="Text/cover-funeral-recitations.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="bottomnav.css" href="Styles/bottomnav.css" media-type="text/css"/>
+    <item id="LibertinusSerifX-Regular.ttf" href="Fonts/LibertinusSerifX-Regular.ttf" media-type="font/ttf"/>
+    <item id="LibertinusSerifX-Bold.ttf" href="Fonts/LibertinusSerifX-Bold.ttf" media-type="font/ttf"/>
+    <item id="suttaref.css" href="Styles/suttaref.css" media-type="text/css"/>
+    <item id="schedule.xhtml" href="Text/schedule.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="cover-front.xhtml"/>
     <itemref idref="titlepage.xhtml"/>
     <itemref idref="copyright.xhtml"/>
     <itemref idref="acknowledgments.xhtml"/>
+    <itemref idref="contents.xhtml" linear="no"/>
+    <itemref idref="schedule.xhtml"/>
     <itemref idref="purpose-and-benefits.xhtml"/>
     <itemref idref="abbreviations.xhtml"/>
     <itemref idref="cover-homage.xhtml"/>
@@ -174,7 +186,7 @@
     <itemref idref="principles-of-cordiality.xhtml"/>
     <itemref idref="principles-of-non-decline.xhtml"/>
     <itemref idref="striving-according-to-dhamma.xhtml"/>
-    <itemref idref="buddhas-final-instructions.xhtml"/>
+    <itemref idref="buddhas-final-instruction.xhtml"/>
     <itemref idref="cover-reflections.xhtml"/>
     <itemref idref="four-requisites.xhtml"/>
     <itemref idref="repulsiveness-of-food.xhtml"/>
@@ -193,7 +205,7 @@
     <itemref idref="fire-sermon.xhtml"/>
     <itemref idref="cover-thanksgiving-recitations.xhtml"/>
     <itemref idref="just-as-rivers.xhtml"/>
-    <itemref idref="yatha-vari-vah-pura.xhtml"/>
+    <itemref idref="yatha-vari-vaha-pura.xhtml"/>
     <itemref idref="ratanattayanubhavadi-gatha.xhtml"/>
     <itemref idref="bhojana-dananumodana.xhtml"/>
     <itemref idref="culla-mangala-cakka-vala.xhtml"/>
@@ -239,6 +251,5 @@
     <itemref idref="guidelines.xhtml"/>
     <itemref idref="endnotes.xhtml"/>
     <itemref idref="cover-back.xhtml"/>
-    <itemref idref="contents.xhtml" linear="no"/>
   </spine>
 </package>

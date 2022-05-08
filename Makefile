@@ -12,24 +12,26 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
-RELEASENAME := "SBS Pali-English Recitations"
-CURRENTEPUB := ./manuscript/current.epub
-SOURCE      := ./manuscript/
-EPUBFILE    := ./build/pali-english-recitations.epub
-KINDLEFILE  := ./build/pali-english-recitations.mobi
-AZW3FILE    := ./build/pali-english-recitations.azw3
+RELEASENAME   := "SBS Pali-English Recitations"
+CURRENTEPUB   := ./manuscript/current.epub
+SOURCE        := ./manuscript/
+EXTRACTSOURCE := ./
+EPUBFILE      := ./build/pali-english-recitations.epub
+KINDLEFILE    := ./build/pali-english-recitations.mobi
+AZW3FILE      := ./build/pali-english-recitations.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
 KINDLEGEN := ./assets/tools/kindlegen
 
 
-EBOOKEDITOR  := $(shell command -v nixGL sigil 2>&1)
+EBOOKEDITOR  := $(shell command -v sigil  2>&1 || nixGL sigil 2>&1)
 EBOOKPOLISH  := $(shell command -v ebook-polish 2>&1)
 EBOOKVIEWER  := $(shell command -v ebook-viewer 2>&1)
 EBOOKCONVERT := $(shell command -v ebook-convert 2>&1)
 JAVA         := $(shell command -v java 2>&1)
 INOTIFYWAIT  := $(shell command -v inotifywait 2>&1)
+MAKECURRENT  := $(shell command -v cd ./manuscript && zip -r html.zip html && mv html.zip current.epub)
 
 
 EPUBCHECK_VERSION = 4.2.6
@@ -51,6 +53,7 @@ pdf:
 	@echo "Tangling org document..."
 	@org-tangle ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+	@mkdir -p ./build
 	mv -f $(FILE).pdf "./build/SBS Pali-English Recitations.pdf"
 
 
@@ -60,6 +63,7 @@ pdf2x:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+	@mkdir -p ./build
 	mv -f $(FILE).pdf "./build/SBS Pali-English Recitations.pdf"
 
 
@@ -83,7 +87,7 @@ $(EPUBFILE): $(SOURCEFILES)
 	@echo "Building EPUB ebook..."
 	@mkdir -p `dirname $(EPUBFILE)`
 	@rm -f "$(EPUBFILE)"
-	@cd "$(SOURCE)" && zip -Xr9D "../../$(EPUBFILE)" mimetype .
+	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .
 
 
 
@@ -169,13 +173,12 @@ else
 endif
 
 
+editwatch: $(CURRENTEPUB)
+	./assets/scripts/editwatch
+
+
 
 edit: $(CURRENTEPUB)
-	./assets/scripts/edit-epub
-
-
-
-sigiledit: $(CURRENTEPUB)
 ifndef EBOOKEDITOR
 	@echo "Error: Sigil was not found. Unable to edit ebook."
 	@exit 1
@@ -199,8 +202,7 @@ clean:
 
 current:
 	@echo "Archiving html and renaming to epub..."
-	@zip -r ./manuscript/html.zip ./manuscript/html
-	@mv -iv ./manuscript/html.zip ./manuscript/current.epub
+	@cd ./manuscript && zip -r html.zip html && mv html.zip current.epub
 
 
 
@@ -208,6 +210,7 @@ extractcurrent: $(CURRENTEPUB)
 	@echo "Extracting $(CURRENTEPUB) into $(SOURCE)"
 	@mkdir -p "$(SOURCE)"
 	@unzip -o "$(CURRENTEPUB)" -d "$(SOURCE)"
+	@rm -rf ./manuscript/META-INF ./manuscript/mimetype
 
 
 

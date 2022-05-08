@@ -148,3 +148,4 @@ CLOSED: [2022-03-03 Thu 19:52]
 CLOSED: [2022-03-28 Mon 09:53]
 * HTML
 ** TODO cover page headers can be removed from document but seen in ToC if moved from <body></body> to <head></head> -- unfortunately Sigil automatically corrects this to be in the <body>
+** TODO make text large like a header not a header.
