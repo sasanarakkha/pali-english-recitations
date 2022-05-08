@@ -1,0 +1,71 @@
+h1 {
+    text-indent: 0;
+    text-align: center;
+    margin: 100px 0 0 0;
+    font-size: 2.0em;
+    font-weight: bold;
+    font-variant: small-caps;
+    page-break-before: always;
+    line-height: 100%;
+    /*gets squished otherwise on ADE */
+}
+
+h1.hidden {
+   visibility: hidden;
+    font-size: 0.01em;
+    line-height: 0.01em;
+    margin-top: 0;
+}
+
+h2 {
+    text-indent: 0;
+    text-align: center;
+    margin: 50px 0 0 0;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-variant: small-caps;
+    page-break-before: always;
+    line-height: 135%;
+    /*get squished otherwise on ADE */
+}
+
+.pali-subtitle {
+    text-align: center;
+}
+
+body {
+  font-family: 'Libertinus Serif', sans-serif; 
+  font-size: 1.2em;
+  line-height: 1.5em
+}
+
+.pali-hang {
+  padding-left: 22px ;
+  text-indent: -22px ;
+} 
+
+blockquote {
+  background: none;
+  border: none; 
+}
+
+.english > blockquote p {
+  font-size: 1.0em;
+  font-style: italic;
+  line-height: 1.5em; 
+}
+
+.english-hang > blockquote p {
+  font-size: 1.0em;
+  font-style: italic;
+  line-height: 1.5em;
+  padding-left: 22px ;
+  text-indent: -22px ;
+} 
+
+.breathmark {
+  font-size: 2.5em;
+  line-height: 0.1em;
+}
+
+
