@@ -12,6 +12,8 @@
 * DONE make cardinal sutta 1 chantable, add breathmarks
 CLOSED: [2022-04-09 Sat 20:08]
 * TeX
+** TODO fix indentation for pali-hang and pali-hangtogether
+** TODO return periods in cardinal suttas
 ** TODO check for endnotes that are too close to proceeding word
 ** TODO check spacing of parittas
 ** TODO document anecdote and local
@@ -147,5 +149,10 @@ CLOSED: [2022-03-03 Thu 19:52]
 ** DONE ideal workflow for multiple contributors
 CLOSED: [2022-03-28 Mon 09:53]
 * HTML
-** TODO cover page headers can be removed from document but seen in ToC if moved from <body></body> to <head></head> -- unfortunately Sigil automatically corrects this to be in the <body>
-** TODO make text large like a header not a header.
+** DONE cover page headers can be removed from document but seen in ToC if moved from <body></body> to <head></head> -- unfortunately Sigil automatically corrects this to be in the <body>
+- simpler fix was to make a style for hidden <h1> and remove margin so its as if no text is there.
+CLOSED: [2022-05-08 Sun 22:08]
+** DONE make text large like a header not a header.
+CLOSED: [2022-05-08 Sun 22:08]
+** TODO line breaks before headers are good but not in the schedule. perhaps make a seperate header for when no line breaks are needed.
+** TODO fix bottom nav

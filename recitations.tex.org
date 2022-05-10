@@ -879,7 +879,7 @@ Anuttaraṁ puññakkhettaṁ lokassa
   They give occasion for incomparable goodness to arise in the world
 \end{english}
 
-\suttaRef{[SN 12.51]}
+\suttaRef{[SN 12.41]}
 
 \begin{pali-hang}
   Tam'ahaṁ saṅghaṁ abhipūjayāmi tam'ahaṁ saṅghaṁ sirasā namāmi
@@ -1134,7 +1134,7 @@ Viññāṇ'ūpādānakkhandho
         \hypertarget{endnote17-appendix}{\hyperlink{endnote17-body}{WPN: ``Attachment to sense-consciousness''}}}}}\makeatother
 \end{english}
 
-\suttaRef{[DN 33]}
+\suttaRef{[DN 22]}
 
 Yesaṁ pariññāya
 
@@ -1895,7 +1895,7 @@ Etaṁ buddhāna sāsanaṁ
   A heavy burden cast away\\
   Not taking on another load\\
   With craving pulled out from the root\\
-  Desires stilled, one is released
+  Desires stilled \breathmark\ one is released
 \end{english-verses}
 
 \suttaRef{[SN 22.22]}
@@ -2408,7 +2408,7 @@ Etaṁ buddhāna sāsanaṁ
 \suttaRef{[Dhp 212]}
 
 \begin{verses}
-  Tiṭṭhat'eva Nibbānaṁ
+  Tiṭṭhat'eva nibbānaṁ
 \end{verses}
 
 \begin{english}
@@ -2416,7 +2416,7 @@ Etaṁ buddhāna sāsanaṁ
 \end{english}
 
 \begin{verses}
-  Tiṭṭhati Nibbānagāmī maggo
+  Tiṭṭhati nibbānagāmī maggo
 \end{verses}
 
 \begin{english}
@@ -3440,10 +3440,10 @@ paccaññāsiṁ
   To unsurpassed perfect enlightenment
 \end{english-verses}
 
-Yato ca kho me bhikkhave imesu catūsu ariya-saccesu\\
-\begin{pali-hang}
+Yato ca kho me bhikkhave imesu catūsu ariya-saccesu
+\begin{pali-hangtogether}
   Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
-\end{pali-hang}
+\end{pali-hangtogether}
 
 \begin{english-verses}
   But bhikkhus when my knowledge and understanding\\
@@ -5447,7 +5447,7 @@ Paṭinissagg'ānupassī passasissāmī'ti sikkhati
   `I shall breathe out contemplating relinquishment'
 \end{english}
 
-Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulīkatā
+Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulī-katā
 
 \begin{english-hang}
   Bhikkhus, that is how mindfulness of breathing is developed and cultivated
@@ -6973,7 +6973,7 @@ Asubhasaññaṁ bhāvessanti ādīnavasaññaṁ bhāvessanti
 
 \linkdest{endnote86-body}
 \begin{english-hang}
-  The perception of abandoning \breathmark\ the perception of dispassion \breathmark\ the perception of cessation\makeatletter\hyperlink{endnote86-appendix}\Hy@raisedlink{{\pagenote{%
+  The perception of abandoning \breathmark\ the perception of dispassion \breathmark\ the~perception of cessation\makeatletter\hyperlink{endnote86-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote86-appendix}{\hyperlink{endnote86-body}{In \textit{Girimānandasutta} (AN 10.60) the Buddha instruced Ven. Ānanda: ``If, Ānanda, you visit the (severely sick) bhikkhu Girimānanda and speak to him about ten perceptions, it is possible that on hearing about them his affliction will immediately subside.'' Then the same seven perceptions as above are mentioned, with the addition of the following three: 8. the perception of non-delight in the entire world; 9. the perception of impermanence in all conditioned phenomena, and 10. mindfulness of breathing. \textit{Girimānandasutta} concludes: ``Then, when the Venerable Ānanda had learned these ten perceptions from the Blessed One, he went to the Venerable Girimānanda and spoke to him about them. When the Venerable Girimānanda heard about these ten perceptions, his affliction immediately subsided.''}}}}}\makeatother
 \end{english-hang}
 
@@ -7437,11 +7437,13 @@ Yāva'd'eva hirikopina-paṭicchādan'atthaṁ
 \end{english-keepwith}
 
 Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevāmi\\
-N'eva davāya na madāya na maṇḍanāya na vibhūsanāya\\
-Yāva'd'eva imassa kāyassa ṭhitiyā yāpanāya\\
-vihiṁs'ūparatiyā brahmacariy'ānuggahāya\\
-Iti purāṇañ'ca vedanaṁ paṭihaṅkhāmi\\
-navañ'ca vedanaṁ na uppādessāmi\\
+N'eva davāya na madāya na maṇḍanāya na vibhūsanāya
+\begin{pali-hangtogether}
+Yāva'd'eva imassa kāyassa ṭhitiyā yāpanāya vihiṁs'ūparatiyā brahmacariy'ānuggahāya
+\end{pali-hangtogether}
+\begin{pali-hangtogether}
+Iti purāṇañ'ca vedanaṁ paṭihaṅkhāmi navañ'ca vedanaṁ na uppādessāmi
+\end{pali-hangtogether}
 Yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti
 
 \begin{english-keepwith}
@@ -7823,8 +7825,10 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 
 Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 
+\linkdest{endnote146-body}
 \begin{english}
-  Thus we should frequently reflect
+  Thus we should frequently reflect\makeatletter\hyperlink{endnote146-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote146-appendix}{\hyperlink{endnote146-body}{WPN: ``recollect''}}}}}\makeatother
 \end{english}
 
 \suttaRef{[AN 5.57]}
@@ -8448,7 +8452,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idam avoca bhagavā \breathmark\ Attamanā pañcavaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
+  Idam avoca bhagavā \breathmark\ attamanā pañcavaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8873,7 +8877,7 @@ Atha kho bhagavā udānaṁ udānesi:
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sutvā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ ``Vimuttam''iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
+  Sutvā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ `vimuttam'iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
 \end{pali-hangtogether}
 
 \clearpage
@@ -8903,8 +8907,8 @@ Atha kho bhagavā udānaṁ udānesi:
   On one occasion\makeatletter\hyperlink{endnote108-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote108-appendix}{\hyperlink{endnote108-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother
 \linkdest{endnote109-body}
-  the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana \breathmark\ There he addressed the bhikkhus of the group of five: ``Bhikkhus'' – ``Venerable Sir'' they replied. The Blessed One said this:\makeatletter\hyperlink{endnote109-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote109-appendix}{\hyperlink{endnote109-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: ``'Bhikkhus' – 'Venerable Sir', they replied. The Blessed One said this:''}}}}}\makeatother
+  the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana \breathmark\ There he addressed the bhikkhus of the group of five: ``Bhikkhus'' – ``Venerable sir'' they replied. The Blessed One said this:\makeatletter\hyperlink{endnote109-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote109-appendix}{\hyperlink{endnote109-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: ``'Bhikkhus' – 'Venerable sir', they replied. The Blessed One said this:''}}}}}\makeatother
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8949,71 +8953,71 @@ Atha kho bhagavā udānaṁ udānesi:
     ``Is form permanent or impermanent?''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
-  ``Impermanent Venerable Sir''
+  ``Impermanent venerable sir''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
   ``Is what is impermanent satisfactory or unsatisfactory?''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
-  ``Unsatisfactory Venerable Sir''
+  ``Unsatisfactory venerable sir''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
-  ``No Venerable Sir''
+  ``No venerable sir''
   \end{english-only-hangtogether}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Is feeling permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent Venerable Sir''\\
+  ``Impermanent sssssssssssir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory Venerable Sir''\\
+  ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
-  ``No Venerable Sir''
+  ``No venerable sir''
 \end{english-only-nohang}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Is perception permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent Venerable Sir''\\
+  ``Impermanent venerable sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory Venerable Sir''\\
+  ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
-  ``No Venerable Sir''
+  ``No venerable sir''
 \end{english-only-nohang}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Are volitional formations permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent Venerable Sir''\\
+  ``Impermanent venerable sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory Venerable Sir''
+  ``Unsatisfactory venerable sir''
   \begin{english-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''
   \end{english-hangtogether}
-  ``No Venerable Sir''
+  ``No venerable sir''
 \end{english-only-nohang}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Is consciousness permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent Venerable Sir''\\
+  ``Impermanent venerable sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
-  ``Unsatisfactory Venerable Sir''\\
+  ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
     ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
-  ``No Venerable Sir''
+  ``No venerable sir''
 \end{english-only-nohang}
 
 \begin{english-only-leader}
@@ -9151,7 +9155,7 @@ Kena ādittaṁ?
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati \breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphasse'pi nibbindati \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
+  Sutvā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati~\breathmark\ cakkhuviññāṇe'pi nibbindati \breathmark\ cakkhusamphasse'pi nibbindati \breathmark\ yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hangtogether}
 
 \begin{pali-hang}
@@ -9175,7 +9179,7 @@ Kena ādittaṁ?
 \end{pali-hang}
 
 \begin{pali-hang}
-  Nibbindaṁ virajjati \breathmark\ virāgā vimuccati \breathmark\ vimuttasmiṁ `Vimuttam'iti ñāṇaṁ hoti:
+  Nibbindaṁ virajjati \breathmark\ virāgā vimuccati \breathmark\ vimuttasmiṁ `vimuttam'iti ñāṇaṁ hoti:
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -9865,17 +9869,22 @@ Sadā sotthī bhavantu te
   Vipulā hoti dakkhiṇā
 \end{pali-hangtogether}
 
-% TODO this is a bit hacky, works for now
-\vspace{16pt}
-
 \begin{english-verses}
-  \begin{english-hangtogether}
+\begin{english-hang-firstline}
     Those with discernment, responsive, free from stinginess, give in the proper season.
-  \end{english-hangtogether}
-  Having given in the proper season\\
-  With hearts inspired by the Noble Ones,\\
-  Straightened,\\
+\end{english-hang-firstline}
+\begin{english-hangtogether-verses}
+  Having given in the proper season
+\end{english-hangtogether-verses}
+\begin{english-hangtogether-verses}
+  With hearts inspired by the Noble Ones,
+\end{english-hangtogether-verses}
+\begin{english-hangtogether-verses}
+  Straightened,
+\end{english-hangtogether-verses}
+\begin{english-hangtogether-verses}
   Their offering bears an abundance.
+\end{english-hangtogether-verses}
 \end{english-verses}
 
 \begin{pali-hang}
@@ -9967,7 +9976,7 @@ Sadā sotthī bhavantu te
 \suttaRef{[AN 3.155]}
 
 \bottomNav{just-as-rivers}
-
+% TODO : how to remove extraneous blank page
 #+end_src
 
 * Protective Recitations
@@ -10030,9 +10039,9 @@ Sadā sotthī bhavantu te
   % \end{english-hangtogether}
 
   % \begin{english-verses}
-  This is the time to see the Buddha, Venerable Sirs.\\
-  This is the time to listen to the Dhamma, Venerable Sirs.\\
-  This is the time to attend to the Saṅgha, Venerable Sirs.
+  This is the time to see the Buddha, venerable sirs.\\
+  This is the time to listen to the Dhamma, venerable sirs.\\
+  This is the time to attend to the Saṅgha, venerable sirs.
   % \end{english-verses}
 \end{leader-yatha}
 
@@ -10099,14 +10108,13 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 \end{pali-hang-continued}
 
-\linkdest{endnote146-body}
 \begin{english-verses}
   A third time, to the Buddha I go for refuge.\\
   A third time, to the Dhamma I go for refuge.\\
   A third time, to the Saṅgha I go for refuge.
 \end{english-verses}
 
-\suttaRef{[Vin 4.1.9]}
+\suttaRef{[Vin 4.1.9]} % TODO : fix source
 
 #+end_src
 
@@ -12479,7 +12487,7 @@ Sabbe sattā sukhī hontu puññāni pakatāni me\\
 Sukhañ'ca tividhaṁ dentu khippaṁ pāpetha vo'mataṁ\\
 Iminā puññakammena iminā uddissena ca\\
 Khipp'āhaṁ sulabhe c'eva taṇh'ūpādāna-chedanaṁ\\
-Ye santāne hīnā dhammā yāva Nibbānato mamaṁ\\
+Ye santāne hīnā dhammā yāva nibbānato mamaṁ\\
 Nassantu sabbadā yeva yattha jāto bhave bhave\\
 Ujucittaṁ satipaññā sallekho viriyamhinā\\
 Mārā labhantu nokāsaṁ kātuñ'ca viriyesu me\\
@@ -12626,9 +12634,11 @@ Khemappadañ'ca pappontu tesāsā sijjhataṁ subhā
 
 \vspace{-0.99em}
 
+\begin{pali-hang}
 Sukhitā hontu ñātayo\\
 Idaṁ no ñātinaṁ hotu sukhitā hontu ñātayo\\
 Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
+\end{pali-hang}
 
 \begin{english-verses}
   May this be for my relatives \breathmark\ well and happy may the relatives be\\
@@ -12694,7 +12704,7 @@ Sabba-sampatti-siddhiyā
   For the attainment of all fortunes.
 \end{english-verses}
 
-\suttaRef{[Sri Lanka]}
+\suttaRef{[MJG]}
 
 #+end_src
 
@@ -12745,7 +12755,7 @@ Sataṁ samāgamo hotu
   With the wise may I associate
 \end{english}
 
-Yāva Nibbānapattiyā
+Yāva nibbānapattiyā
 
 \begin{english}
   Until the attainment of Nibbāna
@@ -12820,7 +12830,7 @@ Idaṁ me puññaṁ āsavakkhayā-vahaṁ hotu
   May my merit lead to the destruction of the taints
 \end{english}
 
-Idaṁ me puññaṁ Nibbānassa paccayo hotu
+Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 \begin{english}
   May my merit be a condition for the attainment of Nibbāna
@@ -12860,7 +12870,7 @@ Idaṁ me puññaṁ Nibbānassa paccayo hotu
 \linkdest{endnote138-body}
 \begin{center}
   \textbf{\textsc{Undertaking the Three Refuges}}\makeatletter\hyperlink{endnote138-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, Venerable Sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}...''.}}}}}\makeatother
+        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, venerable sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}...''.}}}}}\makeatother
 \end{center}
 
 \begin{center}
@@ -12914,7 +12924,7 @@ Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 Āma bhante
 
 \begin{english}
-  Yes, Venerable Sir.
+  Yes, venerable sir.
 \end{english}
 
 \clearpage
