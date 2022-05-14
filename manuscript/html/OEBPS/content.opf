@@ -6,7 +6,7 @@
     <dc:creator id="cre">SBS Saṅgha</dc:creator>
     <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
     <dc:publisher>Sasanārakkha Buddhist Sanctuary</dc:publisher>
-    <meta property="dcterms:modified">2022-05-08T21:53:34Z</meta>
+    <meta property="dcterms:modified">2022-05-14T22:14:31Z</meta>
     <dc:identifier id="BookId">urn:uuid:8f0ffe23-9a55-476b-9474-5cfc6b7b9b82</dc:identifier>
     <meta content="1.9.2" name="Sigil version"/>
     <meta name="cover" content="front-cover-compressed.jpg"/>
@@ -106,7 +106,7 @@
     <item id="ratana-sutta.xhtml" href="Text/ratana-sutta.xhtml" media-type="application/xhtml+xml"/>
     <item id="karaniya-metta-sutta.xhtml" href="Text/karaniya-metta-sutta.xhtml" media-type="application/xhtml+xml"/>
     <item id="khandha-parittam.xhtml" href="Text/khandha-parittam.xhtml" media-type="application/xhtml+xml"/>
-    <item id="buddha-dhamma-sangha-gun.xhtml" href="Text/buddha-dhamma-sangha-gun.xhtml" media-type="application/xhtml+xml"/>
+    <item id="buddha-dhamma-sangha-guna.xhtml" href="Text/buddha-dhamma-sangha-guna.xhtml" media-type="application/xhtml+xml"/>
     <item id="abhaya-parittam.xhtml" href="Text/abhaya-parittam.xhtml" media-type="application/xhtml+xml"/>
     <item id="devata-uyyojana-gatha.xhtml" href="Text/devata-uyyojana-gatha.xhtml" media-type="application/xhtml+xml"/>
     <item id="jaya-mangala-attha-gatha.xhtml" href="Text/jaya-mangala-attha-gatha.xhtml" media-type="application/xhtml+xml"/>
@@ -222,7 +222,7 @@
     <itemref idref="ratana-sutta.xhtml"/>
     <itemref idref="karaniya-metta-sutta.xhtml"/>
     <itemref idref="khandha-parittam.xhtml"/>
-    <itemref idref="buddha-dhamma-sangha-gun.xhtml"/>
+    <itemref idref="buddha-dhamma-sangha-guna.xhtml"/>
     <itemref idref="yan-kinci-ratanam-loke.xhtml"/>
     <itemref idref="bojjhana-parittam.xhtml"/>
     <itemref idref="abhaya-parittam.xhtml"/>

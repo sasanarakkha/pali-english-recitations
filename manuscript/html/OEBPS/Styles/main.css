@@ -29,6 +29,19 @@ h2 {
     /*get squished otherwise on ADE */
 }
 
+h3 {
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.section-title {
+	font-size: 1.1em;
+    font-weight: bold;
+	text-align: center;
+	font-variant: small-caps;
+	line-height: 0em;
+}
+
 .pali-subtitle {
     text-align: center;
 }
@@ -45,14 +58,23 @@ body {
 } 
 
 blockquote {
-  background: none;
-  border: none; 
+  	background: none;
+  	border: none;
+	
+}
+
+.english {
+  	font-size: 1.0em;
+  	font-style: italic;
+  	line-height: 1.5em;   
+	text-indent: 20px;
 }
 
 .english > blockquote p {
-  font-size: 1.0em;
-  font-style: italic;
-  line-height: 1.5em; 
+	font-size: 1.0em;
+	font-style: italic;
+  	line-height: 1.5em;   
+	text-indent: 2px ;
 }
 
 .english-hang > blockquote p {
@@ -64,8 +86,26 @@ blockquote {
 } 
 
 .breathmark {
-  font-size: 2.5em;
+  font-size: 1.25em;
+  font-weight :1000;
   line-height: 0.1em;
 }
 
+a {
+text-decoration: none;
+}
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+q {
+  quotes: "“" "”" "‘" "’";
+}
+q::before {
+    content: open-quote;
+}
+q::after {
+    content: close-quote;
+}

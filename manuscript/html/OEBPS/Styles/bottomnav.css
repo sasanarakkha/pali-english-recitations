@@ -1,19 +1,8 @@
-/* Place the navbar at the bottom of the page, and make it stick */
-.navbar {
-  position: fixed;
-  text-align: center;
-  font-variant: small-caps;
-  bottom: 0px;
-  width: 100%;
+.bottomnav {
+	position: relative;
+	bottom: 5px;
+	font-size: 1.2em;
+	font-variant: small-caps;
+	text-align: center;
+	text-decoration: none;
 }
-
-/* Style the links inside the navigation bar */
-.navbar a {
-  display: inline;
-  text-align: center;
-  padding: 0px 80px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-

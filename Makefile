@@ -164,12 +164,12 @@ endif
 
 
 
-view: $(EPUBFILE)
+view: $(CURRENTEPUB)
 ifndef EBOOKVIEWER
 	@echo "Error: Calibre was not found. Unable to open ebook viewer."
 	@exit 1
 else
-	@ebook-viewer --detach "$(EPUBFILE)"
+	@ebook-viewer --detach "$(CURRENTEPUB)"
 endif
 
 

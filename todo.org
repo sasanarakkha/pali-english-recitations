@@ -1,5 +1,6 @@
 #+TITLE: Todo
 
+* TODO find passage that doesn't have 'byadhipi dukkho' and jumps straight to 'maranampi'
 * TODO -v=5 for the readme. explain the nuances of the makefile
 * TODO fix indentation issue in parittas
 * TODO finish endnote 127
@@ -12,6 +13,7 @@
 * DONE make cardinal sutta 1 chantable, add breathmarks
 CLOSED: [2022-04-09 Sat 20:08]
 * TeX
+** TODO yatha-vari-vaha title closer than subsequent titles
 ** TODO fix indentation for pali-hang and pali-hangtogether
 ** TODO return periods in cardinal suttas
 ** TODO check for endnotes that are too close to proceeding word
@@ -154,5 +156,12 @@ CLOSED: [2022-03-28 Mon 09:53]
 CLOSED: [2022-05-08 Sun 22:08]
 ** DONE make text large like a header not a header.
 CLOSED: [2022-05-08 Sun 22:08]
-** TODO line breaks before headers are good but not in the schedule. perhaps make a seperate header for when no line breaks are needed.
+** DONE line breaks before headers are good but not in the schedule. perhaps make a seperate header for when no line breaks are needed.
+CLOSED: [2022-05-13 Fri 20:17]
 ** TODO fix bottom nav
+** TODO global settings for hyperlinks for underlining
+** TODO change blockquote indentation
+** TODO lower height of line item
+** TODO sigil, auto change to fancy quotes
+** TODO 'Now bhikkhus I declare to you' pali missing
+** TODO make custom header for parittas
