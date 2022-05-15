@@ -6,7 +6,7 @@
     <dc:creator id="cre">SBS Saṅgha</dc:creator>
     <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
     <dc:publisher>Sasanārakkha Buddhist Sanctuary</dc:publisher>
-    <meta property="dcterms:modified">2022-05-14T22:14:31Z</meta>
+    <meta property="dcterms:modified">2022-05-15T18:05:48Z</meta>
     <dc:identifier id="BookId">urn:uuid:8f0ffe23-9a55-476b-9474-5cfc6b7b9b82</dc:identifier>
     <meta content="1.9.2" name="Sigil version"/>
     <meta name="cover" content="front-cover-compressed.jpg"/>
@@ -24,7 +24,7 @@
     <item id="homage-to-the-triple-gem-compressed.jpg" href="Images/homage-to-the-triple-gem-compressed.jpg" media-type="image/jpeg"/>
     <item id="dedication-of-offerings.xhtml" href="Text/dedication-of-offerings.xhtml" media-type="application/xhtml+xml"/>
     <item id="preliminary-homage.xhtml" href="Text/preliminary-homage.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-homage.xhtml" href="Text/cover-homage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-homage.xhtml" href="Text/cover-homage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="verses-compressed.jpg" href="Images/verses-compressed.jpg" media-type="image/jpeg"/>
     <item id="thanksgiving-recitations-compressed.jpg" href="Images/thanksgiving-recitations-compressed.jpg" media-type="image/jpeg"/>
     <item id="teachings-compressed.jpg" href="Images/teachings-compressed.jpg" media-type="image/jpeg"/>
@@ -40,7 +40,7 @@
     <item id="homage-sangha.xhtml" href="Text/homage-sangha.xhtml" media-type="application/xhtml+xml"/>
     <item id="salutation.xhtml" href="Text/salutation.xhtml" media-type="application/xhtml+xml"/>
     <item id="closing-homage.xhtml" href="Text/closing-homage.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-verses.xhtml" href="Text/cover-verses.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-verses.xhtml" href="Text/cover-verses.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="buddhas-first-exclamation.xhtml" href="Text/buddhas-first-exclamation.xhtml" media-type="application/xhtml+xml"/>
     <item id="respect-for-the-dhamma.xhtml" href="Text/respect-for-the-dhamma.xhtml" media-type="application/xhtml+xml"/>
     <item id="true-false-refuges.xhtml" href="Text/true-false-refuges.xhtml" media-type="application/xhtml+xml"/>
@@ -54,7 +54,7 @@
     <item id="single-excellent-night.xhtml" href="Text/single-excellent-night.xhtml" media-type="application/xhtml+xml"/>
     <item id="highest-blessings.xhtml" href="Text/highest-blessings.xhtml" media-type="application/xhtml+xml"/>
     <item id="words-on-loving-kindness.xhtml" href="Text/words-on-loving-kindness.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-teachings.xhtml" href="Text/cover-teachings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-teachings.xhtml" href="Text/cover-teachings.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="wheel-of-dhamma-abridged.xhtml" href="Text/wheel-of-dhamma-abridged.xhtml" media-type="application/xhtml+xml"/>
     <item id="anupubba-sikkha.xhtml" href="Text/anupubba-sikkha.xhtml" media-type="application/xhtml+xml"/>
     <item id="gradual-training.xhtml" href="Text/gradual-training.xhtml" media-type="application/xhtml+xml"/>
@@ -69,7 +69,7 @@
     <item id="principles-of-non-decline.xhtml" href="Text/principles-of-non-decline.xhtml" media-type="application/xhtml+xml"/>
     <item id="striving-according-to-dhamma.xhtml" href="Text/striving-according-to-dhamma.xhtml" media-type="application/xhtml+xml"/>
     <item id="buddhas-final-instruction.xhtml" href="Text/buddhas-final-instruction.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-reflections.xhtml" href="Text/cover-reflections.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-reflections.xhtml" href="Text/cover-reflections.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="four-requisites.xhtml" href="Text/four-requisites.xhtml" media-type="application/xhtml+xml"/>
     <item id="repulsiveness-of-food.xhtml" href="Text/repulsiveness-of-food.xhtml" media-type="application/xhtml+xml"/>
     <item id="universal-well-being.xhtml" href="Text/universal-well-being.xhtml" media-type="application/xhtml+xml"/>
@@ -78,7 +78,7 @@
     <item id="ten-reflections.xhtml" href="Text/ten-reflections.xhtml" media-type="application/xhtml+xml"/>
     <item id="x32-parts.xhtml" href="Text/32-parts.xhtml" media-type="application/xhtml+xml"/>
     <item id="recollection-of-impermanence.xhtml" href="Text/recollection-of-impermanence.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-cardinal-suttas.xhtml" href="Text/cover-cardinal-suttas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-cardinal-suttas.xhtml" href="Text/cover-cardinal-suttas.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="dhammacakkappavattana.xhtml" href="Text/dhammacakkappavattana.xhtml" media-type="application/xhtml+xml"/>
     <item id="wheel-of-dhamma-full.xhtml" href="Text/wheel-of-dhamma-full.xhtml" media-type="application/xhtml+xml"/>
     <item id="anatta-lakkhana.xhtml" href="Text/anatta-lakkhana.xhtml" media-type="application/xhtml+xml"/>
@@ -96,8 +96,8 @@
     <item id="deva-aradhana.xhtml" href="Text/deva-aradhana.xhtml" media-type="application/xhtml+xml"/>
     <item id="yan-kinci-ratanam-loke.xhtml" href="Text/yan-kinci-ratanam-loke.xhtml" media-type="application/xhtml+xml"/>
     <item id="bojjhana-parittam.xhtml" href="Text/bojjhana-parittam.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-thanksgiving-recitations.xhtml" href="Text/cover-thanksgiving-recitations.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-protective-recitations.xhtml" href="Text/cover-protective-recitations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-thanksgiving-recitations.xhtml" href="Text/cover-thanksgiving-recitations.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="cover-protective-recitations.xhtml" href="Text/cover-protective-recitations.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="pubba-bhaga-nama-kara-patho-protective.xhtml" href="Text/pubba-bhaga-nama-kara-patho-protective.xhtml" media-type="application/xhtml+xml"/>
     <item id="sarana-gamana-patho.xhtml" href="Text/sarana-gamana-patho.xhtml" media-type="application/xhtml+xml"/>
     <item id="nama-kara-siddhi-gatha.xhtml" href="Text/nama-kara-siddhi-gatha.xhtml" media-type="application/xhtml+xml"/>
@@ -140,6 +140,8 @@
     <item id="LibertinusSerifX-Bold.ttf" href="Fonts/LibertinusSerifX-Bold.ttf" media-type="font/ttf"/>
     <item id="suttaref.css" href="Styles/suttaref.css" media-type="text/css"/>
     <item id="schedule.xhtml" href="Text/schedule.xhtml" media-type="application/xhtml+xml"/>
+    <item id="five-trainings.xhtml" href="Text/five-trainings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="eight-trainings.xhtml" href="Text/eight-trainings.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="cover-front.xhtml"/>
@@ -247,6 +249,8 @@
     <itemref idref="highest-honour-aspirations.xhtml"/>
     <itemref idref="cover-appendix.xhtml"/>
     <itemref idref="refuge-trainings.xhtml"/>
+    <itemref idref="five-trainings.xhtml"/>
+    <itemref idref="eight-trainings.xhtml"/>
     <itemref idref="phonetics-pronuncation.xhtml"/>
     <itemref idref="guidelines.xhtml"/>
     <itemref idref="endnotes.xhtml"/>

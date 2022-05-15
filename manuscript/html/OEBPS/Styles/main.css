@@ -29,6 +29,12 @@ h2 {
     /*get squished otherwise on ADE */
 }
 
+.h2-paritta {
+	text-align: center;
+    font-variant: small-caps;
+
+}
+
 h3 {
     text-align: center;
     font-variant: small-caps;
@@ -67,23 +73,18 @@ blockquote {
   	font-size: 1.0em;
   	font-style: italic;
   	line-height: 1.5em;   
-	text-indent: 20px;
+    padding-left: 24px ;
+
 }
 
-.english > blockquote p {
-	font-size: 1.0em;
-	font-style: italic;
+.english-hang {
+  	font-size: 1.0em;
+  	font-style: italic;
   	line-height: 1.5em;   
-	text-indent: 2px ;
-}
+	text-indent: -18px;
+  padding-left: 42px ;
 
-.english-hang > blockquote p {
-  font-size: 1.0em;
-  font-style: italic;
-  line-height: 1.5em;
-  padding-left: 22px ;
-  text-indent: -22px ;
-} 
+}
 
 .breathmark {
   font-size: 1.25em;
@@ -108,4 +109,9 @@ q::before {
 }
 q::after {
     content: close-quote;
+}
+
+sup {
+font-size: 0.65em;
+line-height: 0.1em;
 }
