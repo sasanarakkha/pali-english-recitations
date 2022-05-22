@@ -11272,7 +11272,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Pahīnā te ca ābādhā\\
-  Tiṇṇannam'pi mahesinaṁ\\
+  Tiṇṇannam'pi mah'esinaṁ\\
   Magg'āhata-kilesā va\\
   Patt'ānuppatti-dhammataṁ\\
   Etena sacca-vajjena\\
