@@ -12,13 +12,13 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
-RELEASENAME   := "SBS Pali-English Recitations"
+RELEASENAME   := "SBS Pāli-English Recitations"
 CURRENTEPUB   := ./manuscript/current.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/pali-english-recitations.epub
-KINDLEFILE    := ./build/pali-english-recitations.mobi
-AZW3FILE      := ./build/pali-english-recitations.azw3
+EPUBFILE      := ./build/SBS\ Pāli-English\ Recitations.epub
+KINDLEFILE    := ./build/SBS\ Pāli-English\ Recitations.mobi
+AZW3FILE      := ./build/SBS\ Pāli-English\ Recitations.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
@@ -54,7 +54,7 @@ pdf:
 	@org-tangle ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/SBS Pali-English Recitations.pdf"
+	mv -f $(FILE).pdf "./build/SBS Pāli-English Recitations.pdf"
 
 
 pdf2x:
@@ -64,7 +64,7 @@ pdf2x:
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/SBS Pali-English Recitations.pdf"
+	mv -f $(FILE).pdf "./build/SBS Pāli-English Recitations.pdf"
 
 
 pdfrequirements:

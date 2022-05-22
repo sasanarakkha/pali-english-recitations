@@ -1,3 +1,13 @@
+h1, h2, h3, h4, h5, h6 {
+     page-break-after:avoid;
+     -webkit-hyphenate-lines: 0 !important;
+     -webkit-hyphens: none !important; 
+     adobe-hyphenate: none !important; 
+     -moz-hyphens: none !important; 
+     hyphens: none !important;
+     hyphenate-lines: 0;
+}
+
 h1 {
     text-indent: 0;
     text-align: center;
@@ -6,6 +16,18 @@ h1 {
     font-weight: bold;
     font-variant: small-caps;
     page-break-before: always;
+    line-height: 100%;
+    /*gets squished otherwise on ADE */
+}
+
+h1.together {
+    text-indent: 0;
+    text-align: center;
+    margin: 100px 0 0 0;
+    font-size: 2.0em;
+    font-weight: bold;
+    font-variant: small-caps;
+    page-break-before: never;
     line-height: 100%;
     /*gets squished otherwise on ADE */
 }
@@ -25,6 +47,18 @@ h2 {
     font-weight: bold;
     font-variant: small-caps;
     page-break-before: always;
+    line-height: 135%;
+    /*get squished otherwise on ADE */
+}
+
+h2.together {
+    text-indent: 0;
+    text-align: center;
+    margin: 50px 0 0 0;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-variant: small-caps;
+    page-break-before: never;
     line-height: 135%;
     /*get squished otherwise on ADE */
 }
@@ -55,7 +89,10 @@ h3 {
 body {
   font-family: 'Libertinus Serif', sans-serif; 
   font-size: 1.2em;
-  line-height: 1.5em
+  line-height: 1.5em;
+  margin-right:30px;
+  margin-left:30px;
+  padding:0;
 }
 
 .pali-hang {
@@ -93,6 +130,7 @@ blockquote {
 }
 
 a {
+font-style:italic;
 text-decoration: none;
 }
 

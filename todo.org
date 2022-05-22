@@ -1,5 +1,7 @@
 #+TITLE: Todo
 
+* TODO post patimokkha chants leader intro revision
+* TODO make thai, devanagari, sinhala, burmese versions of chanting book
 * TODO find passage that doesn't have 'byadhipi dukkho' and jumps straight to 'maranampi'
 * TODO -v=5 for the readme. explain the nuances of the makefile
 * TODO fix indentation issue in parittas
@@ -159,9 +161,11 @@ CLOSED: [2022-05-08 Sun 22:08]
 ** DONE line breaks before headers are good but not in the schedule. perhaps make a seperate header for when no line breaks are needed.
 CLOSED: [2022-05-13 Fri 20:17]
 ** TODO fix bottom nav
-** TODO global settings for hyperlinks for underlining
+** DONE global settings for hyperlinks for underlining
+CLOSED: [2022-05-15 Sun 10:57]
 ** TODO change blockquote indentation
-** TODO lower height of line item
+** DONE lower height of line item
+CLOSED: [2022-05-15 Sun 10:57]
 ** TODO sigil, auto change to fancy quotes
 ** TODO 'Now bhikkhus I declare to you' pali missing
 ** TODO make custom header for parittas

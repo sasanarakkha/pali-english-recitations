@@ -10006,7 +10006,7 @@ Sadā sotthī bhavantu te
 \linkdest{endnote124-body}
 \begin{leader-yatha}
   \anglebracketleft\ \hspace{-0.5mm}Pharitvāna\makeatletter\hyperlink{endnote124-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote124-appendix}{\hyperlink{endnote124-body}{The ``Invitation to the Devas'' is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do.}}}}}\makeatother
+        \hypertarget{endnote124-appendix}{\hyperlink{endnote124-body}{The ``Invitation to the Devas'' is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do so.}}}}}\makeatother
   mettaṁ samettā bhadantā\\
   Avikkhitta-cittā parittaṁ bhaṇantu\\
   Sagge kāme ca rūpe giri-sikhara-taṭe c'antalikkhe vimāne\\
@@ -10272,7 +10272,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā, yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
+  Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -10911,9 +10911,9 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
   \anglebracketleft\ \hspace{-0.5mm}Virūpakkhehi me mettaṁ \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
 \begin{pali-hangtogether}
-  Mettaṁ Erāpathehi me\\
+  Mettaṁ erāpathehi me\\
   Chabyā-puttehi me mettaṁ\\
-  Mettaṁ Kaṇhā-gotamakehi ca
+  Mettaṁ kaṇhā-gotamakehi ca
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -11471,7 +11471,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Nāḷāgiri, the excellent elephant, when maddened,
+  Nāḷāgiri, the excellent elephant, when maddened,\\
   Was very horrific, like a forest fire, a flaming discus, a lightning bolt.\\
   The Lord of Sages defeated him by sprinkling the water of good will:\\
   By the power of this, may you have victory blessings.
