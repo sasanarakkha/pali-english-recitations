@@ -6,7 +6,7 @@
     <dc:creator id="cre">SBS Saṅgha</dc:creator>
     <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
     <dc:publisher>Sasanārakkha Buddhist Sanctuary</dc:publisher>
-    <meta property="dcterms:modified">2022-05-22T16:19:38Z</meta>
+    <meta property="dcterms:modified">2022-05-23T21:56:34Z</meta>
     <dc:identifier id="BookId">urn:uuid:8f0ffe23-9a55-476b-9474-5cfc6b7b9b82</dc:identifier>
     <meta content="1.9.2" name="Sigil version"/>
     <meta name="cover" content="front-cover-compressed.jpg"/>
@@ -142,6 +142,10 @@
     <item id="schedule.xhtml" href="Text/schedule.xhtml" media-type="application/xhtml+xml"/>
     <item id="five-trainings.xhtml" href="Text/five-trainings.xhtml" media-type="application/xhtml+xml"/>
     <item id="eight-trainings.xhtml" href="Text/eight-trainings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="LibertinusSerif-BoldItalic.otf" href="Fonts/LibertinusSerif-BoldItalic.otf" media-type="font/otf"/>
+    <item id="LibertinusSerif-Italic.otf" href="Fonts/LibertinusSerif-Italic.otf" media-type="font/otf"/>
+    <item id="palisbs.ttf" href="Fonts/palisbs.ttf" media-type="font/ttf"/>
+    <item id="palisbsa.ttf" href="Fonts/palisbsa.ttf" media-type="font/ttf"/>
   </manifest>
   <spine>
     <itemref idref="cover-front.xhtml"/>

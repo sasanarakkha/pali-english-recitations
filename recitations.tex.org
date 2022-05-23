@@ -296,7 +296,7 @@ Sāsanārakkha Buddhist Sanctuary.
     \hyperref[requisites-for-awakening]{Requisites for Awakening} \ifdesktopversion\else\pageref{requisites-for-awakening}\fi\\
     \hyperref[principles-of-non-decline]{Principles of Non-Decline} \ifdesktopversion\else\pageref{principles-of-non-decline}\fi\\
     \hyperref[protection]{On Protection} \ifdesktopversion\else\pageref{protection}\fi\\
-    \hyperref[sharing-all-merits]{Sharing of Merits} \ifdesktopversion\else\pageref{sharing-all-merits}\fi\\
+    \hyperref[sharing-all-merits]{Sharing of All Merits} \ifdesktopversion\else\pageref{sharing-all-merits}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdesktopversion\else\pageref{closing-homage}\fi\\
   }
 

@@ -234,7 +234,8 @@ Jaya-parittaṁ
 Bhavatu-sabba-maṅgalaṁ
 \label{bhavatu-sabba-mangalam}
 
-
+Pubba-bhāga-nama-kāra-pāṭho
+\label{pubba-bhaga-nama-kara-patho-funeral}
 
 Dhamma-saṅgaṇī-mātikā
 \label{dhamma-sangani-matika}
