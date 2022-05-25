@@ -14,6 +14,7 @@
 * TODO refuges training pronunciation remove
 * DONE make cardinal sutta 1 chantable, add breathmarks
 CLOSED: [2022-04-09 Sat 20:08]
+
 * TeX
 ** TODO yatha-vari-vaha title closer than subsequent titles
 ** TODO fix indentation for pali-hang and pali-hangtogether
@@ -136,22 +137,6 @@ CLOSED: [2022-03-29 Tue 09:29]
 ** DONE exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page
 CLOSED: [2022-03-03 Thu 19:52]
 
-* Markdown
-** TODO if possible, make pali alphabet table in csv then convert to html
-** TODO check ids/labels
-** TODO add together all recitations sections respectively
-** TODO missing some intros
-** TODO change quotes
-** TODO look at fixme
-** TODO adding additional styles
-- hang indent
-** TODO 3 times
-** TODO links not working
-** TODO bottom nav
-- create html block
-** TODO breathmark
-** DONE ideal workflow for multiple contributors
-CLOSED: [2022-03-28 Mon 09:53]
 * HTML
 ** DONE cover page headers can be removed from document but seen in ToC if moved from <body></body> to <head></head> -- unfortunately Sigil automatically corrects this to be in the <body>
 - simpler fix was to make a style for hidden <h1> and remove margin so its as if no text is there.
@@ -160,12 +145,21 @@ CLOSED: [2022-05-08 Sun 22:08]
 CLOSED: [2022-05-08 Sun 22:08]
 ** DONE line breaks before headers are good but not in the schedule. perhaps make a seperate header for when no line breaks are needed.
 CLOSED: [2022-05-13 Fri 20:17]
-** TODO fix bottom nav
+** DONE fix bottom nav
+CLOSED: [2022-05-25 Wed 14:29]
 ** DONE global settings for hyperlinks for underlining
 CLOSED: [2022-05-15 Sun 10:57]
-** TODO change blockquote indentation
+** DONE change blockquote indentation
+CLOSED: [2022-05-25 Wed 14:29]
 ** DONE lower height of line item
 CLOSED: [2022-05-15 Sun 10:57]
 ** TODO sigil, auto change to fancy quotes
-** TODO 'Now bhikkhus I declare to you' pali missing
-** TODO make custom header for parittas
+** DONE 'Now bhikkhus I declare to you' pali missing
+CLOSED: [2022-05-25 Wed 14:28]
+** DONE make custom header for parittas
+CLOSED: [2022-05-25 Wed 14:29]
+** TODO include sed change date to make epub command
+** DONE make in-chant leader intro style
+CLOSED: [2022-05-25 Wed 12:43]
+** DONE finish hang formatting
+CLOSED: [2022-05-24 Tue 22:14]

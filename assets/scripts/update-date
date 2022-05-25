@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Update the date
+cd ./manuscript/html/OEBPS/Text/
+TODAY=$(date '+%m-%d-%Y at %R:%S')
+sed -i 's/\(This\ version\ was\ created\ on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/g' copyright.xhtml
+# This version was created on: 05-25-2022 at 09:35:54
+cd ../..

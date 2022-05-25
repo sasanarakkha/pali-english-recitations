@@ -11,6 +11,9 @@ TABULARRAY_URL = https://mirrors.ctan.org/macros/latex/contrib/tabularray.zip
 NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 
+#-----------------------------------------------------------------------------------------#
+
+
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
 RELEASENAME   := "SBS Pāli-English Recitations"
 CURRENTEPUB   := ./manuscript/current.epub
@@ -44,10 +47,22 @@ EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK
 SOURCEFILES := $(shell find $(SOURCE) 2> /dev/null | sort)
 XHTMLFILES  := $(shell find $(SOURCE) -name '*.xhtml' 2> /dev/null | sort)
 
+
+#-----------------------------------------------------------------------------------------#
+
+
 all: document
+
+
+#-----------------------------------------------------------------------------------------#
+
 
 dist:
 	./assets/tools/dist
+
+
+#-----------------------------------------------------------------------------------------#
+
 
 pdf:
 	@echo "Tangling org document..."
@@ -55,6 +70,9 @@ pdf:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
 	mv -f $(FILE).pdf "./build/SBS Pāli-English Recitations.pdf"
+
+
+#-----------------------------------------------------------------------------------------#
 
 
 pdf2x:
@@ -65,6 +83,9 @@ pdf2x:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
 	mv -f $(FILE).pdf "./build/SBS Pāli-English Recitations.pdf"
+
+
+#-----------------------------------------------------------------------------------------#
 
 
 pdfrequirements:
@@ -81,6 +102,8 @@ pdfrequirements:
 	@echo "Completed."
 
 
+#-----------------------------------------------------------------------------------------#
+
 
 epub: $(EPUBFILE)
 $(EPUBFILE): $(SOURCEFILES)
@@ -89,6 +112,8 @@ $(EPUBFILE): $(SOURCEFILES)
 	@rm -f "$(EPUBFILE)"
 	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .
 
+
+#-----------------------------------------------------------------------------------------#
 
 
 # Uses Amazon's KindleGen to produce a mobi Kindle ebook
@@ -112,6 +137,8 @@ endif
 	@rm -f "$(KINDLEFILE).epub"
 	@mv "$(KINDLEFILE).mobi" "$(KINDLEFILE)"
 
+
+#-----------------------------------------------------------------------------------------#
 
 
 # Use Calibre to generate an azw3 Kindle ebook
@@ -143,6 +170,9 @@ $(EPUBCHECK):
 # 	@rm "kindlegen.tar.gz"
 
 
+#-----------------------------------------------------------------------------------------#
+
+
 validate: $(EPUBFILE) $(EPUBCHECK)
 ifndef JAVA
 	@echo "Warning: Java was not found. Unable to validate ebook."
@@ -151,6 +181,8 @@ else
 	@$(JAVA) -jar "$(EPUBCHECK)" "$(EPUBFILE)"
 endif
 
+
+#-----------------------------------------------------------------------------------------#
 
 
 optimize: $(EPUBFILE)
@@ -163,6 +195,8 @@ else
 endif
 
 
+#-----------------------------------------------------------------------------------------#
+
 
 view: $(CURRENTEPUB)
 ifndef EBOOKVIEWER
@@ -173,9 +207,14 @@ else
 endif
 
 
+#-----------------------------------------------------------------------------------------#
+
+
 editwatch: $(CURRENTEPUB)
 	./assets/scripts/editwatch
 
+
+#-----------------------------------------------------------------------------------------#
 
 
 edit: $(CURRENTEPUB)
@@ -185,8 +224,6 @@ ifndef EBOOKEDITOR
 else
 	@ nixGL sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
 endif
-
-
 
 clean:
 	@echo Removing built EPUB/KEPUB/Kindle files...
@@ -199,11 +236,15 @@ clean:
 	@(rmdir `dirname $(EPUBFILE)`; exit 0)
 
 
+#-----------------------------------------------------------------------------------------#
+
 
 current:
 	@echo "Archiving html and renaming to epub..."
 	@cd ./manuscript && zip -r html.zip html && mv html.zip current.epub
 
+
+#-----------------------------------------------------------------------------------------#
 
 
 extractcurrent: $(CURRENTEPUB)
@@ -212,6 +253,8 @@ extractcurrent: $(CURRENTEPUB)
 	@unzip -o "$(CURRENTEPUB)" -d "$(SOURCE)"
 	@rm -rf ./manuscript/META-INF ./manuscript/mimetype
 
+
+#-----------------------------------------------------------------------------------------#
 
 
 watchcurrent: $(CURRENTEPUB) $(EPUBCHECK)
@@ -228,6 +271,8 @@ endif
 		$(JAVA) -jar "$(EPUBCHECK)" "$(CURRENTEPUB)"; \
 	done
 
+
+#-----------------------------------------------------------------------------------------#
 
 
 release: $(EPUBFILE) $(KINDLEFILE) $(KEPUBFILE) $(AZW3FILE)
