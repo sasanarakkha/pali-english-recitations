@@ -16,7 +16,7 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
 RELEASENAME   := "SBS Pāli-English Recitations"
-CURRENTEPUB   := ./manuscript/current.epub
+CURRENTEPUB   := ./manuscript/current-recitations.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
 EPUBFILE      := ./build/SBS\ Pāli-English\ Recitations.epub
@@ -34,7 +34,7 @@ EBOOKVIEWER  := $(shell command -v ebook-viewer 2>&1)
 EBOOKCONVERT := $(shell command -v ebook-convert 2>&1)
 JAVA         := $(shell command -v java 2>&1)
 INOTIFYWAIT  := $(shell command -v inotifywait 2>&1)
-MAKECURRENT  := $(shell command -v cd ./manuscript && zip -r html.zip html && mv html.zip current.epub)
+MAKECURRENT  := $(shell command -v cd ./manuscript && zip -r html.zip html && mv html.zip current-recitations.epub)
 
 
 EPUBCHECK_VERSION = 4.2.6
@@ -210,13 +210,6 @@ endif
 #-----------------------------------------------------------------------------------------#
 
 
-editwatch: $(CURRENTEPUB)
-	./assets/scripts/editwatch
-
-
-#-----------------------------------------------------------------------------------------#
-
-
 edit: $(CURRENTEPUB)
 ifndef EBOOKEDITOR
 	@echo "Error: Sigil was not found. Unable to edit ebook."
@@ -238,10 +231,18 @@ clean:
 
 #-----------------------------------------------------------------------------------------#
 
+editwatchcurrent: $(CURRENTEPUB)
+	@echo "Opening current-recitations.epub in Sigil for editing..."
+	@echo "Watching file for errors..."
+	@make -j edit watchcurrent
+
+#-----------------------------------------------------------------------------------------#
+
 
 current:
 	@echo "Archiving html and renaming to epub..."
-	@cd ./manuscript && zip -r html.zip html && mv html.zip current.epub
+	@cd ./manuscript && zip -r html.zip html && mv html.zip current-recitations.epub
+	@echo "EPUB made and ready for editing..."
 
 
 #-----------------------------------------------------------------------------------------#

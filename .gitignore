@@ -3,7 +3,8 @@ output/
 book/
 build/
 main.pdf
-build/current.epub
+manuscript/current-recitations.epub
+manuscript/current-recitations.azw3
 
 # Emacs temp files
 *~

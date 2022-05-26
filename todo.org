@@ -12,6 +12,10 @@
 * TODO sutta refs for homage to the triple gem
 * TODO pali words uncapitalized, except for beginning of sentence
 * TODO refuges training pronunciation remove
+* TODO make hr line bolder and less wide
+* TODO fix 32 parts font size for tables
+* TODO no breathmark starting lines
+* TODO kindle no justification, alignment options not available
 * DONE make cardinal sutta 1 chantable, add breathmarks
 CLOSED: [2022-04-09 Sat 20:08]
 
