@@ -239,6 +239,14 @@ editwatchcurrent: $(CURRENTEPUB)
 #-----------------------------------------------------------------------------------------#
 
 
+checkcurrent: $(CURRENTEPUB)
+	@clear 
+	@epubcheck manuscript/current-recitations.epub
+
+
+#-----------------------------------------------------------------------------------------#
+
+
 current:
 	@echo "Archiving html and renaming to epub..."
 	@cd ./manuscript && zip -r html.zip html && mv html.zip current-recitations.epub
