@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-family: "libertinus-serifx-bold";
+	font-family: libertinus-serifx;
     text-indent: 0;
     text-align: center;
     margin: 0px 0 50 0;
@@ -25,7 +25,7 @@ h1 {
 }
 
 .h1-together {
-	font-family: "libertinus-serifx-bold";
+	font-family: libertinus-serifx;
     text-indent: 0;
     text-align: center;
     margin: 100px 0 0 0;
@@ -38,15 +38,15 @@ h1 {
 }
 
 h1.hidden {
-	font-family: "libertinus-serifx-bold";
+	font-family: libertinus-serifx;
    visibility: hidden;
     font-size: 0.01em;
     line-height: 0.01em;
-    margin-top: 0;
+    margin-top: 0px;
 }
 
 h2 {
-	font-family: "libertinus-serifx-bold";
+	font-family: libertinus-serifx;
     text-indent: 0;
     text-align: center;
     margin: 50px 0 0 0;
@@ -54,11 +54,12 @@ h2 {
     font-weight: bold;
     font-variant: small-caps;
     line-height: 135%;
+	margin-top: 0px;
     /*get squished otherwise on ADE */
 }
 
 .h2-together {
-	font-family: "libertinus-serifx-bold";
+	font-family: libertinus-serifx;
     text-indent: 0;
     text-align: center;
     margin: 50px 0 0 0;
@@ -67,11 +68,12 @@ h2 {
     font-variant: small-caps;
     page-break-before: never;
     line-height: 135%;
+
     /*get squished otherwise on ADE */
 }
 
 .h2-paritta {
-    font-family: "libertinus-serifx-bold";
+	font-family: libertinus-serifx;
 	text-align: center;
     font-variant: small-caps;
 
@@ -83,7 +85,7 @@ h3 {
 }
 
 .section-title {
-  font-family: 'Libertinus Serif', sans-serif;
+	font-family: libertinus-serif;
 	font-size: 1.1em;
     font-weight: bold;
 	text-align: center;
@@ -94,26 +96,24 @@ h3 {
 
 .pali-subtitle {
     text-align: center;
-  font-family: 'Libertinus Serif', sans-serif;
-
+	font-family: libertinus-serifx;
 }
 
 .pali-leader {
-  font-family: 'Libertinus Serif', sans-serif;
-
+	font-family: libertinus-serif;
   	font-size: 1.1em;
     text-align: center;
 }
 
 .english-leader {
-  font-family: 'Libertinus Serif', sans-serif;
+  font-family: libertinus-serif;
+	font-style: italic;
 	font-size: 1.1em;
     text-align: center
 }
 
 body {
-  font-family: 'Libertinus Serif', sans-serif;
-
+  font-family: libertinus-serif;
   font-size: 1.2em;
   line-height: 1.5em;
   margin-right:30px;
@@ -121,8 +121,13 @@ body {
   padding:0;
 }
 
+p {
+  font-family: libertinus-serif;
+}
+
 .pali-hang {
-display: block;
+	display: block;
+	font-family: libertinus-serif;
     page-break-after: avoid;
     page-break-inside: avoid;
   	font-size: 1.1em;
@@ -132,9 +137,10 @@ display: block;
 } 
 
 .pali-hang-first {
-display: block;
+   display: block;
     page-break-after: avoid;
     page-break-inside: avoid;
+	font-family: libertinus-serif;
   	font-size: 1.1em;
     text-indent: -8pt;
     margin: 8pt 0 0 8pt;
@@ -142,7 +148,8 @@ display: block;
 }
 
 .pali-hang-together {
-display: block;
+	font-family: libertinus-serif;
+	display: block;
     line-height: 1.5;
     page-break-after: avoid;
     page-break-inside: avoid;
@@ -153,12 +160,14 @@ display: block;
 } 
 
 blockquote {
+	font-family: libertinus-serif;
   	background: none;
   	border: none;
 	font-style: italic;
 }
 
 .english {
+	font-family: libertinus-serif;
   	font-size: 1.0em;
   	font-style: italic;
   	line-height: 1.5em;   
@@ -167,29 +176,31 @@ blockquote {
 }
 
 .english-hang {
+	font-family: libertinus-serif;
 	display: block;
   	font-size: 1.0em;
     font-style: italic;
     line-height: 1.5;
     page-break-inside: avoid;
     text-indent: -8pt;
-    margin: 8pt 0 0 20pt;
-    padding: 0
-
+    margin: 8pt 0 0 24pt;
+    padding: 0;
 }
 
 .english-hang-together {
+	font-family: libertinus-serif;
   	display: block;
   	font-size: 1.0em;
     font-style: italic;
     line-height: 1.5;
     page-break-inside: avoid;
     text-indent: -8pt;
-    margin: 0 0 0 20pt;
+    margin: 0 0 0 24pt;
     padding: 0
 }
 
 .pali-leader {
+	font-family: libertinus-serif;
 	text-align: center;
   	font-size: 1.1em;	
 	padding: 0px;
@@ -198,6 +209,7 @@ blockquote {
 }
 
 .english-leader {
+	font-family: libertinus-serif;
 	text-align: center;
   	font-size: 1.0em;
 	font-style: italic;
@@ -208,9 +220,10 @@ blockquote {
 }
 
 .breathmark {
-  font-size: 1.25em;
-  font-weight :1000;
-  line-height: 0.1em;
+	font-family: libertinus-serif;
+  	font-size: 1.25em;
+  	font-weight :1000;
+ 	line-height: 0.1em;
 	margin: 0px;
 	padding: 0px;
 }
@@ -229,7 +242,7 @@ text-decoration: none;
 .schedule {
 	font-size:1.25em; 
 	font-size:1.25em; 
-	font-family:libertinus-serifx-normal; 
+	font-family: libertinus-serif; 
 	font-style: normal; 
 	font-variant: small-caps;
 	text-align: center;
@@ -251,8 +264,9 @@ q::after {
 }
 
 sup {
-font-size: 0.65em;
-line-height: 0.1em;
+	font-family: libertinus-serif;
+	font-size: 0.65em;
+	line-height: 0.1em;
 }
 
 li {
@@ -266,9 +280,8 @@ ol {
 
 hr {
 	width: 80%;
- 	border: 2px solid white;
+ 	border: 2px solid;
   	border-radius: 100px;
-	padding-top: 2px;
 	margin-top: 20px;
 }
 
@@ -279,31 +292,45 @@ hr {
 }
 
 @font-face {
-font-family: "libertinus-serifx-bold";
+font-family: libertinus-serif;
+font-style: normal;
+font-weight: normal;
+src: url('../Fonts/LibertinusSerif-Regular.otf') format('opentype');
+}
+
+@font-face {
+font-family: libertinus-serif;
+font-style: italic;
+font-weight: normal;
+src: url('../Fonts/LibertinusSerif-Italic.otf') format('opentype');
+}
+
+@font-face {
+font-family: libertinus-serif;
+font-style: normal;
+font-weight: bold;
+src: url('../Fonts/LibertinusSerif-Bold.otf') format('opentype');
+}
+
+@font-face {
+font-family: libertinus-serif;
+font-style: italic;
+font-weight: bold;
+src: url('../Fonts/LibertinusSerif-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+font-family: libertinus-serifx;
+font-weight: normal;
+font-style: normal;
+src: url(../Fonts/LibertinusSerifX-Regular.ttf) format('truetype');
+}
+
+@font-face {
+font-family: libertinus-serifx;
 font-weight: bold;
 font-style: normal;
-src: url(../Fonts/LibertinusSerifX-Bold.ttf);
-}
-
-@font-face {
-font-family: "libertinus-serifx-normal";
-font-weight: normal;
-font-style: normal;
-src: url(../Fonts/LibertinusSerifX-Regular.ttf);
-}
-
-@font-face {
-font-family: "libertinus-serif-bold";
-font-weight: normal;
-font-style: normal;
-src: url(../Fonts/LibertinusSerif-Bold.otf);
-}
-
-@font-face {
-font-family: "libertinus-serif-normal";
-font-weight: normal;
-font-style: normal;
-src: url(../Fonts/LibertinusSerif-Regular.otf);
+src: url(../Fonts/LibertinusSerifX-Bold.ttf) format('truetype');
 }
 
 @font-face {
