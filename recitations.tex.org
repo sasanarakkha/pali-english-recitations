@@ -3798,7 +3798,7 @@ Ariyo aṭṭh'aṅgiko maggo
 \label{seven-factors-of-awakening}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ satta-sambojjh'aṅga-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ satta-sambojjh'aṅgā-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Satt'ime bhikkhave bojjh'aṅgā bhāvitā bahulīkatā
