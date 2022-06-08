@@ -25,18 +25,17 @@ Linux: =/home/<your-username>/texmf/tex=
 Windows: =C:\Users\<your-username>\texmf\tex=
 
 * =make= Commands
-- =make pdf= tangles =recitations.tex.org= to the respective tex files, builds the pdf, then renames and places the pdf in =build/=. =make pdf2x= does the same just twice over to ensure the hyperlinks are set properly.
-- =make pdfrequirements= downloads the tabularray and ninecolors packages and sets them in =$TEXMFHOME/tex=.
-- =make epub= build epub format; placed in =build/=
-- =make mobi= build mobi format with KindleGen; placed in =build/=
-- =make azw3= build azw3 format with Calibre; placed in =build/=
-- =make validate=
+- =make pdf=: Tangles =recitations.tex.org= to the respective TeX files, builds the PDF, then renames and places the PDF in =build/= . =make pdf2x= does the same just twice over to ensure the hyperlinks are properly set.
+- =make pdfrequirements=: Downloads the tabularray and ninecolors packages and places them in =$TEXMFHOME/tex=.
+- =make epub=: Builds EPUB format; placed in =build/=.
+- =make mobi=: Builds MOBI format with KindleGen; placed in =build/=.
+- =make azw3=: Builds AZW3 format with Calibre; placed in =build/=.
+- =make validate=: Builds the EPUB and then checks for errors with epubcheck.
 - =make optimize=
-- =make view=
-- =make edit=
-- =make sigiledit=
-- =make clean=
-- =make current=
-- =make extractcurrent=
-- =make watchcurrent=
-- =make release=
+- =make view=: Opens current.recitations.epub with Calibre's ebook viewer.
+- =make editwatchcurrent=: Opens current.recitations.epub with Sigil and watches for any errors. Error messages will be shown while editing and epubcheck check is ran after saving.
+- =make clean=: Removes all built documents.
+- =make current=: Convert HTML hierarchy into EPUB document.
+- =make extractcurrent=: Extracts EPUB and converts to HTML hierarchy.
+- =make watchcurrent=: Watches current.recitations.epub for edits and changes.
+- =make release=: Validates and builds all documents.

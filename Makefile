@@ -225,6 +225,7 @@ clean:
 	rm -f "$(KINDLEFILE)"
 	rm -f "$(AZW3FILE)"
 	rm -f "$(IBOOKSFILE)"
+	rm -f "./build/SBS Pāli-English Recitations.pdf"
 	@# only remove dir if it's empty:
 	@(rmdir `dirname $(EPUBFILE)`; exit 0)
 
