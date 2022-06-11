@@ -4023,7 +4023,7 @@ Ime kho bhikkhave satta bojjh'aṅgā'ti
 ** The Noble Eightfold Path
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
 
-\sectionPaliTitle{Ariy'aṭṭh'aṅgika-magga}
+\sectionPaliTitle{Ariy'āṭṭh'aṅgika-magga}
 \section{The Noble Eightfold Path}
 \label{noble-eightfold-path}
 
@@ -4566,7 +4566,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
 #+RESULTS:
 #+begin_example
-\sectionPaliTitle{Ariy'aṭṭh'aṅgika-magga}
+\sectionPaliTitle{Ariy'āṭṭh'aṅgika-magga}
 \section{The Noble Eightfold Path}
 \label{noble-eightfold-path}
 
