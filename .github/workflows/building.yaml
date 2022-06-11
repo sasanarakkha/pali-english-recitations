@@ -1,0 +1,30 @@
+---
+
+name: Build documents
+'on':
+  push:
+    branches:
+      - main
+env: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: bergentroll/pali-english-recitations-builder:latest
+    steps:
+      - name: Actions checkout
+        uses: actions/checkout@v3
+      - name: Build PDF
+        run: make pdf2x
+      - name: Build EPUB
+        run: make epub
+      - name: Build AZW3
+        run: make azw3
+      - name: Upload Release Asset
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            'build/*.azw3'
+            'build/*.epub'
+            'build/*.pdf'
+          fail_on_unmatched_files: true
