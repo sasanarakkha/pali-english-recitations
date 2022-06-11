@@ -5,7 +5,6 @@ name: Build documents
   push:
     branches:
       - main
-env: {}
 
 jobs:
   build:
@@ -20,11 +19,24 @@ jobs:
         run: make epub
       - name: Build AZW3
         run: make azw3
-      - name: Upload Release Asset
+      - name: Delete backslash from filenames
+        run: |
+          for i in build/*\\*; do
+            mv "$i" "$(echo "$i" | sed 's/\\//g')"
+          done
+      - name: Generate release tag
+        id: tag
+        run: |
+          echo "::set-output name=release_tag::build_$(date +'%d.%m.%Y_%H-%M' --utc)"
+          echo "::set-output name=release_name::Build $(date +'%d.%m.%Y %H:%M' --utc) UTC"
+      - name: Upload release assets
         uses: softprops/action-gh-release@v1
         with:
+          tag_name: ${{ steps.tag.outputs.release_tag }}
+          name: ${{ steps.tag.outputs.release_name }}
+          body: Automatically built documents
           files: |
-            'build/*.azw3'
-            'build/*.epub'
-            'build/*.pdf'
+            build/*.azw3
+            build/*.epub
+            build/*.pdf
           fail_on_unmatched_files: true
