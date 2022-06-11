@@ -25,9 +25,5 @@ The `-v` key for verbose output.
 
 ## TODO list
 
-- Action to build pdf (`make pdf2x`)
-- Action to build azw3
-- Action to build epub
-- Fix epub metadata validation erro
-- Action to upload release
+- Fix epub metadata validation error
 - Use local `epubcheck` if already in `$PATH`
