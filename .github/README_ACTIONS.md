@@ -1,3 +1,6 @@
+[![Build
+documents](https://github.com/bergentroll/pali-english-recitations/actions/workflows/building.yaml/badge.svg)](https://github.com/bergentroll/pali-english-recitations/actions/workflows/building.yaml)
+
 # GitHub Actions for the Pāli-English Recitations
 
 ## Description
