@@ -30,13 +30,11 @@ jobs:
           echo "::set-output name=release_tag::build_$(date +'%d.%m.%Y_%H-%M' --utc)"
           echo "::set-output name=release_name::Build $(date +'%d.%m.%Y %H:%M' --utc) UTC"
       - name: Upload release assets
-        uses: softprops/action-gh-release@v1
+        uses: ncipollo/release-action@v1
         with:
-          tag_name: ${{ steps.tag.outputs.release_tag }}
+          tag: ${{ steps.tag.outputs.release_tag }}
           name: ${{ steps.tag.outputs.release_name }}
           body: Automatically built documents
-          files: |
-            build/*.azw3
-            build/*.epub
-            build/*.pdf
-          fail_on_unmatched_files: true
+          artifacts: "build/*.azw3,build/*.epub,build/*.pdf"
+          removeArtifacts: true
+          artifactErrorsFailBuild: true
