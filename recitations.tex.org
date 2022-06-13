@@ -837,7 +837,7 @@ Sāmīcipaṭipanno bhagavato sāvakasaṅgho
 
 \end{english}
 
-Yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā
+Yad'idaṁ cattāri purisayugāni aṭṭha purisapuggalā
 
 \begin{english}
   That is the four pairs the eight kinds of Noble Beings
@@ -906,7 +906,7 @@ Anuttaraṁ puññakkhettaṁ lokassa
   \anglebracketleft\ \hspace{-0.5mm}Now let us recite our salutation to the Triple Gem and a passage to arouse urgency \hspace{-0.5mm}\anglebracketright\
 \end{leader-english-belowpali}
 
-Buddho susuddho karuṇā-mahaṇṇavo
+Buddho susuddho karuṇā-mah'aṇṇavo
 
 \begin{english}
   The Buddha absolutely pure with ocean-like compassion
@@ -1269,7 +1269,7 @@ Sokehi paridevehi dukkhehi domanassehi upāyāsehi
         \hypertarget{endnote26-appendix}{\hyperlink{endnote26-body}{In Pāli, these terms are in plural form, however, for the sake recitation they are kept singular.}}}}}\makeatother
 \end{english}
 
-Dukkhotiṇṇā dukkha-paretā
+Dukkh'otiṇṇā dukkha-paretā
 
 \linkdest{endnote27-body}
 \begin{english}
@@ -3506,7 +3506,7 @@ N'atthi-dāni punabbhavo'ti
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ anupubba-sikkha-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ``sambādho ghar'āvāso rajopatho abbhokāso pabbajjā. Na'y'idaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yan'nūn'āhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.''
+Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ``sambādho ghar'āvāso rajopatho abbhokāso pabbajjā. Na'y'idaṁ sukaraṁ agāraṁ ajjhāvasatā ek'antaparipuṇṇaṁ ek'antaparisuddhaṁ sankhalikhitaṁ brahmacariyaṁ carituṁ. Yan'nūn'āhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan'ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati.''
 
 \suttaRef{[MN 27 / 38 / 51]}
 
@@ -3516,11 +3516,11 @@ Sakkā imasmim'pi dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipad
 
 \suttaRef{[MN 107]}
 
-So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno pāṇ'ātipātaṁ pahāya pāṇ'ātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya Adinn'ādānā paṭivirato hoti, dinn'ādāyī dinnapāṭikaṅkhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
+So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno pāṇ'ātipātaṁ pahāya pāṇ'ātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī day'āpanno sabbapāṇabhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya Adinn'ādānā paṭivirato hoti, dinn'ādāyī dinnapāṭikaṅkhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
 
 Musāvādaṁ pahāya musāvādā paṭivirato hoti, saccavādī saccasandho theto paccayiko avisaṁvādako lokassa. Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya—iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā hoti. Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā n'elā kaṇṇasukhā pemanīyā hadayaṅ'gamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā hoti. Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti, kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ.
 
-So bījagāma-bhūtagāma-samārambhā paṭivirato hoti, ekabhattiko hoti ratt'ūparato virato vikālabhojanā, nacca-gīta-vādita-visūka-dassanā paṭivirato hoti, mālā­-gandha-vilepana­-dhāraṇa­-maṇḍana­-vibhūsana'ṭṭhānā paṭivirato hoti, uccāsayana-mahāsayanā paṭivirato hoti, jātarūparajata-paṭiggahaṇā paṭivirato hoti, āmaka-dhañña-paṭiggahaṇā paṭivirato hoti, āmaka-maṁsa-paṭiggahaṇā paṭivirato hoti, itthi-kumārika-paṭiggahaṇā paṭivirato hoti, dāsidāsa-paṭiggahaṇā paṭivirato hoti, aj'eḷaka-paṭiggahaṇā paṭivirato hoti, kukkuṭa-sūkara-paṭiggahaṇā paṭivirato hoti, h'atthi-gavassa-vaḷava-paṭiggahaṇā paṭivirato hoti, khetta-vatthu-paṭiggahaṇā paṭivirato hoti. dūteyya-pahiṇa-gaman'ānuyogā paṭivirato hoti, kayavikkayā paṭivirato hoti, tulākūṭa-kaṁsakūṭa-mānakūṭā paṭivirato hoti, ukkoṭana-vañcana-nikati-sāciyogā paṭivirato hoti, chedana-­vadha-bandhana­-viparāmosa-ālopa-sahasākārā paṭivirato hoti.
+So bījagāma-bhūtagāma-samārambhā paṭivirato hoti, ekabhattiko hoti ratt'ūparato virato vikālabhojanā, nacca-gīta-vādita-visūka-dassanā paṭivirato hoti, mālā­-gandha-vilepana­-dhāraṇa­-maṇḍana­-vibhūsana'ṭṭhānā paṭivirato hoti, uccāsayana-mahāsayanā paṭivirato hoti, jātarūparajata-paṭiggahaṇā paṭivirato hoti, āmaka-dhañña-paṭiggahaṇā paṭivirato hoti, āmaka-maṁsa-paṭiggahaṇā paṭivirato hoti, itthi-kumārika-paṭiggahaṇā paṭivirato hoti, dāsidāsa-paṭiggahaṇā paṭivirato hoti, aj'eḷaka-paṭiggahaṇā paṭivirato hoti, kukkuṭa-sūkara-paṭiggahaṇā paṭivirato hoti, hatthi-gav'assa-vaḷava-paṭiggahaṇā paṭivirato hoti, khetta-vatthu-paṭiggahaṇā paṭivirato hoti. dūteyya-pahiṇa-gaman'ānuyogā paṭivirato hoti, kayavikkayā paṭivirato hoti, tulākūṭa-kaṁsakūṭa-mānakūṭā paṭivirato hoti, ukkoṭana-vañcana-nikati-sāciyogā paṭivirato hoti, chedana-­vadha-bandhana­-viparāmosa-ālopa-sahasākārā paṭivirato hoti.
 
 So santuṭṭho hoti kāyaparihārikena cīvarena kucchi-parihārikena piṇḍapātena. So yena yen'eva pakkamati samādāy'eva pakkamati. Seyyathā'pi nāma pakkhī sakuṇo yena yen'eva ḍeti sapattabhāro'va ḍeti, evam'eva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yen'eva pakkamati samādāy'eva pakkamati. So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti.
 
