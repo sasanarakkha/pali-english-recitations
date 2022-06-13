@@ -1278,7 +1278,7 @@ Dukkhotiṇṇā dukkha-paretā
 \end{english}
 
 \begin{pali-hang}
-  Appeva nāmimassa kevalassa dukkha-kkhandhassa antakiriyā paññāyethā'ti
+  App'evanām'imassa kevalassa dukkha-kkhandhassa antakiriyā paññāyethā'ti
 \end{pali-hang}
 
 \begin{english}
