@@ -1992,7 +1992,7 @@ Etaṁ buddhāna sāsanaṁ
 \begin{verses}
   Rājā ca aññe ca bahū manussā\\
   Avītataṇhā maraṇaṁ upenti\\
-  Ūnāva hutvāna jahanti dehaṁ\\
+  Ūnā'va hutvāna jahanti dehaṁ\\
   Kāmehi lokamhi na h'atthi titti
 \end{verses}
 
@@ -2084,8 +2084,8 @@ Etaṁ buddhāna sāsanaṁ
 \begin{english-verses}
   The behavior of the bhikkhus\\
   These days seems different\\
-  From when the protector of the world\\
-  The best of men was still here
+  From when the Protector of the world\\
+  The Best of men was still here
 \end{english-verses}
 
 \begin{verses}
@@ -2150,7 +2150,7 @@ Etaṁ buddhāna sāsanaṁ
 
 \begin{verses}
   Tato pāsādikaṁ āsi – Gataṁ bhuttaṁ nisevitaṁ\\
-  Siniddhā teladhārāva – Ahosi iriyāpatho
+  Siniddhā teladhārā'va – Ahosi iriyāpatho
 \end{verses}
 
 \begin{english-verses}
@@ -10912,8 +10912,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{pali-leader}
 \begin{pali-hangtogether}
   Mettaṁ erāpathehi me\\
-  Chabyā-puttehi me mettaṁ\\
-  Mettaṁ kaṇhā-gotamakehi ca
+  Chabyāputtehi me mettaṁ\\
+  Mettaṁ kaṇhāgotamakehi ca
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -10925,7 +10925,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Apādakehi me mettaṁ\\
-  Mettaṁ di-pādakehi me\\
+  Mettaṁ dipādakehi me\\
   Catuppadehi me mettaṁ\\
   Mettaṁ bahuppadehi me
 \end{pali-hang-continued}
@@ -10939,7 +10939,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{pali-hang-continued}
   Mā maṁ apādako hiṁsi\\
-  Mā maṁ hiṁsi di-pādako\\
+  Mā maṁ hiṁsi dipādako\\
   Mā maṁ catuppado hiṁsi\\
   Mā maṁ hiṁsi bahuppado
 \end{pali-hang-continued}
