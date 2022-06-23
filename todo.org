@@ -1,30 +1,5 @@
 #+TITLE: Todo
 
-* TODO post patimokkha chants leader intro revision
-* TODO make thai, devanagari, sinhala, burmese versions of chanting book
-* TODO sutta refs for homage to the triple gem
-* TODO pali words uncapitalized, except for beginning of sentence
-* TODO refuges training pronunciation remove???
-* TODO -v=5 for the readme. explain the nuances of the makefile
-* TODO fix indentation issue in parittas
-* TODO kindle no justification, alignment options not available
-* TODO search project for TODO
-* DONE finish endnote 127
-CLOSED: [2022-05-26 Thu 20:57]
-* DONE readd devamittas sandhi to cardinal 1
-CLOSED: [2022-05-26 Thu 20:55]
-* DONE ensure anupubba and gradual training match up
-CLOSED: [2022-05-26 Thu 20:55]
-* DONE make hr line bolder and less wide
-CLOSED: [2022-05-26 Thu 20:39]
-* TODO fix 32 parts font size for tables
-* DONE no breathmark starting lines
-CLOSED: [2022-05-26 Thu 20:32]
-* DONE find passage that doesn't have 'byadhipi dukkho' and jumps straight to 'maranampi'
-CLOSED: [2022-05-26 Thu 20:57]
-* DONE make cardinal sutta 1 chantable, add breathmarks
-CLOSED: [2022-04-09 Sat 20:08]
-
 * TeX
 ** TODO yatha-vari-vaha title closer than subsequent titles
 ** TODO fix indentation for pali-hang and pali-hangtogether
@@ -183,12 +158,12 @@ CLOSED: [2022-05-26 Thu 21:48]
 
 ** DONE increase font size of schedule, contents
 CLOSED: [2022-05-26 Thu 22:00]
-** TODO set font family for everything
+** DONE set font family for everything
+CLOSED: [2022-06-23 Thu 19:38]
 ** DONE reduce section header spacing for purpose and benefits
 CLOSED: [2022-05-26 Thu 22:15]
 ** DONE purpose and benefits bullet points
 CLOSED: [2022-05-26 Thu 22:15]
-** TODO add english translation for post patimokkha chants
 ** DONE chapter spacing above reduce, below add
 CLOSED: [2022-05-26 Thu 22:15]
 ** DONE test breathmark margin padding at 0
