@@ -40,7 +40,7 @@ MAKECURRENT  := $(shell command -v cd ./manuscript && zip -r html.zip html && mv
 EPUBCHECK_VERSION = 4.2.6
 # https://github.com/IDPF/epubcheck/releases
 EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK_VERSION)/epubcheck-$(EPUBCHECK_VERSION).zip
-# http://www.amazon.com/gp/feature.html?docId=1000765211 -- KINDLEGEN IS NO LONGER ABLE TO BE DOWNLOADED
+# http://www.amazon.com/gp/feature.html?docId=1000765211 -- KINDLEGEN CAN NO LONGER BE DOWNLOADED DIRECTLY FROM AMAZON
 # KINDLEGEN_URL = http://kindlegen.s3.amazonaws.com/kindlegen_linux_2.6_i386_v2_9.tar.gz
 
 
