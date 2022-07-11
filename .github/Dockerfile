@@ -28,6 +28,7 @@ RUN \
     calibre \
     emacs-nox \
     epubcheck \
+    rename \
     && \
   apt-get clean && \
   rm -rf /var/lib/apt/lists/*
