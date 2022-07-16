@@ -1519,7 +1519,7 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Tasmā hi atta-kāmena – Mahattam'abhikaṅkhatā\\
-  Saddhammo garu-kātabbo – Saraṁ buddhāna sāsanaṁ
+  Saddhammo garu-kātabbo – Saraṁ buddhāna'sāsanaṁ
 \end{verses}
 
 \begin{english-verses}
@@ -1681,7 +1681,7 @@ Sacitta-pariyodapanaṁ
   To purify one's mind
 \end{english}
 
-Etaṁ buddhāna sāsanaṁ
+Etaṁ buddhāna'sāsanaṁ
 
 \begin{english}
   These are the teachings of all Buddhas
@@ -1741,7 +1741,7 @@ Adhicitte ca āyogo
   Devotion to the higher mind
 \end{english}
 
-Etaṁ buddhāna sāsanaṁ
+Etaṁ buddhāna'sāsanaṁ
 
 \begin{english}
   These are the teachings of all Buddhas
@@ -3410,7 +3410,7 @@ Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban'ti
 
 Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
 \begin{pali-hangtogether}
-  Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
+  Evaṃ ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -3442,7 +3442,7 @@ paccaññāsiṁ
 
 Yato ca kho me bhikkhave imesu catūsu ariya-saccesu
 \begin{pali-hangtogether}
-  Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
+  Evaṃ ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -3516,11 +3516,11 @@ Sakkā imasmim'pi dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipad
 
 \suttaRef{[MN 107]}
 
-So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno pāṇ'ātipātaṁ pahāya pāṇ'ātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī day'āpanno sabbapāṇabhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya Adinn'ādānā paṭivirato hoti, dinn'ādāyī dinnapāṭikaṅkhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
+So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīva-samāpanno pāṇ'ātipātaṁ pahāya pāṇ'ātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī day'āpanno sabbapāṇabhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya adinn'ādānā paṭivirato hoti, dinn'ādāyī dinnapāṭikaṅkhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
 
 Musāvādaṁ pahāya musāvādā paṭivirato hoti, saccavādī saccasandho theto paccayiko avisaṁvādako lokassa. Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya—iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā hoti. Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā n'elā kaṇṇasukhā pemanīyā hadayaṅ'gamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā hoti. Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti, kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ.
 
-So bījagāma-bhūtagāma-samārambhā paṭivirato hoti, ekabhattiko hoti ratt'ūparato virato vikālabhojanā, nacca-gīta-vādita-visūka-dassanā paṭivirato hoti, mālā­-gandha-vilepana­-dhāraṇa­-maṇḍana­-vibhūsana'ṭṭhānā paṭivirato hoti, uccāsayana-mahāsayanā paṭivirato hoti, jātarūparajata-paṭiggahaṇā paṭivirato hoti, āmaka-dhañña-paṭiggahaṇā paṭivirato hoti, āmaka-maṁsa-paṭiggahaṇā paṭivirato hoti, itthi-kumārika-paṭiggahaṇā paṭivirato hoti, dāsidāsa-paṭiggahaṇā paṭivirato hoti, aj'eḷaka-paṭiggahaṇā paṭivirato hoti, kukkuṭa-sūkara-paṭiggahaṇā paṭivirato hoti, hatthi-gav'assa-vaḷava-paṭiggahaṇā paṭivirato hoti, khetta-vatthu-paṭiggahaṇā paṭivirato hoti. dūteyya-pahiṇa-gaman'ānuyogā paṭivirato hoti, kayavikkayā paṭivirato hoti, tulākūṭa-kaṁsakūṭa-mānakūṭā paṭivirato hoti, ukkoṭana-vañcana-nikati-sāciyogā paṭivirato hoti, chedana-­vadha-bandhana­-viparāmosa-ālopa-sahasākārā paṭivirato hoti.
+So bījagāma-bhūtagāma-samārambhā paṭivirato hoti, ekabhattiko hoti ratt'ūparato virato vikālabhojanā, nacca-gīta-vādita-visūka-dassanā paṭivirato hoti, mālā­-gandha-vilepana­-dhāraṇa­-maṇḍana­-vibhūsana-ṭṭhānā paṭivirato hoti, uccāsayana-mahāsayanā paṭivirato hoti, jātarūparajata-paṭiggahaṇā paṭivirato hoti, āmaka-dhañña-paṭiggahaṇā paṭivirato hoti, āmaka-maṁsa-paṭiggahaṇā paṭivirato hoti, itthi-kumārika-paṭiggahaṇā paṭivirato hoti, dāsidāsa-paṭiggahaṇā paṭivirato hoti, aj'eḷaka-paṭiggahaṇā paṭivirato hoti, kukkuṭa-sūkara-paṭiggahaṇā paṭivirato hoti, hatthi-gav'assa-vaḷava-paṭiggahaṇā paṭivirato hoti, khetta-vatthu-paṭiggahaṇā paṭivirato hoti. dūteyya-pahiṇa-gaman'ānuyogā paṭivirato hoti, kayavikkayā paṭivirato hoti, tulākūṭa-kaṁsakūṭa-mānakūṭā paṭivirato hoti, ukkoṭana-vañcana-nikati-sāciyogā paṭivirato hoti, chedana-­vadha-bandhana­-viparāmosa-ālopa-sahasākārā paṭivirato hoti.
 
 So santuṭṭho hoti kāyaparihārikena cīvarena kucchi-parihārikena piṇḍapātena. So yena yen'eva pakkamati samādāy'eva pakkamati. Seyyathā'pi nāma pakkhī sakuṇo yena yen'eva ḍeti sapattabhāro'va ḍeti, evam'eva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yen'eva pakkamati samādāy'eva pakkamati. So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti.
 
@@ -3536,7 +3536,7 @@ Tam'enaṁ tathāgato uttariṁ vineti: `ehi tvaṁ bhikkhu indriyesu guttadvār
 
 `Ehi tvaṁ bhikkhu vivittaṁ sen'āsanaṁ bhajāhi araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjan'ti.
 
-So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So abhijjhaṁ loke pahāya vigat'ābhijjhena cetasā viharati abhijjhāya cittaṁ parisodheti, byāpāda-padosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūta-hit'ānukampī byāpādapadosā cittaṁ parisodheti, thina-middhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno thinamiddhā cittaṁ parisodheti, uddhacca-kukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasanta-citto uddhaccakukkuccā cittaṁ parisodheti, vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṁkathī kusalesu dhammesu vicikicchāya cittaṁ parisodheti,.
+So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So abhijjhaṁ loke pahāya vigat'ābhijjhena cetasā viharati abhijjhāya cittaṁ parisodheti, byāpāda-padosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūta-hit'ānukampī byāpādapadosā cittaṁ parisodheti, thina-middhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno thinamiddhā cittaṁ parisodheti, uddhacca-kukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasanta-citto uddhaccakukkuccā cittaṁ parisodheti, vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṁkathī kusalesu dhammesu vicikicchāya cittaṁ parisodheti.
 
 \suttaRef{[MN 107]}
 
@@ -5114,7 +5114,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 \label{mindfulness-of-breathing}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ ānāp'ānassati-sutta-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Ānāpānassati bhikkhave bhāvitā bahulī-katā
@@ -5165,7 +5165,7 @@ Vijjā-vimuttiṁ paripūrenti
   They fulfill true knowledge and deliverance
 \end{english}
 
-Kathaṁ bhāvitā ca bhikkhave ānāpānassati kathaṁ bahulī-katā
+Kathaṁ bhāvitā ca bhikkhave ānāp'ānassati kathaṁ bahulī-katā
 
 \begin{english-hang}
   And how bhikkhus is mindfulness of breathing developed and cultivated
@@ -5447,7 +5447,7 @@ Paṭinissagg'ānupassī passasissāmī'ti sikkhati
   `I shall breathe out contemplating relinquishment'
 \end{english}
 
-Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulī-katā
+Evaṁ bhāvitā kho bhikkhave ānāp'ānassati evaṁ bahulī-katā
 
 \begin{english-hang}
   Bhikkhus that is how mindfulness of breathing is developed and cultivated
@@ -6753,7 +6753,7 @@ Abhiṇhaṁ sannipātā bhavissanti sannipātabahulā
   Assemble often and hold frequent assemblies
 \end{english}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6783,7 +6783,7 @@ Samaggā saṅghakaraṇīyāni karissanti
   And conduct the affairs of the Saṅgha in harmony
 \end{english}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6813,7 +6813,7 @@ Yathāpaññattesu sikkhāpadesu samādāya vattissanti
   But undertake and follow the training rules \breathmark\ as they have been decreed
 \end{english-hang}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6855,7 +6855,7 @@ Tesañ'ca sotabbaṁ maññissanti
   And think they should be heeded
 \end{english}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6873,7 +6873,7 @@ Uppannāya taṇhāya ponobhavikāya na vasaṁ gacchissanti
   Do not come under the control of arisen craving \breathmark\ that leads to renewed existence
 \end{english-hang}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6891,7 +6891,7 @@ Yāvakīvañ'ca bhikkhave bhikkhū
   Are intent on forest lodgings
 \end{english}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6921,7 +6921,7 @@ Paccattaññ'eva satiṁ upaṭṭhāpessanti:
   And how can well-behaved fellow monks who are here \breathmark\ dwell at ease?'
 \end{english-hang}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6941,7 +6941,7 @@ Imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti
   And the bhikkhus are seen established in them
 \end{english}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -6977,7 +6977,7 @@ Asubhasaññaṁ bhāvessanti ādīnavasaññaṁ bhāvessanti
         \hypertarget{endnote86-appendix}{\hyperlink{endnote86-body}{In \textit{Girimānandasutta} (AN 10.60) the Buddha instruced Ven. Ānanda: ``If, Ānanda, you visit the (severely sick) bhikkhu Girimānanda and speak to him about ten perceptions, it is possible that on hearing about them his affliction will immediately subside.'' Then the same seven perceptions as above are mentioned, with the addition of the following three: 8. the perception of non-delight in the entire world; 9. the perception of impermanence in all conditioned phenomena, and 10. mindfulness of breathing. \textit{Girimānandasutta} concludes: ``Then, when the Venerable Ānanda had learned these ten perceptions from the Blessed One, he went to the Venerable Girimānanda and spoke to him about them. When the Venerable Girimānanda heard about these ten perceptions, his affliction immediately subsided.''}}}}}\makeatother
 \end{english-hang}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -7009,7 +7009,7 @@ Na oramattakena vises'ādhigamena antarāvosānaṁ āpajjissanti
   Do not stop midway on account of some minor achievement of distinction
 \end{english-hang}
 
-Vuddhiy'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
+Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \begin{english}
   Only growth is to be expected for the bhikkhus \breathmark\ not decline
@@ -7646,25 +7646,25 @@ Tassa dāy'ādā bhavissanti
 \end{leader}
 
 \begin{pali-hang}
-  Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+  Mettā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 \end{pali-hang}
 
 \medskip
 
 \begin{pali-hang}
-  Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+  Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 \end{pali-hang}
 
 \medskip
 
 \begin{pali-hang}
-  Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+  Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 \end{pali-hang}
 
 \medskip
 
 \begin{pali-hang}
-  Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvan'taṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
+  Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ iti uddham'adho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharatī'ti
 \end{pali-hang}
 
 \clearpage
@@ -7807,7 +7807,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
   Kalyāṇaṁ vā pāpakaṁ vā\\
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Tassa dāyādo bhavissāmi
+  Tassa dāy'ādo bhavissāmi
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -7945,7 +7945,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Kalyāṇaṁ vā pāpakaṁ vā
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Tassa dāyādo bhavissāmī'ti
+  Tassa dāy'ādo bhavissāmī'ti
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
