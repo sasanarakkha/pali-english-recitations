@@ -1,170 +1,169 @@
 #+TITLE: Todo
 
-* TeX
-** TODO yatha-vari-vaha title closer than subsequent titles
-** TODO fix indentation for pali-hang and pali-hangtogether
-** TODO return periods in cardinal suttas
-** TODO check for endnotes that are too close to proceeding word
-** TODO check spacing of parittas
-** TODO document anecdote and local
-** TODO trim the fat: remove unneeded code, directories, and files
-** DONE consider bringing bottomnav back to bottom of page
+* Tasks
+** DONE TeX: consider bringing bottomnav back to bottom of page
 CLOSED: [2022-04-12 Tue 12:31]
-** DONE bring back commas for cardinal sutta 1 -- actually, make this sutta chantable instead
+** DONE TeX: bring back commas for cardinal sutta 1 -- actually, make this sutta chantable instead
 CLOSED: [2022-04-09 Sat 05:31]
-** DONE remove cardinal punctuation
+** DONE TeX: remove cardinal punctuation
 CLOSED: [2022-04-09 Sat 05:31]
-** DONE italicize all pali in endnotes
+** DONE TeX: italicize all pali in endnotes
 CLOSED: [2022-04-09 Sat 18:01]
-** DONE complete leader intro solution
+** DONE TeX: complete leader intro solution
 CLOSED: [2022-04-01 Fri 16:32]
-** DONE italicize all non chanted pali (?)
+** DONE TeX: italicize all non chanted pali (?)
 CLOSED: [2022-03-29 Tue 09:29]
-** DONE golden dividers would probably look better
+** DONE TeX: golden dividers would probably look better
 *CLOSED: [2022-03-22 Tue 12:52]
-** DONE 3+ lines convert to english-verses
+** DONE TeX: 3+ lines convert to english-verses
 *CLOSED: [2022-03-22 Tue 12:52]
-** DONE cardinal suttas keep like with like
+** DONE TeX: cardinal suttas keep like with like
 *CLOSED: [2022-03-22 Tue 12:51]
-** DONE abbreviations, endnotes page page # on bottom
+** DONE TeX: abbreviations, endnotes page page # on bottom
 *CLOSED: [2022-03-08 Tue 13:41]
-** DONE no page # on top of purpose, schedule,  intro page
+** DONE TeX: no page # on top of purpose, schedule,  intro page
 *CLOSED: [2022-03-08 Tue 13:41]
-** DONE reduce size of bottomnav so that it fits (?)
+** DONE TeX: reduce size of bottomnav so that it fits (?)
 *CLOSED: [2022-03-04 Fri 17:26]
-** DONE digital conditional
+** DONE TeX: digital conditional
 *CLOSED: [2022-02-23 Wed 09:59]
 *- in main.tex comment out 'desktopVersion'
 *- wrap \ifdesktopVersion \else around whatever needs to be removed for print
-** DONE keep orphan with previous text, use mbox?
+** DONE TeX: keep orphan with previous text, use mbox?
 *CLOSED: [2022-03-03 Thu 19:50]
-** DONE anumodana, paritta, and funeral sections don't need page break before next title
+** DONE TeX: anumodana, paritta, and funeral sections don't need page break before next title
 *LOSED: [2022-02-13 Sun 18:36]
-** DONE change spacing in ToC to match original
+** DONE TeX: change spacing in ToC to match original
 *CLOSED: [2022-02-13 Sun 18:36]
-** DONE even though numbering removed, chapter page still has "0."
+** DONE TeX: even though numbering removed, chapter page still has "0."
 *CLOSED: [2022-02-13 Sun 18:36]
-** DONE ask Bhante about headers
+** DONE TeX: ask Bhante about headers
 *CLOSED: [2022-02-23 Wed 09:59]
-** DONE ToC - Schedule -- Set : Make remove clear page from this section
+** DONE TeX: ToC - Schedule -- Set : Make remove clear page from this section
 *CLOSED: [2022-02-13 Sun 18:36]
-** DONE remove blank pages from digital pdf
+** DONE TeX: remove blank pages from digital pdf
 *CLOSED: [2022-02-23 Wed 09:59]
 *- I don't find this necessary unless there is clearly too many pages in one place
 *- will try to have them removed
-** DONE remove '0.' in front of chapters
+** DONE TeX: remove '0.' in front of chapters
 *CLOSED: [2022-02-13 Sun 18:37]
-** DONE remove unused styles
+** DONE TeX: remove unused styles
 *CLOSED: [2022-02-13 Sun 18:37]
-** DONE remove Set 1...10 from actual ToC but not links
+** DONE TeX: remove Set 1...10 from actual ToC but not links
 *CLOSED: [2022-02-13 Sun 18:37]
-** DONE how to add parameters to "desktopVersion" to toggle on/off certain features
+** DONE TeX: how to add parameters to "desktopVersion" to toggle on/off certain features
 *CLOSED: [2022-02-13 Sun 18:38]
-** DONE ToC needs change in vertical spacing and indentation
+** DONE TeX: ToC needs change in vertical spacing and indentation
 *CLOSED: [2022-02-13 Sun 18:38]
-** DONE G - bottom margin is quite small -- something changed
+** DONE TeX: G - bottom margin is quite small -- something changed
 *CLOSED: [2022-02-20 Sun 08:19]
-** DONE G - unreferenced build error results from \pdfbookmark in schedule
+** DONE TeX: G - unreferenced build error results from \pdfbookmark in schedule
 *CLOSED: [2022-02-23 Wed 10:00]
-** DONE is 'pali-english recitations' section needed?
+** DONE TeX: is 'pali-english recitations' section needed?
 *CLOSED: [2022-02-13 Sun 18:38]
-** DONE desktopverison conditionals
+** DONE TeX: desktopverison conditionals
 *CLOSED: [2022-02-23 Wed 10:00]
-** DONE G - chapter pdf bookmarks go to 'CHAPTER' page instead of Cover page
+** DONE TeX: G - chapter pdf bookmarks go to 'CHAPTER' page instead of Cover page
 *CLOSED: [2022-02-20 Sun 08:47]
-** DONE made ToC chapter headers larger
+** DONE TeX: made ToC chapter headers larger
 *CLOSED: [2022-02-25 Fri 09:59]
-** DONE make ToC chapter number larger
+** DONE TeX: make ToC chapter number larger
 *CLOSED: [2022-03-03 Thu 15:00]
-** DONE make sure ToC page numbers are correct size
+** DONE TeX: make sure ToC page numbers are correct size
 *CLOSED: [2022-02-25 Fri 10:00]
-** DONE G - two empty pages after abbreviations
+** DONE TeX: G - two empty pages after abbreviations
 *CLOSED: [2022-02-25 Fri 10:00]
 *- https://github.com/profound-labs/prophecy-template/blob/master/anecdote.cls
-** DONE more space between pali-english leader intros
+** DONE TeX: more space between pali-english leader intros
 *CLOSED: [2022-02-23 Wed 10:01]
-** DONE increase header body spacing for parittas
+** DONE TeX: increase header body spacing for parittas
 *CLOSED: [2022-02-23 Wed 10:01]
-** DONE see headers that have extend to second line, they get too close to subtitle
+** DONE TeX: see headers that have extend to second line, they get too close to subtitle
 *CLOSED: [2022-02-25 Fri 10:00]
-** DONE diffpdf
+** DONE TeX: diffpdf
 *CLOSED: [2022-03-03 Thu 19:50]
-** DONE ensure english styles are flush with left margin
+** DONE TeX: ensure english styles are flush with left margin
 *CLOSED: [2022-03-03 Thu 15:00]
-** DONE will have to renumber endnotes, off by 1
+** DONE TeX: will have to renumber endnotes, off by 1
 *CLOSED: [2022-02-25 Fri 22:51]
-** DONE no page number for appendix in ToC, sections in appendix not showing "Appendix" in header
+** DONE TeX: no page number for appendix in ToC, sections in appendix not showing "Appendix" in header
 *CLOSED: [2022-02-25 Fri 10:01]
-** DONE replace leader [] with angled brackets
+** DONE TeX: replace leader [] with angled brackets
 *CLOSED: [2022-02-25 Fri 22:51]
-** DONE no breathmarks start a new line
+** DONE TeX: no breathmarks start a new line
 *CLOSED: [2022-02-28 Mon 18:37]
-** DONE regular ṭ ṇ need small caps
+** DONE TeX: regular ṭ ṇ need small caps
 *CLOSED: [2022-03-01 Tue 21:28]
-** DONE double check twoside setting for nondesktopversion, alterations to margins may have disturbed this
+** DONE TeX: double check twoside setting for nondesktopversion, alterations to margins may have disturbed this
 *CLOSED: [2022-02-25 Fri 22:51]
-** DONE check angle bracket
+** DONE TeX: check angle bracket
 *CLOSED: [2022-02-28 Mon 18:37]
-** DONE center bottomNav
+** DONE TeX: center bottomNav
 *CLOSED: [2022-03-01 Tue 16:01]
-** DONE fix breathmarks in full stting in motion
+** DONE TeX: fix breathmarks in full stting in motion
 *CLOSED: [2022-03-01 Tue 21:28]
-** DONE remake table so that it scales better
+** DONE TeX: remake table so that it scales better
 *CLOSED: [2022-03-03 Thu 15:00]
-** DONE cardinal suttas bottomNav not at lowest point
+** DONE TeX: cardinal suttas bottomNav not at lowest point
 *CLOSED: [2022-03-03 Thu 19:49]
-** DONE ensure empty pages for print version
+** DONE TeX: ensure empty pages for print version
 *CLOSED: [2022-03-03 Thu 15:30]
-** DONE hyperlink chants in intro
+** DONE TeX: hyperlink chants in intro
 *CLOSED: [2022-03-03 Thu 18:30]
-** DONE reduce spacing before eng verses
+** DONE TeX: reduce spacing before eng verses
 *CLOSED: [2022-03-03 Thu 18:30]
-** DONE exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page
+** DONE TeX: exhortation, fire sermon, final instruction, ten subjects, 32 parts bottomNav not on same page
 CLOSED: [2022-03-03 Thu 19:52]
-
-* HTML
-** DONE cover page headers can be removed from document but seen in ToC if moved from <body></body> to <head></head> -- unfortunately Sigil automatically corrects this to be in the <body>
+** DONE HTML: cover page headers can be removed from document but seen in ToC if moved from <body></body> to <head></head> -- unfortunately Sigil automatically corrects this to be in the <body>
 - simpler fix was to make a style for hidden <h1> and remove margin so its as if no text is there.
 CLOSED: [2022-05-08 Sun 22:08]
-** DONE make text large like a header not a header.
+** DONE HTML: make text large like a header not a header.
 CLOSED: [2022-05-08 Sun 22:08]
-** DONE line breaks before headers are good but not in the schedule. perhaps make a seperate header for when no line breaks are needed.
+** DONE HTML: line breaks before headers are good but not in the schedule. perhaps make a seperate header for when no line breaks are needed.
 CLOSED: [2022-05-13 Fri 20:17]
-** DONE fix bottom nav
+** DONE HTML: fix bottom nav
 CLOSED: [2022-05-25 Wed 14:29]
-** DONE global settings for hyperlinks for underlining
+** DONE HTML: global settings for hyperlinks for underlining
 CLOSED: [2022-05-15 Sun 10:57]
-** DONE change blockquote indentation
+** DONE HTML: change blockquote indentation
 CLOSED: [2022-05-25 Wed 14:29]
-** DONE lower height of line item
+** DONE HTML: lower height of line item
 CLOSED: [2022-05-15 Sun 10:57]
-** DONE sigil, auto change to fancy quotes
+** DONE HTML: sigil, auto change to fancy quotes
 CLOSED: [2022-05-26 Thu 21:26]
 - also not worth it
-** DONE 'Now bhikkhus I declare to you' pali missing
+** DONE HTML: 'Now bhikkhus I declare to you' pali missing
 CLOSED: [2022-05-25 Wed 14:28]
-** DONE make custom header for parittas
+** DONE HTML: make custom header for parittas
 CLOSED: [2022-05-25 Wed 14:29]
-** DONE include sed change date to make epub command
+** DONE HTML: include sed change date to make epub command
 CLOSED: [2022-05-26 Thu 21:26]
 - not worth it
-** DONE make in-chant leader intro style
+** DONE HTML: make in-chant leader intro style
 CLOSED: [2022-05-25 Wed 12:43]
-** DONE finish hang formatting
+** DONE HTML: finish hang formatting
 CLOSED: [2022-05-24 Tue 22:14]
-** TODO reduce space between leader intro and first line, create style
-** DONE italicize pali words
+** DONE HTML: italicize pali words
 CLOSED: [2022-05-26 Thu 21:48]
 
-** DONE increase font size of schedule, contents
+** DONE HTML: increase font size of schedule, contents
 CLOSED: [2022-05-26 Thu 22:00]
-** DONE set font family for everything
+** DONE HTML: set font family for everything
 CLOSED: [2022-06-23 Thu 19:38]
-** DONE reduce section header spacing for purpose and benefits
+** DONE HTML: reduce section header spacing for purpose and benefits
 CLOSED: [2022-05-26 Thu 22:15]
-** DONE purpose and benefits bullet points
+** DONE HTML: purpose and benefits bullet points
 CLOSED: [2022-05-26 Thu 22:15]
-** DONE chapter spacing above reduce, below add
+** DONE HTML: chapter spacing above reduce, below add
 CLOSED: [2022-05-26 Thu 22:15]
-** DONE test breathmark margin padding at 0
+** DONE HTML: test breathmark margin padding at 0
 CLOSED: [2022-05-26 Thu 22:16]
+** TODO TeX: yatha-vari-vaha title closer than subsequent titles
+** TODO TeX: fix indentation for pali-hang and pali-hangtogether
+** TODO TeX: return periods in cardinal suttas
+** TODO TeX: check for endnotes that are too close to proceeding word
+** TODO TeX: check spacing of parittas
+** TODO TeX: document anecdote and local
+** TODO TeX: trim the fat: remove unneeded code, directories, and files
+** TODO HTML: reduce space between leader intro and first line, create style
+** TODO Add footnote for 'right livelihood' that defines the meaning

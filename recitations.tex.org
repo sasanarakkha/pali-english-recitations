@@ -4431,7 +4431,7 @@ Idha bhikkhave bhikkhu
 
 \linkdest{endnote64-body}
 Vivicc'eva\makeatletter\hyperlink{endnote64-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote64-appendix}{\hyperlink{endnote64-body}{``Quite secluded from sense pleasures'' means being completely and entirely secluded; not just somewhat/moderately secluded. The Pāli term `\textit{eva}', which has been translated as `quite' is an emphatic particle, intensifying the adjective it qualifies. Acc. to Oxford English Dictionary, the English term `quite'has two connotations: 1. to the utmost or most absolute extent or degree; absolutely; completely; 2. To a certain or fairly significant extent or degree; fairly. It is the first connotation in which `quite'is used in the phrase ``quite secluded from sense pleasures''.}}}}}\makeatother
+      \hypertarget{endnote64-appendix}{\hyperlink{endnote64-body}{``Quite secluded from sense pleasures'' means being completely and entirely secluded; not just somewhat/moderately secluded. The Pāli term `\textit{eva}', which has been translated as `quite' is an emphatic particle, intensifying the adjective it qualifies. Acc. to Oxford English Dictionary, the English term `quite'has two connotations: 1. to the utmost or most absolute extent or degree; absolutely; completely; 2. To a certain or fairly significant extent or degree; fairly. It is the first connotation in which `quite'is used in the phrase ``quite secluded from sense pleasures''.}}}}}\makeatother\thinspace
 kāmehi
 
 \begin{english}
@@ -6127,7 +6127,7 @@ Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 \end{leader}
 
 \begin{pali-hang}
-  Mahāpajāpatī Gotamī yena bhagavā ten'upasaṅkami \breathmark\ upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etad'avoca:
+  Mahāpajāpatī gotamī yena bhagavā ten'upasaṅkami \breathmark\ upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṁ etad'avoca:
 \end{pali-hang}
 
 \begin{english-hang}
@@ -6774,7 +6774,7 @@ Samaggā sannipatissanti
 Samaggā vuṭṭhahissanti
 
 \begin{english}
-  Adjorn in harmony
+  Adjourn in harmony
 \end{english}
 
 Samaggā saṅghakaraṇīyāni karissanti
@@ -8326,7 +8326,7 @@ Tesaṁ vūpasamo sukho
 \end{leader}
 
 \begin{pali-hang}
-  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye \breathmark\ Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
+  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye.  Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8362,7 +8362,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-   Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādānakkhandā dukkhā
+   Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādānakkhandhā dukkhā
 \end{pali-hang}
 
 \begin{pali-hang}
