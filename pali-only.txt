@@ -47,7 +47,7 @@ clearpage
    Arahaṁ anglebracketright
 
 
-vspace-0.5cm
+ 
 
 Sammāsambuddho bhagavā
 
@@ -61,7 +61,7 @@ Buddhaṁ bhagavantaṁ abhivādemirelax
    Svākkhāto anglebracketright
 
 
-vspace-0.5cm
+ 
 
 Bhagavatā dhammo
 
@@ -75,7 +75,7 @@ Dhammaṁ namassāmirelax
    Supaṭipanno anglebracketright
 
 
-vspace-0.5cm
+ 
 
 Bhagavato sāvakasaṅgho
 
@@ -102,11 +102,11 @@ Preliminary Homage
 
 
 
-Namo tassa bhagavato arahato sammāsambuddhassa hfill3x
+Namo tassa bhagavato arahato sammāsambuddhassa  
 
 
 
-DN 21
+ 
 
 
 
@@ -469,7 +469,7 @@ Viññāṇ'ūpādānakkhandho
 17-
 
 
-DN 22
+ 
 
 Yesaṁ pariññāya
 
@@ -623,7 +623,7 @@ vspace5pt
    Arahaṁ anglebracketright
 
 
-vspace-0.5cm
+ 
 
 Sammāsambuddho bhagavā
 
@@ -637,7 +637,7 @@ Buddhaṁ bhagavantaṁ abhivādemi
    Svākkhāto anglebracketright
 
 
-vspace-0.5cm
+ 
 
 Bhagavatā dhammo
 
@@ -651,7 +651,7 @@ Dhammaṁ namassāmi
    Supaṭipanno anglebracketright
 
 
-vspace-0.5cm
+ 
 
 Bhagavato sāvakasaṅgho
 
@@ -2074,7 +2074,7 @@ Ariyo aṭṭh'aṅgiko maggo
 
 
 
-DN 16
+ 
 
  
 
@@ -4474,7 +4474,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 
 
-DN 16
+ 
 
 enlargethispagebaselineskipvspace-1.0em
  
@@ -4716,7 +4716,7 @@ smallskip
 
 
 
-DN 13
+ 
 
  
 
@@ -4918,7 +4918,7 @@ centering
     nahārū          & trsinews 
     aṭṭhī           & trbones 
     aṭṭhimiñjaṁ     & trbone marrow 
-    vakkaṁ          & trkidneys 
+    vakkaṁ          & trki 
     hadayaṁ         & trheart 
     yakanaṁ         & trliver 
     kilomakaṁ       & trmembranes 
@@ -4953,7 +4953,7 @@ centering
 
 
 
-DN 22
+ 
 
 enlargethispagebaselineskipvspace-1.0em
  
@@ -5463,7 +5463,7 @@ Anatta-lakkhaṇa-sutta
 
 
    Taṁ kiṁ maññatha bhikkhave anglebracketright
-endpali-leader
+ 
 
   Rūpaṁ niccaṁ vā aniccaṁ vā'ti?
 
@@ -5561,7 +5561,7 @@ endpali-leader
 
 
    Tasmā't'iha bhikkhave anglebracketright
-endpali-leader
+ 
 
   Yaṅ'kiñci rūpaṁ atīt'ānāgata-paccuppannaṁ breathmark ajjhattaṁ vā bahiddhā vā breathmark oḷārikaṁ vā sukhumaṁ vā breathmark hīnaṁ vā paṇītaṁ vā breathmark yaṁ dūre santike vā breathmark sabbaṁ rūpaṁ: breathmark ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti breathmark evam'etaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ
 
@@ -5584,7 +5584,7 @@ endpali-leader
 
 
    Evaṁ passaṁ bhikkhave anglebracketright
-endpali-leader
+ 
 
   Sutvā ariyasāvako rūpasmim'pi nibbindati breathmark vedanāya'pi mboxnibbindati~breathmark saññāya'pi nibbindati breathmark saṅkhāresu'pi nibbindati breathmark viññāṇasmim'pi nibbindati breathmark nibbindaṁ virajjati breathmark virāgā mboxvimuccati~breathmark vimuttasmiṁ `vimuttam'iti ñāṇaṁ hoti breathmark ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
 
@@ -5739,7 +5739,7 @@ Kena ādittaṁ?
 
 
    Evaṁ passaṁ bhikkhave anglebracketright
-endpali-leader
+ 
 
   Sutvā ariyasāvako cakkhusmim'pi nibbindati breathmark rūpesu'pi nibbindati~breathmark cakkhuviññāṇe'pi nibbindati breathmark cakkhusamphasse'pi nibbindati breathmark yam'p'idaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ breathmark sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 
@@ -6028,7 +6028,7 @@ Ratanattay'ānubhāv'ādi-gāthā
 
 
    Ratanattay'ānubhāvena anglebracketright
-endpali-leader
+ 
 
   Ratanattaya-tejasā
   Dukkha-roga-bhayā verā – Sokā sattu c'upaddavā
@@ -6128,7 +6128,7 @@ Culla-maṅgala-cakka-vāḷa
 
 
    Sabba-buddh'ānubhāvena anglebracketright
-endpali-leader
+ 
 
   Sabba-dhamm'ānubhāvena
   Sabba-saṅgh'ānubhāvena
@@ -6176,7 +6176,7 @@ Aggappasāda-sutta-gāthā
 
 
    Aggato ve pasannānaṁ anglebracketright
-endpali-leader
+ 
 
   Aggaṁ dhammaṁ vijānataṁ
 
@@ -6232,7 +6232,7 @@ Kāla-dāna-sutta-gāthā
 
 
    Kāle dadanti sapaññā anglebracketright
-endpali-leader
+ 
 
   Vadaññū vīta-maccharā
 
@@ -6281,7 +6281,7 @@ So attha-laddho
 
 
    So attha-laddho sukhito anglebracketright
-endpali-leader
+ 
 
   Viruḷho buddha-sāsane
   Arogo sukhito hohi
@@ -6379,14 +6379,14 @@ Pubba-bhāga-nama-kāra-pāṭho
 
 
    Namo tassa anglebracketright
-endpali-leader
+ 
 
-Bhagavato arahato sammāsambuddhassa hfill3x
-
-
+Bhagavato arahato sammāsambuddhassa  
 
 
-DN 21
+
+
+ 
 
 
 
@@ -6398,7 +6398,7 @@ Saraṇa-gamana-pāṭho
 
 
    Buddhaṁ saraṇaṁ gacchāmi anglebracketright
-endpali-leader
+ 
 
   Dhammaṁ saraṇaṁ gacchāmi
   Saṅghaṁ saraṇaṁ gacchāmi
@@ -6406,19 +6406,19 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Dutiyam'pi buddhaṁ saraṇaṁ gacchāmi
   Dutiyam'pi dhammaṁ saraṇaṁ gacchāmi
   Dutiyam'pi saṅghaṁ saraṇaṁ gacchāmi
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Tatiyam'pi buddhaṁ saraṇaṁ gacchāmi
   Tatiyam'pi dhammaṁ saraṇaṁ gacchāmi
   Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
-endpali-hang-continued
+ 
 
 
 
@@ -6434,7 +6434,7 @@ Nama-kāra-siddhi-gāthā
 
 
    Yo cakkhumā moha-malāpakaṭṭho anglebracketright
-endpali-leader
+ 
 
   Sāmaṁ va buddho sugato vimutto
   Mārassa pāsā vinimocayanto
@@ -6447,7 +6447,7 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Dhammo dhajo yo viya tassa satthu
   Dassesi lokassa visuddhi-maggaṁ
   Niyyāniko dhamma-dharassa dhārī
@@ -6456,11 +6456,11 @@ beginpali-hang-continued
   Mohappadālaṁ upasanta-dāhaṁ
   Tan'tejasā te jaya-siddhi hotu
   Sabb'antarāyā ca vināsamentu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Saddhamma-senā sugat'ānugo yo
   Lokassa pāp'ūpakilesa-jetā
   Santo sayaṁ santi-niyojako ca
@@ -6469,7 +6469,7 @@ beginpali-hang-continued
   Buddh'ānubuddhaṁ sama-sīla-diṭṭhiṁ
   Tan'tejasā te jaya-siddhi hotu
   Sabb'antarāyā ca vināsamentu
-endpali-hang-continued
+ 
 
 
 
@@ -6485,7 +6485,7 @@ Namo-kāra-aṭṭhaka
 
 
    Namo arahato sammā- anglebracketright
-endpali-leader
+ 
 
   Sambuddhassa mah'esino
   Namo uttama-dhammassa
@@ -6494,30 +6494,30 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Namo mahā-saṅghassā'pi
   Visuddha-sīla-diṭṭhino
   Namo omāty'āraddhassa
   Ratanattayassa sādhukaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Namo omak'ātītassa
   Tassa vatthuttayassa'pi
   Namo-kārappabhāvena
   Vigacchantu upaddavā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Namo-kār'ānubhāvena
   Suvatthi hotu sabbadā
   Namo-kārassa tejena
   Vidhimhi homi tejavā
-endpali-hang-continued
+ 
 
 
 
@@ -6533,7 +6533,7 @@ Maṅgala-sutta
 
 
    Evaṁ me sutaṁ anglebracketright
-endpali-leader
+ 
 
   Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
@@ -6555,101 +6555,101 @@ endpali-leader
 
 vspace-0.99em
 
-beginpali-hang-continued
+ 
   Paṇḍitānañ'ca sevanā
   Pūjā ca pūjanīyānaṁ
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Paṭirūpa-desa-vāso ca
   Pubbe ca kata-puññatā
   Atta-sammā-paṇidhi ca
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Bāhu-saccañ'ca sippañ'ca
   Vinayo ca susikkhito
   Subhāsitā ca yā vācā
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Mātā-pitu-upaṭṭhānaṁ
   Putta-dārassa saṅgaho
   Anākulā ca kammantā
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Dānañ'ca dhamma-cariyā ca
   Ñātakānañ'ca saṅgaho
   Anavajjāni kammāni
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Āratī viratī pāpā
   Majja-pānā ca saññamo
   Appamādo ca dhammesu
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Gāravo ca nivāto ca
   Santuṭṭhī ca kataññutā
   Kālena dhammassavanaṁ
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Khantī ca sovacassatā
   Samaṇānañ'ca dassanaṁ
   Kālena dhamma-sākacchā
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Tapo ca brahmacariyañ'ca
   Ariya-saccāna-dassanaṁ
   Nibbāna-sacchikiriyā ca
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Phuṭṭhassa loka-dhammehi
   Cittaṁ yassa na kampati
   Asokaṁ virajaṁ khemaṁ
   Etaṁ maṅgalam'uttamaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Etādisāni katvāna
   Sabbattham'aparājitā
   Sabbattha sotthiṁ gacchanti
   Tan'tesaṁ maṅgalam'uttaman'ti
-endpali-hang-continued
+ 
 
 
 
@@ -6665,7 +6665,7 @@ Ratana-sutta
 
 
    Yān'īdha bhūtāni samāgatāni anglebracketright
-endpali-leader
+ 
 
   Bhummāni vā yāni va antalikkhe
   Sabb'eva bhūtā sumanā bhavantu
@@ -6674,90 +6674,90 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Tasmā hi bhūtā nisāmetha sabbe
   Mettaṁ karotha mānusiyā pajāya
   Divā ca ratto ca haranti ye baliṁ
   Tasmā hi ne rakkhatha appamattā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Yaṅ kiñci vittaṁ idha vā huraṁ vā
   Saggesu vā yaṁ ratanaṁ paṇītaṁ
   Na no samaṁ atthi tathāgatena
   Idam'pi buddhe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Khayaṁ virāgaṁ amataṁ paṇītaṁ
   Yad'ajjhagā sakya-munī samāhito
   Na tena dhammena sam'atthi kiñci
   Idam'pi dhamme ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Yam'buddha-seṭṭho parivaṇṇayī suciṁ
   Samādhim'ānantarikañ'ñam'āhu
   Samādhinā tena samo na vijjati
   Idam'pi dhamme ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ye puggalā aṭṭha sataṁ pasatthā
   Cattāri etāni yugāni honti
   Te dakkhiṇeyyā sugatassa sāvakā
   Etesu dinnāni mahapphalāni
   Idam'pi saṅghe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ye suppayuttā manasā daḷhena
   Nikkāmino gotama-sāsanamhi
   Te patti-pattā amataṁ vigayha
   Laddhā mudhā nibbutiṁ bhuñjamānā
   Idam'pi saṅghe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Yath'inda-khīlo paṭhaviṁ sito siyā
   Catubbhi vātebhi asampakampiyo
   Tath'ūpamaṁ sappurisaṁ vadāmi
   Yo ariya-saccāni avecca passati
   Idam'pi saṅghe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ye ariya-saccāni vibhāvayanti
   Gambhīra-paññena sudesitāni
   Kiñ'c'āpi te honti bhusa'ppamattā
   Na te bhavaṁ aṭṭhamam'ādiyanti
   Idam'pi saṅghe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Sahā v'assa dassana-sampadāya
   Tay'assu dhammā jahitā bhavanti
   Sakkāya-diṭṭhi vicikicchitañ'ca
@@ -6766,76 +6766,76 @@ beginpali-hang-continued
   Cha c'ābhiṭhānāni abhabbo kātuṁ
   Idam'pi saṅghe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Kiñ'c'āpi so kammaṁ karoti pāpakaṁ
   Kāyena vācā uda cetasā vā
   Abhabbo so tassa paṭicchadāya
   Abhabbatā diṭṭha-padassa vuttā
   Idam'pi saṅghe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Vanappagumbe yathā phussi't'agge
   Gimhāna-māse paṭhamasmiṁ gimhe
   Tath'ūpamaṁ dhamma-varaṁ adesayi
   Nibbāna-gāmiṁ paramaṁ hitāya
   Idam'pi buddhe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Varo varaññū vara-do var'āharo
   Anuttaro dhamma-varaṁ adesayi
   Idam'pi buddhe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Khīṇaṁ purāṇaṁ navaṁ n'atthi sambhavaṁ
   Viratta-citt'āyatike bhavasmiṁ
   Te khīṇa-bījā aviruḷhi-chandā
   Nibbanti dhīrā yathā'yam padīpo
   Idam'pi saṅghe ratanaṁ paṇītaṁ
   Etena saccena suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Yān'īdha bhūtāni samāgatāni
   Bhummāni vā yāni va antalikkhe
   Tathāgataṁ deva-manussa-pūjitaṁ
   Buddhaṁ namassāma suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Yān'īdha bhūtāni samāgatāni
   Bhummāni vā yāni va antalikkhe
   Tathāgataṁ deva-manussa-pūjitaṁ
   Dhammaṁ namassāma suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Yān'īdha bhūtāni samāgatāni
   Bhummāni vā yāni va antalikkhe
   Tathāgataṁ deva-manussa-pūjitaṁ
   Saṅghaṁ namassāma suvatthi hotu
-endpali-hang-continued
+ 
 
 
 
@@ -6851,7 +6851,7 @@ Karaṇīya-metta-sutta
 
 
    Karaṇīyam'attha-kusalena anglebracketright
-endpali-leader
+ 
 
   Yan'taṁ santaṁ padaṁ abhisamecca
   Sakko ujū ca suhujū ca
@@ -6860,84 +6860,84 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Santussako ca subharo ca
   Appakicco ca sallahuka-vutti
   Sant'indriyo ca nipako ca
   Appagabbho kulesu ananugiddho
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Na ca khuddaṁ samācare kiñci
   Yena viññū pare upavadeyyuṁ
   Sukhino vā khemino hontu
   Sabbe sattā bhavantu sukhit'attā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ye keci pāṇa-bhūt'atthi
   Tasā vā thāvarā vā anavasesā
   Dīghā vā ye mahantā vā
   Majjhimā rassakā aṇuka-thūlā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Diṭṭhā vā ye ca adiṭṭhā
   Ye ca dūre vasanti avidūre
   Bhūtā vā sambhavesī vā
   Sabbe sattā bhavantu sukhit'attā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Na paro paraṁ nikubbetha
   N'ātimaññetha katthaci naṁ kiñci
   Byārosanā paṭīgha-saññā
   N'āññam'aññassa dukkham'iccheyya
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Mātā yathā niyaṁ puttaṁ
   Āyusā eka-puttam'anurakkhe
   Evam'pi sabba-bhūtesu
   Mānasam'bhāvaye aparimāṇaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Mettañ'ca sabba-lokasmiṁ
   Mānasam'bhāvaye aparimāṇaṁ
   Uddhaṁ adho ca tiriyañ'ca
   Asambādhaṁ averaṁ asapattaṁ
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Tiṭṭhañ'caraṁ nisinno vā
   Sayāno vā yāvat'assa vigata-middho
   Etaṁ satiṁ adhiṭṭheyya
   Brahmam'etaṁ vihāraṁ idham'āhu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Diṭṭhiñ'ca anupagamma
   Sīlavā dassanena sampanno
   Kāmesu vineyya gedhaṁ
   Na hi jātu gabbha-seyyaṁ punar-etī'ti
-endpali-hang-continued
+ 
 
 
 
@@ -6953,7 +6953,7 @@ Khandha-parittaṁ
 
 
    Virūpakkhehi me mettaṁ anglebracketright
-endpali-leader
+ 
 
   Mettaṁ erāpathehi me
   Chabyāputtehi me mettaṁ
@@ -6962,30 +6962,30 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Apādakehi me mettaṁ
   Mettaṁ dipādakehi me
   Catuppadehi me mettaṁ
   Mettaṁ bahuppadehi me
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Mā maṁ apādako hiṁsi
   Mā maṁ hiṁsi dipādako
   Mā maṁ catuppado hiṁsi
   Mā maṁ hiṁsi bahuppado
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Sabbe sattā sabbe pāṇā
   Sabbe bhūtā ca kevalā
   Sabbe bhadrāni passantu
   Mā kiñci pāpam'āgamā.
-endpali-hang-continued
+ 
 
 
 
@@ -6995,22 +6995,22 @@ endleader-only
 
 vspace-1em
 
-beginpali-hang-continued
+ 
   Appamāṇo dhammo
   Appamāṇo saṅgho
   Pamāṇavantāni siriṁsapāni
   Ahi-vicchikā satapadī
   Uṇṇānābhī sarabhū mūsikā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Katā me rakkhā katā me parittā
   Paṭikkamantu bhūtāni
   So'haṁ namo bhagavato
   Namo sattannaṁ sammā-sambuddhānaṁ.
-endpali-hang-continued
+ 
 
 
 
@@ -7026,7 +7026,7 @@ Buddha-dhamma-saṅgha-guṇā
 
 
    Iti'pi so bhagavā anglebracketright
-endpali-leader
+ 
 
   Arahaṁ sammā-sambuddho
   Vijjā-caraṇa-sampanno
@@ -7038,15 +7038,15 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Svākkhāto bhagavatā dhammo
   Sandiṭṭhiko akāliko ehi-passiko
   Opanayiko paccattaṁ veditabbo viññūhī'ti
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Supaṭipanno bhagavato sāvaka-saṅgho
   Uju-paṭipanno bhagavato sāvaka-saṅgho
   Ñāya-paṭipanno bhagavato sāvaka-saṅgho
@@ -7055,7 +7055,7 @@ beginpali-hang-continued
   Esa bhagavato sāvaka-saṅgho
   Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo
   Anuttaraṁ puññakkhettaṁ lokassā'ti
-endpali-hang-continued
+ 
 
 
 
@@ -7071,7 +7071,7 @@ Yaṅ kiñci ratanaṁ loke
 
 
    Yaṅ kiñci ratanaṁ loke anglebracketright
-endpali-leader
+ 
 
   Vijjati vividhaṁ puthu
   Ratanaṁ buddha-samaṁ n'atthi
@@ -7080,25 +7080,25 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Yaṅ kiñci ratanaṁ loke
   Vijjati vividhaṁ puthu
   Ratanaṁ dhamma-samaṁ n'atthi
   Tasmā sotthī bhavantu te
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Yaṅ kiñci ratanaṁ loke
   Vijjati vividhaṁ puthu
   Ratanaṁ saṅgha-samaṁ n'atthi
   Tasmā sotthī bhavantu te
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Sakkatvā buddha-ratanaṁ
   127-
   Osadhaṁ
@@ -7107,29 +7107,29 @@ beginpali-hang-continued
   Buddha-tejena sotthinā
   Nassant'upaddavā sabbe
   Dukkhā vūpasamentu te
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Sakkatvā dhamma-ratanaṁ
   Osadhaṁ uttamaṁ varaṁ
   Pariḷāh'ūpasamanaṁ
   Dhamma-tejena sotthinā
   Nassant'upaddavā sabbe
   Bhayā vūpasamentu te
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Sakkatvā saṅgha-ratanaṁ
   Osadhaṁ uttamaṁ varaṁ
   Āhuneyyaṁ pāhuneyyaṁ
   Saṅgha-tejena sotthinā
   Nassant'upaddavā sabbe
   Rogā vūpasamentu te
-endpali-hang-continued
+ 
 
 
 
@@ -7145,7 +7145,7 @@ Bojjh'aṅga-parittaṁ
 
 
    Bojjh'aṅgo sati-saṅkhāto anglebracketright
-endpali-leader
+ 
 
   Dhammānaṁ vicayo tathā
   Viriyam'pīti-passaddhi
@@ -7162,7 +7162,7 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Ekasmiṁ samaye nātho
   Moggallānañ'ca kassapaṁ
   Gilāne dukkhite disvā
@@ -7171,11 +7171,11 @@ beginpali-hang-continued
   Rogā mucciṁsu taṅ'khaṇe
   Etena sacca-vajjena
   Sotthi te hotu sabbadā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ekadā dhamma-rājā'pi
   Gelaññen'ābhipīḷito
   Cundattherena taññ'eva
@@ -7184,18 +7184,18 @@ beginpali-hang-continued
   Tamhā vuṭṭhāsi ṭhānaso
   Etena sacca-vajjena
   Sotthi te hotu sabbadā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Pahīnā te ca ābādhā
   Tiṇṇannam'pi mah'esinaṁ
   Magg'āhata-kilesā va
   Patt'ānuppatti-dhammataṁ
   Etena sacca-vajjena
   Sotthi te hotu sabbadā
-endpali-hang-continued
+ 
 
 
 
@@ -7211,7 +7211,7 @@ Abhaya-parittaṁ
 
 
    Yan'dunnimittaṁ avamaṅgalañ'ca anglebracketright
-endpali-leader
+ 
 
   Yo c'āmanāpo sakuṇassa saddo
   Pāpaggaho dussupinaṁ akantaṁ
@@ -7220,21 +7220,21 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Yan'dunnimittaṁ avamaṅgalañ'ca
   Yo c'āmanāpo sakuṇassa saddo
   Pāpaggaho dussupinaṁ akantaṁ
   Dhamm'ānubhāvena vināsamentu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Yan'dunnimittaṁ avamaṅgalañ'ca
   Yo c'āmanāpo sakuṇassa saddo
   Pāpaggaho dussupinaṁ akantaṁ
   Saṅgh'ānubhāvena vināsamentu
-endpali-hang-continued
+ 
 
 
 
@@ -7250,7 +7250,7 @@ Devatā-uyyojana-gāthā
 
 
    Dukkhappattā ca niddukkhā anglebracketright
-endpali-leader
+ 
 
   Bhayappattā ca nibbhayā
   Sokappattā ca nissokā
@@ -7259,7 +7259,7 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Ettāvatā ca amhehi
   Sambhataṁ puñña-sampadaṁ
   128-
@@ -7267,12 +7267,12 @@ beginpali-hang-continued
 
 
 
-beginpali-hang-continued
+ 
   Dānaṁ dadantu saddhāya
   Sīlaṁ rakkhantu sabbadā
   Bhāvan'ābhiratā hontu
   Gacchantu devatā-gatā
-endpali-hang-continued
+ 
 
 
 
@@ -7282,11 +7282,11 @@ endleader-only
 
 vspace-0.99em
 
-beginpali-hang-continued
+ 
   Paccekānañ'ca yaṁ balaṁ
   Arahantānañ'ca tejena
   Rakkhaṁ bandhāmi sabbaso
-endpali-hang-continued
+ 
 
 
 
@@ -7302,7 +7302,7 @@ Jaya-maṅgala-aṭṭha-gāthā
 
 
    Bāhuṁ anglebracketright
-endpali-leader
+ 
 
   Sahassam'abhinimmita sāvudhan'taṁ
   Grīmekhalaṁ udita-ghora-sasena-māraṁ
@@ -7315,75 +7315,75 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Mār'ātirekam'abhiyujjhita-sabba-rattiṁ
   Ghoram'pan'āḷavakam'akkhama-thaddha-yakkhaṁ
   Khantī-sudanta-vidhinā jitavā mun'indo
   Tan'tejasā bhavatu te jaya-maṅgalāni
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Nāḷāgiriṁ gaja-varaṁ atimatta-bhūtaṁ
   Dāv'aggi-cakkam'asanīva sudāruṇan'taṁ
   Mett'ambu-seka-vidhinā jitavā mun'indo
   Tan'tejasā bhavatu te jaya-maṅgalāni
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ukkhitta-khaggam'atihattha-sudāruṇan'taṁ
   Dhāvan'ti-yojana-path'aṅguli-mālavantaṁ
   Iddhī'bhisaṅkhata-mano jitavā mun'indo
   Tan'tejasā bhavatu te jaya-maṅgalāni
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Katvāna kaṭṭham'udaraṁ iva gabbhinīyā
   Ciñcāya duṭṭha-vacanaṁ jana-kāya majjhe
   Santena soma-vidhinā jitavā mun'indo
   Tan'tejasā bhavatu te jaya-maṅgalāni
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Saccaṁ vihāya mati-saccaka-vāda-ketuṁ
   Vād'ābhiropita-manaṁ ati-andha-bhūtaṁ
   Paññā-padīpa-jalito jitavā mun'indo
   Tan'tejasā bhavatu te jaya-maṅgalāni
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Nandopananda-bhujagaṁ vibudhaṁ mah'iddhiṁ
   Puttena thera-bhujagena dam'āpayanto
   Iddh'ūpadesa-vidhinā jitavā mun'indo
   Tan'tejasā bhavatu te jaya-maṅgalāni
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṁ
   Brahmaṁ visuddhi-jutim'iddhi-bak'ābhidhānaṁ
   Ñāṇāgadena vidhinā jitavā mun'indo
   Tan'tejasā bhavatu te jaya-maṅgalāni
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Etā'pi buddha-jaya-maṅgala-aṭṭha-gāthā
   Yo vācano dina-dine sarate'm'atandī
   Hitvān'aneka-vividhāni c'upaddavāni
   Mokkhaṁ sukhaṁ adhigameyya naro sapañño
-endpali-hang-continued
+ 
 
 
 
@@ -7399,7 +7399,7 @@ Jaya-parittaṁ
 
 
    Mahā-kāruṇiko nātho anglebracketright
-endpali-leader
+ 
 
   Hitāya sabba-pāṇinaṁ
   Pūretvā pāramī sabbā
@@ -7410,36 +7410,36 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Jayanto bodhiyā mūle
   Sakyānaṁ nandi-vaḍḍhano
   Evaṁ tvaṁ vijayo hohi
   Jayassu jaya-maṅgale
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Aparājita-pallaṅke
   Sīse paṭhavi-pokkhare
   Abhiseke sabba-buddhānaṁ
   Aggappatto pamodati
-endpali-hang-continued
+ 
 
 
 
 MJG
 
-beginpali-hang-continued
+ 
   Sunakkhattaṁ sumaṅgalaṁ
   Supabhātaṁ suhuṭṭhitaṁ
   Sukhaṇo sumuhutto ca
   Suyiṭṭhaṁ brahmacārisu
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Padakkhiṇaṁ kāya-kammaṁ
   Vācā-kammaṁ padakkhiṇaṁ
   Padakkhiṇaṁ mano-kammaṁ
@@ -7448,7 +7448,7 @@ beginpali-hang-continued
   
   Padakkhiṇāni katvāna
   Labhant'atthe padakkhiṇe
-endpali-hang-continued
+ 
 
 
 
@@ -7464,7 +7464,7 @@ Bhavatu-sabba-maṅgalaṁ
 
 
    Bhavatu sabba-maṅgalaṁ anglebracketright
-endpali-leader
+ 
 
   Rakkhantu sabba-devatā
   Sabba-buddh'ānubhāvena
@@ -7473,21 +7473,21 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Bhavatu sabba-maṅgalaṁ
   Rakkhantu sabba-devatā
   Sabba-dhamm'ānubhāvena
   Sadā sotthī bhavantu te
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Bhavatu sabba-maṅgalaṁ
   Rakkhantu sabba-devatā
   Sabba-saṅgh'ānubhāvena
   Sadā sotthī breathmark bhavantu te
-endpali-hang-continued
+ 
 
 
 
@@ -7498,18 +7498,7 @@ endpali-hang-continued
 
 
  
- 
 
-
-ifdesktopversion
-chapterOpeningPagefuneral-recitations-compressed.jpg
-else
-chapterOpeningPagefuneral-recitations.jpg
-fi
-
-chapterFuneral Recitations
-
-clearpage
 
 
 
@@ -7521,14 +7510,14 @@ Pubba-bhāga-nama-kāra-pāṭho
 
 
    Namo tassa anglebracketright
-endpali-leader
+ 
 
-Bhagavato arahato sammā-sambuddhassa hfill3x
-
-
+Bhagavato arahato sammā-sambuddhassa  
 
 
-DN 21
+
+
+ 
 
 
 
@@ -7540,7 +7529,7 @@ Dhamma-saṅgaṇī-mātikā
 
 
    Kusalā dhammā anglebracketright
-endpali-leader
+ 
 
   Akusalā dhammā
   Abyākatā dhammā
@@ -7548,171 +7537,171 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Sukhāya vedanāya sampayuttā dhammā
   Dukkhāya vedanāya sampayuttā dhammā
   Adukkham'asukhāya vedanāya sampayuttā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Vipākā dhammā
   Vipāka-dhamma-dhammā
   N'eva vipāka na vipāka-dhamma-dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Upādinn'upādāniyā dhammā
   Anupādinn'upādāniyā dhammā
   Anupādinn'ānupādāniyā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Saṅkiliṭṭha-saṅkilesikā dhammā
   Asaṅkiliṭṭha-saṅkilesikā dhammā
   Asaṅkiliṭṭh'āsaṅkilesikā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Savitakka-savicārā dhammā
   Avitakka-vicāra-mattā dhammā
   Avitakk'āvicārā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Pīti-sahagatā dhammā
   Sukha-sahagatā dhammā
   Upekkhā-sahagatā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Dassanena pahātabbā dhammā
   Bhāvanāya pahātabbā dhammā
   N'eva dassanena na bhāvanāya pahātabbā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Dassanena pahātabba-hetukā dhammā
   Bhāvanāya pahātabba-hetukā dhammā
   N'eva dassanena na bhāvanāya pahātabba-hetukā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ācaya-gāmino dhammā
   Apacaya-gāmino dhammā
   N'ev'ācaya-gāmino n'āpacaya-gāmino dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Sekkhā dhammā
   Asekkhā dhammā
   N'eva sekkhā n'āsekkhā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Parittā dhammā
   Mahaggatā dhammā
   Appamāṇā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Paritt'ārammaṇā dhammā
   Mahaggat'ārammaṇā dhammā
   Appamāṇ'ārammaṇā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Hīnā dhammā
   Majjhimā dhammā
   Paṇītā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Micchatta-niyatā dhammā
   Sammatta-niyatā dhammā
   Aniyatā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Magg'ārammaṇā dhammā
   Magga-hetukā dhammā
   Magg'ādhipatino dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Uppannā dhammā
   Anuppannā dhammā
   Uppādino dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Atītā dhammā
   Anāgatā dhammā
   Paccuppannā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Atīt'ārammaṇā dhammā
   Anāgat'ārammaṇā dhammā
   Paccuppann'ārammaṇā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ajjhattā dhammā
   Bahiddhā dhammā
   Ajjhatta-bahiddhā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ajjhatt'ārammaṇā dhammā
   Bahiddh'ārammaṇā dhammā
   Ajjhatta-bahiddh'ārammaṇā dhammā
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Sanidassana-sappaṭighā dhammā
   Anidassana-sappaṭighā dhammā
   Anidassan'āppaṭighā dhammā
-endpali-hang-continued
+ 
 
 
 
@@ -7728,7 +7717,7 @@ Vipassanā-bhūmi-pāṭho
 
 
    Pañcakkhandhā: hspace-1.00mmanglebracketright
-endpali-leader
+ 
 % TODO fix hang indent and hand indent continued
 % TODO don't let line end with the
 
@@ -7750,43 +7739,43 @@ endpali-hangtogether-continued
 
 
 
-beginpali-hang-continued
+ 
   Aṭṭhārasa dhātuyo:
   
     Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu sota-dhātu sadda-dhātu sota-viññāṇa-dhātu ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
   
-endpali-hang-continued
+ 
 
 
 
 
 
 131-
-beginpali-hang-continued
+ 
   Bā-vīsat'indriyāni:
   
   
     Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ'ñassāmī't'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
   
-endpali-hang-continued
+ 
 
 
 
 Vibh
 
-beginpali-hang-continued
+ 
   Cattāri ariya-saccāni:
   Dukkhaṁ ariya-saccaṁ
   Dukkha-samudayo ariya-saccaṁ
   Dukkha-nirodho ariya-saccaṁ
   Dukkha-nirodha-gāminī paṭipadā ariya-saccaṁ.
-endpali-hang-continued
+ 
 
 
 
 
 
-beginpali-hang-continued
+ 
   Avijjā-paccayā saṅkhārā
   Saṅkhāra-paccayā viññāṇaṁ
   Viññāṇa-paccayā nāma-rūpaṁ
@@ -7803,13 +7792,13 @@ beginpali-hang-continued
   
     Evam'etassa kevalassa dukkhakkhandhassa samudayo hoti
   
-endpali-hang-continued
+ 
 
 together-verses
     Such is the origin of this whole mass of suffering.
   end-verses
 
-beginpali-hang-continued
+ 
   Avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho
   Saṅkhāra-nirodhā viññāṇa-nirodho
   Viññāṇa-nirodhā nāma-rūpa-nirodho
@@ -7826,7 +7815,7 @@ beginpali-hang-continued
   
     Evam'etassa kevalassa dukkhakkhandhassa nirodho hoti
   
-endpali-hang-continued
+ 
 
 
 
@@ -7843,7 +7832,7 @@ Paṭṭhāna-mātikā-pāṭho
 
 
    Hetu-paccayo anglebracketright
-endpali-leader
+ 
 
   Ārammaṇa-paccayo adhipati-paccayo anantara-paccayo samanantara-paccayo saha-jāta-paccayo aññam'añña-paccayo nissaya-paccayo upanissaya-paccayo pure-jāta-paccayo pacchā-jāta-paccayo āsevana-paccayo kamma-paccayo vipāka-paccayo āhāra-paccayo indriya-paccayo jhāna-paccayo magga-paccayo sampayutta-paccayo vippayutta-paccayo atthi-paccayo n'atthi-paccayo vigata-paccayo avigata-paccayo
 
@@ -7862,7 +7851,7 @@ Adāsi-me ādi gāthā
 
 
    Adāsi me akāsi me anglebracketright
-endpali-leader
+ 
 
   Ñāti-mittā sakhā ca me
   Petānaṁ dakkhiṇaṁ dajjā
@@ -7871,30 +7860,30 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Na hi ruṇṇaṁ vā soko vā
   Yā v'aññā paridevanā
   Na taṁ petānam'atthāya
   Evaṁ tiṭṭhanti ñātayo
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Ayañ'ca kho dakkhinā dinnā
   Saṅghamhi supatiṭṭhitā
   Dīgharattaṁ hitāy'assa
   Ṭhānaso upakappati
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   So ñāti-dhammo ca ayaṁ nidassito
   Petāna'pūjā ca katā uḷārā
   Balañ'ca bhikkhūnam'anuppadinnaṁ
   Tumhehi puññaṁ pasutaṁ anappakan'ti
-endpali-hang-continued
+ 
 
 
 
@@ -7910,16 +7899,16 @@ Paṁsu-kūla for the Dead
 
 
    Aniccā vata saṅkhārā anglebracketright
-endpali-leader
+ 
 
   Uppāda-vaya-dhammino
   Uppajjitvā nirujjhanti
-  Tesaṁ vūpasamo sukho hfill3x
+  Tesaṁ vūpasamo sukho  
 
 
 
 
-DN 16
+ 
 
 beginleader-only
    Sabbe sattā anglebracketright
@@ -7927,11 +7916,11 @@ endleader-only
 
 vspace-0.99em
 
-beginpali-hang-continued
+ 
   Maranti ca mariṁsu ca marissare
   Tath'ev'āhaṁ marissāmi
-  N'atthi me ettha saṁsayo hfill3x
-endpali-hang-continued
+  N'atthi me ettha saṁsayo  
+ 
 
 
 
@@ -7947,11 +7936,11 @@ Paṁsu-kūla for the Living
 
 
    Aciraṁ vat'ayaṁ kāyo anglebracketright
-endpali-leader
+ 
 
   Paṭhaviṁ adhisessati
   Chuḍḍho apeta-viññāṇo
-  Niratthaṁ va kaliṅgaraṁ hfill3x
+  Niratthaṁ va kaliṅgaraṁ  
 
 
 
@@ -7968,7 +7957,7 @@ Bhavatu-sabba-maṅgalaṁ
 
 
    Bhavatu sabba-maṅgalaṁ anglebracketright
-endpali-leader
+ 
 
   Rakkhantu sabba-devatā
   Sabba-buddh'ānubhāvena
@@ -7977,21 +7966,21 @@ endpali-leader
 
 
 
-beginpali-hang-continued
+ 
   Bhavatu sabba-maṅgalaṁ
   Rakkhantu sabba-devatā
   Sabba-dhamm'ānubhāvena
   Sadā sotthī bhavantu te
-endpali-hang-continued
+ 
 
 
 
-beginpali-hang-continued
+ 
   Bhavatu sabba-maṅgalaṁ
   Rakkhantu sabba-devatā
   Sabba-saṅgh'ānubhāvena
   Sadā sotthī breathmark bhavantu te
-endpali-hang-continued
+ 
 
 
 
@@ -8229,7 +8218,7 @@ Paramāya pūjāya
 
 
 
-DN 16
+ 
 
 Tasmā
 
@@ -8274,7 +8263,7 @@ Sri Lanka
 
 
 
-Namo tassa bhagavato arahato sammāsambuddhassa hfill3x
+Namo tassa bhagavato arahato sammāsambuddhassa  
 
 
 
@@ -8413,7 +8402,7 @@ Uccāsayana-mahāsayanā veramaṇi-sikkhāpadaṁ samādiyāmi
 
 
 
-Imāni aṭṭha sikkhāpadāni samādiyāmi hfill3x
+Imāni aṭṭha sikkhāpadāni samādiyāmi  
 
 
 
