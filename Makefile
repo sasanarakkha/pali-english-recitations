@@ -19,9 +19,9 @@ RELEASENAME   := "SBS Pāli-English Recitations"
 CURRENTEPUB   := ./manuscript/current-recitations.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/SBS\ Pāli-English\ Recitations.epub
-KINDLEFILE    := ./build/SBS\ Pāli-English\ Recitations.mobi
-AZW3FILE      := ./build/SBS\ Pāli-English\ Recitations.azw3
+EPUBFILE      := ./build/SBS Pāli-English Recitations.epub
+KINDLEFILE    := ./build/SBS Pāli-English Recitations.mobi
+AZW3FILE      := ./build/SBS Pāli-English Recitations.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
