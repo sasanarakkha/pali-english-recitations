@@ -10653,7 +10653,7 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Vanappagumbe yathā phussi't'agge\\
+  Vanappagumbe yathā phussit'agge\\
   Gimhāna-māse paṭhamasmiṁ gimhe\\
   Tath'ūpamaṁ dhamma-varaṁ adesayi\\
   Nibbāna-gāmiṁ paramaṁ hitāya\\
