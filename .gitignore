@@ -45,5 +45,5 @@ auto/
 .LSOverride
 
 # Other
-assets/tools/kindlegen
+# assets/tools/kindlegen
 assets/tools/epubcheck
