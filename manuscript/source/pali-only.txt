@@ -391,13 +391,13 @@ Ayaṁ vuccati bhikkhave sammā-samādhi
 Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
 Ānāpānassati
-Handa mayaṁ ānāp'ānassati-sutta-pāṭhaṁ bhaṇāmase 
+Handa mayaṁ ānāpānassati-sutta-pāṭhaṁ bhaṇāmase 
 
 Ānāpānassati bhikkhave bhāvitā bahulī-katā Mahapphalā hoti mah'ānisaṁsā
 Ānāpānassati bhikkhave bhāvitā bahulī-katā Cattāro satipaṭṭhāne paripūreti
 Cattāro satipaṭṭhānā bhāvitā bahulī-katā Satta-bojjh'aṅge paripūrenti
 Satta-bojjh'aṅgā bhāvitā bahulī-katā Vijjā-vimuttiṁ paripūrenti
-Kathaṁ bhāvitā ca bhikkhave ānāp'ānassati kathaṁ bahulī-katā Mahapphalā hoti mah'ānisaṁsā
+Kathaṁ bhāvitā ca bhikkhave ānāpānassati kathaṁ bahulī-katā Mahapphalā hoti mah'ānisaṁsā
 Idha bhikkhave bhikkhu Arañña-gato vā Rukkha-mūla-gato vā Suññ'āgāra-gato vā Nisīdati pallaṅkaṁ ābhujitvā Ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā
 So sato'va assasati sato'va passasati
 Dīghaṁ vā assasanto dīghaṁ assasāmī'ti pajānāti
@@ -432,7 +432,7 @@ Nirodh'ānupassī assasissāmī'ti sikkhati
 Nirodh'ānupassī passasissāmī'ti sikkhati
 Paṭinissagg'ānupassī assasissāmī'ti sikkhati
 Paṭinissagg'ānupassī passasissāmī'ti sikkhati
-Evaṁ bhāvitā kho bhikkhave ānāp'ānassati evaṁ bahulī-katā Mahapphalā hoti mah'ānisaṁsā
+Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulī-katā Mahapphalā hoti mah'ānisaṁsā
 
 Paṭicca-samuppāda
 Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase 
