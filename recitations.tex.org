@@ -2445,7 +2445,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 \begin{verses}
   Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ\\
-  Hitesinā anukampakena anukampaṁ upādāya
+  Hit'esinā anukampakena anukampaṁ upādāya
 \end{verses}
 
 \begin{english-verses}
