@@ -10055,11 +10055,9 @@ Sadā sotthī bhavantu te
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho-protective}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
+
 \begin{pali-hangtogether}
-Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
+  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{pali-hangtogether}
 
 \begin{english}
@@ -10076,10 +10074,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Saraṇa-gamana-pāṭho}
 \label{sarana-gamana-patho}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Buddhaṁ saraṇaṁ gacchāmi \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Buddhaṁ \hspace{-0.5mm}\anglebracketright\  saraṇaṁ gacchāmi\\
   Dhammaṁ saraṇaṁ gacchāmi\\
   Saṅghaṁ saraṇaṁ gacchāmi
 \end{pali-hangtogether}
@@ -10124,10 +10120,9 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Nama-kāra-siddhi-gāthā}
 \label{nama-kara-siddhi-gatha}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā moha-malāpakaṭṭho \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
+
 \begin{pali-hangtogether}
+ \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā \hspace{-0.5mm}\anglebracketright\  moha-malāpakaṭṭho\\
   Sāmaṁ va buddho sugato vimutto\\
   Mārassa pāsā vinimocayanto\\
   Pāpesi khemaṁ janataṁ vineyyaṁ\\
@@ -10203,10 +10198,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Namo-kāra-aṭṭhaka}
 \label{namo-kara-atthaka}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Namo arahato sammā- \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Namo arahato \hspace{-0.5mm}\anglebracketright\ sammā-\\
   Sambuddhassa mah'esino\\
   Namo uttama-dhammassa\\
   Svākkhātass'eva ten'idha
@@ -10268,11 +10261,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Maṅgala-sutta}
 \label{mangala-sutta}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
-  Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
+  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ: \hspace{-0.5mm}\anglebracketright\   Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -10462,10 +10452,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Ratana-sutta}
 \label{ratana-sutta}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Yān'īdha bhūtāni samāgatāni \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Yān'īdha \hspace{-0.5mm}\anglebracketright\ bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
   Sabb'eva bhūtā sumanā bhavantu\\
   Atho'pi sakkacca suṇantu bhāsitaṁ
@@ -10755,10 +10743,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Karaṇīya-metta-sutta}
 \label{karaniya-metta-sutta}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Karaṇīyam'attha-kusalena \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Karaṇīya \hspace{-0.5mm}\anglebracketright\ m'attha-kusalena\\
   Yan'taṁ santaṁ padaṁ abhisamecca\\
   Sakko ujū ca suhujū ca\\
   Suvaco c'assa mudu anatimānī
@@ -10907,10 +10893,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Khandha-parittaṁ}
 \label{khandha-parittam}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Virūpakkhehi me mettaṁ \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Virūpakkhehi me mettaṁ \hspace{-0.5mm}\anglebracketright\ \\
   Mettaṁ erāpathehi me\\
   Chabyāputtehi me mettaṁ\\
   Mettaṁ kaṇhāgotamakehi ca
@@ -11296,10 +11280,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Abhaya-parittaṁ}
 \label{abhaya-parittam}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Yan'dunnimittaṁ avamaṅgalañ'ca \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Yan'dunnimittaṁ \hspace{-0.5mm}\anglebracketright\ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Buddh'ānubhāvena vināsamentu
@@ -11350,10 +11332,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Devatā-uyyojana-gāthā}
 \label{devata-uyyojana-gatha}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Dukkhappattā ca niddukkhā \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Dukkhappattā \hspace{-0.5mm}\anglebracketright\ ca niddukkhā\\
   Bhayappattā ca nibbhayā\\
   Sokappattā ca nissokā\\
   Hontu sabbe'pi pāṇino
@@ -11425,11 +11405,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Jaya-maṅgala-aṭṭha-gāthā}
 \label{jaya-mangala-attha-gatha}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
-  Sahassam'abhinimmita sāvudhan'taṁ\\
+  \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\ sahassam'abhinimmita sāvudhan'taṁ\\
   Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
 \linkdest{endnote129-body}
   Dān'ādi-dhamma-vidhinā jitavā\makeatletter\hyperlink{endnote129-appendix}\Hy@raisedlink{{\pagenote{%
@@ -11573,10 +11550,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Jaya-parittaṁ}
 \label{jaya-parittam}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko nātho \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko \hspace{-0.5mm}\anglebracketright\ nātho\\
   Hitāya sabba-pāṇinaṁ\\
   Pūretvā pāramī sabbā\\
   Patto sambodhim'uttamaṁ\\
@@ -11667,10 +11642,8 @@ Bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-sabba-mangalam'protective}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
 \begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\ \\
   Rakkhantu sabba-devatā\\
   Sabba-buddh'ānubhāvena\\
   Sadā sotthī bhavantu te
