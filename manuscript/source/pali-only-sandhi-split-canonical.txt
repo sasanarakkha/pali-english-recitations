@@ -226,26 +226,26 @@ Seyyathā idaṃ Cattāro satipaṭṭhānā Cattāro sammappadhānā Cattāro i
  
 Satta sambojjha aṅgā 
 Handa mayaṃ satta sambojjha aṅgā pāṭhaṃ bhaṇāmase  
-Satta ime bhikkhave bojjha aṅgā bhāvitā bahulīkatā Ariyā niyyānikā Nīyanti takkarassa sammā dukkhakkhayāya 
-Ye te bhikkhave bhikkhū Sīlasampannā Samādhisampannā Ñāṇasampannā Vimuttisampannā Vimuttiñāṇadassanasampannā 
-Dassanaṃ pa ahaṃ bhikkhave tesaṃ bhikkhūnaṃ bahukāraṃ vadāmi  
+Satta ime bhikkhave bojjha aṅgā bhāvitā bahulī-katā Ariyā niyyānikā Nīyanti takkarassa sammā dukkha-kkhayāya 
+Ye te bhikkhave bhikkhū Sīla-sampannā Samādhi-sampannā Ñāṇa-sampannā Vimutti-sampannā Vimutti-ñāṇa-dassana-sampannā 
+Dassanaṃ pa ahaṃ bhikkhave tesaṃ bhikkhūnaṃ bahu-kāraṃ vadāmi  
 Savanaṃ pa ahaṃ  
 Upasaṅkamanaṃ pa ahaṃ 
 Payirupāsanaṃ pa ahaṃ 
 Anussatiṃ pa ahaṃ 
 Anupabbajjaṃ pa ahaṃ 
 Taṃ kissa hetu 
-Tathārūpānaṃ bhikkhave bhikkhūnaṃ dhammaṃ sutvā Dvayena vūpakāsena vūpakaṭṭho viharati Kāyavūpakāsena ca cittavūpakāsena ca 
+Tathārūpānaṃ bhikkhave bhikkhūnaṃ dhammaṃ sutvā Dvayena vūpakāsena vūpakaṭṭho viharati Kāya-vūpakāsena ca citta-vūpakāsena ca 
 So tathā vūpakaṭṭho viharanto Taṃ dhammaṃ anussarati anuvitakketi 
 So tathā sato viharanto Taṃ dhammaṃ paññāya pavicinati 
 Pavicarati parivīmaṃsaṃ āpajjati 
 Tassa taṃ dhammaṃ paññāya pavicinato 
 Pavicarato parivīmaṃsaṃ āpajjato 
 Āraddhaṃ hoti vīriyaṃ asallīnaṃ 
-Āraddhavīriyassa uppajjati pīti nirāmisā 
+Āraddha-vīriyassa uppajjati pīti nirāmisā 
 Pītimanassa kāyo api passambhati 
 Cittaṃ api passambhati 
-Passaddhakāyassa sukhino 
+Passaddha-kāyassa sukhino 
 Cittaṃ samādhiyati 
 So tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti 
 Ime kho bhikkhave satta bojjha aṅga iti 
@@ -483,7 +483,7 @@ Katame cha
 Idha bhikkhave bhikkhunoMettaṃ kāyakammaṃ vacīkammaṃ manokammaṃ paccupaṭṭhitaṃ hoti Sabrahmacārīsu āvi ca eva raho ca 
 Bhikkhu ye te lābhā Dhammikā dhammaladdhā Antamaso patta pariyāpanna mattaṃ api Tathārūpehi lābhehi appaṭivibhatta bhogī hoti Sīlavantehi sabrahmacārīhi sādhāraṇa bhogī 
 Bhikkhu yāni tāni sīlāni Akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni Viññuppasatthāni aparāmaṭṭhāni samādhi saṃvattanikāni Tathārūpesu sīlesu sīlasāmaññagato viharati Sabrahmacārīsu āvi ca eva raho ca 
-Bhikkhu ya āyaṃ diṭṭhi Ariyā niyyānikā Niyyāti takkarassa sammā dukkhakkhayāya Tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati Sabrahmacārīsu āvi ca eva raho ca 
+Bhikkhu ya āyaṃ diṭṭhi Ariyā niyyānikā Niyyāti takkarassa sammā dukkha-kkhayāya Tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati Sabrahmacārīsu āvi ca eva raho ca 
 Ime kho bhikkhave cha sāraṇīyā dhammā Piyakaraṇā garukaraṇā Saṅgahāya Avivādāya Sāmaggiyā ekībhāvāya saṃvattanti 
 Ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha Passatha no tumhe taṃ vacana pathaṃ Aṇuṃ vā thūlaṃ vā yaṃ tumhe na adhivāseyyātha iti 
 No ha etaṃ bhante 
