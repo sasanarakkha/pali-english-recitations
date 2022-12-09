@@ -167,3 +167,24 @@ CLOSED: [2022-05-26 Thu 22:16]
 ** TODO TeX: trim the fat: remove unneeded code, directories, and files
 ** TODO HTML: reduce space between leader intro and first line, create style
 ** TODO Add footnote for 'right livelihood' that defines the meaning
+** TODO remove empty pages
+** TODO remove footnote 74
+** DONE HTML: change intros in epub
+CLOSED: [2022-12-08 Thu 10:52]
+** DONE HTML: change precept "going to entertainments" in epub
+CLOSED: [2022-12-08 Thu 10:52]
+** DONE HTML: change gradual training to "seeing entertainments" in epub
+CLOSED: [2022-12-08 Thu 10:52]
+** DONE HTML: change mala-gandha in epub
+CLOSED: [2022-12-08 Thu 11:06]
+** TODO HTML: fix epub hyperlink order
+** TODO HTML: Gradual training FN for “proper time”: The Vinaya defines the wrong time for eating as from noon until dawnrise of the following day.
+** TODO TeX: footnote 50 jumping to wrong place
+** DONE HTML: destructing the defilements
+CLOSED: [2022-12-09 Fri 11:20]
+** TODO HTML: inner serenity for second jhāna -- needs footnote
+** TODO HTML: footnote for "frequently taught" and "sharing often the words of Dhamma" -- translation changed just needs footnote
+** TODO HTML: bowels/entrails to intestines/mesentery and add footnote
+** TODO HTML: DO ENDNOTES WHEN FINISHED
+** TODO BOTH: consider a quotation mark purge
+** TODO BOTH: add footnote to n8p for right livelihood

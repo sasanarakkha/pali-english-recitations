@@ -875,8 +875,10 @@ Añjali-karaṇīyo
 
 Anuttaraṁ puññakkhettaṁ lokassa
 
+\linkdest{endnote149-body}
 \begin{english}
-  They give occasion for incomparable goodness to arise in the world
+ The unsurpassed field of merit for the world\makeatletter\hyperlink{endnote149-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote149-appendix}{\hyperlink{endnote149-body}{WPN: ``They give occasion for incomparable goodness to arise in the world''}}}}}\makeatother
 \end{english}
 
 \suttaRef{[SN 12.41]}
@@ -1123,7 +1125,7 @@ Saṅkhār'ūpādānakkhandho
 \linkdest{endnote16-body}
 \begin{english}
   Attachment to volitional formations\makeatletter\hyperlink{endnote16-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote16-appendix}{\hyperlink{endnote16-body}{WPN: ``Attachment to mental formations''}}}}}\makeatother
+        \hypertarget{endnote16-appendix}{\hyperlink{endnote16-body}{WPN: ``Attachment to mental formations''. While the Pali term “saṅkhārā” only means “formations”, Bhikkhu Bodhi’s rendering as “volitional formations” captures well the intentional/volitional forces behind the formative nature of the mind.}}}}}\makeatother
 \end{english}
 
 Viññāṇ'ūpādānakkhandho
@@ -1540,7 +1542,7 @@ Saṅghaṁ namāmi
 \linkdest{endnote30-body}
 \begin{english-verses}
   What is true Dhamma and what's\makeatletter\hyperlink{endnote29-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote29-appendix}{\hyperlink{endnote29-body}{WPN: ``what not'': What not is usually followed by what is similar.}}}}}\makeatother
+        \hypertarget{endnote29-appendix}{\hyperlink{endnote29-body}{WPN: ``what not'': 'What not' is usually followed by what is similar. Furthermore, the meaning of \textit{adhamma} in this context describes not only the lack of \textit{Dhamma}, but the practice of wrong \textit{Dhamma}.}}}}}\makeatother
   not\\
   Will never have the same results\\
   While wrong\makeatletter\hyperlink{endnote30-appendix}\Hy@raisedlink{{\pagenote{%
@@ -1855,7 +1857,7 @@ Etaṁ buddhāna'sāsanaṁ
   Not having anything
 \end{english-verses}
 
-\suttaRef{[Dhp 85-87.5]}
+\suttaRef{[Dhp 85-87]}
 
 \bottomNav{four-requisites}
 
@@ -2085,7 +2087,7 @@ Etaṁ buddhāna'sāsanaṁ
   The behavior of the bhikkhus\\
   These days seems different\\
   From when the Protector of the world\\
-  The Best of men was still here
+  The best of men was still here
 \end{english-verses}
 
 \begin{verses}
@@ -2121,7 +2123,7 @@ Etaṁ buddhāna'sāsanaṁ
   They were not so eager\\
   For the requisites of life\\
   Such as tonics and other supplies\\
-  As they were for destructing the defilements
+  As they were for the destruction of the taints
 \end{english-verses}
 
 \begin{verses}
@@ -2325,7 +2327,7 @@ Etaṁ buddhāna'sāsanaṁ
 \suttaRef{[Dhp 91]}
 
 \begin{verses}
-  Yaṁ pubbe taṁ visosehi – Pacchā te sugat'ānugo kiñcanaṁ\\
+  Yaṁ pubbe taṁ visosehi – Pacchā te m'āhu kiñcanaṁ\\
   Majjhe ce no gahessasi – Upasanto carissasi
 \end{verses}
 
@@ -2379,7 +2381,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 \begin{verses}
   Pamādo rajo pamādo – Pamād'ānupatito rajo\\
-  Appamādena vijjāya – Abbahe sallam'attano'ti
+  Appamādena vijjāya – Abbahe sallam'attano
 \end{verses}
 
 \linkdest{endnote42-body}
@@ -2533,7 +2535,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 \begin{verses}
   Paccuppannañ'ca yo dhammaṁ – Tattha tattha vipassati\\
-  Asaṁhiraṁ asaṅkuppaṁ – Taṁ viddhām'anubrūhaye
+  Asaṁhiraṁ asaṅkuppaṁ – Taṁ vidvā m'anubrūhaye
 \end{verses}
 
 \linkdest{endnote43-body}
@@ -2659,17 +2661,21 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
+\linkdest{endnote150-body}
 \begin{english-only}
   Respectfulness and being of humble ways\\
   Contentment and gratitude\\
-  And hearing the Dhamma frequently taught\\
+  And hearing the Dhamma at suitable times\makeatletter\hyperlink{endnote150-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote150-appendix}{\hyperlink{endnote150-body}{WPN: ``frequently taught''}}}}}\\
   These are the highest blessings
 \end{english-only}
 
+\linkdest{endnote151-body}
 \begin{english-only}
   Patience and willingness to accept one's faults\\
   Seeing venerated seekers of the truth\\
-  And sharing often the words of Dhamma\\
+  And sharing often the words of Dhamma\makeatletter\hyperlink{endnote151-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote151-appendix}{\hyperlink{endnote151-body}{WPN: ``sharing often the words of Dhamma''}}}}}\\
   These are the highest blessings
 \end{english-only}
 
@@ -3569,7 +3575,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \end{leader-english}
 % remove space here
 \begin{english-only-justify}
-  ``A householder or householder's son \breathmark\ or one born in some other clan hears the Dhamma. On hearing the Dhamma he acquires faith in the Tathāgata. Possessing that faith he considers thus: `Household life is crowded and dusty \breathmark\ life gone forth is wide open. It is not easy while living at home \breathmark\ to lead the holy life utterly perfect and pure \breathmark\ as a polished shell. Suppose I shave off my hair and beard \breathmark\ put on the ochre robe \breathmark\ and go forth from home to homelessness.' On a later occasion \breathmark\ abandoning a small or large fortune \breathmark\ abandoning a small or large circle of relatives \breathmark\ he shaves off his hair and beard \breathmark\ puts on the ochre robe \breathmark\ and goes forth from home to homelessness.''
+  ``A householder or householder's son \breathmark\ or one born in some other clan hears the Dhamma. On hearing the Dhamma he acquires faith in the Tathāgata. Possessing that faith he considers thus: `Household life is crowded and dusty \breathmark\ life gone forth is wide open. It is not easy while living at home \breathmark\ to lead the holy life utterly perfect and pure \breathmark\ as a polished shell. Suppose I shave off my hair and beard \breathmark\ put on the ochre robe \breathmark\ and go forth from home to homelessness.' On a later occasion \breathmark\ abandoning a small or large amount of wealth \breathmark\ abandoning a small or large circle of relatives \breathmark\ he shaves off his hair and beard \breathmark\ puts on the ochre robe \breathmark\ and goes forth from home to homelessness.''
 \end{english-only-justify}
 
 \suttaRef{[MN 27 / 38 / 51]}
@@ -3579,7 +3585,7 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
 \end{english-only-justify}
 
 \begin{english-only-justify}
-  ``It is possible to describe a gradual training \breathmark\ gradual practice \breathmark\ and gradual progress in this Dhamma and Vinaya. When the Tathāgata obtains a person to be tamed \breathmark\ he first disciplines him thus: `Come bhikkhu be virtuous \breathmark\ dwell restrained with the restraint of the Pātimokkha \breathmark\ perfect in conduct and resort \breathmark\ and seeing danger in the slightest faults \breathmark\ train by undertaking the training rules.''
+  ``It is possible to describe a gradual training \breathmark\ gradual practice \breathmark\ and gradual progress in this Dhamma and Vinaya. When the Tathāgata obtains a person to be tamed \breathmark\ he first disciplines him thus: `Come bhikkhu be virtuous \breathmark\ dwell restrained by the Pātimokkha \breathmark\ perfect in conduct and resort \breathmark\ and seeing danger in the slightest faults \breathmark\ train by undertaking the training rules.''
 \end{english-only-justify}
 
 \suttaRef{[MN 107]}
@@ -3599,8 +3605,10 @@ Ye kho te bhikkhū sekkhā apattamānasā anuttaraṁ yogakkhemaṁ patthayamān
   from these \breathmark\ nor does he repeat here what he has heard elsewhere \breathmark\ in order to divide these people from those \breathmark\ thus he is one who reunites those who are divided \breathmark\ a promoter of \mbox{friendships}~\breathmark\ who enjoys unity \breathmark\ rejoices in unity \breathmark\ delights in unity \breathmark\ a speaker of words that promote unity. Abandoning harsh speech \breathmark\ he abstains from harsh speech \breathmark\ he speaks words that are gentle \breathmark\ pleasing to the ear \breathmark\ and \mbox{loveable}~\breathmark\ that go to the heart \breathmark\ are courteous \breathmark\ desired by many and agreeable to many. Abandoning idle chatter \breathmark\ he abstains from idle chatter \breathmark\ he speaks at the right time \breathmark\ speaks what is fact \breathmark\ speaks on what is good \breathmark\ speaks on the Dhamma and Vinaya \breathmark\ at the right time \breathmark\ he speaks words that are worth recording \breathmark\ reasonable \breathmark\ moderate \breathmark\ and beneficial.''
 \end{english-only-justify}
 
+\linkdest{endnote148-body}
 \begin{english-only-justify}
-  ``He abstains from harming seeds and plants. He practices eating one meal a day \breathmark\ abstaining from eating at night and outside the proper time. He abstains from dancing \breathmark\ singing \breathmark\ music and entertainments. He abstains from wearing garlands \breathmark\ smartening himself with scent \breathmark\ and embellishing himself with unguents. He abstains from high and luxurious sleeping places. He abstains from accepting gold and silver. He abstains from accepting raw grain. He abstains from accepting raw meat. He abstains from accepting women and girls. He abstains from accepting men and women slaves. He abstains from accepting goats and sheep. He abstains from accepting fowl and pigs. He abstains from accepting \mbox{elephants}~\breathmark\ cattle \breathmark\ horses and mares. He abstains from accepting fields and land.''
+  ``He abstains from harming seeds and plants. He practices eating one meal a day \breathmark\ abstaining from eating at night and outside the proper time.\makeatletter\hyperlink{endnote148-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote148-appendix}{\hyperlink{endnote148-body}{The \textit{Vinaya} defines the wrong time for eating as from noon until dawnrise of the following day.}}}}}\makeatother\thinspace He abstains from dancing \breathmark\ singing \breathmark\ music and seeing entertainments. He abstains from wearing garlands \breathmark\ smartening himself with scent \breathmark\ and embellishing himself with unguents. He abstains from high and luxurious sleeping places. He abstains from accepting gold and silver. He abstains from accepting raw grain. He abstains from accepting raw meat. He abstains from accepting women and girls. He abstains from accepting men and women slaves. He abstains from accepting goats and sheep. He abstains from accepting fowl and pigs. He abstains from accepting \mbox{elephants}~\breathmark\ cattle \breathmark\ horses and mares. He abstains from accepting fields and land.''
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -4468,7 +4476,7 @@ Cetaso ekodibhāvaṁ
 
 \begin{english-verses}
   He enters upon and abides \breathmark\ in the second Jhāna\\
-  Accompanied by self-confidence \breathmark\ and singleness of mind\\
+  Accompanied by inner serenity \breathmark\ and singleness of mind\\
   Without thought and examination\\
   With rapture and pleasure \breathmark\ born of concentration
 \end{english-verses}
@@ -5485,12 +5493,14 @@ Avijjā-paccayā saṅkhārā
 
 \linkdest{endnote72-body}
 \linkdest{endnote73-body}
+\linkdest{endnote147-body}
 \begin{english}
   From ignorance as a\makeatletter\hyperlink{endnote72-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother
   condition arise\makeatletter\hyperlink{endnote73-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
-  formations
+  formations\makeatletter\hyperlink{endnote147-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote147-appendix}{\hyperlink{endnote147-body}{Elsewhere in the chanting book the term “\textit{saṅkhāra}” is translated as “volitional formations”. Here, however, for the sake of ease of recitability in subsequent passages within this chant, it is translated as “formations”.}}}}}\makeatother
 \end{english}
 
 Saṅkhāra-paccayā viññāṇaṁ
@@ -5619,8 +5629,10 @@ Tattha katamo puññ'ābhisaṅkhāro
   Kusalā cetanā kām'āvacarā rūp'āvacarā dānamayā sīlamayā bhāvanāmayā
 \end{pali-hang}
 
+\linkdest{endnote153-body}
 \begin{english-hang}
-  Skillful volition of the sense-sphere \breathmark\ of the form-sphere \breathmark\ connected with giving \breathmark\ connected with virtue \breathmark\ connected with meditation
+  Skillful volition of the sense-sphere \breathmark\ of the form-sphere \breathmark\ connected with giving \breathmark\ connected with virtue \breathmark\ connected with meditation \makeatletter\hyperlink{endnote153-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote153-appendix}{\hyperlink{endnote153-body}{While the Pāli term “mayā” literally means “made of/constructed by”, it wouldn’t be correct to take this passage to mean that giving, virtue, and meditation are the causes for wholesome volition. Rather, the wholeosme volition leads to and expresses itself through giving, virtue, and meditation. Or in the words of Dhp 2 “Phenomena are preceded by the mind, surpassed by the mind, created by the mind. If one speaks or acts with a pure mind - happiness follows; just as one’s shadow that never leaves.”}}}}}\makeatother
 \end{english-hang}
 
 Ayaṁ vuccati puññ'ābhisaṅkhāro
@@ -5689,7 +5701,7 @@ Tattha katamo kāyasaṅkhāro
 Ime vuccanti avijjā-paccayā saṅkhārā
 
 \begin{english}
-  These are called 'formations' \breathmark\ arising from ignorance as a condition
+  These are called `formations' \breathmark\ arising from ignorance as a condition
 \end{english}
 
 Tattha katamaṁ saṅkhāra-paccayā viññāṇaṁ
@@ -6114,6 +6126,658 @@ Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
 \bottomNav{dhamma-in-brief}
 
 #+end_src
+
+#+RESULTS:
+#+begin_export latex
+\sectionPaliTitle{Paṭicca-samuppāda}
+\section{Dependent Origination}
+\label{dependent-origination}
+
+\linkdest{endnote71-body}
+\begin{leader}
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+\end{leader}
+\begin{leader-english-belowpali}
+  \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Analysis of Dependent Origination\makeatletter\hyperlink{endnote71-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote71-appendix}{\hyperlink{endnote71-body}{Lit.: ``the `Discourse Analysis' from the `Analysis of Dependent Origination'\hspace{0.01mm}''; the ``Discourse Analysis'' is a sub-chapter (Abh.Vibh.130f) from the ``Analysis of Dependent Origination'', which is part of the 2nd book of the \textit{Abhidhammapiṭaka} called the ``\textit{Vibhaṅga}''. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the \textit{Suttapiṭaka}.}}}}}\makeatother \hspace{-0.5mm}\anglebracketright\
+\end{leader-english-belowpali}
+
+Avijjā-paccayā saṅkhārā
+
+\linkdest{endnote72-body}
+\linkdest{endnote73-body}
+\linkdest{endnote147-body}
+\begin{english}
+  From ignorance as a\makeatletter\hyperlink{endnote72-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother
+  condition arise\makeatletter\hyperlink{endnote73-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
+  formations\makeatletter\hyperlink{endnote147-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote147-appendix}{\hyperlink{endnote147-body}{Elsewhere in the chanting book the term “\textit{saṅkhāra}” is translated as “volitional formations”. Here, however, for the sake of ease of recitability in subsequent passages within this chant, it is translated as “formations”.}}}}}\makeatother
+\end{english}
+
+Saṅkhāra-paccayā viññāṇaṁ
+
+\begin{english}
+  From formations as a condition arises consciousness
+\end{english}
+
+Viññāṇa-paccayā nāmarūpaṁ
+
+\linkdest{endnote74-body}
+\begin{english}
+  From consciousness as a condition arises name-and-form\makeatletter\hyperlink{endnote74-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote74-appendix}{\hyperlink{endnote74-body}{In the context of dependent origination, the compound ``\textit{nāmarūpa}'' is translated as ``mind-and-body'' in order to cover the entirety of what is conventionally called ``a being, a person''. In other contexts, particularly if used separately, these terms may have other connotations.}}}}}\makeatother
+\end{english}
+
+Nāmarūpa-paccayā saḷ'āyatanaṁ
+
+\begin{english}
+  From name-and-form as a condition arises the sixfold-sense-base
+\end{english}
+
+Saḷ'āyatana-paccayā phasso
+
+\begin{english}
+  From the sixfold-sense-base as a condition arises contact
+\end{english}
+
+Phassa-paccayā vedanā
+
+\begin{english}
+  From contact as a condition arises feeling
+\end{english}
+
+Vedanā-paccayā taṇhā
+
+\begin{english}
+  From feeling as a condition arises craving
+\end{english}
+
+Taṇhā-paccayā upādānaṁ
+
+\begin{english}
+  From craving as a condition arises clinging
+\end{english}
+
+Upādāna-paccayā bhavo
+
+\begin{english}
+  From clinging as a condition arises becoming
+\end{english}
+
+Bhava-paccayā jāti
+
+\begin{english}
+  From becoming as a condition arises birth
+\end{english}
+
+\begin{pali-hang}
+  Jāti-paccayā jarāmaraṇaṁ soka-parideva-dukkha-domanass'upāyāsā sambhavanti
+\end{pali-hang}
+
+\begin{english}
+  From birth as a condition arise ageing-and-death\\
+  Sorrow lamentation pain displeasure and despair
+\end{english}
+
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hoti
+
+\begin{english}
+  Such is the origin of this whole mass of suffering
+\end{english}
+
+Tattha katamā avijjā
+
+\begin{english}
+  Therein what is ignorance?
+\end{english}
+
+\begin{pali-hang}
+  Dukkhe aññāṇaṁ dukkhasamudaye aññāṇaṁ dukkhanirodhe aññāṇaṁ dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ
+\end{pali-hang}
+
+\begin{english-hang-verses}
+  Not knowing suffering \breathmark\ not knowing the origin of suffering \breathmark\ not knowing the cessation of suffering \breathmark\ not knowing the way of practice \breathmark\ leading to the cessation of suffering
+\end{english-hang-verses}
+
+Ayaṁ vuccati avijjā
+
+\begin{english}
+  This is called `ignorance'
+\end{english}
+
+\begin{pali-hang}
+  Tattha katame avijjā-paccayā saṅkhārā
+\end{pali-hang}
+
+\linkdest{endnote75-body}
+\linkdest{endnote76-body}
+\begin{english-hang}
+  Therein what are 'formations' \breathmark\ arising\makeatletter\hyperlink{endnote75-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarāmaraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
+  from ignorance as a condition?\makeatletter\hyperlink{endnote76-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote76-appendix}{\hyperlink{endnote76-body}{To render as ``Therein what is from ignorance as a condition arise formations.'' would be misleading, because it is not the conditioned relationship between A and B (here: ignorance and formations) that gets elaborated upon in the following lines, but it is only the term B (here: formations), that gets defined. Hence the preferable translation: ``Therein what are 'formations', arising from ignorance as a condition?''}}}}}\makeatother
+\end{english-hang}
+
+\linkdest{endnote77-body}
+Puññ'ābhisaṅkhāro apuññ'ābhisaṅkhāro āneñj'ābhisaṅkhāro\makeatletter\hyperlink{endnote77-appendix}\Hy@raisedlink{{\pagenote{%
+      \hypertarget{endnote77-appendix}{\hyperlink{endnote77-body}{SN 12.51 explains: ``Bhikkhus, if a person immersed in ignorance generates a meritorious volitional formation, consciousness fares on to the meritorious; if he generates a demeritorious volitional formation, consciousness fares on to the demeritorious; if he generates an imperturbable volitional formation, consciousness fares on to the imperturbable.''}}}}}\makeatother\\
+Kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
+
+\begin{english-verses}
+  Heightened formation of wholesomeness\\
+  Heightened formation of unwholesomeness\\
+  Heightened formation of imperturbability\\
+  The bodily formation \breathmark\ the verbal formation \breathmark\ the mental formation
+\end{english-verses}
+
+Tattha katamo puññ'ābhisaṅkhāro
+
+\begin{english}
+  Therein what is `heightened formation of wholesomeness'?
+\end{english}
+
+\begin{pali-hang}
+  Kusalā cetanā kām'āvacarā rūp'āvacarā dānamayā sīlamayā bhāvanāmayā
+\end{pali-hang}
+
+\linkdest{endnote79-body}
+\begin{english-hang}
+  Skillful volition of the sense-sphere \breathmark\ of the form-sphere \breathmark\ connected with giving \breathmark\ connected with virtue \breathmark\ connected with meditation \makeatletter\hyperlink{endnote79-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote79-appendix}{\hyperlink{endnote79-body}{While the Pāli term “mayā” literally means “made of/constructed by”, it wouldn’t be correct to take this passage to mean that giving, virtue, and meditation are the causes for wholesome volition. Rather, the wholeosme volition leads to and expresses itself through giving, virtue, and meditation. Or in the words of Dhp 2 “Phenomena are preceded by the mind, surpassed by the mind, created by the mind. If one speaks or acts with a pure mind - happiness follows; just as one’s shadow that never leaves.”}}}}}\makeatother
+\end{english-hang}
+
+Ayaṁ vuccati puññ'ābhisaṅkhāro
+
+\begin{english}
+  This is called `heightened formation of wholesomeness'
+\end{english}
+
+Tattha katamo apuññ'ābhisaṅkhāro
+
+\begin{english}
+  Therein what is `heightened formation of unwholesomeness'?
+\end{english}
+
+Akusalā cetanā kām'āvacarā
+
+\begin{english}
+  Unskillful volition of the sense-sphere
+\end{english}
+
+Ayaṁ vuccati apuññ'ābhisaṅkhāro
+
+\begin{english}
+  This is called `heightened formation of unwholesomeness'
+\end{english}
+
+Tattha katamo āneñj'ābhisaṅkhāro
+
+\begin{english}
+  Therein what is `heightened formation of imperturbability'?
+\end{english}
+
+Kusalā cetanā arūp'āvacarā
+
+\begin{english}
+  Skillful volition of the formless-sphere
+\end{english}
+
+Ayaṁ vuccati āneñj'ābhisaṅkhāro
+
+\begin{english}
+  This is called `heightened formation of imperturbability'
+\end{english}
+
+Tattha katamo kāyasaṅkhāro
+
+\begin{english}
+  Therein what is `the bodily formation'?
+\end{english}
+
+\linkdest{endnote78-body}
+\begin{pali-hang}
+  Kāyasañcetanā kāyasaṅkhāro vacīsañcetanā vacīsaṅkhāro manosañcetanā cittasaṅkhāro\makeatletter\hyperlink{endnote78-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote78-appendix}{\hyperlink{endnote78-body}{Further explained in SN 12.25}}}}}\makeatother
+\end{pali-hang}
+
+\linkdest{endnote79-body}
+\begin{english-verses}
+  Volition associated with the body is the bodily formation\\
+  Volition associated with speech is the verbal formation\\
+  Volition associated with the mind is the mental\makeatletter\hyperlink{endnote79-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote79-appendix}{\hyperlink{endnote79-body}{\textit{Manosañcetanā cittasaṅkhāro} is translated here as ``volition associated with the mind is the mental formation''. Despite of mano and citta having in certain contexts different shades of meaning, both were translated here as ``mind''. Generally speaking mano refers more to the intellectual, whereas citta covers more the emotional/affective aspects of the mind. A detailed analysis of these terms can be found in Rune E. A. Johansson's ``\textit{Citta, Mano, Viññāṇa — a Psychosemantic Investigation}''.}}}}}\makeatother
+  formation
+\end{english-verses}
+
+Ime vuccanti avijjā-paccayā saṅkhārā
+
+\begin{english}
+  These are called `formations' \breathmark\ arising from ignorance as a condition
+\end{english}
+
+Tattha katamaṁ saṅkhāra-paccayā viññāṇaṁ
+
+\begin{english-hang}
+  Therein what is `consciousness' \breathmark\ arising from formations as a condition?
+\end{english-hang}
+
+\begin{pali-hang}
+  Cakkhuviññāṇaṁ sotaviññāṇaṁ ghānaviññāṇaṁ jivhāviññāṇaṁ kāyaviññāṇaṁ manoviññāṇaṁ
+\end{pali-hang}
+
+\begin{english-hang}
+  Eye-consciousness ear-consciousness nose-consciousness tongue-consciousness body-consciousness mind-consciousness
+\end{english-hang}
+
+Idaṁ vuccati saṅkhāra-paccayā viññāṇaṁ
+
+\begin{english}
+  This is called `consciousness' \breathmark\ arising from formations as a condition
+\end{english}
+
+Tattha katamaṁ viññāṇa-paccayā nāmarūpaṁ
+
+\begin{english-hang}
+  Therein what is `name-and-form' \breathmark\ arising from consciousness as a condition?
+\end{english-hang}
+
+Atthi nāmaṁ atthi rūpaṁ
+
+\begin{english}
+  There is name \breathmark\ there is form
+\end{english}
+
+Tattha katamaṁ nāmaṁ
+
+\begin{english}
+  Therein what is name?
+\end{english}
+
+\linkdest{endnote80-body}
+Vedanā saññā cetanā phasso manasikāro\makeatletter\hyperlink{endnote80-appendix}\Hy@raisedlink{{\pagenote{%
+      \hypertarget{endnote80-appendix}{\hyperlink{endnote80-body}{While Vibh 130 introduces a new definition for \textit{nāma} as ``\textit{vedanākkhandho}, \textit{saññākkhandho}, \textit{saṅkhārakkhandho},'' this definition stands in tension with the discourses, where \textit{nāma} is consistently defined as \textit{vedanā}, \textit{saññā}, \textit{cetanā}, \textit{phassa}, \textit{manasikāra} (e.g. MN 9, SN 12.2). It is for this reason that the passage from Vibh 130 was replaced with the 5-fold nāma as found throughout the suttas.}}}}}\makeatother
+
+\begin{english}
+  Feeling perception volition contact and attention
+\end{english}
+
+Idaṁ vuccati nāmaṁ
+
+\begin{english}
+  This is called `name'
+\end{english}
+
+Tattha katamaṁ rūpaṁ
+
+\begin{english}
+  Therein what is form?
+\end{english}
+
+Cattāro mahābhūtā catunnañ'ca mahābhūtānaṁ upādāya-rūpaṁ
+
+\begin{english-hang}
+  The four great elements and form dependent on the four great elements
+\end{english-hang}
+
+Idaṁ vuccati rūpaṁ
+
+\begin{english}
+  This is called `form'
+\end{english}
+
+Iti idañ'ca nāmaṁ idañ'ca rūpaṁ
+
+\begin{english}
+  Thus is this name and this form
+\end{english}
+
+Idaṁ vuccati viññāṇa-paccayā nāmarūpaṁ
+
+\begin{english-hang}
+  This is called `name-and-form' \breathmark\ arising from consciousness as a condition
+\end{english-hang}
+
+Tattha katamaṁ nāmarūpa-paccayā saḷ'āyatanaṁ
+
+\begin{english-hang}
+  Therein what is `the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition?
+\end{english-hang}
+
+\begin{pali-hang}
+  Cakkh'āyatanaṁ sot'āyatanaṁ ghān'āyatanaṁ jivh'āyatanaṁ kāy'āyatanaṁ man'āyatanaṁ
+\end{pali-hang}
+
+\begin{english-hang}
+  The eye-base ear-base nose-base tongue-base body-base mind-base
+\end{english-hang}
+
+Idaṁ vuccati nāmarūpa-paccayā saḷ'āyatanaṁ
+
+\begin{english-hang}
+  This is called `the sixfold-sense-base' \breathmark\ arising from name-and-form as a condition
+\end{english-hang}
+
+Tattha katamo saḷ'āyatana-paccayā phasso
+
+\begin{english-hang}
+  Therein what is `contact' \breathmark\ arising from the sixfold-sense-base as a condition?
+\end{english-hang}
+
+\begin{pali-hang}
+  Cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso manosamphasso
+\end{pali-hang}
+
+\begin{english-hang}
+  Eye-contact ear-contact nose-contact tongue-contact body-contact mind-contact
+\end{english-hang}
+
+Ayaṁ vuccati saḷ'āyatana-paccayā phasso
+
+\begin{english-hang}
+  This is called `contact' \breathmark\ arising from the sixfold-sense-base as a condition
+\end{english-hang}
+
+Tattha katamā phassa-paccayā vedanā
+
+\begin{english}
+  Therein what is `feeling' \breathmark\ arising from contact as a condition?
+\end{english}
+
+\begin{pali-hang}
+  Cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā
+\end{pali-hang}
+
+\begin{english-hang-verses}
+  Feeling born of eye-contact \breathmark\ feeling born of ear-contact \breathmark\
+  feeling born of nose-contact \breathmark\ feeling born of tongue-contact \breathmark\ feeling born of body-contact \breathmark\ feeling born of mind-contact
+\end{english-hang-verses}
+
+Ayaṁ vuccati phassa-paccayā vedanā
+
+\begin{english}
+  This is called `feeling' \breathmark\ arising from contact as a condition
+\end{english}
+
+Tattha katamā vedanā-paccayā taṇhā
+
+\begin{english}
+  Therein what is `craving' \breathmark\ arising from feeling as a condition?
+\end{english}
+
+\begin{pali-hang}
+  Rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā
+\end{pali-hang}
+
+\begin{english-hang}
+  Craving for forms \breathmark\ craving for sounds \breathmark\ craving for odours \breathmark\ craving for flavours \breathmark\ craving for tangibles \breathmark\ craving for mind-objects
+\end{english-hang}
+
+Ayaṁ vuccati vedanā-paccayā taṇhā
+
+\begin{english}
+  This is called `craving' \breathmark\ arising from feeling as a condition
+\end{english}
+
+Tattha katamaṁ taṇhā-paccayā upādānaṁ
+
+\begin{english}
+  Therein what is `clinging' \breathmark\ arising from craving as a condition?
+\end{english}
+
+\begin{pali-hang}
+  Kām'upādānaṁ diṭṭh'upādānaṁ sīlabbat'upādānaṁ attavād'upādānaṁ
+\end{pali-hang}
+
+\linkdest{endnote81-body}
+\begin{english-hang}
+  Clinging to sensuality \breathmark\ clinging to views \breathmark\ clinging to rules and \mbox{rituals}~\breathmark\ clinging to a sense of self\thinspace\makeatletter\hyperlink{endnote81-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote81-appendix}{\hyperlink{endnote81-body}{The term \textit{vāda} in \textit{attavādupādāna} does here not necessarily refer to ``a doctrine'' of self, but rather to a person's sense of being someone; the sense of being or having a self. This is not exactly the same as personality view, which is destroyed already at the stage of stream-entry. The lingering sense of having a self may continue for a while, despite of having already intellectually and/or experientially understood that there is no self to be found in relation to the five aggregates; just as conceit (\textit{māna}) is overcome only by the path to \textit{Arahantship}, despite of having uprooted personality view already at the stage of stream-entry.}}}}}\makeatother
+\end{english-hang}
+
+Idaṁ vuccati taṇhā-paccayā upādānaṁ
+
+\begin{english}
+  This is called `clinging' \breathmark\ arising from craving as a condition
+\end{english}
+
+Tattha katamo upādāna-paccayā bhavo
+
+\begin{english}
+  Therein what is `becoming' \breathmark\ arising from clinging as a condition?
+\end{english}
+
+\linkdest{endnote82-body}
+Kāmabhavo rūpabhavo arūpabhavo\makeatletter\hyperlink{endnote82-appendix}\Hy@raisedlink{{\pagenote{%
+      \hypertarget{endnote82-appendix}{\hyperlink{endnote82-body}{Here the Vibh. differs substantially from the analysis found in the suttas. It introduces a distinction between action becoming (\textit{kammabhava}) and rebirth becoming (\textit{upapattipbhava}). \textit{Kammabhava} is taken to refer to wholesome, unwholesome and imperturpable actions; \textit{upapattibhava} is taken to refer to sense/form/formless-sphere becoming, percipient/non-percipient/neither-percipient-nor-non-percipient becoming, one/four/five-component becoming. But since AN 3.76 says that \textit{kamma} (together with consciousness and craving) is a condition for \textit{bhava} (if no \textit{kamma}...then no becoming in the sense-sphere etc. would be discerned), it is not fit to say that \textit{kamma} itself is a form of \textit{bhava} (\textit{kammabhava}). However, it would go too far for the purpose of this chanting book, to discuss further implications of the analysis found in Vibh. For the sake of simplicity and emphasis on the earliest strata of the Buddha's teachings, we substituted the passage from Vibh. with the passage from SN 12.2, which defines becoming (\textit{bhava}) simply as sense/form/formless-sphere becoming. Understood in this way, becoming (\textit{bhava}) functions as an intermediary between clinging and birth, highlighting the gradual process of how rebirth in one of the three planes of existence takes place. This can even include an interim period between death and birth; thus it is called ``becoming'', rather than instant birth straight after death.}}}}}\makeatother
+
+\begin{english-hang}
+  Sense-sphere becoming form-sphere becoming formless-sphere becoming
+\end{english-hang}
+
+Ayaṁ vuccati upādāna-paccayā bhavo
+
+\begin{english}
+  This is called `becoming' \breathmark\ arising from clinging as a condition
+\end{english}
+
+Tattha katamā bhava-paccayā jāti
+
+\begin{english}
+  Therein what is `birth' \breathmark\ arising from becoming as a condition?
+\end{english}
+
+\linkdest{endnote83-body}
+\begin{pali-hang}
+  Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti \breathmark\ sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho\makeatletter\hyperlink{endnote83-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote83-appendix}{\hyperlink{endnote83-body}{While SN 12.2 does not contain a full elaboration on all types of \textit{dukkha}, a similar analysis is found in DN 22.}}}}}\makeatother
+\end{pali-hang}
+
+\begin{english-hang-verses}
+  The birth of various beings among the various classes of beings \breathmark\ their being born \breathmark\ descent \breathmark\ production \breathmark\ appearance of the aggregates \breathmark\ obtaining of the sense-bases
+\end{english-hang-verses}
+
+Ayaṁ vuccati bhava-paccayā jāti
+
+\begin{english}
+  This is called `birth' \breathmark\ arising from becoming as a condition
+\end{english}
+
+Tattha katamaṁ jāti-paccayā jarāmaraṇaṁ
+
+\begin{english}
+Therein what is `ageing-and-death'̓ \breathmark\ arising from birth as a condition?
+\end{english}
+
+Atthi jarā atthi maraṇaṁ
+
+\begin{english}
+There is ageing \breathmark\ there is death
+\end{english}
+
+Tattha katamā jarā
+
+\begin{english}
+Therein what is ageing?
+\end{english}
+
+\begin{pali-hang}
+Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā \breathmark\ jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko
+\end{pali-hang}
+
+\begin{english-hang-verses}
+The ageing of various beings among the various classes of beings \breathmark\ their growing old \breathmark\ brokenness of teeth \breathmark\ greyness of hair \breathmark\ wrinkling of skin \breathmark\ decline of vitality \breathmark\ decay of faculties
+\end{english-hang-verses}
+
+Ayaṁ vuccati jarā
+
+\begin{english}
+This is called `ageing'
+\end{english}
+
+Tattha katamaṁ maraṇaṁ
+
+\begin{english}
+Therein what is death?
+\end{english}
+
+\begin{pali-hang}
+Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti \breathmark\ cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālakiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvit'indriyass'upacchedo
+\end{pali-hang}
+
+\begin{english-hang-verses}
+The passing away of various beings from the various classes of beings \breathmark\ their perishing \breathmark\ breaking up \breathmark\ disappearance \breathmark\ dying \breathmark\ death \breathmark\ completion of time \breathmark\ breakup of the aggregates \breathmark\ laying down of the carcass \breathmark\ cutting off the life faculty
+\end{english-hang-verses}
+
+Idaṁ vuccati maraṇaṁ
+
+\begin{english}
+This is called `death'
+\end{english}
+
+Iti ayañ'ca jarā idañ'ca maraṇaṁ
+
+\begin{english}
+Thus are this ageing and this death
+\end{english}
+
+Idaṁ vuccati jāti-paccayā jarāmaraṇaṁ
+
+\begin{english}
+  This is called `ageing-and-death' \breathmark\ arising from birth as a condition
+\end{english}
+
+Tattha katamo soko
+
+\begin{english}
+  Therein what is sorrow?
+\end{english}
+
+\begin{pali-hang}
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ soko socanā socitattaṁ \breathmark\ antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
+\end{pali-hang}
+
+\linkdest{endnote84-body}
+\begin{english-hang-verses}
+  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view\makeatletter\hyperlink{endnote84-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote84-appendix}{\hyperlink{endnote84-body}{While SN 12.2 does not contain an elaboration on the different types of misfortune (\textit{vyasana}), it is found in DN 33, AN 4.192, and AN 5.130. \textit{Diṭṭhi} here does not mean just any view, but ``right view''. The loss of other views would not be particularly unfortunate from a Buddhist perspective, especially the loss of wrong view could be regarded as a great blessing. The right view that is lost in this example is not the right view of a noble disciple, but the right view of a worldling (\textit{puthujjana}), whose right view is not unshakeable and who may or may not change his view later on throughout the course of the present life or subsequent births.}}}}}\makeatother
+  \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the sorrow \breathmark\ sorrowing \breathmark\ sorrowfulness \breathmark\ inner sorrow \breathmark\ extensive inner sorrow \breathmark\ the mind's thorough burning \breathmark\ displeasure \breathmark\ the dart of sorrow
+\end{english-hang-verses}
+
+Ayaṁ vuccati soko
+
+\begin{english}
+  This is called `sorrow'
+\end{english}
+
+Tattha katamo paridevo
+
+\begin{english}
+  Therein what is lamentation?
+\end{english}
+
+\begin{pali-hang}
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ \breathmark\ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṁ
+\end{pali-hang}
+
+\begin{english-hang-verses}
+  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the wail and lament \breathmark\ wailing and lamenting \breathmark\ bewailing and lamentation \breathmark\ sorrowful talk \breathmark\ senseless \breathmark\ confused \breathmark\ sorrowful murmur \breathmark\ sorrowful murmuring \breathmark\ sorrowful murmuration
+\end{english-hang-verses}
+
+Ayaṁ vuccati paridevo
+
+\begin{english}
+  This is called `lamentation'
+\end{english}
+
+Tattha katamaṁ dukkhaṁ?
+
+\begin{english}
+  Therein what is pain?
+\end{english}
+
+\begin{pali-hang}
+  Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ \breathmark\ kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ kāyasamphassajā asātā dukkhā vedanā
+\end{pali-hang}
+
+\begin{english-hang-verses}
+  The bodily discomfort \breathmark\ bodily pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of body-contact \breathmark\ the uncomfortable painful feeling that is born of body-contact
+\end{english-hang-verses}
+
+Idaṁ vuccati dukkhaṁ
+
+\begin{english}
+  This is called `pain'
+\end{english}
+
+Tattha katamaṁ domanassaṁ
+
+\begin{english}
+  Therein what is displeasure?
+\end{english}
+
+\begin{pali-hang}
+  Yaṁ cetasikaṁ asātaṁ cetasikaṁ dukkhaṁ \breathmark\ cetosamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ cetosamphassajā asātā dukkhā vedanā
+\end{pali-hang}
+
+\begin{english-hang-verses}
+  The mental discomfort \breathmark\ mental pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of mind-contact \breathmark\ the uncomfortable painful feeling that is born of mind-contact
+\end{english-hang-verses}
+
+Idaṁ vuccati domanassaṁ
+
+\begin{english}
+  This is called `displeasure'
+\end{english}
+
+Tattha katamo upāyāso
+
+\begin{english}
+  Therein what is despair?
+\end{english}
+
+\begin{pali-hang}
+  Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa \breathmark\ aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkhadhammena \mbox{phuṭṭhassa}~\breathmark\ āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
+\end{pali-hang}
+
+\begin{english-hang-verses}
+  Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the trouble and despair \breathmark\ tribulation and desperation
+\end{english-hang-verses}
+
+Ayaṁ vuccati upāyāso
+
+\begin{english}
+  This is called `despair'
+\end{english}
+
+Evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti:
+
+\begin{english}
+  ``Such is the origin of this whole mass of suffering'' means this:
+\end{english}
+
+\begin{pali-hang}
+  Evam'etassa kevalassa dukkhakkhandhassa saṅgati hoti \breathmark\ samāgamo hoti samodhānaṁ hoti pātubhāvo hoti
+\end{pali-hang}
+
+\begin{english-hang}
+  Such is the combination \breathmark\ composition \breathmark\ collocation \breathmark\ manifestation \breathmark\ of this whole mass of suffering
+\end{english-hang}
+
+\begin{pali-hang}
+  Tena vuccati evam'etassa kevalassa dukkhakkhandhassa samudayo hotī'ti
+\end{pali-hang}
+
+\begin{english}
+  Therefore it is called\\
+  ``Such is the origin of this whole mass of suffering''
+\end{english}
+
+\suttaRef{[Vibh 130 / SN 12.2]}
+
+\bottomNav{dhamma-in-brief}
+#+end_export
 
 ** The Dhamma in Brief
 #+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
@@ -7257,7 +7921,7 @@ Saphalā saudrayā
 
 Yesaṁ mayaṁ paribhuñjāma\\
 Cīvara-piṇḍapāta\\
-Sen'āsana-gilānappaccaya bhesajja-parikkhāraṁ\\
+Sen'āsana-gilānapaccaya bhesajja-parikkhāraṁ\\
 Tesaṁ te kārā amhesu
 
 \begin{english-verses}
@@ -7863,10 +8527,8 @@ Katame dasa
   What are these ten?
 \end{english}
 
-\begin{pali-hang}
-  Vevaṇṇiy'amhi ajjhūpagato'ti\\
-  Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-\end{pali-hang}
+Vevaṇṇiy'amhi ajjhūpagato'ti\\
+Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \linkdest{endnote100-body}
 \begin{english-verses}
@@ -8068,11 +8730,15 @@ Atthi imasmiṁ kāye
     yakanaṁ         & \tr{liver} \\
     kilomakaṁ       & \tr{membranes} \\
   \end{tabular}
+\linkdest{endnote152-body}
+\linkdest{endnote153-body}
   \begin{tabular}{ r l }
     pihakaṁ         & \tr{spleen} \\
     papphāsaṁ       & \tr{lungs} \\
-    antaṁ           & \tr{bowels} \\
-    antaguṇaṁ       & \tr{entrails} \\
+    antaṁ           & \tr{intestines}\makeatletter\hyperlink{endnote152-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote152-appendix}{\hyperlink{endnote152-body}{WPN: ``bowels''}}}}} \\
+    antaguṇaṁ       & \tr{mesentery}\makeatletter\hyperlink{endnote153-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote153-appendix}{\hyperlink{endnote153-body}{WPN: ``entrails''}}}}} \\
     udariyaṁ        & \tr{undigested food} \\
     karīsaṁ         & \tr{excrement} \\
     pittaṁ          & \tr{bile} \\
@@ -8456,7 +9122,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
+  Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
 \end{pali-hang}
 
 ``Yaṁ kiñ'ci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman''ti
@@ -9306,7 +9972,7 @@ Kena ādittaṁ?
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the ear \breathmark\ becomes disenchanted with sounds \breathmark\ becomes disenchanted with ear-consciousness \breathmark\ becomes disenchanted with ear-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ with that too be becomes disenchanted
+  He becomes disenchanted with the ear \breathmark\ becomes disenchanted with sounds \breathmark\ becomes disenchanted with ear-consciousness \breathmark\ becomes disenchanted with ear-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9453,6 +10119,8 @@ Sukhī dīgh'āyuko bhava
   May you be happy and live long
 \end{english}
 
+\suttaRef{[Dhs A]}
+
 Abhivādana-sīlissa
 
 \begin{english}
@@ -9476,6 +10144,8 @@ Cattāro dhammā vaḍḍhanti
 \begin{english}
   Long-life beauty \breathmark\ happiness and strength
 \end{english}
+
+\suttaRef{[Dhp 109]}
 
 Bhavatu sabba-maṅgalaṁ
 
@@ -9549,7 +10219,7 @@ Sadā sotthī bhavantu te
   May you always be at ease
 \end{english}
 
-\suttaRef{[Khp 1.7 / Dhp 109 / Trad]}
+\suttaRef{[Trad]}
 
 \bottomNav{sharing-all-merits}
 
@@ -9572,11 +10242,13 @@ Sadā sotthī bhavantu te
       \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the \textit{Saṅghatthera}.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
 % \end{leader-yatha}
 
+\suttaRef{[Khp 1.7]}
+
 \linkdest{endnote120-body}
-\begin{leader-only}
+% \begin{leader-only}
   \anglebracketleft\ \hspace{-0.5mm}Sabb'ītiyo vivajjantu\makeatletter\hyperlink{endnote120-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote120-appendix}{\hyperlink{endnote120-body}{This line is recited only by the secondmost senior monk. Subsequently, the remainder of the \textit{Saṅgha} joins in.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
+% \end{leader-only}
 
 \vspace{-0.5cm}
 
@@ -9588,7 +10260,7 @@ Sadā sotthī bhavantu te
   Sukhī dīgh'āyuko bhava
 \end{pali-hangtogether}
 
-\suttaRef{[Khp A]}
+\suttaRef{[Dhs A]}
 
 \begin{pali-hang}
   Abhivādana-sīlissa\\
@@ -10126,7 +10798,7 @@ Sadā sotthī bhavantu te
   Freed from the snares of Mortal Temptation,\\
   He caused tameable people to reach security.\\
   \begin{english-hangtogether-verses}
-    I pay homage with my head to that excellent Buddha, the Protector \& Mentor for the world,\\
+    I pay homage with my head to that excellent Buddha, the protector \& mentor for the world,\\
   \end{english-hangtogether-verses}
   By the power of this, may you have triumph \& success,\\
   And may all your dangers be destroyed.
@@ -10271,17 +10943,12 @@ Sadā sotthī bhavantu te
   So declare the highest blessing.
 \end{english-verses}
 
-\begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Asevanā ca bālānaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader}
-
-\vspace{-0.99em}
-
-\begin{pali-hang-continued}
+\begin{pali-hang}
+  \anglebracketleft\ \hspace{-0.5mm}Asevanā ca bālānaṁ \hspace{-0.5mm}\anglebracketright\ \\
   Paṇḍitānañ'ca sevanā\\
   Pūjā ca pūjanīyānaṁ\\
   Etaṁ maṅgalam'uttamaṁ
-\end{pali-hang-continued}
+\end{pali-hang}
 
 \begin{english-verses}
   Not associating with fools,\\
@@ -10980,17 +11647,15 @@ Sadā sotthī bhavantu te
 \section{Buddha-dhamma-saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
 
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Iti'pi so bhagavā \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
-\begin{pali-hangtogether}
+\begin{pali-hang}
+  \anglebracketleft\ \hspace{-0.5mm}Iti'pi so bhagavā \hspace{-0.5mm}\anglebracketright\ \\
   Arahaṁ sammā-sambuddho\\
   Vijjā-caraṇa-sampanno\\
   Sugato loka-vidū\\
   Anuttaro purisa-damma-sārathi\\
   Satthā devamanussānaṁ\\
   Buddho bhagavā'ti
-\end{pali-hangtogether}
+\end{pali-hang}
 
 \begin{english-verses}
   Thus also is the Blessed One\\
@@ -11359,12 +12024,12 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Sabbe buddhā balappattā \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
 \vspace{-0.99em}
 
 \begin{pali-hang-continued}
+  \anglebracketleft\ \hspace{-0.5mm}Sabbe buddhā balappattā \hspace{-0.5mm}\anglebracketright\
   Paccekānañ'ca yaṁ balaṁ\\
   Arahantānañ'ca tejena\\
   Rakkhaṁ bandhāmi sabbaso
@@ -11972,9 +12637,9 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Visible and reactive dhammas\\
-  Non-visible and reactive dhammas\\
-  Non-visible and unobstructive dhammas
+  Visible and impinging dhammas\\
+  Non-visible and impinging dhammas\\
+  Non-visible and unimpinging dhammas
 \end{english-verses}
 
 \suttaRef{[Dhs 1]}
@@ -11990,7 +12655,7 @@ Sadā sotthī bhavantu te
 % TODO fix hang indent and hand indent continued
 % TODO don't let line end with the
 \begin{pali-hangtogether}
-  \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-1.00mm}\anglebracketright\ Rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
+  \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-1.00mm}\anglebracketright\ rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -12000,7 +12665,7 @@ Sadā sotthī bhavantu te
   \end{english-hangtogether-verses}
 \end{english-verses}
 
-\suttaRef{[MN 109]}
+\suttaRef{[DN 33]}
 
 \begin{pali-hangtogether-continued}
   Dvā-das'āyatanāni:
@@ -12282,8 +12947,8 @@ Sadā sotthī bhavantu te
 % \vspace{-0.99em}
 
 \begin{pali-hang-continued}
-  \anglebracketleft\ \hspace{-0.5mm}Sabbe sattā \hspace{-0.5mm}\anglebracketright\ \\
-  Maranti ca mariṁsu ca marissare\\
+  \anglebracketleft\ \hspace{-0.5mm}Sabbe sattā \hspace{-0.5mm}\anglebracketright\ maranti ca\\
+  Mariṁsu ca marissare\\
   Tath'ev'āhaṁ marissāmi\\
   N'atthi me ettha saṁsayo \hfill{[3x]}
 \end{pali-hang-continued}
@@ -12997,7 +13662,7 @@ Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
 
 \linkdest{endnote143-body}
 \begin{english-hang}
-  I undertake the training to refrain from dancing, singing, music and going to entertainments; from perfumes, beautification and adornments.\makeatletter\hyperlink{endnote143-appendix}\Hy@raisedlink{{\pagenote{%
+  I undertake the training to refrain from dancing, singing, music and seeing entertainments; from wearing garlands, using perfumes, and beautifying the body with cosmetics.\makeatletter\hyperlink{endnote143-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote143-appendix}{\hyperlink{endnote143-body}{WPN: ``entertainment, beautification, and adornment''}}}}}\makeatother
 \end{english-hang}
 
@@ -13020,7 +13685,7 @@ Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}
 \begin{english-verses}
   These Eight Trainings\\
   have virtue as a vehicle for happiness,\\
-  have virtue as a vehicle for good fortune,\\
+  have virtue as a vehicle for wealth,\\
   have virtue as a vehicle for liberation.\\
 \linkdest{endnote144-body}
   Therefore let virtue be purified.\makeatletter\hyperlink{endnote144-appendix}\Hy@raisedlink{{\pagenote{%
