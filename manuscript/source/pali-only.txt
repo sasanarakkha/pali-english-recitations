@@ -2,7 +2,7 @@ Buddh'ādi-āmisa-pūjā
 
 Yo so Bhagavā arahaṁ sammāsambuddho
 Svākkhāto yena bhagavatā dhammo
-Supaṭipanno yassa bhagavato sāvakasaṅgho
+Supaṭipanno yassa bhagavato sāvaka-saṅgho
 Tam'mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ
 Imehi sakkārehi yath'ārahaṁ āropitehi abhipūjayāma
 Sādhu no bhante bhagavā sucira-parinibbuto'pi
@@ -13,7 +13,7 @@ Arahaṁ Sammāsambuddho bhagavā
 Buddhaṁ bhagavantaṁ abhivādemi
 Svākkhāto Bhagavatā dhammo
 Dhammaṁ namassāmi
-Supaṭipanno Bhagavato sāvakasaṅgho
+Supaṭipanno Bhagavato sāvaka-saṅgho
 Saṅghaṁ namāmi
 
 Buddh'ābhitthuti
@@ -32,7 +32,7 @@ Tam'ahaṁ dhammaṁ abhipūjayāmi tam'ahaṁ dhammaṁ sirasā namāmi
 Saṅgh'ābhitthuti
 Handa mayaṁ saṅgh'ābhitthutiṁ karomase 
 
-Yo so supaṭipanno bhagavato sāvakasaṅgho Ujupaṭipanno bhagavato sāvakasaṅgho Ñāyapaṭipanno bhagavato sāvakasaṅgho Sāmīcipaṭipanno bhagavato sāvakasaṅgho Yad'idaṁ cattāri purisayugāni aṭṭha purisapuggalā Esa bhagavato sāvakasaṅgho Āhuneyyo Pāhuneyyo Dakkhiṇeyyo Añjali-karaṇīyo Anuttaraṁ puññakkhettaṁ lokassa
+Yo so supaṭipanno bhagavato sāvaka-saṅgho Uju-paṭipanno bhagavato sāvaka-saṅgho Ñāya-paṭipanno bhagavato sāvaka-saṅgho Sāmīci-paṭipanno bhagavato sāvaka-saṅgho Yad'idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā Esa bhagavato sāvaka-saṅgho Āhuneyyo Pāhuneyyo Dakkhiṇeyyo Añjali-karaṇīyo Anuttaraṁ puñña-kkhettaṁ lokassa
 Tam'ahaṁ saṅghaṁ abhipūjayāmi tam'ahaṁ saṅghaṁ sirasā namāmi
 
 Ratanattaya-paṇāma
@@ -48,10 +48,10 @@ Yo diṭṭha-santo sugat'ānubodhako Lolappahīno ariyo sumedhaso
 Vandāmi saṅghaṁ aham'ādarena taṁ
 Icc'evam'ekant'abhipūjaneyyakaṁ vatthu-ttayaṁ vandayat'ābhisaṅkhataṁ Puññaṁ mayā yaṁ mama sabb'upaddavā Mā hontu ve tassa pabhāva-siddhiyā
 Idha tathāgato loke uppanno arahaṁ sammāsambuddho
-Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito
+Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugata-ppavedito
 Mayan'taṁ dhammaṁ sutvā evaṁ jānāma
-Jāti'pi dukkhā Jarā'pi dukkhā Maraṇam'pi dukkhaṁ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā Appiyehi sampayogo dukkho Piyehi vippayogo dukkho Yam'p'icchaṁ na labhati tam'pi dukkhaṁ Saṅkhittena pañc'upādānakkhandhā dukkhā
-Seyyath'īdaṁ Rūp'ūpādānakkhandho Vedan'ūpādānakkhandho Saññ'ūpādānakkhandho Saṅkhār'ūpādānakkhandhoViññāṇ'ūpādānakkhandho
+Jāti'pi dukkhā Jarā'pi dukkhā Maraṇam'pi dukkhaṁ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā Appiyehi sampayogo dukkho Piyehi vippayogo dukkho Yam'p'icchaṁ na labhati tam'pi dukkhaṁ Saṅkhittena pañc'upādāna-kkhandhā dukkhā
+Seyyath'īdaṁ Rūp'ūpādāna-kkhandho Vedan'ūpādāna-kkhandho Saññ'ūpādāna-kkhandho Saṅkhār'ūpādāna-kkhandhoViññāṇ'ūpādāna-kkhandho
 Yesaṁ pariññāya Dharamāno so bhagavā Evaṁ bahulaṁ sāvake vineti
 Evaṁ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
 Rūpaṁ aniccaṁ Vedanā aniccā Saññā aniccā Saṅkhārā aniccā Viññāṇaṁ aniccaṁ 
@@ -69,7 +69,7 @@ Arahaṁ Sammāsambuddho bhagavā
 Buddhaṁ bhagavantaṁ abhivādemi
 Svākkhāto Bhagavatā dhammo
 Dhammaṁ namassāmi
-Supaṭipanno Bhagavato sāvakasaṅgho
+Supaṭipanno Bhagavato sāvaka-saṅgho
 Saṅghaṁ namāmi
 
 Buddha-paṭhama-bhāsita
@@ -263,7 +263,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 Seyyath'īdaṁ Sammā-diṭṭhi Sammā-saṅkappo Sammā-vācā Sammā-kammanto Sammā-ājīvo Sammā-vāyāmo Sammā-sati Sammā-samādhi
 Ayaṁ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā Cakkhu-karaṇī Ñāṇa-karaṇī Upasamāya Abhiññāya Sambodhāya Nibbānāya saṁvattati
 Idaṁ kho pana bhikkhave dukkhaṁ ariya-saccaṁ
-Jāti'pi dukkhā Jarā'pi dukkhā Byādhi'pi dukkho Maraṇam'pi dukkhaṁ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā Appiyehi sampayogo dukkho Piyehi vippayogo dukkho Yam'p'icchaṁ na labhati tam'pi dukkhaṁ Saṅkhittena pañc'upādānakkhandhā dukkhā
+Jāti'pi dukkhā Jarā'pi dukkhā Byādhi'pi dukkho Maraṇam'pi dukkhaṁ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā Appiyehi sampayogo dukkho Piyehi vippayogo dukkho Yam'p'icchaṁ na labhati tam'pi dukkhaṁ Saṅkhittena pañc'upādāna-kkhandhā dukkhā
 Idaṁ kho pana bhikkhave dukkha-samudayo ariya-saccaṁ
 Y'āyaṁ taṇhā Ponobbhavikā Nandi-rāga-sahagatā Tatra-tatr'ābhinandinī
 Seyyath'īdaṁ Kāma-taṇhā Bhava-taṇhā Vibhava-taṇhā
@@ -723,7 +723,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo seyyath'īdaṁ:
 Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi
 Ayaṁ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ: 
-Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tam'pi dukkhaṁ saṅkhittena pañc'upādānakkhandhā dukkhā
+Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tam'pi dukkhaṁ saṅkhittena pañc'upādāna-kkhandhā dukkhā
 Idaṁ kho pana bhikkhave dukkhasamudayo ariyasaccaṁ: 
 Y'āyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāmataṇhā bhavataṇhā vibhavataṇhā
 Idaṁ kho pana bhikkhave dukkhanirodho ariyasaccaṁ: 
@@ -974,7 +974,7 @@ Buddha-dhamma-saṅgha-guṇā
 
 Iti'pi so bhagavā Arahaṁ sammā-sambuddho Vijjā-caraṇa-sampanno Sugato loka-vidū Anuttaro purisa-damma-sārathi Satthā devamanussānaṁ Buddho bhagavā'ti
 Svākkhāto bhagavatā dhammo Sandiṭṭhiko akāliko ehi-passiko Opanayiko paccattaṁ veditabbo viññūhī'ti
-Supaṭipanno bhagavato sāvaka-saṅgho Uju-paṭipanno bhagavato sāvaka-saṅgho Ñāya-paṭipanno bhagavato sāvaka-saṅgho Sāmīci-paṭipanno bhagavato sāvaka-saṅgho Yad'idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā Esa bhagavato sāvaka-saṅgho Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo Anuttaraṁ puññakkhettaṁ lokassā'ti
+Supaṭipanno bhagavato sāvaka-saṅgho Uju-paṭipanno bhagavato sāvaka-saṅgho Ñāya-paṭipanno bhagavato sāvaka-saṅgho Sāmīci-paṭipanno bhagavato sāvaka-saṅgho Yad'idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā Esa bhagavato sāvaka-saṅgho Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo Anuttaraṁ puñña-kkhettaṁ lokassā'ti
 
 Yaṅ kiñci ratanaṁ loke
 
@@ -1135,7 +1135,7 @@ Iminā puññakammena
 Mā me bālasamāgamo
 Sataṁ samāgamo hotu
 Yāva nibbānapattiyā
-Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā Dhamm'ānudhamma-paṭipanno viharati Sāmīcipaṭipanno Anudhammacārī So tathāgataṁ sakkaroti garuṁ karoti māneti pūjeti apaciyati Paramāya pūjāya
+Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā Dhamm'ānudhamma-paṭipanno viharati Sāmīci-paṭipanno Anudhammacārī So tathāgataṁ sakkaroti garuṁ karoti māneti pūjeti apaciyati Paramāya pūjāya
 Tasmā Imāya dhamm'ānudhamma-paṭipattiyā buddhaṁ pūjemi Paramāya pūjāya 
 Addhā imāya paṭipadāya jāti-jarā-byādhi-maraṇamhā parimuccissāmi
 Idaṁ me puññaṁ āsavakkhayā-vahaṁ hotu

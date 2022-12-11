@@ -487,7 +487,7 @@ Svākkhāto yena bhagavatā dhammo
   To the Teaching which he expounded so well
 \end{english}
 
-Supaṭipanno yassa bhagavato sāvakasaṅgho
+Supaṭipanno yassa bhagavato sāvaka-saṅgho
 
 \begin{english}
   And to the Blessed One's disciples who have practiced well
@@ -574,7 +574,7 @@ Dhammaṁ namassāmi\relax
 
 \vspace{-0.5cm}
 
-Bhagavato sāvakasaṅgho
+Bhagavato sāvaka-saṅgho
 
 \begin{english}
   The Blessed One's disciples who have practiced well
@@ -804,13 +804,13 @@ Paccattaṁ veditabbo viññūhi
   \anglebracketleft\ \hspace{-0.5mm}Now let us recite in praise of the Saṅgha \hspace{-0.5mm}\anglebracketright\
 \end{leader-english-belowpali}
 
-Yo so supaṭipanno bhagavato sāvakasaṅgho
+Yo so supaṭipanno bhagavato sāvaka-saṅgho
 
 \begin{english}
   They are the Blessed One's disciples who have practiced well
 \end{english}
 
-Ujupaṭipanno bhagavato sāvakasaṅgho
+Uju-paṭipanno bhagavato sāvaka-saṅgho
 
 \linkdest{endnote5-body}
 \begin{english}
@@ -819,7 +819,7 @@ Ujupaṭipanno bhagavato sāvakasaṅgho
 
 \end{english}
 
-Ñāyapaṭipanno bhagavato sāvakasaṅgho
+Ñāya-paṭipanno bhagavato sāvaka-saṅgho
 
 \linkdest{endnote6-body}
 \begin{english}
@@ -828,7 +828,7 @@ Ujupaṭipanno bhagavato sāvakasaṅgho
 
 \end{english}
 
-Sāmīcipaṭipanno bhagavato sāvakasaṅgho
+Sāmīci-paṭipanno bhagavato sāvaka-saṅgho
 
 \linkdest{endnote7-body}
 \begin{english}
@@ -837,13 +837,13 @@ Sāmīcipaṭipanno bhagavato sāvakasaṅgho
 
 \end{english}
 
-Yad'idaṁ cattāri purisayugāni aṭṭha purisapuggalā
+Yad'idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā
 
 \begin{english}
   That is the four pairs the eight kinds of Noble Beings
 \end{english}
 
-Esa bhagavato sāvakasaṅgho
+Esa bhagavato sāvaka-saṅgho
 
 \begin{english}
   These are the Blessed One's disciples
@@ -873,7 +873,7 @@ Añjali-karaṇīyo
   Worthy of respect
 \end{english}
 
-Anuttaraṁ puññakkhettaṁ lokassa
+Anuttaraṁ puñña-kkhettaṁ lokassa
 
 \linkdest{endnote149-body}
 \begin{english}
@@ -1021,7 +1021,7 @@ Idha tathāgato loke uppanno arahaṁ sammāsambuddho
 \end{english}
 
 \begin{pali-hang}
-  Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito
+  Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugata-ppavedito
 \end{pali-hang}
 
 \linkdest{endnote13-body}
@@ -1088,7 +1088,7 @@ Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 \suttaRef{[SN 56.11]}
 
-Saṅkhittena pañc'upādānakkhandhā dukkhā
+Saṅkhittena pañc'upādāna-kkhandhā dukkhā
 
 \linkdest{endnote15-body}
 \begin{english}
@@ -1102,25 +1102,25 @@ Seyyath'īdaṁ
   These are as follows
 \end{english}
 
-Rūp'ūpādānakkhandho
+Rūp'ūpādāna-kkhandho
 
 \begin{english}
   Attachment to form
 \end{english}
 
-Vedan'ūpādānakkhandho
+Vedan'ūpādāna-kkhandho
 
 \begin{english}
   Attachment to feeling
 \end{english}
 
-Saññ'ūpādānakkhandho
+Saññ'ūpādāna-kkhandho
 
 \begin{english}
   Attachment to perception
 \end{english}
 
-Saṅkhār'ūpādānakkhandho
+Saṅkhār'ūpādāna-kkhandho
 
 \linkdest{endnote16-body}
 \begin{english}
@@ -1128,7 +1128,7 @@ Saṅkhār'ūpādānakkhandho
         \hypertarget{endnote16-appendix}{\hyperlink{endnote16-body}{WPN: ``Attachment to mental formations''. While the Pali term “saṅkhārā” only means “formations”, Bhikkhu Bodhi’s rendering as “volitional formations” captures well the intentional/volitional forces behind the formative nature of the mind.}}}}}\makeatother
 \end{english}
 
-Viññāṇ'ūpādānakkhandho
+Viññāṇ'ūpādāna-kkhandho
 
 \linkdest{endnote17-body}
 \begin{english}
@@ -1393,7 +1393,7 @@ Dhammaṁ namassāmi
 
 \vspace{-0.5cm}
 
-Bhagavato sāvakasaṅgho
+Bhagavato sāvaka-saṅgho
 
 \begin{english}
   The Blessed One's disciples who have practiced well
@@ -3093,7 +3093,7 @@ Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
   Not attaining one's wishes is dukkha
 \end{english}
 
-Saṅkhittena pañc'upādānakkhandhā dukkhā
+Saṅkhittena pañc'upādāna-kkhandhā dukkhā
 
 \linkdest{endnote54-body}
 \begin{english}
@@ -9028,7 +9028,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-   Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādānakkhandhā dukkhā
+   Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādāna-kkhandhā dukkhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -11687,7 +11687,7 @@ Sadā sotthī bhavantu te
   Yad'idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā\\
   Esa bhagavato sāvaka-saṅgho\\
   Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo\\
-  Anuttaraṁ puññakkhettaṁ lokassā'ti
+  Anuttaraṁ puñña-kkhettaṁ lokassā'ti
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -13374,7 +13374,7 @@ Dhamm'ānudhamma-paṭipanno viharati
   Who dwells practicing according to the Dhamma
 \end{english}
 
-Sāmīcipaṭipanno
+Sāmīci-paṭipanno
 
 \begin{english}
   Practicing properly

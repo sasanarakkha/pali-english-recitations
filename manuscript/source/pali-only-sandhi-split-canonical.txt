@@ -6,10 +6,10 @@ Yo imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ Sassamaṇa brāhmaṇi
  
 Yo so svākkhāto bhagavatā dhammo Sandiṭṭhiko Akāliko Ehipassiko Opanayiko Paccattaṃ veditabbo viññūhi 
  
-Yo so supaṭipanno bhagavato sāvakasaṅgho Ujupaṭipanno bhagavato sāvakasaṅgho Ñāyapaṭipanno bhagavato sāvakasaṅgho Sāmīcipaṭipanno bhagavato sāvakasaṅgho Yaṃ idaṃ cattāri purisayugāni aṭṭha purisapuggalā Esa bhagavato sāvakasaṅgho Āhuneyyo Pāhuneyyo Dakkhiṇeyyo Añjali karaṇīyo Anuttaraṃ puññakkhettaṃ lokassa 
+Yo so supaṭipanno bhagavato sāvaka-saṅgho Uju-paṭipanno bhagavato sāvaka-saṅgho Ñāya-paṭipanno bhagavato sāvaka-saṅgho Sāmīci-paṭipanno bhagavato sāvaka-saṅgho Yaṃ idaṃ cattāri purisa-yugāni aṭṭha purisa-puggalā Esa bhagavato sāvaka-saṅgho Āhuneyyo Pāhuneyyo Dakkhiṇeyyo Añjali karaṇīyo Anuttaraṃ puñña-kkhettaṃ lokassa 
  
-Jāti api dukkhā Jarā api dukkhā Maraṇaṃ api dukkhaṃ Soka parideva dukkha domanassa upāyāsā api dukkhā Appiyehi sampayogo dukkho Piyehi vippayogo dukkho Yaṃ api icchaṃ na labhati taṃ api dukkhaṃ Saṅkhittena pañca upādānakkhandhā dukkhā 
-Seyyathā idaṃ Rūpa upādānakkhandho Vedana upādānakkhandho Sañña ūpādānakkhandho Saṅkhāra upādānakkhandhoViññāṇa upādānakkhandho 
+Jāti api dukkhā Jarā api dukkhā Maraṇaṃ api dukkhaṃ Soka parideva dukkha domanassa upāyāsā api dukkhā Appiyehi sampayogo dukkho Piyehi vippayogo dukkho Yaṃ api icchaṃ na labhati taṃ api dukkhaṃ Saṅkhittena pañca upādāna-kkhandhā dukkhā 
+Seyyathā idaṃ Rūpa upādāna-kkhandho Vedana upādāna-kkhandho Sañña ūpādāna-kkhandho Saṅkhāra upādāna-kkhandhoViññāṇa upādāna-kkhandho 
  
 Rūpaṃ aniccaṃ Vedanā aniccā Saññā aniccā Saṅkhārā aniccā Viññāṇaṃ aniccaṃ  
 Rūpaṃ anattā Vedanā anattā Saññā anattā Saṅkhārā anattā Viññāṇaṃ anattā 
@@ -627,7 +627,7 @@ Ayaṃ eva ariyo aṭṭha aṅgiko maggo seyyathā idaṃ:
 Sammā diṭṭhi sammā saṅkappo sammā vācā sammā kammanto sammā ājīvo sammā vāyāmo sammā sati sammā samādhi 
 Ayaṃ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati 
 Idaṃ kho pana bhikkhave dukkhaṃ ariyasaccaṃ:  
-Jāti api dukkhā jarā api dukkhā byādhi api dukkho maraṇaṃ api dukkhaṃ Soka parideva dukkha domanassa upāyāsā api dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yaṃ apicchaṃ na labhati taṃ api dukkhaṃ saṅkhittena pañca upādānakkhandhā dukkhā 
+Jāti api dukkhā jarā api dukkhā byādhi api dukkho maraṇaṃ api dukkhaṃ Soka parideva dukkha domanassa upāyāsā api dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yaṃ apicchaṃ na labhati taṃ api dukkhaṃ saṅkhittena pañca upādāna-kkhandhā dukkhā 
 Idaṃ kho pana bhikkhave dukkhasamudayo ariyasaccaṃ:  
 Ya āyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatra tatra abhinandinī seyyathā idaṃ: kāmataṇhā bhavataṇhā vibhavataṇhā 
 Idaṃ kho pana bhikkhave dukkhanirodho ariyasaccaṃ:  
@@ -827,7 +827,7 @@ Katā me rakkhā katā me parittā Paṭikkamantu bhūtāni So ahaṃ namo bhaga
  
 Iti api so bhagavā Arahaṃ sammā sambuddho Vijjā caraṇa sampanno Sugato loka vidū Anuttaro purisa damma sārathi Satthā devamanussānaṃ Buddho bhagava iti 
 Svākkhāto bhagavatā dhammo Sandiṭṭhiko akāliko ehi passiko Opanayiko paccattaṃ veditabbo viññūhi iti 
-Supaṭipanno bhagavato sāvaka saṅgho Uju paṭipanno bhagavato sāvaka saṅgho Ñāya paṭipanno bhagavato sāvaka saṅgho Sāmīci paṭipanno bhagavato sāvaka saṅgho Yaṃ idaṃ cattāri purisa yugāni aṭṭha purisa puggalā Esa bhagavato sāvaka saṅgho Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali karaṇīyo Anuttaraṃ puññakkhettaṃ lokassa iti 
+Supaṭipanno bhagavato sāvaka saṅgho Uju paṭipanno bhagavato sāvaka saṅgho Ñāya paṭipanno bhagavato sāvaka saṅgho Sāmīci paṭipanno bhagavato sāvaka saṅgho Yaṃ idaṃ cattāri purisa yugāni aṭṭha purisa puggalā Esa bhagavato sāvaka saṅgho Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali karaṇīyo Anuttaraṃ puñña-kkhettaṃ lokassa iti 
  
 Sunakkhattaṃ sumaṅgalaṃ Supabhātaṃ suhuṭṭhitaṃ Sukhaṇo sumuhutto ca Suyiṭṭhaṃ brahmacārisu 
 Padakkhiṇaṃ kāya kammaṃ Vācā kammaṃ padakkhiṇaṃ Padakkhiṇaṃ mano kammaṃ Paṇīdhi te padakkhiṇe Padakkhiṇāni katvāna Labhanta atthe padakkhiṇe 
@@ -841,4 +841,4 @@ Aniccā vata saṅkhārā Uppāda vaya dhammino Uppajjitvā nirujjhanti Tesaṃ 
  
 Aciraṃ vata ayaṃ kāyo Paṭhaviṃ adhisessati Chuḍḍho apeta viññāṇo Niratthaṃ va kaliṅgaraṃ  
  
-Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā Dhamma anudhamma paṭipanno viharati Sāmīcipaṭipanno Anudhammacārī So tathāgataṃ sakkaroti garuṃ karoti māneti pūjeti apaciyati Paramāya pūjāya
+Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā Dhamma anudhamma paṭipanno viharati Sāmīci-paṭipanno Anudhammacārī So tathāgataṃ sakkaroti garuṃ karoti māneti pūjeti apaciyati Paramāya pūjāya
