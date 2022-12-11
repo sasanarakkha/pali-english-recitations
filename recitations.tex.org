@@ -13732,7 +13732,7 @@ Sādhu sādhu sādhu
       & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
       Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
       Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
-      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & m \\
+      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
       Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
       Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
     \end{tblr}}
