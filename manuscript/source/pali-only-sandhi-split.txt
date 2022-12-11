@@ -154,9 +154,9 @@ Passa cittakataṁ bimbaṁ – Arukāyaṁ samussitaṁ
 Āturaṁ bahu-saṅkappaṁ – Yassa na atthi dhuvaṁ ṭhiti
 Passa cittakataṁ rūpaṁ – Maṇinā kuṇḍalena ca 
 Aṭṭhiṁ tacena onaddhaṁ – Saha vatthehi sobhati
-Alattakakatā pādā – Mukhaṁ cuṇṇakamakkhitaṁ 
+Alattaka-katā pādā – Mukhaṁ cuṇṇaka-makkhitaṁ 
 Alaṁ bālassa mohāya – No ca pāragavesino
-Aṭṭhapadakatā kesā – Nettā añjanamakkhitā 
+Aṭṭha-pada-katā kesā – Nettā añjana-makkhitā 
 Alaṁ bālassa mohāya – No ca pāragavesino
 Añjanī va navā cittā – Pūtikāyo alaṁ kato 
 Alaṁ bālassa mohāya – No ca pāragavesino
@@ -170,27 +170,27 @@ Tasmā hi paññā va dhanena seyyā Yāya vosānaṁ idha adhigacchati
 Abyositattā hi bhava abhavesu Pāpāni kammāni karoti mohā
 Kāmā hi citrā madhurā manoramā Virūparūpena mathenti cittaṁ 
 Ādīnavaṁ kāmaguṇesu disvā Tasmā ahaṁ pabbajito amhi rāja
-Dumapphalānī va patanti māṇavā Daharā ca vuḍḍhā ca sarīrabhedā 
+Duma-pphalānī va patanti māṇavā Daharā ca vuḍḍhā ca sarīrabhedā 
 Etaṁ api disvā pabbajito amhi rāja Apaṇṇakaṁ sāmaññaṁ eva seyyo 
 
 Pārāpariya thera gāthā
 Handa mayaṁ pārāpariyatthera gāthāyo bhaṇāmase 
 
-Aññathā lokanāthamhi – Tiṭṭhante purisa uttame 
+Aññathā loka-nāthamhi – Tiṭṭhante purisa uttame 
 Iriyaṁ āsi bhikkhūnaṁ – Aññathā dāni dissati
-Sītavātaparittāṇaṁ – Hirikopīnachādanaṁ 
+Sīta-vāta-parittāṇaṁ – Hirikopīna-chādanaṁ 
 Matta aṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itara itare
 Paṇītaṁ yadi vā lūkhaṁ – Appaṁ vā yadi vā bahuṁ 
 Yāpana atthaṁ abhuñjiṁsu – Agiddhā na adhimucchitā
 Jīvitānaṁ parikkhāre – Bhesajje atha paccaye 
 Na bāḷhaṁ ussukā āsuṁ – Yathā te āsavakkhaye
-Araññe rukkhamūlesu – Kandarāsu guhāsu ca 
+Araññe rukkha-mūlesu – Kandarāsu guhāsu ca 
 Vivekaṁ anubrūhantā – Vihaṁsu taṁ parāyaṇā
-Nīcā niviṭṭhā subharā – Mudū atthaddhamānasā 
+Nīcā niviṭṭhā subharā – Mudū atthaddha-mānasā 
 Abyāsekā amukharā – Atthacintā vas anugā
 Tato pāsādikaṁ āsi – Gataṁ bhuttaṁ nisevitaṁ 
 Siniddhā teladhārā va – Ahosi iriyāpatho
-Yathā kaṇṭakaṭṭhānamhi – Careyya anupāhano 
+Yathā kaṇṭaka-ṭṭhānamhi – Careyya anupāhano 
 Satiṁ upaṭṭhapetvāna – Evaṁ gāme munī care
 Saritvā pubbake yogī – Tesaṁ vattaṁ anussaraṁ 
 Kiṁ ca api pacchimo kālo – Phuseyya amataṁ padaṁ
@@ -212,8 +212,8 @@ Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti mahapphalaṁ iti
 Pakiṇṇaka gāthā
 Handa mayaṁ pakiṇṇaka gāthāyo bhaṇāmase 
 
-Attadīpā bhikkhave viharatha attasaraṇā anaññasaraṇā 
-Dhammadīpā dhammasaraṇā anaññasaraṇā
+Atta-dīpā bhikkhave viharatha atta-saraṇā anañña-saraṇā 
+Dhamma-dīpā dhamma-saraṇā anañña-saraṇā
 Appassuta āyaṁ puriso – Balibaddo va jīrati 
 Maṁsāni tassa vaḍḍhanti – Paññā tassa na vaḍḍhati
 Uyyuñjanti satīmanto – Na nikete ramanti te 
@@ -221,7 +221,7 @@ Haṁsā va pallalaṁ hitvā – Okaṁ okaṁ jahanti te
 Yaṁ pubbe taṁ visosehi – Pacchā te sugat anugo kiñcanaṁ 
 Majjhe ce no gahessasi – Upasanto carissasi 
 Uṭṭhahatha nisīdatha – Ko attho supitena vo 
-Āturānaṁ hi kā niddā – Sallaviddhāna ruppataṁ
+Āturānaṁ hi kā niddā – Salla-viddhāna ruppataṁ
 Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā 
 Mā vo pamatte viññāya – Maccurājā amohayittha vas anuge
 Yāya devā manussā ca – Sitā tiṭṭhanti atthikā 
@@ -231,10 +231,10 @@ Pamādo rajo pamādo – Pamād anupatito rajo
 Appamādena vijjāya – Abbahe sallaṁ attano iti
 Piyato jāyatī soko – Piyato jāyatī bhayaṁ 
 Piyato vippamuttassa – na atthi soko kuto bhayaṁ
-Tiṭṭhata eva nibbānaṁ Tiṭṭhati nibbānagāmī maggo Maggakkhāyī tathāgato
+Tiṭṭhata eva nibbānaṁ Tiṭṭhati nibbānagāmī maggo Magg'akkhāyī tathāgato
 Tumhehi kiccaṁ ātappaṁ
 Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ Hitesinā anukampakena anukampaṁ upādāya Kataṁ vo taṁ mayā 
-Etāni bhikkhave rukkhamūlāni Etāni suñña agārāni 
+Etāni bhikkhave rukkha-mūlāni Etāni suñña agārāni 
 Jhāyatha bhikkhave mā pamādattha
 Mā pacchā vippaṭisārino ahuvattha
 Ayaṁ vo amhākaṁ anusāsani iti
@@ -302,7 +302,7 @@ Taṁ enaṁ tathāgato uttariṁ vineti: ehi tvaṁ bhikkhu indriyesu guttadvā
 Ehi tvaṁ bhikkhu bhojane mattaññū hohi. Paṭisaṅkhā yoniso āhāraṁ āhāreyyāsi—na eva davāya na madāya na maṇḍanāya na vibhūsanāya yāva eva imassa kāyassa ṭhitiyā yāpanāya vihiṁsa uparatiyā brahmacariy anuggahāya—iti purāṇaṁ ca vedanaṁ paṭihaṅkhāmi navaṁ ca vedanaṁ na uppādessāmi yātrā ca me bhavissati anavajjatā ca phāsuvihāro ca iti.
 Ehi tvaṁ bhikkhu jāgariyaṁ anuyutto viharāhi, divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehi, rattiyā paṭhamaṁ yāmaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehi, rattiyā majjhimaṁ yāmaṁ dakkhiṇena passena sīhaseyyaṁ kappeyyāsi pāde pādaṁ accādhāya sato sampajāno uṭṭhānasaññaṁ manasikaritvā, rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehi iti.
 Ehi tvaṁ bhikkhu satisampajaññena samannāgato hohi, abhikkante paṭikkante sampajānakārī, ālokite vilokite sampajānakārī, samiñjite pasārite sampajānakārī, saṅghāṭipattacīvaradhāraṇe sampajānakārī, asite pīte khāyite sāyite sampajānakārī, uccārapassāvakamme sampajānakārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakāri iti.
-Ehi tvaṁ bhikkhu vivittaṁ sena asanaṁ bhajāhi araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjaṁ iti.
+Ehi tvaṁ bhikkhu vivittaṁ sena asanaṁ bhajāhi araññaṁ rukkha-mūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjaṁ iti.
 So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So abhijjhaṁ loke pahāya vigata abhijjhena cetasā viharati abhijjhāya cittaṁ parisodheti, byāpāda padosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūta hit anukampī byāpādapadosā cittaṁ parisodheti, thina middhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno thinamiddhā cittaṁ parisodheti, uddhacca kukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasanta citto uddhaccakukkuccā cittaṁ parisodheti, vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṁkathī kusalesu dhammesu vicikicchāya cittaṁ parisodheti.
 Bhikkhu yathā iṇaṁ yathā rogaṁ yathā bandhana agāraṁ yathā dāsabyaṁ yathā kantāra addhāna maggaṁ ime pañca nīvaraṇe appahīne attani samanupassati. Seyyathā api bhikkhave āṇaṇyaṁ yathā ārogyaṁ yathā bandhanāmokkhaṁ yathā bhujissaṁ yathā khemantabhūmiṁ evaṁ eva bhikkhu ime pañca nīvaraṇe pahīne attani samanupassati. So tatonidānaṁ labhetha pāmojjaṁ adhigaccheyya somanassaṁ.
 So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe paṭhamaṁ jhānaṁ dutiyaṁ jhānaṁ tatiyaṁ jhānaṁ catutthaṁ jhānaṁ upasampajja viharati.

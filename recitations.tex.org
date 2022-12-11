@@ -1942,7 +1942,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \begin{verses}
-  Alattakakatā pādā – Mukhaṁ cuṇṇakamakkhitaṁ\\
+  Alattaka-katā pādā – Mukhaṁ cuṇṇaka-makkhitaṁ\\
   Alaṁ bālassa mohāya – No ca pāragavesino
 \end{verses}
 
@@ -1954,7 +1954,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \begin{verses}
-  Aṭṭhapadakatā kesā – Nettā añjanamakkhitā\\
+  Aṭṭha-pada-katā kesā – Nettā añjana-makkhitā\\
   Alaṁ bālassa mohāya – No ca pāragavesino
 \end{verses}
 
@@ -2048,7 +2048,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \begin{verses}
-  Dumapphalānī'va patanti māṇavā\\
+  Duma-pphalānī'va patanti māṇavā\\
   Daharā ca vuḍḍhā ca sarīrabhedā\\
   Etam'pi disvā pabbajito'mhi rāja\\
   Apaṇṇakaṁ sāmaññam'eva seyyo
@@ -2079,7 +2079,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{leader}
 
 \begin{verses}
-  Aññathā lokanāthamhi – Tiṭṭhante puris'uttame\\
+  Aññathā loka-nāthamhi – Tiṭṭhante puris'uttame\\
   Iriyaṁ āsi bhikkhūnaṁ – Aññathā dāni dissati
 \end{verses}
 
@@ -2091,7 +2091,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \begin{verses}
-  Sītavātaparittāṇaṁ – Hirikopīnachādanaṁ\\
+  Sīta-vāta-parittāṇaṁ – Hirikopīna-chādanaṁ\\
   Matt'aṭṭhiyaṁ abhuñjiṁsu – Santuṭṭhā itar'ītare
 \end{verses}
 
@@ -2127,7 +2127,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \begin{verses}
-  Araññe rukkhamūlesu – Kandarāsu guhāsu ca\\
+  Araññe rukkha-mūlesu – Kandarāsu guhāsu ca\\
   Vivekam'anubrūhantā – Vihaṁsu tap'parāyaṇā
 \end{verses}
 
@@ -2139,7 +2139,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \begin{verses}
-  Nīcā niviṭṭhā subharā – Mudū atthaddhamānasā\\
+  Nīcā niviṭṭhā subharā – Mudū atthaddha-mānasā\\
   Abyāsekā amukharā – Atthacintā vas'ānugā
 \end{verses}
 
@@ -2163,7 +2163,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \begin{verses}
-  Yathā kaṇṭakaṭṭhānamhi – Careyya anupāhano\\
+  Yathā kaṇṭaka-ṭṭhānamhi – Careyya anupāhano\\
   Satiṁ upaṭṭhapetvāna – Evaṁ gāme munī care
 \end{verses}
 
@@ -2285,8 +2285,8 @@ Etaṁ buddhāna'sāsanaṁ
 \end{leader}
 
 \begin{verses}
-  Attadīpā bhikkhave viharatha attasaraṇā anaññasaraṇā\\
-  Dhammadīpā dhammasaraṇā anaññasaraṇā
+  Atta-dīpā bhikkhave viharatha atta-saraṇā anañña-saraṇā\\
+  Dhamma-dīpā dhamma-saraṇā anañña-saraṇā
 \end{verses}
 
 \begin{english-verses}
@@ -2342,7 +2342,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 \begin{verses}
   Uṭṭhahatha nisīdatha – Ko attho supitena vo\\
-  Āturānañ'hi kā niddā – Sallaviddhāna ruppataṁ
+  Āturānañ'hi kā niddā – Salla-viddhāna ruppataṁ
 \end{verses}
 
 \begin{english-verses}
@@ -2426,7 +2426,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english}
 
 \begin{verses}
-  Maggakkhāyī tathāgato
+  Magg'akkhāyī tathāgato
 \end{verses}
 
 \begin{english}
@@ -2465,7 +2465,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english}
 
 \begin{verses}
-  Etāni bhikkhave rukkhamūlāni
+  Etāni bhikkhave rukkha-mūlāni
 \end{verses}
 
 \begin{english}
@@ -3540,7 +3540,7 @@ Tam'enaṁ tathāgato uttariṁ vineti: `ehi tvaṁ bhikkhu indriyesu guttadvār
 
 `Ehi tvaṁ bhikkhu satisampajaññena samannāgato hohi, abhikkante paṭikkante sampajānakārī, ālokite vilokite sampajānakārī, samiñjite pasārite sampajānakārī, saṅghāṭipattacīvaradhāraṇe sampajānakārī, asite pīte khāyite sāyite sampajānakārī, uccārapassāvakamme sampajānakārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī'ti.
 
-`Ehi tvaṁ bhikkhu vivittaṁ sen'āsanaṁ bhajāhi araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjan'ti.
+`Ehi tvaṁ bhikkhu vivittaṁ sen'āsanaṁ bhajāhi araññaṁ rukkha-mūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjan'ti.
 
 So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So abhijjhaṁ loke pahāya vigat'ābhijjhena cetasā viharati abhijjhāya cittaṁ parisodheti, byāpāda-padosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūta-hit'ānukampī byāpādapadosā cittaṁ parisodheti, thina-middhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno thinamiddhā cittaṁ parisodheti, uddhacca-kukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasanta-citto uddhaccakukkuccā cittaṁ parisodheti, vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṁkathī kusalesu dhammesu vicikicchāya cittaṁ parisodheti.
 
