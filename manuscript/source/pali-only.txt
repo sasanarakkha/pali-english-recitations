@@ -207,7 +207,7 @@ Katañ'ca sukataṁ seyyo – Yaṁ katvā n'ānutappati
 Kuso yathā duggahito – Hattham'ev'ānukantati 
 Sāmaññaṁ dupparāmaṭṭhaṁ – Nirayāy'ūpakaḍḍhati
 Yaṁ'kiñci sithilaṁ kammaṁ – Saṅkiliṭṭhañ'ca yaṁ vataṁ 
-Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti mahapphalan'ti
+Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti maha-pphalan'ti
 
 Pakiṇṇaka-gāthā
 Handa mayaṁ pakiṇṇaka-gāthāyo bhaṇāmase 
@@ -858,12 +858,12 @@ Bhojana-dān'ānumodanā
 
 Yo yassa bhojanaṁ deti So tassa deti pañca'pi Āyuṁ balaṁ sukhaṁ vaṇṇaṁ Paṭibhānañ'ca pañcamaṁ 
 Āyu-do bala-do dhīro Vaṇṇa-do paṭibhāṇa-do Sukhassa dātā medhāvī Sukhaṁ so adhigacchati Āyuṁ datvā balaṁ vaṇṇaṁ Sukhañ'ca paṭibhānakaṁ Dīgh'āyu yasavā hoti Yattha yatth'ūpapajjati 
-Abhivādanasīlissa Niccaṁ vuḍḍh'āpacāyino Cattāro dhammā vaḍḍhanti Āyu vaṇṇo sukhaṁ balaṁ 
+Abhivādana-sīlissa Niccaṁ vuḍḍh'āpacāyino Cattāro dhammā vaḍḍhanti Āyu vaṇṇo sukhaṁ balaṁ 
 Padakkhiṇaṁ kāya-kammaṁ Vācākammaṁ padakkhiṇaṁ Padakkhiṇaṁ mano-kammaṁ Paṇīdhi te padakkhiṇe Padakkhiṇāni katvāna Labhant'atthe padakkhiṇe Te atthaladdhā sukhitā Virūḷhā buddhasāsane Arogā sukhitā hotha Saha sabbehi ñātibhī
 
 Culla-maṅgala-cakka-vāḷa
 
-Sabba-buddh'ānubhāvena Sabba-dhamm'ānubhāvena Sabba-saṅgh'ānubhāvena Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ Tiṇṇaṁ ratanānaṁ ānubhāvena Catur-āsīti-sahassa-dhammakkhandh'ānubhāvena Piṭakattay'ānubhāvena Jina-sāvak'ānubhāvena Sabbe te rogā Sabbe te bhayā Sabbe te antarāyā Sabbe te upaddavā Sabbe te dunnimittā Sabbe te avamaṅgalā vinassantu Āyu-vaḍḍhako Dhana-vaḍḍhako Siri-vaḍḍhako Yasa-vaḍḍhako Bala-vaḍḍhako Vaṇṇa-vaḍḍhako Sukha-vaḍḍhako hotu sabbadā Dukkha-roga-bhaya-verā Sokā sattu c'upaddavā Anekā antarāyā'pi Vinassantu ca tejasā Jaya-siddhi dhanaṁ lābhaṁ Sotthi bhāgyaṁ sukhaṁ balaṁ Siri āyu ca vaṇṇo ca Bhogaṁ vuḍḍhī ca yasavā Sata-vassā ca āyū ca Jīva-siddhī bhavantu te
+Sabba-buddh'ānubhāvena Sabba-dhamm'ānubhāvena Sabba-saṅgh'ānubhāvena Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ Tiṇṇaṁ ratanānaṁ ānubhāvena Catur-āsīti-sahassa-dhamma-kkhandh'ānubhāvena Piṭakattay'ānubhāvena Jina-sāvak'ānubhāvena Sabbe te rogā Sabbe te bhayā Sabbe te antarāyā Sabbe te upaddavā Sabbe te dunnimittā Sabbe te avamaṅgalā vinassantu Āyu-vaḍḍhako Dhana-vaḍḍhako Siri-vaḍḍhako Yasa-vaḍḍhako Bala-vaḍḍhako Vaṇṇa-vaḍḍhako Sukha-vaḍḍhako hotu sabbadā Dukkha-roga-bhaya-verā Sokā sattu c'upaddavā Anekā antarāyā'pi Vinassantu ca tejasā Jaya-siddhi dhanaṁ lābhaṁ Sotthi bhāgyaṁ sukhaṁ balaṁ Siri āyu ca vaṇṇo ca Bhogaṁ vuḍḍhī ca yasavā Sata-vassā ca āyū ca Jīva-siddhī bhavantu te
 
 Aggappasāda-sutta-gāthā
 
@@ -880,7 +880,7 @@ Kālena dinnaṁ ariyesu Uju-bhūtesu tādisu
 Vippasanna-manā tassa Vipulā hoti dakkhiṇā
 Ye tattha anumodanti Veyyāvaccaṁ karonti vā
 Na tena dakkhiṇā onā Te'pi puññassa bhāgino
-Tasmā dade appaṭivāna-citto Yattha dinnaṁ mahapphalaṁ
+Tasmā dade appaṭivāna-citto Yattha dinnaṁ maha-pphalaṁ
 Puññāni para-lokasmiṁ Patiṭṭhā honti pāṇinan'ti
 
 So attha-laddho 
@@ -890,7 +890,7 @@ Sā attha-laddhā sukhitā Viruḷhā buddha-sāsane Arogā sukhitā hohi Saha s
 Te attha-laddhā sukhitā Viruḷhā buddha-sāsane Arogā sukhitā hotha Saha sabbehi ñātibhi
 
 Devā-ārādhanā 
-Pharitvāna mettaṁ samettā bhadantā Avikkhitta-cittā parittaṁ bhaṇantu Sagge kāme ca rūpe giri-sikhara-taṭe c'antalikkhe vimāne Dīpe raṭṭhe ca gāme taru-vana-gahane geha-vatthumhi khette Bhummā c'āyantu devā jala-thala-visame yakkha-gandhabba-nāgā Tiṭṭhantā santike yaṁ muni-vara-vacanaṁ sādhavo me suṇantu Buddha-dassana-kālo ayam'bhadantā Dhammassavana-kālo ayam'bhadantā Saṅgha-payirupāsana-kālo ayam'bhadantā
+Pharitvāna mettaṁ samettā bhadantā Avikkhitta-cittā parittaṁ bhaṇantu Sagge kāme ca rūpe giri-sikhara-taṭe c'antalikkhe vimāne Dīpe raṭṭhe ca gāme taru-vana-gahane geha-vatthumhi khette Bhummā c'āyantu devā jala-thala-visame yakkha-gandhabba-nāgā Tiṭṭhantā santike yaṁ muni-vara-vacanaṁ sādhavo me suṇantu Buddha-dassana-kālo ayam'bhadantā Dhamma-ssavana-kālo ayam'bhadantā Saṅgha-payirupāsana-kālo ayam'bhadantā
 
 Pubba-bhāga-nama-kāra-pāṭho
 Namo tassa Bhagavato arahato sammāsambuddhassa 
@@ -904,12 +904,12 @@ Tatiyam'pi buddhaṁ saraṇaṁ gacchāmi Tatiyam'pi dhammaṁ saraṇaṁ gacc
 Nama-kāra-siddhi-gāthā
 
 Yo cakkhumā moha-malāpakaṭṭho Sāmaṁ va buddho sugato vimutto Mārassa pāsā vinimocayanto Pāpesi khemaṁ janataṁ vineyyaṁ Buddhaṁ varan'taṁ sirasā namāmi Lokassa nāthañ'ca vināyakañ'ca Tan'tejasā te jaya-siddhi hotu Sabb'antarāyā ca vināsamentu
-Dhammo dhajo yo viya tassa satthu Dassesi lokassa visuddhi-maggaṁ Niyyāniko dhamma-dharassa dhārī Sāt'āvaho santi-karo suciṇṇo Dhammaṁ varan'taṁ sirasā namāmi Mohappadālaṁ upasanta-dāhaṁ Tan'tejasā te jaya-siddhi hotu Sabb'antarāyā ca vināsamentuSaddhamma-senā sugat'ānugo yo Lokassa pāp'ūpakilesa-jetā Santo sayaṁ santi-niyojako ca Svākkhāta-dhammaṁ viditaṁ karoti Saṅghaṁ varan'taṁ sirasā namāmi Buddh'ānubuddhaṁ sama-sīla-diṭṭhiṁ Tan'tejasā te jaya-siddhi hotu Sabb'antarāyā ca vināsamentu 
+Dhammo dhajo yo viya tassa satthu Dassesi lokassa visuddhi-maggaṁ Niyyāniko dhamma-dharassa dhārī Sāt'āvaho santi-karo suciṇṇo Dhammaṁ varan'taṁ sirasā namāmi Moha-ppadālaṁ upasanta-dāhaṁ Tan'tejasā te jaya-siddhi hotu Sabb'antarāyā ca vināsamentuSaddhamma-senā sugat'ānugo yo Lokassa pāp'ūpakilesa-jetā Santo sayaṁ santi-niyojako ca Svākkhāta-dhammaṁ viditaṁ karoti Saṅghaṁ varan'taṁ sirasā namāmi Buddh'ānubuddhaṁ sama-sīla-diṭṭhiṁ Tan'tejasā te jaya-siddhi hotu Sabb'antarāyā ca vināsamentu 
 
 Namo-kāra-aṭṭhaka
 
 Namo arahato sammā- Sambuddhassa mah'esino Namo uttama-dhammassa Svākkhātass'eva ten'idha
-Namo mahā-saṅghassā'pi Visuddha-sīla-diṭṭhino Namo omāty'āraddhassa Ratanattayassa sādhukaṁ Namo omak'ātītassa Tassa vatthuttayassa'pi Namo-kārappabhāvena Vigacchantu upaddavāNamo-kār'ānubhāvena Suvatthi hotu sabbadā Namo-kārassa tejena Vidhimhi homi tejavā 
+Namo mahā-saṅghassā'pi Visuddha-sīla-diṭṭhino Namo omāty'āraddhassa Ratanattayassa sādhukaṁ Namo omak'ātītassa Tassa vatthuttayassa'pi Namo-kāra-ppabhāvena Vigacchantu upaddavāNamo-kār'ānubhāvena Suvatthi hotu sabbadā Namo-kārassa tejena Vidhimhi homi tejavā 
 
 Maṅgala-sutta 
 
@@ -921,7 +921,7 @@ Bāhu-saccañ'ca sippañ'ca Vinayo ca susikkhito Subhāsitā ca yā vācā Eta�
 Mātā-pitu-upaṭṭhānaṁ Putta-dārassa saṅgaho Anākulā ca kammantā Etaṁ maṅgalam'uttamaṁ
 Dānañ'ca dhamma-cariyā ca Ñātakānañ'ca saṅgaho Anavajjāni kammāni Etaṁ maṅgalam'uttamaṁ
 Āratī viratī pāpā Majja-pānā ca saññamo Appamādo ca dhammesu Etaṁ maṅgalam'uttamaṁ
-Gāravo ca nivāto ca Santuṭṭhī ca kataññutā Kālena dhammassavanaṁ Etaṁ maṅgalam'uttamaṁ
+Gāravo ca nivāto ca Santuṭṭhī ca kataññutā Kālena dhamma-ssavanaṁ Etaṁ maṅgalam'uttamaṁ
 Khantī ca sovacassatā Samaṇānañ'ca dassanaṁ Kālena dhamma-sākacchā Etaṁ maṅgalam'uttamaṁ
 Tapo ca brahmacariyañ'ca Ariya-saccāna-dassanaṁ Nibbāna-sacchikiriyā ca Etaṁ maṅgalam'uttamaṁ
 Phuṭṭhassa loka-dhammehi Cittaṁ yassa na kampati Asokaṁ virajaṁ khemaṁ Etaṁ maṅgalam'uttamaṁ
@@ -934,13 +934,13 @@ Tasmā hi bhūtā nisāmetha sabbe Mettaṁ karotha mānusiyā pajāya Divā ca 
 Yaṅ kiñci vittaṁ idha vā huraṁ vā Saggesu vā yaṁ ratanaṁ paṇītaṁ Na no samaṁ atthi tathāgatena Idam'pi buddhe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Khayaṁ virāgaṁ amataṁ paṇītaṁ Yad'ajjhagā sakya-munī samāhito Na tena dhammena sam'atthi kiñci Idam'pi dhamme ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Yam'buddha-seṭṭho parivaṇṇayī suciṁ Samādhim'ānantarikañ'ñam'āhu Samādhinā tena samo na vijjati Idam'pi dhamme ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
-Ye puggalā aṭṭha sataṁ pasatthā Cattāri etāni yugāni honti Te dakkhiṇeyyā sugatassa sāvakā Etesu dinnāni mahapphalāni Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
+Ye puggalā aṭṭha sataṁ pasatthā Cattāri etāni yugāni honti Te dakkhiṇeyyā sugatassa sāvakā Etesu dinnāni maha-pphalāni Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Ye suppayuttā manasā daḷhena Nikkāmino gotama-sāsanamhi Te patti-pattā amataṁ vigayha Laddhā mudhā nibbutiṁ bhuñjamānā Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Yath'inda-khīlo paṭhaviṁ sito siyā Catubbhi vātebhi asampakampiyo Tath'ūpamaṁ sappurisaṁ vadāmi Yo ariya-saccāni avecca passati Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Ye ariya-saccāni vibhāvayanti Gambhīra-paññena sudesitāni Kiñ'c'āpi te honti bhusa'ppamattā Na te bhavaṁ aṭṭhamam'ādiyanti Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Sahā v'assa dassana-sampadāya Tay'assu dhammā jahitā bhavanti Sakkāya-diṭṭhi vicikicchitañ'ca Sīlabbataṁ vā'pi yad'atthi kiñci Catūh'apāyehi ca vippamutto Cha c'ābhiṭhānāni abhabbo kātuṁ Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Kiñ'c'āpi so kammaṁ karoti pāpakaṁ Kāyena vācā uda cetasā vā Abhabbo so tassa paṭicchadāya Abhabbatā diṭṭha-padassa vuttā Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
-Vanappagumbe yathā phussi't'agge Gimhāna-māse paṭhamasmiṁ gimhe Tath'ūpamaṁ dhamma-varaṁ adesayi Nibbāna-gāmiṁ paramaṁ hitāya Idam'pi buddhe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
+Vana-ppagumbe yathā phussi't'agge Gimhāna-māse paṭhamasmiṁ gimhe Tath'ūpamaṁ dhamma-varaṁ adesayi Nibbāna-gāmiṁ paramaṁ hitāya Idam'pi buddhe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Varo varaññū vara-do var'āharo Anuttaro dhamma-varaṁ adesayi Idam'pi buddhe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Khīṇaṁ purāṇaṁ navaṁ n'atthi sambhavaṁ Viratta-citt'āyatike bhavasmiṁ Te khīṇa-bījā aviruḷhi-chandā Nibbanti dhīrā yathā'yam padīpo Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Yān'īdha bhūtāni samāgatāni Bhummāni vā yāni va antalikkhe Tathāgataṁ deva-manussa-pūjitaṁ Buddhaṁ namassāma suvatthi hotu

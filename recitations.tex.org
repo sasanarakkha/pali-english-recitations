@@ -2257,7 +2257,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 \begin{verses}
   Yaṁ'kiñci sithilaṁ kammaṁ – Saṅkiliṭṭhañ'ca yaṁ vataṁ\\
-  Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti mahapphalan'ti
+  Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti maha-pphalan'ti
 \end{verses}
 
 \begin{english-verses}
@@ -10340,7 +10340,7 @@ Sadā sotthī bhavantu te
         \hypertarget{endnote123-appendix}{\hyperlink{endnote123-body}{WPN: ``\textit{paṭībhāna-do}''}}}}}\makeatother\\
   Dīgh'āyu yasavā hoti\\
   Yattha yatth'ūpapajjati\\
-  Abhivādanasīlissa\\
+  Abhivādana-sīlissa\\
   Niccaṁ vuḍḍh'āpacāyino\\
   Cattāro dhammā vaḍḍhanti\\
   Āyu vaṇṇo sukhaṁ balaṁ\\
@@ -10402,7 +10402,7 @@ Sadā sotthī bhavantu te
   Sabba-saṅgh'ānubhāvena\\
   Buddha-ratanaṁ dhamma-ratanaṁ saṅgha-ratanaṁ\\
   Tiṇṇaṁ ratanānaṁ ānubhāvena\\
-  Catur-āsīti-sahassa-dhammakkhandh'ānubhāvena\\
+  Catur-āsīti-sahassa-dhamma-kkhandh'ānubhāvena\\
   Piṭakattay'ānubhāvena\\
   Jina-sāvak'ānubhāvena\\
   Sabbe te rogā\\
@@ -10567,7 +10567,7 @@ Sadā sotthī bhavantu te
 
 \begin{pali-hang}
   Tasmā dade appaṭivāna-citto\\
-  Yattha dinnaṁ mahapphalaṁ
+  Yattha dinnaṁ maha-pphalaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
   Puññāni para-lokasmiṁ\\
@@ -10675,8 +10675,8 @@ Sadā sotthī bhavantu te
   Tiṭṭhantā santike yaṁ muni-vara-vacanaṁ sādhavo me suṇantu\\
   Buddha-dassana-kālo ayam'bhadantā\\
   \linkdest{endnote125-body}
-  Dhammassavana-kālo ayam'bhadantā\makeatletter\hyperlink{endnote125-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote125-appendix}{\hyperlink{endnote125-body}{When chanted for laypeople, only the 2nd line (\textit{Dhammassavana kālo}...) is recited, which is repeated three times.}}}}}\makeatother\\
+  Dhamma-ssavana-kālo ayam'bhadantā\makeatletter\hyperlink{endnote125-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote125-appendix}{\hyperlink{endnote125-body}{When chanted for laypeople, only the 2nd line (\textit{Dhamma-ssavana kālo}...) is recited, which is repeated three times.}}}}}\makeatother\\
   \linkdest{endnote126-body}
   Saṅgha-payirupāsana-kālo ayam'bhadantā\makeatletter\hyperlink{endnote126-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{WPN: ``\textit{Payirūpāsana}''. \textit{Pari} + \textit{upa} = \textit{payirupa}}}}}}\makeatother\thinspace \hspace{-0.5mm}\anglebracketright\
@@ -10810,7 +10810,7 @@ Sadā sotthī bhavantu te
   Niyyāniko dhamma-dharassa dhārī\\
   Sāt'āvaho santi-karo suciṇṇo\\
   Dhammaṁ varan'taṁ sirasā namāmi\\
-  Mohappadālaṁ upasanta-dāhaṁ\\
+  Moha-ppadālaṁ upasanta-dāhaṁ\\
   Tan'tejasā te jaya-siddhi hotu\\
   Sabb'antarāyā ca vināsamentu
 \end{pali-hang-continued}
@@ -10886,7 +10886,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Namo omak'ātītassa\\
   Tassa vatthuttayassa'pi\\
-  Namo-kārappabhāvena\\
+  Namo-kāra-ppabhāvena\\
   Vigacchantu upaddavā\\
 \end{pali-hang-continued}
 
@@ -11030,7 +11030,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Gāravo ca nivāto ca\\
   Santuṭṭhī ca kataññutā\\
-  Kālena dhammassavanaṁ\\
+  Kālena dhamma-ssavanaṁ\\
   Etaṁ maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
@@ -11187,7 +11187,7 @@ Sadā sotthī bhavantu te
   Ye puggalā aṭṭha sataṁ pasatthā\\
   Cattāri etāni yugāni honti\\
   Te dakkhiṇeyyā sugatassa sāvakā\\
-  Etesu dinnāni mahapphalāni\\
+  Etesu dinnāni maha-pphalāni\\
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
@@ -11296,7 +11296,7 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Vanappagumbe yathā phussit'agge\\
+  Vana-ppagumbe yathā phussit'agge\\
   Gimhāna-māse paṭhamasmiṁ gimhe\\
   Tath'ūpamaṁ dhamma-varaṁ adesayi\\
   Nibbāna-gāmiṁ paramaṁ hitāya\\
