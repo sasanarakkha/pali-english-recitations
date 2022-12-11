@@ -8165,7 +8165,7 @@ Abyāpajjha-paramatāyā'ti
 \end{leader}
 
 \begin{pali-hang}
-  Āhāre paṭikūlasaññāparicitena bhikkhave \breathmark\ bhikkhuno cetasā bahulaṁ viharato
+  Āhāre paṭikūla-saññā-paricitena bhikkhave \breathmark\ bhikkhuno cetasā bahulaṁ viharato
 \end{pali-hang}
 
 \begin{english}
@@ -8173,7 +8173,7 @@ Abyāpajjha-paramatāyā'ti
   Accustomed to the perception of the repulsiveness of food
 \end{english}
 
-Rasataṇhāya cittaṁ patilīyati
+Rasa-taṇhāya cittaṁ patilīyati
 
 \begin{english}
   His mind shrinks away from craving for tastes
@@ -8241,13 +8241,13 @@ Sabbe sattā averā hontu\\
 Sabbe sattā abyāpajjhā hontu\\
 Sabbe sattā anīghā hontu\\
 Sabbe sattā sukhī attānaṁ pariharantu\\
-Sabbe sattā sabbadukkhā pamuccantu\\
+Sabbe sattā sabba-dukkhā pamuccantu\\
 Sabbe sattā laddha-sampattito mā vigacchantu
 
 \bigskip
 
 \begin{pali-hangtogether}
-  Sabbe sattā kammassakā kammadāy'ādā kammayonī kammabandhū kammapaṭisaraṇā\\
+  Sabbe sattā kamma-ssakā kamma-dāy'ādā kamma-yonī kamma-bandhū kamma-paṭisaraṇā\\
 \end{pali-hangtogether}
 Yaṁ kammaṁ karissanti\\
 Kalyāṇaṁ vā pāpakaṁ vā\\
@@ -8462,7 +8462,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 \end{english}
 
 \begin{pali-hang}
-  Kammassako'mhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo\\
+  Kamma-ssako'mhi kamma-dāy'ādo kamma-yoni kamma-bandhu kamma-paṭisaraṇo\\
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yaṁ kammaṁ karissāmi\\
@@ -8539,7 +8539,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   \end{english-hangtogether-verses}
 \end{english-verses}
 
-Parapaṭibaddhā me jīvikā'ti\\
+Para-paṭibaddhā me jīvikā'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \begin{english-verses}
@@ -8598,7 +8598,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{english-verses}
 
 \begin{pali-hang}
-  Kammassako'mhi kammadāy'ādo kammayoni kammabandhu kammapaṭisaraṇo
+  Kamma-ssako'mhi kamma-dāy'ādo kamma-yoni kamma-bandhu kamma-paṭisaraṇo
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yaṁ kammaṁ karissāmi
@@ -8695,7 +8695,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 \end{leader}
 
 \begin{pali-hang}
-  Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
+  Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesa-matthakā taca-pariyanto pūro nāna-ppakārassa asucino
 \end{pali-hang}
 
 \begin{english-verses}
@@ -8762,7 +8762,7 @@ Atthi imasmiṁ kāye
 }
 
 \begin{pali-hang}
-  Evam'ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
+  Evam'ayaṁ me kāyo uddhaṁ pādatalā adho kesa-matthakā taca-pariyanto pūro nāna-ppakārassa asucino
 \end{pali-hang}
 
 \begin{english-verses}

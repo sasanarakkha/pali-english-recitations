@@ -640,7 +640,7 @@ Paṭisaṅkhā yoniso gilāna paccaya bhesajja parikkhāraṁ paṭisevāmi Yā
 Āhāra paṭikūla paccavekkhaṇa pāṭho 
 Handa mayaṁ āhāra paṭikūla paccavekkhaṇa pāṭhaṁ bhaṇāmase 
 
-Āhāre paṭikūlasaññāparicitena bhikkhave bhikkhuno cetasā bahulaṁ viharato Rasataṇhāya cittaṁ patilīyati Patikuṭati pativattati na sampasāriyati Upekkhā vā pāṭikulyatā vā saṇṭhāti
+Āhāre paṭikūla-saññā-paricitena bhikkhave bhikkhuno cetasā bahulaṁ viharato Rasa-taṇhāya cittaṁ patilīyati Patikuṭati pativattati na sampasāriyati Upekkhā vā pāṭikulyatā vā saṇṭhāti
 Sabbo pana āyaṁ piṇḍapāto ajigucchanīyo Imaṁ pūti kāyaṁ patvā Ativiya jigucchanīyo jāyati
 
 Mettā pharaṇa
@@ -657,9 +657,9 @@ Sabbe sattā averā hontu
 Sabbe sattā abyāpajjhā hontu
 Sabbe sattā anīghā hontu
 Sabbe sattā sukhī attānaṁ pariharantu
-Sabbe sattā sabbadukkhā pamuccantu
+Sabbe sattā sabba-dukkhā pamuccantu
 Sabbe sattā laddha sampattito mā vigacchantu
-Sabbe sattā kammassakā kammadāya adā kammayonī kammabandhū kammapaṭisaraṇā
+Sabbe sattā kamma-ssakā kamma-dāya adā kamma-yonī kamma-bandhū kamma-paṭisaraṇā
 Yaṁ kammaṁ karissanti Kalyāṇaṁ vā pāpakaṁ vā Tassa dāya adā bhavissanti
 
 
@@ -677,7 +677,7 @@ Jarā dhammo amhi jaraṁ anatīto
 Byādhi dhammo amhi byādhiṁ anatīto
 Maraṇa dhammo amhi maraṇaṁ anatīto
 Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo 
-Kammassako amhi kammadāya ado kammayoni kammabandhu kammapaṭisaraṇo
+Kamma-ssako amhi kamma-dāya ado kamma-yoni kamma-bandhu kamma-paṭisaraṇo
 Yaṁ kammaṁ karissāmi Kalyāṇaṁ vā pāpakaṁ vā Tassa dāya ado bhavissāmi
 Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 
@@ -687,12 +687,12 @@ Handa mayaṁ pabbajita abhiṇha paccavekkhaṇa pāṭhaṁ bhaṇāmase
 Dasa ime bhikkhave dhammā Pabbajitena abhiṇhaṁ paccavekkhitabbā
 Katame dasa
 Vevaṇṇiya amhi ajjhūpagato iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-Parapaṭibaddhā me jīvika iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+Para-paṭibaddhā me jīvika iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Añño me ākappo karaṇīyo iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Kacci nu kho me attā sīlato na upavadati iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadanti iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-Kammassako amhi kammadāya ado kammayoni kammabandhu kammapaṭisaraṇo Yaṁ kammaṁ karissāmi Kalyāṇaṁ vā pāpakaṁ vā Tassa dāya ado bhavissāmi iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+Kamma-ssako amhi kamma-dāya ado kamma-yoni kamma-bandhu kamma-paṭisaraṇo Yaṁ kammaṁ karissāmi Kalyāṇaṁ vā pāpakaṁ vā Tassa dāya ado bhavissāmi iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Kathaṁ bhūtassa me rattiṁ divā vītipatanti iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Kacci nu kho ahaṁ suñña agāre abhiramāmi iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Atthi nu kho me uttari manussa dhammā alaṁ ariya ñāṇa dassana viseso adhigato So ahaṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmi iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
@@ -702,9 +702,9 @@ Pabbajitena abhiṇhaṁ paccavekkhitabba iti
 Dvattiṁsa akāra paccavekkhaṇa
 Handa mayaṁ dvattiṁsa akāra pāṭhaṁ bhaṇāmase 
 
-Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
+Ayaṁ kho me kāyo uddhaṁ pādatalā adho kesa-matthakā taca-pariyanto pūro nāna-ppakārassa asucino
 Atthi imasmiṁ kāye kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ pittaṁ semhaṁ pubbo lohitaṁ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttaṁ matthaluṅgaṁ iti 
-Evaṁ ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā tacapariyanto pūro nānappakārassa asucino
+Evaṁ ayaṁ me kāyo uddhaṁ pādatalā adho kesa-matthakā taca-pariyanto pūro nāna-ppakārassa asucino
  
 Anicc anussati
 Handa mayaṁ anicc anussati pāṭhaṁ bhaṇāmase 
