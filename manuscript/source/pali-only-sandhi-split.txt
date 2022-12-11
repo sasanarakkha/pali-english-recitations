@@ -1061,7 +1061,7 @@ Sanidassana sappaṭighā dhammā Anidassana sappaṭighā dhammā Anidassana ap
 
 Vipassanā bhūmi pāṭho
 
-Pañcakkhandhā: Rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
+Pañca-kkhandhā: Rūpakkhandho vedanā-kkhandho saññā-kkhandho saṅkhāra-kkhandho viññāṇa-kkhandho
 Dvā dasa āyatanāni: Cakkhva āyatanaṁ rūpa āyatanaṁ sota āyatanaṁ sadda āyatanaṁ ghāna āyatanaṁ gandha āyatanaṁ jivha āyatanaṁ rasa āyatanaṁ kāya āyatanaṁ phoṭṭhabba āyatanaṁ mana āyatanaṁ dhamma ayatanaṁ 
 Aṭṭhārasa dhātuyo: Cakkhu dhātu rūpa dhātu cakkhu viññāṇa dhātu sota dhātu sadda dhātu sota viññāṇa dhātu ghāna dhātu gandha dhātu ghāna viññāṇa dhātu jivhā dhātu rasa dhātu jivhā viññāṇa dhātu kāya dhātu phoṭṭhabba dhātu kāya viññāṇa dhātu mano dhātu dhamma dhātu mano viññāṇa dhātu 
 Bā vīsata indriyāni: Cakkhu idriyaṁ sota indriyaṁ ghāna indriyaṁ jivha indriyaṁ kāya indriyaṁ mana indriyaṁ ittha indriyaṁ purisa indriyaṁ jīvita indriyaṁ sukha indriyaṁ dukkha indriyaṁ somanassa indriyaṁ domanassa indriyaṁ upekkha indriyaṁ saddha indriyaṁ viriya indriyaṁ sata indriyaṁ samādha indriyaṁ pañña indriyaṁ anaññātaṁ nassāmī indriyaṁ añña indriyaṁ aññātāva indriyaṁ. 
@@ -1095,8 +1095,8 @@ Bhavatu sabba maṅgalaṁ Rakkhantu sabba devatā Sabba saṅgha ānubhāvena S
 Uddissana adhiṭṭhānā
 Handa mayaṁ uddissana adhiṭṭhāna gāthāyo bhaṇāmase 
 
-Iminā puññakammena upajjhāyā guṇa uttarā Ācariya upakārā ca mātāpitā ca ñātakā Suriyo candimā rājā guṇavantā narā api ca Brahma mārā ca indā ca lokapālā ca devatā Yamo mittā manussā ca majjhattā verikā api ca Sabbe sattā sukhī hontu puññāni pakatāni me Sukhaṁ ca tividhaṁ dentu khippaṁ pāpetha vo mataṁ
-Iminā puññakammena iminā uddissena ca Khippa ahaṁ sulabhe ca eva taṇha upādāna chedanaṁ Ye santāne hīnā dhammā yāva nibbānato mamaṁ Nassantu sabbadā yeva yattha jāto bhave bhave Ujucittaṁ satipaññā sallekho viriyamhinā
+Iminā puñña-kammena upajjhāyā guṇa uttarā Ācariya upakārā ca mātāpitā ca ñātakā Suriyo candimā rājā guṇavantā narā api ca Brahma mārā ca indā ca lokapālā ca devatā Yamo mittā manussā ca majjhattā verikā api ca Sabbe sattā sukhī hontu puññāni pakatāni me Sukhaṁ ca tividhaṁ dentu khippaṁ pāpetha vo mataṁ
+Iminā puñña-kammena iminā uddissena ca Khippa ahaṁ sulabhe ca eva taṇha upādāna chedanaṁ Ye santāne hīnā dhammā yāva nibbānato mamaṁ Nassantu sabbadā yeva yattha jāto bhave bhave Ujucittaṁ satipaññā sallekho viriyamhinā
 Mārā labhantu nokāsaṁ kātuṁ ca viriyesu me
 Buddha adhipavaro nātho dhammo nātho varuttamo Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ
 Tesa ottaṁ anubhāvena māra okāsaṁ labhantu mā 
@@ -1113,7 +1113,7 @@ Pañca eka catu vokārā saṁsarantā bhava abhave
 Ye ca imaṁ nappajānanti devā tesaṁ nivedayuṁ
 Mayā dinnāna'puññānaṁ anumodana hetunā
 Sabbe sattā sadā hontu averā sukha jīvino
-Khemappadaṁ ca pappontu tesāsā sijjhataṁ subhā
+Khema-ppadaṁ ca pappontu tesāsā sijjhataṁ subhā
 
 Peta patti dāna
 Idaṁ me ñātinaṁ hotu Sukhitā hontu ñātayo
@@ -1131,8 +1131,8 @@ Handa mayaṁ buddhapūjaṁ ca paṇidhiṁ ca karomase
 Buddhaṁ jīvita pariyantaṁ saraṇaṁ gacchāmi
 Dhammaṁ jīvita pariyantaṁ saraṇaṁ gacchāmi
 Saṅghaṁ jīvita pariyantaṁ saraṇaṁ gacchāmi
-Iminā puññakammena
-Mā me bālasamāgamo
+Iminā puñña-kammena
+Mā me bāla-samāgamo
 Sataṁ samāgamo hotu
 Yāva nibbānapattiyā
 Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā Dhamma anudhamma paṭipanno viharati Sāmīci-paṭipanno Anudhammacārī So tathāgataṁ sakkaroti garuṁ karoti māneti pūjeti apaciyati Paramāya pūjāya
@@ -1157,16 +1157,16 @@ Pāṇa atipātā veramaṇi sikkhāpadaṁ samādiyāmi
 Adinna adānā veramaṇi sikkhāpadaṁ samādiyāmi
 Kāmesu micchācārā veramaṇi sikkhāpadaṁ samādiyāmi
 Musāvādā veramaṇi sikkhāpadaṁ samādiyāmi
-Surāmeraya majjappamādaṭṭhānā veramaṇi sikkhāpadaṁ samādiyāmiAppamādena sampādetha 
+Surā-meraya majja-ppamāda-ṭṭhānā veramaṇi sikkhāpadaṁ samādiyāmiAppamādena sampādetha 
 
 Sādhu sādhu sādhu
 Pāṇa atipātā veramaṇi sikkhāpadaṁ samādiyāmi
 Adinna adānā veramaṇi sikkhāpadaṁ samādiyāmi
 Abrahmacariyā veramaṇi sikkhāpadaṁ samādiyāmi
 Musāvādā veramaṇi sikkhāpadaṁ samādiyāmi
-Surāmeraya majja pamādaṭṭhānā veramaṇi sikkhāpadaṁ samādiyāmi
-Vikālabhojanā veramaṇi sikkhāpadaṁ samādiyāmi
-Nacca gīta vādita visūka dassanā mālā gandha vilepana dhāraṇa maṇḍana vibhūsanaṭṭhānā veramaṇi sikkhāpadaṁ samādiyāmi
+Surā-meraya majja pamāda-ṭṭhānā veramaṇi sikkhāpadaṁ samādiyāmi
+Vikāla-bhojanā veramaṇi sikkhāpadaṁ samādiyāmi
+Nacca gīta vādita visūka dassanā mālā gandha vilepana dhāraṇa maṇḍana vibhūsana-ṭṭhānā veramaṇi sikkhāpadaṁ samādiyāmi
 Uccāsayana mahāsayanā veramaṇi sikkhāpadaṁ samādiyāmi
 Imāni aṭṭha sikkhāpadāni samādiyāmi 
 Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye 

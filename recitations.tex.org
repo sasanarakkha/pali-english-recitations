@@ -5744,7 +5744,7 @@ Tattha katamaṁ nāmaṁ
 
 \linkdest{endnote80-body}
 Vedanā saññā cetanā phasso manasikāro\makeatletter\hyperlink{endnote80-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote80-appendix}{\hyperlink{endnote80-body}{While Vibh 130 introduces a new definition for \textit{nāma} as ``\textit{vedanākkhandho}, \textit{saññākkhandho}, \textit{saṅkhārakkhandho},'' this definition stands in tension with the discourses, where \textit{nāma} is consistently defined as \textit{vedanā}, \textit{saññā}, \textit{cetanā}, \textit{phassa}, \textit{manasikāra} (e.g. MN 9, SN 12.2). It is for this reason that the passage from Vibh 130 was replaced with the 5-fold nāma as found throughout the suttas.}}}}}\makeatother
+      \hypertarget{endnote80-appendix}{\hyperlink{endnote80-body}{While Vibh 130 introduces a new definition for \textit{nāma} as ``\textit{vedanā-kkhandho}, \textit{saññā-kkhandho}, \textit{saṅkhāra-kkhandho},'' this definition stands in tension with the discourses, where \textit{nāma} is consistently defined as \textit{vedanā}, \textit{saññā}, \textit{cetanā}, \textit{phassa}, \textit{manasikāra} (e.g. MN 9, SN 12.2). It is for this reason that the passage from Vibh 130 was replaced with the 5-fold nāma as found throughout the suttas.}}}}}\makeatother
 
 \begin{english}
   Feeling perception volition contact and attention
@@ -6397,7 +6397,7 @@ Tattha katamaṁ nāmaṁ
 
 \linkdest{endnote80-body}
 Vedanā saññā cetanā phasso manasikāro\makeatletter\hyperlink{endnote80-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote80-appendix}{\hyperlink{endnote80-body}{While Vibh 130 introduces a new definition for \textit{nāma} as ``\textit{vedanākkhandho}, \textit{saññākkhandho}, \textit{saṅkhārakkhandho},'' this definition stands in tension with the discourses, where \textit{nāma} is consistently defined as \textit{vedanā}, \textit{saññā}, \textit{cetanā}, \textit{phassa}, \textit{manasikāra} (e.g. MN 9, SN 12.2). It is for this reason that the passage from Vibh 130 was replaced with the 5-fold nāma as found throughout the suttas.}}}}}\makeatother
+      \hypertarget{endnote80-appendix}{\hyperlink{endnote80-body}{While Vibh 130 introduces a new definition for \textit{nāma} as ``\textit{vedanā-kkhandho}, \textit{saññā-kkhandho}, \textit{saṅkhāra-kkhandho},'' this definition stands in tension with the discourses, where \textit{nāma} is consistently defined as \textit{vedanā}, \textit{saññā}, \textit{cetanā}, \textit{phassa}, \textit{manasikāra} (e.g. MN 9, SN 12.2). It is for this reason that the passage from Vibh 130 was replaced with the 5-fold nāma as found throughout the suttas.}}}}}\makeatother
 
 \begin{english}
   Feeling perception volition contact and attention
@@ -12655,7 +12655,7 @@ Sadā sotthī bhavantu te
 % TODO fix hang indent and hand indent continued
 % TODO don't let line end with the
 \begin{pali-hangtogether}
-  \anglebracketleft\ \hspace{-0.5mm}Pañcakkhandhā: \hspace{-1.00mm}\anglebracketright\ rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
+  \anglebracketleft\ \hspace{-0.5mm}Pañca-kkhandhā: \hspace{-1.00mm}\anglebracketright\ rūpa-kkhandho vedanā-kkhandho saññā-kkhandho saṅkhāra-kkhandho viññāṇa-kkhandho
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -13077,14 +13077,14 @@ Sadā sotthī bhavantu te
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ uddissan'ādhiṭṭhāna-gāthāyo bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Iminā puññakammena upajjhāyā guṇ'uttarā\\
+Iminā puñña-kammena upajjhāyā guṇ'uttarā\\
 Ācariy'ūpakārā ca mātāpitā ca ñātakā\\
 Suriyo candimā rājā guṇavantā narā'pi ca\\
 Brahma-mārā ca indā ca lokapālā ca devatā\\
 Yamo mittā manussā ca majjhattā verikā'pi ca\\
 Sabbe sattā sukhī hontu puññāni pakatāni me\\
 Sukhañ'ca tividhaṁ dentu khippaṁ pāpetha vo'mataṁ\\
-Iminā puññakammena iminā uddissena ca\\
+Iminā puñña-kammena iminā uddissena ca\\
 Khipp'āhaṁ sulabhe c'eva taṇh'ūpādāna-chedanaṁ\\
 Ye santāne hīnā dhammā yāva nibbānato mamaṁ\\
 Nassantu sabbadā yeva yattha jāto bhave bhave\\
@@ -13204,7 +13204,7 @@ Ye c'imaṁ nappajānanti devā tesaṁ nivedayuṁ
 
 Mayā dinnāna'puññānaṁ anumodana-hetunā\\
 Sabbe sattā sadā hontu averā sukha-jīvino\\
-Khemappadañ'ca pappontu tesāsā sijjhataṁ subhā
+Khema-ppadañ'ca pappontu tesāsā sijjhataṁ subhā
 
 \begin{english-verses}
   By rejoicing in my sharing\\
@@ -13336,13 +13336,13 @@ Saṅghaṁ jīvita-pariyantaṁ saraṇaṁ gacchāmi
   Until life ends I go to the Saṅgha for refuge
 \end{english}
 
-Iminā puññakammena
+Iminā puñña-kammena
 
 \begin{english}
   By this meritorious action
 \end{english}
 
-Mā me bālasamāgamo
+Mā me bāla-samāgamo
 
 \begin{english}
   May I not associate with fools
@@ -13569,7 +13569,7 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{english}
 
 \begin{pali-hang}
-  Surāmeraya-majjappamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
+  Surā-meraya-majja-ppamāda-ṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{pali-hang}
 
 \begin{english-hang}
@@ -13638,7 +13638,7 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{english}
 
 \begin{pali-hang}
-  Surāmeraya-majja-pamādaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
+  Surā-meraya-majja-pamāda-ṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{pali-hang}
 
 \linkdest{endnote141-body}
@@ -13648,7 +13648,7 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
   lead to carelessness.
 \end{english-hang}
 
-Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
+Vikāla-bhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
 
 \linkdest{endnote142-body}
 \begin{english}
@@ -13657,7 +13657,7 @@ Vikālabhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{english}
 
 \begin{pali-hang}
-  Nacca-gīta-vādita-visūka-dassanā mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
+  Nacca-gīta-vādita-visūka-dassanā mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsana-ṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{pali-hang}
 
 \linkdest{endnote143-body}
