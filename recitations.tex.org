@@ -1612,7 +1612,7 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Yo ca buddhañ'ca dhammañ'ca – Saṅghañ'ca saraṇaṁ gato\\
-  Cattāri ariya-saccāni – Sammappaññāya passati
+  Cattāri ariya-saccāni – Samma-ppaññāya passati
 \end{verses}
 
 \begin{english-verses}
@@ -1875,7 +1875,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{leader}
 
 \begin{verses}
-  Bhārā have pañcakkhandhā – Bhāra-hāro ca puggalo\\
+  Bhārā have pañca-kkhandhā – Bhāra-hāro ca puggalo\\
   Bhār'ādānaṁ dukkhaṁ loke – Bhāra-nikkhepanaṁ sukhaṁ
 \end{verses}
 
@@ -1919,7 +1919,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 \begin{verses}
   Passa cittakataṁ bimbaṁ – Arukāyaṁ samussitaṁ\\
-  Āturaṁ bahusaṅkappaṁ – Yassa n'atthi dhuvaṁ ṭhiti
+  Āturaṁ bahu-saṅkappaṁ – Yassa n'atthi dhuvaṁ ṭhiti
 \end{verses}
 
 \begin{english-verses}
@@ -3416,7 +3416,7 @@ Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban'ti
 
 Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
 \begin{pali-hangtogether}
-  Evaṃ ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
+  Evaṁ ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -3448,7 +3448,7 @@ paccaññāsiṁ
 
 Yato ca kho me bhikkhave imesu catūsu ariya-saccesu
 \begin{pali-hangtogether}
-  Evaṃ ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
+  Evaṁ ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
 \end{pali-hangtogether}
 
 \begin{english-verses}
