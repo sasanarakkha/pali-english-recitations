@@ -182,7 +182,7 @@ CLOSED: [2022-12-08 Thu 11:06]
 ** TODO TeX: footnote 50 jumping to wrong place
 ** DONE HTML: destructing the defilements
 CLOSED: [2022-12-09 Fri 11:20]
-** TODO HTML: inner serenity for second jhāna -- needs footnote
+** TODO TEX & HTML: inner serenity for second jhāna -- needs footnote
 ** TODO HTML: footnote for "frequently taught" and "sharing often the words of Dhamma" -- translation changed just needs footnote
 ** TODO HTML: bowels/entrails to intestines/mesentery and add footnote
 ** TODO HTML: DO ENDNOTES WHEN FINISHED
