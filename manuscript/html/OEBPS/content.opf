@@ -8,7 +8,7 @@
     <dc:language>en</dc:language>
     <dc:identifier>urn:isbn:[ISBN here]</dc:identifier>
     <dc:format>application/epub+zip</dc:format>
-    <meta property="dcterms:modified">2022-12-12T18:56:36Z</meta>
+    <meta property="dcterms:modified">2022-12-14T12:38:14Z</meta>
     <dc:identifier id="BookId">urn:uuid:aab09be7-cf83-41a5-b56b-a39ed9620398</dc:identifier>
     <meta content="1.4.3" name="Sigil version"/>
   </metadata>
