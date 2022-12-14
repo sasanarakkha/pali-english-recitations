@@ -2,7 +2,7 @@ Recitation Schedule
 \label{schedule}
 
 Purpose and Benefits
-\label{purpose-and-benefits}
+\label{purpose-and-benefit}
 
 
 
