@@ -2685,7 +2685,7 @@ Etaṁ buddhāna'sāsanaṁ
 \linkdest{endnote48-body}
 \begin{english-only}
   Ardent and committed\makeatletter\hyperlink{endnote48-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote48-appendix}{\hyperlink{endnote48-body}{WPN: ``ardent committed''}}}}}\makeatother
+        \hypertarget{endnote48-appendix}{\hyperlink{endnote48-body}{WPN: ``ardent committed''}}}}}\makeatother \thinspace
   to the holy life\\
   Seeing for oneself the Noble Truths\\
   And the realization of Nibbāna\\
@@ -3074,7 +3074,7 @@ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 \linkdest{endnote53-body}
 \begin{english}
   Sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote53-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote53-appendix}{\hyperlink{endnote53-body}{WPN: ``grief''}}}}}\makeatother
+        \hypertarget{endnote53-appendix}{\hyperlink{endnote53-body}{WPN: ``grief''}}}}}\makeatother \thinspace
   and despair are dukkha
 \end{english}
 
@@ -3436,7 +3436,7 @@ N'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake\\
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\\
 \linkdest{endnote58-body}
 Anuttaraṁ sammā-sambodhiṁ abhisambuddho\makeatletter\hyperlink{endnote58-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote58-appendix}{\hyperlink{endnote58-body}{Instead of the nominative ``\textit{abhisambuddo}'' (Thai and Buddha Jayanti Pāli edition), one would usually expect the accusative or a quotation here, which is indeed what is found in the PTS and Chatta Saṅgāyana editions, giving ``\textit{abhisambuddho'ti}''. However, the anoumolous reading ``\textit{abhisambuddho}'' finds support from \textit{Mahāvasutu}: ``\textit{yāvac cāhaṁ bhikṣavaḥ imāni catvāry āryasatyāni evaṁ triparivartaṁ dvādaśākāraṁ yathā-bhūtaṁ samyakprajñayā nābhyajñāsiṣaṁ na tāvad ahaṁ anuttarāṁ samyaksaṁbodhim abhisaṁbuddho pratijānehaṁ}'', which according to Ven. Ānandajoti probably indicates that ``\textit{abhisambuddho}'' is an old/original reading.}}}}}\makeatother
+      \hypertarget{endnote58-appendix}{\hyperlink{endnote58-body}{Instead of the nominative ``\textit{abhisambuddo}'' (Thai and Buddha Jayanti Pāli edition), one would usually expect the accusative or a quotation here, which is indeed what is found in the PTS and Chatta Saṅgāyana editions, giving ``\textit{abhisambuddho'ti}''. However, the anoumolous reading ``\textit{abhisambuddho}'' finds support from \textit{Mahāvasutu}: ``\textit{yāvac cāhaṁ bhikṣavaḥ imāni catvāry āryasatyāni evaṁ triparivartaṁ dvādaśākāraṁ yathā-bhūtaṁ samyakprajñayā nābhyajñāsiṣaṁ na tāvad ahaṁ anuttarāṁ samyaksaṁbodhim abhisaṁbuddho pratijānehaṁ}'', which according to Ven. Ānandajoti probably indicates that ``\textit{abhisambuddho}'' is an old/original reading.}}}}}\makeatother \thinspace
 paccaññāsiṁ
 
 \begin{english-verses}
@@ -4516,7 +4516,7 @@ Yaṁ taṁ ariyā ācikkhanti
 \linkdest{endnote66-body}
 \begin{pali-hangtogether}
   `Upekkhako satimā sukha-vihārī'ti\makeatletter\hyperlink{endnote66-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote66-appendix}{\hyperlink{endnote66-body}{WPN: ``\textit{viharatī'ti}''}}}}}\makeatother
+        \hypertarget{endnote66-appendix}{\hyperlink{endnote66-body}{WPN: ``\textit{viharatī'ti}''}}}}}\makeatother \thinspace
   tatiyaṁ jhānaṁ upasampajja viharati
 \end{pali-hangtogether}
 
@@ -4949,28 +4949,34 @@ Maha-pphalā hoti mah'ānisaṁsā
 \end{leader}
 \begin{leader-english-belowpali}
   \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Analysis of Dependent Origination\makeatletter\hyperlink{endnote71-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote71-appendix}{\hyperlink{endnote71-body}{Lit.: ``the `Discourse Analysis' from the `Analysis of Dependent Origination'\hspace{0.01mm}''; the ``Discourse Analysis'' is a sub-chapter (Abh.Vibh.130f) from the ``Analysis of Dependent Origination'', which is part of the 2nd book of the \textit{Abhidhammapiṭaka} called the ``\textit{Vibhaṅga}''. Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the \textit{Suttapiṭaka}.}}}}}\makeatother \hspace{-0.5mm}\anglebracketright\
+        \hypertarget{endnote71-appendix}{\hyperlink{endnote71-body}{This chant stems mainly from “The Discourse Analysis of Dependent Origination”, which is a sub-chapter from the “The Analysis of Dependent Origination”, which is part of the 2nd book of the \textit{Abhidhammapiṭaka} called the “\textit{Vibhaṅga}” (Abh.Vibh.130f). Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, as part of the \textit{Suttapiṭaka}. The first four lines of this chant stem from SN 12.61, which functions as an illustration of the general principle of conditionality.}}}}}\makeatother \thinspace \hspace{-0.5mm}\anglebracketright\
 \end{leader-english-belowpali}
 
 Imasmiṁ sati idaṁ hoti
 
 \begin{english}
+When this exists \breathmark\ that is
 \end{english}
 
 Imassuppādā idaṁ uppajjati
 
 \begin{english}
+From the arising of this \breathmark\ that arises
 \end{english}
 
 Imasmiṁ asati idaṁ na hoti
 
 \begin{english}
+When this does not exist \breathmark\ that is not
 \end{english}
 
 Imassa nirodhā idaṁ nirujjhatī
 
 \begin{english}
+From the cessation of this \breathmark\ that ceases
 \end{english}
+
+\suttaRef{[SN 12.61]}
 
 Avijjā-paccayā saṅkhārā
 
@@ -4979,9 +4985,9 @@ Avijjā-paccayā saṅkhārā
 \linkdest{endnote147-body}
 \begin{english}
   From ignorance as a\makeatletter\hyperlink{endnote72-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother
+        \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother \thinspace
   condition arise\makeatletter\hyperlink{endnote73-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
+        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother \thinspace
   formations\makeatletter\hyperlink{endnote147-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote147-appendix}{\hyperlink{endnote147-body}{Elsewhere in the chanting book the term “\textit{saṅkhāra}” is translated as “volitional formations”. Here, however, for the sake of ease of recitability in subsequent passages within this chant, it is translated as “formations”.}}}}}\makeatother
 \end{english}
@@ -5084,8 +5090,8 @@ Ayaṁ vuccati avijjā
 \linkdest{endnote75-body}
 \linkdest{endnote76-body}
 \begin{english-hang}
-  Therein what are 'formations' \breathmark\ arising\makeatletter\hyperlink{endnote75-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother
+  Therein what are `formations' \breathmark\ arising\makeatletter\hyperlink{endnote75-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother \thinspace
   from ignorance as a condition?\makeatletter\hyperlink{endnote76-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote76-appendix}{\hyperlink{endnote76-body}{To render as ``Therein what is from ignorance as a condition arise formations.'' would be misleading, because it is not the conditioned relationship between A and B (here: ignorance and formations) that gets elaborated upon in the following lines, but it is only the term B (here: formations), that gets defined. Hence the preferable translation: ``Therein what are 'formations', arising from ignorance as a condition?''}}}}}\makeatother
 \end{english-hang}
@@ -5177,7 +5183,7 @@ Tattha katamo kāyasaṅkhāro
   Volition associated with the body is the bodily formation\\
   Volition associated with speech is the verbal formation\\
   Volition associated with the mind is the mental\makeatletter\hyperlink{endnote79-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote79-appendix}{\hyperlink{endnote79-body}{\textit{Manosañcetanā citta-saṅkhāro} is translated here as ``volition associated with the mind is the mental formation''. Despite of mano and citta having in certain contexts different shades of meaning, both were translated here as ``mind''. Generally speaking mano refers more to the intellectual, whereas citta covers more the emotional/affective aspects of the mind. A detailed analysis of these terms can be found in Rune E. A. Johansson's ``\textit{Citta, Mano, Viññāṇa — a Psychosemantic Investigation}''.}}}}}\makeatother
+        \hypertarget{endnote79-appendix}{\hyperlink{endnote79-body}{\textit{Manosañcetanā citta-saṅkhāro} is translated here as ``volition associated with the mind is the mental formation''. Despite of mano and citta having in certain contexts different shades of meaning, both were translated here as ``mind''. Generally speaking mano refers more to the intellectual, whereas citta covers more the emotional/affective aspects of the mind. A detailed analysis of these terms can be found in Rune E. A. Johansson's ``\textit{Citta, Mano, Viññāṇa — a Psychosemantic Investigation}''.}}}}}\makeatother \thinspace
   formation
 \end{english-verses}
 
@@ -6359,7 +6365,7 @@ Ekaṁsena gotami dhāreyyāsi:
 \linkdest{endnote85-body}
 \begin{english}
   Gotamī\makeatletter\hyperlink{endnote85-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote85-appendix}{\hyperlink{endnote85-body}{Anglicising of Pāli words is quite arbitrary. For masc. and neuter we use the stem, but for fem. we use the nominative, wherefore \textit{Gotami} (voc.) becomes \textit{Gotamī}.}}}}}\makeatother
+        \hypertarget{endnote85-appendix}{\hyperlink{endnote85-body}{Anglicising of Pāli words is quite arbitrary. For masc. and neuter we use the stem, but for fem. we use the nominative, wherefore \textit{Gotami} (voc.) becomes \textit{Gotamī}.}}}}}\makeatother \thinspace
   you should definitely recognize:
 \end{english}
 
@@ -7386,7 +7392,7 @@ Asacchikatassa sacchikiriyāya
 `Evaṁ no ayaṁ amhākaṁ pabbajjā\\
 \linkdest{endnote90-body}
 Avaṅkatā avañjhā\makeatletter\hyperlink{endnote90-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote90-appendix}{\hyperlink{endnote90-body}{WPN: ``\textit{avaññā}''}}}}}\makeatother
+      \hypertarget{endnote90-appendix}{\hyperlink{endnote90-body}{WPN: ``\textit{avaññā}''}}}}}\makeatother \thinspace
 bhavissati
 
 \begin{english}
@@ -7828,8 +7834,11 @@ Tassa dāy'ādā bhavissanti
 
 \begin{english}
   Likewise the second likewise the third likewise the fourth\\
-  So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself
 \end{english}
+\begin{english-hang}
+  So above and below \breathmark\ around and everywhere \breathmark\ and to all as to myself\makeatletter\hyperlink{endnote96-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote96-appendix}{\hyperlink{endnote96-body}{The compound \textit{sabbattatāya} (\textit{sabba-t-tatāya}) seems to be an extension of its predecessor \textit{sabbadhi} (everywhere), and could thus even more suitably be translated as “spreading to the entire (world)”; \textit{tata}: extended; spread out. (pp. of \textit{tanoti})}}}}}\makeatother\\
+\end{english-hang}
 
 \begin{english-hang}
   I will abide pervading the all-encompassing world \breathmark\ with a heart imbued with loving-kindness
@@ -9121,7 +9130,7 @@ Atha kho bhagavā udānaṁ udānesi:
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Is feeling permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent sssssssssssir''\\
+  ``Impermanent sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
@@ -9200,7 +9209,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \linkdest{endnote111-body}
 \begin{english-only-hangtogether}
   Who has heard the teaching\makeatletter\hyperlink{endnote111-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote111-appendix}{\hyperlink{endnote111-body}{The word ``the teaching'' is not explicitly expressed in the Pāḷi, but was inserted for comprehension.}}}}}\makeatother
+        \hypertarget{endnote111-appendix}{\hyperlink{endnote111-body}{The word ``the teaching'' is not explicitly expressed in the Pāḷi, but was inserted for comprehension.}}}}}\makeatother \thinspace
   sees thus \breathmark\ he becomes disenchanted with form \breathmark\ becomes disenchanted with feeling \breathmark\ becomes disenchanted with \mbox{perception}~\breathmark\ becomes disenchanted with volitional formations \breathmark\ becomes disenchanted with consciousness
 \end{english-only-hangtogether}
 
@@ -9717,13 +9726,9 @@ Sadā sotthī bhavantu te
 \section{Yathā vāri-vahā pūrā}
 \label{yatha-vari-vaha-pura}
 
-\vspace{-0.99em}
-
 \linkdest{endnote119-body}
-% \begin{leader-yatha}
 \anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā paripūrenti sāgaraṁ \breathmark\ evam'eva ito dinnaṁ petānaṁ upakappati \breathmark\ icchitaṁ patthitaṁ tumhaṁ khippam'eva samijjhatu sabbe pūrentu saṅkappā \breathmark\ cando paṇṇa-raso yathā maṇi joti-raso yathā\makeatletter\hyperlink{endnote119-appendix}\Hy@raisedlink{{\pagenote{%
       \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the \textit{Saṅghatthera}.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
-% \end{leader-yatha}
 
 \suttaRef{[Khp 1.7]}
 
@@ -10146,7 +10151,7 @@ Sadā sotthī bhavantu te
 \linkdest{endnote124-body}
 \begin{leader-yatha}
   \anglebracketleft\ \hspace{-0.5mm}Pharitvāna\makeatletter\hyperlink{endnote124-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote124-appendix}{\hyperlink{endnote124-body}{The ``Invitation to the Devas'' is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do so.}}}}}\makeatother
+        \hypertarget{endnote124-appendix}{\hyperlink{endnote124-body}{The ``Invitation to the Devas'' is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do so.}}}}}\makeatother \thinspace
   mettaṁ samettā bhadantā\\
   Avikkhitta-cittā parittaṁ bhaṇantu\\
   Sagge kāme ca rūpe giri-sikhara-taṭe c'antalikkhe vimāne\\
@@ -11320,7 +11325,7 @@ Sadā sotthī bhavantu te
 
 
 \begin{pali-hangtogether}
-  \anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\ \\
   Dhammānaṁ vicayo tathā\\
   Viriyam'pīti-passaddhi\\
   Bojjh'aṅgā ca tathā'pare\\
@@ -11859,7 +11864,7 @@ Sadā sotthī bhavantu te
 \label{dhamma-sangani-matika}
 
 \begin{pali-hangtogether}
-  \anglebracketleft\ \hspace{-0.5mm}Kusalā dhammā \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Kusalā dhammā \hspace{-0.5mm}\anglebracketright\ \\
   Akusalā dhammā\\
   Abyākatā dhammā
 \end{pali-hangtogether}
@@ -12132,11 +12137,11 @@ Sadā sotthī bhavantu te
 \section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
 
-% TODO fix hang indent and hand indent continued
+% TODO fix hang indent and hang indent continued
 % TODO don't let line end with the
-\begin{pali-hangtogether}
+\begin{pali-hang}
   \anglebracketleft\ \hspace{-0.5mm}Pañca-kkhandhā: \hspace{-1.00mm}\anglebracketright\ rūpa-kkhandho vedanā-kkhandho saññā-kkhandho saṅkhāra-kkhandho viññāṇa-kkhandho
-\end{pali-hangtogether}
+\end{pali-hang}
 
 \begin{english-verses}
   Five aggregates:
@@ -12147,12 +12152,12 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[DN 33]}
 
-\begin{pali-hangtogether-continued}
+\begin{pali-hang-continued}
   Dvā-das'āyatanāni:
-  \begin{pali-hangtogether}
+  \begin{pali-hang}
     Cakkhv'āyatanaṁ rūp'āyatanaṁ sot'āyatanaṁ sadd'āyatanaṁ ghān'āyatanaṁ gandh'āyatanaṁ jivh'āyatanaṁ ras'āyatanaṁ kāy'āyatanaṁ phoṭṭhabb'āyatanaṁ man'āyatanaṁ dhamm'āyatanaṁ
-  \end{pali-hangtogether}
-\end{pali-hangtogether-continued}
+  \end{pali-hang}
+\end{pali-hang-continued}
 
 \begin{english-verses}
   Twelve sense bases:
@@ -12165,9 +12170,9 @@ Sadā sotthī bhavantu te
 
 \begin{pali-hang-continued}
   Aṭṭhārasa dhātuyo:
-  \begin{pali-hangtogether}
+  \begin{pali-hang}
     Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu sota-dhātu sadda-dhātu sota-viññāṇa-dhātu ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
-  \end{pali-hangtogether}
+  \end{pali-hang}
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -12183,9 +12188,9 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Bā-vīsat'indriyāni:\makeatletter\hyperlink{endnote131-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote131-appendix}{\hyperlink{endnote131-body}{While these faculties are mentioned as a set of 22 only in the Abhi. Vibh., all of them are also found within the discourses.}}}}}\makeatother
-  \begin{pali-hangtogether}
+  \begin{pali-hang}
     Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ'ñassāmī't'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
-  \end{pali-hangtogether}
+  \end{pali-hang}
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -12611,7 +12616,7 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
   With mindfulness and wisdom \breathmark\ austerity and vigor\\
   \linkdest{endnote135-body}
   May the forces of delusion\makeatletter\hyperlink{endnote135-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote135-appendix}{\hyperlink{endnote135-body}{The \textit{Pāli} speaks about \textit{Māra's} forces.}}}}}\makeatother
+        \hypertarget{endnote135-appendix}{\hyperlink{endnote135-body}{The \textit{Pāli} speaks about \textit{Māra's} forces.}}}}}\makeatother \thinspace
   not take hold \breathmark\ nor weaken my resolve\\
   The Buddha is my excellent refuge\\
   Unsurpassed is the protection of the Dhamma\\
@@ -13026,7 +13031,7 @@ Pāṇ'ātipātā veramaṇi-sikkhāpadaṁ samādiyāmi
 \linkdest{endnote139-body}
 \begin{english-hang}
   I undertake the training\makeatletter\hyperlink{endnote139-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote139-appendix}{\hyperlink{endnote139-body}{WPN: ``precept''. The same applies to the next four lines.}}}}}\makeatother
+        \hypertarget{endnote139-appendix}{\hyperlink{endnote139-body}{WPN: ``precept''. The same applies to the next four lines.}}}}}\makeatother \thinspace
   to refrain from taking the life of any living being.
 \end{english-hang}
 

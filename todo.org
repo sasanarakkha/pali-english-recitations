@@ -158,9 +158,10 @@ CLOSED: [2022-05-26 Thu 22:15]
 CLOSED: [2022-05-26 Thu 22:15]
 ** DONE HTML: test breathmark margin padding at 0
 CLOSED: [2022-05-26 Thu 22:16]
-** TODO TeX: yatha-vari-vaha title closer than subsequent titles
-** TODO TeX: fix indentation for pali-hang and pali-hangtogether
-** TODO TeX: return periods in cardinal suttas
+** DONE TeX: yatha-vari-vaha title closer than subsequent titles
+CLOSED: [2022-12-14 Wed 18:32]
+** TODO TeX: fix indentation for pali-hang and pali-hangtogether -- FIXED ALREADY?
+** TODO TeX: return periods in cardinal suttas -- NECESSARY?
 ** TODO TeX: check for endnotes that are too close to proceeding word
 ** TODO TeX: check spacing of parittas
 ** TODO TeX: document anecdote and local
@@ -190,6 +191,7 @@ CLOSED: [2022-12-12 Mon 18:47]
 ** DONE HTML: bowels/entrails to intestines/mesentery and add footnote
 CLOSED: [2022-12-12 Mon 18:54]
 ** TODO HTML: DO ENDNOTES WHEN FINISHED
-** TODO BOTH: consider a quotation mark purge
 ** TODO BOTH: add footnote to n8p for right livelihood
 ** TODO HTML: highest blessing missing endnotes in the endnotes page
+** TODO HTML: add foot note for 'all as to myself'
+ - The compound sabbattatāya (sabba-t-tatāya) seems to be an extension of its predecessor sabbadhi (everywhere), and could thus even more suitably be translated as “spreading to the entire (world)”; tata: extended; spread out. (pp. of tanoti)
