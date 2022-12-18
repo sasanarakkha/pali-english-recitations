@@ -2787,7 +2787,8 @@ Etaṁ buddhāna'sāsanaṁ
 \begin{english-only}
   Respectfulness and being of humble ways\\
   Contentment and gratitude\\
-  And hearing the Dhamma at suitable times\\
+  And hearing the Dhamma at suitable times\makeatletter\hyperlink{endnote151-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote151-appendix}{\hyperlink{endnote151-body}{WPN: ``Hearing often the words of Dhamma''}}}}}\\
   These are the highest blessings
 \end{english-only}
 
@@ -4355,8 +4356,10 @@ Ayaṁ vuccati bhikkhave sammā-kammanto
 
 Katamo ca bhikkhave sammā-ājīvo
 
+\linkdest{endnote157-body}
 \begin{english}
-  And what bhikkhus is Right Livelihood?
+  And what bhikkhus is Right Livelihood?\makeatletter\hyperlink{endnote157-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote157-appendix}{\hyperlink{endnote157-body}{Descriptions of right and wrong livelihood can be found at AN 5.83, AN 5.177, AN 6.18, AN 8.54, AN 10.91.}}}}}\makeatother
 \end{english}
 
 Idha bhikkhave ariya-sāvako\\
@@ -10267,7 +10270,7 @@ Sadā sotthī bhavantu te
 \vspace{-0.99em}
 
 \linkdest{endnote124-body}
-\begin{leader-yatha}
+\begin{leader-pharitvana}
   \anglebracketleft\ \hspace{-0.5mm}Pharitvāna\makeatletter\hyperlink{endnote124-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote124-appendix}{\hyperlink{endnote124-body}{The ``Invitation to the Devas'' is traditionally performed as a solo introduction by the thirdmost senior monk. However, any monk who has been invited by the \textit{Saṅghatthera} can do so.}}}}}\makeatother \thinspace
   mettaṁ samettā bhadantā\\
@@ -10283,9 +10286,9 @@ Sadā sotthī bhavantu te
   \linkdest{endnote126-body}
   Saṅgha-payirupāsana-kālo ayam'bhadantā\makeatletter\hyperlink{endnote126-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{WPN: ``\textit{Payirūpāsana}''. \textit{Pari} + \textit{upa} = \textit{payirupa}}}}}}\makeatother\thinspace \hspace{-0.5mm}\anglebracketright\
-\end{leader-yatha}
+\end{leader-pharitvana}
 
-\begin{leader-yatha}
+\begin{leader-pharitvana}
   Kind, venerable sirs: having spread thoughts of good will,\\
   Recite the protective chant with undistracted mind.\\
   Those in the heavens of sensuality \& form,\\
@@ -10293,20 +10296,14 @@ Sadā sotthī bhavantu te
   In islands, countries, \& towns,\\
   In groves of trees \& thickets,\\
   Around homesites \& fields.\\
-  % \begin{english-hangtogether}
   And the earth-devas, spirits, heavenly minstrels, \& nāgas who are nearby,\\
-  % \end{english-hangtogether}
   In different waters and lands:\\
-  % \begin{english-hangtogether}
   May they come \& listen with approval as I recite the word of the excellent sage.
-  % \end{english-hangtogether}
 
-  % \begin{english-verses}
   This is the time to see the Buddha, venerable sirs.\\
   This is the time to listen to the Dhamma, venerable sirs.\\
   This is the time to attend to the Saṅgha, venerable sirs.
-  % \end{english-verses}
-\end{leader-yatha}
+\end{leader-pharitvana}
 
 \suttaRef{[Thai]}
 
