@@ -6,7 +6,7 @@
 % gambhiro.bhikkhu.85@gmail.com
 
 % (c) Pāladhammika Bhikkhu, 2022
-% paladhammika@protonmail.com.com
+% paladhammika@protonmail.com
 
 % LPPL LaTeX Public Project Licence
 
