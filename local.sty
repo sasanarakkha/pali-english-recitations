@@ -63,21 +63,23 @@
   \item[] \centering}%
 {\endlist}
 
-\newenvironment{leader-english-only}%
-{\list{}{%
-    \parskip 4pt%
-    \topsep 2pt%
-    \listparindent 0em%
-    \itemindent    0pt%
-    \leftmargin    0pt %\leaderIndent%
-    \rightmargin   0pt%
-    \parsep        0pt%
-  }%
-  \fontsize{12}{12}\selectfont
-  \item[] \centering}%
-{\endlist}
+% MARKED FOR DELETEION!!!
+% \newenvironment{leader-english-only}%
+% {\list{}{%
+%     \parskip 4pt%
+%     \topsep 2pt%
+%     \listparindent 0em%
+%     \itemindent    0pt%
+%     \leftmargin    0pt %\leaderIndent%
+%     \rightmargin   0pt%
+%     \parsep        0pt%
+%   }%
+%   \fontsize{12}{12}\selectfont
+%   \item[] \centering}%
+% {\endlist}
 
-\newenvironment{leader-yatha}%
+% Specific formatting found in 'Devā-ārādhanā' / 'Invitations to the Devas'
+\newenvironment{leader-pharitvana}%
 {\list{}{%
     \parskip 12pt%
     \topsep 0pt%
@@ -122,32 +124,34 @@
   \item[] \centering\itshape}%
 {\endlist}
 
-\newenvironment{leader-english-yatha}%
-{\list{}{%
-    \parskip 0pt%
-    \topsep 0pt%
-    \listparindent 0em%
-    \itemindent    0pt%
-    \leftmargin    0pt %\leaderIndent%
-    \rightmargin   0pt%
-    % \parsep        -8pt
-     \parsep        \z@ \@plus\p@%
-    \fontsize{12}{18}\selectfont
-  }%
-  \item[] \centering\itshape}%
-{\endlist}
+% MARKED FOR DELETEION!!!
+% \newenvironment{leader-english-yatha}%
+% {\list{}{%
+%     \parskip 0pt%
+%     \topsep 0pt%
+%     \listparindent 0em%
+%     \itemindent    0pt%
+%     \leftmargin    0pt %\leaderIndent%
+%     \rightmargin   0pt%
+%     % \parsep        -8pt
+%      \parsep        \z@ \@plus\p@%
+%     \fontsize{12}{18}\selectfont
+%   }%
+%   \item[] \centering\itshape}%
+% {\endlist}
 
-\newcommand{\instr}[1]{%
-  {\instrFmt #1}%
-}
+% MARKED FOR DELETEION!!!
+% \newcommand{\instr}[1]{%
+%   {\instrFmt #1}%
+% }
 
-\newcommand{\instrSidepar}[1]{%
-  \sidepar{\hspace*{-22mm}\parbox{25mm}{#1}}%
-}
+% \newcommand{\instrSidepar}[1]{%
+%   \sidepar{\hspace*{-22mm}\parbox{25mm}{#1}}%
+% }
 
-\newcommand{\soloinstr}[1]{%
-  {\centering\instrFmt #1\par}%
-}
+% \newcommand{\soloinstr}[1]{%
+%   {\centering\instrFmt #1\par}%
+% }
 
 % \newenvironment{paritta}%
 % {\list{}{%
@@ -170,6 +174,7 @@
  %    }%
  %    {\end{tabular}}
 
+% Formatting for verses
  \newenvironment{verses}%
  {\list{}{%
      \topsep 0pt
@@ -285,6 +290,7 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
+% Hanging format for chants that are only in English
  \newenvironment{english-only-hangtogether}%
  {\list{}{%
      \topsep 0pt
@@ -313,6 +319,7 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
+% English introductions or phrases that are only chanted by the leader, found in chants that are only in English
  \newenvironment{english-only-leader}%
  {\list{}{%
      \topsep 0pt
@@ -341,19 +348,20 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- \newenvironment{english-verses-bracket}%
- {\list{}{%
-     \partopsep 0pt
-     \topsep 0pt
-     \listparindent 0em%
-     \itemindent    0em%
-     \leftmargin    2.0em%\leaderIndent%
-     \rightmargin   0em%
-     \fontsize{12}{18}\selectfont
-     \parsep        \z@ \@plus\p@%
-   }%
-   \item[] \raggedright\itshape}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{english-verses-bracket}%
+ % {\list{}{%
+ %     \partopsep 0pt
+ %     \topsep 0pt
+ %     \listparindent 0em%
+ %     \itemindent    0em%
+ %     \leftmargin    2.0em%\leaderIndent%
+ %     \rightmargin   0em%
+ %     \fontsize{12}{18}\selectfont
+ %     \parsep        \z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright\itshape}%
+ % {\endlist}
 
 % Used for TWO problematic line
  \newenvironment{english-hang-firstline}%
@@ -385,20 +393,22 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- \newenvironment{english-hang-verses-brackets}%
- {\list{}{%
-     \topsep 0pt
-     \listparindent 0em%
-     \itemindent    -0.5em%
-     \leftmargin    2.5em %\leaderIndent%
-     \rightmargin   0em%
-     \fontsize{12}{18}\selectfont
-     \parsep        \z@ \@plus\p@%
-     % \parsep        -8.5em %\z@ \@plus\p@%
-   }%
-   \item[] \raggedright\itshape}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{english-hang-verses-brackets}%
+ % {\list{}{%
+ %     \topsep 0pt
+ %     \listparindent 0em%
+ %     \itemindent    -0.5em%
+ %     \leftmargin    2.5em %\leaderIndent%
+ %     \rightmargin   0em%
+ %     \fontsize{12}{18}\selectfont
+ %     \parsep        \z@ \@plus\p@%
+ %     % \parsep        -8.5em %\z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright\itshape}%
+ % {\endlist}
 
+% Hanging format for English chants, primarily for verses
  \newenvironment{english-hangtogether-verses}%
  {\list{}{%
      \topsep 0pt
@@ -413,44 +423,47 @@
    \item[] \raggedright\itshape}%
  {\endlist}
 
- \newenvironment{english-verses-keepwith}%
- {\list{}{%
-     \topsep 0pt
-     \partopsep 0pt
-     \listparindent 0em%
-     \itemindent    -0.5em%
-     \leftmargin    2.0em %\leaderIndent%
-     \rightmargin   0em%
-     \fontsize{12}{18}\selectfont
-     \parsep        \z@ \@plus\p@%
-   }%
-   \item[] \raggedright\itshape}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{english-verses-keepwith}%
+ % {\list{}{%
+ %     \topsep 0pt
+ %     \partopsep 0pt
+ %     \listparindent 0em%
+ %     \itemindent    -0.5em%
+ %     \leftmargin    2.0em %\leaderIndent%
+ %     \rightmargin   0em%
+ %     \fontsize{12}{18}\selectfont
+ %     \parsep        \z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright\itshape}%
+ % {\endlist}
 
- \newenvironment{cprenglish}%
- {\list{}{%
-     \partopsep 0pt
-     \topsep -10pt
-     \listparindent 0em%
-     \itemindent    0em%
-     \leftmargin    \leaderIndent%
-     \rightmargin   0em%
-     % \parsep        \z@ \@plus\p@%
-   }%
-   \item[] \raggedright\itshape}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{cprenglish}%
+ % {\list{}{%
+ %     \partopsep 0pt
+ %     \topsep -10pt
+ %     \listparindent 0em%
+ %     \itemindent    0em%
+ %     \leftmargin    \leaderIndent%
+ %     \rightmargin   0em%
+ %     % \parsep        \z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright\itshape}%
+ % {\endlist}
 
- \newenvironment{packedenglish}%
- {\list{}{%
-     \topsep 0pt
-     \listparindent 0em%
-     \itemindent    0em%
-     \leftmargin    \packedLeaderIndent%
-     \rightmargin   0em%
-     \parsep        \z@ \@plus\p@%
-   }%
-   \item[] \raggedright\itshape}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{packedenglish}%
+ % {\list{}{%
+ %     \topsep 0pt
+ %     \listparindent 0em%
+ %     \itemindent    0em%
+ %     \leftmargin    \packedLeaderIndent%
+ %     \rightmargin   0em%
+ %     \parsep        \z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright\itshape}%
+ % {\endlist}
 
  \newenvironment{pali-hang}%
  {\list{}{%
@@ -466,6 +479,7 @@
    \item[] \raggedright}%
  {\endlist}
 
+% Pali introductions or phrases that are only chanted by the leader
  \newenvironment{pali-leader}%
  {\list{}{%
      \topsep 0pt
@@ -479,18 +493,19 @@
    \item[] \centering}%
  {\endlist}
 
- \newenvironment{pali-hang-bracket}%
- {\list{}{%
-     \topsep 0pt
-     \listparindent 0em%
-     \itemindent    -0.75em%
-     \leftmargin    0.75em %2.5em %\leaderIndent%
-     \rightmargin   0em%
-     \fontsize{12.5}{18}\selectfont
-     \parsep        \z@ \@plus\p@%
-   }%
-   \item[] \raggedright}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{pali-hang-bracket}%
+ % {\list{}{%
+ %     \topsep 0pt
+ %     \listparindent 0em%
+ %     \itemindent    -0.75em%
+ %     \leftmargin    0.75em %2.5em %\leaderIndent%
+ %     \rightmargin   0em%
+ %     \fontsize{12.5}{18}\selectfont
+ %     \parsep        \z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright}%
+ % {\endlist}
 
 % Enables a line to hang that is sandwiched within a paragraph
  \newenvironment{pali-hangtogether}%
@@ -506,33 +521,37 @@
    \item[] \raggedright}%
  {\endlist}
 
- \newenvironment{pali-hangtogether-bracket}%
- {\list{}{%
-     \topsep -8pt
-     \listparindent 0em%
-     \itemindent    -1.0em%
-     \leftmargin    1.0em %2.5em %\leaderIndent%
-     \rightmargin   0em%
-     \fontsize{12.5}{18}\selectfont
-     \parsep        -8pt %\z@ \@plus\p@%
-   }%
-   \item[] \raggedright}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{pali-hangtogether-bracket}%
+ % {\list{}{%
+ %     \topsep -8pt
+ %     \listparindent 0em%
+ %     \itemindent    -1.0em%
+ %     \leftmargin    1.0em %2.5em %\leaderIndent%
+ %     \rightmargin   0em%
+ %     \fontsize{12.5}{18}\selectfont
+ %     \parsep        -8pt %\z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright}%
+ % {\endlist}
 
- \newenvironment{pali-keepwith}%
- {\list{}{%
-     \topsep 0pt
-     \partopsep 0pt
-     \listparindent 0em%
-     \itemindent    -0.5em%
-     \leftmargin    0.5em %\leaderIndent%
-     \rightmargin   0em%
-     \fontsize{12.5}{18}\selectfont
-     \parsep        \z@ \@plus\p@%
-   }%
-   \item[] \raggedright}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{pali-keepwith}%
+ % {\list{}{%
+ %     \topsep 0pt
+ %     \partopsep 0pt
+ %     \listparindent 0em%
+ %     \itemindent    -0.5em%
+ %     \leftmargin    0.5em %\leaderIndent%
+ %     \rightmargin   0em%
+ %     \fontsize{12.5}{18}\selectfont
+ %     \parsep        \z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright}%
+ % {\endlist}
 
+
+% Continues the indentation from a previous 'pali-hang*' which indicates continuous chanting (found in 'Protective Recitations')
  \newenvironment{pali-hang-continued}%
  {\list{}{%
      \topsep 0pt
@@ -546,18 +565,19 @@
    \item[] \raggedright}%
  {\endlist}
 
- \newenvironment{pali-hangtogether-continued}%
- {\list{}{%
-     \topsep 0pt
-     \listparindent 0em%
-     \itemindent    0em%
-     \leftmargin    0.5em %2.5em %\leaderIndent%
-     \rightmargin   0em%
-     \fontsize{12.5}{18}\selectfont
-     \parsep        \z@ \@plus\p@%
-   }%
-   \item[] \raggedright}%
- {\endlist}
+ % MARKED FOR DELETION
+ % \newenvironment{pali-hangtogether-continued}%
+ % {\list{}{%
+ %     \topsep 0pt
+ %     \listparindent 0em%
+ %     \itemindent    0em%
+ %     \leftmargin    0.5em %2.5em %\leaderIndent%
+ %     \rightmargin   0em%
+ %     \fontsize{12.5}{18}\selectfont
+ %     \parsep        \z@ \@plus\p@%
+ %   }%
+ %   \item[] \raggedright}%
+ % {\endlist}
 
  \newenvironment{pali-hang-firstline}%
  {\list{}{%
@@ -613,24 +633,27 @@
   \end{english}%
 }
 
-\newcommand\packedtrline[1]{%
-  \begin{packedenglish}%
-    #1%
-  \end{packedenglish}%
-}
+% MARKED FOR DELETION
+% \newcommand\packedtrline[1]{%
+%   \begin{packedenglish}%
+%     #1%
+%   \end{packedenglish}%
+% }
 
-\newlength\preceptnumwidth
-\setlength{\preceptnumwidth}{\widthof{\normalsize 9.\space}}
+% MARKED FOR DELETION
+% \newlength\preceptnumwidth
+% \setlength{\preceptnumwidth}{\widthof{\normalsize 9.\space}}
 
-\newenvironment{precept}%
-{\begin{enumerate}[
-         itemindent=0pt,
-         leftmargin={\preceptnumwidth},
-         rightmargin=0pt,
-         ]%
-         }{\end{enumerate}}
+% MARKED FOR DELETION
+% \newenvironment{precept}%
+% {\begin{enumerate}[
+%          itemindent=0pt,
+%          leftmargin={\preceptnumwidth},
+%          rightmargin=0pt,
+%          ]%
+%          }{\end{enumerate}}
 
-       \newcommand\hsp{\hspace*{0.5em}}
+%        \newcommand\hsp{\hspace*{0.5em}}
 
        % ==== Tabular ==== %
 

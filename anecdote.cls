@@ -10,9 +10,6 @@
 
 % LPPL LaTeX Public Project Licence
 
-% TODO: document interfaces
-% TODO: test document to compile
-
 %%%%%%%%%%%%%%%% Identification %%%%%%%%%%%%%%%%
 
 \NeedsTeXFormat{LaTeX2e}
@@ -141,7 +138,7 @@
 \RequirePackage{makecell}
 \settowidth\rotheadsize{{\small Compound}}
 \newcommand{\NA}{---}
-%% These two are sourced locally in ~/.texmf
+%% These two are sourced locally in $TEXMFHOME
 \RequirePackage{tabularray}
 \RequirePackage{ninecolors}
 
@@ -264,11 +261,11 @@
    \belowdisplayskip \abovedisplayskip
 }
 
-%%%%%%%%%%%%%%%% Foregin Languuge Wrappers %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Foreign Languuge Wrappers %%%%%%%%%%%%%%%%
 
-\newfontfamily\thaiFont{Kinnari.ttf}
-
-\newcommand*\thai[1]{{\thaiFont #1}}
+% MARKED FOR DELETION
+% \newfontfamily\thaiFont{Kinnari.ttf}
+% \newcommand*\thai[1]{{\thaiFont #1}}
 
 \newcommand{\instrFmt}{%
   \color{instruction}\instructionFont\upshape\fontsize{10}{13}\selectfont%
@@ -1485,6 +1482,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newlength\sectionTitleLength
 
+% Section title formatting (e.g. 'Homage to the Buddha')
 \newcommand\sectionFmt[1]{%
   % A box with contains the entire ruled title
   % \begin{minipage}{\linewidth}%
@@ -1586,6 +1584,7 @@ philo-sophical munindo amaravati thai-land}
   % Starting at the title hyperref above
 }
 
+% Subsection title formatting (e.g. the 'Historical Background' found in the Purpose and Benefit section)
 \newcommand\subsectionFmt[1]{%
   {%
     \subSectionFont\fontsize{14}{18}\selectfont%
@@ -1596,6 +1595,7 @@ philo-sophical munindo amaravati thai-land}
   }%
 }
 
+% Subsection title formatting which is currently unused.
 \newcommand\subsubsectionFmt[1]{%
   {%
     \subSectionFont\fontsize{11}{17}\selectfont%
@@ -1605,39 +1605,42 @@ philo-sophical munindo amaravati thai-land}
   }%
 }
 
+% These allow section titles to present themselves with the formatting of another section. (e.g. sections can have the formatting of a subsection as in the Protective Recitations)
 \setsecheadstyle{\sectionFmt}
 \setsubsecheadstyle{\subsectionFmt}
 \setsubsubsecheadstyle{\subsubsectionFmt}
 
-\newcommand\englishTitle[1]{%
-  \vspace*{-1ex}%
-  \tocEnglishTitle{#1}%
-  {%
-    \subSectionFont\fontsize{11}{17}\selectfont%
-    \itshape\color{section}%
-    \memRTLraggedright%
-    #1%
-  }%
-  \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
-}
+% % MARKED FOR DELETION!!!
+% \newcommand\englishTitle[1]{%
+%   \vspace*{-1ex}%
+%   \tocEnglishTitle{#1}%
+%   {%
+%     \subSectionFont\fontsize{11}{17}\selectfont%
+%     \itshape\color{section}%
+%     \memRTLraggedright%
+%     #1%
+%   }%
+%   \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
+% }
 
-\newcommand\paliTitle[1]{%
-  \vspace*{-1ex}%
-  \tocEnglishTitle{#1}%
-  {%
-    \subSectionFont\fontsize{11}{17}\selectfont%
-    \itshape\color{section}%
-    \memRTLraggedright%
-    #1%
-  }%
-  \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
-}
+% \newcommand\paliTitle[1]{%
+%   \vspace*{-1ex}%
+%   \tocEnglishTitle{#1}%
+%   {%
+%     \subSectionFont\fontsize{11}{17}\selectfont%
+%     \itshape\color{section}%
+%     \memRTLraggedright%
+%     #1%
+%   }%
+%   \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
+% }
 
 \newif\ifsectionsubtitle
 \sectionsubtitlefalse
 
 \newcommand*\@secSubTitle{}
 
+% Formatting for the Pali subtitle which resides below the English section tile.
 \newcommand\sectionPaliTitle[1]{%
   % \fontsize{8}{8}\selectfont #1\par
   \renewcommand*\@secSubTitle{#1}%
@@ -1752,7 +1755,6 @@ philo-sophical munindo amaravati thai-land}
 %%%%%%%%%%%%%%%% Packages To Be Loaded LAST %%%%%%%%%%%%%%%%
 
 % NOTE use the 'bottom' footmisc option when using \raggedbottom.
-
 \RequirePackage[perpage,symbol*,bottom,norule,multiple]{footmisc}
 
 % NOTE if you have a quote margin, the \footnotemargin can be set equal to that
@@ -1766,6 +1768,7 @@ philo-sophical munindo amaravati thai-land}
 \DefineFNsymbols{anecdote}{*{**}{***}}
 \setfnsymbol{anecdote}
 
+% Attempts to fix problematic endnote links which jump below the target.
 \makeatletter
  \newcommand{\linkdest}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
 \makeatother
