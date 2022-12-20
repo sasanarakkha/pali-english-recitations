@@ -142,6 +142,19 @@
 \RequirePackage{tabularray}
 \RequirePackage{ninecolors}
 
+
+% Packages which provides git commit and branch information
+\RequirePackage{catchfile}
+\RequirePackage{xstring}
+\CatchFileDef{\headfull}{.git/HEAD}{}
+\StrGobbleRight{\headfull}{1}[\head]
+\StrBehind[2]{\head}{/}[\branch]
+% \CatchFileDef{\commit}{.git/refs/heads/\branch.}{}
+\IfFileExists{.git/refs/heads/\branch.}{%
+    \CatchFileDef{\commit}{.git/refs/heads/\branch.}{}}{%
+    \newcommand{\commit}{\dots~(in \emph{packed-refs})}}
+
+
 %%%%%%%%%%%%%%%%% Define Colors %%%%%%%%%%%%%%%%
 
 % Define text colors as Gray color values.
