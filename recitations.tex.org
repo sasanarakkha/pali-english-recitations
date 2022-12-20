@@ -8,7 +8,7 @@
 - [[#copyright][Copyright]]
 - [[#acknowledgments][Acknowledgments]]
 - [[#recitation-schedule][Recitation Schedule]]
-- [[#purpose-and-benefit-of-dhamma-recitation][Purpose and Benefit of Dhamma Recitation]]
+- [[#purpose-and-benefits-of-dhamma-recitation][Purpose and Benefits of Dhamma Recitation]]
 - [[#abbreviations][Abbreviations]]
 - [[#homage-to-the-triple-gem][Homage to the Triple Gem]]
   - [[#covertitle][Cover/Title]]
@@ -207,7 +207,8 @@ set in Libertinus Serif.
 
 \ifdesktopversion
 This version was created on:\\
-\today \space at \currenttime
+\today \space at \currenttime\\
+Commit: \texttt{\commit} on branch \texttt{\branch}.
 \fi
 
 \vspace{0.5cm}
@@ -308,7 +309,7 @@ Sāsanārakkha Buddhist Sanctuary.
   \textsc{\fontsize{14.4}{28}\selectfont
     \hyperref[dedication-of-offerings]{Homage to the Triple Gem} \ifdesktopversion\else\pageref{dedication-of-offerings}\fi\\
     \hyperref[universal-well-being]{Universal Well-Being} \ifdesktopversion\else\pageref{universal-well-being}\fi\\
-    \hyperref[seven-factors-of-awakening]{The Seven Factor of Awakening} \ifdesktopversion\else\pageref{seven-factors-of-awakening}\fi\\
+    \hyperref[seven-factors-of-awakening]{The Seven Factors of Awakening} \ifdesktopversion\else\pageref{seven-factors-of-awakening}\fi\\
     \hyperref[words-on-loving-kindness]{The Buddha's Words on Loving-Kindness} \ifdesktopversion\else\pageref{words-on-loving-kindness}\fi\\
     \hyperref[sharing-merits-departed]{Sharing of Merits with the Departed (Pāli-English)} \ifdesktopversion\else\pageref{sharing-merits-departed}\fi\\
     \hyperref[sharing-merits-devas]{Sharing of Merits with the Devas (Pāli)} \ifdesktopversion\else\pageref{sharing-merits-devas}\fi\\
@@ -397,12 +398,12 @@ Sāsanārakkha Buddhist Sanctuary.
 
 #+end_src
 
-* Purpose and Benefit of Dhamma Recitation
-#+begin_src latex :tangle ./manuscript/tex/purpose-and-benefit.tex
+* Purpose and Benefits of Dhamma Recitation
+#+begin_src latex :tangle ./manuscript/tex/purpose-and-benefits.tex
 
 
-\chapter[Purpose and Benefit of Dhamma Recitation]{Purpose and Benefit\\ of Dhamma Recitation}
-\label{purpose-and-benefit}
+\chapter[Purpose and Benefits of Dhamma Recitation]{Purpose and Benefits\\ of Dhamma Recitation}
+\label{purpose-and-benefits}
 
 \subsection*{Historical Background}
 
@@ -1754,7 +1755,7 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Etaṁ kho saraṇaṁ khemaṁ – Etaṁ saraṇam'uttamaṁ\\
-  Etaṁ saraṇam'āgamma – Sabba-dukkhā pamuccatī'ti.
+  Etaṁ saraṇam'āgamma – Sabba-dukkhā pamuccatī'ti
 \end{verses}
 
 \begin{english-verses}
@@ -12667,7 +12668,7 @@ Sadā sotthī bhavantu te
   \setsecnumformat{}%
 }
 
-\sectionPaliTitle{Uddissan'ādhiṭṭhānā}
+\sectionPaliTitle{Uddissan'ādhiṭṭhāna}
 \setsecheadstyle{\sectionFmt}
 
 \section{Sharing and Aspirations}
