@@ -144,8 +144,8 @@
 
 
 % Packages which provides git commit and branch information
-\RequirePackage{catchfile}
 \RequirePackage{xstring}
+\RequirePackage{catchfile}
 \CatchFileDef{\headfull}{.git/HEAD}{}
 \StrGobbleRight{\headfull}{1}[\head]
 \StrBehind[2]{\head}{/}[\branch]
