@@ -208,7 +208,7 @@ set in Libertinus Serif.
 \ifdesktopversion
 This version was created on:\\
 \today \space at \currenttime\\
-Commit: \texttt{\commit} on branch \texttt{\branch}.
+\href{https://github.com/sasanarakkha/pali-english-recitations/commits/main}{\texttt{\commit}} on branch \texttt{\branch}.
 \fi
 
 \vspace{0.5cm}

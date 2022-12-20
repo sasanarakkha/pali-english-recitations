@@ -143,17 +143,6 @@
 \RequirePackage{ninecolors}
 
 
-% Packages which provides git commit and branch information
-\RequirePackage{xstring}
-\RequirePackage{catchfile}
-\CatchFileDef{\headfull}{.git/HEAD}{}
-\StrGobbleRight{\headfull}{1}[\head]
-\StrBehind[2]{\head}{/}[\branch]
-% \CatchFileDef{\commit}{.git/refs/heads/\branch.}{}
-\IfFileExists{.git/refs/heads/\branch.}{%
-    \CatchFileDef{\commit}{.git/refs/heads/\branch.}{}}{%
-    \newcommand{\commit}{\dots~(in \emph{packed-refs})}}
-
 
 %%%%%%%%%%%%%%%%% Define Colors %%%%%%%%%%%%%%%%
 
@@ -1785,3 +1774,30 @@ philo-sophical munindo amaravati thai-land}
 \makeatletter
  \newcommand{\linkdest}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
 \makeatother
+
+% A no-package approach to provide git commit information.
+\newcommand\dotGitHEAD{}
+\newcommand\branch{}
+\newcommand\commit{}
+
+
+\makeatletter\let\myfilehandle\@inputcheck\makeatother
+
+\openin\myfilehandle=.git/HEAD\relax
+
+\begingroup\endlinechar-1
+  \global\read\myfilehandle to \dotGitHEAD
+\endgroup
+\closein\myfilehandle
+
+\newcommand\GetBranch{}
+\def\GetBranch ref: refs/heads/#1\relax{\renewcommand{\branch}{#1}}
+
+\expandafter\GetBranch\dotGitHEAD\relax
+
+\openin\myfilehandle=.git/refs/heads/\branch\relax
+
+\begingroup\endlinechar-1
+  \global\read\myfilehandle to \commit
+\endgroup
+\closein\myfilehandle
