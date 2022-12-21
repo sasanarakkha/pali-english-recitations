@@ -1,6 +1,6 @@
 FROM debian:bookworm
 LABEL name="Pāli-English Recitations build image"
-LABEL version="0.1"
+LABEL version="0.2"
 ARG doomemacs_repo="https://github.com/doomemacs/doomemacs"
 ARG doomemacs_ref="bea3cc161c0a803dcf574f32ee555dccf565a5ce"
 ENV PATH="$PATH:/root/.emacs.d/bin/"
@@ -9,6 +9,7 @@ ENV PATH="$PATH:/root/.emacs.d/bin/"
 RUN \
   apt-get update && \
   apt-get install --no-install-recommends --yes \
+    git \
     locales \
     make \
     zip \
@@ -50,15 +51,11 @@ RUN \
 WORKDIR /root/.emacs.d/
 # hadolint ignore=DL3008
 RUN \
-  apt-get update && \
-  apt-get install --no-install-recommends --yes git && \
   git init && \
   git remote add origin "$doomemacs_repo" && \
   git fetch --depth 1 origin "$doomemacs_ref" && \
   git checkout FETCH_HEAD && \
   org-tangle && \
-  apt-get remove --purge --yes git && \
-  apt-get clean && \
   rm -rf /var/lib/apt/lists/*
 
 WORKDIR /root/
