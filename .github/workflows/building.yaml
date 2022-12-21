@@ -11,8 +11,26 @@ jobs:
     runs-on: ubuntu-latest
     container: bergentroll/pali-english-recitations-builder:latest
     steps:
+      - name: install git
+        run: |
+          apt update
+          apt install -y git
       - name: Actions checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      #- name: Stub ref file
+      #  run: |
+      #    mkdir -p .git/ref/
+      #    echo "$GITHUB_REF" > .git/ref/
+      - name: TMP
+        run: |
+          apt update
+          apt install -y tree git
+          git status
+          tree .git
+      - name: Check ref
+        run: cat .git/refs/heads/main
       - name: Build PDF
         run: make pdf2x
       - name: Build EPUB
