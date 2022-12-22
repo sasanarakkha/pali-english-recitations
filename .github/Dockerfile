@@ -1,14 +1,13 @@
-FROM debian:bookworm
+# Enough fresh TeXLive and enough old Emacs for org-tangle in Jammy
+FROM ubuntu:jammy
 LABEL name="Pāli-English Recitations build image"
-LABEL version="0.2"
-ARG doomemacs_repo="https://github.com/doomemacs/doomemacs"
-ARG doomemacs_ref="bea3cc161c0a803dcf574f32ee555dccf565a5ce"
-ENV PATH="$PATH:/root/.emacs.d/bin/"
+LABEL version="0.3"
 
 # hadolint ignore=DL3008
 RUN \
   apt-get update && \
   apt-get install --no-install-recommends --yes \
+    ca-certificates \
     git \
     locales \
     make \
@@ -22,6 +21,7 @@ RUN \
 ENV LC_ALL="en_US.UTF-8"
 ENV LANG="en_US.UTF-8"
 
+ARG DEBIAN_FRONTEND=noninteractive
 # hadolint ignore=DL3008
 RUN \
   apt-get update && \
@@ -48,6 +48,9 @@ RUN \
   apt-get clean && \
   rm -rf /var/lib/apt/lists/*
 
+ARG doomemacs_repo="https://github.com/doomemacs/doomemacs"
+ARG doomemacs_ref="d5ccac5d71c819035fa251f01d023b3f94b4fba4"
+ENV PATH="$PATH:/root/.emacs.d/bin/"
 WORKDIR /root/.emacs.d/
 # hadolint ignore=DL3008
 RUN \
@@ -55,7 +58,6 @@ RUN \
   git remote add origin "$doomemacs_repo" && \
   git fetch --depth 1 origin "$doomemacs_ref" && \
   git checkout FETCH_HEAD && \
-  org-tangle && \
-  rm -rf /var/lib/apt/lists/*
+  org-tangle
 
 WORKDIR /root/
