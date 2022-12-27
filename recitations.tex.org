@@ -8732,7 +8732,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idam avoca bhagavā \breathmark\ attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
+  Idam'avoca bhagavā \breathmark\ attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
 \end{pali-hang}
 
 \begin{pali-hang}
