@@ -206,3 +206,6 @@ CLOSED: [2022-12-18 Sun 17:03]
 ** DONE HTML: add foot note for 'all as to myself'
 CLOSED: [2022-12-18 Sun 16:58]
  - The compound sabbattatāya (sabba-t-tatāya) seems to be an extension of its predecessor sabbadhi (everywhere), and could thus even more suitably be translated as “spreading to the entire (world)”; tata: extended; spread out. (pp. of tanoti)
+
+
+** TODO HTML: two footnotes for 'as long as bhikkhu' and 'but when bhikkhus'

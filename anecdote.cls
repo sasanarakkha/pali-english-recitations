@@ -1775,29 +1775,30 @@ philo-sophical munindo amaravati thai-land}
  \newcommand{\linkdest}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
 \makeatother
 
-% A no-package approach to provide git commit information.
-\newcommand\dotGitHEAD{}
-\newcommand\branch{}
-\newcommand\commit{}
+% A no-package-needed approach to provide git commit information. The commit produced is shown on the Copyright page.
+% \newcommand\dotGitHEAD{}
+% \newcommand\branch{}
+% \newcommand\commit{}
 
 
-\makeatletter\let\myfilehandle\@inputcheck\makeatother
+% \makeatletter\let\myfilehandle\@inputcheck\makeatother
 
-\openin\myfilehandle=.git/HEAD\relax
+% \openin\myfilehandle=.git/HEAD\relax
 
-\begingroup\endlinechar-1
-  \global\read\myfilehandle to \dotGitHEAD
-\endgroup
-\closein\myfilehandle
+% \begingroup\endlinechar-1
+%   \global\read\myfilehandle to \dotGitHEAD
+% \endgroup
+% \closein\myfilehandle
 
-\newcommand\GetBranch{}
-\def\GetBranch ref: refs/heads/#1\relax{\renewcommand{\branch}{#1}}
+% \newcommand\GetBranch{}
+% \def\GetBranch ref: refs/heads/#1\relax{\renewcommand{\branch}{#1}}
 
-\expandafter\GetBranch\dotGitHEAD\relax
+% \expandafter\GetBranch\dotGitHEAD\relax
 
-\openin\myfilehandle=.git/refs/heads/\branch\relax
+% \openin\myfilehandle=.git/refs/heads/\branch\relax
 
-\begingroup\endlinechar-1
-  \global\read\myfilehandle to \commit
-\endgroup
-\closein\myfilehandle
+% \begingroup\endlinechar-1
+%   \global\read\myfilehandle to \commit
+% \endgroup
+% \closein\myfilehandle
+
