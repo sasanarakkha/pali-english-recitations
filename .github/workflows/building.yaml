@@ -13,6 +13,10 @@ jobs:
     steps:
       - name: Actions checkout
         uses: actions/checkout@v3
+      - name: Check ref
+        run: |
+          ls --directory .git/
+          cat .git/refs/heads/main
       - name: Build PDF
         run: make pdf2x
       - name: Build EPUB

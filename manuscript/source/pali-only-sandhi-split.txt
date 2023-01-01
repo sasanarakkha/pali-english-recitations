@@ -695,7 +695,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo iti Pabbajitena abhiṇha�
 Kamma-ssako amhi kamma-dāya ado kamma-yoni kamma-bandhu kamma-paṭisaraṇo Yaṁ kammaṁ karissāmi Kalyāṇaṁ vā pāpakaṁ vā Tassa dāya ado bhavissāmi iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Kathaṁ bhūtassa me rattiṁ divā vītipatanti iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Kacci nu kho ahaṁ suñña agāre abhiramāmi iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-Atthi nu kho me uttari manussa dhammā alaṁ ariya ñāṇa dassana viseso adhigato So ahaṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmi iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+Atthi nu kho me uttari manussa dhammā alaṁ ariya ñāṇa dassana-viseso adhigato So ahaṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmi iti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Ime kho bhikkhave dasa dhammā
 Pabbajitena abhiṇhaṁ paccavekkhitabba iti
 
@@ -725,7 +725,7 @@ Ayaṁ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkh
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ: 
 Jāti api dukkhā jarā api dukkhā byādhi api dukkho maraṇaṁ api dukkhaṁ Soka parideva dukkha domanassa upāyāsā api dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yaṁ apicchaṁ na labhati taṁ api dukkhaṁ saṅkhittena pañca upādāna-kkhandhā dukkhā
 Idaṁ kho pana bhikkhave dukkha-samudayo ariyasaccaṁ: 
-Ya āyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā tatra tatra abhinandinī seyyathā idaṁ: kāma-taṇhā bhava-taṇhā vibhava-taṇhā
+Ya āyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā tatra-tatra abhinandinī seyyathā idaṁ: kāma-taṇhā bhava-taṇhā vibhava-taṇhā
 Idaṁ kho pana bhikkhave dukkha-nirodho ariyasaccaṁ: 
 Yo tassā yeva taṇhāya asesa-virāga-nirodho cāgo paṭinissaggo mutti anālayo
 Idaṁ kho pana bhikkhave dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ: 
@@ -745,12 +745,12 @@ Taṁ kho panidaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ bhāvitant
 Yāvakīvaṁ ca me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi na eva tāva ahaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddham ahosi atha aham bhikkhave sadevake loke samārake sabrahmake sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ Ñāṇaṁ ca pana me dassanaṁ udapādi
 Akuppā me vimutti ayaṁ antimā jāti na atthi dāni punabbhavo iti
-Idam avoca bhagavā attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
+Idam'avoca bhagavā attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
 Imasmiṁ ca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi: Yaṁ kiṁ ci samudaya-dhammaṁ sabbaṁ taṁ nirodha-dhammaṁ iti
 Pavattite ca bhagavatā dhamma-cakke bhummā devā saddaṁ anussāvesuṁ: 
 Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhamma-cakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ iti
 Bhummānaṁ devānaṁ saddaṁ sutvā Cātu-mmahā-rājikā devā saddaṁ anussāvesuṁ...
-Cātu-mmahā-rājikanaṁ devānaṁ saddaṁ sutvā Tāvatiṁsā devā saddaṁ anussāvesuṁ...
+Cātu-mmahā-rājikānaṁ devānaṁ saddaṁ sutvā Tāvatiṁsā devā saddaṁ anussāvesuṁ...
 Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā Yāmā devā saddaṁ anussāvesuṁ...
 Yāmānaṁ devānaṁ saddaṁ sutvā Tusitā devā saddaṁ anussāvesuṁ...
 Tusitānaṁ devānaṁ saddaṁ sutvā Nimmānaratī devā saddamanussavesum...
@@ -776,31 +776,31 @@ Yasmā ca kho bhikkhave viññāṇaṁ anattā tasmā viññāṇaṁ ābādhā
 Aniccaṁ bhante
 Yaṁ pan aniccaṁ dukkhaṁ vā taṁ sukhaṁ va iti?
 Dukkhaṁ bhante
-Yaṁ pan aniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
+Yaṁ pan aniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
 No ha etaṁ bhante
 Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā va iti?
 Aniccā bhante
 Yaṁ pan aniccaṁ dukkhaṁ vā taṁ sukhaṁ va iti?
 Dukkhaṁ bhante
-Yaṁ pan aniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
+Yaṁ pan aniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
 No ha etaṁ bhante
 Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā va iti?
 Aniccā bhante
 Yaṁ pan aniccaṁ dukkhaṁ vā taṁ sukhaṁ va iti?
 Dukkhaṁ bhante
-Yaṁ pan aniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
+Yaṁ pan aniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
 No ha etaṁ bhante
 Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā va iti?
 Aniccā bhante
 Yaṁ pan aniccaṁ dukkhaṁ vā taṁ sukhaṁ va iti?
 Dukkhaṁ bhante
-Yaṁ pan aniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
+Yaṁ pan aniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
 No ha etaṁ bhante
 Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ va iti?
 Aniccaṁ bhante
 Yaṁ pan aniccaṁ dukkhaṁ vā taṁ sukhaṁ va iti?
 Dukkhaṁ bhante
-Yaṁ pan aniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
+Yaṁ pan aniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso ahaṁ asmi eso me atta iti?
 No ha etaṁ bhante Tasmā iha bhikkhave Yaṁ kiñci rūpaṁ atīt anāgata paccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ: na etaṁ mama na eso ahaṁ asmi na ṁ eso atta iti evaṁ etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
 Yā kāci vedanā atīt anāgata paccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā sabbā vedanā: na etaṁ mama na eso ahaṁ asmi na ṁ eso atta iti evaṁ etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
 Yā kāci saññā atīt anāgata paccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā sabbā saññā: na etaṁ mama na eso ahaṁ asmi na ṁ eso atta iti evaṁ etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ

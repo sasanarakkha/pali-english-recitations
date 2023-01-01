@@ -8334,7 +8334,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{english-verses}
 
 \begin{pali-hang}
-  Atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana viseso adhigato
+  Atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana-viseso adhigato
 \end{pali-hang}
 \begin{pali-hangtogether}
   So'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti
@@ -8719,7 +8719,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Y'āyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā \breathmark\ tatra tatr'ābhinandinī seyyath'īdaṁ: kāma-taṇhā bhava-taṇhā vibhava-taṇhā
+  Y'āyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā \breathmark\ tatra-tatr'ābhinandinī seyyath'īdaṁ: kāma-taṇhā bhava-taṇhā vibhava-taṇhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8801,7 +8801,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idam avoca bhagavā \breathmark\ attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
+  Idam'avoca bhagavā \breathmark\ attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8823,7 +8823,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Cātu-mmahā-rājikanaṁ devānaṁ saddaṁ sutvā \breathmark\ Tāvatiṁsā devā saddam'anussāvesuṁ...
+  Cātu-mmahā-rājikānaṁ devānaṁ saddaṁ sutvā \breathmark\ Tāvatiṁsā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -9117,7 +9117,7 @@ Atha kho bhagavā udānaṁ udānesi:
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante
@@ -9136,7 +9136,7 @@ Atha kho bhagavā udānaṁ udānesi:
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante
@@ -9155,7 +9155,7 @@ Atha kho bhagavā udānaṁ udānesi:
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante
@@ -9174,7 +9174,7 @@ Atha kho bhagavā udānaṁ udānesi:
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante
@@ -9193,7 +9193,7 @@ Atha kho bhagavā udānaṁ udānesi:
   Dukkhaṁ bhante
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-  Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
+  Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   No h'etaṁ bhante

@@ -695,7 +695,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti Pabbajitena abhiṇhaṁ
 Kamma-ssako'mhi kamma-dāy'ādo kamma-yoni kamma-bandhu kamma-paṭisaraṇo Yaṁ kammaṁ karissāmi Kalyāṇaṁ vā pāpakaṁ vā Tassa dāy'ādo bhavissāmī'ti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Katham'bhūtassa me rattin'divā vītipatantī'ti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Kacci nu kho'haṁ suññ'āgāre abhiramāmī'ti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
-Atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana viseso adhigato So'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+Atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana-viseso adhigato So'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Ime kho bhikkhave dasa dhammā
 Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
@@ -725,7 +725,7 @@ Ayaṁ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkh
 Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ: 
 Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā appiyehi sampayogo dukkho piyehi vippayogo dukkho yam'picchaṁ na labhati tam'pi dukkhaṁ saṅkhittena pañc'upādāna-kkhandhā dukkhā
 Idaṁ kho pana bhikkhave dukkha-samudayo ariyasaccaṁ: 
-Y'āyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā tatra tatr'ābhinandinī seyyath'īdaṁ: kāma-taṇhā bhava-taṇhā vibhava-taṇhā
+Y'āyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā tatra-tatr'ābhinandinī seyyath'īdaṁ: kāma-taṇhā bhava-taṇhā vibhava-taṇhā
 Idaṁ kho pana bhikkhave dukkha-nirodho ariyasaccaṁ: 
 Yo tassā yeva taṇhāya asesa-virāga-nirodho cāgo paṭinissaggo mutti anālayo
 Idaṁ kho pana bhikkhave dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ: 
@@ -745,12 +745,12 @@ Taṁ kho panidaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ bhāvitant
 Yāvakīvañ'ca me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddham ahosi ath'āham bhikkhave sadevake loke samārake sabrahmake sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ Ñāṇañ'ca pana me dassanaṁ udapādi
 Akuppā me vimutti ayam'antimā jāti n'atthi-dāni punabbhavo'ti
-Idam avoca bhagavā attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
+Idam'avoca bhagavā attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
 Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi: Yaṁ kiñ'ci samudaya-dhammaṁ sabbaṁ taṁ nirodha-dhamman'ti
 Pavattite ca bhagavatā dhamma-cakke bhummā devā saddam'anussāvesuṁ: 
 Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhamma-cakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin'ti
 Bhummānaṁ devānaṁ saddaṁ sutvā Cātu-mmahā-rājikā devā saddam'anussāvesuṁ...
-Cātu-mmahā-rājikanaṁ devānaṁ saddaṁ sutvā Tāvatiṁsā devā saddam'anussāvesuṁ...
+Cātu-mmahā-rājikānaṁ devānaṁ saddaṁ sutvā Tāvatiṁsā devā saddam'anussāvesuṁ...
 Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā Yāmā devā saddam'anussāvesuṁ...
 Yāmānaṁ devānaṁ saddaṁ sutvā Tusitā devā saddam'anussāvesuṁ...
 Tusitānaṁ devānaṁ saddaṁ sutvā Nimmānaratī devā saddamanussavesum...
@@ -776,31 +776,31 @@ Yasmā ca kho bhikkhave viññāṇaṁ anattā tasmā viññāṇaṁ ābādhā
 Aniccaṁ bhante
 Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 Dukkhaṁ bhante
-Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
+Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
 No h'etaṁ bhante
 Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā vā'ti?
 Aniccā bhante
 Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 Dukkhaṁ bhante
-Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
+Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
 No h'etaṁ bhante
 Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā vā'ti?
 Aniccā bhante
 Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 Dukkhaṁ bhante
-Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
+Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
 No h'etaṁ bhante
 Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā vā'ti?
 Aniccā bhante
 Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 Dukkhaṁ bhante
-Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
+Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
 No h'etaṁ bhante
 Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ vā'ti?
 Aniccaṁ bhante
 Yaṁ pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
 Dukkhaṁ bhante
-Yaṁ pan'āniccaṁ dukkhaṁ viparināma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
+Yaṁ pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ Etaṁ mama eso'ham'asmi eso me attā'ti?
 No h'etaṁ bhante Tasmā't'iha bhikkhave Yaṅ'kiñci rūpaṁ atīt'ānāgata-paccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ: N'etaṁ mama n'eso'ham'asmi na m'eso attā'ti evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
 Yā kāci vedanā atīt'ānāgata-paccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā sabbā vedanā: N'etaṁ mama n'eso'ham'asmi na m'eso attā'ti evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
 Yā kāci saññā atīt'ānāgata-paccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā sabbā saññā: N'etaṁ mama n'eso'ham'asmi na m'eso attā'ti evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
