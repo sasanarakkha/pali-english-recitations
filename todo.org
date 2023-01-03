@@ -166,10 +166,12 @@ CLOSED: [2022-12-14 Wed 18:32]
 CLOSED: [2022-12-16 Fri 13:29]
 ** DONE TeX: check spacing of parittas
 CLOSED: [2022-12-16 Fri 13:30]
-** TODO TeX: document anecdote and local
+** DONE TeX: document anecdote and local
+CLOSED: [2023-01-01 Sun 20:41]
 - dcoumented local
 - documented everything that I knew understood
-** TODO TeX: trim the fat: remove unneeded code, directories, and files
+** DONE TeX: trim the fat: remove unneeded code, directories, and files
+CLOSED: [2023-01-01 Sun 23:59]
 - trimmed local
 - trimmed everything which I knew should be trimmed
 ** DONE HTML: reduce space between leader intro and first line, create style -- FIXED ALREADY?
@@ -177,7 +179,8 @@ CLOSED: [2022-12-16 Fri 13:36]
 ** DONE Add footnote for 'right livelihood' that defines the meaning
 CLOSED: [2022-12-18 Sun 17:30]
 ** TODO TeX: remove empty pages
-** TODO remove footnote 74?
+** DONE remove footnote 74?
+CLOSED: [2023-01-01 Sun 23:59]
 ** DONE HTML: change intros in epub
 CLOSED: [2022-12-08 Thu 10:52]
 ** DONE HTML: change precept "going to entertainments" in epub
@@ -189,7 +192,8 @@ CLOSED: [2022-12-08 Thu 11:06]
 ** TODO HTML: fix epub footnote/hyperlink order
 ** DONE HTML: Gradual training FN for “proper time”: The Vinaya defines the wrong time for eating as from noon until dawnrise of the following day.
 CLOSED: [2022-12-12 Mon 18:30]
-** TODO TeX: footnote 50 jumping to wrong place
+** DONE TeX: footnote 50 jumping to wrong place
+CLOSED: [2023-01-01 Sun 23:59]
 ** DONE HTML: destructing the defilements
 CLOSED: [2022-12-09 Fri 11:20]
 ** DONE TEX & HTML: inner serenity for second jhāna -- needs footnote
@@ -206,6 +210,5 @@ CLOSED: [2022-12-18 Sun 17:03]
 ** DONE HTML: add foot note for 'all as to myself'
 CLOSED: [2022-12-18 Sun 16:58]
  - The compound sabbattatāya (sabba-t-tatāya) seems to be an extension of its predecessor sabbadhi (everywhere), and could thus even more suitably be translated as “spreading to the entire (world)”; tata: extended; spread out. (pp. of tanoti)
-
-
-** TODO HTML: two footnotes for 'as long as bhikkhu' and 'but when bhikkhus'
+** DONE HTML: two footnotes for 'as long as bhikkhu' and 'but when bhikkhus'
+CLOSED: [2023-01-01 Sun 23:58]
