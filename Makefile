@@ -75,6 +75,17 @@ pdf:
 #-----------------------------------------------------------------------------------------#
 
 
+handbook:
+	@echo "Tangling org document..."
+	@org-tangle ./recitations.tex.org
+	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+	@mkdir -p ./build
+	mv -f $(FILE).pdf "./build/SBS Pāli-English Recitations Handbook.pdf"
+
+
+#-----------------------------------------------------------------------------------------#
+
+
 pdf2x:
 	@echo "Tangling org document..."
 	@org-tangle ./recitations.tex.org

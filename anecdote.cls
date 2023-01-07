@@ -23,6 +23,13 @@
 \newif\ifoverleaf
 \overleaffalse
 
+% Enables conditionals for Reference Edition
+\newif\ifhandbookedition
+\handbookeditionfalse
+
+\newif\ifreferenceedition
+\referenceeditiontrue
+
 %%%%%%%%%%%%%%%%%%% Options %%%%%%%%%%%%%%%%%%%%
 
 \RequirePackage{pgfopts}
