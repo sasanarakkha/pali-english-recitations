@@ -1599,8 +1599,14 @@ philo-sophical munindo amaravati thai-land}
     \subSectionFont\fontsize{14}{18}\selectfont%
     \scshape\bfseries%
     \centering
+    \hyperref[schedule]{%
+      \begin{minipage}[t]{\linewidth}%
+        \centering%
+        % To hyperlink the text only, put \hyperref around the below
+        \textbf{\textls*{\textsc{#1}}}%
+      \end{minipage}}%
     % \vspace*{-7.2pt}% what is the needed for? commented removes gap in anumodana-paritta section
-    #1%
+    % #1%
   }%
 }
 

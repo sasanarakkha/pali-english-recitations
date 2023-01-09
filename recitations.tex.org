@@ -5293,9 +5293,9 @@ Puññ'ābhisaṅkhāro apuññ'ābhisaṅkhāro āneñj'ābhisaṅkhāro\makeat
 Kāya-saṅkhāro vacī-saṅkhāro citta-saṅkhāro
 
 \begin{english-verses}
-  Heightened formation of wholesomeness\\
-  Heightened formation of unwholesomeness\\
-  Heightened formation of imperturbability\\
+  Karmic formation of wholesomeness\\
+  Karmic formation of unwholesomeness\\
+  Karmic formation of imperturbability\\
   The bodily formation \breathmark\ the verbal formation \breathmark\ the mental formation
 \end{english-verses}
 
@@ -10936,6 +10936,93 @@ Sadā sotthī bhavantu te
 \suttaRef{[Thai]}
 
 #+end_src
+
+#+RESULTS:
+#+begin_export latex
+\section{Bojjh'aṅga-parittaṁ}
+\label{bojjhana-parittam}
+
+
+\begin{pali-hangtogether}
+  \anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\ \\
+  Dhammānaṁ vicayo tathā\\
+  Viriyam'pīti-passaddhi\\
+  Bojjh'aṅgā ca tathā'pare\\
+  Samādh'upekkha-bojjh'aṅgā\\
+  Satt'ete sabba-dassinā\\
+  Muninā samma'd'akkhātā\\
+  Bhāvitā bahulī-katā\\
+  Saṁvattanti abhiññāya\\
+  Nibbānāya ca bodhiyā\\
+  Etena sacca-vajjena\\
+  Sotthi te hotu sabbadā
+\end{pali-hangtogether}
+
+\begin{english-verses}
+  The Factors for Awakening include mindfulness,\\
+  Investigation of qualities,\\
+  Persistence, rapture, \& serenity,\\
+  Plus concentration \& equanimity factors for Awakening.\\
+  These seven, which the All-seeing Sage has perfectly taught,\\
+  When developed \& matured bring about heightened knowledge, Liberation, \& awakening.\\
+  By the saying of this truth,\\
+  May you always be well.
+\end{english-verses}
+
+\begin{pali-hang-continued}
+  Ekasmiṁ samaye nātho\\
+  Moggallānañ'ca kassapaṁ\\
+  Gilāne dukkhite disvā\\
+  Bojjh'aṅge satta desayi\\
+  Te ca taṁ abhinanditvā\\
+  Rogā mucciṁsu taṅ'khaṇe\\
+  Etena sacca-vajjena\\
+  Sotthi te hotu sabbadā
+\end{pali-hang-continued}
+
+\begin{english-verses}
+  At one time, our Protector seeing that Moggallana \& Kassapa\\
+  Were sick \& in pain, taught them the seven factors for Awakening.\\
+  They, delighting in that, were instantly freed from their illness.\\
+  By the saying of this truth, may you always be well.
+\end{english-verses}
+
+\begin{pali-hang-continued}
+  Ekadā dhamma-rājā'pi\\
+  Gelaññen'ābhipīḷito\\
+  Cundattherena taññ'eva\\
+  Bhaṇāpetvāna sādaraṁ\\
+  Sammoditvā ca ābādhā\\
+  Tamhā vuṭṭhāsi ṭhānaso\\
+  Etena sacca-vajjena\\
+  Sotthi te hotu sabbadā
+\end{pali-hang-continued}
+
+\begin{english-verses}
+  Once, when the Dhamma King was afflicted with fever,\\
+  He had the Elder Cunda recite that very teaching with devotion.\\
+  And as he approved, he rose up from that disease.\\
+  By the saying of this truth, may you always be well.
+\end{english-verses}
+
+\begin{pali-hang-continued}
+  Pahīnā te ca ābādhā\\
+  Tiṇṇannam'pi mah'esinaṁ\\
+  Magg'āhata-kilesā va\\
+  Patt'ānuppatti-dhammataṁ\\
+  Etena sacca-vajjena\\
+  Sotthi te hotu sabbadā
+\end{pali-hang-continued}
+
+\begin{english-verses}
+  Those diseases were abandoned by the three great seers,\\
+  Just as defilements are demolished by the Path\\
+  In accordance with step-by-step attainment.\\
+  By the saying of this truth, may you always be well.
+\end{english-verses}
+
+\suttaRef{[Thai]}
+#+end_export
 
 ** Abhaya-parittaṁ
 #+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
