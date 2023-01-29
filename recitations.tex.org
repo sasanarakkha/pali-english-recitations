@@ -5257,7 +5257,7 @@ Evam'etassa kevalassa dukkha-kkhandhassa samudayo hoti
 Tattha katamā avijjā
 
 \begin{english}
-  Therein what is ignorance?
+  Therein what is `ignorance'?
 \end{english}
 
 \begin{pali-hang}
@@ -5419,7 +5419,7 @@ Atthi nāmaṁ atthi rūpaṁ
 Tattha katamaṁ nāmaṁ
 
 \begin{english}
-  Therein what is name?
+  Therein what is `name'?
 \end{english}
 
 \linkdest{endnote80-body}
@@ -5439,7 +5439,7 @@ Idaṁ vuccati nāmaṁ
 Tattha katamaṁ rūpaṁ
 
 \begin{english}
-  Therein what is form?
+  Therein what is `form'?
 \end{english}
 
 Cattāro mahā-bhūtā catunnañ'ca mahā-bhūtānaṁ upādāya-rūpaṁ
@@ -5626,7 +5626,7 @@ There is ageing \breathmark\ there is death
 Tattha katamā jarā
 
 \begin{english}
-Therein what is ageing?
+Therein what is `ageing'?
 \end{english}
 
 \begin{pali-hang}
@@ -5646,7 +5646,7 @@ This is called `ageing'
 Tattha katamaṁ maraṇaṁ
 
 \begin{english}
-Therein what is death?
+Therein what is `death'?
 \end{english}
 
 \begin{pali-hang}
@@ -5678,7 +5678,7 @@ Idaṁ vuccati jāti-paccayā jarā-maraṇaṁ
 Tattha katamo soko
 
 \begin{english}
-  Therein what is sorrow?
+  Therein what is `sorrow'?
 \end{english}
 
 \begin{pali-hang}
@@ -5701,7 +5701,7 @@ Ayaṁ vuccati soko
 Tattha katamo paridevo
 
 \begin{english}
-  Therein what is lamentation?
+  Therein what is `lamentation'?
 \end{english}
 
 \begin{pali-hang}
@@ -5721,7 +5721,7 @@ Ayaṁ vuccati paridevo
 Tattha katamaṁ dukkhaṁ?
 
 \begin{english}
-  Therein what is pain?
+  Therein what is `pain'?
 \end{english}
 
 \begin{pali-hang}
@@ -5741,7 +5741,7 @@ Idaṁ vuccati dukkhaṁ
 Tattha katamaṁ domanassaṁ
 
 \begin{english}
-  Therein what is displeasure?
+  Therein what is `displeasure'?
 \end{english}
 
 \begin{pali-hang}
@@ -5761,7 +5761,7 @@ Idaṁ vuccati domanassaṁ
 Tattha katamo upāyāso
 
 \begin{english}
-  Therein what is despair?
+  Therein what is `despair'?
 \end{english}
 
 \begin{pali-hang}
