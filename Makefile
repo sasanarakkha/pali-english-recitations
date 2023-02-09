@@ -15,13 +15,13 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
-RELEASENAME   := "SBS Pāli-English Recitations"
+RELEASENAME   := "SBS_Pāli-English_Recitations"
 CURRENTEPUB   := ./manuscript/current-recitations.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/SBS Pāli-English Recitations.epub
-KINDLEFILE    := ./build/SBS Pāli-English Recitations.mobi
-AZW3FILE      := ./build/SBS Pāli-English Recitations.azw3
+EPUBFILE      := ./build/SBS_Pāli-English_Recitations.epub
+KINDLEFILE    := ./build/SBS_Pāli-English_Recitations.mobi
+AZW3FILE      := ./build/SBS_Pāli-English_Recitations.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
@@ -69,7 +69,7 @@ pdf:
 	@org-tangle ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/SBS Pāli-English Recitations.pdf"
+	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -80,7 +80,7 @@ handbook:
 	@org-tangle ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/SBS Pāli-English Recitations Handbook.pdf"
+	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations_Handbook.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -93,7 +93,7 @@ pdf2x:
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/SBS Pāli-English Recitations.pdf"
+	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -236,7 +236,7 @@ clean:
 	rm -f "$(KINDLEFILE)"
 	rm -f "$(AZW3FILE)"
 	rm -f "$(IBOOKSFILE)"
-	rm -f "./build/SBS Pāli-English Recitations.pdf"
+	rm -f "./build/SBS_Pāli-English_Recitations.pdf"
 	@# only remove dir if it's empty:
 	@(rmdir `dirname $(EPUBFILE)`; exit 0)
 
