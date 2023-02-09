@@ -566,7 +566,7 @@ The chants within this book have been arranged thematically in such a way (see t
 
 \subsection*{How to Recite}
 
-See chapter ``\hyperref[phonetics]{Pāli Phonetics \& Pronunciation}'' in the Appendix.
+See chapter ``\hyperref[phonetics]{Pāli Phonetics and Pronunciation}'' in the Appendix.
 
 \subsection*{References}
 
