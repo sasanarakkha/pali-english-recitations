@@ -189,7 +189,8 @@ CLOSED: [2022-12-08 Thu 10:52]
 CLOSED: [2022-12-08 Thu 10:52]
 ** DONE HTML: change mala-gandha in epub
 CLOSED: [2022-12-08 Thu 11:06]
-** TODO HTML: fix epub footnote/hyperlink order
+** DONE HTML: fix epub footnote/hyperlink order
+CLOSED: [2023-02-08 Wed 21:30]
 ** DONE HTML: Gradual training FN for “proper time”: The Vinaya defines the wrong time for eating as from noon until dawnrise of the following day.
 CLOSED: [2022-12-12 Mon 18:30]
 ** DONE TeX: footnote 50 jumping to wrong place
@@ -212,3 +213,4 @@ CLOSED: [2022-12-18 Sun 16:58]
  - The compound sabbattatāya (sabba-t-tatāya) seems to be an extension of its predecessor sabbadhi (everywhere), and could thus even more suitably be translated as “spreading to the entire (world)”; tata: extended; spread out. (pp. of tanoti)
 ** DONE HTML: two footnotes for 'as long as bhikkhu' and 'but when bhikkhus'
 CLOSED: [2023-01-01 Sun 23:58]
+** TODO increase font size of set navigation hub
