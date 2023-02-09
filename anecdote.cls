@@ -886,11 +886,11 @@ philo-sophical munindo amaravati thai-land}
   \begin{minipage}{\linewidth}%
     % \centering
     \hyperref[schedule]{%
-      \textbf{\raggedright\textsc{\fontsize{10}{0}\textls*{Schedule}}}}
+      \textbf{\raggedright\textsc{\fontsize{13}{0}\textls*{Schedule}}}}
     % \hspace*{0.05em} \pgfornament[color=brown,width=5mm,scale=0,ydelta=-3.5pt,symmetry=c]{4} \hspace*{0.05em}%
     \hfill
     \hyperref[#1]{%
-      \textbf{\raggedleft\textsc{\fontsize{10}{0}\textls*{Next}}}}%
+      \textbf{\raggedleft\textsc{\fontsize{13}{0}\textls*{Next}}}}%
   \end{minipage}%
   \fi
 }
