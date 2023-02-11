@@ -506,7 +506,7 @@ Since right view is the first of the eight path factors, it is of great importan
 
 \subsection*{Benefits for Rebirth}
 
-The depth to which a mere reading of a text penetrates the mind is incomparable to the depth of penetration that can be reached by memorization. AN 4.191 depicts monks who have memorized the Dhamma, and are subsequently reborn in circumstances with little to no exposure to the Dhamma. The sutta explains that not only in the current lifetime, but also in lifetimes ahead, the Dhamma that was previously memorized will be accessible and has a chance of being re-cognized or recollected even in a future existence, e.g. as a deva. With the support of sufficient samādhi, not only can the Dhamma be recollected, but even one's past lives:
+The depth to which a mere reading of a text penetrates the mind is incomparable to the depth of penetration that can be reached by memorization. AN 4.191 depicts monks who have memorized the Dhamma, and are subsequently reborn in circumstances with little to no exposure to the Dhamma. The sutta explains that not only in the current lifetime, but also in lifetimes ahead, the Dhamma that was previously memorized will be accessible and has a chance of being re-cognized or recollected even in a future existence, e.g. as a \textit{deva}. With the support of sufficient samādhi, not only can the Dhamma be recollected, but even one's past lives:
 
 \begin{quote}
   ``Bhikkhus, ...there are things to be realized by memory... And what are the things to be realized by memory? One's past abodes are to be realized by memory''. (AN 4.189)
@@ -570,13 +570,13 @@ See chapter ``\hyperref[phonetics]{Pāli Phonetics and Pronunciation}'' in the A
 
 \subsection*{References}
 
-Anālayo, Bhikkhu 2007: \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/oral-dimensions.pdf}{\textit{"Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context"}} \textit{Canadian Journal of Buddhist Studies}, 3: 5-33.
+Anālayo, Bhikkhu 2007: \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/oral-dimensions.pdf}{\textit{``Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context''}}, \textit{Canadian Journal of Buddhist Studies}, 3: 5-33.
 
-Analayo, Bhikkhu 2019: \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/ancientindianeducation.pdf}{\textit{Ancient Indian Education and Mindfulness}} Springer Science+Business Media
+Analayo, Bhikkhu 2019: \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/ancientindianeducation.pdf}{\textit{``Ancient Indian Education and Mindfulness''}}, Springer Science+Business Media
 
-Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-000}{\textit{Cognitive Psychology}}, Hove: Psychology Press.
+Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-000}{\textit{``Cognitive Psychology''}}, Hove: Psychology Press.
 
-Ṭhānissaro Bhikkhu 2013:  \href{https://www.dhammatalks.org/Archive/Writings/Ebooks/BMC1&2_200826.pdf}{\textit{The Buddhist Monastic Code II}}, Valley Center, CA: Metta Forest Monastery.
+Ṭhānissaro Bhikkhu 2013:  \href{https://www.dhammatalks.org/Archive/Writings/Ebooks/BMC1&2_200826.pdf}{\textit{``The Buddhist Monastic Code II''}}, Valley Center, CA: Metta Forest Monastery.
 
 #+end_src
 
@@ -2907,6 +2907,7 @@ Etaṁ buddhāna'sāsanaṁ
   \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Buddha's words on loving-kindness \hspace{-0.5mm}\anglebracketright\
 \end{leader-english}
 
+\linkdest{endnote161-body}
 \begin{english-only}
   This is what should be done\\
   By one who is skilled in goodness\\
@@ -2939,7 +2940,8 @@ Etaṁ buddhāna'sāsanaṁ
   as a mother protects with her life\\
   Her child her only child\\
   So with a boundless heart\\
-  Should one cherish all living beings\\
+  Should one cherish\makeatletter\hyperlink{endnote161-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote161-appendix}{\hyperlink{endnote155-body}{What is translated here as ``cherishing all living beings'', could more literally be translated as ``developing a measureless mind towards all beings''.}}}}} all living beings\\
   Radiating kindness \breathmark\ over the entire world\\
   Spreading upwards to the skies\\
   And downwards to the depths\\
@@ -2963,6 +2965,74 @@ Etaṁ buddhāna'sāsanaṁ
 % * TODO Bottom nav is higher than usual
 
 #+end_src
+
+#+RESULTS:
+#+begin_export latex
+\sectionPaliTitle{Karaṇīya-metta-sutta}
+\section{The Buddha's Words on Loving-Kindness}
+\label{words-on-loving-kindness}
+
+\begin{leader-english}
+  \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Buddha's words on loving-kindness \hspace{-0.5mm}\anglebracketright\
+\end{leader-english}
+
+\linkdest{endnote161-body}
+\begin{english-only}
+  This is what should be done\\
+  By one who is skilled in goodness\\
+  And who knows the path of peace\\
+  Let them be able and upright\\
+  Straightforward and gentle in speech\\
+  Humble and not conceited\\
+  Contented and easily satisfied\\
+  Unburdened with duties \breathmark\ and frugal in their ways\\
+  Peaceful and calm and wise and skillful\\
+  Not proud and demanding in nature\\
+  Let them not do the slightest thing\\
+  That the wise would later reprove\\
+  Wishing in gladness and in safety\\
+  May all beings be at ease\\
+  Whatever living beings there may be\\
+  Whether they are weak or strong \breathmark\ omitting none\\
+  The great or the mighty \breathmark\ medium short or small\\
+  The seen and the unseen\\
+  Those living near and far away\\
+  Those born and to be born\\
+  May all beings be at ease\\
+  Let none deceive another\\
+  Or despise any being in any state\\
+  Let none through anger or ill-will\\
+  Wish harm upon another\\
+\linkdest{endnote49-body}
+  Just\makeatletter\hyperlink{endnote49-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote49-appendix}{\hyperlink{endnote49-body}{WPN: ``Even''}}}}}\makeatother
+  as a mother protects with her life\\
+  Her child her only child\\
+  So with a boundless heart\\
+  Should one cherish\makeatletter\hyperlink{endnote155-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote155-appendix}{\hyperlink{endnote155-body}{What is translated here as ``cherishing all living beings'', could more literally be translated as ``developing a measureless mind towards all beings''.}}}}} all living beings\\
+  Radiating kindness \breathmark\ over the entire world\\
+  Spreading upwards to the skies\\
+  And downwards to the depths\\
+  Outwards and unbounded\\
+  Freed from hatred and ill-will\\
+  Whether standing or walking\\
+  Seated or lying down free from drowsiness\\
+  One should sustain this recollection\\
+  This is said to be the sublime abiding\\
+\linkdest{endnote50-body}
+  By not holding wrong views\makeatletter\hyperlink{endnote50-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote50-appendix}{\hyperlink{endnote50-body}{WPN: ``to fixed views''. This paragraph deals with \textit{Anāgāmis}, which becomes apparent from the closing statement in which it is said that by this practice one becomes free from sense desires and is not born again into this world (sense sphere). The limitation of loving-kindness practice leading ``only'' up to \textit{Anāgāmihood} also finds confirmation by AN 4.126. Now, since an \textit{Anāgāmi} has right view, which is the first factor of the noble eightfold path (even \textit{Arahants} hold right view; AN 10.112), it would therefore not be correct to say that he holds no views at all. Furthermore, even an \textit{Anāgāmi} may still have some minor grasping to (right) view, as there can still be moments of \textit{māna} (identification/conceit), which is overcome only by the \textit{Arahant}. I therefore conclude that this passage here refers specifically to ``wrong views'' and does not include ``right view'', since wrong views are the only types of views that an \textit{Anāgāmi} has entirely left behind.}}}}}\makeatother\\
+  The pure-hearted one having clarity of vision\\
+  Being freed from all sense-desires\\
+  Is not born again into this world
+\end{english-only}
+
+\suttaRef{[Snp 1.8]}
+
+\bottomNav{sharing-merits-departed}
+% * TODO Bottom nav is higher than usual
+#+end_export
 
 * Teachings
 ** Cover/Title
@@ -4633,7 +4703,7 @@ Idha bhikkhave bhikkhu
 
 \linkdest{endnote64-body}
 Vivicc'eva\makeatletter\hyperlink{endnote64-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote64-appendix}{\hyperlink{endnote64-body}{``Quite secluded from sense pleasures'' means being completely and entirely secluded; not just somewhat/moderately secluded. The Pāli term ``\textit{eva}'', which has been translated as ``quite'' is an emphatic particle, intensifying the adjective it qualifies. According to the Oxford English Dictionary, the English term ``quite'' has two connotations: 1. to the utmost or most absolute extent or degree; absolutely; completely; 2. To a certain or fairly significant extent or degree; fairly. It is the first connotation in which ``quite'' is used in the phrase ``quite secluded from sense pleasures''.}}}}}\makeatother\thinspace
+      \hypertarget{endnote64-appendix}{\hyperlink{endnote64-body}{``Quite secluded from sense pleasures'' means being completely and entirely secluded; not just somewhat/moderately secluded. The Pāli term ``\textit{eva}'', which has been translated as ``quite'' is an emphatic particle, intensifying the adjective it qualifies. According to the Oxford English Dictionary, the English term ``quite'' has two connotations: 1. to the utmost – or most – absolute extent or degree; absolutely; completely; 2. To a certain or fairly significant extent or degree; fairly. It is the first connotation in which ``quite'' is used in the phrase ``quite secluded from sense pleasures''.}}}}}\makeatother\thinspace
 kāmehi
 
 \begin{english}
@@ -4672,7 +4742,7 @@ Cetaso ekodibhāvaṁ
 \begin{english-verses}
   He enters upon and abides \breathmark\ in the second Jhāna\\
   Accompanied by self-confidence\makeatletter\hyperlink{endnote154-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote154-appendix}{\hyperlink{endnote154-body}{The meaning of \textit{pasāda} as ``confidence'' also finds expression in the qualities of a stream-enterer, who is declared to have \textit{aveccapasāda} in the Buddha, Dhamma, and Saṅgha (AN 3.75), which \textit{Āyasmā} (Bhikkhu) Bodhi translates as ``unwavering confidence'' and \textit{Āyasmā} Sujāto translates as ``experiential confidence''. The qualifier \textit{ajjhatta} found in the stock formula of the second Jhāna is rendered as ``inner/self confidence''. Alternative translations for ``\textit{ajjhattaṁ sampasādanaṁ}'' would be ``inner serenity'', ``inner clarity'', ``inner joy'', and it is up to the reader/reciter to reflect on these additional connotations of the term as seen fit.}}}}}\makeatother \breathmark\ and singleness of mind\\
+        \hypertarget{endnote154-appendix}{\hyperlink{endnote154-body}{The meaning of \textit{pasāda} as ``confidence'' also finds expression in the qualities of a stream-enterer, who is declared to have \textit{aveccapasāda} in the Buddha, Dhamma, and Saṅgha (AN 3.75), which \textit{Āyasmā} (Bhikkhu) Bodhi translates as ``unwavering confidence'' and \textit{Āyasmā} (Bhikkhu) Sujāto translates as ``experiential confidence''. The qualifier \textit{ajjhatta} found in the stock formula of the second Jhāna is rendered as ``inner/self confidence''. Alternative translations for ``\textit{ajjhattaṁ sampasādanaṁ}'' would be ``inner serenity'', ``inner clarity'', ``inner joy'', and it is up to the reader/reciter to reflect on these additional connotations of the term as seen fit.}}}}}\makeatother \breathmark\ and singleness of mind\\
   Without thought and examination\\
   With rapture and pleasure \breathmark\ born of concentration
 \end{english-verses}
@@ -5180,7 +5250,7 @@ Avijjā-paccayā saṅkhārā
   From ignorance as a\makeatletter\hyperlink{endnote72-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother \thinspace
   condition arise\makeatletter\hyperlink{endnote73-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother \thinspace
+        \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{[j]āti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother \thinspace
   formations\makeatletter\hyperlink{endnote147-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote147-appendix}{\hyperlink{endnote147-body}{Elsewhere in the chanting book the term ``\textit{saṅkhāra}'' is translated as ``volitional formations''. Here, however, for the sake of ease of recitability in subsequent passages within this chant, it is translated as ``formations''.}}}}}\makeatother
 \end{english}
@@ -5284,7 +5354,7 @@ Ayaṁ vuccati avijjā
 \linkdest{endnote76-body}
 \begin{english-hang}
   Therein what are `formations' \breathmark\ arising\makeatletter\hyperlink{endnote75-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother \thinspace
+        \hypertarget{endnote75-appendix}{\hyperlink{endnote75-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{[j]āti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother \thinspace
   from ignorance as a condition?\makeatletter\hyperlink{endnote76-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote76-appendix}{\hyperlink{endnote76-body}{To render as ``[t]herein what is from ignorance as a condition arise formations'' would be misleading, because it is not the conditioned relationship between A and B (here: ignorance and formations) that gets elaborated upon in the following lines, but it is only the term B (here: formations), that gets defined. Hence the preferable translation: ``Therein what are 'formations', arising from ignorance as a condition?''}}}}}\makeatother
 \end{english-hang}
@@ -5314,7 +5384,7 @@ Tattha katamo puññ'ābhisaṅkhāro
 \linkdest{endnote153-body}
 \begin{english-hang}
   Skillful volition of the sense-sphere \breathmark\ of the form-sphere \breathmark\ connected with giving \breathmark\ connected with virtue \breathmark\ connected with meditation\makeatletter\hyperlink{endnote153-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote153-appendix}{\hyperlink{endnote153-body}{While the Pāli term ``\textit{mayā}'' literally means ``made of/constructed by'', it wouldn’t be correct to take this passage to mean that giving, virtue, and meditation are the causes for wholesome volition. Rather, the wholeosme volition leads to and expresses itself through giving, virtue, and meditation. Or in the words of Dhp 2: ``Phenomena are preceded by the mind, surpassed by the mind, created by the mind. If one speaks or acts with a pure mind - happiness follows; just as one’s shadow that never leaves''.}}}}}\makeatother
+        \hypertarget{endnote153-appendix}{\hyperlink{endnote153-body}{While the Pāli term ``\textit{mayā}'' literally means ``made of/constructed by'', it wouldn’t be correct to take this passage to mean that giving, virtue, and meditation are the causes for wholesome volition. Rather, the wholeosme volition leads to and expresses itself through giving, virtue, and meditation. Or in the words of Dhp 2: ``[p]henomena are preceded by the mind, surpassed by the mind, created by the mind. If one speaks or acts with a pure mind - happiness follows; just as one’s shadow that never leaves''.}}}}}\makeatother
 \end{english-hang}
 
 Ayaṁ vuccati puññ'ābhisaṅkhāro
@@ -5376,7 +5446,7 @@ Tattha katamo kāyasaṅkhāro
   Volition associated with the body is bodily formation\\
   Volition associated with speech is verbal formation\\
   Volition associated with the mind is mental\makeatletter\hyperlink{endnote79-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote79-appendix}{\hyperlink{endnote79-body}{\textit{Manosañcetanā citta-saṅkhāro} is translated here as ``volition associated with the mind is the mental formation''. Despite \textit{mano} and \textit{citta} having in certain contexts different shades of meaning, both were translated here as ``mind''. Generally speaking \textit{mano} refers more to the intellectual, whereas \textit{citta} covers more the emotional/affective aspects of the mind. A detailed analysis of these terms can be found in Rune E. A. Johansson's ``\textit{Citta, Mano, Viññāṇa — a Psychosemantic Investigation}''.}}}}}\makeatother \thinspace
+        \hypertarget{endnote79-appendix}{\hyperlink{endnote79-body}{\textit{Manosañcetanā citta-saṅkhāro} is translated here as ``volition associated with the mind is the mental formation''. Despite \textit{mano} and \textit{citta} having different shades of meaning in certain contexts, both were translated here as ``mind''. Generally speaking \textit{mano} refers more to the intellectual, whereas \textit{citta} covers more the emotional/affective aspects of the mind. A detailed analysis of these terms can be found in Rune E. A. Johansson's ``\textit{Citta, Mano, Viññāṇa — a Psychosemantic Investigation}''.}}}}}\makeatother \thinspace
   formation
 \end{english-verses}
 
@@ -6746,7 +6816,7 @@ Sovacassatā kalyāṇamittatā
 \end{english}
 
 \begin{pali-hang}
-  Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī''ti
+  Ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattantī'ti
 \end{pali-hang}
 
 \begin{english-hang}
@@ -7312,7 +7382,7 @@ Tassa dāy'ādā bhavissanti
 \linkdest{endnote96-body}
 \begin{english-verses}
   All beings are the owners of their kamma\makeatletter\hyperlink{endnote96-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote96-appendix}{\hyperlink{endnote96-body}{WPN: ``All beings are the owners of their action and inherit its results. Their future is born from such action, companion to such action, and its results will be their home. All actions with intention, be they skilful or harmful, of such acts they will be the heirs''. For the sake of consistency with other chants within this chanting book, the original version was replaced with the one found in the ``Five subjects for frequent recollection'', and ``Ten subjects for frequent recollection by one who has gone forth''.}}}}}\makeatother\\
+        \hypertarget{endnote96-appendix}{\hyperlink{endnote96-body}{WPN: ``All beings are the owners of their action and inherit its results. Their future is born from such action, companion to such action, and its results will be their home. All actions with intention, be they skilful or harmful, of such acts they will be the heirs''. For the sake of consistency with other chants within this chanting book, the original version was replaced with the one found in the ``Five Subjects for Frequent Recollection'', and ``Ten Subjects for Frequent Recollection''.}}}}}\makeatother\\
   Heirs to their kamma\\
   Born of their kamma\\
   Related to their kamma\\
@@ -8565,7 +8635,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ye keci saṅkhārā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike \mbox{vā}~\breathmark\ sabbe saṅkhārā: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
+  Ye keci saṅkhārā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ ye dūre santike \mbox{vā}~\breathmark\ sabbe saṅkhārā: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8800,38 +8870,38 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus form is not-self \breathmark\ If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: ``Let my form be thus \breathmark\ let my form not be thus''
+  ``Bhikkhus form is not-self \breathmark\ If form were self \breathmark\ then form would not lead to affliction \breathmark\ and one could command to form: `Let my form be thus \breathmark\ let my form not be thus'
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: ``Let my form be thus \breathmark\ let my form not be thus''
+  But since form is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to form: `Let my form be thus \breathmark\ let my form not be thus'
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Feeling is not-self \breathmark\ If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus''
+  ``Feeling is not-self \breathmark\ If feeling were self \breathmark\ then feeling would not lead to affliction \breathmark\ and one could command to feeling: `Let my feeling be thus \breathmark\ let my feeling not be thus'
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since feeling is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to feeling: ``Let my feeling be thus \breathmark\ let my feeling not be thus''
+  But since feeling is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to feeling: `Let my feeling be thus \breathmark\ let my feeling not be thus'
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Perception is not-self \breathmark\ If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus''
+  ``Perception is not-self \breathmark\ If perception were self \breathmark\ then perception would not lead to affliction \breathmark\ and one could command to perception: `Let my perception be thus \breathmark\ let my perception not be thus'
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since perception is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to perception: ``Let my perception be thus \breathmark\ let my perception not be thus''
+  But since perception is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to perception: `Let my perception be thus \breathmark\ let my perception not be thus'
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Volitional formations are not-self \breathmark\ If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus''
+  ``Volitional formations are not-self \breathmark\ If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus''
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since volitional formations are not-self \breathmark\ they lead to \mbox{affliction}~\breathmark\ and none can command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus''
+  But since volitional formations are not-self \breathmark\ they lead to \mbox{affliction}~\breathmark\ and none can command to volitional formations: `Let my volitional formations be thus \breathmark\ let my volitional formations not be thus'
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  Consciousness is not-self \breathmark\ If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus''
+  ``Consciousness is not-self \breathmark\ If consciousness were self \breathmark\ then consciousness would not lead to affliction \breathmark\ and one could command to consciousness: `Let my consciousness be thus \breathmark\ let my consciousness not be thus'
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: ``Let my consciousness be thus \breathmark\ let my consciousness not be thus''
+  But since consciousness is not-self \breathmark\ it leads to affliction \breathmark\ and none can command to consciousness: `Let my consciousness be thus \breathmark\ let my consciousness not be thus'
 \end{english-only-hangtogether}
 
 \begin{english-only-leader}
@@ -8864,7 +8934,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?''
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -9101,120 +9171,120 @@ Kena ādittaṁ?
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus all is burning!
+  ``Bhikkhus all is burning!
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  And what bhikkhus is the all that is burning?
+  ``And what bhikkhus is the all that is burning?
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus the eye is burning \breathmark\ forms are burning \breathmark\ eye-consciousness is burning \breathmark\ eye-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ that too is burning
+  ``Bhikkhus the eye is burning \breathmark\ forms are burning \breathmark\ eye-consciousness is burning \breathmark\ eye-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  Burning with what?
+  ``Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
+  ``Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
+  ``I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The ear is burning \breathmark\ sounds are burning \breathmark\ ear-consciousness is burning \breathmark\ ear-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ that too is burning
+  ``The ear is burning \breathmark\ sounds are burning \breathmark\ ear-consciousness is burning \breathmark\ ear-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  Burning with what?
+  ``Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
+  ``Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
+  ``I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The nose is burning \breathmark\ odours are burning \breathmark\ nose-consciousness is \mbox{burning}~\breathmark\ nose-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ that too is burning
+  ``The nose is burning \breathmark\ odours are burning \breathmark\ nose-consciousness is \mbox{burning}~\breathmark\ nose-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  Burning with what?
+  ``Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
+  ``Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
+  ``I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The tongue is burning \breathmark\ flavours are burning \breathmark\ tongue-consciousness is burning \breathmark\ tongue-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ that too is burning
+  ``The tongue is burning \breathmark\ flavours are burning \breathmark\ tongue-consciousness is burning \breathmark\ tongue-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  Burning with what?
+  ``Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
+ ``Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
+  ``I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The body is burning \breathmark\ tangibles are burning \breathmark\ body-consciousness is burning \breathmark\ body-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ that too is burning
+  ``The body is burning \breathmark\ tangibles are burning \breathmark\ body-consciousness is burning \breathmark\ body-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  Burning with what?
+  ``Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
+  ``Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
+  ``I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  The mind is burning \breathmark\ mind-objects are burning \breathmark\ mind-consciousness is burning \breathmark\ mind-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-{pleasant}~\breathmark\ that arises from mind-contact as its condition \breathmark\ that too is burning
+  ``The mind is burning \breathmark\ mind-objects are burning \breathmark\ mind-consciousness is burning \breathmark\ mind-contact is burning \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-{pleasant}~\breathmark\ that arises from mind-contact as its condition \breathmark\ that too is burning
 \end{english-only-hang}
 \begin{english-only-hangtogether}
-  Burning with what?
+  ``Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
+  ``Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
+  ``I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
 \end{english-only-hangtogether}
 
 \begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus when a noble disciple} \hspace{-0.5mm}\anglebracketright\
 \end{english-only-leader}
 \begin{english-only-hangtogether}
-  Who has heard the teaching sees \mbox{thus}~\breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted
+  ``Who has heard the teaching sees \mbox{thus}~\breathmark\ he becomes disenchanted with the eye \breathmark\ becomes disenchanted with forms \breathmark\ becomes disenchanted with eye-consciousness \breathmark\ becomes disenchanted with eye-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from eye-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the ear \breathmark\ becomes disenchanted with sounds \breathmark\ becomes disenchanted with ear-consciousness \breathmark\ becomes disenchanted with ear-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ with that too he becomes disenchanted
+  ``He becomes disenchanted with the ear \breathmark\ becomes disenchanted with sounds \breathmark\ becomes disenchanted with ear-consciousness \breathmark\ becomes disenchanted with ear-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from ear-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the nose \breathmark\ becomes disenchanted with odours \breathmark\ becomes disenchanted with nose-consciousness \breathmark\ becomes disenchanted with nose-contact \breathmark\ and what is felt as pleasant or \mbox{painful}~\breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ with that too he becomes disenchanted
+  ``He becomes disenchanted with the nose \breathmark\ becomes disenchanted with odours \breathmark\ becomes disenchanted with nose-consciousness \breathmark\ becomes disenchanted with nose-contact \breathmark\ and what is felt as pleasant or \mbox{painful}~\breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from nose-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the tongue \breathmark\ becomes disenchanted with flavours \breathmark\ becomes disenchanted with tongue-consciousness \breathmark\ becomes disenchanted with tongue-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ with that too he becomes disenchanted
+  ``He becomes disenchanted with the tongue \breathmark\ becomes disenchanted with flavours \breathmark\ becomes disenchanted with tongue-consciousness \breathmark\ becomes disenchanted with tongue-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the body \breathmark\ becomes disenchanted with tangibles \breathmark\ becomes disenchanted with body-consciousness \breathmark\ becomes disenchanted with body-contact \breathmark\ and what is felt as pleasant or \mbox{painful}~\breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ with that too he becomes disenchanted
+  ``He becomes disenchanted with the body \breathmark\ becomes disenchanted with tangibles \breathmark\ becomes disenchanted with body-consciousness \breathmark\ becomes disenchanted with body-contact \breathmark\ and what is felt as pleasant or \mbox{painful}~\breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from body-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  He becomes disenchanted with the mind \breathmark\ becomes disenchanted with mind-objects \breathmark\ becomes disenchanted with mind-consciousness \breathmark\ becomes disenchanted with mind-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from mind-contact as its condition \breathmark\ with that too he becomes disenchanted
+  ``He becomes disenchanted with the mind \breathmark\ becomes disenchanted with mind-objects \breathmark\ becomes disenchanted with mind-consciousness \breathmark\ becomes disenchanted with mind-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from mind-contact as its condition \breathmark\ with that too he becomes disenchanted
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  When he is disenchanted passion fades away \breathmark\ With the fading of passion he is liberated \breathmark\ When liberated there is knowledge that he is liberated \breathmark\ He understands: ``Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation''
+  ``When he is disenchanted passion fades away \breathmark\ With the fading of passion he is liberated \breathmark\ When liberated there is knowledge that he is liberated \breathmark\ He understands: `Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation'''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -12764,7 +12834,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 \linkdest{endnote138-body}
 \begin{center}
   \textbf{\textsc{Undertaking the Three Refuges}}\makeatletter\hyperlink{endnote138-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, venerable sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}..''..}}}}}\makeatother
+        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{[a]haṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, venerable sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}..''..}}}}}\makeatother
 \end{center}
 
 \begin{center}
@@ -13071,7 +13141,7 @@ Sādhu sādhu sādhu
 \subsection*{Consonants}
 
 \begin{justify}
-  Pāli consonants are mostly pronounced as one would expect, but with a few additional rules:  Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. ``jivhā''or ``taṇhā'').  Examples: \textbf{th} as in ``Thomas'' (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
+  Pāli consonants are mostly pronounced as one would expect, but with a few additional rules:  Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. ``\textit{jivhā}''or ``\textit{taṇhā}'').  Examples: \textbf{th} as in ``Thomas'' (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
 \end{justify}
 
 \begin{justify}
@@ -13121,7 +13191,7 @@ The following points should be considered:
 
 \subsection*{Accurate Pāli Pronunciation}
 \begin{justify}
-  Within the domain of Pāli pronunciation, the chanting leader shall pay special attention to long and short syllables, since this would otherwise result in a disunited recitation with those who accurately pronounce long and short syllables. To obtain good Pāli pronunciation, frequent chanting with those who have good pronunciation or listening and chanting along with audio recordings of well-pronounced Pāli recitations can go a long way. This helps to identify and even out idiosyncrasies that may have arisen. Of course, all other elements of accurate Pāli pronunciation too should be adhered to as much as possible (voiceless vs. voiced, aspirate vs. non-aspirate consonants etc.), but the difference between long and short syllables is the most important one in the present context.
+  Within the domain of Pāli pronunciation, the chanting leader shall pay special attention to long and short syllables, since this would otherwise result in a asynchronous recitation with those who accurately pronounce long and short syllables. To obtain good Pāli pronunciation, frequent chanting with those who have good pronunciation or listening and chanting along with audio recordings of well-pronounced Pāli recitations can go a long way. This helps to identify and even out idiosyncrasies that may have arisen. Of course, all other elements of accurate Pāli pronunciation too should be adhered to as much as possible (voiceless vs. voiced, aspirate vs. non-aspirate consonants etc.), but the difference between long and short syllables is the most important one in the present context.
 \end{justify}
 
 \subsection*{Sufficient Audibility and Volume}
@@ -13138,7 +13208,7 @@ The following points should be considered:
 
 \subsection*{Tempo Consistency}
 \begin{justify}
-  Once a suitable tempo has been chosen to start one's recitation (see previous point), it may be challenging to maintain the chosen tempo throughout the particular chant, or even throughout the entire chanting session. For most individuals there is a natural tendency to speed up as time goes by. It is the chanting leader's task to prevent that from happening, unless he finds out that the speed he has chosen at the beginning of the chant is too fast or slow for himself and/or others. The ideal time for tempo adjustments is between two chants, not during a chant. The introduction line, e.g. ``Handa mayaṁ..''., or ``Evaṁ me sutaṁ'', can be used as an indicator for how fast or slow the chanting leader wants to recite, whereas the rest of the group shall follow whatever tempo the chanting leader has chosen. If another group member, especially one with a strong and predominant voice has a tendency to change tempo midway, or lengthen/shorten/skip syllables due to inaccurate Pāli pronunciation, the chanting leader must not follow his lead. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request that he please chant more softly so that other group members can more accurately and easily follow the chanting leader's lead.
+  Once a suitable tempo has been chosen to start one's recitation, it may be challenging to maintain the chosen tempo throughout the particular chant, or even throughout the entire chanting session. For most individuals there is a natural tendency to speed up as time goes by. It is the chanting leader's task to prevent that from happening, unless he finds out that the speed he has chosen at the beginning of the chant is too fast or slow for himself and/or others. The ideal time for tempo adjustments is between two chants, not during a chant. The introduction line, e.g. ``Handa mayaṁ..''., or ``Evaṁ me sutaṁ'', can be used as an indicator for how fast or slow the chanting leader wants to recite, whereas the rest of the group shall follow whatever tempo the chanting leader has chosen. If another group member, especially one with a strong and predominant voice has a tendency to change tempo midway, or lengthen/shorten/skip syllables due to inaccurate Pāli pronunciation, the chanting leader must not follow his lead. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request that he please chant more softly so that other group members can more accurately and easily follow the chanting leader's lead.
 \end{justify}
 
 \subsection*{Determining a Suitable Pitch}
