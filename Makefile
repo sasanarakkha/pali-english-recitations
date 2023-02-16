@@ -119,6 +119,10 @@ pdfrequirements:
 epub: $(EPUBFILE)
 $(EPUBFILE): $(SOURCEFILES)
 	@echo "Building EPUB ebook..."
+	@cd manuscript/html/OEBPS/Text
+	@TODAY=$(date --iso-8601)
+	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' copyright.xhtml
+	@cd ../../..
 	@mkdir -p `dirname $(EPUBFILE)`
 	@rm -f "$(EPUBFILE)"
 	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .
