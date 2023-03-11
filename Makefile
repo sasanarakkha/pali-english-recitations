@@ -86,23 +86,23 @@ pdf: $(BUILDDIR)
 #-----------------------------------------------------------------------------------------#
 
 
-handbook: $(BUILDDIR)
-	@echo "Tangling org document..."
-	@org-tangle ./recitations.tex.org
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations_Handbook.pdf"
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-pdf2x:
+pdf2x: $(BUILDDIR)
 	@echo "Tangling org document..."
 	@org-tangle ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	mv -f $(FILE).pdf "$(PDFFILE)"
+
+
+#-----------------------------------------------------------------------------------------#
+
+
+handbook: $(BUILDDIR)
+	@echo "Tangling org document..."
+	@org-tangle ./recitations.tex.org
+	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations_Handbook.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
