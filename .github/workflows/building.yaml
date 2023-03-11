@@ -10,34 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container: bergentroll/pali-english-recitations-builder:latest
+    permissions:
+      contents: write
     steps:
-      - name: Actions checkout
-        uses: actions/checkout@v3
-      - name: Check ref
-        run: |
-          ls --directory .git/
-          cat .git/refs/heads/main
-      - name: Build PDF
-        run: make pdf2x
-      - name: Build EPUB
-        run: make epub
-      - name: Build AZW3
-        run: make azw3
-      - name: Normalize filenames
-        run: |
-          rename --verbose --filename 's/\\//g' build/*
-          rename --verbose --filename 's/\s/-/g' build/*
-      - name: Generate release tag
-        id: tag
-        run: |
-          echo "::set-output name=release_tag::build_$(date +'%d.%m.%Y_%H-%M' --utc)"
-          echo "::set-output name=release_name::Build $(date +'%d.%m.%Y %H:%M' --utc) UTC"
-      - name: Upload release assets
-        uses: ncipollo/release-action@v1
-        with:
-          tag: ${{ steps.tag.outputs.release_tag }}
-          name: ${{ steps.tag.outputs.release_name }}
-          body: Automatically built documents
-          artifacts: "build/*.azw3,build/*.epub,build/*.pdf"
-          removeArtifacts: true
-          artifactErrorsFailBuild: true
+      - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
+        with: {}
