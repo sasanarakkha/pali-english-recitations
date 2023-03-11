@@ -54,8 +54,9 @@ TODAY := $(shell date --iso-8601)
 
 #-----------------------------------------------------------------------------------------#
 
+.PHONY: all test clean
 
-all: document
+all: pdf2x handbook epub mobi azw3
 
 
 #-----------------------------------------------------------------------------------------#
@@ -130,8 +131,7 @@ epub: $(EPUBFILE)
 $(EPUBFILE): $(BUILDDIR) $(SOURCEFILES)
 	@echo "Building EPUB ebook..."
 	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' manuscript/html/OEBPS/Text/copyright.xhtml
-	#@mkdir -p `dirname $(EPUBFILE)`
-	#@rm -f "$(EPUBFILE)"
+	@rm -f "$(EPUBFILE)"
 	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .  # FIXME *.tex
 
 
