@@ -47,6 +47,8 @@ EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK
 SOURCEFILES := $(shell find $(SOURCE) 2> /dev/null | sort)
 XHTMLFILES  := $(shell find $(SOURCE) -name '*.xhtml' 2> /dev/null | sort)
 
+TODAY := $(shell date --iso-8601)
+
 
 #-----------------------------------------------------------------------------------------#
 
@@ -116,16 +118,14 @@ pdfrequirements:
 #-----------------------------------------------------------------------------------------#
 
 
+
 epub: $(EPUBFILE)
 $(EPUBFILE): $(SOURCEFILES)
 	@echo "Building EPUB ebook..."
-	@cd manuscript/html/OEBPS/Text
-	@TODAY=$(date --iso-8601)
-	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' copyright.xhtml
-	@cd ../../..
+	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' manuscript/html/OEBPS/Text/copyright.xhtml
 	@mkdir -p `dirname $(EPUBFILE)`
 	@rm -f "$(EPUBFILE)"
-	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .
+	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .  # FIXME *.tex
 
 
 #-----------------------------------------------------------------------------------------#
