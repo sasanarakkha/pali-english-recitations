@@ -30,6 +30,7 @@ RUN \
     emacs-nox \
     epubcheck \
     rename \
+    python3-unidecode \
     && \
   apt-get clean && \
   rm -rf /var/lib/apt/lists/*

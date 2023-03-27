@@ -15,13 +15,15 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
+BUILDDIR      := ./build/
 RELEASENAME   := "SBS_Pāli-English_Recitations"
 CURRENTEPUB   := ./manuscript/current-recitations.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/SBS_Pāli-English_Recitations.epub
-KINDLEFILE    := ./build/SBS_Pāli-English_Recitations.mobi
-AZW3FILE      := ./build/SBS_Pāli-English_Recitations.azw3
+PDFFILE      := $(BUILDDIR)/$(RELEASENAME).pdf
+EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
+KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
+AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
@@ -47,11 +49,22 @@ EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK
 SOURCEFILES := $(shell find $(SOURCE) 2> /dev/null | sort)
 XHTMLFILES  := $(shell find $(SOURCE) -name '*.xhtml' 2> /dev/null | sort)
 
+TODAY := $(shell date --iso-8601)
+
+
+#-----------------------------------------------------------------------------------------#
+
+.PHONY: all test clean
+
+all: pdf2x handbook epub mobi azw3
+
 
 #-----------------------------------------------------------------------------------------#
 
 
-all: document
+$(BUILDDIR):
+	@echo "Creating a build directory..."
+	@mkdir -p "$(BUILDDIR)"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -64,36 +77,33 @@ dist:
 #-----------------------------------------------------------------------------------------#
 
 
-pdf:
+pdf: $(BUILDDIR)
 	@echo "Tangling org document..."
 	@org-tangle ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations.pdf"
+	mv -f $(FILE).pdf "$(PDFFILE)"
 
 
 #-----------------------------------------------------------------------------------------#
 
 
-handbook:
-	@echo "Tangling org document..."
-	@org-tangle ./recitations.tex.org
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations_Handbook.pdf"
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-pdf2x:
+pdf2x: $(BUILDDIR)
 	@echo "Tangling org document..."
 	@org-tangle ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations.pdf"
+	mv -f $(FILE).pdf "$(PDFFILE)"
+
+
+#-----------------------------------------------------------------------------------------#
+
+
+handbook: $(BUILDDIR)
+	@echo "Tangling org document..."
+	@org-tangle ./recitations.tex.org
+	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations_Handbook.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -116,16 +126,13 @@ pdfrequirements:
 #-----------------------------------------------------------------------------------------#
 
 
+
 epub: $(EPUBFILE)
-$(EPUBFILE): $(SOURCEFILES)
+$(EPUBFILE): $(BUILDDIR) $(SOURCEFILES)
 	@echo "Building EPUB ebook..."
-	@cd manuscript/html/OEBPS/Text
-	@TODAY=$(date --iso-8601)
-	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' copyright.xhtml
-	@cd ../../..
-	@mkdir -p `dirname $(EPUBFILE)`
+	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' manuscript/html/OEBPS/Text/copyright.xhtml
 	@rm -f "$(EPUBFILE)"
-	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .
+	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .  # FIXME *.tex
 
 
 #-----------------------------------------------------------------------------------------#
@@ -133,7 +140,7 @@ $(EPUBFILE): $(SOURCEFILES)
 
 # Uses Amazon's KindleGen to produce a mobi Kindle ebook
 mobi: $(KINDLEFILE)
-$(KINDLEFILE): $(EPUBFILE) $(KINDLEGEN)
+$(KINDLEFILE): $(BUILDDIR) $(EPUBFILE) $(KINDLEGEN)
 	@echo "Building mobi with KindleGen..."
 	@cp -f "$(EPUBFILE)" "$(KINDLEFILE).epub"
 ifdef PNGFILES
@@ -158,7 +165,7 @@ endif
 
 # Use Calibre to generate an azw3 Kindle ebook
 azw3: $(AZW3FILE)
-$(AZW3FILE): $(EPUBFILE)
+$(AZW3FILE): $(BUILDDIR) $(EPUBFILE)
 ifndef EBOOKCONVERT
 	@echo "Error: Calibre was not found. Unable to convert to Kindle AZW3."
 	@exit 1
@@ -234,15 +241,10 @@ else
 endif
 
 clean:
-	@echo Removing built EPUB/KEPUB/Kindle files...
-	rm -f "$(EPUBFILE)"
-	rm -f "$(KEPUBFILE)"
-	rm -f "$(KINDLEFILE)"
-	rm -f "$(AZW3FILE)"
-	rm -f "$(IBOOKSFILE)"
-	rm -f "./build/SBS_Pāli-English_Recitations.pdf"
+	@echo Removing artifacts...
+	rm -f $(PDFFILE) "$(EPUBFILE)" "$(KINDLEFILE)" "$(AZW3FILE)" "$(IBOOKSFILE)"
 	@# only remove dir if it's empty:
-	@(rmdir `dirname $(EPUBFILE)`; exit 0)
+	@(rm -fd $(BUILDDIR) || true)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -300,9 +302,8 @@ endif
 #-----------------------------------------------------------------------------------------#
 
 
-release: $(EPUBFILE) $(KINDLEFILE) $(KEPUBFILE) $(AZW3FILE)
+release: $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 	@mkdir -pv release
 	cp "$(EPUBFILE)" "release/$$(date +$(RELEASENAME)).epub"
-	cp "$(KEPUBFILE)" "release/$$(date +$(RELEASENAME)).kepub.epub"
 	cp "$(KINDLEFILE)" "release/$$(date +$(RELEASENAME)).mobi"
 	cp "$(AZW3FILE)" "release/$$(date +$(RELEASENAME)).azw3"
