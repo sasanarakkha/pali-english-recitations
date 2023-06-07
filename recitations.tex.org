@@ -1,7 +1,8 @@
-#+TITLE: SBS Pāli-English Recitations
-#+AUTHOR: SBS Saṅgha
+#+title: SBS Pāli-English Recitations
+#+author: SBS Saṅgha
 #+format: LaTeX
 #+startup: fold
+#+url: https://github.com/sasanarakkha/pali-english-recitations
 
 * Table of Contents :toc:
 - [[#titlepage][Titlepage]]
@@ -8891,7 +8892,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hangtogether}
 
 \begin{english-only-hang}
-  ``Volitional formations are not-self \breathmark\ If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus''
+  ``Volitional formations are not-self \breathmark\ If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: `Let my volitional formations be thus \breathmark\ let my volitional formations not be thus'
 \end{english-only-hang}
 \begin{english-only-hangtogether}
   But since volitional formations are not-self \breathmark\ they lead to \mbox{affliction}~\breathmark\ and none can command to volitional formations: `Let my volitional formations be thus \breathmark\ let my volitional formations not be thus'
@@ -8920,7 +8921,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Unsatisfactory venerable sir''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
   ``No venerable sir''
@@ -8934,7 +8935,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?''
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?''
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8947,7 +8948,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8960,7 +8961,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'''
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'''
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8973,7 +8974,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: 'This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8994,7 +8995,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Any kind of volitional formation whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
+  Any kind of volitional formations whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9968,7 +9969,7 @@ Hotu sabbadā\\
         \hypertarget{endnote126-appendix}{\hyperlink{endnote126-body}{WPN: ``\textit{Payirūpāsana}''. \textit{Pari} + \textit{upa} = \textit{payirupa}}}}}}\makeatother\thinspace \hspace{-0.5mm}\anglebracketright\
 \end{leader-pharitvana}
 
-\begin{leader-pharitvana}
+\begin{leader-pharitvana-english}
   Kind, venerable sirs: having spread thoughts of good will,\\
   Recite the protective chant with undistracted mind.\\
   Those in the heavens of sensuality \& form,\\
@@ -9982,8 +9983,8 @@ Hotu sabbadā\\
 
   This is the time to see the Buddha, venerable sirs.\\
   This is the time to listen to the Dhamma, venerable sirs.\\
-  This is the time to attend to the Saṅgha, venerable sirs.
-\end{leader-pharitvana}
+  This is the time to attend to the Saṅgha, venerable sirs.}
+\end{leader-pharitvana-english}
 
 \suttaRef{[Thai]}
 

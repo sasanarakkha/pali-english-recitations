@@ -214,3 +214,4 @@ CLOSED: [2022-12-18 Sun 16:58]
 ** DONE HTML: two footnotes for 'as long as bhikkhu' and 'but when bhikkhus'
 CLOSED: [2023-01-01 Sun 23:58]
 ** TODO increase font size of set navigation hub
+** TODO tweak Makefile to automatically install inotify-tools,calibre, and sigil

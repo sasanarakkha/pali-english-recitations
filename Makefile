@@ -234,7 +234,9 @@ endif
 
 edit: $(CURRENTEPUB)
 ifndef EBOOKEDITOR
-	@echo "Error: Sigil was not found. Unable to edit ebook."
+	@echo "Error: Sigil was not found. Installing with Flatpak."
+	# @flatpak install com.sigil_ebook.Sigil -y
+	# @ln -s /var/lib/flatpak/exports/bin/com.sigil_ebook.Sigil ~/.local/bin/sigil
 	@exit 1
 else
 	@ nixGL sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"

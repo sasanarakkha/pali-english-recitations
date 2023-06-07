@@ -20,7 +20,7 @@ LaTeX prerequisites can be installed on GNU/Linux by simply running =make pdfreq
 
 Otherwise, download the package archives and unzip to =texmf/tex= found in the user home directory. Create the directory if needed.
 
-Linux: =/home/<your-username>/texmf/tex=
+Linux: =/home/<your-username>/.local/share/texmf/tex=
 
 Windows: =C:\Users\<your-username>\texmf\tex=
 
