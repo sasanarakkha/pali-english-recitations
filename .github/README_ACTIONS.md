@@ -5,16 +5,7 @@ documents](https://github.com/bergentroll/pali-english-recitations/actions/workf
 
 ## Description
 
-The dirctory contains all necessary files for GitHub CI Actions.
-
-[Dockerfile](./Dockerfile) is used to maintain a GNU/Linux environment to build
-documents. The pipeline fetching a docker image from the https://hub.docker.com
-hub, so an updated image should be uploaded. To build an image run the
-following command in this directory:
-
-```shell
-docker image build --tag 'image_name:tag' --compress --force-rm .
-```
+The directory contains GitHub CI Actions to build artifacts.
 
 The pipeline may be ran locally with the [act](https://github.com/nektos/act)
 tool. To do so run `act` at root of the repository with a trigger name
