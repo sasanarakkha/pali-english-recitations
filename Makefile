@@ -3,7 +3,7 @@ FILE=main
 LATEX=lualatex
 BIBTEX=bibtex
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error -synctex=1
-
+TEXMFHOME=~/.texmf
 
 # https://www.ctan.org/pkg/tabularray
 TABULARRAY_URL = https://mirrors.ctan.org/macros/latex/contrib/tabularray.zip
@@ -28,6 +28,7 @@ AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
 KINDLEGEN := ./assets/tools/kindlegen
+ORG_TANGLE := ./assets/scripts/org-tangle
 
 
 EBOOKEDITOR  := $(shell command -v sigil  2>&1 || nixGL sigil 2>&1)
@@ -79,7 +80,7 @@ dist:
 
 pdf: $(BUILDDIR)
 	@echo "Tangling org document..."
-	@org-tangle ./recitations.tex.org
+	$(ORG_TANGLE) ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	mv -f $(FILE).pdf "$(PDFFILE)"
 
