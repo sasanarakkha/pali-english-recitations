@@ -8,9 +8,9 @@
     <dc:language>en</dc:language>
     <dc:identifier>urn:isbn:[ISBN here]</dc:identifier>
     <dc:format>application/epub+zip</dc:format>
-    <meta property="dcterms:modified">2023-02-12T11:03:48Z</meta>
+    <meta property="dcterms:modified">2023-07-01T21:22:46Z</meta>
     <dc:identifier id="BookId">urn:uuid:aab09be7-cf83-41a5-b56b-a39ed9620398</dc:identifier>
-    <meta content="1.4.3" name="Sigil version"/>
+    <meta content="1.9.30" name="Sigil version"/>
   </metadata>
   <manifest>
     <item id="cover-front.xhtml" href="Text/cover-front.xhtml" media-type="application/xhtml+xml" properties="svg"/>
