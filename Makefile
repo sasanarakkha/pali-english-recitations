@@ -31,7 +31,7 @@ KINDLEGEN := ./assets/tools/kindlegen
 ORG_TANGLE := ./assets/scripts/org-tangle.py
 
 
-EBOOKEDITOR  := $(shell command -v sigil  2>&1 || nixGL sigil 2>&1)
+EBOOKEDITOR  := $(shell command -v sigil  2>&1 || sigil 2>&1)
 EBOOKPOLISH  := $(shell command -v ebook-polish 2>&1)
 EBOOKVIEWER  := $(shell command -v ebook-viewer 2>&1)
 EBOOKCONVERT := $(shell command -v ebook-convert 2>&1)
@@ -240,7 +240,7 @@ ifndef EBOOKEDITOR
 	# @ln -s /var/lib/flatpak/exports/bin/com.sigil_ebook.Sigil ~/.local/bin/sigil
 	@exit 1
 else
-	@ nixGL sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
+	@ sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
 endif
 
 clean:
