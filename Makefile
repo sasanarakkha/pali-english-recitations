@@ -28,7 +28,7 @@ AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
 KINDLEGEN := ./assets/tools/kindlegen
-ORG_TANGLE := ./assets/scripts/org-tangle
+ORG_TANGLE := ./assets/scripts/org-tangle.py
 
 
 EBOOKEDITOR  := $(shell command -v sigil  2>&1 || nixGL sigil 2>&1)
@@ -90,7 +90,7 @@ pdf: $(BUILDDIR)
 
 pdf2x: $(BUILDDIR)
 	@echo "Tangling org document..."
-	@org-tangle ./recitations.tex.org
+	@$(ORG_TANGLE) ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
@@ -102,7 +102,7 @@ pdf2x: $(BUILDDIR)
 
 handbook: $(BUILDDIR)
 	@echo "Tangling org document..."
-	@org-tangle ./recitations.tex.org
+	@$(ORG_TANGLE) ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations_Handbook.pdf"
 

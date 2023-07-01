@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-sed -i -e "/'org-babel-tangle-collect-blocks/,+1d" ./assets/scripts/org-tangle
