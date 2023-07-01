@@ -10001,7 +10001,7 @@ Hotu sabbadā\\
   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{pali-hangtogether}
 
-\begin{english}
+\begin{englishii}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
 \end{english}
 
