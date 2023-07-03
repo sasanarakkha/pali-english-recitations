@@ -175,14 +175,14 @@ else
 	ebook-convert "$(EPUBFILE)" "$(AZW3FILE)" --pretty-print --no-inline-toc --max-toc-links=0 --disable-font-rescaling
 endif
 
-# $(EPUBCHECK):
-# 	@echo Downloading epubcheck...
-# 	@curl -o "epubcheck.zip" -L "$(EPUBCHECK_URL)" --connect-timeout 30
-# 	@mkdir -p `dirname $(EPUBCHECK)`
-# 	@unzip -q "epubcheck.zip"
-# 	@rm -rf `dirname $(EPUBCHECK)`
-# 	@mv "epubcheck-$(EPUBCHECK_VERSION)" "`dirname $(EPUBCHECK)`"
-# 	@rm epubcheck.zip
+$(EPUBCHECK):
+	@echo Downloading epubcheck...
+	@curl -o "epubcheck.zip" -L "$(EPUBCHECK_URL)" --connect-timeout 30
+	@mkdir -p `dirname $(EPUBCHECK)`
+	@unzip -q "epubcheck.zip"
+	@rm -rf `dirname $(EPUBCHECK)`
+	@mv "epubcheck-$(EPUBCHECK_VERSION)" "`dirname $(EPUBCHECK)`"
+	@rm epubcheck.zip
 
 # Kindlegen can no longer downloaded directly from Amazon
 # $(KINDLEGEN):
@@ -196,13 +196,13 @@ endif
 #-----------------------------------------------------------------------------------------#
 
 
-# validate: $(EPUBFILE) $(EPUBCHECK)
-# ifndef JAVA
-# 	@echo "Warning: Java was not found. Unable to validate ebook."
-# else
-# 	@echo "Validating EPUB..."
-# 	@$(JAVA) -jar "$(EPUBCHECK)" "$(EPUBFILE)"
-# endif
+validate: $(EPUBFILE) $(EPUBCHECK)
+ifndef JAVA
+	@echo "Warning: Java was not found. Unable to validate ebook."
+else
+	@echo "Validating EPUB..."
+	@$(JAVA) -jar "$(EPUBCHECK)" "$(EPUBFILE)"
+endif
 
 
 #-----------------------------------------------------------------------------------------#
