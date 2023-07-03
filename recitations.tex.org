@@ -221,70 +221,6 @@ This version was created on:\\
 
 #+end_src
 
-#+RESULTS:
-#+begin_example
-\cleartoverso
-\thispagestyle{empty}
-
-\vspace*{-\baselineskip}
-
-{%
-
-\fontsize{10}{16}\selectfont
-\centering
-\setlength{\parindent}{0pt}%
-% \setlength{\parskip}{0.8\baselineskip}%
-
-\vspace{0.5cm}
-
-Published by TBD\\
-% TODO need 2 ISBN numbers assigned (1 for print/pdf, 1 for epub); do more research before printing
-% https://www.pnm.gov.my/
-ISBN \theISBN\\
-Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2022
-
-\vspace{0.5cm}
-
-This book is for free distribution only;\\
-it may not be sold.
-
-\vspace{0.5cm}
-
-Download this book as a PDF, EPUB, or MOBI\\
-at the following address:\\
-\href{https://sasanarakkha.org/}{https://sasanarakkha.org}
-
-\vspace{0.5cm}
-
-Project Manager: Ā. Ariyadhammika\\
-Editor: Ā. Pāladhammika\\
-Typesetting: Aj. Gambhiro, Ā. Pāladhammika\\
-Translators: Ā. Aggacitta, Ā. Bodhi, Aj. Kevalī, Ā. Sujāto, M. Walshe\\
-Endnotes: Ā. Ariyadhammika
-
-\vspace{0.5cm}
-
-This work is licensed under a Creative Commons\\
-Attribution-NonCommercial-NoDerivatives 4.0 International~License.
-
-Produced with the \LaTeX\ typesetting system,\\
-set in Libertinus Serif.
-
-\vspace{0.5cm}
-
-\ifdesktopversion
-This version was created on:\\
-\today \space at \currenttime\\
-\href{https://github.com/sasanarakkha/pali-english-recitations/commits/main}{\texttt{\commit}} on branch \texttt{\branch}
-\fi
-
-\vspace{0.5cm}
-
-
-\theEditionInfo
-
-}
-#+end_example
 
 * Acknowledgments
 #+begin_src latex :tangle ./manuscript/tex/acknowledgments.tex
@@ -731,7 +667,7 @@ Sammāsambuddho bhagavā
 Buddhaṁ bhagavantaṁ abhivādemi\relax
 
 \begin{english}
-  I render homage to the Buddha the Blessed One \hfill{(Bow)}
+  I render homage to the Buddha the Blessed One \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}
 \end{english}
 
 \begin{leader}
@@ -749,7 +685,7 @@ Bhagavatā dhammo
 Dhammaṁ namassāmi\relax
 
 \begin{english}
-  I bow to the Dhamma \hfill{(Bow)}
+  I bow to the Dhamma \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}
 \end{english}
 
 \begin{leader}
@@ -767,7 +703,7 @@ Bhagavato sāvaka-saṅgho
 Saṅghaṁ namāmi
 
 \begin{english}
-  I bow to the Saṅgha \hfill{(Bow)}
+  I bow to the Saṅgha \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}
 \end{english}
 
 \suttaRef{[Trad]}
@@ -792,7 +728,7 @@ Saṅghaṁ namāmi
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{english}
-  Homage to the Blessed Worthy and Perfectly Enlightened One \hfill{[3x]}
+  Homage to the Blessed Worthy and Perfectly Enlightened One \hfill{\textnormal{\fontsize{12.5}{18}\selectfont [3x]}}
 \end{english}
 
 \suttaRef{[DN 21]}
@@ -902,7 +838,7 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
 
 \begin{english}
   I chant my praise to the Blessed One\\
-  I bow my head to the Blessed One \hfill{(Bow)}
+  I bow my head to the Blessed One \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}
 \end{english}
 
 \suttaRef{[Thai]}
@@ -967,7 +903,7 @@ Paccattaṁ veditabbo viññūhi
 
 \begin{english}
   I chant my praise to this teaching\\
-  I bow my head to this truth \hfill{(Bow)}
+  I bow my head to this truth \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}
 \end{english}
 
 \suttaRef{[Trad]}
@@ -1073,7 +1009,7 @@ Anuttaraṁ puñña-kkhettaṁ lokassa
 
 \begin{english}
   I chant my praise to this Saṅgha\\
-  I bow my head to this Saṅgha \hfill{(Bow)}
+  I bow my head to this Saṅgha \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}
 \end{english}
 
 #+end_src
@@ -1270,7 +1206,7 @@ Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
   Not attaining one's wishes is dukkha
 \end{english}
 
-\suttaRef{[SN 56.11]}
+\suttaRef{[MN 10]}
 
 Saṅkhittena pañc'upādāna-kkhandhā dukkhā
 
@@ -1550,7 +1486,7 @@ Sammāsambuddho bhagavā
 Buddhaṁ bhagavantaṁ abhivādemi
 
 \begin{english}
-  I render homage to the Buddha the Blessed One \hfill{(Bow)}
+  I render homage to the Buddha the Blessed One \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}
 \end{english}
 
 \begin{leader}
@@ -1568,7 +1504,7 @@ Bhagavatā dhammo
 Dhammaṁ namassāmi
 
 \begin{english}
-  I bow to the Dhamma \hfill{(Bow)}
+  I bow to the Dhamma \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}
 \end{english}
 
 \begin{leader}
@@ -1586,7 +1522,7 @@ Bhagavato sāvaka-saṅgho
 Saṅghaṁ namāmi
 
 \begin{english}
-  I bow to the Saṅgha \hfill{(Bow)}\\
+  I bow to the Saṅgha \hfill{\textnormal{\fontsize{12.5}{18}\selectfont (Bow)}}\\
 \end{english}
 
 \suttaRef{[Thai]}
@@ -1799,9 +1735,13 @@ Saṅghaṁ namāmi
   Cattāri ariya-saccāni – Samma-ppaññāya passati
 \end{verses}
 
+\linkdest{endnote162-body}
+\linkdest{endnote163-body}
 \begin{english-verses}
-  Whoever goes to refuge\\
-  In the Triple Gem\\
+  Whoever goes for refuge\makeatletter\hyperlink{endnote162-appendix}\Hy@raisedlink{{\pagenote{%
+      \hypertarget{endnote162-appendix}{\hyperlink{endnote162-body}{WPN: ``Whoever goes to refuge''.).}}}}}\makeatother\\
+  To the Buddha the Dhamma and the Saṅgha\makeatletter\hyperlink{endnote163-appendix}\Hy@raisedlink{{\pagenote{%
+      \hypertarget{endnote163-appendix}{\hyperlink{endnote163-body}{WPN: ``In the Triple Gem''. It has been shown in Āyasma Aggacitta's ``Do We Go to the Triple Gem for Refuge?'' that one does not go for refuge in the triple gem (the Buddha, Dhamma, and Ariya-saṅgha), but the discourses repeatedly depict the Buddha, Dhamma, and Bhikkhu-saṅgha as the community to take refuge in (DN 2, MN 91, SN 12.46, AN 2.16 etc.).}}}}}\makeatother\\
   Sees with right discernment\\
   The Four Noble Truths
 \end{english-verses}
@@ -3854,7 +3794,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \suttaRef{[MN 107]}
 
 \begin{english-only-justify}
-  ``Having thus gone forth \breathmark\ and possessing the bhikkhus' training and way of life \breathmark\ abandoning the destruction of life \breathmark\ he abstains from destroying life \breathmark\ with rod and weapon laid aside \breathmark\ conscientious \breathmark\ merciful \breathmark\ he abides compassionate to all living beings. Abandoning the taking of what is not given \breathmark\ he abstains from taking what is not given \breathmark\ taking only what is given \breathmark\ expecting only what is given \breathmark\ by not stealing he abides in purity.
+  ``Having thus gone forth and possessing the bhikkhus' training and way of life \breathmark\ abandoning the destruction of life \breathmark\ he abstains from destroying life \breathmark\ with rod and weapon laid aside \breathmark\ conscientious \breathmark\ merciful \breathmark\ he abides compassionate to all living beings. Abandoning the taking of what is not given \breathmark\ he abstains from taking what is not given \breathmark\ taking only what is given \breathmark\ expecting only what is given \breathmark\ by not stealing he abides in purity.
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -3879,7 +3819,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \end{english-only-justify}
 
 \begin{english-only-justify}
-  ``He becomes content with robes to protect his body \breathmark\ and almsfood to maintain his stomach \breathmark\ and wherever he goes he sets out taking only these with him. Just as a bird \breathmark\ wherever it goes \breathmark\ flies with its wings as its only burden \breathmark\ so too the bhikkhu becomes content \breathmark\ with robes to protect his body \breathmark\ and almsfood to maintain his \mbox{stomach}~\breathmark\ and wherever he goes \breathmark\ he sets out taking only these with him. Possessing this aggregate of noble virtue \breathmark\ he experiences within himself a bliss that is blameless''.
+  ``He becomes content with robes to protect his body \breathmark\ and almsfood to maintain his stomach \breathmark\ and wherever he goes he sets out taking only these with him. Just as a bird \breathmark\ wherever it goes flies with its wings as its only burden \breathmark\ so too the bhikkhu becomes content with robes to protect his body \breathmark\ and almsfood to maintain his \mbox{stomach}~\breathmark\ and wherever he goes he sets out taking only these with him. Possessing this aggregate of noble virtue \breathmark\ he experiences within himself a bliss that is blameless''.
 \end{english-only-justify}
 
 \suttaRef{[MN 51]}
@@ -3917,7 +3857,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \suttaRef{[MN 107]}
 
 \begin{english-only-justify}
-  ``When these five hindrances are unabandoned in himself \breathmark\ he sees them respectively as a debt \breathmark\ a disease \breathmark\ a prison \breathmark\ slavery \breathmark\ and a road across a desert. But when these five hindrances have been abandoned in himself \breathmark\ he sees that as freedom from debt \breathmark\ freedom from disease \breathmark\ release from prison \breathmark\ freedom from slavery \breathmark\ and a land of safety. Considering thus \breathmark\ he would be glad and full of joy''.
+  ``When these five hindrances are unabandoned in himself \breathmark\ he sees them respectively as a debt \breathmark\ a disease \breathmark\ a prison \breathmark\ slavery \breathmark\ and a road across a desert. But when these five hindrances have been abandoned in himself \breathmark\ he sees that as freedom from debt \breathmark\ freedom from disease \breathmark\ release from prison \breathmark\ freedom from slavery \breathmark\ and a land of safety. Considering thus he would be glad and full of joy''.
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -5191,7 +5131,7 @@ Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulī-katā
 Maha-pphalā hoti mah'ānisaṁsā
 
 \begin{english}
-  So that it is of great fruit and great benefit.
+  So that it is of great fruit and great benefit
 \end{english}
 
 \suttaRef{[MN 118]}
@@ -5375,7 +5315,7 @@ Kāya-saṅkhāro vacī-saṅkhāro citta-saṅkhāro
 Tattha katamo puññ'ābhisaṅkhāro
 
 \begin{english}
-  Therein what is `karmic formations of wholesomeness'?
+  Therein what is `karmic formation of wholesomeness'?
 \end{english}
 
 \begin{pali-hang}
@@ -5397,7 +5337,7 @@ Ayaṁ vuccati puññ'ābhisaṅkhāro
 Tattha katamo apuññ'ābhisaṅkhāro
 
 \begin{english}
-  Therein what is `karmic formations of unwholesomeness'?
+  Therein what is `karmic formation of unwholesomeness'?
 \end{english}
 
 Akusalā cetanā kām'āvacarā
@@ -5409,13 +5349,13 @@ Akusalā cetanā kām'āvacarā
 Ayaṁ vuccati apuññ'ābhisaṅkhāro
 
 \begin{english}
-  This is called `karmic formations of unwholesomeness'
+  This is called `karmic formation of unwholesomeness'
 \end{english}
 
 Tattha katamo āneñj'ābhisaṅkhāro
 
 \begin{english}
-  Therein what is `karmic formations of imperturbability'?
+  Therein what is `karmic formation of imperturbability'?
 \end{english}
 
 Kusalā cetanā arūp'āvacarā
@@ -5427,7 +5367,7 @@ Kusalā cetanā arūp'āvacarā
 Ayaṁ vuccati āneñj'ābhisaṅkhāro
 
 \begin{english}
-  This is called `karmic formations of imperturbability'
+  This is called `karmic formation of imperturbability'
 \end{english}
 
 Tattha katamo kāyasaṅkhāro
@@ -7035,7 +6975,7 @@ Tesaṁ te kārā amhesu
   Given by others for our support
 \end{english-verses}
 
-Maha-pphalā bhavissanti mah'ānisaṁsā
+Maha-pphalā bhavissanti mah'ānisaṁsā'ti
 
 \begin{english}
   Will reward them with great fruit and great benefit''
@@ -8921,7 +8861,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Unsatisfactory venerable sir''
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-only-hangtogether}
   \begin{english-only-hangtogether}
   ``No venerable sir''
@@ -8935,7 +8875,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?''
+    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?''
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8948,7 +8888,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8961,7 +8901,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'''
+    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'''
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8974,7 +8914,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -9285,7 +9225,7 @@ Kena ādittaṁ?
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``When he is disenchanted passion fades away \breathmark\ With the fading of passion he is liberated \breathmark\ When liberated there is knowledge that he is liberated \breathmark\ He understands: `Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation'''
+  ``When he is disenchanted passion fades away \breathmark\ With the fading of passion he is liberated \breathmark\ When liberated there is knowledge that he is liberated \breathmark\ He understands: `Birth is exhausted \breathmark\ the holy life is \mbox{fulfilled}~\breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation'''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -10001,7 +9941,7 @@ Hotu sabbadā\\
   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 \end{pali-hangtogether}
 
-\begin{englishii}
+\begin{english}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
 \end{english}
 
@@ -12070,7 +12010,7 @@ Hotu sabbadā\\
   Bā-vīsat'indriyāni:\makeatletter\hyperlink{endnote131-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote131-appendix}{\hyperlink{endnote131-body}{While these faculties are mentioned as a set of 22 only in the Abhi. Vibh., all of them are also found within the discourses.}}}}}\makeatother
   \begin{pali-hang}
-    Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ'ñassāmī't'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ.
+    Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ'ñassāmī't'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ
   \end{pali-hang}
 \end{pali-hang-continued}
 
@@ -12088,7 +12028,7 @@ Hotu sabbadā\\
   Dukkhaṁ ariya-saccaṁ\\
   Dukkha-samudayo ariya-saccaṁ\\
   Dukkha-nirodho ariya-saccaṁ\\
-  Dukkha-nirodha-gāminī paṭipadā ariya-saccaṁ.
+  Dukkha-nirodha-gāminī paṭipadā ariya-saccaṁ
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -12835,7 +12775,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 \linkdest{endnote138-body}
 \begin{center}
   \textbf{\textsc{Undertaking the Three Refuges}}\makeatletter\hyperlink{endnote138-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{[a]haṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, venerable sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}..''..}}}}}\makeatother
+        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, venerable sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}..''..}}}}}\makeatother
 \end{center}
 
 \begin{center}
@@ -12845,7 +12785,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{english}
-  Homage to the Blessed, Worthy, and Perfectly Enlightened One. \hfill{[3x]}
+  Homage to the Blessed, Worthy, and Perfectly Enlightened One.
 \end{english}
 
 Buddhaṁ saraṇaṁ gacchāmi\\
@@ -12882,9 +12822,9 @@ Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
   \anglebracketleft\ \hspace{-0.5mm}Tisaraṇa-gamanaṁ niṭṭhitaṁ \hspace{-0.5mm}\anglebracketright\
 \end{leader-only}
 
-\begin{english}
-  This completes the going to the Three Refuges.
-\end{english}
+\begin{leader-english}
+  \anglebracketleft\ \hspace{-0.5mm}This completes the going to the Three Refuges. \hspace{-0.5mm}\anglebracketright\
+\end{leader-english}
 
 Āma bhante
 
@@ -12946,13 +12886,13 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{english-hang}
 
 
-\begin{leader-only}
+\begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Appamādena sampādetha \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
+\end{pali-leader}
 
-\begin{english}
-  Perfect yourselves not being negligent.
-\end{english}
+\begin{leader-english}
+  \anglebracketleft\ \hspace{-0.5mm}Perfect yourselves not being negligent. \hspace{-0.5mm}\anglebracketright\
+\end{leader-english}
 
 Sādhu sādhu sādhu
 

@@ -281,7 +281,6 @@ extractcurrent: $(CURRENTEPUB)
 	@echo "Extracting $(CURRENTEPUB) into $(SOURCE)"
 	@mkdir -p "$(SOURCE)"
 	@unzip -o "$(CURRENTEPUB)" -d "$(SOURCE)"
-	@rm -rf ./manuscript/META-INF ./manuscript/mimetype
 
 
 #-----------------------------------------------------------------------------------------#
