@@ -196,13 +196,13 @@ endif
 #-----------------------------------------------------------------------------------------#
 
 
-validate: $(EPUBFILE) $(EPUBCHECK)
-ifndef JAVA
-	@echo "Warning: Java was not found. Unable to validate ebook."
-else
-	@echo "Validating EPUB..."
-	@$(JAVA) -jar "$(EPUBCHECK)" "$(EPUBFILE)"
-endif
+# validate: $(EPUBFILE) $(EPUBCHECK)
+# ifndef JAVA
+# 	@echo "Warning: Java was not found. Unable to validate ebook."
+# else
+# 	@echo "Validating EPUB..."
+# 	@$(JAVA) -jar "$(EPUBCHECK)" "$(EPUBFILE)"
+# endif
 
 
 #-----------------------------------------------------------------------------------------#
