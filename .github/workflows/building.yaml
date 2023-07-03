@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
-        with: {}
       - name: install curl
         run: apt-get install curl
+      - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
+        with: {}
