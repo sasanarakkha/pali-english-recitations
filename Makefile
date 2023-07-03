@@ -17,17 +17,17 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
 BUILDDIR      := ./build/
 RELEASENAME   := "SBS_Pāli-English_Recitations"
-CURRENTEPUB   := ./manuscript/current-recitations.epub
-SOURCE        := ./manuscript/
+CURRENTEPUB   := ./html/current-recitations.epub
+HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
-PDFFILE      := $(BUILDDIR)/$(RELEASENAME).pdf
+PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
 KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
 AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
 
 
-EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
-KINDLEGEN := ./assets/tools/kindlegen
+EPUBCHECK  := ./assets/tools/epubcheck/epubcheck.jar
+KINDLEGEN  := ./assets/tools/kindlegen
 ORG_TANGLE := ./assets/scripts/org-tangle.py
 
 
@@ -37,7 +37,7 @@ EBOOKVIEWER  := $(shell command -v ebook-viewer 2>&1)
 EBOOKCONVERT := $(shell command -v ebook-convert 2>&1)
 JAVA         := $(shell command -v java 2>&1)
 INOTIFYWAIT  := $(shell command -v inotifywait 2>&1)
-MAKECURRENT  := $(shell command -v cd ./manuscript && zip -r html.zip html && mv html.zip current-recitations.epub)
+MAKECURRENT  := $(shell command -v cd ./epub && zip -r html.zip html && mv html.zip current-recitations.epub)
 
 
 EPUBCHECK_VERSION = 4.2.6
@@ -47,8 +47,8 @@ EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK
 # KINDLEGEN_URL = http://kindlegen.s3.amazonaws.com/kindlegen_linux_2.6_i386_v2_9.tar.gz
 
 
-SOURCEFILES := $(shell find $(SOURCE) 2> /dev/null | sort)
-XHTMLFILES  := $(shell find $(SOURCE) -name '*.xhtml' 2> /dev/null | sort)
+HTMLSOURCEFILES := $(shell find $(HTMLSOURCE) 2> /dev/null | sort)
+XHTMLFILES      := $(shell find $(HTMLSOURCE) -name '*.xhtml' 2> /dev/null | sort)
 
 TODAY := $(shell date --iso-8601)
 
@@ -129,11 +129,11 @@ pdfrequirements:
 
 
 epub: $(EPUBFILE)
-$(EPUBFILE): $(BUILDDIR) $(SOURCEFILES)
+$(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES)
 	@echo "Building EPUB ebook..."
 	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' manuscript/html/OEBPS/Text/copyright.xhtml
 	@rm -f "$(EPUBFILE)"
-	@cd "$(SOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .  # FIXME *.tex
+	@cd "$(HTMLSOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .  # FIXME *.tex
 
 
 #-----------------------------------------------------------------------------------------#
@@ -153,7 +153,7 @@ ifdef PNGFILES
 			convert "$$current" -colorspace rgb "tmp/$$current"; \
 		fi; \
 	done
-	@cd "tmp/$(SOURCE)" && zip -Xr9D "../../$(KINDLEFILE).epub" .
+	@cd "tmp/$(HTMLSOURCE)" && zip -Xr9D "../../$(KINDLEFILE).epub" .
 	@rm -rf "tmp/"
 endif
 	@$(KINDLEGEN) "$(KINDLEFILE).epub" -dont_append_source -c1 || exit 0 # -c1 means standard PalmDOC compression. -c2 takes too long but probably makes it even smaller.
@@ -278,9 +278,10 @@ current:
 
 
 extractcurrent: $(CURRENTEPUB)
-	@echo "Extracting $(CURRENTEPUB) into $(SOURCE)"
-	@mkdir -p "$(SOURCE)"
-	@unzip -o "$(CURRENTEPUB)" -d "$(SOURCE)"
+
+	@echo "Extracting $(CURRENTEPUB) into $(HTMLSOURCE)"
+	@mkdir -p "$(HTMLSOURCE)"
+	@unzip -o "$(CURRENTEPUB)" -d "$(HTMLSOURCE)"
 
 
 #-----------------------------------------------------------------------------------------#

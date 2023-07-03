@@ -123,7 +123,7 @@
 - [[#copyright-details][Copyright Details]]
 
 * Titlepage
-#+begin_src latex  :tangle ./manuscript/tex/titlepage.tex
+#+begin_src latex  :tangle ./tex/titlepage.tex
 
 \cleartorecto
 \thispagestyle{empty}
@@ -155,7 +155,7 @@
 #+end_src
 
 * Copyright
-#+begin_src latex  :tangle ./manuscript/tex/copyright.tex
+#+begin_src latex  :tangle ./tex/copyright.tex
 
 \cleartoverso
 \thispagestyle{empty}
@@ -164,101 +164,100 @@
 
 {%
 
-\fontsize{10}{16}\selectfont
-\centering
-\setlength{\parindent}{0pt}%
-% \setlength{\parskip}{0.8\baselineskip}%
+  \fontsize{10}{16}\selectfont
+  \centering
+  \setlength{\parindent}{0pt}%
+  % \setlength{\parskip}{0.8\baselineskip}%
 
-\vspace{0.5cm}
+  \vspace{0.5cm}
 
-Published by TBD\\
-% TODO need 2 ISBN numbers assigned (1 for print/pdf, 1 for epub); do more research before printing
-% https://www.pnm.gov.my/
-ISBN \theISBN\\
-Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2022
+  Published by TBD\\
+  % TODO need 2 ISBN numbers assigned (1 for print/pdf, 1 for epub); do more research before printing
+  % https://www.pnm.gov.my/
+  ISBN \theISBN\\
+  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2022
 
-\vspace{0.5cm}
+  \vspace{0.5cm}
 
-This book is for free distribution only;\\
-it may not be sold.
+  This book is for free distribution only;\\
+  it may not be sold.
 
-\vspace{0.5cm}
+  \vspace{0.5cm}
 
-Download this book as a PDF, EPUB, or MOBI\\
-at the following address:\\
-\href{https://sasanarakkha.org/}{https://sasanarakkha.org}
+  Download this book as a PDF, EPUB, or MOBI\\
+  at the following address:\\
+  \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
 
-\vspace{0.5cm}
+  \vspace{0.5cm}
 
-Project Manager: Ā. Ariyadhammika\\
-Editor: Ā. Pāladhammika\\
-Typesetting: Aj. Gambhiro, Ā. Pāladhammika\\
-Translators: Ā. Aggacitta, Ā. Bodhi, Aj. Kevalī, Ā. Sujāto, M. Walshe\\
-Endnotes: Ā. Ariyadhammika
+  Project Manager: Ā. Ariyadhammika\\
+  Editor: Ā. Pāladhammika\\
+  Typesetting: Aj. Gambhiro, Ā. Pāladhammika\\
+  Translators: Ā. Aggacitta, Ā. Bodhi, Aj. Kevalī, Ā. Sujāto, M. Walshe\\
+  Endnotes: Ā. Ariyadhammika
 
-\vspace{0.5cm}
+  \vspace{0.5cm}
 
-This work is licensed under a Creative Commons\\
-Attribution-NonCommercial-NoDerivatives 4.0 International~License.
+  This work is licensed under a Creative Commons\\
+  Attribution-NonCommercial-NoDerivatives 4.0 International~License.
 
-Produced with the \LaTeX\ typesetting system,\\
-set in Libertinus Serif.
+  Produced with the \LaTeX\ typesetting system,\\
+  set in Libertinus Serif.
 
-\vspace{0.5cm}
+  \vspace{0.5cm}
 
-\ifdesktopversion
-This version was created on:\\
-\today \space at \currenttime\\
-% \href{https://github.com/sasanarakkha/pali-english-recitations/commits/main}{\texttt{\commit}} on branch \texttt{\branch}
-\fi
+  \ifdesktopversion
+    This version was created on:\\
+    \today \space at \currenttime\\
+    % \href{https://github.com/sasanarakkha/pali-english-recitations/commits/main}{\texttt{\commit}} on branch \texttt{\branch}
+  \fi
 
-\vspace{0.5cm}
+  \vspace{0.5cm}
 
 
-\theEditionInfo
+  \theEditionInfo
 
 }
 
 #+end_src
 
-
 * Acknowledgments
-#+begin_src latex :tangle ./manuscript/tex/acknowledgments.tex
+#+begin_src latex :tangle ./tex/acknowledgments.tex
 
 \cleartorecto
 \thispagestyle{empty}
 
 {\setlength{\parskip}{10pt}
 
-{\centering\fontsize{16}{25}\selectfont
-\textsc{We Wish To Gratefully Acknowledge}
-\par}
+  {\centering\fontsize{16}{25}\selectfont
+    \textsc{We Wish To Gratefully Acknowledge}
+    \par}
 
-The Saṅghas of Wat Pah Nanachat (WPN), Amaravati, and Abhayagiri for allowing the use of material from their respective chanting books, the late Ven. Dr. Saddhātissa and Mr. Maurice Walshe for their English translations, as well as Ven. Bhikkhu Bodhi for granting permission to use and slightly adapt his translations. Various Saṅgha members of SBS Monk Training Centre, who contributed in the compilation of an interesting selection of chants, as well as for providing countless suggestions to help improve the English translations.
+  The Saṅghas of Wat Pah Nanachat (WPN), Amaravati, and Abhayagiri for allowing the use of material from their respective chanting books, the late Ven. Dr. Saddhātissa and Mr. Maurice Walshe for their English translations, as well as Ven. Bhikkhu Bodhi for granting permission to use and slightly adapt his translations. Various Saṅgha members of SBS Monk Training Centre, who contributed in the compilation of an interesting selection of chants, as well as for providing countless suggestions to help improve the English translations.
 
-\linkdest{endnote1-body}
-Additional information on translations, as well as deviations\makeatletter\hyperlink{endnote1-appendix}\Hy@raisedlink{{\pagenote{%
-  \hypertarget{endnote1-appendix}{\hyperlink{endnote1-body}{Due to the balanced and inspiring selection of chants, as well as for the sake of compatability, WPN \textit{Buddhist Chanting} (2014) has served as the basis for this book. Over time, suggestions for the inclusion of additional chants, as well as occasional improvements of existing translations were incorporated. Such changes were meticulously marked down in the endnotes, so that someone familiar with the present book can straight away find the relevant differences, which can be useful when visiting a branch monastery of the Ajahn Chah lineage, in order to know in which places to revert to the original version.}}}}}\makeatother\thickspace
-from WPN \textit{Buddhist Chanting} (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
+  \linkdest{endnote1-body}
+  Additional information on translations, as well as deviations\makeatletter\hyperlink{endnote1-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote1-appendix}{\hyperlink{endnote1-body}{Due to the balanced and inspiring selection of chants, as well as for the sake of compatability, WPN \textit{Buddhist Chanting} (2014) has served as the basis for this book. Over time, suggestions for the inclusion of additional chants, as well as occasional improvements of existing translations were incorporated. Such changes were meticulously marked down in the endnotes, so that someone familiar with the present book can straight away find the relevant differences, which can be useful when visiting a branch monastery of the Ajahn Chah lineage, in order to know in which places to revert to the original version.}}}}}\makeatother\thickspace
+  from WPN \textit{Buddhist Chanting} (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
 
-\medskip
+  \medskip
 
-{\centering
-To Āyasmā Aggacitta, the founding father of\\
-Sāsanārakkha Buddhist Sanctuary.
+  {\centering
+    To Āyasmā Aggacitta, the founding father of\\
+    Sāsanārakkha Buddhist Sanctuary.
 
-\medskip
+    \medskip
 
-\includegraphics[height=54mm]{sbs-logo-tuck-loon-brown.jpg}
+    \includegraphics[height=54mm]{sbs-logo-tuck-loon-brown.jpg}
 
-}
+  }
 
 }
 
 #+end_src
 
 * Recitation Schedule
-#+begin_src latex :tangle ./manuscript/tex/schedule.tex
+#+begin_src latex :tangle ./tex/schedule.tex
 
 \chapter{Recitation Schedule}
 \label{schedule}
@@ -401,7 +400,7 @@ Sāsanārakkha Buddhist Sanctuary.
 #+end_src
 
 * Purpose and Benefits of Dhamma Recitation
-#+begin_src latex :tangle ./manuscript/tex/purpose-and-benefits.tex
+#+begin_src latex :tangle ./tex/purpose-and-benefits.tex
 
 
 \chapter[Purpose and Benefits of Dhamma Recitation]{Purpose and Benefits\\ of Dhamma Recitation}
@@ -518,7 +517,7 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 #+end_src
 
 * Abbreviations
-#+begin_src latex :tangle ./manuscript/tex/abbreviations.tex
+#+begin_src latex :tangle ./tex/abbreviations.tex
 
 \chapter{Abbreviations}
 \label{abbreviations}
@@ -559,12 +558,12 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 
 * Homage to the Triple Gem
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+#+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \ifdesktopversion
-\chapterOpeningPage{homage-to-the-triple-gem-compressed.jpg}
+  \chapterOpeningPage{homage-to-the-triple-gem-compressed.jpg}
 \else
-\chapterOpeningPage{homage-to-the-triple-gem.jpg}
+  \chapterOpeningPage{homage-to-the-triple-gem.jpg}
 \fi
 
 \chapter{Homage to the Triple Gem}
@@ -572,7 +571,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 #+end_src
 
 ** Dedication of Offerings
-#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+#+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \begingroup
 \setsechook{%
@@ -591,7 +590,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 \end{pali-leader}
 
 \begin{pali-hangtogether}
-Bhagavā arahaṁ sammāsambuddho
+  Bhagavā arahaṁ sammāsambuddho
 \end{pali-hangtogether}
 
 \linkdest{endnote2-body}
@@ -711,7 +710,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** Preliminary Homage
-#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+#+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionPaliTitle{Pubbabhāga-namakāra}
 \section{Preliminary Homage}
@@ -736,7 +735,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 #+end_src
 
 ** Homage to the Buddha
-#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+#+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionPaliTitle{Buddh'ābhitthuti}
 \section{Homage to the Buddha}
@@ -846,7 +845,7 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
 #+end_src
 
 ** Homage to the Dhamma
-#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+#+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionPaliTitle{Dhamm'ābhitthuti}
 \section{Homage to the Dhamma}
@@ -911,7 +910,7 @@ Paccattaṁ veditabbo viññūhi
 #+end_src
 
 ** Homage to the Saṅgha
-#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+#+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionPaliTitle{Saṅgh'ābhitthuti}
 \section{Homage to the Saṅgha}
@@ -934,7 +933,7 @@ Uju-paṭipanno bhagavato sāvaka-saṅgho
 
 \linkdest{endnote5-body}
 \begin{english}
-    Who have practiced directly\makeatletter\hyperlink{endnote5-appendix}\Hy@raisedlink{{\pagenote{%
+  Who have practiced directly\makeatletter\hyperlink{endnote5-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote5-appendix}{\hyperlink{endnote5-body}{To practice ``directly''(Pāli: \textit{uju}) means, to practice the most direct way to \textit{nibbāna}; the straight way; no detours.}}}}}\makeatother
 
 \end{english}
@@ -943,8 +942,8 @@ Uju-paṭipanno bhagavato sāvaka-saṅgho
 
 \linkdest{endnote6-body}
 \begin{english}
-    Who have practiced correctly\makeatletter\hyperlink{endnote6-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote6-appendix}{\hyperlink{endnote6-body}{WPN: ``Who have practiced insightfully''}}}}}\makeatother
+  Who have practiced correctly\makeatletter\hyperlink{endnote6-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote6-appendix}{\hyperlink{endnote6-body}{WPN: ``Who have practiced insightfully''}}}}}\makeatother
 
 \end{english}
 
@@ -997,7 +996,7 @@ Anuttaraṁ puñña-kkhettaṁ lokassa
 
 \linkdest{endnote149-body}
 \begin{english}
- The unsurpassed field of merit for the world\makeatletter\hyperlink{endnote149-appendix}\Hy@raisedlink{{\pagenote{%
+  The unsurpassed field of merit for the world\makeatletter\hyperlink{endnote149-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote149-appendix}{\hyperlink{endnote149-body}{WPN: ``They give occasion for incomparable goodness to arise in the world''}}}}}\makeatother
 \end{english}
 
@@ -1015,7 +1014,7 @@ Anuttaraṁ puñña-kkhettaṁ lokassa
 #+end_src
 
 ** Salutation to the Triple Gem
-#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+#+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionPaliTitle{Ratanattaya-paṇāma}
 \section{Salutation to the Triple Gem}
@@ -1463,7 +1462,7 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 #+end_src
 
 ** Closing Homage
-#+begin_src latex :tangle ./manuscript/tex/recitations/homage.tex
+#+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionPaliTitle{Pacchima-vandanā}
 \section{Closing Homage}
@@ -1531,29 +1530,29 @@ Saṅghaṁ namāmi
 \vfill
 
 \ifdesktopversion
-\begin{minipage}[b][25pt][c]{\linewidth}
-  \begin{leader}
-    \textbf{\vspace{0.2em}\textsc{\hyperref[schedule]{Schedule}\\
-        % \rule{\linewidth}{0.8pt}
-        {\centering\pgfornament[color=sbs-brown,width=4cm]{88}}\\
-        \vspace{0.8em}
-        \hyperref[buddhas-first-exclamation]{Set 1} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[characteristic-of-not-self]{Set 2} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[noble-eightfold-path]{Set 3} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[dedication-of-offerings]{Set 4} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[mindfulness-of-breathing]{Set 5}\\
-        \vspace{0.5em}
-        \hyperref[anatta-lakkhana]{Set 6} — \hyperref[dependent-origination]{Set 7} — \hyperref[aditta-pariyaya]{Set 8} — \hyperref[deva-aradhana]{Set 9} — \hyperref[pubba-bhaga-nama-kara-patho-funeral]{Set 10}}}
-  \end{leader}
-\end{minipage}
+  \begin{minipage}[b][25pt][c]{\linewidth}
+    \begin{leader}
+      \textbf{\vspace{0.2em}\textsc{\hyperref[schedule]{Schedule}\\
+          % \rule{\linewidth}{0.8pt}
+          {\centering\pgfornament[color=sbs-brown,width=4cm]{88}}\\
+          \vspace{0.8em}
+          \hyperref[buddhas-first-exclamation]{Set 1} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[characteristic-of-not-self]{Set 2} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[noble-eightfold-path]{Set 3} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[dedication-of-offerings]{Set 4} \hspace{0.02cm} — \hspace{0.02cm} \hyperref[mindfulness-of-breathing]{Set 5}\\
+          \vspace{0.5em}
+          \hyperref[anatta-lakkhana]{Set 6} — \hyperref[dependent-origination]{Set 7} — \hyperref[aditta-pariyaya]{Set 8} — \hyperref[deva-aradhana]{Set 9} — \hyperref[pubba-bhaga-nama-kara-patho-funeral]{Set 10}}}
+    \end{leader}
+  \end{minipage}
 \fi
 
 #+end_src
 
 * Verses
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \ifdesktopversion
-\chapterOpeningPage{verses-compressed.jpg}
+  \chapterOpeningPage{verses-compressed.jpg}
 \else
-\chapterOpeningPage{verses.jpg}
+  \chapterOpeningPage{verses.jpg}
 \fi
 
 \chapter{Verses}
@@ -1561,7 +1560,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** The Buddha's First Exclamation
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Buddha-paṭhama-bhāsita}
 \section{The Buddha's First Exclamation}
@@ -1605,7 +1604,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** Respect for the Dhamma
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Dhamma-gārava}
 \section{Respect for the Dhamma}
@@ -1694,7 +1693,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** Going to True and False Refuges
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Khem'ākhema-saraṇa-gamana}
 \section{Going to True and False Refuges}
@@ -1723,7 +1722,7 @@ Saṅghaṁ namāmi
 
 \linkdest{endnote32-body}
 \begin{english-verses}
-    Such a refuge is not secure\\
+  Such a refuge is not secure\\
   Such a refuge is not supreme\\
   Such a refuge does not bring\\
   Complete release from all suffering\makeatletter\hyperlink{endnote32-appendix}\Hy@raisedlink{{\pagenote{%
@@ -1739,9 +1738,9 @@ Saṅghaṁ namāmi
 \linkdest{endnote163-body}
 \begin{english-verses}
   Whoever goes for refuge\makeatletter\hyperlink{endnote162-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote162-appendix}{\hyperlink{endnote162-body}{WPN: ``Whoever goes to refuge''.).}}}}}\makeatother\\
+        \hypertarget{endnote162-appendix}{\hyperlink{endnote162-body}{WPN: ``Whoever goes to refuge''.).}}}}}\makeatother\\
   To the Buddha the Dhamma and the Saṅgha\makeatletter\hyperlink{endnote163-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote163-appendix}{\hyperlink{endnote163-body}{WPN: ``In the Triple Gem''. It has been shown in Āyasma Aggacitta's ``Do We Go to the Triple Gem for Refuge?'' that one does not go for refuge in the triple gem (the Buddha, Dhamma, and Ariya-saṅgha), but the discourses repeatedly depict the Buddha, Dhamma, and Bhikkhu-saṅgha as the community to take refuge in (DN 2, MN 91, SN 12.46, AN 2.16 etc.).}}}}}\makeatother\\
+        \hypertarget{endnote163-appendix}{\hyperlink{endnote163-body}{WPN: ``In the Triple Gem''. It has been shown in Āyasma Aggacitta's ``Do We Go to the Triple Gem for Refuge?'' that one does not go for refuge in the triple gem (the Buddha, Dhamma, and Ariya-saṅgha), but the discourses repeatedly depict the Buddha, Dhamma, and Bhikkhu-saṅgha as the community to take refuge in (DN 2, MN 91, SN 12.46, AN 2.16 etc.).}}}}}\makeatother\\
   Sees with right discernment\\
   The Four Noble Truths
 \end{english-verses}
@@ -1777,7 +1776,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** The Pāṭimokkha Exhortation
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Ovāda-pāṭimokkha-gāthā}
 \section{The Pāṭimokkha Exhortation}
@@ -1880,7 +1879,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** The Three Characteristics
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Ti-lakkhaṇā}
 \section{The Three Characteristics}
@@ -1897,11 +1896,11 @@ Etaṁ buddhāna'sāsanaṁ
 
 \linkdest{endnote34-body}
 \begin{english-verses}
-    ``All conditioned things are impermanent''\makeatletter\hyperlink{endnote34-appendix}\Hy@raisedlink{{\pagenote{%
+  ``All conditioned things are impermanent''\makeatletter\hyperlink{endnote34-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote34-appendix}{\hyperlink{endnote34-body}{WPN: ``Impermanent are all conditioned things''}}}}}\makeatother\\
 
   When with wisdom this is seen\\
-\linkdest{endnote35-body}
+  \linkdest{endnote35-body}
   One feels weary of all dukkha\makeatletter\hyperlink{endnote35-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote35-appendix}{\hyperlink{endnote35-body}{``\textit{Dukkha}'' here refers to the five aggregates themselves, as explained in SN 56.11: ``The five aggregates of clinging are \textit{dukkha}''. Along similar lines, the five aggregates are called ``burdens'' in SN 22.22.}}}}}\makeatother\\
 
@@ -1927,7 +1926,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 \linkdest{endnote36-body}
 \begin{english-verses}
-    ``All things are not-self''\makeatletter\hyperlink{endnote36-appendix}\Hy@raisedlink{{\pagenote{%
+  ``All things are not-self''\makeatletter\hyperlink{endnote36-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote36-appendix}{\hyperlink{endnote36-body}{WPN: ``Dukkha are all conditioned things''}}}}}\makeatother\\
 
   When with wisdom this is seen\\
@@ -1988,7 +1987,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** The Burdens
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Bhārā}
 \section{The Burdens}
@@ -2031,7 +2030,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** From the Elder Raṭṭhapāla
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Raṭṭhapāla-thera-gāthā}
 \section{From the Elder Raṭṭhapāla}
@@ -2192,7 +2191,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** From the Elder Pārāpariya
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Pārāpariya-thera-gāthā}
 \section{From the Elder Pārāpariya}
@@ -2317,7 +2316,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** On Protection
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Tāyana-gāthā}
 \section{On Protection}
@@ -2398,7 +2397,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** Miscellaneous Verses
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Pakiṇṇaka-gāthā}
 \section{Miscellaneous Verses}
@@ -2635,7 +2634,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** A Single Excellent Night
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Bhadd'eka-ratta}
 \section{A Single Excellent Night}
@@ -2708,7 +2707,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** The Highest Blessings
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Maṅgala-sutta}
 \section{The Highest Blessings}
@@ -2838,7 +2837,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** The Buddha's Words on Loving-Kindness
-#+begin_src latex :tangle ./manuscript/tex/recitations/verses.tex
+#+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionPaliTitle{Karaṇīya-metta-sutta}
 \section{The Buddha's Words on Loving-Kindness}
@@ -2875,7 +2874,7 @@ Etaṁ buddhāna'sāsanaṁ
   Or despise any being in any state\\
   Let none through anger or ill-will\\
   Wish harm upon another\\
-\linkdest{endnote49-body}
+  \linkdest{endnote49-body}
   Just\makeatletter\hyperlink{endnote49-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote49-appendix}{\hyperlink{endnote49-body}{WPN: ``Even''}}}}}\makeatother
   as a mother protects with her life\\
@@ -2892,7 +2891,7 @@ Etaṁ buddhāna'sāsanaṁ
   Seated or lying down free from drowsiness\\
   One should sustain this recollection\\
   This is said to be the sublime abiding\\
-\linkdest{endnote50-body}
+  \linkdest{endnote50-body}
   By not holding wrong views\makeatletter\hyperlink{endnote50-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote50-appendix}{\hyperlink{endnote50-body}{WPN: ``to fixed views''. This paragraph deals with \textit{Anāgāmis}, which becomes apparent from the closing statement in which it is said that by this practice one becomes free from sense desires and is not born again into this world (sense sphere). The limitation of loving-kindness practice leading ``only'' up to \textit{Anāgāmihood} also finds confirmation by AN 4.126. Now, since an \textit{Anāgāmi} has right view, which is the first factor of the noble eightfold path (even \textit{Arahants} hold right view; AN 10.112), it would therefore not be correct to say that he holds no views at all. Furthermore, even an \textit{Anāgāmi} may still have some minor grasping to (right) view, as there can still be moments of \textit{māna} (identification/conceit), which is overcome only by the \textit{Arahant}. I therefore conclude that this passage here refers specifically to ``wrong views'' and does not include ``right view'', since wrong views are the only types of views that an \textit{Anāgāmi} has entirely left behind.}}}}}\makeatother\\
   The pure-hearted one having clarity of vision\\
@@ -2977,12 +2976,12 @@ Etaṁ buddhāna'sāsanaṁ
 
 * Teachings
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \ifdesktopversion
-\chapterOpeningPage{teachings-compressed.jpg}
+  \chapterOpeningPage{teachings-compressed.jpg}
 \else
-\chapterOpeningPage{teachings.jpg}
+  \chapterOpeningPage{teachings.jpg}
 \fi
 
 \chapter{Teachings}
@@ -2990,7 +2989,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** Setting in Motion the Wheel of Dhamma
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Dhamma-cakkappavattana}
 \section{Setting in Motion the Wheel of Dhamma}
@@ -3618,7 +3617,7 @@ Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
   Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 \end{pali-hangtogether}
 
-  \linkdest{endnote158-body}
+\linkdest{endnote158-body}
 \begin{english-verses}
   Bhikkhus as long as\makeatletter\hyperlink{endnote158-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote158-appendix}{\hyperlink{endnote158-body}{WPN: ``As long \textit{bhikkhus} as''}}}}}\makeatother \thinspace my knowledge and understanding\\
@@ -3707,7 +3706,7 @@ N'atthi-dāni punabbhavo'ti
 #+end_src
 
 ** Anupubba-sikkhā
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \section{Anupubba-sikkhā}
 
@@ -3768,7 +3767,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 #+end_src
 
 ** The Gradual Training
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \section{The Gradual Training}
 \label{gradual-training}
@@ -3889,7 +3888,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 #+end_src
 
 ** Requisites for Awakening
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Bodhipakkihya-dhammā}
 \section{Requisites for Awakening}
@@ -4002,7 +4001,7 @@ Ariyo aṭṭh'aṅgiko maggo
 #+end_src
 
 ** The Seven Factors of Awakening
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Satta-sambojjh'aṅgā}
 \section{The Seven Factors of Awakening}
@@ -4232,7 +4231,7 @@ Ime kho bhikkhave satta bojjh'aṅgā'ti
 #+end_src
 
 ** The Noble Eightfold Path
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Ariy'āṭṭh'aṅgika-magga}
 \section{The Noble Eightfold Path}
@@ -4780,7 +4779,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 #+end_src
 
 ** Mindfulness of Breathing
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Ānāpānassati}
 \section{Mindfulness of Breathing}
@@ -5141,7 +5140,7 @@ Maha-pphalā hoti mah'ānisaṁsā
 #+end_src
 
 ** Dependent Origination
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Paṭicca-samuppāda}
 \section{Dependent Origination}
@@ -5159,25 +5158,25 @@ Maha-pphalā hoti mah'ānisaṁsā
 Imasmiṁ sati idaṁ hoti
 
 \begin{english}
-When this exists \breathmark\ that is
+  When this exists \breathmark\ that is
 \end{english}
 
 Imass'uppādā idaṁ uppajjati
 
 \begin{english}
-From the arising of this \breathmark\ that arises
+  From the arising of this \breathmark\ that arises
 \end{english}
 
 Imasmiṁ asati idaṁ na hoti
 
 \begin{english}
-When this does not exist \breathmark\ that is not
+  When this does not exist \breathmark\ that is not
 \end{english}
 
 Imassa nirodhā idaṁ nirujjhati
 
 \begin{english}
-From the cessation of this \breathmark\ that ceases
+  From the cessation of this \breathmark\ that ceases
 \end{english}
 
 \suttaRef{[SN 12.61]}
@@ -5627,59 +5626,59 @@ Ayaṁ vuccati bhava-paccayā jāti
 Tattha katamaṁ jāti-paccayā jarā-maraṇaṁ
 
 \begin{english}
-Therein what is `ageing-and-death'̓ \breathmark\ arising from birth as a condition?
+  Therein what is `ageing-and-death'̓ \breathmark\ arising from birth as a condition?
 \end{english}
 
 Atthi jarā atthi maraṇaṁ
 
 \begin{english}
-There is ageing \breathmark\ there is death
+  There is ageing \breathmark\ there is death
 \end{english}
 
 Tattha katamā jarā
 
 \begin{english}
-Therein what is `ageing'?
+  Therein what is `ageing'?
 \end{english}
 
 \begin{pali-hang}
-Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā \breathmark\ jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko
+  Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā \breathmark\ jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko
 \end{pali-hang}
 
 \begin{english-hang-verses}
-The ageing of various beings among the various classes of beings \breathmark\ their growing old \breathmark\ brokenness of teeth \breathmark\ greyness of hair \breathmark\ wrinkling of skin \breathmark\ decline of vitality \breathmark\ decay of faculties
+  The ageing of various beings among the various classes of beings \breathmark\ their growing old \breathmark\ brokenness of teeth \breathmark\ greyness of hair \breathmark\ wrinkling of skin \breathmark\ decline of vitality \breathmark\ decay of faculties
 \end{english-hang-verses}
 
 Ayaṁ vuccati jarā
 
 \begin{english}
-This is called `ageing'
+  This is called `ageing'
 \end{english}
 
 Tattha katamaṁ maraṇaṁ
 
 \begin{english}
-Therein what is `death'?
+  Therein what is `death'?
 \end{english}
 
 \begin{pali-hang}
-Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti \breathmark\ cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālakiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvit'indriyass'upacchedo
+  Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti \breathmark\ cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālakiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvit'indriyass'upacchedo
 \end{pali-hang}
 
 \begin{english-hang-verses}
-The passing away of various beings from the various classes of beings \breathmark\ their perishing \breathmark\ breaking up \breathmark\ disappearance \breathmark\ dying \breathmark\ death \breathmark\ completion of time \breathmark\ breakup of the aggregates \breathmark\ laying down of the carcass \breathmark\ cutting off the life faculty
+  The passing away of various beings from the various classes of beings \breathmark\ their perishing \breathmark\ breaking up \breathmark\ disappearance \breathmark\ dying \breathmark\ death \breathmark\ completion of time \breathmark\ breakup of the aggregates \breathmark\ laying down of the carcass \breathmark\ cutting off the life faculty
 \end{english-hang-verses}
 
 Idaṁ vuccati maraṇaṁ
 
 \begin{english}
-This is called `death'
+  This is called `death'
 \end{english}
 
 Iti ayañ'ca jarā idañ'ca maraṇaṁ
 
 \begin{english}
-Thus are this ageing and this death
+  Thus are this ageing and this death
 \end{english}
 
 Idaṁ vuccati jāti-paccayā jarā-maraṇaṁ
@@ -5821,7 +5820,7 @@ Evam'etassa kevalassa dukkha-kkhandhassa samudayo hotī'ti:
 #+end_src
 
 ** The Dhamma in Brief
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Saṅkhitta-dhamma}
 \section{The Dhamma in Brief}
@@ -5935,7 +5934,7 @@ Eso dhammo eso vinayo etaṁ satthu-sāsanan'ti
 #+end_src
 
 ** The Four Great References
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Cattāro mahāpadesā}
 \section{The Four Great References}
@@ -6199,7 +6198,7 @@ Ime kho bhikkhave cattāro mahā-padesā'ti
 #+end_src
 
 ** Principles of Cordiality
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Cha sāraṇīyā-dhammā}
 \section{Principles of Cordiality}
@@ -6430,7 +6429,7 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā'ti
 #+end_src
 
 ** Principles of Non-Decline
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Aparihāniya-dhammā}
 \section{Principles of Non-Decline}
@@ -6771,7 +6770,7 @@ Sovacassatā kalyāṇamittatā
 #+end_src
 
 ** Striving According to the Dhamma
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Dhamma-pahaṁsāna}
 \section{Striving According to the Dhamma}
@@ -7032,7 +7031,7 @@ Alam'eva appamādena sampādetun'ti\makeatletter\hyperlink{endnote93-appendix}\H
 #+end_src
 
 ** The Buddha's Final Instruction
-#+begin_src latex :tangle ./manuscript/tex/recitations/teachings.tex
+#+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionPaliTitle{Buddha-pacchima-ovāda}
 \section{The Buddha's Final Instruction}
@@ -7104,12 +7103,12 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 * Reflections
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \ifdesktopversion
-\chapterOpeningPage{reflections-compressed.jpg}
+  \chapterOpeningPage{reflections-compressed.jpg}
 \else
-\chapterOpeningPage{reflections.jpg}
+  \chapterOpeningPage{reflections.jpg}
 \fi
 
 \chapter{Reflections}
@@ -7117,7 +7116,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 #+end_src
 
 ** The Four Requisites
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionPaliTitle{Cattaro parrikhārā}
 \section{The Four Requisites}
@@ -7144,10 +7143,10 @@ Yāva'd'eva hirikopina-paṭicchādan'atthaṁ
 Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevāmi\\
 N'eva davāya na madāya na maṇḍanāya na vibhūsanāya
 \begin{pali-hangtogether}
-Yāva'd'eva imassa kāyassa ṭhitiyā yāpanāya vihiṁs'ūparatiyā brahmacariy'ānuggahāya
+  Yāva'd'eva imassa kāyassa ṭhitiyā yāpanāya vihiṁs'ūparatiyā brahmacariy'ānuggahāya
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
-Iti purāṇañ'ca vedanaṁ paṭihaṅkhāmi navañ'ca vedanaṁ na uppādessāmi
+  Iti purāṇañ'ca vedanaṁ paṭihaṅkhāmi navañ'ca vedanaṁ na uppādessāmi
 \end{pali-hangtogether}
 Yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti
 
@@ -7195,7 +7194,7 @@ Abyāpajjha-paramatāyā'ti
 #+end_src
 
 ** The Repulsiveness of Food
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionPaliTitle{Āhāra-paṭikūla-paccavekkhaṇa-pāṭho}
 \section{The Repulsiveness of Food}
@@ -7261,7 +7260,7 @@ Ativiya jigucchanīyo jāyati
 #+end_src
 
 ** Universal Well-Being
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionPaliTitle{Mettā-pharaṇa}
 \section{Universal Well-Being}
@@ -7313,7 +7312,7 @@ Tassa dāy'ādā bhavissanti
   In freedom from anxiety\\
   And may they maintain well-being in themselves\\
   May all beings be released from all suffering\\
-\linkdest{endnote95-body}
+  \linkdest{endnote95-body}
   \begin{english-hangtogether}
     And may they not be parted from the good fortune they have attained\makeatletter\hyperlink{endnote95-appendix}\Hy@raisedlink{{\pagenote{%
           \hypertarget{endnote95-appendix}{\hyperlink{endnote95-body}{In the original version, this line is followed by ``[w]hen they act upon intention'', which is not found in the Pāli, and is potentially misleading, giving the implication that intention alone is not enough to count as kamma.}}}}}\makeatother
@@ -7340,7 +7339,7 @@ Tassa dāy'ādā bhavissanti
 #+end_src
 
 ** The Divine Abidings
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionPaliTitle{Brahmavihārā}
 \section{The Divine Abidings}
@@ -7466,7 +7465,7 @@ Tassa dāy'ādā bhavissanti
 #+end_src
 
 ** Five Subjects for Frequent Reflection
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionPaliTitle{Pañca-abhiṇha-paccavekkhaṇā}
 \section{Five Subjects for Frequent Reflection}
@@ -7526,7 +7525,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
   Abide supported by my kamma\\
   Whatever kamma I shall do\\
   Either skillful or harmful\\
-\linkdest{endnote98-body}
+  \linkdest{endnote98-body}
   Of such acts \breathmark\ I will be the heir\makeatletter\hyperlink{endnote98-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote98-appendix}{\hyperlink{endnote98-body}{WPN: `For good or for ill, of that I will be the heir' For the sake of consistency with other passages which were translated differently, that translation has been chosen.}}}}}\makeatother
 \end{english-verses}
@@ -7546,7 +7545,7 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 #+end_src
 
 ** Ten Subjects for Frequent Reflection by One Gone Forth
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionPaliTitle{Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā}
 \section{Ten Subjects for Frequent Reflection by One Gone Forth}
@@ -7728,7 +7727,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 #+end_src
 
 ** The Thirty-Two Body Parts
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionPaliTitle{Dvattiṁs'ākāra-paccavekkhaṇa}
 \section{The Thirty-Two Body Parts}
@@ -7774,15 +7773,15 @@ Atthi imasmiṁ kāye
     yakanaṁ         & \tr{liver} \\
     kilomakaṁ       & \tr{membranes} \\
   \end{tabular}
-\linkdest{endnote152-body}
-\linkdest{endnote153-body}
+  \linkdest{endnote152-body}
+  \linkdest{endnote153-body}
   \begin{tabular}{ r l }
     pihakaṁ         & \tr{spleen} \\
     papphāsaṁ       & \tr{lungs} \\
     antaṁ           & \tr{intestines}\makeatletter\hyperlink{endnote152-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote152-appendix}{\hyperlink{endnote152-body}{WPN: ``bowels''}}}}} \\
+                      \hypertarget{endnote152-appendix}{\hyperlink{endnote152-body}{WPN: ``bowels''}}}}} \\
     antaguṇaṁ       & \tr{mesentery}\makeatletter\hyperlink{endnote153-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote153-appendix}{\hyperlink{endnote153-body}{WPN: ``entrails''}}}}} \\
+                      \hypertarget{endnote153-appendix}{\hyperlink{endnote153-body}{WPN: ``entrails''}}}}} \\
     udariyaṁ        & \tr{undigested food} \\
     karīsaṁ         & \tr{excrement} \\
     pittaṁ          & \tr{bile} \\
@@ -7797,7 +7796,7 @@ Atthi imasmiṁ kāye
     siṅghāṇikā      & \tr{mucus} \\
     lasikā          & \tr{oil of the joints} \\
     muttaṁ          & \tr{urine} \\
-\linkdest{endnote103-body}
+    \linkdest{endnote103-body}
     matthaluṅgan'ti & \tr{brain}\makeatletter\hyperlink{endnote103-appendix}\Hy@raisedlink{{\pagenote{%
                       \hypertarget{endnote103-appendix}{\hyperlink{endnote103-body}{In the discourses, except for one occasion in the Khp, the brain is not mentioned as a separate organ or body part, making it a list of only 31 body parts.}}}}}\makeatother
   \end{tabular}
@@ -7825,7 +7824,7 @@ Atthi imasmiṁ kāye
 #+end_src
 
 ** Recollection of Impermanence
-#+begin_src latex :tangle ./manuscript/tex/recitations/reflections.tex
+#+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionPaliTitle{Anicc'ānussati}
 \section{Recollection of Impermanence}
@@ -7989,44 +7988,44 @@ Tesaṁ vūpasamo sukho
 
 * Cardinal Suttas
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas.tex
+#+begin_src latex :tangle ./tex/recitations/cardinal-suttas.tex
 
 \ifdesktopversion
-\chapterOpeningPage{cardinal-suttas-compressed.jpg}
+  \chapterOpeningPage{cardinal-suttas-compressed.jpg}
 \else
-\chapterOpeningPage{cardinal-suttas.jpg}
+  \chapterOpeningPage{cardinal-suttas.jpg}
 \fi
 
 \chapter{Cardinal Suttas}
 
-\input{./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex}
+\input{./tex/recitations/cardinal-suttas/dhammacakkappavattana.tex}
 
 \clearpage
 
-\input{./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana-eng.tex}
+\input{./tex/recitations/cardinal-suttas/dhammacakkappavattana-eng.tex}
 
 \clearpage
 
-\input{./manuscript/tex/recitations/cardinal-suttas/anattalakkhana.tex}
+\input{./tex/recitations/cardinal-suttas/anattalakkhana.tex}
 
 \clearpage
 
-\input{./manuscript/tex/recitations/cardinal-suttas/anattalakkhana-eng.tex}
+\input{./tex/recitations/cardinal-suttas/anattalakkhana-eng.tex}
 
 \clearpage
 
-\input{./manuscript/tex/recitations/cardinal-suttas/adittapariyaya.tex}
+\input{./tex/recitations/cardinal-suttas/adittapariyaya.tex}
 
 \clearpage
 
-\input{./manuscript/tex/recitations/cardinal-suttas/adittapariyaya-eng.tex}
+\input{./tex/recitations/cardinal-suttas/adittapariyaya-eng.tex}
 
 \clearpage
 
 #+end_src
 
 ** Dhammacakkappavattana-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
+#+begin_src latex :tangle ./tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
 
 \section{Dhammacakkappavattana-sutta}
 \label{dhammacakkappavattana-full}
@@ -8072,7 +8071,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-   Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādāna-kkhandhā dukkhā
+  Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādāna-kkhandhā dukkhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8226,7 +8225,7 @@ Atha kho bhagavā udānaṁ udānesi:
 #+end_src
 
 ** The Discourse on Setting in Motion the Wheel of Dhamma
-#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/dhammacakkappavattana-eng.tex
+#+begin_src latex :tangle ./tex/recitations/cardinal-suttas/dhammacakkappavattana-eng.tex
 
 \section{The Discourse on Setting in Motion the Wheel of Dhamma}
 \label{wheel-of-dhamma-full}
@@ -8412,7 +8411,7 @@ Atha kho bhagavā udānaṁ udānesi:
 #+end_src
 
 ** Anatta-lakkhaṇa-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/anattalakkhana.tex
+#+begin_src latex :tangle ./tex/recitations/cardinal-suttas/anattalakkhana.tex
 
 \section{Anatta-lakkhaṇa-sutta}
 \label{anatta-lakkhana}
@@ -8792,7 +8791,7 @@ Atha kho bhagavā udānaṁ udānesi:
 #+end_example
 
 ** The Discourse on the Characteristic of Not-Self
-#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/anattalakkhana-eng.tex
+#+begin_src latex :tangle ./tex/recitations/cardinal-suttas/anattalakkhana-eng.tex
 
 \section{The Discourse on the Characteristic of Not-Self}
 \label{characteristic-of-not-self}
@@ -8805,7 +8804,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{english-only-hang}
   On one occasion\makeatletter\hyperlink{endnote108-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote108-appendix}{\hyperlink{endnote108-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother
-\linkdest{endnote109-body}
+  \linkdest{endnote109-body}
   the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana \breathmark\ There he addressed the bhikkhus of the group of five: ``Bhikkhus'' – ``Venerable sir'' they replied. The Blessed One said this:\makeatletter\hyperlink{endnote109-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote109-appendix}{\hyperlink{endnote109-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: ``'Bhikkhus' – 'Venerable sir', they replied. The Blessed One said this:''}}}}}\makeatother
 \end{english-only-hang}
@@ -8848,24 +8847,24 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{english-only-leader}
   \anglebracketleft\ \hspace{-0.5mm}\textit{Bhikkhus what do you think:} \hspace{-0.5mm}\anglebracketright\
 \end{english-only-leader}
-  \begin{english-only-hangtogether}
-    ``Is form permanent or impermanent?''
-  \end{english-only-hangtogether}
-  \begin{english-only-hangtogether}
+\begin{english-only-hangtogether}
+  ``Is form permanent or impermanent?''
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   ``Impermanent venerable sir''
-  \end{english-only-hangtogether}
-  \begin{english-only-hangtogether}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   ``Is what is impermanent satisfactory or unsatisfactory?''
-  \end{english-only-hangtogether}
-  \begin{english-only-hangtogether}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   ``Unsatisfactory venerable sir''
-  \end{english-only-hangtogether}
-  \begin{english-only-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
-  \end{english-only-hangtogether}
-  \begin{english-only-hangtogether}
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
+  ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
+\end{english-only-hangtogether}
+\begin{english-only-hangtogether}
   ``No venerable sir''
-  \end{english-only-hangtogether}
+\end{english-only-hangtogether}
 
 \begin{english-only-nohang}
   \begin{english-only-hang}
@@ -8973,7 +8972,7 @@ Atha kho bhagavā udānaṁ udānesi:
 #+end_src
 
 ** Āditta-pariyāya-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya.tex
+#+begin_src latex :tangle ./tex/recitations/cardinal-suttas/adittapariyaya.tex
 
 \section{Āditta-pariyāya-sutta}
 \label{aditta-pariyaya}
@@ -8994,7 +8993,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
   Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhu-viññāṇaṁ ādittaṁ \breathmark\ cakkhu-samphasso āditto \breathmark\ yam'p'idaṁ cakkhu-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
-Kena ādittaṁ?
+  Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
@@ -9004,7 +9003,7 @@ Kena ādittaṁ?
   Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sota-viññāṇaṁ ādittaṁ \breathmark\ sota-samphasso āditto \breathmark\ yam'p'idaṁ sota-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
-Kena ādittaṁ?
+  Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
@@ -9014,7 +9013,7 @@ Kena ādittaṁ?
   Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghāna-viññāṇaṁ ādittaṁ \breathmark\ ghāna-samphasso āditto \breathmark\ yam'p'idaṁ ghāna-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
-Kena ādittaṁ?
+  Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
@@ -9024,7 +9023,7 @@ Kena ādittaṁ?
   Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhā-viññāṇaṁ ādittaṁ \breathmark\ jivhā-samphasso āditto \breathmark\ yam'p'idaṁ jivhā-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
-Kena ādittaṁ?
+  Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
@@ -9034,7 +9033,7 @@ Kena ādittaṁ?
   Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāya-viññāṇaṁ ādittaṁ \breathmark\ kāya-samphasso āditto \breathmark\ yam'p'idaṁ kāya-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
-Kena ādittaṁ?
+  Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
@@ -9044,7 +9043,7 @@ Kena ādittaṁ?
   Mano āditto \breathmark\ dhammā ādittā \breathmark\ mano-viññāṇaṁ ādittaṁ \breathmark\ mano-samphasso āditto \breathmark\ yam'p'idaṁ mano-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
 \end{pali-hang}
 \begin{pali-hangtogether}
-Kena ādittaṁ?
+  Kena ādittaṁ?
 \end{pali-hangtogether}
 \begin{pali-hangtogether}
   Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
@@ -9096,7 +9095,7 @@ Kena ādittaṁ?
 #+end_src
 
 ** The Fire Sermon
-#+begin_src latex :tangle ./manuscript/tex/recitations/cardinal-suttas/adittapariyaya-eng.tex
+#+begin_src latex :tangle ./tex/recitations/cardinal-suttas/adittapariyaya-eng.tex
 
 \section{The Fire Sermon}
 \label{fire-sermon}
@@ -9165,7 +9164,7 @@ Kena ādittaṁ?
   ``Burning with what?
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
- ``Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
+  ``Burning with the fire of lust \breathmark\ with the fire of hate \breathmark\ with the fire of delusion
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
   ``I say it is burning with birth \breathmark\ ageing and death \breathmark\ with sorrows \breathmark\ with lamentations \breathmark\ with pains \breathmark\ with displeasures \breathmark\ with despairs
@@ -9242,12 +9241,12 @@ Kena ādittaṁ?
 
 * Thanksgiving Recitations
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \ifdesktopversion
-\chapterOpeningPage{thanksgiving-recitations-compressed.jpg}
+  \chapterOpeningPage{thanksgiving-recitations-compressed.jpg}
 \else
-\chapterOpeningPage{thanksgiving-recitations.jpg}
+  \chapterOpeningPage{thanksgiving-recitations.jpg}
 \fi
 
 \chapter{Thanksgiving Recitations}
@@ -9257,7 +9256,7 @@ Kena ādittaṁ?
 #+end_src
 
 ** Just as Rivers
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \sectionPaliTitle{Yathā vāri-vahā pūrā}
 \section{Just as Rivers}
@@ -9461,7 +9460,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Yathā vāri-vahā pūrā
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \setsecheadstyle{\subsectionFmt}
 \section{Yathā vāri-vahā pūrā}
@@ -9508,7 +9507,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Ratanattayānubhāv'ādi-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \setsecheadstyle{\subsectionFmt}
 \section{Ratanattay'ānubhāv'ādi-gāthā}
@@ -9541,7 +9540,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Bhojana-dān'ānumodanā
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \section{Bhojana-dān'ānumodanā}
 \label{bhojana-dananumodana}
@@ -9617,7 +9616,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Culla-maṅgala-cakka-vāḷa
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \section{Culla-maṅgala-cakka-vāḷa}
 \label{culla-mangala-cakka-vala}
@@ -9644,7 +9643,7 @@ Sadā sotthī bhavantu te
   Bala-vaḍḍhako\\
   Vaṇṇa-vaḍḍhako\\
   Sukha-vaḍḍhako\\
-Hotu sabbadā\\
+  Hotu sabbadā\\
   Dukkha-roga-bhaya-verā\\
   Sokā sattu c'upaddavā\\
   Anekā antarāyā'pi\\
@@ -9666,7 +9665,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Aggappasāda-sutta-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \section{Aggappasāda-sutta-gāthā}
 \label{aggappasada-sutta-gatha}
@@ -9740,7 +9739,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Kāla-dāna-sutta-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \section{Kāla-dāna-sutta-gāthā}
 \label{kala-dana-sutta-gatha}
@@ -9759,21 +9758,21 @@ Hotu sabbadā\\
 \end{pali-hangtogether}
 
 \begin{english-verses}
-\begin{english-hang-firstline}
+  \begin{english-hang-firstline}
     Those with discernment, responsive, free from stinginess, give in the proper season.
-\end{english-hang-firstline}
-\begin{english-hangtogether-verses}
-  Having given in the proper season
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  With hearts inspired by the Noble Ones,
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  Straightened,
-\end{english-hangtogether-verses}
-\begin{english-hangtogether-verses}
-  Their offering bears an abundance.
-\end{english-hangtogether-verses}
+  \end{english-hang-firstline}
+  \begin{english-hangtogether-verses}
+    Having given in the proper season
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    With hearts inspired by the Noble Ones,
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    Straightened,
+  \end{english-hangtogether-verses}
+  \begin{english-hangtogether-verses}
+    Their offering bears an abundance.
+  \end{english-hangtogether-verses}
 \end{english-verses}
 
 \begin{pali-hang}
@@ -9813,7 +9812,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** So attha-laddho
-#+begin_src latex :tangle ./manuscript/tex/recitations/thanksgiving-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \section{So attha-laddho}
 \label{so-attha-laddho}
@@ -9868,12 +9867,12 @@ Hotu sabbadā\\
 
 * Protective Recitations
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \ifdesktopversion
-\chapterOpeningPage{protective-recitations-compressed.jpg}
+  \chapterOpeningPage{protective-recitations-compressed.jpg}
 \else
-\chapterOpeningPage{protective-recitations.jpg}
+  \chapterOpeningPage{protective-recitations.jpg}
 \fi
 
 \chapter{Protective Recitations}
@@ -9883,7 +9882,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Devā-ārādhanā
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Devā-ārādhanā}
 \label{deva-aradhana}
@@ -9931,7 +9930,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Pubba-bhāga-nama-kāra-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho-protective}
@@ -9950,7 +9949,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Saraṇa-gamana-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Saraṇa-gamana-pāṭho}
 \label{sarana-gamana-patho}
@@ -9996,14 +9995,14 @@ Hotu sabbadā\\
 #+end_src
 
 ** Nama-kāra-siddhi-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Nama-kāra-siddhi-gāthā}
 \label{nama-kara-siddhi-gatha}
 
 
 \begin{pali-hangtogether}
- \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā \hspace{-0.5mm}\anglebracketright\  moha-malāpakaṭṭho\\
+  \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā \hspace{-0.5mm}\anglebracketright\  moha-malāpakaṭṭho\\
   Sāmaṁ va buddho sugato vimutto\\
   Mārassa pāsā vinimocayanto\\
   Pāpesi khemaṁ janataṁ vineyyaṁ\\
@@ -10074,7 +10073,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Namo-kāra-aṭṭhaka
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Namo-kāra-aṭṭhaka}
 \label{namo-kara-atthaka}
@@ -10137,7 +10136,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Maṅgala-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Maṅgala-sutta}
 \label{mangala-sutta}
@@ -10323,7 +10322,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Ratana-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Ratana-sutta}
 \label{ratana-sutta}
@@ -10614,7 +10613,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Karaṇīya-metta-sutta
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Karaṇīya-metta-sutta}
 \label{karaniya-metta-sutta}
@@ -10764,7 +10763,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Khandha-parittaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Khandha-parittaṁ}
 \label{khandha-parittam}
@@ -10863,7 +10862,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Buddha-dhamma-saṅgha-guṇā
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Buddha-dhamma-saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
@@ -10943,7 +10942,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Yaṅ kiñci ratanaṁ loke
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Yaṅ kiñci ratanaṁ loke}
 \label{yan-kinci-ratanam'loke}
@@ -11052,7 +11051,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Bojjh'aṅga-parittaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Bojjh'aṅga-parittaṁ}
 \label{bojjhana-parittam}
@@ -11228,7 +11227,7 @@ Hotu sabbadā\\
 #+end_export
 
 ** Abhaya-parittaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Abhaya-parittaṁ}
 \label{abhaya-parittam}
@@ -11280,7 +11279,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Devatā-uyyojana-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Devatā-uyyojana-gāthā}
 \label{devata-uyyojana-gatha}
@@ -11353,7 +11352,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Jaya-maṅgala-aṭṭha-gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Jaya-maṅgala-aṭṭha-gāthā}
 \label{jaya-mangala-attha-gatha}
@@ -11361,7 +11360,7 @@ Hotu sabbadā\\
 \begin{pali-hangtogether}
   \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\ sahassam'abhinimmita sāvudhan'taṁ\\
   Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
-\linkdest{endnote129-body}
+  \linkdest{endnote129-body}
   Dān'ādi-dhamma-vidhinā jitavā\makeatletter\hyperlink{endnote129-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote129-appendix}{\hyperlink{endnote129-body}{Here and in all subsequent verses we find the word ``\textit{jitavā}''. The standard spelling would be ``\textit{jitvā}'' (abs. of \textit{jināti}; having conquered). In contrast ``\textit{jitavā}'' is a transliteration based on Thai spelling and pronunciation of Pāli, which has a tendency to insert the letter ``a'' between two consonants such as -\textit{tvā}, thus making it into -\textit{tavā}. It is by spelling anomalies like this, that Pāli scholars can determine the place of origin and age of certain Pāli texts.}}}}}\makeatother
   mun'indo\\
@@ -11498,7 +11497,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Jaya-parittaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Jaya-parittaṁ}
 \label{jaya-parittam}
@@ -11590,7 +11589,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Bhavatu-sabba-maṅgalaṁ
-#+begin_src latex :tangle ./manuscript/tex/recitations/protective-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-sabba-mangalam'protective}
@@ -11645,12 +11644,12 @@ Hotu sabbadā\\
 
 * Funeral Recitations
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \ifdesktopversion
-\chapterOpeningPage{funeral-recitations-compressed.jpg}
+  \chapterOpeningPage{funeral-recitations-compressed.jpg}
 \else
-\chapterOpeningPage{funeral-recitations.jpg}
+  \chapterOpeningPage{funeral-recitations.jpg}
 \fi
 
 \chapter{Funeral Recitations}
@@ -11660,7 +11659,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Pubba-bhāga-nama-kāra-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho-funeral}
@@ -11679,7 +11678,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Dhamma-saṅgaṇī-mātikā
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \section{Dhamma-saṅgaṇī-mātikā}
 \label{dhamma-sangani-matika}
@@ -11953,7 +11952,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Vipassanā-bhūmi-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
@@ -12143,7 +12142,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Paṭṭhāna-mātikā-pāṭho
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \section{Paṭṭhāna-mātikā-pāṭho}
 \label{patthana-matika-patho}
@@ -12161,7 +12160,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Adāsi-me ādi gāthā
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \section{Adāsi-me ādi gāthā}
 \label{adasi-me-adi-gatha}
@@ -12227,7 +12226,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Paṁsu-kūla for the Dead
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \section{Paṁsu-kūla for the Dead}
 \label{pamsu-kula-dead}
@@ -12241,7 +12240,7 @@ Hotu sabbadā\\
 
 \begin{english-verses}
   Indeed, conditioned things cannot last\\
-\linkdest{endnote132-body}
+  \linkdest{endnote132-body}
   Their nature is to rise and cease;\makeatletter\hyperlink{endnote132-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote132-appendix}{\hyperlink{endnote132-body}{WPN: ``Their nature is to rise and fall''}}}}}\makeatother\\
   Having arisen things must cease;\\
@@ -12271,7 +12270,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Paṁsu-kūla for the Living
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \section{Paṁsu-kūla for the Living}
 \label{pamsu-kula-living}
@@ -12296,7 +12295,7 @@ Hotu sabbadā\\
 
 ** Bhavatu-sabba-maṅgalaṁ
 
-#+begin_src latex :tangle ./manuscript/tex/recitations/funeral-recitations.tex
+#+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-funeral}
 
@@ -12350,12 +12349,12 @@ Hotu sabbadā\\
 
 * Sharing of Merits
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
+#+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \ifdesktopversion
-\chapterOpeningPage{sharing-of-merits-compressed.jpg}
+  \chapterOpeningPage{sharing-of-merits-compressed.jpg}
 \else
-\chapterOpeningPage{sharing-of-merits.jpg}
+  \chapterOpeningPage{sharing-of-merits.jpg}
 \fi
 
 \chapter{Sharing of Merits}
@@ -12363,7 +12362,7 @@ Hotu sabbadā\\
 #+end_src
 
 ** Sharing and Aspirations
-#+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
+#+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \begingroup
 \setsechook{%
@@ -12458,7 +12457,7 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
 #+end_src
 
 ** Sharing of All Merits
-#+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
+#+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \sectionPaliTitle{Sabba-patti-dāna}
 \section{Sharing of All Merits}
@@ -12527,7 +12526,7 @@ Khema-ppadañ'ca pappontu tesāsā sijjhataṁ subhā
 #+end_src
 
 ** Sharing of Merits with the Departed
-#+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
+#+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \sectionPaliTitle{Peta-patti-dāna}
 \section{Sharing of Merits with the Departed}
@@ -12540,9 +12539,9 @@ Khema-ppadañ'ca pappontu tesāsā sijjhataṁ subhā
 \vspace{-0.99em}
 
 \begin{pali-hang}
-Sukhitā hontu ñātayo\\
-Idaṁ no ñātinaṁ hotu sukhitā hontu ñātayo\\
-Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
+  Sukhitā hontu ñātayo\\
+  Idaṁ no ñātinaṁ hotu sukhitā hontu ñātayo\\
+  Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 \end{pali-hang}
 
 \begin{english-verses}
@@ -12558,7 +12557,7 @@ Idaṁ vo ñātinaṁ hotu sukhitā hontu ñātayo
 #+end_src
 
 ** Sharing of Merits with the Devas
-#+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
+#+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \sectionPaliTitle{Devata-patti-dāna}
 \section{Sharing of Merits with the Devas}
@@ -12614,7 +12613,7 @@ Sabba-sampatti-siddhiyā
 #+end_src
 
 ** The Highest Honour and Aspirations
-#+begin_src latex :tangle ./manuscript/tex/recitations/sharing-of-merits.tex
+#+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \sectionPaliTitle{Paramāya pūjāyañ'ca paṇidhiñ'ca}
 \section{The Highest Honour and Aspirations}
@@ -12751,12 +12750,12 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 * Appendix
 ** Cover/Title
-#+begin_src latex :tangle ./manuscript/tex/appendix.tex
+#+begin_src latex :tangle ./tex/appendix.tex
 
 \ifdesktopversion
-\chapterOpeningPage{appendix-compressed.jpg}
+  \chapterOpeningPage{appendix-compressed.jpg}
 \else
-\chapterOpeningPage{appendix.jpg}
+  \chapterOpeningPage{appendix.jpg}
 \fi
 
 \addtocontents{toc}{\protect\clearpage}
@@ -12768,7 +12767,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 ** Undertaking the Refuges
 *** Undertaking the Three Refuges
-#+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
+#+begin_src latex :tangle ./tex/refuge-trainings.tex
 
 \section{The Refuges and Trainings}
 
@@ -12837,7 +12836,7 @@ Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 #+end_src
 
 *** Undertaking the Five Trainings
-#+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
+#+begin_src latex :tangle ./tex/refuge-trainings.tex
 
 \begin{center}
   \textbf{\textsc{Undertaking the Five Trainings}}
@@ -12880,7 +12879,7 @@ Musāvādā veramaṇi-sikkhāpadaṁ samādiyāmi
 
 \begin{english-hang}
   I undertake the training to refrain from consuming intoxicating\\
-\linkdest{endnote140-body}
+  \linkdest{endnote140-body}
   drink and drugs that lead to carelessness.\makeatletter\hyperlink{endnote140-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote140-appendix}{\hyperlink{endnote140-body}{WPN: ``drugs which lead to carelessness''}}}}}\makeatother
 \end{english-hang}
@@ -12909,7 +12908,7 @@ Sādhu sādhu sādhu
 #+end_src
 
 *** Undertaking the Eight Trainings
-#+begin_src latex :tangle ./manuscript/tex/refuge-trainings.tex
+#+begin_src latex :tangle ./tex/refuge-trainings.tex
 
 \begin{center}
   \textbf{\textsc{Undertaking the Eight Trainings}}
@@ -12993,7 +12992,7 @@ Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}
   have virtue as a vehicle for happiness,\\
   have virtue as a vehicle for wealth,\\
   have virtue as a vehicle for liberation.\\
-\linkdest{endnote144-body}
+  \linkdest{endnote144-body}
   Therefore let virtue be purified.\makeatletter\hyperlink{endnote144-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote144-appendix}{\hyperlink{endnote144-body}{WPN: ``These are the Eight Precepts; Virtue is the source of happiness, Virtue is the source of true wealth, Virtue is the source of peacefulness. Therefore let virtue be purified''.}}}}}\makeatother
 \end{english-verses}
@@ -13013,7 +13012,7 @@ Sādhu sādhu sādhu
 #+end_src
 
 ** Pāli Phonetics and Pronunciation
-#+begin_src latex :tangle ./manuscript/tex/phonetics-pronunciation.tex
+#+begin_src latex :tangle ./tex/phonetics-pronunciation.tex
 
 \section{Pāli Phonetics and Pronunciation}
 \label{phonetics}
@@ -13110,7 +13109,7 @@ Sādhu sādhu sādhu
 #+end_src
 
 ** Chanting Leader Guidelines
-#+begin_src latex :tangle ./manuscript/tex/guidelines.tex
+#+begin_src latex :tangle ./tex/guidelines.tex
 
 \section{Chanting Leader Guidelines}
 
@@ -13178,54 +13177,54 @@ The following points should be considered:
 
 #+end_src
 * Copyright Details
-#+begin_src latex :tangle ./manuscript/tex/copyright-details.tex
+#+begin_src latex :tangle ./tex/copyright-details.tex
 
 \clearpage
 \thispagestyle{plain}
 
 {%
 
-\fontsize{11}{17}\selectfont%
+  \fontsize{11}{17}\selectfont%
 
-\setlength{\parindent}{0pt}%
-\raggedright\label{copyright-details}%
-\setlength{\parskip}{4.5pt}%
+  \setlength{\parindent}{0pt}%
+  \raggedright\label{copyright-details}%
+  \setlength{\parskip}{4.5pt}%
 
-{\centering
+  {\centering
 
-{\fontsize{25}{17}\selectfont \ccbyncnd}
+    {\fontsize{25}{17}\selectfont \ccbyncnd}
 
-\vspace{0.5cm}
+    \vspace{0.5cm}
 
-This work is licensed under a Creative Commons\\
-Attribution-NonCommercial-NoDerivatives 4.0 International~License.\\
-\href{https://creativecommons.org/licenses/by-nc-nd/4.0/}{https://creativecommons.org/licenses/by-nc-nd/4.0/}
+    This work is licensed under a Creative Commons\\
+    Attribution-NonCommercial-NoDerivatives 4.0 International~License.\\
+    \href{https://creativecommons.org/licenses/by-nc-nd/4.0/}{https://creativecommons.org/licenses/by-nc-nd/4.0/}
 
-\vspace{0.5cm}
+    \vspace{0.5cm}
 
-}
+  }
 
-You are free to:
+  You are free to:
 
-\begin{packeditemize}
-  \item \textbf{Share} — copy and redistribute the material in any medium or format.
-\end{packeditemize}
+  \begin{packeditemize}
+    \item \textbf{Share} — copy and redistribute the material in any medium or format.
+  \end{packeditemize}
 
-The licensor cannot revoke these freedoms as long as you follow the license terms listed below:
+  The licensor cannot revoke these freedoms as long as you follow the license terms listed below:
 
-\begin{packeditemize}
-  \item \textbf{Attribution} — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-  \item \textbf{NonCommercial} — You may not use the material for commercial purposes.
-  \item \textbf{NoDerivatives} — If you remix, transform, or build upon the material, you may not distribute the modified material.
-\end{packeditemize}
+  \begin{packeditemize}
+    \item \textbf{Attribution} — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+    \item \textbf{NonCommercial} — You may not use the material for commercial purposes.
+    \item \textbf{NoDerivatives} — If you remix, transform, or build upon the material, you may not distribute the modified material.
+  \end{packeditemize}
 
-\vspace{0.5cm}
+  \vspace{0.5cm}
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+  No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+  You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+  No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 }
 
