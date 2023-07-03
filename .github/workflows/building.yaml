@@ -15,5 +15,5 @@ jobs:
     steps:
       - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
         with: {}
-      - name: Install xmllint
+      - name: install curl
         run: apt-get install curl
