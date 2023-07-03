@@ -1,0 +1,9 @@
+.bottomnav {
+	position: relative;
+	bottom: 5px;
+	font-size: 1.2em;
+	font-variant: small-caps;
+	text-align: center;
+	text-decoration: none;
+	padding-top: 50px;
+}
