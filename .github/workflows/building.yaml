@@ -14,6 +14,6 @@ jobs:
       contents: write
     steps:
       - name: install curl
-        run: apt-get install curl
+        run: apt update && apt-get install curl -y
       - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
         with: {}
