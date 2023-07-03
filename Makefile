@@ -131,7 +131,7 @@ pdfrequirements:
 epub: $(EPUBFILE)
 $(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES)
 	@echo "Building EPUB ebook..."
-	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' manuscript/html/OEBPS/Text/copyright.xhtml
+	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' epub/html/OEBPS/Text/copyright.xhtml
 	@rm -f "$(EPUBFILE)"
 	@cd "$(HTMLSOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .  # FIXME *.tex
 
@@ -262,7 +262,7 @@ editwatchcurrent: $(CURRENTEPUB)
 
 checkcurrent: $(CURRENTEPUB)
 	@clear 
-	@epubcheck manuscript/current-recitations.epub
+	@epubcheck epub/current-recitations.epub
 
 
 #-----------------------------------------------------------------------------------------#
@@ -270,7 +270,7 @@ checkcurrent: $(CURRENTEPUB)
 
 current:
 	@echo "Archiving html and renaming to epub..."
-	@cd ./manuscript && zip -r html.zip html && mv html.zip current-recitations.epub
+	@cd ./epub && zip -r html.zip html && mv html.zip current-recitations.epub
 	@echo "EPUB made and ready for editing..."
 
 
