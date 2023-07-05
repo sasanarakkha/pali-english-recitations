@@ -17,7 +17,7 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
 BUILDDIR      := ./build/
 RELEASENAME   := "SBS_Pāli-English_Recitations"
-CURRENTEPUB   := ./html/current-recitations.epub
+CURRENTEPUB   := ./epub/current-recitations.epub
 HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
 PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
