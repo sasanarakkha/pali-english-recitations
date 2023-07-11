@@ -6255,7 +6255,7 @@ Idha bhikkhave bhikkhuno
 \end{pali-hang}
 
 \begin{english-hang}
-  Maintains bodily \breathmark\ verbal \breathmark\ and mental acts of loving-kindness
+  Maintains bodily verbal and mental acts of loving-kindness
 \end{english-hang}
 
 Sabrahmacārīsu āvi c'eva raho ca
