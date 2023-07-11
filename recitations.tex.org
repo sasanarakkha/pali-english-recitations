@@ -4981,7 +4981,7 @@ Citta-saṅkhāra-paṭisaṁvedī assasissāmī'ti sikkhati
   He trains thus:\\
   \linkdest{endnote69-body}
   `I shall breathe in experiencing the mental formation'\makeatletter\hyperlink{endnote69-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote69-appendix}{\hyperlink{endnote69-body}{WPN: ``I shall breathe in experiencing the mental formations''. \textit{Cittasaṅkhāraṁ} is probably meant to be singular, not plural. This is not clear when looking at compounds, however, considering that the subsequent practice explicitly uses mental formation in ``singular \textit{cittasaṅkhāraṁ}'', this suggests that it is probably used in the same way here.}}}}}\makeatother
+        \hypertarget{endnote69-appendix}{\hyperlink{endnote69-body}{WPN: ``I shall breathe in experiencing the mental formation''. \textit{Cittasaṅkhāraṁ} is probably meant to be singular, not plural. This is not clear when looking at compounds, however, considering that the subsequent practice explicitly uses mental formation in ``singular \textit{cittasaṅkhāraṁ}'', this suggests that it is probably used in the same way here.}}}}}\makeatother
 \end{english}
 
 Citta-saṅkhāra-paṭisaṁvedī passasissāmī'ti sikkhati
@@ -4997,7 +4997,7 @@ Passambhayaṁ citta-saṅkhāraṁ assasissāmī'ti sikkhati
   He trains thus:\\
   \linkdest{endnote70-body}
   `I shall breathe in tranquillizing the mental formation'\makeatletter\hyperlink{endnote70-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote70-appendix}{\hyperlink{endnote70-body}{WPN: ``I shall breathe in tranquillising the mental formations''. \textit{Cittasaṅkhāraṁ} is singular, not plural.}}}}}\makeatother
+        \hypertarget{endnote70-appendix}{\hyperlink{endnote70-body}{WPN: ``I shall breathe in tranquillising the mental formation''. \textit{Cittasaṅkhāraṁ} is singular, not plural.}}}}}\makeatother
 \end{english}
 
 Passambhayaṁ citta-saṅkhāraṁ passasissāmī'ti sikkhati
