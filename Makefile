@@ -131,7 +131,7 @@ $(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES)
 	@echo "Building EPUB ebook..."
 	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' epub/html/OEBPS/Text/copyright.xhtml
 	@rm -f "$(EPUBFILE)"
-	@cd "$(HTMLSOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .
+	@cd "$(HTMLSOURCE)" && zip --exclude '*.epub' -Xr9D "../$(EPUBFILE)" mimetype .
 
 
 #-----------------------------------------------------------------------------------------#
