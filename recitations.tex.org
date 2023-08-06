@@ -9351,7 +9351,7 @@ Sukhī dīgh'āyuko bhava
   May you be happy and live long
 \end{english}
 
-\suttaRef{[Dhs A]}
+\suttaRef{[Dhp A]}
 
 Abhivādana-sīlissa
 
@@ -9485,7 +9485,7 @@ Sadā sotthī bhavantu te
   Sukhī dīgh'āyuko bhava
 \end{pali-hangtogether}
 
-\suttaRef{[Dhs A]}
+\suttaRef{[Dhp A]}
 
 \begin{pali-hang}
   Abhivādana-sīlissa\\
