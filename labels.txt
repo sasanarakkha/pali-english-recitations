@@ -213,7 +213,7 @@ Khandha-parittaṁ
 Buddha-Dhamma-Saṅgha-guṇā
 \label{buddha-dhamma-sangha-guna}
 
-Yaṅ kiñci ratanaṁ loke
+Yaṅ'kiñci ratanaṁ loke
 \label{yan-kinci-ratanam-loke}
 
 Bojjh'aṅga-parittaṁ

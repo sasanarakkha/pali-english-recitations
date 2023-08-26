@@ -91,7 +91,7 @@
   - [[#karaṇīya-metta-sutta][Karaṇīya-metta-sutta]]
   - [[#khandha-parittaṁ][Khandha-parittaṁ]]
   - [[#buddha-dhamma-saṅgha-guṇā][Buddha-dhamma-saṅgha-guṇā]]
-  - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ kiñci ratanaṁ loke]]
+  - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ'kiñci ratanaṁ loke]]
   - [[#bojjhaṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
   - [[#abhaya-parittaṁ][Abhaya-parittaṁ]]
   - [[#devatā-uyyojana-gāthā][Devatā-uyyojana-gāthā]]
@@ -3890,7 +3890,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 ** Requisites for Awakening
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Bodhipakkihya-dhammā}
+\sectionPaliTitle{Bodhipakkhiya-dhammā}
 \section{Requisites for Awakening}
 \label{requisites-for-awakening}
 
@@ -7118,7 +7118,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 ** The Four Requisites
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Cattaro parrikhārā}
+\sectionPaliTitle{Cattāro parikkhārā}
 \section{The Four Requisites}
 \label{four-requisites}
 
@@ -8151,7 +8151,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evan'tiparivaṭṭaṁ dvādasākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddham ahosi \breathmark\ ath'āham bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
+  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evan'tiparivaṭṭaṁ dvādasākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi \breathmark\ ath'āhaṁ bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 \end{pali-hang}
 
 Ñāṇañ'ca pana me dassanaṁ udapādi
@@ -8195,7 +8195,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tusitānaṁ devānaṁ saddaṁ sutvā \breathmark\ Nimmānaratī devā saddamanussavesum...
+  Tusitānaṁ devānaṁ saddaṁ sutvā \breathmark\ Nimmānaratī devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8455,7 +8455,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
+  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
@@ -8645,7 +8645,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hangtogether}
 
 \begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇam ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
+  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
 \end{pali-hang}
 \begin{pali-hangtogether}
   Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
@@ -9578,7 +9578,7 @@ Sadā sotthī bhavantu te
   Te atthaladdhā sukhitā\\
   Virūḷhā buddhasāsane\\
   Arogā sukhitā hotha\\
-  Saha sabbehi ñātibhī
+  Saha sabbehi ñātibhi
 \end{verses}
 
 \begin{english-verses}
@@ -10009,7 +10009,7 @@ Sadā sotthī bhavantu te
   Buddhaṁ varan'taṁ sirasā namāmi\\
   Lokassa nāthañ'ca vināyakañ'ca\\
   Tan'tejasā te jaya-siddhi hotu\\
-  Sabb'antarāyā ca vināsamentu
+  Sabb'antarāyā ca vināsam'entu
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -10032,7 +10032,7 @@ Sadā sotthī bhavantu te
   Dhammaṁ varan'taṁ sirasā namāmi\\
   Moha-ppadālaṁ upasanta-dāhaṁ\\
   Tan'tejasā te jaya-siddhi hotu\\
-  Sabb'antarāyā ca vināsamentu
+  Sabb'antarāyā ca vināsam'entu
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -10054,7 +10054,7 @@ Sadā sotthī bhavantu te
   Saṅghaṁ varan'taṁ sirasā namāmi\\
   Buddh'ānubuddhaṁ sama-sīla-diṭṭhiṁ\\
   Tan'tejasā te jaya-siddhi hotu\\
-  Sabb'antarāyā ca vināsamentu
+  Sabb'antarāyā ca vināsam'entu
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -10356,7 +10356,7 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yaṅ kiñci vittaṁ idha vā huraṁ vā\\
+  Yaṅ'kiñci vittaṁ idha vā huraṁ vā\\
   Saggesu vā yaṁ ratanaṁ paṇītaṁ\\
   Na no samaṁ atthi tathāgatena\\
   Idam'pi buddhe ratanaṁ paṇītaṁ\\
@@ -10552,7 +10552,7 @@ Sadā sotthī bhavantu te
   Khīṇaṁ purāṇaṁ navaṁ n'atthi sambhavaṁ\\
   Viratta-citt'āyatike bhavasmiṁ\\
   Te khīṇa-bījā aviruḷhi-chandā\\
-  Nibbanti dhīrā yathā'yam padīpo\\
+  Nibbanti dhīrā yathā'yaṁ padīpo\\
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
@@ -10941,14 +10941,14 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Yaṅ kiñci ratanaṁ loke
+** Yaṅ'kiñci ratanaṁ loke
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\section{Yaṅ kiñci ratanaṁ loke}
+\section{Yaṅ'kiñci ratanaṁ loke}
 \label{yan-kinci-ratanam'loke}
 
 \begin{pali-hangtogether}
-  \anglebracketleft\ \hspace{-0.5mm}Yaṅ kiñci ratanaṁ loke \hspace{-0.5mm}\anglebracketright\ \\
+  \anglebracketleft\ \hspace{-0.5mm}Yaṅ'kiñci ratanaṁ loke \hspace{-0.5mm}\anglebracketright\ \\
   Vijjati vividhaṁ puthu\\
   Ratanaṁ buddha-samaṁ n'atthi\\
   Tasmā sotthī bhavantu te
@@ -10962,7 +10962,7 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yaṅ kiñci ratanaṁ loke\\
+  Yaṅ'kiñci ratanaṁ loke\\
   Vijjati vividhaṁ puthu\\
   Ratanaṁ dhamma-samaṁ n'atthi\\
   Tasmā sotthī bhavantu te
@@ -10976,7 +10976,7 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \begin{pali-hang-continued}
-  Yaṅ kiñci ratanaṁ loke\\
+  Yaṅ'kiñci ratanaṁ loke\\
   Vijjati vividhaṁ puthu\\
   Ratanaṁ saṅgha-samaṁ n'atthi\\
   Tasmā sotthī bhavantu te
@@ -11236,7 +11236,7 @@ Sadā sotthī bhavantu te
   \anglebracketleft\ \hspace{-0.5mm}Yan'dunnimittaṁ \hspace{-0.5mm}\anglebracketright\ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
-  Buddh'ānubhāvena vināsamentu
+  Buddh'ānubhāvena vināsam'entu
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -11250,7 +11250,7 @@ Sadā sotthī bhavantu te
   Yan'dunnimittaṁ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
-  Dhamm'ānubhāvena vināsamentu
+  Dhamm'ānubhāvena vināsam'entu
 \end{pali-hang-continued}
 
 \begin{english-verses}
@@ -11264,7 +11264,7 @@ Sadā sotthī bhavantu te
   Yan'dunnimittaṁ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
-  Saṅgh'ānubhāvena vināsamentu
+  Saṅgh'ānubhāvena vināsam'entu
 \end{pali-hang-continued}
 
 \begin{english-verses}
