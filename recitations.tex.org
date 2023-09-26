@@ -5277,7 +5277,7 @@ Tattha katamā avijjā
 \end{pali-hang}
 
 \begin{english-hang-verses}
-  Not knowing suffering \breathmark\ not knowing the origin of suffering \breathmark\ not knowing the cessation of suffering \breathmark\ not knowing the way of practice \breathmark\ leading to the cessation of suffering
+  Not knowing suffering \breathmark\ not knowing the origin of suffering \breathmark\ not knowing the cessation of suffering \breathmark\ not knowing the way of practice leading to the cessation of suffering
 \end{english-hang-verses}
 
 Ayaṁ vuccati avijjā
@@ -5678,7 +5678,7 @@ Idaṁ vuccati maraṇaṁ
 Iti ayañ'ca jarā idañ'ca maraṇaṁ
 
 \begin{english}
-  Thus are this ageing and this death
+  Thus are ageing and death
 \end{english}
 
 Idaṁ vuccati jāti-paccayā jarā-maraṇaṁ
@@ -8860,7 +8860,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Unsatisfactory venerable sir''
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
-  ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
+  ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
 \end{english-only-hangtogether}
 \begin{english-only-hangtogether}
   ``No venerable sir''
@@ -8870,11 +8870,11 @@ Atha kho bhagavā udānaṁ udānesi:
   \begin{english-only-hang}
     Bhikkhus what do you think: ``Is feeling permanent or impermanent?''
   \end{english-only-hang}
-  ``Impermanent sir''\\
+  ``Impermanent venerable sir''\\
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?''
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?''
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8887,7 +8887,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8900,7 +8900,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'''
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'''
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -8913,7 +8913,7 @@ Atha kho bhagavā udānaṁ udānesi:
   ``Is what is impermanent satisfactory or unsatisfactory?''\\
   ``Unsatisfactory venerable sir''\\
   \begin{english-hangtogether}
-    ``Is what is impermanent unsatisfactory and subject to change \breathmark\ fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
+    ``Is what is impermanent unsatisfactory and subject to change fit to be regarded thus: `This is mine \breathmark\ this I am \breathmark\ this is my self?'
   \end{english-hangtogether}
   ``No venerable sir''
 \end{english-only-nohang}
@@ -10142,7 +10142,7 @@ Sadā sotthī bhavantu te
 \label{mangala-sutta}
 
 \begin{pali-hangtogether}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ: \hspace{-0.5mm}\anglebracketright\   Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
+  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ\hspace{-0.5mm}\anglebracketright\ ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 \end{pali-hangtogether}
 
 \begin{english-verses}
@@ -10164,7 +10164,7 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Asevanā ca bālānaṁ \hspace{-0.5mm}\anglebracketright\ \\
+  Asevanā ca bālānaṁ\\
   Paṇḍitānañ'ca sevanā\\
   Pūjā ca pūjanīyānaṁ\\
   Etaṁ maṅgalam'uttamaṁ
