@@ -37,14 +37,11 @@ EBOOKVIEWER  := $(shell command -v ebook-viewer 2>&1)
 EBOOKCONVERT := $(shell command -v ebook-convert 2>&1)
 JAVA         := $(shell command -v java 2>&1)
 INOTIFYWAIT  := $(shell command -v inotifywait 2>&1)
-MAKECURRENT  := $(shell command -v cd ./epub && zip -r html.zip html && mv html.zip current-recitations.epub)
 
 
 EPUBCHECK_VERSION = 4.2.6
 # https://github.com/IDPF/epubcheck/releases
 EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK_VERSION)/epubcheck-$(EPUBCHECK_VERSION).zip
-# http://www.amazon.com/gp/feature.html?docId=1000765211 -- KINDLEGEN CAN NO LONGER BE DOWNLOADED DIRECTLY FROM AMAZON
-# KINDLEGEN_URL = http://kindlegen.s3.amazonaws.com/kindlegen_linux_2.6_i386_v2_9.tar.gz
 
 
 HTMLSOURCEFILES := $(shell find $(HTMLSOURCE) 2> /dev/null | sort)
@@ -55,7 +52,7 @@ TODAY := $(shell date --iso-8601)
 
 #-----------------------------------------------------------------------------------------#
 
-.PHONY: all test clean
+.PHONY: all test clean epub
 
 all: pdf2x handbook epub mobi azw3
 
@@ -129,11 +126,12 @@ pdfrequirements:
 
 
 epub: $(EPUBFILE)
+
 $(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES)
 	@echo "Building EPUB ebook..."
 	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' epub/html/OEBPS/Text/copyright.xhtml
 	@rm -f "$(EPUBFILE)"
-	@cd "$(HTMLSOURCE)" && zip -Xr9D "../$(EPUBFILE)" mimetype .  # FIXME *.tex
+	@cd "$(HTMLSOURCE)" && zip --exclude '*.epub' -Xr9D "../$(EPUBFILE)" mimetype .
 
 
 #-----------------------------------------------------------------------------------------#
@@ -183,14 +181,6 @@ $(EPUBCHECK):
 	@rm -rf `dirname $(EPUBCHECK)`
 	@mv "epubcheck-$(EPUBCHECK_VERSION)" "`dirname $(EPUBCHECK)`"
 	@rm epubcheck.zip
-
-# Kindlegen can no longer downloaded directly from Amazon
-# $(KINDLEGEN):
-# 	@echo Downloading kindlegen...
-# 	@curl -o "kindlegen.tar.gz" -L "$(KINDLEGEN_URL)" --connect-timeout 30
-# 	@mkdir -p `dirname $(KINDLEGEN)`
-# 	@tar -zxf "kindlegen.tar.gz" -C `dirname $(KINDLEGEN)`
-# 	@rm "kindlegen.tar.gz"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -278,7 +268,6 @@ current:
 
 
 extractcurrent: $(CURRENTEPUB)
-
 	@echo "Extracting $(CURRENTEPUB) into $(HTMLSOURCE)"
 	@mkdir -p "$(HTMLSOURCE)"
 	@unzip -o "$(CURRENTEPUB)" -d "$(HTMLSOURCE)"
