@@ -7836,7 +7836,7 @@ Atthi imasmiṁ kāye
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ anicc'ānussati-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Sabbe saṅkhārā anicca
+Sabbe saṅkhārā aniccā
 
 \begin{english}
   All conditioned things are impermanent
@@ -8193,15 +8193,15 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tusitānaṁ devānaṁ saddaṁ sutvā \breathmark\ Nimmānaratī devā saddam'anussāvesuṁ...
+  Tusitānaṁ devānaṁ saddaṁ sutvā \breathmark\ nimmānaratī devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Nimmāna-ratīnaṁ devānaṁ saddaṁ sutvā \breathmark\ Paranimmitavasavattī devā saddam'anussāvesuṁ...
+  Nimmāna-ratīnaṁ devānaṁ saddaṁ sutvā \breathmark\ paranimmitavasavattī devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Para-nimmita-vasa-vattīnaṁ devānaṁ saddaṁ sutvā \breathmark\ Brahmakāyikā devā saddam'anussāvesuṁ:
+  Para-nimmita-vasa-vattīnaṁ devānaṁ saddaṁ sutvā \breathmark\ brahmakāyikā devā saddam'anussāvesuṁ:
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -10016,7 +10016,7 @@ Sadā sotthī bhavantu te
   Freed from the snares of Mortal Temptation,\\
   He caused tameable people to reach security.\\
   \begin{english-hangtogether-verses}
-    I pay homage with my head to that excellent Buddha, the protector \& mentor for the world,\\
+    I pay homage with my head to that excellent Buddha, the Protector \& mentor for the world,\\
   \end{english-hangtogether-verses}
   By the power of this, may you have triumph \& success,\\
   And may all your dangers be destroyed.
