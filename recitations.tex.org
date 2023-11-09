@@ -149,7 +149,7 @@
   {\Large\scshape Pāli-English Recitations}\\[2.5\baselineskip]
 
   % Dhamma quote
-  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\ \smallskip (AN 5.25)}\\[1.4\baselineskip]
+  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\ \smallskip (AN 5.26)}\\[1.4\baselineskip]
 }
 
 #+end_src
@@ -437,7 +437,7 @@ Since right view is the first of the eight path factors, it is of great importan
 \end{quote}
 
 \begin{quote}
-  ``In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage''. (AN 5.25)
+  ``In whatever way the bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated. This is the third basis of liberation, by means of which, if a bhikkhu dwells heedful, ardent, and resolute, his unliberated mind is liberated, his undestroyed taints are utterly destroyed, and he reaches the as-yet-unreached unsurpassed security from bondage''. (AN 5.26)
 \end{quote}
 
 \subsection*{Benefits for Rebirth}
@@ -3718,7 +3718,7 @@ Taṁ dhammaṁ suṇāti gahapati vā gahapati-putto vā aññatarasmiṁ vā k
 
 \suttaRef{[MN 27 / 38 / 51]}
 
-Sakkā nu kho bho gotama imasmim'pi dhamma-vinaye evam'eva anupubba-sikkhā anupubba-kiriyā anupubba-paṭipadā paññapetun''ti?
+``Sakkā nu kho bho gotama imasmim'pi dhamma-vinaye evam'eva anupubba-sikkhā anupubba-kiriyā anupubba-paṭipadā paññapetun''ti?
 
 Sakkā imasmim'pi dhamma-vinaye anupubba-sikkhā anupubba-kiriyā anupubba-paṭipadā paññapetuṁ. Tathāgato purisadammaṁ labhitvā paṭhamaṁ evaṁ vineti: `ehi tvaṁ bhikkhu sīlavā hohi pātimokkha-saṁvara-saṁvuto viharāhi ācāra-gocara-sampanno aṇumattesu vajjesu bhayadassāvī samādāya sikkhassu sikkhāpadesū'ti.
 
@@ -3726,7 +3726,7 @@ Sakkā imasmim'pi dhamma-vinaye anupubba-sikkhā anupubba-kiriyā anupubba-paṭ
 
 So evaṁ pabbajito samāno bhikkhūnaṁ sikkhā-sājīva-samāpanno pāṇ'ātipātaṁ pahāya pāṇ'ātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī day'āpanno sabba-pāṇa-bhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya adinn'ādānā paṭivirato hoti, dinn'ādāyī dinna-pāṭikaṅkhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
 
-Musāvādaṁ pahāya musāvādā paṭivirato hoti, saccavādī saccasandho theto paccayiko avisaṁvādako lokassa. Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya—iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samagg'ārāmo samagga-rato samagga-nandī samagga-karaṇiṁ vācaṁ bhāsitā hoti. Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā n'elā kaṇṇa-sukhā pemanīyā hadayaṅ'gamā porī bahujana-kantā bahujana-manāpā tathā-rūpiṁ vācaṁ bhāsitā hoti. Sampha-ppalāpaṁ pahāya samphappalāpā paṭivirato hoti, kāla-vādī bhūta-vādī attha-vādī dhamma-vādī vinaya-vādī nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ attha-saṁhitaṁ.
+Musāvādaṁ pahāya musāvādā paṭivirato hoti, saccavādī saccasandho theto paccayiko avisaṁvādako lokassa. Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya — iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samagg'ārāmo samagga-rato samagga-nandī samagga-karaṇiṁ vācaṁ bhāsitā hoti. Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā n'elā kaṇṇa-sukhā pemanīyā hadayaṅ'gamā porī bahujana-kantā bahujana-manāpā tathā-rūpiṁ vācaṁ bhāsitā hoti. Sampha-ppalāpaṁ pahāya samphappalāpā paṭivirato hoti, kāla-vādī bhūta-vādī attha-vādī dhamma-vādī vinaya-vādī nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ attha-saṁhitaṁ.
 
 So bījagāma-bhūtagāma-samārambhā paṭivirato hoti, ekabhattiko hoti ratt'ūparato virato vikāla-bhojanā, nacca-gīta-vādita-visūka-dassanā paṭivirato hoti, mālā­-gandha-vilepana­-dhāraṇa­-maṇḍana­-vibhūsana-ṭṭhānā paṭivirato hoti, uccāsayana-mahāsayanā paṭivirato hoti, jātarūpa-rajata-paṭiggahaṇā paṭivirato hoti, āmaka-dhañña-paṭiggahaṇā paṭivirato hoti, āmaka-maṁsa-paṭiggahaṇā paṭivirato hoti, itthi-kumārika-paṭiggahaṇā paṭivirato hoti, dāsidāsa-paṭiggahaṇā paṭivirato hoti, aj'eḷaka-paṭiggahaṇā paṭivirato hoti, kukkuṭa-sūkara-paṭiggahaṇā paṭivirato hoti, hatthi-gav'assa-vaḷava-paṭiggahaṇā paṭivirato hoti, khetta-vatthu-paṭiggahaṇā paṭivirato hoti. dūteyya-pahiṇa-gaman'ānuyogā paṭivirato hoti, kayavikkayā paṭivirato hoti, tulākūṭa-kaṁsakūṭa-mānakūṭā paṭivirato hoti, ukkoṭana-vañcana-nikati-sāciyogā paṭivirato hoti, chedana-­vadha-bandhana­-viparāmosa-ālopa-sahasākārā paṭivirato hoti.
 
@@ -3734,15 +3734,15 @@ So santuṭṭho hoti kāya-parihārikena cīvarena kucchi-parihārikena piṇ�
 
 \suttaRef{[MN 51]}
 
-Tam'enaṁ tathāgato uttariṁ vineti: `ehi tvaṁ bhikkhu indriyesu gutta-dvāro hohi, cakkhunā rūpaṁ disvā mā nimitta-ggāhī hohi m'ānubyañjana-ggāhī. Yatv'ādhikaraṇam'enaṁ cakkhu'ndriyaṁ asaṁvutaṁ viharantaṁ abhijjhā-domanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya paṭipajjāhi, rakkhāhi cakkhu'ndriyaṁ cakkhu'ndriye saṁvaraṁ āpajjāhi. Sotena saddaṁ sutvā. Ghānena gandhaṁ ghāyitvā. Jivhāya rasaṁ sāyitvā. Kāyena phoṭṭhabbaṁ phusitvā. Manasā dhammaṁ viññāya mā nimitta-ggāhī hohi m'ānubyañjana-ggāhī. Yatv'ādhikaraṇam'enaṁ man'indriyaṁ asaṁvutaṁ viharantaṁ abhijjhā-domanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya paṭipajjāhi, rakkhāhi man'indriyaṁ man'indriye saṁvaraṁ āpajjāhī'ti.
+Tam'enaṁ tathāgato uttariṁ vineti: ``ehi tvaṁ bhikkhu indriyesu gutta-dvāro hohi, cakkhunā rūpaṁ disvā mā nimitta-ggāhī hohi m'ānubyañjana-ggāhī. Yatv'ādhikaraṇam'enaṁ cakkhu'ndriyaṁ asaṁvutaṁ viharantaṁ abhijjhā-domanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya paṭipajjāhi, rakkhāhi cakkhu'ndriyaṁ cakkhu'ndriye saṁvaraṁ āpajjāhi. Sotena saddaṁ sutvā. Ghānena gandhaṁ ghāyitvā. Jivhāya rasaṁ sāyitvā. Kāyena phoṭṭhabbaṁ phusitvā. Manasā dhammaṁ viññāya mā nimitta-ggāhī hohi m'ānubyañjana-ggāhī. Yatv'ādhikaraṇam'enaṁ man'indriyaṁ asaṁvutaṁ viharantaṁ abhijjhā-domanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya paṭipajjāhi, rakkhāhi man'indriyaṁ man'indriye saṁvaraṁ āpajjāhī''ti.
 
-`Ehi tvaṁ bhikkhu bhojane mattaññū hohi. Paṭisaṅkhā yoniso āhāraṁ āhāreyyāsi—n'eva davāya na madāya na maṇḍanāya na vibhūsanāya yāva'd'eva imassa kāyassa ṭhitiyā yāpanāya vihiṁs'ūparatiyā brahmacariy'ānuggahāya—iti purāṇañ'ca vedanaṁ paṭihaṅkhāmi navañ'ca vedanaṁ na uppādessāmi yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti.
+``Ehi tvaṁ bhikkhu bhojane mattaññū hohi. Paṭisaṅkhā yoniso āhāraṁ āhāreyyāsi—n'eva davāya na madāya na maṇḍanāya na vibhūsanāya yāva'd'eva imassa kāyassa ṭhitiyā yāpanāya vihiṁs'ūparatiyā brahmacariy'ānuggahāya—iti purāṇañ'ca vedanaṁ paṭihaṅkhāmi navañ'ca vedanaṁ na uppādessāmi yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā''ti.
 
-`Ehi tvaṁ bhikkhu jāgariyaṁ anuyutto viharāhi, divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehi, rattiyā paṭhamaṁ yāmaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehi, rattiyā majjhimaṁ yāmaṁ dakkhiṇena passena sīhaseyyaṁ kappeyyāsi pāde pādaṁ accādhāya sato sampajāno uṭṭhāna-saññaṁ manasikaritvā, rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehī'ti.
+``Ehi tvaṁ bhikkhu jāgariyaṁ anuyutto viharāhi, divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehi, rattiyā paṭhamaṁ yāmaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehi, rattiyā majjhimaṁ yāmaṁ dakkhiṇena passena sīhaseyyaṁ kappeyyāsi pāde pādaṁ accādhāya sato sampajāno uṭṭhāna-saññaṁ manasikaritvā, rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhehī''ti.
 
-`Ehi tvaṁ bhikkhu sati-sampajaññena samannāgato hohi, abhikkante paṭikkante sampajāna-kārī, ālokite vilokite sampajāna-kārī, samiñjite pasārite sampajāna-kārī, saṅghāṭi-patta-cīvara-dhāraṇe sampajāna-kārī, asite pīte khāyite sāyite sampajāna-kārī, uccāra-passāva-kamme sampajāna-kārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajāna-kārī'ti.
+``Ehi tvaṁ bhikkhu sati-sampajaññena samannāgato hohi, abhikkante paṭikkante sampajāna-kārī, ālokite vilokite sampajāna-kārī, samiñjite pasārite sampajāna-kārī, saṅghāṭi-patta-cīvara-dhāraṇe sampajāna-kārī, asite pīte khāyite sāyite sampajāna-kārī, uccāra-passāva-kamme sampajāna-kārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajāna-kārī''ti.
 
-`Ehi tvaṁ bhikkhu vivittaṁ sen'āsanaṁ bhajāhi araññaṁ rukkha-mūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vana-patthaṁ abbhokāsaṁ palāla-puñjan'ti.
+``Ehi tvaṁ bhikkhu vivittaṁ sen'āsanaṁ bhajāhi araññaṁ rukkha-mūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vana-patthaṁ abbhokāsaṁ palāla-puñjan''ti.
 
 So pacchābhattaṁ piṇḍapāta-paṭikkanto nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So abhijjhaṁ loke pahāya vigat'ābhijjhena cetasā viharati abhijjhāya cittaṁ parisodheti, byāpāda-padosaṁ pahāya abyāpanna-citto viharati sabba-pāṇa-bhūta-hit'ānukampī byāpāda-padosā cittaṁ parisodheti, thina-middhaṁ pahāya vigata-thina-middho viharati āloka-saññī sato sampajāno thina-middhā cittaṁ parisodheti, uddhacca-kukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasanta-citto uddhacca-kukkuccā cittaṁ parisodheti, vicikicchaṁ pahāya tiṇṇa-vicikiccho viharati akathaṁkathī kusalesu dhammesu vicikicchāya cittaṁ parisodheti.
 
@@ -3754,9 +3754,11 @@ So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalī-karaṇe
 
 So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigat'ūpakkilese mudu-bhūte kammaniye ṭhite āneñjappatte pubbe-nivās'ānussati-ñāṇāya sattānaṁ cut'ūpapāta-ñāṇāya āsavānaṁ khaya-ñāṇāya cittaṁ abhininnāmeti.
 
-So `idaṁ dukkhan'ti yathā-bhūtaṁ pajānāti, `ayaṁ dukkha-samudayo'ti yathā-bhūtaṁ pajānāti, `ayaṁ dukkha-nirodho'ti yathā-bhūtaṁ pajānāti, `ayaṁ dukkha-nirodha-gāminī paṭipadā'ti yathā-bhūtaṁ pajānāti. `Ime āsavā'ti yathā-bhūtaṁ pajānāti, `ayaṁ āsava-samudayo'ti yathā-bhūtaṁ pajānāti, `ayaṁ āsava-nirodho'ti yathā-bhūtaṁ pajānāti, `ayaṁ āsava-nirodha-gāminī paṭipadā'ti yathā-bhūtaṁ pajānāti.
+So ``idaṁ dukkhan''ti yathā-bhūtaṁ pajānāti, ``ayaṁ dukkha-samudayo''ti yathā-bhūtaṁ pajānāti, ``ayaṁ dukkha-nirodho''ti yathā-bhūtaṁ pajānāti, ``ayaṁ dukkha-nirodha-gāminī paṭipadā''ti yathā-bhūtaṁ pajānāti.
 
-Tassa evaṁ jānato evaṁ passato kām'āsavā'pi cittaṁ vimuccati bhav'āsavā'pi cittaṁ vimuccati avijj'āsavā'pi cittaṁ vimuccati. Vimuttasmiṁ vimuttam'iti ñāṇaṁ hoti: `khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā'ti pajānātī'ti.
+``Ime āsavā''ti yathā-bhūtaṁ pajānāti, ``ayaṁ āsava-samudayo''ti yathā-bhūtaṁ pajānāti, ``ayaṁ āsava-nirodho''ti yathā-bhūtaṁ pajānāti, ``ayaṁ āsava-nirodha-gāminī paṭipadā''ti yathā-bhūtaṁ pajānāti.
+
+Tassa evaṁ jānato evaṁ passato kām'āsavā'pi cittaṁ vimuccati bhav'āsavā'pi cittaṁ vimuccati avijj'āsavā'pi cittaṁ vimuccati. Vimuttasmiṁ vimuttam'iti ñāṇaṁ hoti: ``khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā'ti pajānātī''ti.
 
 \suttaRef{[MN 39]}
 
@@ -3872,7 +3874,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \end{english-only-justify}
 
 \begin{english-only-justify}
-  ``When he knows and sees thus \breathmark\ his mind is liberated from the taint of sensual desire \breathmark\ from the taint of being \breathmark\ and from the taint of ignorance. When liberated there is knowledge that he is liberated. He understands: `Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is \mbox{done}~\breathmark\ there is nothing else to do for the sake of liberation''.'
+  ``When he knows and sees thus \breathmark\ his mind is liberated from the taint of sensual desire \breathmark\ from the taint of being \breathmark\ and from the taint of ignorance. When liberated there is knowledge that he is liberated. He understands: `Birth is exhausted \breathmark\ the holy life is fulfilled \breathmark\ what has to be done is \mbox{done}~\breathmark\ there is nothing else to do for the sake of liberation''.
 \end{english-only-justify}
 
 \suttaRef{[MN 39]}
@@ -5369,7 +5371,7 @@ Ayaṁ vuccati āneñj'ābhisaṅkhāro
   This is called `karmic formation of imperturbability'
 \end{english}
 
-Tattha katamo kāyasaṅkhāro
+Tattha katamo kāya-saṅkhāro
 
 \begin{english}
   Therein what is `bodily formation'?
@@ -5377,7 +5379,7 @@ Tattha katamo kāyasaṅkhāro
 
 \linkdest{endnote78-body}
 \begin{pali-hang}
-  Kāya-sañcetanā kāyasaṅkhāro vacī-sañcetanā vacī-saṅkhāro mano-sañcetanā citta-saṅkhāro\makeatletter\hyperlink{endnote78-appendix}\Hy@raisedlink{{\pagenote{%
+  Kāya-sañcetanā kāya-saṅkhāro vacī-sañcetanā vacī-saṅkhāro mano-sañcetanā citta-saṅkhāro\makeatletter\hyperlink{endnote78-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote78-appendix}{\hyperlink{endnote78-body}{Further explained in SN 12.25}}}}}\makeatother
 \end{pali-hang}
 
@@ -5911,7 +5913,7 @@ Subharatāya saṁvattanti no dubbharatāyā'ti
   To being easy to support \breathmark\ not to being difficult to support"
 \end{english}
 
-Ekaṁsena gotami dhāreyyāsi:
+Ek'aṁsena gotami dhāreyyāsi:
 
 \linkdest{endnote85-body}
 \begin{english}
@@ -5944,7 +5946,7 @@ Eso dhammo eso vinayo etaṁ satthu-sāsanan'ti
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ mahāpadesa-sutta-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Katame bhikkhave cattāro mahā-padesā
+Katame bhikkhave cattāro mahāpadesā
 
 \begin{english}
   What bhikkhus are the four great references?
@@ -6046,7 +6048,7 @@ Bahu-ssuto āgat'āgamo
   Who is learned \breathmark\ an heir to the heritage
 \end{english}
 
-Dhammadharo vinayadharo mātikādharo
+Dhamma-dharo vinaya-dharo mātikā-dharo
 
 \begin{english-hang}
   An expert on the Dhamma \breathmark\ an expert on the Vinaya \breathmark\ an expert on the outlines
@@ -6185,7 +6187,7 @@ Tassa ca therassa suggahitan'ti
   It has been well-learned by that elder
 \end{english}
 
-Ime kho bhikkhave cattāro mahā-padesā'ti
+Ime kho bhikkhave cattāro mahāpadesā'ti
 
 \begin{english}
   Bhikkhus these are the four great references
@@ -8039,7 +8041,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāma-sukhallik'ānuyogo hīno gammo pothujjaniko anariyo anattha-sañhito \breathmark\ yo c'āyaṁ atta-kilamath'ānuyogo dukkho anariyo anattha-sañhito.
+  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāma-sukhallik'ānuyogo hīno gammo pothujjaniko anariyo anattha-sañhito \breathmark\ yo c'āyaṁ atta-kilamath'ānuyogo dukkho anariyo anattha-sañhito
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8067,11 +8069,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ
-\end{pali-hang}
-
-\begin{pali-hang}
-  Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādāna-kkhandhā dukkhā
+  Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ \breathmark\ soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādāna-kkhandhā dukkhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8099,7 +8097,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkhaṁ ariyasaccanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Idaṁ dukkhaṁ ariyasaccan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8107,11 +8105,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkha-samudayo ariyasaccanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Idaṁ dukkha-samudayo ariyasaccan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8119,11 +8117,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-samudayo ariyasaccaṁ pahīnanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-samudayo ariyasaccaṁ pahīnan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkha-nirodho ariyasaccanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Idaṁ dukkha-nirodho ariyasaccan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8131,11 +8129,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-nirodho ariyasaccaṁ sacchikatanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-nirodho ariyasaccaṁ sacchikatan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Idaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8143,15 +8141,15 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ bhāvitanti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ bhāvitan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāvakīvañ'ca me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evan'tiparivaṭṭaṁ dvādasākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi \breathmark\ n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
+  Yāvakīvañ'ca me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evan'tiparivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi \breathmark\ n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evan'tiparivaṭṭaṁ dvādasākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi \breathmark\ ath'āhaṁ bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
+  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evan'tiparivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi \breathmark\ ath'āhaṁ bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 \end{pali-hang}
 
 Ñāṇañ'ca pana me dassanaṁ udapādi
@@ -8179,19 +8177,19 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Bhummānaṁ devānaṁ saddaṁ sutvā \breathmark\ Cātu-mmahā-rājikā devā saddam'anussāvesuṁ...
+  Bhummānaṁ devānaṁ saddaṁ sutvā \breathmark\ cātu-mmahā-rājikā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Cātu-mmahā-rājikānaṁ devānaṁ saddaṁ sutvā \breathmark\ Tāvatiṁsā devā saddam'anussāvesuṁ...
+  Cātu-mmahā-rājikānaṁ devānaṁ saddaṁ sutvā \breathmark\ tāvatiṁsā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā \breathmark\ Yāmā devā saddam'anussāvesuṁ...
+  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā \breathmark\ yāmā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāmānaṁ devānaṁ saddaṁ sutvā \breathmark\ Tusitā devā saddam'anussāvesuṁ...
+  Yāmānaṁ devānaṁ saddaṁ sutvā \breathmark\ tusitā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8275,7 +8273,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this bhikkhus is the noble truth of the way leading to the cessation of suffering: It is this Noble Eightfold Path;
+  Now this bhikkhus is the noble truth of the way leading to the cessation of suffering: It is this Noble Eightfold Path
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8331,11 +8329,11 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus as long as my knowledge and vision \breathmark\ of these Four Noble Truths \breathmark\ as they really are \breathmark\ in their three phases and twelve aspects \breathmark\ was not entirely purified \breathmark\ in this way I did not claim to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas \breathmark\ Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans.
+  Bhikkhus as long as my knowledge and vision \breathmark\ of these Four Noble Truths \breathmark\ as they really are \breathmark\ in their three phases and twelve aspects \breathmark\ was not entirely purified \breathmark\ in this way I did not claim to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas \breathmark\ Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  But when my knowledge and vision \breathmark\ of these Four Noble Truths \breathmark\ as they really are \breathmark\ in their three phases and twelve aspects \breathmark\ was entirely purified \breathmark\ in this way then I claimed to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas \breathmark\ Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans.
+  But when my knowledge and vision \breathmark\ of these Four Noble Truths \breathmark\ as they really are \breathmark\ in their three phases and twelve aspects \breathmark\ was entirely purified \breathmark\ in this way then I claimed to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas \breathmark\ Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8347,7 +8345,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``Whatever is subject to origination is all subject to cessation''.
+  ``Whatever is subject to origination is all subject to cessation''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8355,7 +8353,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion \breathmark\ by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''.
+  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion \breathmark\ by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8387,11 +8385,11 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion \breathmark\ by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''.
+  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion \breathmark\ by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Thus at that moment \breathmark\ at that instant \breathmark\ at that second \breathmark\ the cry spread as far as the brahmā world \breathmark\ and this ten thousandfold world system shook \breathmark\ quaked and trembled \breathmark\ and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas.
+  Thus at that moment \breathmark\ at that instant \breathmark\ at that second \breathmark\ the cry spread as far as the brahmā world \breathmark\ and this ten thousandfold world system shook \breathmark\ quaked and trembled \breathmark\ and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8403,7 +8401,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  In this way the Venerable Koṇḍañña acquired the name \breathmark\ ``Aññā Koṇḍañña—Koṇḍañña Who Has Understood''.
+  In this way the Venerable Koṇḍañña acquired the name \breathmark\ ``Aññā Koṇḍañña—Koṇḍañña Who Has Understood''
 \end{english-only-hang}
 
 \suttaRef{[SN 56.11]}
@@ -9224,7 +9222,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``When he is disenchanted passion fades away \breathmark\ With the fading of passion he is liberated \breathmark\ When liberated there is knowledge that he is liberated \breathmark\ He understands: `Birth is exhausted \breathmark\ the holy life is \mbox{fulfilled}~\breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation'''
+  ``When he is disenchanted passion fades away \breathmark\ With the fading of passion he is liberated \breathmark\ When liberated there is knowledge that he is liberated \breathmark\ He understands: `Birth is exhausted \breathmark\ the holy life is \mbox{fulfilled}~\breathmark\ what has to be done is done \breathmark\ there is nothing else to do for the sake of liberation''
 \end{english-only-hang}
 
 \begin{english-only-hang}
