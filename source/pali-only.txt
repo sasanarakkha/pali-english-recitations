@@ -915,16 +915,16 @@ Maṅgala-sutta
 
 Evaṁ me sutaṁ Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi: 
 Bahū devā manussā ca Maṅgalāni acintayuṁ Ākaṅkhamānā sotthānaṁ Brūhi maṅgalam'uttamaṁ
-Asevanā ca bālānaṁ Paṇḍitānañ'ca sevanā Pūjā ca pūjanīyānaṁ Etaṁ maṅgalam'uttamaṁ
-Paṭirūpa-desa-vāso ca Pubbe ca kata-puññatā Atta-sammā-paṇidhi ca Etaṁ maṅgalam'uttamaṁ
-Bāhu-saccañ'ca sippañ'ca Vinayo ca susikkhito Subhāsitā ca yā vācā Etaṁ maṅgalam'uttamaṁ
-Mātā-pitu-upaṭṭhānaṁ Putta-dārassa saṅgaho Anākulā ca kammantā Etaṁ maṅgalam'uttamaṁ
-Dānañ'ca dhamma-cariyā ca Ñātakānañ'ca saṅgaho Anavajjāni kammāni Etaṁ maṅgalam'uttamaṁ
-Āratī viratī pāpā Majja-pānā ca saññamo Appamādo ca dhammesu Etaṁ maṅgalam'uttamaṁ
-Gāravo ca nivāto ca Santuṭṭhī ca kataññutā Kālena dhamma-ssavanaṁ Etaṁ maṅgalam'uttamaṁ
-Khantī ca sovacassatā Samaṇānañ'ca dassanaṁ Kālena dhamma-sākacchā Etaṁ maṅgalam'uttamaṁ
-Tapo ca brahmacariyañ'ca Ariya-saccāna-dassanaṁ Nibbāna-sacchikiriyā ca Etaṁ maṅgalam'uttamaṁ
-Phuṭṭhassa loka-dhammehi Cittaṁ yassa na kampati Asokaṁ virajaṁ khemaṁ Etaṁ maṅgalam'uttamaṁ
+Asevanā ca bālānaṁ Paṇḍitānañ'ca sevanā Pūjā ca pūjanīyānaṁ Etam'maṅgalam'uttamaṁ
+Paṭirūpa-desa-vāso ca Pubbe ca kata-puññatā Atta-sammā-paṇidhi ca Etam'maṅgalam'uttamaṁ
+Bāhu-saccañ'ca sippañ'ca Vinayo ca susikkhito Subhāsitā ca yā vācā Etam'maṅgalam'uttamaṁ
+Mātā-pitu-upaṭṭhānaṁ Putta-dārassa saṅgaho Anākulā ca kammantā Etam'maṅgalam'uttamaṁ
+Dānañ'ca dhamma-cariyā ca Ñātakānañ'ca saṅgaho Anavajjāni kammāni Etam'maṅgalam'uttamaṁ
+Āratī viratī pāpā Majja-pānā ca saññamo Appamādo ca dhammesu Etam'maṅgalam'uttamaṁ
+Gāravo ca nivāto ca Santuṭṭhī ca kataññutā Kālena dhamma-ssavanaṁ Etam'maṅgalam'uttamaṁ
+Khantī ca sovacassatā Samaṇānañ'ca dassanaṁ Kālena dhamma-sākacchā Etam'maṅgalam'uttamaṁ
+Tapo ca brahmacariyañ'ca Ariya-saccāna-dassanaṁ Nibbāna-sacchikiriyā ca Etam'maṅgalam'uttamaṁ
+Phuṭṭhassa loka-dhammehi Cittaṁ yassa na kampati Asokaṁ virajaṁ khemaṁ Etam'maṅgalam'uttamaṁ
 Etādisāni katvāna Sabbattham'aparājitā Sabbattha sotthiṁ gacchanti Tan'tesaṁ maṅgalam'uttaman'ti 
 
 Ratana-sutta
@@ -941,7 +941,7 @@ Ye ariya-saccāni vibhāvayanti Gambhīra-paññena sudesitāni Kiñ'c'āpi te h
 Sahā v'assa dassana-sampadāya Tay'assu dhammā jahitā bhavanti Sakkāya-diṭṭhi vicikicchitañ'ca Sīlabbataṁ vā'pi yad'atthi kiñci Catūh'apāyehi ca vippamutto Cha c'ābhiṭhānāni abhabbo kātuṁ Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Kiñ'c'āpi so kammaṁ karoti pāpakaṁ Kāyena vācā uda cetasā vā Abhabbo so tassa paṭicchadāya Abhabbatā diṭṭha-padassa vuttā Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Vana-ppagumbe yathā phussi't'agge Gimhāna-māse paṭhamasmiṁ gimhe Tath'ūpamaṁ dhamma-varaṁ adesayi Nibbāna-gāmiṁ paramaṁ hitāya Idam'pi buddhe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
-Varo varaññū vara-do var'āharo Anuttaro dhamma-varaṁ adesayi Idam'pi buddhe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
+Varo varaññū varado var'āharo Anuttaro dhamma-varaṁ adesayi Idam'pi buddhe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Khīṇaṁ purāṇaṁ navaṁ n'atthi sambhavaṁ Viratta-citt'āyatike bhavasmiṁ Te khīṇa-bījā aviruḷhi-chandā Nibbanti dhīrā yathā'yaṁ padīpo Idam'pi saṅghe ratanaṁ paṇītaṁ Etena saccena suvatthi hotu
 Yān'īdha bhūtāni samāgatāni Bhummāni vā yāni va antalikkhe Tathāgataṁ deva-manussa-pūjitaṁ Buddhaṁ namassāma suvatthi hotu
 Yān'īdha bhūtāni samāgatāni Bhummāni vā yāni va antalikkhe Tathāgataṁ deva-manussa-pūjitaṁ Dhammaṁ namassāma suvatthi hotu
@@ -1032,7 +1032,7 @@ Bhavatu sabba-maṅgalaṁ Rakkhantu sabba-devatā Sabba-dhamm'ānubhāvena Sad�
 Bhavatu sabba-maṅgalaṁ Rakkhantu sabba-devatā Sabba-saṅgh'ānubhāvena Sadā sotthī bhavantu te
 
 Pubba-bhāga-nama-kāra-pāṭho
-Namo tassa Bhagavato arahato sammā-sambuddhassa 
+Namo tassa Bhagavato arahato sammāsambuddhassa 
 
 Dhamma-saṅgaṇī-mātikā
 
