@@ -934,7 +934,7 @@ Uju-paṭipanno bhagavato sāvaka-saṅgho
 \linkdest{endnote5-body}
 \begin{english}
   Who have practiced directly\makeatletter\hyperlink{endnote5-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote5-appendix}{\hyperlink{endnote5-body}{To practice ``directly''(Pāli: \textit{uju}) means, to practice the most direct way to \textit{nibbāna}; the straight way; no detours.}}}}}\makeatother
+        \hypertarget{endnote5-appendix}{\hyperlink{endnote5-body}{To practice ``directly''(Pāli: \textit{uju}) means, to practice the most direct way to \textit{Nibbāna}; the straight way; no detours.}}}}}\makeatother
 
 \end{english}
 
@@ -1738,7 +1738,7 @@ Saṅghaṁ namāmi
 \linkdest{endnote163-body}
 \begin{english-verses}
   Whoever goes for refuge\makeatletter\hyperlink{endnote162-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote162-appendix}{\hyperlink{endnote162-body}{WPN: ``Whoever goes to refuge''.).}}}}}\makeatother\\
+        \hypertarget{endnote162-appendix}{\hyperlink{endnote162-body}{WPN: ``Whoever goes to refuge''}}}}}\makeatother\\
   To the Buddha the Dhamma and the Saṅgha\makeatletter\hyperlink{endnote163-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote163-appendix}{\hyperlink{endnote163-body}{WPN: ``In the Triple Gem''. It has been shown in Āyasma Aggacitta's ``Do We Go to the Triple Gem for Refuge?'' that one does not go for refuge in the triple gem (the Buddha, Dhamma, and Ariya-saṅgha), but the discourses repeatedly depict the Buddha, Dhamma, and Bhikkhu-saṅgha as the community to take refuge in (DN 2, MN 91, SN 12.46, AN 2.16 etc.).}}}}}\makeatother\\
   Sees with right discernment\\
@@ -7324,7 +7324,7 @@ Tassa dāy'ādā bhavissanti
 \linkdest{endnote96-body}
 \begin{english-verses}
   All beings are the owners of their kamma\makeatletter\hyperlink{endnote96-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote96-appendix}{\hyperlink{endnote96-body}{WPN: ``All beings are the owners of their action and inherit its results. Their future is born from such action, companion to such action, and its results will be their home. All actions with intention, be they skilful or harmful, of such acts they will be the heirs''. For the sake of consistency with other chants within this chanting book, the original version was replaced with the one found in the ``Five Subjects for Frequent Recollection'', and ``Ten Subjects for Frequent Recollection''.}}}}}\makeatother\\
+        \hypertarget{endnote96-appendix}{\hyperlink{endnote96-body}{WPN: ``All beings are the owners of their action and inherit its results. Their future is born from such action, companion to such action, and its results will be their home. All actions with intention, be they skilful or harmful, of such acts they will be the heirs''. For the sake of consistency with other chants within this chanting book, the original version was replaced with the one found in the ``Five Subjects for Frequent Reflection'', and ``Ten Subjects for Frequent Reflection''.}}}}}\makeatother\\
   Heirs to their kamma\\
   Born of their kamma\\
   Related to their kamma\\
@@ -12428,7 +12428,7 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
   May all beings receive the blessings of my life\\
   \linkdest{endnote134-body}
   May they soon attain the threefold bliss\makeatletter\hyperlink{endnote134-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote134-appendix}{\hyperlink{endnote134-body}{This probably refers to  1. worldly or human happiness; 2. celestial or heavenly happiness; 3. transcendent happiness or \textit{Nibbāna}. Rhys Davids Pāli-English Dictionary - \textit{sukha}: ``Two kinds, viz \textit{kāyika} \& \textit{cetasika}; at Pts.i.188; several other pairs at AN.i.80; three (praise, wealth, heaven) Iti.67; another three (\textit{manussa}°, \textit{dibba}°, \textit{nibbāna}°) Dhp-a.iii.51; four (possessing, making good use of possessions, having no debts, living a blameless life) AN.ii.69''}}}}}\makeatother
+        \hypertarget{endnote134-appendix}{\hyperlink{endnote134-body}{This probably refers to  1. worldly or human happiness; 2. celestial or heavenly happiness; 3. transcendent happiness or \textit{Nibbāna}. Rhys Davids Pāli-English Dictionary - \textit{sukha}: ``Two kinds, viz \textit{kāyika} \& \textit{cetasika}; at Pts.i.188; several other pairs at AN.i.80; three (praise, wealth, heaven) Iti.67; another three (\textit{manussa}°, \textit{dibba}°, \textit{Nibbāna}°) Dhp-a.iii.51; four (possessing, making good use of possessions, having no debts, living a blameless life) AN.ii.69''}}}}}\makeatother
   \breathmark\ and realize the Deathless\\
   Through the goodness that arises from my practice\\
   And through this act of sharing\\
@@ -12510,7 +12510,7 @@ Ye c'imaṁ nappajānanti devā tesaṁ nivedayuṁ
   May the devas let them know
 \end{english-verses}
 
-Mayā dinnāna'puññānaṁ anumodana-hetunā\\
+Mayā dinnāna-puññānaṁ anumodana-hetunā\\
 Sabbe sattā sadā hontu averā sukha-jīvino\\
 Khema-ppadañ'ca pappontu tesāsā sijjhataṁ subhā
 
@@ -12777,7 +12777,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 \linkdest{endnote138-body}
 \begin{center}
   \textbf{\textsc{Undertaking the Three Refuges}}\makeatletter\hyperlink{endnote138-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, venerable sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}..''..}}}}}\makeatother
+        \hypertarget{endnote138-appendix}{\hyperlink{endnote138-body}{The Thai tradition recites ``\textit{Ahaṁ bhante tisaraṇena saha pañca/aṭṭha sīlāni yācāmi}'' three times which translates to ``I, venerable sir, request the Three Refuges and the Five/Eight Precepts'' before ``\textit{Namo tassa}...''.}}}}}\makeatother
 \end{center}
 
 \begin{center}
@@ -12961,7 +12961,7 @@ Vikāla-bhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
 \linkdest{endnote142-body}
 \begin{english}
   I undertake the training to refrain from eating after noon.\makeatletter\hyperlink{endnote142-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote142-appendix}{\hyperlink{endnote142-body}{WPN: ``at inappropriate times''.}}}}}\makeatother
+        \hypertarget{endnote142-appendix}{\hyperlink{endnote142-body}{WPN: ``at inappropriate times''}}}}}\makeatother
 \end{english}
 
 \begin{pali-hang}
@@ -12997,7 +12997,7 @@ Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}
   have virtue as a vehicle for liberation.\\
   \linkdest{endnote144-body}
   Therefore let virtue be purified.\makeatletter\hyperlink{endnote144-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote144-appendix}{\hyperlink{endnote144-body}{WPN: ``These are the Eight Precepts; Virtue is the source of happiness, Virtue is the source of true wealth, Virtue is the source of peacefulness. Therefore let virtue be purified''.}}}}}\makeatother
+        \hypertarget{endnote144-appendix}{\hyperlink{endnote144-body}{WPN: ``These are the Eight Precepts; Virtue is the source of happiness, Virtue is the source of true wealth, Virtue is the source of peacefulness. Therefore let virtue be purified''}}}}}\makeatother
 \end{english-verses}
 
 Sādhu sādhu sādhu
@@ -13151,7 +13151,7 @@ The following points should be considered:
 
 \subsection*{Tempo Consistency}
 \begin{justify}
-  Once a suitable tempo has been chosen to start one's recitation, it may be challenging to maintain the chosen tempo throughout the particular chant, or even throughout the entire chanting session. For most individuals there is a natural tendency to speed up as time goes by. It is the chanting leader's task to prevent that from happening, unless he finds out that the speed he has chosen at the beginning of the chant is too fast or slow for himself and/or others. The ideal time for tempo adjustments is between two chants, not during a chant. The introduction line, e.g. ``Handa mayaṁ..''., or ``Evaṁ me sutaṁ'', can be used as an indicator for how fast or slow the chanting leader wants to recite, whereas the rest of the group shall follow whatever tempo the chanting leader has chosen. If another group member, especially one with a strong and predominant voice has a tendency to change tempo midway, or lengthen/shorten/skip syllables due to inaccurate Pāli pronunciation, the chanting leader must not follow his lead. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request that he please chant more softly so that other group members can more accurately and easily follow the chanting leader's lead.
+  Once a suitable tempo has been chosen to start one's recitation, it may be challenging to maintain the chosen tempo throughout the particular chant, or even throughout the entire chanting session. For most individuals there is a natural tendency to speed up as time goes by. It is the chanting leader's task to prevent that from happening, unless he finds out that the speed he has chosen at the beginning of the chant is too fast or slow for himself and/or others. The ideal time for tempo adjustments is between two chants, not during a chant. The introduction line, e.g. ``Handa mayaṁ...'', or ``Evaṁ me sutaṁ'', can be used as an indicator for how fast or slow the chanting leader wants to recite, whereas the rest of the group shall follow whatever tempo the chanting leader has chosen. If another group member, especially one with a strong and predominant voice has a tendency to change tempo midway, or lengthen/shorten/skip syllables due to inaccurate Pāli pronunciation, the chanting leader must not follow his lead. If this is a recurrent problem with a particular group member, it is worthwhile to talk to him privately and request that he please chant more softly so that other group members can more accurately and easily follow the chanting leader's lead.
 \end{justify}
 
 \subsection*{Determining a Suitable Pitch}
