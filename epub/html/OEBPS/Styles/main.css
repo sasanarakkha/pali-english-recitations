@@ -253,6 +253,11 @@ text-decoration: none;
   margin-right: auto;
 }
 
+.center-text {
+  text-align: center;
+}
+
+
 q {
   quotes: "“" "”" "‘" "’";
 }
@@ -277,6 +282,27 @@ ol {
  padding: 0;
   margin-left: 1em;
 }
+
+.numbered-list {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 1em;
+  counter-reset: my-counter;
+}
+
+.numbered-list li {
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.numbered-list li:before {
+  content: counter(my-counter)".";
+  counter-increment: my-counter;
+  margin-right: 3px;
+  position: absolute;
+  left: -1.0em;
+}
+
 
 hr {
 	width: 80%;
