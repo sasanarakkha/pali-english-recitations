@@ -1366,7 +1366,7 @@ Sabbe dhammā anattā'ti
 \linkdest{endnote23-body}
 \begin{english}
   All things are not-self\thinspace\makeatletter\hyperlink{endnote23-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote23-appendix}{\hyperlink{endnote23-body}{WPN: ``There is no self in the created or the uncreated''. While this is not a very accurate translation, it is indeed the case that the term ``\textit{sabbe dhammā}'' includes the uncreated, \textit{nibbāna} (see AN 5.32).}}}}}\makeatother
+        \hypertarget{endnote23-appendix}{\hyperlink{endnote23-body}{WPN: ``There is no self in the created or the uncreated''. While this is not a very accurate translation, it is indeed the case that the term ``\textit{sabbe dhammā}'' includes the uncreated, \textit{Nibbāna} (see AN 5.32).}}}}}\makeatother
 \end{english}
 
 \suttaRef{[MN 35]}
@@ -1387,7 +1387,7 @@ Sokehi paridevehi dukkhehi domanassehi upāyāsehi
   By sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote25-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote25-appendix}{\hyperlink{endnote25-body}{WPN: ``grief''}}}}}\makeatother
   and despair\makeatletter\hyperlink{endnote26-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote26-appendix}{\hyperlink{endnote26-body}{In Pāli, these terms are in plural form, however, for the sake recitation they are kept singular.}}}}}\makeatother
+        \hypertarget{endnote26-appendix}{\hyperlink{endnote26-body}{In Pāli, these terms are in plural form, however, for the sake of recitation they are kept singular.}}}}}\makeatother
 \end{english}
 
 Dukkh'otiṇṇā dukkha-paretā
@@ -2337,7 +2337,7 @@ Etaṁ buddhāna'sāsanaṁ
   Discard sense pleasures holy man\\
   Not letting sensual pleasures go\\
   A sage will not reach unity\makeatletter\hyperlink{endnote40-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote40-appendix}{\hyperlink{endnote40-body}{`Unity' here refers to unity of mind due to concentration (\textit{samādhi}, \textit{cittass-ekaggatā}). \textit{Nekatta} = \textit{na} + \textit{ekatta} [abstr. fr. \textit{eka}].}}}}}\makeatother
+        \hypertarget{endnote40-appendix}{\hyperlink{endnote40-body}{``Unity'' here refers to unity of mind due to concentration (\textit{samādhi}, \textit{cittass-ekaggatā}). \textit{Nekatta} = \textit{na} + \textit{ekatta} [abstr. fr. \textit{eka}].}}}}}\makeatother
 \end{english-verses}
 
 \begin{verses}
@@ -5085,7 +5085,7 @@ Virāg'ānupassī assasissāmī'ti sikkhati
 \begin{english}
   He trains thus:\\
   `I shall breathe in contemplating the fading away of passions\makeatletter\hyperlink{endnote160-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote160-appendix}{\hyperlink{endnote160-body}{While \textit{virāga} indeed can refer to the mind’s ‘fading away of passions’ (dispassion), in certain contexts virāga refers to ‘fading away’ of any phenomena. One such instance can be found in MN 74: ``Pleasant/unpleasant/neutral feeling, Aggivessana, is impermanent, conditioned, dependently arisen, subject to destruction, vanishing, fading away, and ceasing''. Here, \textit{virāga} obviously does not refer to mental dispassion, but to the nature of fading away of certain phenomena i.e. feeling. Likewise, in the context of mindfulness of breathing, \textit{virāga} can be seen as part of the natural progression of the lifecycle of any phenomena, including but not limited to the breath itself, which after its arising, goes through a phase of change (\textit{aniccā}), gradual fading (\textit{virāga}), and ending in its cessation (\textit{nirodha}). The meditator observing these stages develops an attitude of letting go (\textit{paṭinissagga}) towards it, because there is nothing that is worth clinging/adhering to (MN 37)."}}}}}\makeatother'
+        \hypertarget{endnote160-appendix}{\hyperlink{endnote160-body}{While \textit{virāga} indeed can refer to the mind’s ``fading away of passions'' (dispassion), in certain contexts virāga refers to ``fading away'' of any phenomena. One such instance can be found in MN 74: ``Pleasant/unpleasant/neutral feeling, Aggivessana, is impermanent, conditioned, dependently arisen, subject to destruction, vanishing, fading away, and ceasing''. Here, \textit{virāga} obviously does not refer to mental dispassion, but to the nature of fading away of certain phenomena i.e. feeling. Likewise, in the context of mindfulness of breathing, \textit{virāga} can be seen as part of the natural progression of the lifecycle of any phenomena, including but not limited to the breath itself, which after its arising, goes through a phase of change (\textit{aniccā}), gradual fading (\textit{virāga}), and ending in its cessation (\textit{nirodha}). The meditator observing these stages develops an attitude of letting go (\textit{paṭinissagga}) towards it, because there is nothing that is worth clinging/adhering to (MN 37).}}}}}\makeatother'
 \end{english}
 
 Virāg'ānupassī passasissāmī'ti sikkhati
