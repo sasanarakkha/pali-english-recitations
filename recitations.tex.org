@@ -91,7 +91,7 @@
   - [[#karaṇīya-metta-sutta][Karaṇīya-metta-sutta]]
   - [[#khandha-parittaṁ][Khandha-parittaṁ]]
   - [[#buddha-dhamma-saṅgha-guṇā][Buddha-dhamma-saṅgha-guṇā]]
-  - [[#yaṅ-kiñci-ratanaṁ-loke][Yaṅ'kiñci ratanaṁ loke]]
+  - [[#yaṅkiñci-ratanaṁ-loke][Yaṅ'kiñci ratanaṁ loke]]
   - [[#bojjhaṅga-parittaṁ][Bojjh'aṅga-parittaṁ]]
   - [[#abhaya-parittaṁ][Abhaya-parittaṁ]]
   - [[#devatā-uyyojana-gāthā][Devatā-uyyojana-gāthā]]
@@ -523,8 +523,8 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 \label{abbreviations}
 
 \begin{tabular}{@{}ll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{7.35mm}Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & \hspace{7.35mm}Breathing pause \\
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{2.00mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
 \end{tabular}
 
 \begin{tabular}{@{}llll@{}}
