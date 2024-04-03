@@ -136,16 +136,16 @@ p {
     padding: 0
 } 
 
-.pali-hang-first {
-   display: block;
+.pali-hang-stagger {
+	display: block;
+	font-family: libertinus-serif;
     page-break-after: avoid;
     page-break-inside: avoid;
-	font-family: libertinus-serif;
   	font-size: 1.1em;
-    text-indent: -8pt;
+    text-indent: 0pt;
     margin: 8pt 0 0 8pt;
     padding: 0
-}
+} 
 
 .pali-hang-together {
 	font-family: libertinus-serif;
@@ -155,6 +155,18 @@ p {
     page-break-inside: avoid;
   	font-size: 1.1em;
     text-indent: -8pt;
+    margin: 0 0 0 8pt;
+    padding: 0
+}
+
+.pali-hang-together-stagger {
+	font-family: libertinus-serif;
+	display: block;
+    line-height: 1.5;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  	font-size: 1.1em;
+    text-indent: 0pt;
     margin: 0 0 0 8pt;
     padding: 0
 } 
