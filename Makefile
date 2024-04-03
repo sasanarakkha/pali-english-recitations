@@ -271,6 +271,7 @@ extractcurrent: $(CURRENTEPUB)
 	@echo "Extracting $(CURRENTEPUB) into $(HTMLSOURCE)"
 	@mkdir -p "$(HTMLSOURCE)"
 	@unzip -o "$(CURRENTEPUB)" -d "$(HTMLSOURCE)"
+	@echo "Extracting HTML hierarchy from EPUB for version control..."
 
 
 #-----------------------------------------------------------------------------------------#
