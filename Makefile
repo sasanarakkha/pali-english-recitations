@@ -223,7 +223,7 @@ endif
 #-----------------------------------------------------------------------------------------#
 
 
-edit: $(CURRENTEPUB)
+editepub: $(CURRENTEPUB)
 ifndef EBOOKEDITOR
 	@echo "Error: Sigil was not found. Installing with Flatpak."
 	# @flatpak install com.sigil_ebook.Sigil -y
