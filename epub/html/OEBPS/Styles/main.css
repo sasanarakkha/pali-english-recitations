@@ -136,16 +136,28 @@ p {
     padding: 0
 } 
 
-.pali-hang-stagger {
+.pali-hang-continuous {
 	display: block;
 	font-family: libertinus-serif;
     page-break-after: avoid;
     page-break-inside: avoid;
   	font-size: 1.1em;
     text-indent: 0pt;
-    margin: 8pt 0 0 8pt;
+    margin: 8pt 0 0 16pt;
     padding: 0
 } 
+
+.pali-hang-together-continuous {
+    font-family: libertinus-serif;
+	display: block;
+    line-height: 1.5;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  	font-size: 1.1em;
+    text-indent: -8pt;
+    margin: 0 0 0 1pt;
+    padding: 0
+}
 
 .pali-hang-together {
 	font-family: libertinus-serif;
