@@ -8,7 +8,7 @@
     <dc:language>en</dc:language>
     <dc:identifier>urn:isbn:[ISBN here]</dc:identifier>
     <dc:format>application/epub+zip</dc:format>
-    <meta property="dcterms:modified">2024-04-05T20:07:07Z</meta>
+    <meta property="dcterms:modified">2024-04-12T21:06:15Z</meta>
     <dc:identifier id="BookId">urn:uuid:aab09be7-cf83-41a5-b56b-a39ed9620398</dc:identifier>
     <meta content="2.0.1" name="Sigil version"/>
   </metadata>
@@ -122,6 +122,7 @@
     <item id="LibertinusSerif-BoldItalic.otf" href="Fonts/LibertinusSerif-BoldItalic.otf" media-type="font/otf"/>
     <item id="LibertinusSerif-Italic.otf" href="Fonts/LibertinusSerif-Italic.otf" media-type="font/otf"/>
     <item id="LibertinusSerif-Regular.otf" href="Fonts/LibertinusSerif-Regular.otf" media-type="font/otf"/>
+    <item id="copyright-details.xhtml" href="Text/copyright-details.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="cover-front.xhtml"/>
@@ -206,6 +207,7 @@
     <itemref idref="phonetics-pronunciation.xhtml"/>
     <itemref idref="guidelines.xhtml"/>
     <itemref idref="endnotes.xhtml"/>
+    <itemref idref="copyright-details.xhtml"/>
     <itemref idref="cover-back.xhtml"/>
   </spine>
 </package>
