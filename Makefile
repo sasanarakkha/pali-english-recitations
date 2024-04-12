@@ -242,7 +242,7 @@ clean:
 
 #-----------------------------------------------------------------------------------------#
 
-editwatchcurrent: $(CURRENTEPUB)
+editwatchepub: $(CURRENTEPUB)
 	@echo "Opening current-recitations.epub in Sigil for editing..."
 	@echo "Watching file for errors..."
 	@make -j edit watchcurrent
@@ -250,7 +250,7 @@ editwatchcurrent: $(CURRENTEPUB)
 #-----------------------------------------------------------------------------------------#
 
 
-checkcurrent: $(CURRENTEPUB)
+checkepub: $(CURRENTEPUB)
 	@clear
 	@epubcheck epub/current-recitations.epub
 
@@ -258,7 +258,7 @@ checkcurrent: $(CURRENTEPUB)
 #-----------------------------------------------------------------------------------------#
 
 
-current:
+epub:
 	@echo "Archiving html and renaming to epub..."
 	@cd ./epub && zip -r html.zip html && mv html.zip current-recitations.epub
 	@echo "EPUB made and ready for editing..."
@@ -267,7 +267,7 @@ current:
 #-----------------------------------------------------------------------------------------#
 
 
-extractcurrent: $(CURRENTEPUB)
+extractepub: $(CURRENTEPUB)
 	@echo "Extracting $(CURRENTEPUB) into $(HTMLSOURCE)"
 	@mkdir -p "$(HTMLSOURCE)"
 	@unzip -o "$(CURRENTEPUB)" -d "$(HTMLSOURCE)"
@@ -277,7 +277,7 @@ extractcurrent: $(CURRENTEPUB)
 #-----------------------------------------------------------------------------------------#
 
 
-watchcurrent: $(CURRENTEPUB) $(EPUBCHECK)
+watchepub: $(CURRENTEPUB) $(EPUBCHECK)
 ifndef JAVA
 	$(error Java was not found. Unable to validate ebook)
 endif
