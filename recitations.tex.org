@@ -175,7 +175,7 @@
   % TODO need 2 ISBN numbers assigned (1 for print/pdf, 1 for epub); do more research before printing
   % https://www.pnm.gov.my/
   ISBN \theISBN\\
-  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2022
+  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2024
 
   \vspace{0.5cm}
 
@@ -524,29 +524,30 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 
 \begin{tabular}{@{}ll@{}}
   \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+  \hspace{0.15cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
 \end{tabular}
 
 \begin{tabular}{@{}llll@{}}
-  DN    & Dīgha Nikāya                                       \\
-  MN    & Majjhima Nikāya                                    \\
-  SN    & Saṁyutta Nikāya                                    \\
-  AN    & Aṅguttara Nikāya                                   \\
-  Khp   & Khuddakapāṭha                                      \\
-  Dhp   & Dhammapada                                         \\
-  Ud    & Udāna                                              \\
-  Snp   & Sutta Nipāta                                       \\
-  Thag  & Theragāthā                                         \\
-  Ja    & Jātaka                                             \\
-  Pv    & Petavatthu                                         \\
-  Vibh  & Abhidhamma Vibhaṅga                                \\
-  Dhs   & Dhammasaṅganī                                      \\
-  A     & Aṭṭhakathā (Commentary)                            \\
-  MJG   & Mahā-jaya-maṅgala-gāthā (Sri Lanka)                \\
-  Thai  & Composed in Thailand, normally in recent centuries \\
-  Sri L & Composed in Sri Lanka                              \\
-  Trad  & Traditional verses not found in the original Pāli  \\
-  WPN   & Wat Pah Nanachat Buddhist Chanting (2014)          \\
+  DN    & Dīgha Nikāya                                        \\
+  MN    & Majjhima Nikāya                                     \\
+  SN    & Saṁyutta Nikāya                                     \\
+  AN    & Aṅguttara Nikāya                                    \\
+  Khp   & Khuddakapāṭha                                       \\
+  Dhp   & Dhammapada                                          \\
+  Ud    & Udāna                                               \\
+  Snp   & Sutta Nipāta                                        \\
+  Thag  & Theragāthā                                          \\
+  Ja    & Jātaka                                              \\
+  Pv    & Petavatthu                                          \\
+  Vibh  & Abhidhamma Vibhaṅga                                 \\
+  Dhs   & Dhammasaṅganī                                       \\
+\end{tabular}
+
+\begin{tabular}{@{}llll@{}}
+  A     & Aṭṭhakathā (Commentary)                             \\
+  MJG   & Mahā-jaya-maṅgala-gāthā (Sri Lanka)                 \\
+  Trad  & Traditional verses not found in the original Pāli   \\
+  WPN   & Wat Pah Nanachat Buddhist Chanting (2014)           \\
 \end{tabular}
 
 \bigskip
@@ -596,7 +597,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 \linkdest{endnote2-body}
 \begin{english-hang}
   To the Blessed One the Worthy One\makeatletter\hyperlink{endnote2-appendix}\Hy@raisedlink{{\pagenote{%\linebreak
-        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{WPN: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler''. The ``Worthy One'' seems a better choice of terms, since it is also how ``\textit{Arahant}'' was used in pre-Buddhist era. PTS explains: ``[Vedic \textit{arhant}, ppr. of \textit{arhati} (see \textit{arahati}), meaning deserving, worthy]. Before Buddhism used as honourific title of high officials like the English ``His Worship'' ; at the rise of Buddhism applied popularly to all ascetics (\textit{Dial. III.3–6})''. Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus replacing previous translations, such as ``The Lord'', ``Noble One'' etc.}}}}}\makeatother\thinspace
+        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{WPN: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler''. The ``Worthy One'' seems a better choice of terms, since it is also how ``\textit{Arahant}'' was used in pre-Buddhist era. PTS explains: ``[Vedic \textit{arhant}, ppr. of \textit{arhati} (see \textit{arahati}), meaning deserving, worthy]''. Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus replacing previous translations, such as ``The Lord'', ``Noble One'' etc.}}}}}\makeatother\thinspace
   who fully attained Perfect Enlightenment
 \end{english-hang}
 
@@ -4983,7 +4984,7 @@ Citta-saṅkhāra-paṭisaṁvedī assasissāmī'ti sikkhati
   He trains thus:\\
   \linkdest{endnote69-body}
   `I shall breathe in experiencing the mental formation'\makeatletter\hyperlink{endnote69-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote69-appendix}{\hyperlink{endnote69-body}{WPN: ``I shall breathe in experiencing the mental formation''. \textit{Cittasaṅkhāraṁ} is probably meant to be singular, not plural. This is not clear when looking at compounds, however, considering that the subsequent practice explicitly uses mental formation in ``singular \textit{cittasaṅkhāraṁ}'', this suggests that it is probably used in the same way here.}}}}}\makeatother
+        \hypertarget{endnote69-appendix}{\hyperlink{endnote69-body}{WPN: ``I shall breathe in experiencing the mental formation''. \textit{Cittasaṅkhāraṁ} is probably meant to be singular, not plural, but this is not always clear when looking at compounds. Considering that the subsequent practice explicitly uses ``mental formation'' in singular, this suggests that it is probably used in the same way here.}}}}}\makeatother
 \end{english}
 
 Citta-saṅkhāra-paṭisaṁvedī passasissāmī'ti sikkhati
@@ -5190,7 +5191,7 @@ Avijjā-paccayā saṅkhārā
 \linkdest{endnote147-body}
 \begin{english}
   From ignorance as a\makeatletter\hyperlink{endnote72-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates, that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother \thinspace
+        \hypertarget{endnote72-appendix}{\hyperlink{endnote72-body}{Here and at other places of the English translation, the term ``a condition'' is used. The indefinite article ``a'' indicates that there could be other conditions as well (e.g. all previous conditions in the sequence are a condition for all subsequent ones), but the directly aforementioned condition is the predominant one (\textit{adhipati-paccaya}) for the subsequent conditioned thing to arise.}}}}}\makeatother \thinspace
   condition arise\makeatletter\hyperlink{endnote73-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote73-appendix}{\hyperlink{endnote73-body}{Here and at other places of the English translation, the term ``arises'' is inserted, because the term ``\textit{sambhavati}'' from ``\textit{Jāti-paccayā jarā-maraṇaṁ; soka-parideva-dukkha-domanass'upāyāsā sambhavanti}'' applies to all 11 links (12 minus ignorance) and not only to ageing-and-death etc.}}}}}\makeatother \thinspace
   formations\makeatletter\hyperlink{endnote147-appendix}\Hy@raisedlink{{\pagenote{%
@@ -5591,7 +5592,7 @@ Tattha katamo upādāna-paccayā bhavo
 
 \linkdest{endnote82-body}
 Kāma-bhavo rūpa-bhavo arūpa-bhavo\makeatletter\hyperlink{endnote82-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote82-appendix}{\hyperlink{endnote82-body}{Here the Vibh. differs substantially from the analysis found in the suttas. It introduces a distinction between action becoming (\textit{kammabhava}) and rebirth becoming (\textit{upapattibhava}). \textit{Kammabhava} is taken to refer to wholesome, unwholesome and imperturbable actions; \textit{upapattibhava} is taken to refer to sense/form/formless-sphere becoming, percipient/non-percipient/neither-percipient-nor-non-percipient becoming, one/four/five-component becoming. But since AN 3.76 says that \textit{kamma} (together with consciousness and craving) is a condition for \textit{bhava} (if no \textit{kamma}...then no becoming in the sense-sphere etc. would be discerned), it is not fit to say that \textit{kamma} itself is a form of \textit{bhava} (\textit{kammabhava}). However, it would go too far for the purpose of this chanting book, to discuss further implications of the analysis found in Vibh. For the sake of simplicity and emphasis on the earliest strata of the Buddha's teachings, we substituted the passage from Vibh. with the passage from SN 12.2, which defines becoming (\textit{bhava}) simply as sense/form/formless-sphere becoming. Understood in this way, becoming (\textit{bhava}) functions as an intermediary between clinging and birth, highlighting the gradual process of how rebirth in one of the three planes of existence takes place. This can even include an interim period between death and birth; thus it is called ``becoming'', rather than instant birth straight after death.}}}}}\makeatother
+      \hypertarget{endnote82-appendix}{\hyperlink{endnote82-body}{Here the Vibh. differs substantially from the analysis found in the Suttas. It introduces a distinction between action becoming (\textit{kammabhava}) and rebirth becoming (\textit{upapattibhava}). \textit{Kammabhava} is taken to refer to wholesome, unwholesome and imperturbable actions; \textit{upapattibhava} is taken to refer to sense/form/formless-sphere becoming, percipient/non-percipient/neither-percipient-nor-non-percipient becoming, one/four/five-component becoming. But since AN 3.76 says that \textit{kamma} (together with consciousness and craving) is a condition for \textit{bhava} (if no \textit{kamma}...then no becoming in the sense-sphere etc. would be discerned), it is not fit to say that \textit{kamma} itself is a form of \textit{bhava} (\textit{kammabhava}). However, it would go too far for the purpose of this chanting book, to discuss further implications of the analysis found in Vibh. For the sake of simplicity and emphasis on the earliest strata of the Buddha's teachings, we substituted the passage from Vibh. with the passage from SN 12.2, which defines becoming (\textit{bhava}) simply as sense/form/formless-sphere becoming. Understood in this way, becoming (\textit{bhava}) functions as an intermediary between clinging and birth, highlighting the gradual process of how rebirth in one of the three planes of existence takes place. This can even include an interim period between death and birth; thus it is called ``becoming'', rather than instant birth straight after death.}}}}}\makeatother
 
 \begin{english-hang}
   Sense-sphere becoming form-sphere becoming formless-sphere becoming
@@ -6100,7 +6101,7 @@ Padabyañjanāni sādhukaṁ uggahetvā
 Sutte otāretabbāni
 
 \begin{english}
-  They ought to be found in the suttas
+  They ought to be found in the Suttas
 \end{english}
 
 Vinaye sandassetabbāni
@@ -6112,7 +6113,7 @@ Vinaye sandassetabbāni
 Na c'eva sutte otaranti na vinaye sandissanti
 
 \begin{english}
-  If they are neither found in the suttas \breathmark\ nor seen in the Vinaya
+  If they are neither found in the Suttas \breathmark\ nor seen in the Vinaya
 \end{english}
 
 Niṭṭham'ettha gantabbaṁ:
@@ -6145,7 +6146,7 @@ Iti h'etaṁ bhikkhave chaḍḍeyyātha
 Sutte c'eva otaranti vinaye ca sandissanti
 
 \begin{english}
-  But if they are found in the suttas \breathmark\ and seen in the Vinaya
+  But if they are found in the Suttas \breathmark\ and seen in the Vinaya
 \end{english}
 
 Niṭṭham'ettha gantabbaṁ
@@ -7040,7 +7041,7 @@ Alam'eva appamādena sampādetun'ti\makeatletter\hyperlink{endnote93-appendix}\H
 \label{buddhas-final-instruction}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddha-pacchima-ovāda bhaṇāmase \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddha-pacchima-ovāda-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
 Siyā kho tumhākaṁ evam'assa
@@ -9644,7 +9645,7 @@ Sadā sotthī bhavantu te
   Vaṇṇa-vaḍḍhako\\
   Sukha-vaḍḍhako\\
   Hotu sabbadā\\
-  Dukkha-roga-bhaya-verā\\
+  Dukkha-roga-bhayā-verā\\
   Sokā sattu c'upaddavā\\
   Anekā antarāyā'pi\\
   Vinassantu ca tejasā\\
@@ -10149,12 +10150,12 @@ Sadā sotthī bhavantu te
   Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Then, when the night had advanced, a certain deity of stunning beauty, having illuminated the entire Jeta's Grove, approached the Blessed One, paid homage to him, stood to one side, and addressed the Blessed One in verse:
 \end{english-verses}
 
-\begin{pali-hang}
+\begin{pali-hang-continued}
   Bahū devā manussā ca\\
   Maṅgalāni acintayuṁ\\
   Ākaṅkhamānā sotthānaṁ\\
   Brūhi maṅgalam'uttamaṁ
-\end{pali-hang}
+\end{pali-hang-continued}
 
 \begin{english-verses}
   Many devas and human beings\\
@@ -10163,12 +10164,12 @@ Sadā sotthī bhavantu te
   So declare the highest blessing.
 \end{english-verses}
 
-\begin{pali-hang}
+\begin{pali-hang-continued}
   Asevanā ca bālānaṁ\\
   Paṇḍitānañ'ca sevanā\\
   Pūjā ca pūjanīyānaṁ\\
   Etam'maṅgalam'uttamaṁ
-\end{pali-hang}
+\end{pali-hang-continued}
 
 \begin{english-verses}
   Not associating with fools,\\
@@ -11602,10 +11603,10 @@ Sadā sotthī bhavantu te
 \end{pali-hangtogether}
 
 \begin{english-verses}
-  May there be all blessings.\\
-  May all deities give protection.\\
-  By the power of all Buddhas,\\
-  May there ever be well-being for you.
+  May every blessing come to be.\\
+  And all good spirits guard you well.\\
+  Through the power of all Buddhas,\\
+  May you always be at ease.
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -11616,10 +11617,10 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  May there be all blessings.\\
-  May all deities give protection.\\
-  By the power of all Dhammas,\\
-  May there ever be well-being for you.
+  May every blessing come to be.\\
+  And all good spirits guard you well.\\
+  Through the power of all Dhammas,\\
+  May you always be at ease.
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -11630,10 +11631,10 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  May there be all blessings.\\
-  May all deities give protection.\\
-  By the power of all Saṅghas,\\
-  May there ever be well-being for you.
+  May every blessing come to be.\\
+  And all good spirits guard you well.\\
+  Through the power of all Sanghas,\\
+  May you always be at ease.
 \end{english-verses}
 
 \suttaRef{[Trad]}
@@ -12445,7 +12446,7 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
   Unsurpassed is the protection of the Dhamma\\
   \linkdest{endnote136-body}
   The Solitary Buddha is my noble guide\makeatletter\hyperlink{endnote136-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote136-appendix}{\hyperlink{endnote136-body}{Even though a \textit{Paccekabuddha} does not (or is not able to) teach the path to \textit{Nibbāna}, he can nonetheless give guidance in good conduct and virtue; Functioning as an inspirational role model.}}}}}\makeatother\\
+        \hypertarget{endnote136-appendix}{\hyperlink{endnote136-body}{Even though a \textit{Paccekabuddha} does not (or is not able to) teach the path to \textit{Nibbāna}, he can nonetheless give guidance in good conduct and virtue; functioning as an inspirational role model.}}}}}\makeatother\\
   The Saṅgha is my supreme support\\
   Through the supreme power of all these\\
   \linkdest{endnote137-body}
@@ -13066,7 +13067,7 @@ Sādhu sādhu sādhu
     \textbf{a} as in magm\prul{a} & \textbf{ā} as in f\prul{a}ther\\
     \textbf{i} as in \prul{i}ll   & \textbf{ī} as in l\prul{i}ter\\
     \textbf{u} as in p\prul{u}t   & \textbf{ū} as in h\prul{u}la hoop\\
-                 & \textbf{e} as in Santa F\prul{e}\\
+                 & \textbf{e} as in b\prul{e}d\\
                  & \textbf{o} as in f\prul{o}r
   \end{tabular}
 \end{table}
