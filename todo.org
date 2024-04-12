@@ -226,3 +226,4 @@ CLOSED: [2024-04-12 Fri 22:05]
 CLOSED: [2024-04-12 Fri 21:27]
 ** DONE convert fancy quotes to html codes
 CLOSED: [2024-04-12 Fri 22:05]
+** TODO have makefile convert using calibre instead of using kindlegen

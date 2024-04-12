@@ -26,8 +26,8 @@ KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
 AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
 
 
-EPUBCHECK  := ./assets/tools/epubcheck/epubcheck.jar
-KINDLEGEN  := ./assets/tools/kindlegen
+# EPUBCHECK  := ./assets/tools/epubcheck/epubcheck.jar
+# KINDLEGEN  := ./assets/tools/kindlegen
 ORG_TANGLE := ./assets/scripts/org-tangle.py
 
 
@@ -39,9 +39,9 @@ JAVA         := $(shell command -v java 2>&1)
 INOTIFYWAIT  := $(shell command -v inotifywait 2>&1)
 
 
-EPUBCHECK_VERSION = 4.2.6
+# EPUBCHECK_VERSION = 4.2.6
 # https://github.com/IDPF/epubcheck/releases
-EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK_VERSION)/epubcheck-$(EPUBCHECK_VERSION).zip
+# EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK_VERSION)/epubcheck-$(EPUBCHECK_VERSION).zip
 
 
 HTMLSOURCEFILES := $(shell find $(HTMLSOURCE) 2> /dev/null | sort)
