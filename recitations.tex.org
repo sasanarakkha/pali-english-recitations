@@ -12311,10 +12311,10 @@ Sadā sotthī bhavantu te
 \end{pali-hangtogether}
 
 \begin{english-verses}
-  May every blessing come to be\\
-  And all good spirits guard you well\\
-  Through the power of all Buddhas\\
-  May you always be at ease
+  May every blessing come to be.\\
+  And all good spirits guard you well.\\
+  Through the power of all Buddhas,\\
+  May you always be at ease.
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -12325,10 +12325,10 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  May every blessing come to be\\
-  And all good spirits guard you well\\
-  Through the power of all Dhammas\\
-  May you always be at ease
+  May every blessing come to be.\\
+  And all good spirits guard you well.\\
+  Through the power of all Dhammas,\\
+  May you always be at ease.
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -12339,10 +12339,10 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  May every blessing come to be\\
-  And all good spirits guard you well\\
-  Through the power of all Saṅghas\\
-  May you always be at ease
+  May every blessing come to be.\\
+  And all good spirits guard you well.\\
+  Through the power of all Saṅghas,\\
+  May you always be at ease.
 \end{english-verses}
 
 \suttaRef{[Trad]}
