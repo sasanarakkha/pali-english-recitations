@@ -215,3 +215,8 @@ CLOSED: [2022-12-18 Sun 16:58]
 CLOSED: [2023-01-01 Sun 23:58]
 ** TODO increase font size of set navigation hub
 ** TODO tweak Makefile to automatically install inotify-tools,calibre, and sigil
+** TODO test conditional around WPN endnotes
+** TODO add creative commons page to ebook
+** TODO funeral, protection start on new page
+*** TODO check thai references afterwards
+** TODO add puncutation to bhavatu at the end of funeral. also check epub.
