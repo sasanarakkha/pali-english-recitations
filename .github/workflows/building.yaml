@@ -9,9 +9,9 @@ name: Build documents
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: bergentroll/pali-english-recitations-builder:latest
+    container: sasanarakkha/document-build-actions:latest
     permissions:
       contents: write
     steps:
-      - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
+      - uses: sasanarakkha/document-build-actions@v1
         with: {}
