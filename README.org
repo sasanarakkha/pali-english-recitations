@@ -33,9 +33,9 @@ Windows: =C:\Users\<your-username>\texmf\tex=
 - =make validate=: Builds the EPUB and then checks for errors with epubcheck.
 - =make optimize=
 - =make view=: Opens current.recitations.epub with Calibre's ebook viewer.
-- =make editwatchcurrent=: Opens current.recitations.epub with Sigil and watches for any errors. Error messages will be shown while editing and epubcheck check is ran after saving.
+- =make editwatchepub=: Opens current.recitations.epub with Sigil and watches for any errors. Error messages will be shown while editing and epubcheck check is ran after saving.
 - =make clean=: Removes all built documents.
-- =make current=: Convert HTML hierarchy into EPUB document.
-- =make extractcurrent=: Extracts EPUB and converts to HTML hierarchy.
-- =make watchcurrent=: Watches current.recitations.epub for edits and changes.
+- =make epub=: Convert HTML hierarchy into EPUB document.
+- =make extractepub=: Extracts EPUB and converts to HTML hierarchy.
+- =make watchepub=: Watches current.recitations.epub for edits and changes.
 - =make release=: Validates and builds all documents.
