@@ -3,15 +3,15 @@
 name: Build documents
 'on':
   push:
-    branches:
+    branches: bergentroll/pali-english-recitations-builder:latest
       - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: sasanarakkha/document-build-actions:latest
+    container: bergentroll/pali-english-recitations-builder:latest
     permissions:
       contents: write
     steps:
-      - uses: sasanarakkha/document-build-actions@v1
+      - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
         with: {}
