@@ -13,9 +13,9 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 #-----------------------------------------------------------------------------------------#
 
 
-# EPUB varaibles derived from https://github.com/daniel-j/epubmake
 BUILDDIR      := ./build/
 RELEASENAME   := SBS_Pāli-English_Recitations
+# FIXME Create target or decide to delete view, editepub etc
 CURRENTEPUB   := ./epub/current-recitations.epub
 HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
@@ -23,9 +23,7 @@ PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
 KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
 AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
-LATEX_AUX := \
-	$(BUILDDIR)/*.aux $(BUILDDIR)/*.ent $(BUILDDIR)/*.fls $(BUILDDIR)/*.toc \
-	$(BUILDDIR)/*.upa $(BUILDDIR)/*.log $(BUILDDIR)/*latexmk $(BUILDDIR)/*.synctex.gz
+
 
 
 ifneq (, $(shell which epubcheck))
@@ -42,13 +40,16 @@ EBOOKCONVERT := $(shell command -v ebook-convert 2>&1)
 JAVA         := $(shell command -v java 2>&1)
 INOTIFYWAIT  := $(shell command -v inotifywait 2>&1)
 
+LATEX_AUX := \
+	$(BUILDDIR)/*.aux $(BUILDDIR)/*.ent $(BUILDDIR)/*.fls $(BUILDDIR)/*.toc \
+	$(BUILDDIR)/*.upa $(BUILDDIR)/*.log $(BUILDDIR)/*latexmk $(BUILDDIR)/*.synctex.gz
+MKBUILDDIR := @mkdir -p $(BUILDDIR)
 
-# EPUBCHECK_VERSION = 4.2.6
-# https://github.com/IDPF/epubcheck/releases
-# EPUBCHECK_URL = https://github.com/IDPF/epubcheck/releases/download/v$(EPUBCHECK_VERSION)/epubcheck-$(EPUBCHECK_VERSION).zip
 
+COPYRIGHT_FILE := epub/html/OEBPS/Text/copyright.xhtml
+COPYRIGHT_SENTINEL := $(BUILDDIR)copyright_$(TODAY).xhtml
 
-HTMLSOURCEFILES := $(shell find $(HTMLSOURCE) 2> /dev/null | sort)
+HTMLSOURCEFILES := $(shell find $(HTMLSOURCE) ! -name '*.tpl' -type f)
 XHTMLFILES      := $(shell find $(HTMLSOURCE) -name '*.xhtml' 2> /dev/null | sort)
 
 TODAY := $(shell date --iso-8601)
@@ -57,34 +58,28 @@ TODAY := $(shell date --iso-8601)
 #-----------------------------------------------------------------------------------------#
 
 # Usual phonies
-.PHONY: all test clean epub checkepub mobi validate optimize view editepub watchepub
+.PHONY: all test clean
 # Targets with complex dependencies
 .PHONY: $(PDFFILE) TANGLED
-# Alt names
-.PHONY: pdf
+# Aliases
+.PHONY: pdf pdf2x epub mobi
+# Commands
+.PHONY: checkepub validate optimize view editepub watchepub
 
-all: pdf2x $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-$(BUILDDIR):
-	@echo "Creating a build directory..."
-	@mkdir -p "$(BUILDDIR)"
+all: $(PDFFILE) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 
 
 #-----------------------------------------------------------------------------------------#
 
 
-# TODO Keep tangled *.tex in a separate dir to properly point requisites
 TANGLED: ./recitations.tex.org
 	$(ORG_TANGLE) $<
 
 
 pdf2x: $(PDFFILE)  # Legacy target for compliance
 pdf: $(PDFFILE)
-$(PDFFILE): $(BUILDDIR) TANGLED
+$(PDFFILE): TANGLED
+	$(MKBUILDDIR)
 	$(LATEX) --jobname=$(basename $(PDFFILE)) $(FILE).tex;
 
 
@@ -107,17 +102,17 @@ pdfrequirements:
 
 #-----------------------------------------------------------------------------------------#
 
-COPYRIGHT_FILE := epub/html/OEBPS/Text/copyright.xhtml
-COPYRIGHT_SENTINEL := $(BUILDDIR)copyright_$(TODAY).xhtml
 
 
 $(COPYRIGHT_SENTINEL): $(COPYRIGHT_FILE).tpl
+	$(MKBUILDDIR)
 	sed 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' $< \
 		> $(COPYRIGHT_SENTINEL)
 
 
 epub: $(EPUBFILE)
-$(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES) $(COPYRIGHT_SENTINEL)
+$(EPUBFILE): $(HTMLSOURCEFILES) $(COPYRIGHT_SENTINEL)
+	$(MKBUILDDIR)
 	@echo "Building EPUB ebook..."
 	cp $(COPYRIGHT_SENTINEL) $(COPYRIGHT_FILE)
 	rm -f "$(EPUBFILE)"
@@ -131,7 +126,8 @@ $(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES) $(COPYRIGHT_SENTINEL)
 # Uses Calibre to produce a mobi Kindle ebook
 mobi: $(KINDLEFILE)
 $(KINDLEFILE): EPUB_COPY := $(basename $(EPUBFILE))_copy.epub
-$(KINDLEFILE): $(BUILDDIR) $(EPUBFILE)
+$(KINDLEFILE): $(EPUBFILE)
+	$(MKBUILDDIR)
 	@echo "Building mobi with KindleGen..."
 	cp -f "$(EPUBFILE)" "$(EPUB_COPY)"
 # FIXME Is following block it in use enywhere?
@@ -147,7 +143,7 @@ ifdef PNGFILES
 	@cd "tmp/$(HTMLSOURCE)" && zip -Xr9D "../../$(EPUB_COPY)" .
 	@rm -rf "tmp/"
 endif
-	# --mobi-keep-original-images keeps transparent BG, but makes MOBI larger
+	# mobi-keep-original-images keeps transparent BG, but makes MOBI larger
 	ebook-convert "$(EPUB_COPY)" "$(KINDLEFILE)" \
 		--mobi-file-type=new --pretty-print --no-inline-toc --disable-font-rescaling \
 		--embed-all-fonts --subset-embedded-fonts \
@@ -160,7 +156,8 @@ endif
 
 # Use Calibre to generate an azw3 Kindle ebook
 azw3: $(AZW3FILE)
-$(AZW3FILE): $(BUILDDIR) $(EPUBFILE)
+$(AZW3FILE): $(EPUBFILE)
+	$(MKBUILDDIR)
 ifndef EBOOKCONVERT
 	@echo "Error: Calibre was not found. Unable to convert to Kindle AZW3."
 	@exit 1
