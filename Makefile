@@ -55,9 +55,14 @@ TODAY := $(shell date --iso-8601)
 
 #-----------------------------------------------------------------------------------------#
 
-.PHONY: all test clean epub
+# Usual phonies
+.PHONY: all test clean validate optimize view editepub watchepub
+# Targets with complex dependencies
+.PHONY: $(PDFFILE) $(EPUBFILE) $(HANDBOOK_PDF)
+# Alt names
+.PHONY: pdf pdf2x epub handbook
 
-all: pdf2x handbook epub mobi azw3
+all: pdf2x $(HANDBOOK_PDF) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -71,14 +76,8 @@ $(BUILDDIR):
 #-----------------------------------------------------------------------------------------#
 
 
-dist:
-	./assets/tools/dist
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-pdf: $(BUILDDIR)
+pdf: $(PDFFILE)
+$(PDFFILE): $(BUILDDIR)
 	@echo "Tangling org document..."
 	$(ORG_TANGLE) ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
@@ -100,7 +99,8 @@ pdf2x: $(BUILDDIR)
 #-----------------------------------------------------------------------------------------#
 
 
-handbook: $(BUILDDIR)
+handbook: $(HANDBOOK_PDF)
+$(HANDBOOK_PDF): $(BUILDDIR)
 	@echo "Tangling org document..."
 	@$(ORG_TANGLE) ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
@@ -129,12 +129,11 @@ pdfrequirements:
 
 
 epub: $(EPUBFILE)
-
 $(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES)
 	@echo "Building EPUB ebook..."
 	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' epub/html/OEBPS/Text/copyright.xhtml
 	@rm -f "$(EPUBFILE)"
-	@cd "$(HTMLSOURCE)" && zip --exclude '*.epub' -Xr9D "../$(EPUBFILE)" mimetype .
+	cd "$(HTMLSOURCE)" && zip --exclude '*.epub' -Xr9D "../$(EPUBFILE)" mimetype .
 
 
 #-----------------------------------------------------------------------------------------#
@@ -146,6 +145,7 @@ $(KINDLEFILE): EPUB_COPY=$(basename $(EPUBFILE))_copy.epub
 $(KINDLEFILE): $(BUILDDIR) $(EPUBFILE)
 	@echo "Building mobi with KindleGen..."
 	cp -f "$(EPUBFILE)" "$(EPUB_COPY)"
+# FIXME Is following block it in use enywhere?
 ifdef PNGFILES
 	@for current in $(PNGFILES); do \
 		channels=$$(identify -format '%[channels]' "$$current"); \
@@ -180,6 +180,10 @@ else
 	ebook-convert "$(EPUBFILE)" "$(AZW3FILE)" --pretty-print --no-inline-toc --max-toc-links=0 --disable-font-rescaling
 endif
 
+
+#-----------------------------------------------------------------------------------------#
+
+
 # FIXME Delete or move up and update to set $(EPUBCHECK)
 $(EPUBCHECK):
 	@echo Downloading epubcheck...
@@ -193,6 +197,7 @@ $(EPUBCHECK):
 
 #-----------------------------------------------------------------------------------------#
 
+checkepub: validate  # FIXME Redundant target
 validate: $(EPUBFILE)
 ifdef EPUBCHECK
 	@echo "Validating EPUB..."
@@ -255,21 +260,6 @@ editwatchepub: $(CURRENTEPUB)
 	@echo "Watching file for errors..."
 	@make -j edit watchcurrent
 
-#-----------------------------------------------------------------------------------------#
-
-
-checkepub: $(CURRENTEPUB)
-	@clear
-	@epubcheck epub/current-recitations.epub
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-epub:
-	@echo "Archiving html and renaming to epub..."
-	@cd ./epub && zip -r html.zip html && mv html.zip current-recitations.epub
-	@echo "EPUB made and ready for editing..."
 
 
 #-----------------------------------------------------------------------------------------#
