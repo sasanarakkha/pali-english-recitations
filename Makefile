@@ -1,9 +1,8 @@
 # LuaLaTeX pdf
-FILE=main
-LATEX=lualatex
-BIBTEX=bibtex
-LATEX_OPTS=-interaction=nonstopmode -halt-on-error -synctex=1
-TEXMFHOME=~/.texmf
+FILE := main
+LATEX_OPTS := -interaction=nonstopmode -halt-on-error -synctex=1
+LATEX := latexmk -pdflualatex='lualatex $(LATEX_OPTS)'
+TEXMFHOME := ~/.texmf
 
 # https://www.ctan.org/pkg/tabularray
 TABULARRAY_URL = https://mirrors.ctan.org/macros/latex/contrib/tabularray.zip
@@ -24,7 +23,9 @@ PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
 KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
 AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
-HANDBOOK_PDF  := $(BUILDDIR)/$(RELEASENAME)_Handbook.pdf
+LATEX_AUX := \
+	$(BUILDDIR)/*.aux $(BUILDDIR)/*.ent $(BUILDDIR)/*.fls $(BUILDDIR)/*.toc \
+	$(BUILDDIR)/*.upa $(BUILDDIR)/*.log $(BUILDDIR)/*latexmk $(BUILDDIR)/*.synctex.gz
 
 
 ifneq (, $(shell which epubcheck))
@@ -56,13 +57,13 @@ TODAY := $(shell date --iso-8601)
 #-----------------------------------------------------------------------------------------#
 
 # Usual phonies
-.PHONY: all test clean validate optimize view editepub watchepub
+.PHONY: all test clean epub checkepub mobi validate optimize view editepub watchepub
 # Targets with complex dependencies
-.PHONY: $(PDFFILE) $(HANDBOOK_PDF)
+.PHONY: $(PDFFILE) TANGLED
 # Alt names
-.PHONY: pdf pdf2x handbook
+.PHONY: pdf
 
-all: pdf2x $(HANDBOOK_PDF) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
+all: pdf2x $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -76,35 +77,15 @@ $(BUILDDIR):
 #-----------------------------------------------------------------------------------------#
 
 
+# TODO Keep tangled *.tex in a separate dir to properly point requisites
+TANGLED: ./recitations.tex.org
+	$(ORG_TANGLE) $<
+
+
+pdf2x: $(PDFFILE)  # Legacy target for compliance
 pdf: $(PDFFILE)
-$(PDFFILE): $(BUILDDIR)
-	@echo "Tangling org document..."
-	$(ORG_TANGLE) ./recitations.tex.org
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	mv -f $(FILE).pdf "$(PDFFILE)"
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-pdf2x: $(BUILDDIR)
-	@echo "Tangling org document..."
-	@$(ORG_TANGLE) ./recitations.tex.org
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	@echo "Second run..."
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	mv -f $(FILE).pdf "$(PDFFILE)"
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-handbook: $(HANDBOOK_PDF)
-$(HANDBOOK_PDF): $(BUILDDIR)
-	@echo "Tangling org document..."
-	@$(ORG_TANGLE) ./recitations.tex.org
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	mv -f $(FILE).pdf "$(HANDBOOK_PDF)"
+$(PDFFILE): $(BUILDDIR) TANGLED
+	$(LATEX) --jobname=$(basename $(PDFFILE)) $(FILE).tex;
 
 
 #-----------------------------------------------------------------------------------------#
@@ -252,13 +233,17 @@ else
 	@ sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
 endif
 
+
+#-----------------------------------------------------------------------------------------#
+
+
 clean:
 	@echo Removing artifacts...
 	rm -f \
 		"$(PDFFILE)" "$(EPUBFILE)" "$(KINDLEFILE)" "$(AZW3FILE)" \
-		"$(IBOOKSFILE)" "$(HANDBOOK_PDF)" "$(COPYRIGHT_SENTINEL)
-	@# only remove dir if it's empty:
-	@(rm -fd $(BUILDDIR) || true)
+		"$(IBOOKSFILE)" "$(COPYRIGHT_SENTINEL)" $(LATEX_AUX)
+	# only remove dir if it's empty:
+	(rm -fd $(BUILDDIR) || true)
 
 
 #-----------------------------------------------------------------------------------------#
