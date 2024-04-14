@@ -16,7 +16,7 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
 BUILDDIR      := ./build/
-RELEASENAME   := "SBS_Pāli-English_Recitations"
+RELEASENAME   := SBS_Pāli-English_Recitations
 CURRENTEPUB   := ./epub/current-recitations.epub
 HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
@@ -24,10 +24,10 @@ PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
 KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
 AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
+HANDBOOK_PDF  := $(BUILDDIR)/$(RELEASENAME)_Handbook.pdf
 
 
 # EPUBCHECK  := ./assets/tools/epubcheck/epubcheck.jar
-# KINDLEGEN  := ./assets/tools/kindlegen
 ORG_TANGLE := ./assets/scripts/org-tangle.py
 
 
@@ -101,7 +101,7 @@ handbook: $(BUILDDIR)
 	@echo "Tangling org document..."
 	@$(ORG_TANGLE) ./recitations.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	mv -f $(FILE).pdf "./build/SBS_Pāli-English_Recitations_Handbook.pdf"
+	mv -f $(FILE).pdf "$(HANDBOOK_PDF)"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -137,11 +137,12 @@ $(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES)
 #-----------------------------------------------------------------------------------------#
 
 
-# Uses Amazon's KindleGen to produce a mobi Kindle ebook
+# Uses Calibre to produce a mobi Kindle ebook
 mobi: $(KINDLEFILE)
-$(KINDLEFILE): $(BUILDDIR) $(EPUBFILE) $(KINDLEGEN)
+$(KINDLEFILE): EPUB_COPY=$(basename $(EPUBFILE))_copy.epub
+$(KINDLEFILE): $(BUILDDIR) $(EPUBFILE)
 	@echo "Building mobi with KindleGen..."
-	@cp -f "$(EPUBFILE)" "$(KINDLEFILE).epub"
+	cp -f "$(EPUBFILE)" "$(EPUB_COPY)"
 ifdef PNGFILES
 	@for current in $(PNGFILES); do \
 		channels=$$(identify -format '%[channels]' "$$current"); \
@@ -151,12 +152,15 @@ ifdef PNGFILES
 			convert "$$current" -colorspace rgb "tmp/$$current"; \
 		fi; \
 	done
-	@cd "tmp/$(HTMLSOURCE)" && zip -Xr9D "../../$(KINDLEFILE).epub" .
+	@cd "tmp/$(HTMLSOURCE)" && zip -Xr9D "../../$(EPUB_COPY)" .
 	@rm -rf "tmp/"
 endif
-	@$(KINDLEGEN) "$(KINDLEFILE).epub" -dont_append_source -c1 || exit 0 # -c1 means standard PalmDOC compression. -c2 takes too long but probably makes it even smaller.
-	@rm -f "$(KINDLEFILE).epub"
-	@mv "$(KINDLEFILE).mobi" "$(KINDLEFILE)"
+	# --mobi-keep-original-images keeps transparent BG, but makes MOBI larger
+	ebook-convert "$(EPUB_COPY)" "$(KINDLEFILE)" \
+		--mobi-file-type=new --pretty-print --no-inline-toc --disable-font-rescaling \
+		--embed-all-fonts --subset-embedded-fonts \
+		--mobi-keep-original-images
+	rm -f "$(EPUB_COPY)"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -235,7 +239,9 @@ endif
 
 clean:
 	@echo Removing artifacts...
-	rm -f $(PDFFILE) "$(EPUBFILE)" "$(KINDLEFILE)" "$(AZW3FILE)" "$(IBOOKSFILE)"
+	rm -f \
+		"$(PDFFILE)" "$(EPUBFILE)" "$(KINDLEFILE)" "$(AZW3FILE)" \
+		"$(IBOOKSFILE)" "$(HANDBOOK_PDF)"
 	@# only remove dir if it's empty:
 	@(rm -fd $(BUILDDIR) || true)
 
