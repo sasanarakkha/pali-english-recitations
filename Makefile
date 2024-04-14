@@ -58,9 +58,9 @@ TODAY := $(shell date --iso-8601)
 # Usual phonies
 .PHONY: all test clean validate optimize view editepub watchepub
 # Targets with complex dependencies
-.PHONY: $(PDFFILE) $(EPUBFILE) $(HANDBOOK_PDF)
+.PHONY: $(PDFFILE) $(HANDBOOK_PDF)
 # Alt names
-.PHONY: pdf pdf2x epub handbook
+.PHONY: pdf pdf2x handbook
 
 all: pdf2x $(HANDBOOK_PDF) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 
@@ -126,14 +126,22 @@ pdfrequirements:
 
 #-----------------------------------------------------------------------------------------#
 
+COPYRIGHT_FILE := epub/html/OEBPS/Text/copyright.xhtml
+COPYRIGHT_SENTINEL := $(BUILDDIR)copyright_$(TODAY).xhtml
+
+
+$(COPYRIGHT_SENTINEL): $(COPYRIGHT_FILE).tpl
+	sed 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' $< \
+		> $(COPYRIGHT_SENTINEL)
 
 
 epub: $(EPUBFILE)
-$(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES)
+$(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES) $(COPYRIGHT_SENTINEL)
 	@echo "Building EPUB ebook..."
-	@sed -i 's/\(This version was created on:\) *[0-9-]\{10\}/\1 '"$(TODAY)"'/' epub/html/OEBPS/Text/copyright.xhtml
-	@rm -f "$(EPUBFILE)"
-	cd "$(HTMLSOURCE)" && zip --exclude '*.epub' -Xr9D "../$(EPUBFILE)" mimetype .
+	cp $(COPYRIGHT_SENTINEL) $(COPYRIGHT_FILE)
+	rm -f "$(EPUBFILE)"
+	cd "$(HTMLSOURCE)" && \
+		zip --exclude '*.epub' --exclude '*.tpl' -Xr9D "../$(EPUBFILE)" mimetype .
 
 
 #-----------------------------------------------------------------------------------------#
@@ -141,7 +149,7 @@ $(EPUBFILE): $(BUILDDIR) $(HTMLSOURCEFILES)
 
 # Uses Calibre to produce a mobi Kindle ebook
 mobi: $(KINDLEFILE)
-$(KINDLEFILE): EPUB_COPY=$(basename $(EPUBFILE))_copy.epub
+$(KINDLEFILE): EPUB_COPY := $(basename $(EPUBFILE))_copy.epub
 $(KINDLEFILE): $(BUILDDIR) $(EPUBFILE)
 	@echo "Building mobi with KindleGen..."
 	cp -f "$(EPUBFILE)" "$(EPUB_COPY)"
@@ -248,7 +256,7 @@ clean:
 	@echo Removing artifacts...
 	rm -f \
 		"$(PDFFILE)" "$(EPUBFILE)" "$(KINDLEFILE)" "$(AZW3FILE)" \
-		"$(IBOOKSFILE)" "$(HANDBOOK_PDF)"
+		"$(IBOOKSFILE)" "$(HANDBOOK_PDF)" "$(COPYRIGHT_SENTINEL)
 	@# only remove dir if it's empty:
 	@(rm -fd $(BUILDDIR) || true)
 
