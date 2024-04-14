@@ -46,13 +46,12 @@ LATEX_AUX := \
 MKBUILDDIR := @mkdir -p $(BUILDDIR)
 
 
+TODAY := $(shell date --iso-8601)
 COPYRIGHT_FILE := epub/html/OEBPS/Text/copyright.xhtml
 COPYRIGHT_SENTINEL := $(BUILDDIR)copyright_$(TODAY).xhtml
 
 HTMLSOURCEFILES := $(shell find $(HTMLSOURCE) ! -name '*.tpl' -type f)
 XHTMLFILES      := $(shell find $(HTMLSOURCE) -name '*.xhtml' 2> /dev/null | sort)
-
-TODAY := $(shell date --iso-8601)
 
 
 #-----------------------------------------------------------------------------------------#
