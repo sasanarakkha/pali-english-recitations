@@ -13,5 +13,5 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
+      - uses: sasanarakkha/document-build-actions@v1
         with: {}
