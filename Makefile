@@ -27,7 +27,10 @@ AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
 HANDBOOK_PDF  := $(BUILDDIR)/$(RELEASENAME)_Handbook.pdf
 
 
-# EPUBCHECK  := ./assets/tools/epubcheck/epubcheck.jar
+ifneq (, $(shell which epubcheck))
+EPUBCHECK := epubcheck
+endif
+
 ORG_TANGLE := ./assets/scripts/org-tangle.py
 
 
@@ -177,6 +180,7 @@ else
 	ebook-convert "$(EPUBFILE)" "$(AZW3FILE)" --pretty-print --no-inline-toc --max-toc-links=0 --disable-font-rescaling
 endif
 
+# FIXME Delete or move up and update to set $(EPUBCHECK)
 $(EPUBCHECK):
 	@echo Downloading epubcheck...
 	@curl -o "epubcheck.zip" -L "$(EPUBCHECK_URL)" --connect-timeout 30
@@ -189,15 +193,13 @@ $(EPUBCHECK):
 
 #-----------------------------------------------------------------------------------------#
 
-
-validate: $(EPUBFILE) $(EPUBCHECK)
-ifndef JAVA
-	@echo "Warning: Java was not found. Unable to validate ebook."
-else
+validate: $(EPUBFILE)
+ifdef EPUBCHECK
 	@echo "Validating EPUB..."
-	@$(JAVA) -jar "$(EPUBCHECK)" "$(EPUBFILE)"
+	"$(EPUBCHECK)" "$(EPUBFILE)"
+else
+	$(error Missing epubcheck)
 endif
-
 
 #-----------------------------------------------------------------------------------------#
 
