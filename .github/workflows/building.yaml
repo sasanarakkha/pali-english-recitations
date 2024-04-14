@@ -3,7 +3,7 @@
 name: Build documents
 'on':
   push:
-    branches: bergentroll/pali-english-recitations-builder:latest
+    branches:
       - main
 
 jobs:
