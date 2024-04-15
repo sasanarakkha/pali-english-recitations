@@ -582,7 +582,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
   \setsecnumformat{}%
 }
 
-\sectionPaliTitle{Buddh'ādi-āmisa-pūjā}
+\sectionSubTitle{Buddh'ādi-āmisa-pūjā}
 \section{Dedication of Offerings}
 \label{dedication-of-offerings}
 
@@ -596,8 +596,8 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 
 \linkdest{endnote2-body}
 \begin{english-hang}
-  To the Blessed One the Worthy One\makeatletter\hyperlink{endnote2-appendix}\Hy@raisedlink{{\pagenote{%\linebreak
-        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{WPN: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler''. The ``Worthy One'' seems a better choice of terms, since it is also how ``\textit{Arahant}'' was used in pre-Buddhist era. PTS explains: ``[Vedic \textit{arhant}, ppr. of \textit{arhati} (see \textit{arahati}), meaning deserving, worthy]''. Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus replacing previous translations, such as ``The Lord'', ``Noble One'' etc.}}}}}\makeatother\thinspace
+  To the Blessed One the Worthy One\ifdesktopversion\makeatletter\hyperlink{endnote2-appendix}\Hy@raisedlink{{\pagenote{%\linebreak
+        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{WPN: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler''. The ``Worthy One'' seems a better choice of terms, since it is also how ``\textit{Arahant}'' was used in pre-Buddhist era. PTS explains: ``[Vedic \textit{arhant}, ppr. of \textit{arhati} (see \textit{arahati}), meaning deserving, worthy]''. Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus replacing previous translations, such as ``The Lord'', ``Noble One'' etc.}}}}}\makeatother\thinspace\fi
   who fully attained Perfect Enlightenment
 \end{english-hang}
 
@@ -713,7 +713,7 @@ Saṅghaṁ namāmi
 ** Preliminary Homage
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
-\sectionPaliTitle{Pubbabhāga-namakāra}
+\sectionSubTitle{Pubbabhāga-namakāra}
 \section{Preliminary Homage}
 \label{preliminary-homage}
 
@@ -738,7 +738,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 ** Homage to the Buddha
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
-\sectionPaliTitle{Buddh'ābhitthuti}
+\sectionSubTitle{Buddh'ābhitthuti}
 \section{Homage to the Buddha}
 \label{homage-buddha}
 
@@ -848,7 +848,7 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
 ** Homage to the Dhamma
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
-\sectionPaliTitle{Dhamm'ābhitthuti}
+\sectionSubTitle{Dhamm'ābhitthuti}
 \section{Homage to the Dhamma}
 \label{homage-dhamma}
 
@@ -913,7 +913,7 @@ Paccattaṁ veditabbo viññūhi
 ** Homage to the Saṅgha
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
-\sectionPaliTitle{Saṅgh'ābhitthuti}
+\sectionSubTitle{Saṅgh'ābhitthuti}
 \section{Homage to the Saṅgha}
 \label{homage-sangha}
 
@@ -1017,7 +1017,7 @@ Anuttaraṁ puñña-kkhettaṁ lokassa
 ** Salutation to the Triple Gem
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
-\sectionPaliTitle{Ratanattaya-paṇāma}
+\sectionSubTitle{Ratanattaya-paṇāma}
 \section{Salutation to the Triple Gem}
 \label{salutation}
 
@@ -1465,7 +1465,7 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 ** Closing Homage
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
-\sectionPaliTitle{Pacchima-vandanā}
+\sectionSubTitle{Pacchima-vandanā}
 \section{Closing Homage}
 \label{closing-homage}
 
@@ -1563,7 +1563,7 @@ Saṅghaṁ namāmi
 ** The Buddha's First Exclamation
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Buddha-paṭhama-bhāsita}
+\sectionSubTitle{Buddha-paṭhama-bhāsita}
 \section{The Buddha's First Exclamation}
 \label{buddhas-first-exclamation}
 
@@ -1607,7 +1607,7 @@ Saṅghaṁ namāmi
 ** Respect for the Dhamma
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Dhamma-gārava}
+\sectionSubTitle{Dhamma-gārava}
 \section{Respect for the Dhamma}
 \label{respect-for-the-dhamma}
 
@@ -1696,7 +1696,7 @@ Saṅghaṁ namāmi
 ** Going to True and False Refuges
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Khem'ākhema-saraṇa-gamana}
+\sectionSubTitle{Khem'ākhema-saraṇa-gamana}
 \section{Going to True and False Refuges}
 \label{true-false-refuges}
 
@@ -1779,7 +1779,7 @@ Saṅghaṁ namāmi
 ** The Pāṭimokkha Exhortation
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Ovāda-pāṭimokkha-gāthā}
+\sectionSubTitle{Ovāda-pāṭimokkha-gāthā}
 \section{The Pāṭimokkha Exhortation}
 \label{patimokkha-exhortation}
 
@@ -1882,7 +1882,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** The Three Characteristics
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Ti-lakkhaṇā}
+\sectionSubTitle{Ti-lakkhaṇā}
 \section{The Three Characteristics}
 \label{three-characteristics}
 
@@ -1990,7 +1990,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** The Burdens
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Bhārā}
+\sectionSubTitle{Bhārā}
 \section{The Burdens}
 \label{burdens}
 
@@ -2033,7 +2033,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** From the Elder Raṭṭhapāla
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Raṭṭhapāla-thera-gāthā}
+\sectionSubTitle{Raṭṭhapāla-thera-gāthā}
 \section{From the Elder Raṭṭhapāla}
 \label{ratthapala}
 
@@ -2194,7 +2194,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** From the Elder Pārāpariya
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Pārāpariya-thera-gāthā}
+\sectionSubTitle{Pārāpariya-thera-gāthā}
 \section{From the Elder Pārāpariya}
 \label{parapariya}
 
@@ -2319,7 +2319,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** On Protection
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Tāyana-gāthā}
+\sectionSubTitle{Tāyana-gāthā}
 \section{On Protection}
 \label{protection}
 
@@ -2400,7 +2400,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** Miscellaneous Verses
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Pakiṇṇaka-gāthā}
+\sectionSubTitle{Pakiṇṇaka-gāthā}
 \section{Miscellaneous Verses}
 \label{misc-verses}
 
@@ -2637,7 +2637,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** A Single Excellent Night
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Bhadd'eka-ratta}
+\sectionSubTitle{Bhadd'eka-ratta}
 \section{A Single Excellent Night}
 \label{single-excellent-night}
 
@@ -2710,7 +2710,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** The Highest Blessings
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Maṅgala-sutta}
+\sectionSubTitle{Maṅgala-sutta}
 \section{The Highest Blessings}
 \label{highest-blessings}
 
@@ -2840,7 +2840,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** The Buddha's Words on Loving-Kindness
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
-\sectionPaliTitle{Karaṇīya-metta-sutta}
+\sectionSubTitle{Karaṇīya-metta-sutta}
 \section{The Buddha's Words on Loving-Kindness}
 \label{words-on-loving-kindness}
 
@@ -2909,7 +2909,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 #+RESULTS:
 #+begin_export latex
-\sectionPaliTitle{Karaṇīya-metta-sutta}
+\sectionSubTitle{Karaṇīya-metta-sutta}
 \section{The Buddha's Words on Loving-Kindness}
 \label{words-on-loving-kindness}
 
@@ -2992,7 +2992,7 @@ Etaṁ buddhāna'sāsanaṁ
 ** Setting in Motion the Wheel of Dhamma
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Dhamma-cakkappavattana}
+\sectionSubTitle{Dhamma-cakkappavattana}
 \section{Setting in Motion the Wheel of Dhamma}
 \label{wheel-of-dhamma-abridged}
 
@@ -3893,7 +3893,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 ** Requisites for Awakening
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Bodhipakkhiya-dhammā}
+\sectionSubTitle{Bodhipakkhiya-dhammā}
 \section{Requisites for Awakening}
 \label{requisites-for-awakening}
 
@@ -4006,7 +4006,7 @@ Ariyo aṭṭh'aṅgiko maggo
 ** The Seven Factors of Awakening
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Satta-sambojjh'aṅgā}
+\sectionSubTitle{Satta-sambojjh'aṅgā}
 \section{The Seven Factors of Awakening}
 \label{seven-factors-of-awakening}
 
@@ -4236,7 +4236,7 @@ Ime kho bhikkhave satta bojjh'aṅgā'ti
 ** The Noble Eightfold Path
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Ariy'āṭṭh'aṅgika-magga}
+\sectionSubTitle{Ariy'āṭṭh'aṅgika-magga}
 \section{The Noble Eightfold Path}
 \label{noble-eightfold-path}
 
@@ -4784,7 +4784,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 ** Mindfulness of Breathing
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Ānāpānassati}
+\sectionSubTitle{Ānāpānassati}
 \section{Mindfulness of Breathing}
 \label{mindfulness-of-breathing}
 
@@ -5145,7 +5145,7 @@ Maha-pphalā hoti mah'ānisaṁsā
 ** Dependent Origination
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Paṭicca-samuppāda}
+\sectionSubTitle{Paṭicca-samuppāda}
 \section{Dependent Origination}
 \label{dependent-origination}
 
@@ -5825,7 +5825,7 @@ Evam'etassa kevalassa dukkha-kkhandhassa samudayo hotī'ti:
 ** The Dhamma in Brief
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Saṅkhitta-dhamma}
+\sectionSubTitle{Saṅkhitta-dhamma}
 \section{The Dhamma in Brief}
 \label{dhamma-in-brief}
 
@@ -5939,7 +5939,7 @@ Eso dhammo eso vinayo etaṁ satthu-sāsanan'ti
 ** The Four Great References
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Cattāro mahāpadesā}
+\sectionSubTitle{Cattāro mahāpadesā}
 \section{The Four Great References}
 \label{four-great-references}
 
@@ -6203,7 +6203,7 @@ Ime kho bhikkhave cattāro mahāpadesā'ti
 ** Principles of Cordiality
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Cha sāraṇīyā-dhammā}
+\sectionSubTitle{Cha sāraṇīyā-dhammā}
 \section{Principles of Cordiality}
 \label{principles-of-cordiality}
 
@@ -6434,7 +6434,7 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā'ti
 ** Principles of Non-Decline
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Aparihāniya-dhammā}
+\sectionSubTitle{Aparihāniya-dhammā}
 \section{Principles of Non-Decline}
 \label{principles-of-non-decline}
 
@@ -6775,7 +6775,7 @@ Sovacassatā kalyāṇamittatā
 ** Striving According to the Dhamma
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Dhamma-pahaṁsāna}
+\sectionSubTitle{Dhamma-pahaṁsāna}
 \section{Striving According to the Dhamma}
 \label{striving-according-to-dhamma}
 
@@ -7036,7 +7036,7 @@ Alam'eva appamādena sampādetun'ti\makeatletter\hyperlink{endnote93-appendix}\H
 ** The Buddha's Final Instruction
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionPaliTitle{Buddha-pacchima-ovāda}
+\sectionSubTitle{Buddha-pacchima-ovāda}
 \section{The Buddha's Final Instruction}
 \label{buddhas-final-instruction}
 
@@ -7121,7 +7121,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 ** The Four Requisites
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Cattāro parikkhārā}
+\sectionSubTitle{Cattāro parikkhārā}
 \section{The Four Requisites}
 \label{four-requisites}
 
@@ -7199,7 +7199,7 @@ Abyāpajjha-paramatāyā'ti
 ** The Repulsiveness of Food
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Āhāra-paṭikūla-paccavekkhaṇa-pāṭho}
+\sectionSubTitle{Āhāra-paṭikūla-paccavekkhaṇa-pāṭho}
 \section{The Repulsiveness of Food}
 \label{repulsiveness-of-food}
 
@@ -7265,7 +7265,7 @@ Ativiya jigucchanīyo jāyati
 ** Universal Well-Being
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Mettā-pharaṇa}
+\sectionSubTitle{Mettā-pharaṇa}
 \section{Universal Well-Being}
 \label{universal-well-being}
 
@@ -7344,7 +7344,7 @@ Tassa dāy'ādā bhavissanti
 ** The Divine Abidings
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Brahmavihārā}
+\sectionSubTitle{Brahmavihārā}
 \section{The Divine Abidings}
 \label{divine-abidings}
 
@@ -7470,7 +7470,7 @@ Tassa dāy'ādā bhavissanti
 ** Five Subjects for Frequent Reflection
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Pañca-abhiṇha-paccavekkhaṇā}
+\sectionSubTitle{Pañca-abhiṇha-paccavekkhaṇā}
 \section{Five Subjects for Frequent Reflection}
 \label{five-reflections}
 
@@ -7550,7 +7550,7 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 ** Ten Subjects for Frequent Reflection by One Gone Forth
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā}
+\sectionSubTitle{Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā}
 \section{Ten Subjects for Frequent Reflection by One Gone Forth}
 \label{ten-reflections}
 
@@ -7732,7 +7732,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 ** The Thirty-Two Body Parts
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Dvattiṁs'ākāra-paccavekkhaṇa}
+\sectionSubTitle{Dvattiṁs'ākāra-paccavekkhaṇa}
 \section{The Thirty-Two Body Parts}
 \label{32-parts}
 
@@ -7829,7 +7829,7 @@ Atthi imasmiṁ kāye
 ** Recollection of Impermanence
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
-\sectionPaliTitle{Anicc'ānussati}
+\sectionSubTitle{Anicc'ānussati}
 \section{Recollection of Impermanence}
 \label{recollection-of-impermanence}
 
@@ -9257,7 +9257,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 ** Just as Rivers
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
-\sectionPaliTitle{Yathā vāri-vahā pūrā}
+\sectionSubTitle{Yathā vāri-vahā pūrā}
 \section{Just as Rivers}
 \label{just-as-rivers}
 
@@ -9463,7 +9463,9 @@ Sadā sotthī bhavantu te
 ** Yathā vāri-vahā pūrā
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
-\setsecheadstyle{\subsectionFmt}
+% \setsecheadstyle{\subsectionFmt}
+
+\sectionSubTitle{Just as Rivers}
 \section{Yathā vāri-vahā pūrā}
 \label{yatha-vari-vaha-pura}
 
@@ -9505,12 +9507,16 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[Dhp 109]}
 
+\clearpage
+
 #+end_src
 
 ** Ratanattayānubhāv'ādi-gāthā
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
-\setsecheadstyle{\subsectionFmt}
+% \setsecheadstyle{\subsectionFmt}
+% I do not recall why the line above appears a second time after Yatha-vari-vaha; uncommented for now
+\sectionSubTitle{Just as Rivers}
 \section{Ratanattay'ānubhāv'ādi-gāthā}
 \label{ratanattayanubhavadi-gatha}
 
@@ -9538,11 +9544,14 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[Thai]}
 
+\clearpage
+
 #+end_src
 
 ** Bhojana-dān'ānumodanā
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Bhojana-dān'ānumodanā}
 \label{bhojana-dananumodana}
 
@@ -9614,11 +9623,14 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[AN 5.37 / Dhp 109 / AN 3.155]}
 
+\clearpage
+
 #+end_src
 
 ** Culla-maṅgala-cakka-vāḷa
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Culla-maṅgala-cakka-vāḷa}
 \label{culla-mangala-cakka-vala}
 
@@ -9663,11 +9675,14 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[MJG]}
 
+\clearpage
+
 #+end_src
 
 ** Aggappasāda-sutta-gāthā
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Aggappasāda-sutta-gāthā}
 \label{aggappasada-sutta-gatha}
 
@@ -9737,11 +9752,14 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[AN 5.32]}
 
+\clearpage
+
 #+end_src
 
 ** Kāla-dāna-sutta-gāthā
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Kāla-dāna-sutta-gāthā}
 \label{kala-dana-sutta-gatha}
 
@@ -9810,11 +9828,14 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[AN 5.36]}
 
+\clearpage
+
 #+end_src
 
 ** So attha-laddho
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{So attha-laddho}
 \label{so-attha-laddho}
 
@@ -9863,7 +9884,7 @@ Sadā sotthī bhavantu te
 \suttaRef{[AN 3.155]}
 
 \bottomNav{just-as-rivers}
-% TODO : how to remove extraneous blank page
+% TODO : how to remove extraneous blank page?
 #+end_src
 
 * Protective Recitations
@@ -9885,9 +9906,12 @@ Sadā sotthī bhavantu te
 ** Devā-ārādhanā
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Devā-ārādhanā}
 \label{deva-aradhana}
 
+% TODO weird spacing here
+% delete the vspace?
 \vspace{-0.99em}
 
 \linkdest{endnote124-body}
@@ -9933,6 +9957,7 @@ Sadā sotthī bhavantu te
 ** Pubba-bhāga-nama-kāra-pāṭho
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho-protective}
 
@@ -9952,6 +9977,7 @@ Sadā sotthī bhavantu te
 ** Saraṇa-gamana-pāṭho
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Saraṇa-gamana-pāṭho}
 \label{sarana-gamana-patho}
 
@@ -9998,6 +10024,15 @@ Sadā sotthī bhavantu te
 ** Nama-kāra-siddhi-gāthā
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\begingroup
+\setsechook{%
+  % New page for each section.
+  \clearpage%
+  % Empty the default section number printing, so that we can handle it.
+  \setsecnumformat{}%
+}
+
+\sectionSubTitle{Just as Rivers}
 \section{Nama-kāra-siddhi-gāthā}
 \label{nama-kara-siddhi-gatha}
 
@@ -10076,6 +10111,7 @@ Sadā sotthī bhavantu te
 ** Namo-kāra-aṭṭhaka
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Namo-kāra-aṭṭhaka}
 \label{namo-kara-atthaka}
 
@@ -10139,6 +10175,7 @@ Sadā sotthī bhavantu te
 ** Maṅgala-sutta
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Maṅgala-sutta}
 \label{mangala-sutta}
 
@@ -10325,6 +10362,7 @@ Sadā sotthī bhavantu te
 ** Ratana-sutta
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Ratana-sutta}
 \label{ratana-sutta}
 
@@ -10616,6 +10654,7 @@ Sadā sotthī bhavantu te
 ** Karaṇīya-metta-sutta
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Karaṇīya-metta-sutta}
 \label{karaniya-metta-sutta}
 
@@ -10766,6 +10805,7 @@ Sadā sotthī bhavantu te
 ** Khandha-parittaṁ
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Khandha-parittaṁ}
 \label{khandha-parittam}
 
@@ -10865,6 +10905,7 @@ Sadā sotthī bhavantu te
 ** Buddha-dhamma-saṅgha-guṇā
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Buddha-dhamma-saṅgha-guṇā}
 \label{buddha-dhamma-sangha-guna}
 
@@ -10945,6 +10986,7 @@ Sadā sotthī bhavantu te
 ** Yaṅ'kiñci ratanaṁ loke
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Yaṅ'kiñci ratanaṁ loke}
 \label{yan-kinci-ratanam'loke}
 
@@ -11054,9 +11096,9 @@ Sadā sotthī bhavantu te
 ** Bojjh'aṅga-parittaṁ
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Bojjh'aṅga-parittaṁ}
 \label{bojjhana-parittam}
-
 
 \begin{pali-hangtogether}
   \anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\ \\
@@ -11140,96 +11182,10 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-#+RESULTS:
-#+begin_export latex
-\section{Bojjh'aṅga-parittaṁ}
-\label{bojjhana-parittam}
-
-
-\begin{pali-hangtogether}
-  \anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\ \\
-  Dhammānaṁ vicayo tathā\\
-  Viriyam'pīti-passaddhi\\
-  Bojjh'aṅgā ca tathā'pare\\
-  Samādh'upekkha-bojjh'aṅgā\\
-  Satt'ete sabba-dassinā\\
-  Muninā samma'd'akkhātā\\
-  Bhāvitā bahulī-katā\\
-  Saṁvattanti abhiññāya\\
-  Nibbānāya ca bodhiyā\\
-  Etena sacca-vajjena\\
-  Sotthi te hotu sabbadā
-\end{pali-hangtogether}
-
-\begin{english-verses}
-  The Factors for Awakening include mindfulness,\\
-  Investigation of qualities,\\
-  Persistence, rapture, \& serenity,\\
-  Plus concentration \& equanimity factors for Awakening.\\
-  These seven, which the All-seeing Sage has perfectly taught,\\
-  When developed \& matured bring about heightened knowledge, Liberation, \& awakening.\\
-  By the saying of this truth,\\
-  May you always be well.
-\end{english-verses}
-
-\begin{pali-hang-continued}
-  Ekasmiṁ samaye nātho\\
-  Moggallānañ'ca kassapaṁ\\
-  Gilāne dukkhite disvā\\
-  Bojjh'aṅge satta desayi\\
-  Te ca taṁ abhinanditvā\\
-  Rogā mucciṁsu taṅ'khaṇe\\
-  Etena sacca-vajjena\\
-  Sotthi te hotu sabbadā
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  At one time, our Protector seeing that Moggallana \& Kassapa\\
-  Were sick \& in pain, taught them the seven factors for Awakening.\\
-  They, delighting in that, were instantly freed from their illness.\\
-  By the saying of this truth, may you always be well.
-\end{english-verses}
-
-\begin{pali-hang-continued}
-  Ekadā dhamma-rājā'pi\\
-  Gelaññen'ābhipīḷito\\
-  Cundattherena taññ'eva\\
-  Bhaṇāpetvāna sādaraṁ\\
-  Sammoditvā ca ābādhā\\
-  Tamhā vuṭṭhāsi ṭhānaso\\
-  Etena sacca-vajjena\\
-  Sotthi te hotu sabbadā
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  Once, when the Dhamma King was afflicted with fever,\\
-  He had the Elder Cunda recite that very teaching with devotion.\\
-  And as he approved, he rose up from that disease.\\
-  By the saying of this truth, may you always be well.
-\end{english-verses}
-
-\begin{pali-hang-continued}
-  Pahīnā te ca ābādhā\\
-  Tiṇṇannam'pi mah'esinaṁ\\
-  Magg'āhata-kilesā va\\
-  Patt'ānuppatti-dhammataṁ\\
-  Etena sacca-vajjena\\
-  Sotthi te hotu sabbadā
-\end{pali-hang-continued}
-
-\begin{english-verses}
-  Those diseases were abandoned by the three great seers,\\
-  Just as defilements are demolished by the Path\\
-  In accordance with step-by-step attainment.\\
-  By the saying of this truth, may you always be well.
-\end{english-verses}
-
-\suttaRef{[Thai]}
-#+end_export
-
 ** Abhaya-parittaṁ
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Abhaya-parittaṁ}
 \label{abhaya-parittam}
 
@@ -11282,6 +11238,7 @@ Sadā sotthī bhavantu te
 ** Devatā-uyyojana-gāthā
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Devatā-uyyojana-gāthā}
 \label{devata-uyyojana-gatha}
 
@@ -11355,6 +11312,7 @@ Sadā sotthī bhavantu te
 ** Jaya-maṅgala-aṭṭha-gāthā
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Jaya-maṅgala-aṭṭha-gāthā}
 \label{jaya-mangala-attha-gatha}
 
@@ -11500,6 +11458,7 @@ Sadā sotthī bhavantu te
 ** Jaya-parittaṁ
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Jaya-parittaṁ}
 \label{jaya-parittam}
 
@@ -11592,6 +11551,7 @@ Sadā sotthī bhavantu te
 ** Bhavatu-sabba-maṅgalaṁ
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-sabba-mangalam'protective}
 
@@ -11662,6 +11622,7 @@ Sadā sotthī bhavantu te
 ** Pubba-bhāga-nama-kāra-pāṭho
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Pubba-bhāga-nama-kāra-pāṭho}
 \label{pubba-bhaga-nama-kara-patho-funeral}
 
@@ -11681,6 +11642,7 @@ Sadā sotthī bhavantu te
 ** Dhamma-saṅgaṇī-mātikā
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Dhamma-saṅgaṇī-mātikā}
 \label{dhamma-sangani-matika}
 
@@ -11955,6 +11917,7 @@ Sadā sotthī bhavantu te
 ** Vipassanā-bhūmi-pāṭho
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
 
@@ -12148,6 +12111,7 @@ Sadā sotthī bhavantu te
 ** Paṭṭhāna-mātikā-pāṭho
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Paṭṭhāna-mātikā-pāṭho}
 \label{patthana-matika-patho}
 
@@ -12166,6 +12130,7 @@ Sadā sotthī bhavantu te
 ** Adāsi-me ādi gāthā
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Adāsi-me ādi gāthā}
 \label{adasi-me-adi-gatha}
 
@@ -12232,6 +12197,7 @@ Sadā sotthī bhavantu te
 ** Paṁsu-kūla for the Dead
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Paṁsu-kūla for the Dead}
 \label{pamsu-kula-dead}
 
@@ -12276,6 +12242,7 @@ Sadā sotthī bhavantu te
 ** Paṁsu-kūla for the Living
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
+\sectionSubTitle{Just as Rivers}
 \section{Paṁsu-kūla for the Living}
 \label{pamsu-kula-living}
 
@@ -12300,6 +12267,8 @@ Sadā sotthī bhavantu te
 ** Bhavatu-sabba-maṅgalaṁ
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
+
+\sectionSubTitle{Just as Rivers}
 \section{Bhavatu-sabba-maṅgalaṁ}
 \label{bhavatu-funeral}
 
@@ -12349,6 +12318,8 @@ Sadā sotthī bhavantu te
 
 \bottomNav{recollection-of-impermanence}
 
+\endgroup
+
 #+end_src
 
 * Sharing of Merits
@@ -12376,7 +12347,7 @@ Sadā sotthī bhavantu te
   \setsecnumformat{}%
 }
 
-\sectionPaliTitle{Uddissan'ādhiṭṭhāna}
+\sectionSubTitle{Uddissan'ādhiṭṭhāna}
 \setsecheadstyle{\sectionFmt}
 
 \section{Sharing and Aspirations}
@@ -12463,7 +12434,7 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
 ** Sharing of All Merits
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
-\sectionPaliTitle{Sabba-patti-dāna}
+\sectionSubTitle{Sabba-patti-dāna}
 \section{Sharing of All Merits}
 \label{sharing-all-merits}
 
@@ -12532,7 +12503,7 @@ Khema-ppadañ'ca pappontu tesāsā sijjhataṁ subhā
 ** Sharing of Merits with the Departed
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
-\sectionPaliTitle{Peta-patti-dāna}
+\sectionSubTitle{Peta-patti-dāna}
 \section{Sharing of Merits with the Departed}
 \label{sharing-merits-departed}
 
@@ -12563,7 +12534,7 @@ Khema-ppadañ'ca pappontu tesāsā sijjhataṁ subhā
 ** Sharing of Merits with the Devas
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
-\sectionPaliTitle{Devata-patti-dāna}
+\sectionSubTitle{Devata-patti-dāna}
 \section{Sharing of Merits with the Devas}
 \label{sharing-merits-devas}
 
@@ -12619,7 +12590,7 @@ Sabba-sampatti-siddhiyā
 ** The Highest Honour and Aspirations
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
-\sectionPaliTitle{Paramāya pūjāyañ'ca paṇidhiñ'ca}
+\sectionSubTitle{Paramāya pūjāyañ'ca paṇidhiñ'ca}
 \section{The Highest Honour and Aspirations}
 \label{highest-honour-aspirations}
 
@@ -13021,6 +12992,9 @@ Sādhu sādhu sādhu
 \section{Pāli Phonetics and Pronunciation}
 \label{phonetics}
 
+% the wizardry that brought about this table
+% https://tex.stackexchange.com/users/264581/paladhammika
+
 \begin{table}[ht]
   \centering
   \resizebox{\textwidth}{!}{%
@@ -13028,6 +13002,7 @@ Sādhu sādhu sādhu
         colspec={l *{11}{c}},
         hlines, vlines,
         row{1-5}={font=\small},
+        cell{6-Z}{2-12}={font=\itshape}
       }
       \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
       & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
@@ -13044,7 +13019,8 @@ Sādhu sādhu sādhu
       Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
       Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
       Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
-    \end{tblr}}
+    \end{tblr}
+  }
 \end{table}
 
 % \vspace{-0.5cm}
