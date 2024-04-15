@@ -2,6 +2,9 @@
 \section{Pāli Phonetics and Pronunciation}
 \label{phonetics}
 
+% the wizardry that brought about this table
+% https://tex.stackexchange.com/users/264581/paladhammika
+
 \begin{table}[ht]
   \centering
   \resizebox{\textwidth}{!}{%
@@ -9,6 +12,7 @@
         colspec={l *{11}{c}},
         hlines, vlines,
         row{1-5}={font=\small},
+        cell{6-Z}{2-12}={font=\itshape}
       }
       \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
       & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
@@ -25,7 +29,8 @@
       Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
       Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
       Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
-    \end{tblr}}
+    \end{tblr}
+  }
 \end{table}
 
 % \vspace{-0.5cm}
