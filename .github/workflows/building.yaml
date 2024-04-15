@@ -9,7 +9,7 @@ name: Build documents
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: bergentroll/pali-english-recitations-builder:latest
+    container: ghcr.io/sasanarakkha/document-build-actions:main
     permissions:
       contents: write
     steps:
