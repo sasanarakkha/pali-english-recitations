@@ -1550,16 +1550,16 @@ philo-sophical munindo amaravati thai-land}
       \par%
     }{}
       %
-      % Print the subtitle if it has been set with \sectionPaliTitle, then reset
+      % Print the subtitle if it has been set with \sectionSubTitle, then reset
       % it so following sections don't use the same value.
       \vspace*{-4pt}%
       \parbox{\linewidth}{%
         \centering%
-        % font size for paliTitle
+        % font size for subtitle
         \color{black}
         \fontsize{12}{14}\selectfont
         \@secSubTitle%
-        \sectionPaliTitleClear%
+        \sectionSubTitleClear%
       }%
       %
       % Adjust the spacing before the bottom rule.
@@ -1607,6 +1607,7 @@ philo-sophical munindo amaravati thai-land}
       \end{minipage}}%
     % \vspace*{-7.2pt}% what is the needed for? commented removes gap in anumodana-paritta section
     % #1%
+    %
   }%
 }
 
@@ -1655,14 +1656,14 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand*\@secSubTitle{}
 
-% Formatting for the Pali subtitle which resides below the English section tile.
-\newcommand\sectionPaliTitle[1]{%
+% Formatting for the Subtitle which resides below the section tile.
+\newcommand\sectionSubTitle[1]{%
   % \fontsize{8}{8}\selectfont #1\par
   \renewcommand*\@secSubTitle{#1}%
   \global\sectionsubtitletrue%
 }
 
-\newcommand\sectionPaliTitleClear{%
+\newcommand\sectionSubTitleClear{%
   \renewcommand*\@secSubTitle{}%
   \global\sectionsubtitlefalse%
 }
