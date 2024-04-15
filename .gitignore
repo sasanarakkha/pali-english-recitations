@@ -5,6 +5,7 @@ build/
 main.pdf
 epub/current-recitations.epub
 epub/current-recitations.azw3
+epub/html/OEBPS/Text/copyright.xhtml
 
 # Emacs temp files
 *~
