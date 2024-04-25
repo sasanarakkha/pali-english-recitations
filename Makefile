@@ -1,5 +1,6 @@
 # LuaLaTeX pdf
 FILE := main
+FILE := main
 LATEX_OPTS := -interaction=nonstopmode -halt-on-error -synctex=1
 LATEX := latexmk -pdflualatex='lualatex $(LATEX_OPTS)'
 TEXMFHOME := ~/.texmf
@@ -19,7 +20,8 @@ RELEASENAME   := SBS_Pāli-English_Recitations
 CURRENTEPUB   := ./epub/current-recitations.epub
 HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
-PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
+A6PDFFILE       := $(BUILDDIR)/$(RELEASENAME)-A6.pdf
+A4PDFFILE       := $(BUILDDIR)/$(RELEASENAME)-A4.pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
 KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
 AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
@@ -30,7 +32,7 @@ ifneq (, $(shell which epubcheck))
 EPUBCHECK := epubcheck
 endif
 
-ORG_TANGLE := ./assets/scripts/org-tangle.py
+ORG_TANGLE := ./assets/bin/org-tangle.py
 
 
 EBOOKEDITOR  := $(shell command -v sigil  2>&1 || sigil 2>&1)
@@ -65,7 +67,7 @@ XHTMLFILES      := $(shell find $(HTMLSOURCE) -name '*.xhtml' 2> /dev/null | sor
 # Commands
 .PHONY: checkepub validate optimize view editepub watchepub
 
-all: $(PDFFILE) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
+all: $(A6PDFFILE) $(A4PDFFILE) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -75,11 +77,17 @@ TANGLED: ./recitations.tex.org
 	$(ORG_TANGLE) $<
 
 
-pdf2x: $(PDFFILE)  # Legacy target for compliance
-pdf: $(PDFFILE)
-$(PDFFILE): TANGLED
+a6-pdf2x: $(A6PDFFILE)  # Legacy target for compliance
+a6-pdf: $(A6PDFFILE)
+$(A6PDFFILE): TANGLED
 	$(MKBUILDDIR)
-	$(LATEX) --jobname=$(basename $(PDFFILE)) $(FILE).tex;
+	$(LATEX) --jobname=$(basename $(A6PDFFILE)) $(A6FILE).tex;
+
+a4-pdf2x: $(A4PDFFILE)  # Legacy target for compliance
+a4-pdf: $(A4PDFFILE)
+$(A4PDFFILE): TANGLED
+	$(MKBUILDDIR)
+	$(LATEX) --jobname=$(basename $(A4PDFFILE)) $(A4FILE).tex;
 
 
 #-----------------------------------------------------------------------------------------#
