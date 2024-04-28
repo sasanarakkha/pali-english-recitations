@@ -1,7 +1,7 @@
 \documentclass[
 final,
 babelLanguage=british,
-digitalVersion,
+% desktopVersion,
 % showtrims,
 % overleaf,
 ]{A6-anecdote}
@@ -55,11 +55,11 @@ digitalVersion,
 
 \frontmatter
 
-% TODO is an else argument needed for non e/digital?
+% TODO is an else argument needed for non e/desktop?
 % TODO need to compress new a6 covers then add '-compressed'
 
-\ifdigitalversion
-\eCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+\ifdesktopversion
+\desktopCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
 \fi
 
 \pagestyle{empty}
@@ -116,11 +116,11 @@ digitalVersion,
 
 \emptyUntilEven
 
-% TODO is an else argument needed for non desktop/digital?
+% TODO is an else argument needed for non desktop/desktop?
 % TODO correct path when image available
-\ifdigitalversion
+\ifdesktopversion
 \clearpage
-\digitalCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+\desktopCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
 \fi
 
 \end{document}

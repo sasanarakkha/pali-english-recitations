@@ -1,7 +1,7 @@
 \documentclass[
 final,
 babelLanguage=british,
-digitalversion,
+desktopversion,
 % showtrims,
 % overleaf,
 ]{a5-anecdote}
@@ -56,8 +56,8 @@ digitalversion,
 
 \frontmatter
 
-\ifdigitalversion
-\digitalCover{\includegraphics[height=\paperheight]{./front-cover-compressed.jpg}}
+\ifdesktopversion
+\desktopCover{\includegraphics[height=\paperheight]{./front-cover-compressed.jpg}}
 \fi
 
 \pagestyle{empty}
@@ -114,9 +114,9 @@ digitalversion,
 
 \emptyUntilEven
 
-\ifdigitalversion
+\ifdesktopversion
 \clearpage
-\digitalCover{\includegraphics[height=\paperheight]{./back-cover-compressed.jpg}}
+\desktopCover{\includegraphics[height=\paperheight]{./back-cover-compressed.jpg}}
 \fi
 
 \end{document}

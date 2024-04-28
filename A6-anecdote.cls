@@ -17,46 +17,42 @@
 
 %%%%%%%%%%% Preliminary Declarations %%%%%%%%%%%
 
-\newif\ifdigitalversion
-\digitalversionfalse
-
-\newif\ifoverleaf
-\overleaffalse
-
-% Enables conditionals for Reference Edition
-% TODO investigate what differences these actually make for the respective formats
-% \newif\ifhandbookedition
-% \handbookeditionfalse
-
-% \newif\ifreferenceedition
-% \referenceeditiontrue
+% Define a conditional for desktop version, initially set to false
+\newif\ifdesktopversion
+\desktopversionfalse
 
 %%%%%%%%%%%%%%%%%%% Options %%%%%%%%%%%%%%%%%%%%
 
+% Load required packages: pgfopts and calc
 \RequirePackage{pgfopts}
 \RequirePackage{calc}
 
+% Define pgfkeys for BOOK settings
 \pgfkeys{
   /BOOK/.cd,
+  % Default value for babelLanguage is 'british'
   babelLanguage/.default=british,
+  % Store the value of babelLanguage in \BOOK@babelLanguage
   babelLanguage/.store in=\BOOK@babelLanguage,
-  digitalversion/.code=\digitalversiontrue,
-  overleaf/.code=\overleaftrue,
+  % Set desktopVersion to true if specified in options
+  desktopVersion/.code=\desktopversiontrue,
 }
 
-% Pass all unknown options to memoir
+% Pass all unknown options to the memoir class
 \DeclareOption*{%
   \PassOptionsToClass{\CurrentOption}{memoir}
 }
 
+% Process pgfkeys options under /BOOK
 \ProcessPgfOptions{/BOOK}
-\ProcessOptions\relax
 
+% Process other package options
+\ProcessOptions\relax
 
 %%%%%%%%%%%% All Other Declarations %%%%%%%%%%%%
 
-% One side of digital version
-\ifdigitalversion
+% One side of desktop version
+\ifdesktopversion
 \LoadClass[11pt,oneside,oldfontcommands]{memoir}
 \else
 \LoadClass[11pt,twoside,oldfontcommands]{memoir}
@@ -258,7 +254,7 @@
 \newcommand{\copyrightsize}{\@setfontsize\copyrightsize{6}{8}}
 
 \renewcommand{\footnotesize}{%
-   \@setfontsize\footnotesize{6}{8}%
+   \@setfontsize\footnotesize{6}{8}%%
    \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
    \abovedisplayshortskip \z@ \@plus\p@
    \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
@@ -273,13 +269,13 @@
 
 %%%%%%%%%%%%%%%% Foreign Languuge Wrappers %%%%%%%%%%%%%%%%
 
-% TODO MARKED FOR DELETION
+% MARKED FOR DELETION
 % \newfontfamily\thaiFont{Kinnari.ttf}
 % \newcommand*\thai[1]{{\thaiFont #1}}
 
 \newcommand{\instrFmt}{%
   \color{instruction}\instructionFont\upshape\fontsize{7}{9}\selectfont%
-}
+  }
 
 \newcommand\pointerMark{\vspace*{-1pt}\blackpointerright}
 
@@ -306,8 +302,8 @@
   breaklinks
 }
 
-\ifdigitalversion
-% Colors: in the digital version, use colored link text
+\ifdesktopversion
+% Colors: in the desktop version, use colored link text
 \hypersetup{
   colorlinks=true,
   linkcolor=sbs-brown,
@@ -548,12 +544,12 @@ philo-sophical munindo amaravati thai-land}
   \ifthenelse{\equal{#1}{}}{\textit{A:}\space}{\textit{#1:}\space}%
 }
 
-% If class option digitalversion is used, show content in a paper sized
+% If class option desktopVersion is used, show content in a paper sized
 % minipage, empty page otherwise.
-% Redefine \color{digitalcoverbg} to change page background color.
-\newcommand\digitalCover[1]{%
+% Redefine \color{desktopcoverbg} to change page background color.
+\newcommand\desktopCover[1]{%
 \thispagestyle{empty}\mbox{}
-\ifdigitalversion
+\ifdesktopversion
 \AddToShipoutPictureFG*{\put(0,0){%
 \begin{minipage}[b][\paperheight][c]{\paperwidth}%
 #1
@@ -862,33 +858,12 @@ philo-sophical munindo amaravati thai-land}
   \raisebox{0.0\baselineskip}{\Large\symbol{"232A}}%
  }
 
-% Original bottomNav
-% Navigation links at the bottom of the page
-% Places a link to the Recitation Schedule, and a link to the next chant in the schedule.
-%
-% #1 : label to the next chant
-% \newcommand\bottomNav[1]{%
-%   \vfill
-%   \begin{minipage}{\linewidth}%
-%     \centering
-%     % \hyperref[contents]{$\Leftarrow$}\hspace*{1em}%
-%     \hyperref[contents]{
-%     \textbf{\textsc{\textls*{contents}}}}\hspace*{0.1em}%
-%     \hspace*{0.2em} \textbf{--} \hspace*{0.2em}%
-%     % \hyperref[#1]{$\Rightarrow$}%
-%     \hyperref[contents]{%
-%     \textbf{\textsc{\textls*{next}}}}\hspace*{0.1em}%
-%   \end{minipage}%
-% }
-
 \newcommand\bottomNav[1]{%
   \vfill
-  \ifdigitalversion
+  \ifdesktopversion
   \begin{minipage}{\linewidth}%
-    % \centering
     \hyperref[schedule]{%
       \textbf{\raggedright\textsc{\fontsize{9}{0}\textls*{Schedule}}}}
-    % \hspace*{0.05em} \pgfornament[color=brown,width=5mm,scale=0,ydelta=-3.5pt,symmetry=c]{4} \hspace*{0.05em}%
     \hfill
     \hyperref[#1]{%
       \textbf{\raggedleft\textsc{\fontsize{9}{0}\textls*{Next}}}}%
@@ -1494,33 +1469,12 @@ philo-sophical munindo amaravati thai-land}
 
 % Section title formatting (e.g. 'Homage to the Buddha')
 \newcommand\sectionFmt[1]{%
-  % A box with contains the entire ruled title
-  % \begin{minipage}{\linewidth}%
+
     \centering%
     \sectionFont\fontsize{11}{11}\selectfont%
-    % \setlength{\parskip}{2pt}%
-    %
-    % Top rule
-    % \rule{\linewidth}{0.4pt}%
-    % \linebreak%
-    % Measure the length of the section title at the current point size
+
     \setlength{\sectionTitleLength}{\widthof{\mbox{\textbf{\textls*{\textsc{#1}}}}}}%
-    %
-    % Box for the section number
-    % \begin{minipage}[t]{0.001\linewidth}% padding for the title
-      % Only print the section number in the mainmatter,
-      % but the empty box is necessary for horizontal spacing.
-      % \if@mainmatter%
-      %   \raggedright%
-      %   \textbf{\textls*{\textsc{\thesection}}}%
-      % \else%
-      %   \mbox{}%
-      % \fi%
-      % No section number, but minipage needs content (an empty box).
-      % \mbox{}%
-    % \end{minipage}%
-    %
-    % Box for the section title text
+
     % TODO: hyperef wrap is disorienting the remainder of brackets
     \hyperref[schedule]{%
       \begin{minipage}[t]{\linewidth}%
@@ -1528,20 +1482,7 @@ philo-sophical munindo amaravati thai-land}
         % To hyperlink the text only, put \hyperref around the below
         \textbf{\textls*{\textsc{#1}}}%
       \end{minipage}}%
-    %
-    % Box for the arrow link back to the schedule.
-    % Uncomment below to end to regain arrow and box
-    % \begin{minipage}[t]{0.1\linewidth}%
-    %   % Only print content in the mainmatter.
-    %   \if@mainmatter%
-    %     \raggedleft%
-    %     \hyperref[schedule]{$\Leftarrow$}%
-    %   \else%
-    %     \mbox{}%
-    %   \fi%
-    % \end{minipage}%
-    %
-    % New paragraph.
+
     \par%
     \ifsectionsubtitle%
       % If there is a subtitle, and the title is more than one line, adjust the spacing.
@@ -1588,7 +1529,7 @@ philo-sophical munindo amaravati thai-land}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
   \begin{minipage}{\linewidth}%
     \centering%
-    \pgfornament[color=black,width=7cm,scale=1,ydelta=24pt,symmetry=c]{88}%
+    \pgfornament[color=black,width=5cm,scale=1,ydelta=12pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
   % Starting at the title hyperref above
@@ -1640,7 +1581,7 @@ philo-sophical munindo amaravati thai-land}
 %   \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
 % }
 
-% \newcommand\paliTitle[1]{%
+% \newcommand\subTitle[1]{%
 %   \vspace*{-1ex}%
 %   \tocEnglishTitle{#1}%
 %   {%
@@ -1687,8 +1628,8 @@ philo-sophical munindo amaravati thai-land}
 
 %%%%%%%%%%%%%%%% Normalsize %%%%%%%%%%%%%%%%
 
-\def\BOOK@fontSizePt{9}
-\def\BOOK@lineHeightPt{13}
+\def\BOOK@fontSizePt{8}
+\def\BOOK@lineHeightPt{14}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
@@ -1711,12 +1652,13 @@ philo-sophical munindo amaravati thai-land}
 
 %%%%%%%%%%%%%%%% Setup Page Layout %%%%%%%%%%%%%%%%
 
-% A6 page size
+% A5 page size
 \setlength{\BOOK@paperHeight}{148mm}
 \setlength{\BOOK@paperWidth}{105mm}
 
 \ifshowtrims
   \stockaiv% use A4 paper size to show trims
+  % TODO would \stockavi be needed for A6?
   \setlength{\paperheight}{\BOOK@paperHeight}
   \setlength{\paperwidth}{\BOOK@paperWidth}
   \trimXmarks
@@ -1730,25 +1672,37 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-% A6 Page Margins
-% TODO do these need to be fixed he margins appear off. easily seen on the title page
-\settypeblocksize{25\baselineskip + \topskip}{85mm}{*}
-\setlrmargins{*}{10mm}{*}
-\setulmargins{*}{*}{*}
-\setmarginnotes{7pt}{14pt}{5pt}
-
-% A5 Page Margins
-%\settypeblocksize{27\baselineskip + \topskip}{120mm}{*}
+% Page Margins
+% \settypeblocksize{27\baselineskip + \topskip}{120mm}{*}
+% \settypeblocksize{27\baselineskip + \topskip}{80mm}{*} % Adjusted for A6 size
 % \setlrmargins{15mm}{*}{*}
-% \setulmargins{*}{10mm}{1}
+% \setulmargins{*}{10mm}{*}
 % \setmarginnotes{8pt}{14pt}{6pt}
 
+% \settypeblocksize{25\baselineskip + \topskip}{88mm}{*} % Type block size <-- this has offered more control than \setlr and \setul below
+% \setlrmargins{8.5mm}{*}{*} % Left and right margins
+% TODO this is close but still needs some tweaking
+% \setulmargins{*}{8mm}{1} % Upper and lower margins
+% \setmarginnotes{7pt}{14pt}{6pt} % Margin notes
+
+% Thank you GPT. This looks appropriate
+\settypeblocksize{130mm}{90mm}{*}
+\setlrmargins{*}{*}{*}
+\setulmargins{*}{*}{*}
 
 \setlength{\footskip}{15pt}
 
+% \addtolength{\headheight}{2pt}
+
+
+
+
+% \setlength{\headsep}{\baselineskip} % Adjust distance between header and text
+% \setlength{\headheight}{\baselineskip}
+
 % Adjust spacing to avoid warning
 % Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
-\addtolength{\headheight}{6pt}
+\addtolength{\headheight}{0pt}
 \addtolength{\headsep}{-15pt}
 
 % Increase overfull and underfull tolerance to avoid too many warnings such as
@@ -1770,9 +1724,7 @@ philo-sophical munindo amaravati thai-land}
 \renewcommand\sideparfont{\instrFmt}
 
 \renewcommand*\sideparform{%
-  \vspace*{-4.2pt}%
-  % TODO rm?
-  % \vspace*{-7.2pt}%
+  \vspace*{-7.2pt}%
   \ifmemtortm\raggedright\else\raggedleft\fi
 }
 
@@ -1799,31 +1751,3 @@ philo-sophical munindo amaravati thai-land}
 \makeatletter
  \newcommand{\linkdest}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
 \makeatother
-
-% A no-package-needed approach to provide git commit information. The commit produced is shown on the Copyright page.
-% \newcommand\dotGitHEAD{}
-% \newcommand\branch{}
-% \newcommand\commit{}
-
-
-% \makeatletter\let\myfilehandle\@inputcheck\makeatother
-
-% \openin\myfilehandle=.git/HEAD\relax
-
-% \begingroup\endlinechar-1
-%   \global\read\myfilehandle to \dotGitHEAD
-% \endgroup
-% \closein\myfilehandle
-
-% \newcommand\GetBranch{}
-% \def\GetBranch ref: refs/heads/#1\relax{\renewcommand{\branch}{#1}}
-
-% \expandafter\GetBranch\dotGitHEAD\relax
-
-% \openin\myfilehandle=.git/refs/heads/\branch\relax
-
-% \begingroup\endlinechar-1
-%   \global\read\myfilehandle to \commit
-% \endgroup
-% \closein\myfilehandle
-

@@ -17,8 +17,8 @@
 
 %%%%%%%%%%% Preliminary Declarations %%%%%%%%%%%
 
-\newif\ifdigitalversion
-\digitalversionfalse
+\newif\ifdesktopversion
+\desktopversionfalse
 
 \newif\ifoverleaf
 \overleaffalse
@@ -39,7 +39,7 @@
   /BOOK/.cd,
   babelLanguage/.default=british,
   babelLanguage/.store in=\BOOK@babelLanguage,
-  digitalversion/.code=\digitalversiontrue,
+  desktopversion/.code=\desktopversiontrue,
   overleaf/.code=\overleaftrue,
 }
 
@@ -54,8 +54,8 @@
 
 %%%%%%%%%%%% All Other Declarations %%%%%%%%%%%%
 
-% One side of digital version
-\ifdigitalversion
+% One side of desktop version
+\ifdesktopversion
 \LoadClass[11pt,oneside,oldfontcommands]{memoir}
 \else
 \LoadClass[11pt,twoside,oldfontcommands]{memoir}
@@ -305,8 +305,8 @@
   breaklinks
 }
 
-\ifdigitalversion
-% Colors: in the digital version, use colored link text
+\ifdesktopversion
+% Colors: in the desktop version, use colored link text
 \hypersetup{
   colorlinks=true,
   linkcolor=sbs-brown,
@@ -547,12 +547,12 @@ philo-sophical munindo amaravati thai-land}
   \ifthenelse{\equal{#1}{}}{\textit{A:}\space}{\textit{#1:}\space}%
 }
 
-% If class option digitalversion is used, show content in a paper sized
+% If class option desktopversion is used, show content in a paper sized
 % minipage, empty page otherwise.
-% Redefine \color{digitalcoverbg} to change page background color.
-\newcommand\digitalCover[1]{%
+% Redefine \color{desktopcoverbg} to change page background color.
+\newcommand\desktopCover[1]{%
 \thispagestyle{empty}\mbox{}
-\ifdigitalversion
+\ifdesktopversion
 \AddToShipoutPictureFG*{\put(0,0){%
 \begin{minipage}[b][\paperheight][c]{\paperwidth}%
 #1
@@ -882,7 +882,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\bottomNav[1]{%
   \vfill
-  \ifdigitalversion
+  \ifdesktopversion
   \begin{minipage}{\linewidth}%
     % \centering
     \hyperref[schedule]{%
