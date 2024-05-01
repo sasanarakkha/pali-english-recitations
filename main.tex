@@ -1,0 +1,127 @@
+\documentclass[
+final,
+babelLanguage=british,
+% desktopVersion,
+asixVersion,
+% axVersion,
+% showtrims,
+]{anecdote}
+
+\graphicspath{{./assets/title-pages/A6}{./assets/graphics}}
+
+% Page size: 148mm x 105mm (A6)
+
+\usepackage{local}
+
+%%%%%%%%%%%%%%%% Details of the Book %%%%%%%%%%%%%%%%
+
+\title{SBS Pāli-English Recitations}
+\subtitle{Monk Training Centre}
+\author{SBS Monk Training Centre}
+\publisher{Sāsanārakkha Buddhist Sanctuary}
+\date{2021-10-30}% chktex 8
+\editionInfo{\textit{First Edition}, 2024}
+\ISBN{000-0-00000-000-0}
+
+%%%%%%%%%%%%%%%% Metadata %%%%%%%%%%%%%%%%
+
+\hypersetup{
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor},
+  pdfcopyright={Copyright (C) 2024, \thePublisher},
+  pdfsubject={},% subject
+  pdfkeywords={},% keywords
+  pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
+  pdfcontacturl={},
+  pdflang={en},
+}
+
+%%%%%%%%%%%%%%%% Load Further Packages  %%%%%%%%%%%%%%%%
+
+% Adds the time to version creation.
+\usepackage[yyyymmdd,hhmmss]{datetime}
+% \usepackage{titlesec}
+
+% Using memoir's endnotes, called pagenotes
+\makepagenote
+\continuousnotenums
+
+%%%%%%%%%%%%%%%% Hyphenation Exceptions and Corrections   %%%%%%%%%%%%%%%%
+
+\hyphenation{London re-lin-quishes de-ter-mines}
+
+\openany%
+
+\begin{document}
+
+\frontmatter
+
+% TODO is an else argument needed for non e/desktop?
+% TODO do printed documents need images to be within the pdf or should these be handles separately?
+
+\ifdesktopversion
+  \desktopCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+\fi
+
+\pagestyle{empty}
+\input{./tex/titlepage.tex}
+\input{./tex/copyright.tex}
+\input{./tex/acknowledgments.tex}
+
+\cleartorecto
+\pagestyle{toponerow-frontmatter}
+\chapterstyle{adrasteia-toc}
+
+\pdfbookmark[section]{\contentsname}{toc}
+\tableofcontents*
+
+\input{./tex/schedule.tex}
+\input{./tex/purpose-and-benefits.tex}
+\input{./tex/abbreviations.tex}
+
+\chapterstyle{adrasteia-frontmatter}
+
+\mainmatter
+\pagestyle{toponerow}
+
+\cleartorecto
+
+{\raggedright
+  \input{./tex/recitations/homage.tex}
+  \input{./tex/recitations/verses.tex}
+  \input{./tex/recitations/teachings.tex}
+  \input{./tex/recitations/reflections.tex}
+  \input{./tex/recitations/cardinal-suttas.tex}
+  \input{./tex/recitations/thanksgiving-recitations.tex}
+  \input{./tex/recitations/protective-recitations.tex}
+  \input{./tex/recitations/funeral-recitations.tex}
+  \input{./tex/recitations/sharing-of-merits.tex}
+}
+
+\appendix
+
+% {\raggedright
+  \input{./tex/appendix.tex}
+  \input{./tex/refuge-trainings.tex}
+  \input{./tex/phonetics-pronunciation.tex}
+  \input{./tex/guidelines.tex}
+% }
+
+\backmatter
+
+% {\raggedright
+  \printpagenotes
+% }
+
+\input{./tex/copyright-details.tex}
+
+\emptyUntilEven
+
+% TODO is an else argument needed for non desktop/desktop?
+% TODO correct path when image available
+\ifdesktopversion
+\clearpage
+\desktopCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+\fi
+
+\end{document}
