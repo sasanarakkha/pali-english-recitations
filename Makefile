@@ -1,6 +1,7 @@
 # LuaLaTeX pdf
-A6_FILE := A6-main
-A4_FILE := A4-main
+FILE := main
+# A6_FILE := A6-main
+# A4_FILE := A4-main
 LATEX_OPTS := -interaction=nonstopmode -halt-on-error -synctex=1
 LATEX := latexmk -pdflualatex='lualatex $(LATEX_OPTS)'
 TEXMFHOME := ~/.texmf
@@ -20,8 +21,9 @@ RELEASENAME   := SBS_Pāli-English_Recitations
 CURRENTEPUB   := ./epub/current-recitations.epub
 HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
-A6PDFFILE     := $(BUILDDIR)/$(RELEASENAME)-A6.pdf
-A4PDFFILE     := $(BUILDDIR)/$(RELEASENAME)-A4.pdf
+PDFFILE     := $(BUILDDIR)/$(RELEASENAME)-working.pdf
+# A6PDFFILE     := $(BUILDDIR)/$(RELEASENAME)-A6.pdf
+# A4PDFFILE     := $(BUILDDIR)/$(RELEASENAME)-A4.pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
 KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
 AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
@@ -67,29 +69,43 @@ XHTMLFILES      := $(shell find $(HTMLSOURCE) -name '*.xhtml' 2> /dev/null | sor
 # Commands
 .PHONY: checkepub validate optimize view editepub watchepub
 
-all: $(A6PDFFILE) $(A4PDFFILE) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
+all: $(PDFFILE) $(A6PDFFILE) $(A4PDFFILE) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 
 
 #-----------------------------------------------------------------------------------------#
 
 
-A6-TANGLED: ./A6-recitations.tex.org
+TANGLED: ./recitations.tex.org
 	$(ORG_TANGLE) $<
 
-A6-pdf2x: $(A6PDFFILE)  # Legacy target for compliance
-A6-pdf: $(A6PDFFILE)
-$(A6PDFFILE): A6-TANGLED
-	$(MKBUILDDIR)
-	$(LATEX) --jobname=$(basename $(A6PDFFILE)) $(A6_FILE).tex;
 
-A4-TANGLED: ./A4-recitations.tex.org
-	$(ORG_TANGLE) $<
-
-A4-pdf2x: $(A4PDFFILE)  # Legacy target for compliance
-A4-pdf: $(A4PDFFILE)
-$(A4PDFFILE): A4-TANGLED
+pdf2x: $(PDFFILE)  # Legacy target for compliance
+pdf: $(PDFFILE)
+$(PDFFILE): TANGLED
 	$(MKBUILDDIR)
-	$(LATEX) --jobname=$(basename $(A4PDFFILE)) $(A4_FILE).tex;
+	$(LATEX) --jobname=$(basename $(PDFFILE)) $(FILE).tex;
+
+
+#-----------------------------------------------------------------------------------------#
+
+
+# A6-TANGLED: ./A6-recitations.tex.org
+# 	$(ORG_TANGLE) $<
+
+# A6-pdf2x: $(A6PDFFILE)  # Legacy target for compliance
+# A6-pdf: $(A6PDFFILE)
+# $(A6PDFFILE): A6-TANGLED
+# 	$(MKBUILDDIR)
+# 	$(LATEX) --jobname=$(basename $(A6PDFFILE)) $(A6_FILE).tex;
+
+# A4-TANGLED: ./A4-recitations.tex.org
+# 	$(ORG_TANGLE) $<
+
+# A4-pdf2x: $(A4PDFFILE)  # Legacy target for compliance
+# A4-pdf: $(A4PDFFILE)
+# $(A4PDFFILE): A4-TANGLED
+# 	$(MKBUILDDIR)
+# 	$(LATEX) --jobname=$(basename $(A4PDFFILE)) $(A4_FILE).tex;
 
 
 #-----------------------------------------------------------------------------------------#

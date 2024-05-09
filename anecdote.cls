@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+% I have a LaTeX document which I would like to add detailed comments to so that future maintainers and editors can have an easy time understanding what each command and code means. Can you help me with this? I will input snippets for my formatting and styling and would like you to respond with a detailed explanation of what the code means. Add the comment above the code. To start the comment use %
 
 % A memoir-based documentclass with a contemporary style for books with a lighter content.
 
@@ -10,29 +10,37 @@
 
 % LPPL LaTeX Public Project Licence
 
-%%%%%%%%%%%%%%%% Identification %%%%%%%%%%%%%%%%
 
+% Use LaTeX2e format
 \NeedsTeXFormat{LaTeX2e}
+
+% Define the document class named "anecdote"
 \ProvidesClass{anecdote}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
 
-%%%%%%%%%%% Preliminary Declarations %%%%%%%%%%%
 
-% A conditional for the desktop version, initially set to false
-\newif\ifdesktopversion
-\desktopversionfalse
 
-% A conditional for A6 formatting
+% Define a conditional for the digital version
+\newif\ifdigitalversion
+\digitalversionfalse
+
+% Define a conditional for the A5 version formatting
+\newif\ifafiveversion
+\afiveversionfalse
+
+% Define a conditional for the A6 version formatting
 \newif\ifasixversion
 \asixversionfalse
 
-% A conditional for Ax formatting
-% \newif\ifaxversion
-% \axversionfalse
+% Define a conditional for the B6 version formatting
+\newif\ifbsixversion
+\bsixversionfalse
 
-%%%%%%%%%%%%%%%%%%% Options %%%%%%%%%%%%%%%%%%%%
 
-% Load required packages: pgfopts and calc
+
+% Load the pgfopts package, which provides a key-value interface for package options
 \RequirePackage{pgfopts}
+
+% Load the calc package, which provides advanced arithmetic operations for LaTeX
 \RequirePackage{calc}
 
 % Define pgfkeys for BOOK settings
@@ -42,12 +50,14 @@
   babelLanguage/.default=british,
   % Store the value of babelLanguage in \BOOK@babelLanguage
   babelLanguage/.store in=\BOOK@babelLanguage,
-  % Set desktopVersion to true if specified in options
-  desktopVersion/.code=\desktopversiontrue,
-  % Set asixVersion to true if specified in options
+  % Set digitalVersion to true if specified in options
+  digitalVersion/.code=\digitalversiontrue,
+  % Set A5 Version to true if specified in options
+  afiveVersion/.code=\asixversiontrue,
+  % Set A6 Version to true if specified in options
   asixVersion/.code=\asixversiontrue,
-  % Set axVersion to true if specified in options
-  axVersion/.code=\axversiontrue,
+  % Set B6 Version to true if specified in options
+  bsixVersion/.code=\bsixversiontrue,
 }
 
 % Pass all unknown options to the memoir class
@@ -61,13 +71,15 @@
 % Process other package options
 \ProcessOptions\relax
 
-%%%%%%%%%%%% All Other Declarations %%%%%%%%%%%%
 
-% One side of desktop version
-\ifdesktopversion
-\LoadClass[11pt,oneside,oldfontcommands]{memoir}
+
+% Load the digital version
+\ifdigitalversion
+  % Using 11pt font size, single-sided printing, and the use of old font commands
+  \LoadClass[11pt,oneside,oldfontcommands]{memoir}
 \else
-\LoadClass[11pt,twoside,oldfontcommands]{memoir}
+  % Otherwise format with 11pt font size, double-sided printing, and the use of old font commands.
+  \LoadClass[11pt,twoside,oldfontcommands]{memoir}
 \fi
 
 % \raggedbottom stops these warnings:
@@ -89,184 +101,227 @@
 
 % \raggedbottomsection only affects pages where the section header was moved to
 % the next page.
-
 \raggedbottomsection
 
-% === Color Profile ===
 
-% Embed a color profile in the PDF for correctly interpreting CMYK images.
 
-% \ifoverleaf\relax
-% \else
-% 
-% \immediate\pdfobj stream attr{/N 4} file{assets/other/UncoatedFOGRA29.icc}
-% \pdfcatalog{%
-%   /OutputIntents [ <<
-%   /Type /OutputIntent
-%   /S/GTS_PDFX
-%   /DestOutputProfile \the\pdflastobj\space 0 R
-%   /OutputConditionIdentifier (Uncoated FOGRA29 (ISO 12647-2:2004))
-%   /Info(Uncoated FOGRA29 (ISO 12647-2:2004))
-%   /RegistryName (http://www.color.org/)
-%   >> ]
-% }
-% 
-% \fi
+% Load the silence package, which provides a way to suppress LaTeX warnings
+% \RequirePackage{silence}
+% Turn off warnings using the \WarningsOff command from the silence package
+% \WarningsOff
 
-%%%%%%%%%%%%%%%%%% Book Class %%%%%%%%%%%%%%%%%%
-
-%\RequirePackage{silence}
-%\WarningsOff
-
+% Load the babel package with the language specified by \BOOK@babelLanguage
 \RequirePackage[\BOOK@babelLanguage]{babel}
+% Load the nag package to warn about the usage of outdated LaTeX constructs
 \RequirePackage{nag}
+% Load the xparse package for defining document commands with complex arguments
 \RequirePackage{xparse}
+% Load the soul package for letter spacing, underlining, and highlighting text
 \RequirePackage{soul}
+% Load the ifsym package for additional symbols
 \RequirePackage[geometry]{ifsym}
+% Load the STIX font package
 \RequirePackage{stix}
-% Don't use the [cmyk] option. Specify the color model in the color definitions.
+% Load the xcolor package for color support
 \RequirePackage{xcolor}
+% Load the xcoffins package for creating complex layouts
 \RequirePackage{xcoffins}
+% Load the graphicx package for including graphics
 \RequirePackage{graphicx}
-% Add your \graphicspath declaration to your local style.
+% Load the eso-pic package for adding pictures to every page
 \RequirePackage{eso-pic}
+% Load the ccicons package for Creative Commons icons
 \RequirePackage{ccicons}
+% Load the multicol package for multi-column layout
 \RequirePackage{multicol}
+% Load the multirow package for multi-row table cells
 \RequirePackage{multirow}
+% Load the footnote package for footnotes
 \RequirePackage{footnote}
+% Load the hyphenat package for more control over hyphenation
 \RequirePackage{hyphenat}
+% Load the ifthen package for conditional statements
 \RequirePackage{ifthen}
+% Load the titletoc package for controlling the format of table of contents entries
 \RequirePackage{titletoc}
+% Load the enumitem package for customizing lists
 \RequirePackage{enumitem}
+% Load the longtable package for tables that span multiple pages
 \RequirePackage{longtable}
+% Load the environ package for defining environments with body manipulations
 \RequirePackage{environ}
+% Load the pageslts package for access to page labels
 \RequirePackage{pageslts}
+% Load the array package for more flexible column formatting in tables
 \RequirePackage{array}
+% Load the ragged2e package for improved ragged text alignment
 \RequirePackage{ragged2e}
+% Load the tipa package for IPA (International Phonetic Alphabet) symbols
 \RequirePackage{tipa}
+% Load the float package for improved control over floating environments
 \RequirePackage{float}
+% Load the TikZ package for creating graphics programmatically
 \RequirePackage{tikz}
+% Load specific TikZ libraries
 \usetikzlibrary{arrows.meta,bending,chains,positioning}
+% Load the pgfornament package for drawing decorative ornaments
 \RequirePackage[object=vectorian]{pgfornament}
-
-% Packages for pali table
+% Load the rotating package for rotating elements, such as tables and figures
 \RequirePackage{rotating}
+% Load the makecell package for formatting cells in tables
 \RequirePackage{makecell}
+% Set the width of rotated column headings in tables
 \settowidth\rotheadsize{{\small Compound}}
+% Define a command for "Not Applicable" in tables
 \newcommand{\NA}{---}
-%% These two are sourced locally in $TEXMFHOME
+% Load the tabularray package for flexible tables
 \RequirePackage{tabularray}
+% Load the ninecolors package for defining color schemes
 \RequirePackage{ninecolors}
+%
+\RequirePackage{import}
 
 
 
-%%%%%%%%%%%%%%%%% Define Colors %%%%%%%%%%%%%%%%
-
-% Define text colors as Gray color values.
+% Define the color for the main body text.
 \definecolor{textbody}{gray}{0}% 100% for maximum contrast.
+% Define the color for the rule separating footnotes.
 \definecolor{footnoterule}{gray}{0.5}
+% Define the color for headers.
 \definecolor{header}{gray}{0}
+% Define the color for footers.
 \definecolor{footer}{gray}{0}
+% Define the color for chapter numbers.
 \definecolor{chapternum}{gray}{0.2}
+% Define the color for chapter titles.
 \definecolor{chaptertitle}{gray}{0.1}
+% Define the color for chapter title footnotes.
 \definecolor{chaptertitlefootnote}{gray}{0.4}
+% Define the color for chapter authors.
 \definecolor{chapterauthor}{gray}{0.3}
+% Define the color for chapter notes.
 \definecolor{chapternote}{gray}{0.3}
+% Define the color for section headings.
 \definecolor{section}{gray}{0.05}
+% Define the color for the left side of the table of contents.
 \definecolor{tocleftside}{gray}{0.5}
+% Define the color for the left side of the table of contents for parts.
 \definecolor{tocleftsidepart}{gray}{0.2}
+% Define the color for the border of links.
 \definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
+% Define the color for links.
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
-
+% Define the color for instructional text or comments.
 \definecolor{instruction}{gray}{0.3}
 
-%%%%%%%%%%%%%%%%%% Load Fonts %%%%%%%%%%%%%%%%%%
 
+
+% Load the fontspec package for font handling in XeLaTeX or LuaLaTeX.
 \RequirePackage{fontspec}
+
+% Set default font features including ligatures and specify the font path.
 \defaultfontfeatures{ Ligatures={TeX}, Path = {./assets/fonts/}, }
 
-% If -- dashes don't work for your font, try
-% Renderer = Basic
-% http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
+% If ligatures such as emdash and endash don't work for your font, use Renderer = Basic.
+% Source: http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
+% Set the main font for the document.
 \setmainfont[
   ItalicFont = LibertinusSerif-Italic.otf,
   BoldFont = LibertinusSerifX-Bold.ttf,
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
 ]{LibertinusSerifX-Regular.ttf}
 
+% Define a new font family named 'libertinusFont'.
 \newfontfamily\libertinusFont[
   ItalicFont = LibertinusSerif-Italic.otf,
   BoldFont = LibertinusSerifX-Bold.ttf,
   BoldItalicFont = LibertinusSerif-BoldItalic.otf,
 ]{LibertinusSerifX-Regular.ttf}
 
+% Define a new font family named 'sbsFont'.
+% Provides the font of the titlepage
 \newfontfamily\sbsFont[
   ItalicFont = palisbs.ttf,
   BoldFont = palisbs.ttf,
   BoldItalicFont = palisbs.ttf,
 ]{palisbs.ttf}
 
-%%%%%%%%%%%%%%%% SBS Font %%%%%%%%%%%%%%%%
 
-% \newfontfamily\sbsFont{palisbs.ttf}
 
-% \newcommand*\sbs[1]{{\sbsFont #1}}
-
-%%%%%%%%%%%%%%%% Header & Footer %%%%%%%%%%%%%%%%
-
+% Define commands to set font styles for headers, footers, and page numbers.
 \newcommand\headerFont\libertinusFont
 \newcommand\footerFont\headerFont
 \newcommand\pageNumFont\headerFont
 
-%%%%%%%%%%%%%%%% Chapter & Section %%%%%%%%%%%%%%%%
+% Define font styles for chapter and section headings.
 
+% Part
 \newcommand\partNameFont\libertinusFont
 \newcommand\partTitleFont\libertinusFont
 
+% Chapter
 \newcommand\chapterNameFont\libertinusFont
 \newcommand\chapterTitleFont\libertinusFont
 \newcommand\chapterNumberFont\libertinusFont
 \newcommand\chapterAuthorFont\libertinusFont
 \newcommand\chapterNoteFont\libertinusFont
 
+% Section
 \newcommand\sectionFont\libertinusFont
 \newcommand\subSectionFont\libertinusFont
 
+% Font style for instructional text or comments.
 \newcommand\instructionFont\libertinusFont
 
-%%%%%%%%%%%%%%%%%%%%%% Quote %%%%%%%%%%%%%%%%%%%%%%
-
+% Define font style for the side rule in quotes.
 \newcommand\sideruleQuoteFont\libertinusFont
 
-%%%%%%%%%%%%%%%% Table of Contents %%%%%%%%%%%%%%%%
+% Define font styles for the Table of Contents.
 
+% Font for the main Table of Contents entries.
 \newcommand\tocFont\libertinusFont
+
+% Font for the old page numbers in the Table of Contents.
 \newcommand\tocFontOldNum\libertinusFont
 
-% Some default font sizes, use \renewcommand to adjust
 
-\newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {15.5}{17}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {14}{14}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13.5}{13.5}}
-\newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {11}{21}}
-\newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {8.5}{10}}
-\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {9}{11}}
-\newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{6}}
-% Changes header at the top of the page indication section and page number
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{1.5}}
-\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {15}{10}}
-% Changes section/chant font size in ToC e.g. 'Dedication of Offerings'
-\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {9}{11}}
-% Changes subsection/chant font size in ToC e.g. 'Undertaking the Three Refuges'
-\newcommand{\tocSubsectionSize}{\@setfontsize        \tocSubsectionSize        {8}{8}}
+% Define font sizes for different elements in the document.
 
-\newcommand{\smaller}{\@setfontsize\smaller{6}{8}}
+% Chapter name size
+\newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
+% Chapter number size
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {20}{20}}
+% Chapter title size
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {19}{19}}
+% Chapter title footnote size
+\newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
+% Chapter author size
+\newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
+% Chapter note size
+\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
+% Footer size
+\newcommand{\footerSize}{\@setfontsize               \footerSize               {11}{8}}
+% Header size
+\newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{2}}
+% Table of Contents size
+\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {19}{14}}
+% Section/Chapter font size in Table of Contents
+% e.g. 'Dedication of Offerings'
+\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}
+% Subsection/Subchapter font size in Table of Contents
+% e.g. 'Undertaking the Three Refuges'
+\newcommand{\tocSubsectionSize}{\@setfontsize        \tocSubsectionSize        {11}{11}}
 
-\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{6}{8}}
+% Define a command to make text smaller.
+\newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
+% Define font size for copyright notice.
+\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}
+
+% Redefine footnote size to be smaller.
 \renewcommand{\footnotesize}{%
-   \@setfontsize\footnotesize{6}{8}%%
+   \@setfontsize\footnotesize{9}{11}%
    \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
    \abovedisplayshortskip \z@ \@plus\p@
    \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
@@ -279,60 +334,55 @@
    \belowdisplayskip \abovedisplayskip
 }
 
-%%%%%%%%%%%%%%%% Foreign Languuge Wrappers %%%%%%%%%%%%%%%%
 
-\newcommand{\instrFmt}{%
-  \color{instruction}\instructionFont\upshape\fontsize{7}{9}\selectfont%
-  }
 
-\newcommand\pointerMark{\vspace*{-1pt}\blackpointerright}
-
-%%%%%%%%%%%%%%%%%%%%%% Microtype %%%%%%%%%%%%%%%%%%%%%%
-
+% Load microtype package with options for final output and support for babel
 \RequirePackage[final,babel=true]{microtype}
 
-% Tracking for uppercase section heading
+% Set tracking for uppercase section headings using LibertinusSerif-Regular font
 \SetTracking[spacing={400,100,}]{encoding=*, family={LibertinusSerif-Regular.otf}}{20}
 
-%%%%%%%%%%%%%%%%%%%%%%% Hyperref %%%%%%%%%%%%%%%%%%%%%%%
-
+% Load hyperref package for hyperlinks and hyperxmp for XMP metadata
 \RequirePackage{hyperref}
 \RequirePackage{hyperxmp}
 
+% Configure hyperref package settings
 \hypersetup{
-  unicode=true,
-  bookmarksopen=true,
-  bookmarksopenlevel=3,
-  hypertexnames=false,
-  linktoc=all,
-  plainpages=false,
-  raiselinks=true,
-  breaklinks
+  unicode=true,                 % Use Unicode encoded PDF strings
+  bookmarksopen=true,           % Open bookmarks
+  bookmarksopenlevel=3,         % Set depth of opened bookmarks
+  hypertexnames=false,          % Prevent duplicate destination names
+  linktoc=all,                  % Set links in table of contents
+  plainpages=false,             % Use PDF anchors with correct page numbers
+  raiselinks=true,              % Raise up link boxes
+  breaklinks                    % Allow line breaks in hyperlinks
 }
 
-\ifdesktopversion
-% Colors: in the desktop version, use colored link text
-\hypersetup{
-  colorlinks=true,
-  linkcolor=sbs-brown,
-  citecolor=sbs-brown,
-  filecolor=sbs-brown,
-  urlcolor=sbs-brown,
-}
+% Conditional statement based on a variable 'digitalversion'
+\ifdigitalversion
+  % If digital version, set link colors to custom brown
+  \hypersetup{
+    colorlinks=true,
+    linkcolor=sbs-brown,
+    citecolor=sbs-brown,
+    filecolor=sbs-brown,
+    urlcolor=sbs-brown,
+  }
 \else
-% Colors: in the print version, set link colors to text color, so that it doesn't interfere with printing
-\hypersetup{
-  colorlinks=true,
-  linkcolor=textbody,
-  citecolor=textbody,
-  filecolor=textbody,
-  urlcolor=textbody,
-}
+  % If print version, set link colors to text color
+  \hypersetup{
+    colorlinks=true,
+    linkcolor=textbody,
+    citecolor=textbody,
+    filecolor=textbody,
+    urlcolor=textbody,
+  }
 \fi
 
+% Load bookmark package with options to create bookmarks
 \RequirePackage[
-  open,
-  openlevel=2
+  open,             % Bookmarks will be shown
+  openlevel=2       % Initial level of bookmarks
 ]{bookmark}
 
 % Color used for links and headers
@@ -342,38 +392,21 @@
 % Color used for dividers
 \definecolor{sbs-gold}{HTML}{aa6a1f}
 
-% Fixes endnotes two-way link that aim too low
-% https://tex.stackexchange.com/questions/17057/hypertarget-seems-to-aim-a-line-too-low
+% Fix for endnotes two-way link aiming too low
+% Source: https://tex.stackexchange.com/questions/17057/hypertarget-seems-to-aim-a-line-too-low
 
 
-%%%%%%%%%%%%%%%% Penalties & Hyphenation %%%%%%%%%%%%%%%%
 
-% memoir's more allowing penalties
+% Memoir's more allowing penalies; allow some sloppiness in line breaking to avoid overly strict spacing
 \midsloppy
 
-\ifthenelse{\equal{\BOOK@babelLanguage}{british}}{
-  \renewcommand\britishhyphenmins{{3}{3}}
-}{}
-\ifthenelse{\equal{\BOOK@babelLanguage}{italian}}{
-  \renewcommand\italianhyphenmins{{3}{3}}
-}{}
-\ifthenelse{\equal{\BOOK@babelLanguage}{portuguese}}{
-  \renewcommand\portuguesehyphenmins{{3}{3}}
-  % If using babel, captions names have to be renamed like this
-  \addto\captionsportuguese{
-    \renewcommand{\contentsnam}{Índice}
-    \renewcommand{\bibname}{Referências}
-  }
-  % Portuguese repeats hyphen
-  % http://tex.stackexchange.com/a/247298/831
-  % generates a hyphen that will repeat on a new line
-  \defineshorthand{"-}{\babelhyphen{repeat}}
-}{}
+% Set hyphenation parameters for British English
+\renewcommand\britishhyphenmins{{3}{3}}
 
-\hyphenpenalty=700
-\exhyphenpenalty=50
-\doublehyphendemerits=900
-%\finalhyphendemerits=5000 % default is 5000
+% Set penalties for hyphenation and line breaking
+\hyphenpenalty=700         % Penalty for breaking lines at hyphens
+\exhyphenpenalty=50        % Penalty for breaking lines after explicit hyphens
+\doublehyphendemerits=900  % Demerits for consecutive line hyphens
 
 % It is more effective to \mbox{...} the words to avoid hyphenation.
 \brokenpenalty=5000 % penalty for page break after a hyphenated line
@@ -382,88 +415,56 @@
 % and complicates the endnotes formatting.
 % \RequirePackage[defaultlines=2,all]{nowidow}
 
-% === common hyphenation exceptions and corrections ===
-%%%%%%%%%%%%%%%% Anecdote Class %%%%%%%%%%%%%%%%
+% \hyphenation{season wisdom develop-ment respon-sible pheno-mena philo-sophical munindo amaravati thai-land}
 
-\hyphenation{season wisdom develop-ment respon-sible pheno-mena
-philo-sophical munindo amaravati thai-land}
-
-%\hyphenation{accur-ately argu-men-ta-tive attach Ayu-dhaya becomes
-%ben-e-fi-cial capa-bil-ity car-ry car-ry-ing cere-monies cere-mony
-%ces-sa-tion chal-lenge chal-leng-ing clas-si-fi-ca-tion
-%clas-si-fi-ca-tions clas-si-fied com-mu-nity con-di-tion
-%con-di-tioned con-struc-tions con-tem-plate con-tem-plat-ing
-%con-tem-pla-tion cul-ti-vate cul-ti-vates cul-ti-vat-ing
-%cul-ti-vation def-i-ni-tion de-ter-mine de-ter-mined dhamma dhammas
-%dis-cern-ment dis-con-tent dis-cur-sive dying em-pha-size
-%enlight-ened equa-nim-ity es-pe-cial-ly estab-lish exist-ence
-%ex-pe-ri-ence hap-pen-ing having ig-no-rance immedi-ately
-%im-per-ma-nent in-nu-mer-a-ble in-se-cu-ri-ty in-spir-ing
-%in-struct-ed in-ves-ti-gate in-ves-ti-ga-tion iso-late iso-lat-ed
-%Keuan lay-peo-ple ma-te-ri-al mat-u-ra-tion medi-tate medi-ta-tion
-%medi-ta-tive mental mon-as-teries mon-as-tery Nana-chat or-dain
-%or-dain-ed or-di-na-tion orig-inate oth-er-wise pene-trat-ing
-%per-son-al per-son-al-ity phe-nom-e-na phe-nom-e-non po-si-tion
-%pow-er pow-ers pre-vi-ous pro-lif-er-ate pro-lif-er-ating
-%pro-lif-er-a-tions puthu-jjana quest-ion rec-i-ta-tion
-%sat-is-fac-tory sen-sa-tion sen-sa-tions sim-i-lar suf-fer-ing
-%sup-po-si-tion syn-on-y-mous tem-per-a-ment tem-per-a-ments tong-rat
-%tran-scend tran-scend-ent tran-scends un-con-di-tioned under-stand
-%under-stood un-hap-pi-ness un-sat-is-fac-tori-ness un-sat-is-fac-tory
-%ven-er-able wea-ri-ness what-ev-er when-ever wher-ever whole-hearted
-%whole-heart-edly wrong-do-ing}
-
-%%%%%%%%%%%%%%%% Soul Settings %%%%%%%%%%%%%%%%
-
+% Define a new series of emphasis commands using the sodef package
 \sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
 \sodef\soSection{}{.07em}{.4em plus.1em}{.1em plus.1em minus.1em}
 
-% Use \textls letterspacing (for uppercase chapter titles for example)
-% with microtype instead, because soul swallows
-% accented characters at the end of words.
 
-%%%%%%%%%%%%%%%% Custom Commands & Environments %%%%%%%%%%%%%%%%
 
-% https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
+% Source: https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
 
-% Use with: \begin{tabular}{L{30mm}R{30mm}}
-
+% Define new column types for left-aligned and right-aligned columns in tables
+% Usage: \begin{tabular}{L{30mm}R{30mm}}
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
 
-% Allows hyphenation:
-% \newcolumntype{L}[1]{>{\RaggedRight\hspace{0pt}}p{#1}}
-% \newcolumntype{R}[1]{>{\RaggedLeft\hspace{0pt}}p{#1}}
-
+% Define a command to insert a divider rule in tables
 \newcommand\dividerRule{%
 {\centering\bigskip
 {\color[gray]{0.6}\rule{0.6\linewidth}{0.2pt}}
 \par\bigskip}%
 }
 
+% Define commands to insert empty pages
 \newcommand\emptysheet{%
   \cleardoublepage
   \thispagestyle{empty}\mbox{}\newpage
   \thispagestyle{empty}\mbox{}\newpage
 }
 
+% Alias for \emptysheet
 \newcommand\emptydoublepage\emptysheet
 
+% Define a command to insert a single empty page
 \newcommand\emptypage{%
   \clearpage
   \thispagestyle{empty}\mbox{}\newpage
 }
 
+% Define a command to insert empty pages until the current page count is even
 \newcommand{\emptyUntilEven}{%
   \ifodd\thepage%
   \clearpage\thispagestyle{empty}\null%
   \fi%
 }
 
+% Define counters for page number manipulation
 \newcounter{pageRem}
 \newcounter{origPage}
 
-% Add empty pages for a total page count divisible by 8 without remainder.
+% Add empty pages to achieve a total page count divisible by 8 without remainder
 \newcommand{\emptyUntilModEight}{%
   \setcounter{origPage}{\theCurrentPage}%
   \setcounter{pageRem}{1 + 8 - ( \theCurrentPage - ( ( \theCurrentPage / 8 ) * 8) )}%
@@ -477,18 +478,23 @@ philo-sophical munindo amaravati thai-land}
   \repeat%
 }
 
+
+
+% Define commands for document metadata
 \newcommand*{\subtitle}[1]{\def\@thesubtitle{#1}}
 \newcommand*{\editionInfo}[1]{\def\@theEditionInfo{#1}}
 \newcommand*{\printedByInfo}[1]{\def\@thePrintedByInfo{#1}}
 \newcommand*{\publisher}[1]{\def\@thePublisher{#1}}
 \newcommand*{\ISBN}[1]{\def\@theISBN{#1}}
 
+% Define commands to access document metadata
 \newcommand\thesubtitle{\@thesubtitle}
 \newcommand\theEditionInfo{\@theEditionInfo}
 \newcommand\thePrintedByInfo{\@thePrintedByInfo}
 \newcommand\thePublisher{\@thePublisher}
 \newcommand\theISBN{\@theISBN}
 
+% Define a savebox for quotepage environment
 \newsavebox{\quotepagebox}
 \newenvironment{quotepage}[1]
   {\begin{lrbox}{\quotepagebox}\begin{minipage}{#1}
@@ -499,6 +505,7 @@ philo-sophical munindo amaravati thai-land}
    \node at (current page.center) {\usebox{\quotepagebox}};
    \end{tikzpicture}}
 
+% Define custom environments with compact itemize and enumerate
 \newenvironment{packeditemize}%
 {\begin{itemize}[
   itemindent=0pt,
@@ -523,14 +530,16 @@ philo-sophical munindo amaravati thai-land}
 ]%
 }{\end{enumerate}}
 
+% Define a command for speaker name with small caps and color
+% TODO needed?
 \newcommand\speakerName[1]{%
-  % The hangindent only works with alternating speakers.
-  %\par\hangindent=1pc%
   {\color[gray]{0.25}\libertinusFont\scshape\MakeLowercase{#1}}\quad}
 
+% Define length for question indent
 \newlength\qw
-\setlength\qw{17pt}% same as parindent for smallpage
+\setlength\qw{17pt}
 
+% Define commands for questions and answers
 \newcommand{\question}[1]{%
   \smallskip%
   \par\noindent\hangindent=\qw%
@@ -552,12 +561,12 @@ philo-sophical munindo amaravati thai-land}
   \ifthenelse{\equal{#1}{}}{\textit{A:}\space}{\textit{#1:}\space}%
 }
 
-% If class option desktopVersion is used, show content in a paper sized
+% If class option digitalVersion is used, show content in a paper sized
 % minipage, empty page otherwise.
-% Redefine \color{desktopcoverbg} to change page background color.
-\newcommand\desktopCover[1]{%
+% Redefine \color{digitalcoverbg} to change page background color.
+\newcommand\digitalCover[1]{%
 \thispagestyle{empty}\mbox{}
-\ifdesktopversion
+\ifdigitalversion
 \AddToShipoutPictureFG*{\put(0,0){%
 \begin{minipage}[b][\paperheight][c]{\paperwidth}%
 #1
@@ -566,98 +575,113 @@ philo-sophical munindo amaravati thai-land}
 \clearpage
 }
 
-%%%%%%%%%%%%%%%% Titlepage %%%%%%%%%%%%%%%%
 
-\newlength{\titleLength}
-\newlength{\xheight}
+
+% Define lengths for document layout
+\newlength{\titleLength} % Length for the title
+\newlength{\xheight}     % Length for the x-height of the font
 
 %%%%%%%%%%%%%%%% Quotes %%%%%%%%%%%%%%%%
 
+% Define a length for the margin of block quotes
 \newlength{\quoteMargin}
+% Set the value of the quoteMargin length to 18 points
 \setlength{\quoteMargin}{18pt}
 
-% FIXME
+% FIXME is this even broken?
 %\setlength{\footnotemargin}{\quoteMargin}
 
+% Define a new environment for opening verses
 \newenvironment{openingVerse}%
 {%
-  \cleartoverso%
-  \thispagestyle{empty}%
-  \mbox{}\vfill%
-  \begin{verse}%
+  \cleartoverso % Clears the page and starts the verse on a verso page
+  \thispagestyle{empty} % Suppresses page number for the opening verse page
+  \mbox{}\vfill % Adds vertical space, centering the verse vertically
+  \begin{verse} % Begins the verse environment
 }%
 {%
-  \par\end{verse}%
-  \vfill\mbox{}%
+  \par\end{verse} % Ends the verse environment
+  \vfill\mbox{} % Adds vertical space, centering the verse vertically
 }
 
-% for sutta verses and other short stanzas
+% Redefine the verse environment for sutta verses and other short stanzas
 \renewenvironment{verse}
-{\begin{centering}%
-    \itshape}%
-{\par\end{centering}}
+{\begin{centering} % Begins centering environment for verse
+    \itshape % Sets verse in italics
+}%
+{\par\end{centering}} % Ends centering environment for verse
 
+% Define a command for verse references
 \newcommand{\verseRef}[1]{%
-  {\centering\itshape\footnotesize #1\par}%
+  {\centering\itshape\footnotesize #1\par} % Centers and formats verse reference
 }
 
+% Define a command for sutta references
 \newcommand{\suttaRef}[1]{%
-  % \vspace{-12pt \@plus 5pt \@minus 0pt}%
-  \vspace{-6pt}%
-  \hfill {\fontsize{6}{11}\selectfont #1\par}%
+  \vspace{-6pt} % Adjusts vertical spacing for sutta references
+  \hfill {\fontsize{8}{16}\selectfont #1\par} % Sets sutta reference in smaller font size
 }
 
-% for longer sutta and book quotes
-\renewenvironment{quote}%
-{\list{}{%
-    \itshape
-    \listparindent 0pt
-    \itemindent    \listparindent
-    \leftmargin    \quoteMargin
-    \rightmargin   \quoteMargin
-    \parsep        8pt
-    \topsep        0pt
-    \partopsep     0pt}%
+% Redefine the quote environment for longer sutta and book quotes
+\renewenvironment{quote} %
+{\list{}{ % Begins a list for the quote environment
+    \itshape % Sets quote in italics
+    \listparindent 0pt % Sets paragraph indentation within the list
+    \itemindent    \listparindent % Sets item indentation within the list
+    \leftmargin    \quoteMargin % Sets left margin for the quote
+    \rightmargin   \quoteMargin % Sets right margin for the quote
+    \parsep        8pt % Sets paragraph separation within the list
+    \topsep        0pt % Sets spacing above the list
+    \partopsep     0pt} % Sets additional spacing above the list
 \item[]}%
-{\endlist}
+{\endlist} % Ends the list for the quote environment
 
+% Define a command for quote titles
 \newcommand{\quoteTitle}[1]{%
   {%
-    \centering\upshape\itshape%
-    \fontsize{18}{7}\selectfont%
-    \color{section}%
-    #1%
-    % \par%
+    \centering\upshape\itshape % Centers and formats quote title
+    \fontsize{26}{10}\selectfont % Sets font size for quote title
+    \color{section} % Sets color for quote title
+    #1 % Prints the quote title
+    % \par % Optional line break after quote title
   }%
-\itshape%
+\itshape % Sets the quote title in italics
 }
 
+
+
+% Define a command for formatting a reference or citation in a quote
 \newcommand{\quoteRef}[1]{%
   {\centering\itshape\footnotesize #1\par}%
 }
 
+% Define a command for formatting an inline reference or citation in a quote
 \newcommand{\quoteRefInline}[1]{%
   {\hfill\itshape\footnotesize #1}%
 }
 
+% Define a custom environment for formatting speaker's dialogue
 \newenvironment{speaker}%
 {\list{}{%
     \listparindent 0pt
     \itemindent    \listparindent
-    \leftmargin    \quoteMargin
-    \rightmargin   \quoteMargin
+    \leftmargin    \quoteMargin  % Adjust left margin
+    \rightmargin   \quoteMargin  % Adjust right margin
     \parsep        8pt
     \topsep        0pt
     \partopsep     0pt}%
 \item[]}%
 {\endlist}
 
+% Define custom lengths for quote formatting
 \newlength{\quoteRuleWidth}
 \newlength{\quoteTopBotSep}
 \newlength{\quoteHeight}
 
+% Set the top and bottom separation for quotes
 \setlength{\quoteTopBotSep}{15pt}
 
+% Define a command for formatting quotes with a side rule
 \newcommand{\sideruleQuoteFmt}[1]{%
   \begin{minipage}{\linewidth - 40pt}%
     \sideruleQuoteFont\Large\color[gray]{0.2}%
@@ -665,9 +689,11 @@ philo-sophical munindo amaravati thai-land}
   \end{minipage}%
 }
 
+% Define colors for quote rule
 \definecolor{quoteRuleFill}{gray}{0.95}
 \definecolor{quoteRule}{gray}{0.7}
 
+% Define a custom environment for quotes with a side rule
 % #1: quote rule width
 \NewEnviron{siderule-quote}[1][8pt]%
 {%
@@ -691,23 +717,7 @@ philo-sophical munindo amaravati thai-land}
   \end{tikzpicture}%
 }
 
-\newlength{\diaItemIndent}
-\setlength{\diaItemIndent}{-\quoteMargin}
-\newlength{\diaLeftMargin}
-\setlength{\diaLeftMargin}{2\quoteMargin}
-
-\newenvironment{dialogue}%
-{\list{}{%
-    \listparindent 0pt
-    \itemindent    \diaItemIndent
-    \leftmargin    \diaLeftMargin
-    \rightmargin   0pt
-    \parsep        4pt
-    \topsep        0pt
-    \partopsep     0pt}%
-\relax}%
-{\endlist}
-
+% Define commands for including photos with full bleed
 \newcommand\photoFullBleed[1]{%
   \AddToShipoutPictureFG*{%
     \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
@@ -716,190 +726,79 @@ philo-sophical munindo amaravati thai-land}
   }%
 }
 
-\newcommand\photoSideBleed[1]{%
-  \AddToShipoutPictureFG*{%
-    \put(\LenToUnit{-3mm},\LenToUnit{0mm}){%
-      \begin{minipage}[b][\paperheight][c]{\paperwidth + 6mm}%
-        \includegraphics[width={\paperwidth + 6mm}]{#1}%
-      \end{minipage}%
-    }%
-  }%
-}
-
-\newcommand\photoSideBleedPlaceholder[1]{%
-  \AddToShipoutPictureFG*{%
-    \put(\LenToUnit{-3mm},\LenToUnit{0mm}){%
-      \begin{minipage}[b][\paperheight][c]{\paperwidth + 6mm}%
-        \color[gray]{0.8}%
-        \rule{\paperwidth + 6mm}{0.5\paperheight}%
-      \end{minipage}%
-    }%
-  }%
-  \AddToShipoutPictureFG*{%
-    \put(\LenToUnit{-3mm},\LenToUnit{0mm}){%
-      \begin{minipage}[b][\paperheight][c]{\paperwidth + 6mm}%
-        \HUGE\centering
-        \color{white}%
-        #1%
-      \end{minipage}%
-    }%
-  }%
-}
-
-\newcommand\photoFullBleedPlaceholder[1]{%
-  \AddToShipoutPictureFG*{%
-    \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
-      \color[gray]{0.8}%
-      \rule{\paperwidth + 6mm}{\paperheight + 6mm}%
-    }%
-  }%
-  \AddToShipoutPictureFG*{%
-    \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
-      \begin{minipage}[b][\paperheight + 6mm][c]{\paperwidth + 6mm}%
-        \HUGE\centering
-        \color{white}%
-        #1%
-      \end{minipage}%
-    }%
-  }%
-}
-
-% #1: photo
-\newcommand{\chapterPhotoPagePortrait}[1]{%
-  \clearpage%
-  \mbox{}\vfill%
-  {\centering%
-    \includegraphics[width=100mm]{#1}%
-  \par}%
-  \vfill\mbox{}%
-  \clearpage%
-}
-
-% #1: width
-% #2: photo
-\newcommand{\chapterPhotoInlinePortrait}[2]{%
-  \vspace{8pt \@plus 15pt \@minus 0pt}%
-  {\centering%
-    \includegraphics[width=#1]{#2}%
-  \par}%
-  \vspace{8pt \@plus 15pt \@minus 0pt}%
-}
-
-% #1: photo
-\newcommand{\chapterPhotoPageLandscape}[1]{%
-  \clearpage%
-  \mbox{}\vfill%
-  {\centering%
-    \includegraphics[width=\linewidth]{#1}%
-  \par}%
-  \vfill\mbox{}%
-  \clearpage%
-}
-
-% The width only makes sense at \linewidth. Copy the macro inline and add trim
-% and clip option on the photo if necessary.
-%
-% #1: photo
-\newcommand{\chapterPhotoInlineLandscape}[1]{%
-  \vspace{8pt \@plus 15pt \@minus 0pt}%
-  {\centering%
-    \includegraphics[width=\linewidth]{#1}%
-  \par}%
-  \vspace{8pt \@plus 15pt \@minus 0pt}%
-}
-
+% Define a command to set the graphics for a chapter opening page
 \newcommand{\thechaptergraphics}{}
 
+% Define a command to set the graphics for a chapter opening page
+% #1: photo
 \newcommand{\chapterOpeningPage}[1]{%
   \renewcommand{\thechaptergraphics}{#1}
 }
 
+% Define a command for creating a section break
 \newcommand\sectionBreak{%
   \vspace{8pt \@plus 15pt \@minus 0pt}%
   \par%
   {%
     \centering%
     \libertinusFont%
-    \fontsize{14}{14}\selectfont%
+    \fontsize{20}{20}\selectfont%
     \color[gray]{0.7}%
     *\quad*\quad*%
   \par}%
   \vspace{8pt \@plus 15pt \@minus 0pt}%
 }
 
-\newcommand\quoteBreak{%
-  \vspace{0pt \@plus 5pt \@minus 0pt}%
-  \par%
-  {%
-    \centering%
-    \fontsize{6}{6}\selectfont%
-    \color[gray]{0.4}%
-    \FilledDiamondshape%
-  \par}%
-  \vspace{0pt \@plus 5pt \@minus 0pt}%
-}
-
 % Breath mark is U+1D112. This character is often not included in typefaces.
 % Since it's identical to a right single quote mark (U+2019), we'll use that.
 % To distinguish it from a quote mark, we raise it higher, above the riser stems (such as d' or l').
-
 \newcommand\breathmark{%
-  \raisebox{-0.10\baselineskip}{\fontsize{13}{13}\bfseries\symbol{"2019}}%
+  \raisebox{-0.10\baselineskip}{\fontsize{18}{18}\bfseries\symbol{"2019}}%
  }
 
 % Same character as above but lowered for better diplay in abbreviations chapter.
 \newcommand\abbrbreathmark{%
-  \raisebox{-0.65em}{\fontsize{17}{6}\bfseries\symbol{"2019}}%
+  \raisebox{-0.65em}{\fontsize{24}{8}\bfseries\symbol{"2019}}%
  }
 
-% A mark indicating a pause, using the middle dot (U+00B7).
-% TODO marked for deletion
-\newcommand\pausemark{%
-  \raisebox{-1pt}{\fontsize{14}{14}\bfseries\symbol{"00B7}}%
-}
-
+ % Left angle bracket used for indicating the solo parts for the recitation leader.
 \newcommand\anglebracketleft{%
-  \raisebox{0.0\baselineskip}{\fontsize{11}{0}\symbol{"2329}}%
+  \raisebox{0.0\baselineskip}{\Large\symbol{"2329}}%
  }
 
+ % Right angle bracket used for indicating the solo parts for the recitation leader.
 \newcommand\anglebracketright{%
-  \raisebox{0.0\baselineskip}{\fontsize{11}{0}\symbol{"232A}}%
+  \raisebox{0.0\baselineskip}{\Large\symbol{"232A}}%
  }
 
+% Define a command for generating a bottom navigation section
+% #1: The label for the next section
 \newcommand\bottomNav[1]{%
-  \vfill
-  \ifdesktopversion
+  \vfill % Fill the vertical space
+  \ifdigitalversion % Check if the digital version is active
   \begin{minipage}{\linewidth}%
+    % Hyperlink to the "schedule" section
     \hyperref[schedule]{%
-      \textbf{\raggedright\textsc{\fontsize{9}{0}\textls*{Schedule}}}}
-    \hfill
+      \textbf{\raggedright\textsc{\fontsize{13}{0}\textls*{Schedule}}}}
+    \hfill % Fill the space between elements
+    % Hyperlink to the next section specified by the argument
     \hyperref[#1]{%
-      \textbf{\raggedleft\textsc{\fontsize{9}{0}\textls*{Next}}}}%
+      \textbf{\raggedleft\textsc{\fontsize{13}{0}\textls*{Next}}}}%
   \end{minipage}%
   \fi
 }
 
-\newenvironment{glossarydescription}%
-{\list{}{%
-    \labelwidth\z@ \itemindent-\leftmargin
-    \labelsep 2pt
-    \let\makelabel\glossaryDescriptionlabel}}%
-{\endlist}
 
-\newcommand*{\glossaryDescriptionlabel}[1]{%
-  \normalfont\textbf{#1}%
-  \hspace*{\labelsep}%
-}
 
-%%%%%%%%%%%%%%%% Color Specs %%%%%%%%%%%%%%%%
+% Define commands for storing color specifications
+\newcommand\modelTmp{} % Temporary storage for color model
+\newcommand\specTextbody{} % Store color specifications for text body
+\newcommand\specChaptertitle{} % Store color specifications for chapter titles
+\newcommand\specSection{} % Store color specifications for sections
+\newcommand\specFootnote{} % Store color specifications for footnotes
+\newcommand\specFooter{} % Store color specifications for footers
 
-\newcommand\modelTmp{}
-\newcommand\specTextbody{}
-\newcommand\specChaptertitle{}
-\newcommand\specSection{}
-\newcommand\specFootnote{}
-\newcommand\specFooter{}
-
+% Define a command to extract color specifications
 \newcommand\extractSpecs{%
   \extractcolorspecs{textbody}{\modelTmp}{\specTextbody}%
   \extractcolorspecs{chaptertitle}{\modelTmp}{\specChaptertitle}%
@@ -908,15 +807,17 @@ philo-sophical munindo amaravati thai-land}
   \extractcolorspecs{footer}{\modelTmp}{\specFooter}%
 }
 
-% #1: description title of specs, such as 'variation A, base colors'
+% Define a command to print color specifications
+% #1: Description title of specs, such as 'variation A, base colors'
 \newcommand{\printSpecs}[1]{%
-  \cleartoverso%
-  \mbox{}\vfill
-  \thispagestyle{empty}%
-  \extractSpecs%
+  \cleartoverso % Start a new page
+  \mbox{}\vfill % Fill the vertical space
+  \thispagestyle{empty} % Remove page numbering and headers/footers
+  \extractSpecs % Extract color specifications
 
-  #1
+  #1 % Print the description title
 
+  % Create a table to display color specifications
   \begin{tabular}{@{} l l}
     Chapter title & \specChaptertitle \\
     Text body & \specTextbody \\
@@ -924,11 +825,14 @@ philo-sophical munindo amaravati thai-land}
     Footnote & \specFootnote \\
     Footer & \specFooter \\
   \end{tabular}%
-  \vfill\mbox{}%
+  \vfill\mbox{}% Fill the remaining vertical space
 }
 
-%%%%%%%%%%%%%%%% Renewing Package Macros %%%%%%%%%%%%%%%%
 
+
+% Define commands to be executed when entering different parts of the document
+
+% Append code to be executed when entering \mainmatter
 \addtodef{\mainmatter}{}{%
   % \addtocontents{toc}{\addvspace{5pt}}%
   % \setcounter{chapter}{0}%
@@ -940,14 +844,16 @@ philo-sophical munindo amaravati thai-land}
   \bookmarksetup{startatroot}%
 }
 
+% Append code to be executed when entering \backmatter
 \addtodef{\backmatter}{}{%
   \bookmarksetup{startatroot}%
 }
 
+% Define a command for formatting a reference in a quote
 \newcommand\quoteref[1]{%
-\par
-{\footnotesize #1}
-\par
+\par % Start a new paragraph
+{\footnotesize #1} % Set the reference in footnotesize font
+\par % End the paragraph
 }
 
 % adapted from base/latex.ltx
@@ -957,47 +863,62 @@ philo-sophical munindo amaravati thai-land}
   \vspace*{7pt}%
   \kern 2.6\p@}
 
+% Redefine the name for the notes section
 \renewcommand*{\notesname}{Notes}
+
+% Redefine the title format for the notes section
 \renewcommand*{\notedivision}{\chapter{\notesname}}
+
+% Redefine the format for subheadings in page notes
 \renewcommand*{\pagenotesubhead}[3]{}
+
+% Redefine the format for note numbers in text
 \renewcommand*{\notenumintext}[1]{\textsuperscript{\thinspace #1}}
+
+% Redefine the format for the pre-note in notes
 \renewcommand{\prenoteinnotes}{\par\noindent\hangindent=17pt}
-\renewcommand{\postnoteinnotes}{\par\vspace*{0.5\baselineskip}}
 
 %% http://tex.stackexchange.com/questions/36894/underline-omitting-the-descenders
 %% http://tex.stackexchange.com/a/75406
 
-\RequirePackage[outline]{contour}
-\RequirePackage[normalem]{ulem}
+% Load required packages and define a custom command for underlining with a colored outline
+\RequirePackage[outline]{contour} % Load contour package with outline option
+\RequirePackage[normalem]{ulem} % Load ulem package
 
+% Define a command for underlining text with a colored outline
 \newcommand\prul[1]{%
-  \begingroup%
-  \renewcommand{\ULdepth}{1.8pt}%
-  \renewcommand{\ULthickness}{0.5pt}%
-  \contourlength{0.5pt}%
-  \uline{\phantom{#1}}\llap{\contour{white}{#1}}%
-  \endgroup%
+  \begingroup % Start a group
+  \renewcommand{\ULdepth}{1.8pt} % Set depth of underline
+  \renewcommand{\ULthickness}{0.5pt} % Set thickness of underline
+  \contourlength{0.5pt} % Set contour length
+  \uline{\phantom{#1}}\llap{\contour{white}{#1}} % Underline text with colored outline
+  \endgroup % End the group
 }
 
 %%%%%%%%%%%%%%%% Page Styles %%%%%%%%%%%%%%%%
 
+% Disable automatic capitalization of headers
 \nouppercaseheads
 
-% define page styles with names about "what it does"
-
+% Define a command for drawing a separator line
 \newcommand{\sepline}{%
-  \hspace{6pt}%
-  \raisebox{-0.3\baselineskip}{\rule{0.2pt}{1.2\baselineskip}}%
-  \hspace{6pt}%
+  \hspace{6pt}% Horizontal space
+  \raisebox{-0.3\baselineskip}{\rule{0.2pt}{1.2\baselineskip}}% Rule for the line
+  \hspace{6pt}% Horizontal space
 }
 
+% Define a page style named "toponerow"
 \makepagestyle{toponerow}
+% Define header and footer for even pages
 \makeevenhead{toponerow}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\textsc{\leftmark}}}
 \makeevenfoot{toponerow}{}{}{}
+% Define header and footer for odd pages
 \makeoddhead{toponerow}{\headerFont\headerSize\color{header}\textls*{\textsc{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
 \makeoddfoot{toponerow}{}{}{}
+% Set page marks for "toponerow"
 \makepsmarks{toponerow}{%
-  \nouppercaseheads
+  \nouppercaseheads % Prevent uppercase conversion of headers
+  % Create marks for various document elements
   \createmark{chapter}{left}{nonumber}{}{}
   \createmark{section}{right}{nonumber}{}{}
   \createplainmark{toc}{both}{\contentsname}
@@ -1008,13 +929,18 @@ philo-sophical munindo amaravati thai-land}
   \createplainmark{glossary}{both}{\glossaryname}
 }
 
+% Define a page style named "toponerow-frontmatter" for front matter pages
 \makepagestyle{toponerow-frontmatter}
+% Define header and footer for even pages
 \makeevenhead{toponerow-frontmatter}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\textsc{\leftmark}}}
 \makeevenfoot{toponerow-frontmatter}{}{}{}
+% Define header and footer for odd pages
 \makeoddhead{toponerow-frontmatter}{\headerFont\headerSize\color{header}\textls*{\textsc{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
 \makeoddfoot{toponerow-frontmatter}{}{}{}
+% Set page marks for "toponerow-frontmatter"
 \makepsmarks{toponerow-frontmatter}{%
-  \nouppercaseheads
+  \nouppercaseheads % Prevent uppercase conversion of headers
+  % Create marks for various document elements
   \createmark{chapter}{left}{nonumber}{}{}
   \createmark{section}{right}{nonumber}{}{}
   \createplainmark{toc}{both}{\contentsname}
@@ -1025,13 +951,16 @@ philo-sophical munindo amaravati thai-land}
   \createplainmark{glossary}{both}{\glossaryname}
 }
 
+% Define a page style named "bottomcorner" for pages with page numbers in the bottom corner
 \makepagestyle{bottomcorner}
+% Define header and footer for even pages
 \makeevenhead{bottomcorner}{}{}{}
 \makeevenfoot{bottomcorner}{%
   \footerFont\footerSize%
   \color{footer}%
   \thepage\hspace*{1em}$\cdot$\hspace*{1em}\textit{\thetitle}%
 }{}{}
+% Define header and footer for odd pages
 \makeoddhead{bottomcorner}{}{}{}
 \makeoddfoot{bottomcorner}{}{}{%
   \footerFont\footerSize%
@@ -1039,13 +968,16 @@ philo-sophical munindo amaravati thai-land}
   \textit{\leftmark}\hspace*{1em}$\cdot$\hspace*{1em}\thepage%
 }
 
+% Define a page style named "bottomcenter" for pages with page numbers centered at the bottom
 \makepagestyle{bottomcenter}
+% Define header and footer for even pages
 \makeevenhead{bottomcenter}{}{}{}
 \makeevenfoot{bottomcenter}{}{%
   \footerFont\footerSize%
   \color{footer}%
   \thepage%
 }{}
+% Define header and footer for odd pages
 \makeoddhead{bottomcenter}{}{}{}
 \makeoddfoot{bottomcenter}{}{%
   \footerFont\footerSize%
@@ -1053,44 +985,44 @@ philo-sophical munindo amaravati thai-land}
   \thepage%
 }{}
 
-% alias the pagestyles into semantic names, "where it is used"
+% Alias the page styles into semantic names, indicating where they are used
 
+% Alias the "toponerow" page style as "normalpage" for normal pages
 \aliaspagestyle{normalpage}{toponerow}
+% Alias the "bottomcenter" page style as "chapter" for chapter pages
 \aliaspagestyle{chapter}{bottomcenter}
+% Alias the "empty" page style for book parts and afterparts
 \aliaspagestyle{book}{empty}
 \aliaspagestyle{part}{empty}
 \aliaspagestyle{afterpart}{empty}
 
+% Set the default page style to "normalpage"
 \pagestyle{normalpage}
 
-%%%%%%%%%%%%%%%% Table of Contents Settings %%%%%%%%%%%%%%%%
 
+
+% Set the maximum depth of the table of contents to include subsubsections
 \maxtocdepth{subsubsection}
 
-% the right TOC margin
+% Set the right margin for the table of contents
 \contentsmargin{-5pt}
 
+% Define the width of the left margin in the table of contents
 \newlength\tocLeftWidth
 \setlength\tocLeftWidth{0pt}
 
-% Roman numerals in the chapter title TOC chapter entries.
-%\renewcommand\thechapter{\Roman{chapter}}
-
-% Fixes Undefined control sequence error for \@chapapp@head
+% Define commands to handle chapter and part numbering in the table of contents
 \renewcommand\chapternumberline[1]{\numberline{#1}}
 \renewcommand\partnumberline[1]{\numberline{#1}}
 
-% Fixes Missing number error when chapter number is not numeric, as in
-% Appendix A
-\let\ttll@appendix\ttll@chapter
+\let\ttll@appendix\ttll@chapter % Fixes undefined control sequence error
 
 \newcommand*\l@chapternote{\@nodottedtocline{0}{\tocLeftWidth}{1pc}{1pc}}
 
 \def\@nodottedtocline#1#2#3#4#5#6{%
   \ifnum #1>\c@tocdepth \else
-    %\vskip \z@ \@plus.2\p@
-    \vspace*{3pt}
-    {\fontsize{8}{11}\itshape\tocFont\selectfont
+    \vspace*{3pt}%
+    {\fontsize{11}{15}\itshape\tocFont\selectfont
      \leftskip #2\relax
      \rightskip \@tocrmarg
      \advance\rightskip #3\relax
@@ -1110,11 +1042,13 @@ philo-sophical munindo amaravati thai-land}
     \vspace*{5pt}%
   \fi}
 
+% Define a command to add chapter notes to the table of contents
 \def\tocChapterNote#1{%
   \addcontentsline{toc}{chapternote}{%
   \noexpand\numberline{}#1}%
 }
 
+% Define the format for English titles in the table of contents
 \newcommand{\tocEnglishTitleFmt}[1]{%
   {%
     \libertinusFont\tocSectionSize\itshape\selectfont%
@@ -1124,6 +1058,7 @@ philo-sophical munindo amaravati thai-land}
   }%
 }
 
+% Define the English title in the table of contents
 \def\tocEnglishTitle#1{%
   \addtocontents{toc}{\protect\tocEnglishTitleFmt{#1}}%
 }
@@ -1139,7 +1074,7 @@ philo-sophical munindo amaravati thai-land}
 % Changes 'Pāli-English Recitations' in the ToC
 \titlecontents{part}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\fontsize{10}{3.5}\selectfont}%
+\tocFont\bfseries\fontsize{14}{5}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \textls*{PART \thecontentslabel.}\space%
@@ -1149,10 +1084,10 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}}
 {}
 
-% Changes chapter headings in ToC e.g. 'Schedule, Abbreviations, etc.'
+% Change the appearance of chapter entries in the table of contents
 \titlecontents{chapter}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\scshape\fontsize{10}{11}\selectfont}%
+\tocFont\bfseries\scshape\fontsize{14}{15}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1162,7 +1097,7 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
 }
 % Changes the size of the page number for chapter headings in ToC
-{\hfill\tocFont\fontsize{10}{11}\selectfont\thecontentspage}
+{\hfill\tocFont\fontsize{14}{15}\selectfont\thecontentspage}
 [\addvspace{1pt}]
 
 % Changes section/chant formatting in ToC e.g. 'Dedication of Offerings'
@@ -1178,6 +1113,7 @@ philo-sophical munindo amaravati thai-land}
   \itshape}
 {\hfill\libertinusFont\tocSectionSize\thecontentspage}
 
+% Change the appearance of subsection entries in the table of contents
 \titlecontents{subsection}[1em]
 {\addvspace{4pt}%
 \libertinusFont\tocSubsectionSize}%
@@ -1190,6 +1126,7 @@ philo-sophical munindo amaravati thai-land}
   \itshape}
 {\hfill\libertinusFont\tocSubsectionSize\thecontentspage}
 
+% Change the appearance of subsubsection entries in the table of contents
 \titlecontents{subsubsection}[\tocLeftWidth]
 {\libertinusFont\itshape\tocSectionSize}%
 {%
@@ -1203,9 +1140,10 @@ philo-sophical munindo amaravati thai-land}
 }%
 {\hfill\libertinusFont\tocSectionSize\upshape\selectfont\thecontentspage}
 
+% Change the appearance of appendix entries in the table of contents
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\fontsize{8}{11}\selectfont}%
+\tocFont\bfseries\fontsize{11}{15}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1214,35 +1152,38 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\tocFont\fontsize{8}{11}\selectfont\thecontentspage}
+{\hfill\tocFont\fontsize{11}{15}\selectfont\thecontentspage}
 [\addvspace{5pt}]
 
-%%%%%%%%%%%%%%%% Book Styles %%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%% Part Styles %%%%%%%%%%%%%%%%
 
+% Define a conditional variable to track if a part has a title
 \newif\ifthisparthastitle
 \thisparthastitletrue
 
+% Define a conditional variable to track if a part has a note
 \newif\ifthisparthasnote
 \thisparthasnotefalse
 
+% Define a command to store the content of the part note
 \newcommand*{\thePartNote}{}
+% Define a command to set the content of the part note
 \newcommand*{\partNote}[1]{%
   \thisparthasnotetrue%
   \renewcommand*\thePartNote{#1}%
 }
 
-\renewcommand{\partnamefont}{\fontsize{8.5}{8.5}\selectfont\partTitleFont\color[gray]{0.1}}
-\renewcommand{\parttitlefont}{\fontsize{13}{13}\selectfont\partTitleFont\color[gray]{0.1}}
+% Redefine the font style for the part name
+\renewcommand{\partnamefont}{\fontsize{12}{12}\selectfont\partTitleFont\color[gray]{0.1}}
+% Redefine the font style for the part title
+\renewcommand{\parttitlefont}{\fontsize{18}{18}\selectfont\partTitleFont\color[gray]{0.1}}
 
-%\renewcommand{\printpartname}{\partnamefont \partname}
-%\renewcommand{\partnamenum}{\space}
-%\renewcommand{\printpartnum}{\partnumfont \thepart}
-
+% Define a command to print the formatted part name and number
 \newcommand\printpart{\textls*{\partnamefont\MakeUppercase{\partname \space \thepart}}}
+% Redefine the command responsible for printing the formatted part title
 \renewcommand{\printparttitle}[1]{\textls*{\parttitlefont\MakeUppercase{#1}}}
 
+% Redefine the spacing between parts
 \renewcommand*{\midpartskip}{\par\vskip 15pt}%
 
 % FIXME: Currently, if there isn't a part title, we have to do
@@ -1252,100 +1193,92 @@ philo-sophical munindo amaravati thai-land}
 % It would be better if the index had ``Part One'', and the TOC would
 % handle it better too.
 
+% Redefine the internal LaTeX command for printing parts
 \long\def\@part[#1]#2{%
-  \M@gettitle{#1}%
-  \phantomsection
-  \ifnum \c@secnumdepth >-2\relax
-  \refstepcounter{part}%
-  \addcontentsline{toc}{part}%
-  {\protect\partnumberline{\thepart}#1}%
-  \mempartinfo{\thepart}{#1}{#2}%
+  \M@gettitle{#1} % Extract the title of the part
+  \phantomsection % Ensure correct hyperlinks in PDFs
+  \ifnum \c@secnumdepth >-2\relax % Check if part numbering is enabled
+    \refstepcounter{part} % Increment the part counter
+    \addcontentsline{toc}{part} % Add part to the table of contents
+    {\protect\partnumberline{\thepart}#1} % Print part number and title in TOC
+    \mempartinfo{\thepart}{#1}{#2} % Store part information
   \else
-  \addcontentsline{toc}{part}{#1}%
-  \mempartinfo{}{#1}{#2}%
+    \addcontentsline{toc}{part}{#1} % Add part without number to TOC
+    \mempartinfo{}{#1}{#2} % Store part information
   \fi
-  \partmark{#1}%
-  {%
-    \raggedright
-    \hspace*{17pt}%
-    \begin{minipage}{\linewidth - 17pt}
-      \raggedright
-      \interlinepenalty \@M
-      \parskip\z@
-      \ifthisparthasnote
-        \thePartNote
-        \par
-        \global\thisparthasnotefalse
-        \midpartskip
+  \partmark{#1} % Set part mark
+  {% Begin part content
+    \raggedright % Align part content to the left
+    \hspace*{17pt} % Indentation for part content
+    \begin{minipage}{\linewidth - 17pt} % Use a minipage to limit width of part content
+      \raggedright % Align part content to the left
+      \interlinepenalty \@M % Penalty for page breaks between lines
+      \parskip\z@ % No extra space between paragraphs
+      \ifthisparthasnote % Check if part has a note
+        \thePartNote % Print part note
+        \par % Start a new paragraph
+        \global\thisparthasnotefalse % Reset note flag
+        \midpartskip % Add space after note
       \fi
-      \normalfont
-      \ifnum \c@secnumdepth >-2\relax
-        {\printpart}%
-        \par\vskip 20pt
+      \normalfont % Use normal font for part content
+      \ifnum \c@secnumdepth >-2\relax % Check if part numbering is enabled
+        {\printpart} % Print part name and number
+        \par\vskip 20pt % Add space after part name and number
       \fi
-      \ifthisparthastitle
-        \printparttitle{#2}
+      \ifthisparthastitle % Check if part has a title
+        \printparttitle{#2} % Print part title
       \else
-        \global\thisparthastitletrue
+        \global\thisparthastitletrue % Reset title flag
       \fi
-      \par%
-    \end{minipage}%
-    \par%
-  }%
-\@endpart}
+      \par % End part content
+    \end{minipage} % End minipage
+    \par % Start new paragraph after part content
+  } % End part content
+\@endpart} % End internal part command
 
-%%%%%%%%%%%%%%%% Chapter Styles %%%%%%%%%%%%%%%%
 
-% NOTE: Sub-section ref. numbers are used in the vinaya notes, such as:
-%
-% 'If more than one article is to be shared substitute the plural form as in
-% sec. 10.4.1 above.'
-%
-% Sub-sub-section is only used in the Sri Lankan chants chapter, but it helps
-% the content separation to still number them.
 
 \setsecnumdepth{none}
 
-% define chapter styles with "fantasy" names
+% TODO uncertain if these should be removed; commented out for now.
+% \newif\ifchapterauthor
+% \chapterauthorfalse
 
-\newif\ifchapterauthor
-\chapterauthorfalse
+% \newcommand*{\theChapterAuthor}{}
+% \newcommand*{\chapterAuthor}[1]{%
+%   \chapterauthortrue%
+%   \renewcommand*{\theChapterAuthor}{#1}%
+% }
 
-\newcommand*{\theChapterAuthor}{}
-\newcommand*{\chapterAuthor}[1]{%
-  \chapterauthortrue%
-  \renewcommand*{\theChapterAuthor}{#1}%
-}
+% \newcommand\chapterAuthorFmt[1]{%
+%   \chapterAuthorFont\chapterAuthorSize\color{chapterauthor}%
+%   #1%
+% }
 
-\newcommand\chapterAuthorFmt[1]{%
-  \chapterAuthorFont\chapterAuthorSize\color{chapterauthor}%
-  #1%
-}
+% \newif\ifchapternote
+% \chapternotefalse
 
-\newif\ifchapternote
-\chapternotefalse
+% \newcommand\chapterNoteFmt[1]{%
+%   \chapterNoteFont\chapterNoteSize\color{chapternote}%
+%   \itshape #1%
+% }
 
-\newcommand\chapterNoteFmt[1]{%
-  \chapterNoteFont\chapterNoteSize\color{chapternote}%
-  \itshape #1%
-}
+% \newcommand{\theChapterNote}{}
+% \newcommand{\chapterNote}[1]{%
+%   \chapternotetrue%
+%   \renewcommand*\theChapterNote{#1}%
+% }
 
-\newcommand{\theChapterNote}{}
-\newcommand{\chapterNote}[1]{%
-  \chapternotetrue%
-  \renewcommand*\theChapterNote{#1}%
-}
+% \newif\ifchapterfootnote
+% \chapterfootnotefalse
 
-\newif\ifchapterfootnote
-\chapterfootnotefalse
-
-\newcommand*{\theChapterFootnoteMark}{}
-\newcommand*{\theChapterFootnoteText}{}
-\newcommand*{\chapterFootnote}[2][\footnotemark]{%
-  \chapterfootnotetrue%
-  \renewcommand*\theChapterFootnoteMark{#1}%
-  \renewcommand*\theChapterFootnoteText{\footnotetext{#2}}%
-}
+% \newcommand*{\theChapterFootnoteMark}{}
+% \newcommand*{\theChapterFootnoteText}{}
+% \newcommand*{\chapterFootnote}[2][\footnotemark]{%
+%   \chapterfootnotetrue%
+%   \renewcommand*\theChapterFootnoteMark{#1}%
+%   \renewcommand*\theChapterFootnoteText{\footnotetext{#2}}%
+% }
 
 \makechapterstyle{adrasteia}{
   \chapterstyle{default}
@@ -1407,8 +1340,8 @@ philo-sophical munindo amaravati thai-land}
   \photoFullBleed{\thechaptergraphics}%
     {%
       \centering%
-      {\chapnumfont\fontsize{7}{7}\selectfont\textls*{Appendix}}%
-      \chaptitlefont\fontsize{9}{13}\selectfont%
+      {\chapnumfont\fontsize{10}{10}\selectfont\textls*{Appendix}}%
+      \chaptitlefont\fontsize{13}{18}\selectfont%
       \vspace*{12pt}%
       \par
       \textbf{\textsc{\textls*{##1}}}%
@@ -1421,38 +1354,41 @@ philo-sophical munindo amaravati thai-land}
   \chapterstyle{adrasteia-frontmatter}
 }
 
-% Commands to assign the chapter styles to book parts. Use \renewcommand
-% to adjust.
+% Commands to assign the chapter styles to book parts. Use \renewcommand to adjust.
 
-% No numbers in chapter mark
-%\createmark{chapter}{left}{nonumber}{}{}
 
+% Create a mark for the left side of the header for chapters without numbering
+% \createmark{chapter}{left}{nonumber}{}{}
+
+% Define a command to set the chapter style for the front matter
 \newcommand\frontmatterChapterStyle{\chapterstyle{adrasteia-frontmatter}}
+% Define a command to set the chapter style for the main matter
 \newcommand\mainmatterChapterStyle{\chapterstyle{adrasteia}}
+% Define a command to set the chapter style for the appendix
 \newcommand\appendixChapterStyle{\chapterstyle{adrasteia-appendix}}
+% Define a command to set the chapter style for the back matter
 \newcommand\backmatterChapterStyle{\chapterstyle{adrasteia-backmatter}}
 
-% append them to the macros
+% Append the front matter chapter style to the \frontmatter macro
 \addtodef{\frontmatter}{}{\frontmatterChapterStyle}
+% Append the main matter chapter style to the \mainmatter macro
 \addtodef{\mainmatter}{}{\mainmatterChapterStyle}
+% Append the appendix chapter style to the \appendix macro
 \addtodef{\appendix}{}{\appendixChapterStyle}
+% Append the back matter chapter style to the \backmatter macro
 \addtodef{\backmatter}{}{\backmatterChapterStyle}
 
-%%%%%%%%%%%%%%%% Section Styles %%%%%%%%%%%%%%%%
 
-% TODO: could use \makeheadstyles to keep bundle different chapter and
-% section style together. See memoir manual '6.9 Predefined heading
-% styles'.
 
 % No glue after section headers. It is better to break the page early. With
 % glue, (eg \setaftersecskip{2.3ex \@plus .2ex}), when nowidow moves some lines
 % to the next page, the space after the section header will strech a lot to shift
 % the bottom lines to the bottom of the text block.
-%
+
 % With no glue, the space will be at the bottom of the text block instead.
 
-\setbeforesecskip{10pt}
 
+% TODO need or not?
 % \setsechook{%
 %   % New page for each section.
 %   \clearpage%
@@ -1460,15 +1396,19 @@ philo-sophical munindo amaravati thai-land}
 %   \setsecnumformat{}%
 % }
 
-% Alters space before and after subtitles
+% Set the vertical space before sections
+\setbeforesecskip{10pt}
+
+% Alters space after subsections
 \setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
+% Alters space before and after subsections
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersubsecskip{0.1ex \@plus -.5ex \@minus -.2ex}
 
+% Alters space before and after subsubsections
 \setbeforesubsubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersubsubsecskip{1ex}
-
 
 % Roman numerals for section numbering.
 %\renewcommand*{\thesection}{\roman{section}}
@@ -1477,12 +1417,33 @@ philo-sophical munindo amaravati thai-land}
 
 % Section title formatting (e.g. 'Homage to the Buddha')
 \newcommand\sectionFmt[1]{%
-
+  % A box with contains the entire ruled title
+  % \begin{minipage}{\linewidth}%
     \centering%
-    \sectionFont\fontsize{11}{11}\selectfont%
-
+    \sectionFont\fontsize{15}{15}\selectfont%
+    % \setlength{\parskip}{2pt}%
+    %
+    % Top rule
+    % \rule{\linewidth}{0.4pt}%
+    % \linebreak%
+    % Measure the length of the section title at the current point size
     \setlength{\sectionTitleLength}{\widthof{\mbox{\textbf{\textls*{\textsc{#1}}}}}}%
-
+    %
+    % Box for the section number
+    % \begin{minipage}[t]{0.001\linewidth}% padding for the title
+      % Only print the section number in the mainmatter,
+      % but the empty box is necessary for horizontal spacing.
+      % \if@mainmatter%
+      %   \raggedright%
+      %   \textbf{\textls*{\textsc{\thesection}}}%
+      % \else%
+      %   \mbox{}%
+      % \fi%
+      % No section number, but minipage needs content (an empty box).
+      % \mbox{}%
+    % \end{minipage}%
+    %
+    % Box for the section title text
     % TODO: hyperef wrap is disorienting the remainder of brackets
     \hyperref[schedule]{%
       \begin{minipage}[t]{\linewidth}%
@@ -1490,7 +1451,20 @@ philo-sophical munindo amaravati thai-land}
         % To hyperlink the text only, put \hyperref around the below
         \textbf{\textls*{\textsc{#1}}}%
       \end{minipage}}%
-
+    %
+    % Box for the arrow link back to the schedule.
+    % Uncomment below to end to regain arrow and box
+    % \begin{minipage}[t]{0.1\linewidth}%
+    %   % Only print content in the mainmatter.
+    %   \if@mainmatter%
+    %     \raggedleft%
+    %     \hyperref[schedule]{$\Leftarrow$}%
+    %   \else%
+    %     \mbox{}%
+    %   \fi%
+    % \end{minipage}%
+    %
+    % New paragraph.
     \par%
     \ifsectionsubtitle%
       % If there is a subtitle, and the title is more than one line, adjust the spacing.
@@ -1505,9 +1479,9 @@ philo-sophical munindo amaravati thai-land}
       \vspace*{-4pt}%
       \parbox{\linewidth}{%
         \centering%
-        % font size for subtitle
+        % font size for subTitle
         \color{black}
-        \fontsize{8.5}{10}\selectfont
+        \fontsize{12}{14}\selectfont
         \@secSubTitle%
         \sectionSubTitleClear%
       }%
@@ -1535,9 +1509,12 @@ philo-sophical munindo amaravati thai-land}
     % \rule{\linewidth}{0.4pt}%
     % \vspace*{10pt}
     % Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
+    % Create a minipage for the decorative ornament
   \begin{minipage}{\linewidth}%
+    % Center the ornament
     \centering%
-    \pgfornament[color=black,width=5cm,scale=1,ydelta=16pt,symmetry=c]{88}%
+    % Insert the ornament
+    \pgfornament[color=black,width=7cm,scale=1,ydelta=24pt,symmetry=c]{88}%
   \end{minipage}%
   % Something is causing this bracket unbalance but it doesn't break the build.
   % Starting at the title hyperref above
@@ -1546,7 +1523,7 @@ philo-sophical munindo amaravati thai-land}
 % Subsection title formatting (e.g. the 'Historical Background' found in the Purpose and Benefit section)
 \newcommand\subsectionFmt[1]{%
   {%
-    \subSectionFont\fontsize{10}{13}\selectfont%
+    \subSectionFont\fontsize{14}{18}\selectfont%
     \scshape\bfseries%
     \centering
     \hyperref[schedule]{%
@@ -1557,14 +1534,13 @@ philo-sophical munindo amaravati thai-land}
       \end{minipage}}%
     % \vspace*{-7.2pt}% what is the needed for? commented removes gap in anumodana-paritta section
     % #1%
-    %
   }%
 }
 
-% Subsection title formatting which is currently unused.
+% Formatting for subsubsection titles (currently unused)
 \newcommand\subsubsectionFmt[1]{%
   {%
-    \subSectionFont\fontsize{8}{12}\selectfont%
+    \subSectionFont\fontsize{11}{17}\selectfont%
     \itshape%
     \memRTLraggedright%
     \prul{#1}%
@@ -1606,7 +1582,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand*\@secSubTitle{}
 
-% Formatting for the Subtitle which resides below the section tile.
+% Formatting for the Sub subtitle which resides below the English section tile.
 \newcommand\sectionSubTitle[1]{%
   % \fontsize{8}{8}\selectfont #1\par
   \renewcommand*\@secSubTitle{#1}%
@@ -1634,22 +1610,26 @@ philo-sophical munindo amaravati thai-land}
 \def\BOOK@fontSizePt{}
 \def\BOOK@lineHeightPt{}
 
-%%%%%%%%%%%%%%%% Normalsize %%%%%%%%%%%%%%%%
+% Set font size and line height for normalsize text
 
-\def\BOOK@fontSizePt{9}
-\def\BOOK@lineHeightPt{13}
+\def\BOOK@fontSizePt{12.5}
+\def\BOOK@lineHeightPt{19}
 
+% Redefine the \normalsize command to set font size and line height
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
+  % Set spacing above and below displayed equations
   \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
   \abovedisplayshortskip \z@ \@plus3\p@
   \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
   \belowdisplayskip \abovedisplayskip
+  % Set text color to 'textbody'
   \color{textbody}
+  % Set list item style
   \let\@listi\@listI}
+% Apply the \normalsize command
 \normalsize
 
-%%%%%%%%%%%%%%%% Indentations %%%%%%%%%%%%%%%%
 
 \setlength{\vgap}{1.5em}
 \setlength{\vindent}{\vgap}
@@ -1661,12 +1641,11 @@ philo-sophical munindo amaravati thai-land}
 %%%%%%%%%%%%%%%% Setup Page Layout %%%%%%%%%%%%%%%%
 
 % A5 page size
-\setlength{\BOOK@paperHeight}{148mm}
-\setlength{\BOOK@paperWidth}{105mm}
+\setlength{\BOOK@paperHeight}{210mm}
+\setlength{\BOOK@paperWidth}{148mm}
 
 \ifshowtrims
   \stockaiv% use A4 paper size to show trims
-  % TODO would \stockavi be needed for A6?
   \setlength{\paperheight}{\BOOK@paperHeight}
   \setlength{\paperwidth}{\BOOK@paperWidth}
   \trimXmarks
@@ -1681,36 +1660,16 @@ philo-sophical munindo amaravati thai-land}
 \fi
 
 % Page Margins
-% \settypeblocksize{27\baselineskip + \topskip}{120mm}{*}
-% \settypeblocksize{27\baselineskip + \topskip}{80mm}{*} % Adjusted for A6 size
-% \setlrmargins{15mm}{*}{*}
-% \setulmargins{*}{10mm}{*}
-% \setmarginnotes{8pt}{14pt}{6pt}
+\settypeblocksize{27\baselineskip + \topskip}{120mm}{*}
+\setlrmargins{15mm}{*}{*}
+\setulmargins{*}{10mm}{1}
+\setmarginnotes{8pt}{14pt}{6pt}
 
-% \settypeblocksize{25\baselineskip + \topskip}{88mm}{*} % Type block size <-- this has offered more control than \setlr and \setul below
-% \setlrmargins{8.5mm}{*}{*} % Left and right margins
-% TODO this is close but still needs some tweaking
-% \setulmargins{*}{8mm}{1} % Upper and lower margins
-% \setmarginnotes{7pt}{14pt}{6pt} % Margin notes
-
-% Thank you GPT. This looks appropriate
-\settypeblocksize{120mm}{90mm}{*}
-\setlrmargins{*}{*}{*}
-\setulmargins{*}{*}{*}
-
-\setlength{\footskip}{15pt}
-
-% \addtolength{\headheight}{2pt}
-
-
-
-
-% \setlength{\headsep}{\baselineskip} % Adjust distance between header and text
-% \setlength{\headheight}{\baselineskip}
+\setlength{\footskip}{16pt}
 
 % Adjust spacing to avoid warning
 % Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
-% \addtolength{\headheight}{0pt}
+\addtolength{\headheight}{6pt}
 \addtolength{\headsep}{-5pt}
 
 % Increase overfull and underfull tolerance to avoid too many warnings such as
@@ -1720,7 +1679,7 @@ philo-sophical munindo amaravati thai-land}
 \hfuzz=5pt
 \hbadness=10000
 
-%\marginparmargin{outer}
+% Set the margin for side paragraphs to the left side
 \sideparmargin{left}
 
 % This will also typeout values in pt (default)
@@ -1729,29 +1688,37 @@ philo-sophical munindo amaravati thai-land}
 \settypeoutlayoutunit{mm}
 \typeoutlayout
 
+% Set the font style for side paragraphs to a custom format defined as \instrFmt
 \renewcommand\sideparfont{\instrFmt}
 
+% Define the format for side paragraphs
 \renewcommand*\sideparform{%
-  \vspace*{-7.2pt}%
+  \vspace*{-7.2pt}% Adjust the vertical spacing
+  % Set the alignment of side paragraphs based on the condition:
+  % If memtortm is true, set to ragged right; otherwise, set to ragged left
   \ifmemtortm\raggedright\else\raggedleft\fi
 }
 
-% Math sizes for superscript sizes
+% Define math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
 
-%%%%%%%%%%%%%%%% Packages To Be Loaded LAST %%%%%%%%%%%%%%%%
-
-% NOTE use the 'bottom' footmisc option when using \raggedbottom.
+% Load the footmisc package with various options:
+% - perpage: Restart footnotes numbering on each page
+% - symbol*: Use symbols instead of numbers for footnotes
+% - bottom: Place footnotes at the bottom of the page
+% - norule: Remove the rule above footnotes
+% - multiple: Allow multiple footnotes separated by commas
 \RequirePackage[perpage,symbol*,bottom,norule,multiple]{footmisc}
 
-% NOTE if you have a quote margin, the \footnotemargin can be set equal to that
-% in your local.sty
+% NOTE if you have a quote margin, the \footnotemargin can be set equal to that in your local.sty
+% Set the margin for footnotes
 \setlength{\footnotemargin}{2em}
 
+% Define the layout for footnotes
 \renewcommand{\footnotelayout}{\hangpara{\footnotemargin}{1}}
 
-% Asterisks for the first three footnotes, then numbers produced by the
-% 'symbol*' option.
+% Asterisks for the first three footnotes, then numbers produced by the 'symbol*' option.
+% Define symbols for the first three footnotes, then use numbers produced by the 'symbol*' option
 \DefineFNsymbols{anecdote}{*{**}{***}}
 \setfnsymbol{anecdote}
 
@@ -1759,3 +1726,4 @@ philo-sophical munindo amaravati thai-land}
 \makeatletter
  \newcommand{\linkdest}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
 \makeatother
+

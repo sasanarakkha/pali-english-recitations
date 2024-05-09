@@ -1,7 +1,11 @@
 
 \cleartorecto
 \thispagestyle{empty}
-\vspace*{1em}
+% \ifasixversion
+  % \vspace*{1em}
+% \else
+  -\vspace*{3em}
+% \fi
 
 {\centering
 
@@ -10,14 +14,27 @@
   }
 
   % 'SBS' on title page
-  {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.0\baselineskip]%
+  % \ifasixversion
+    % {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.0\baselineskip]%
+  % \else
+    {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip]%
+  % \fi
 
   % 'Monk Training Centre'
-  {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip]
-  \setlength{\xheight}{\heightof{X}}
+  % \ifasixversion
+    % {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip]
+    \setlength{\xheight}{\heightof{X}}
+  % \else
+    {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip]
+  % \fi
 
   % Ornament
-  \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
+  % \ifasixversion
+    % \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
+  % \else
+  % \fi
+      \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
+
 
   % 'Pali-English Recitations'
   {\fontsize{10.5}{12}\scshape Pāli-English Recitations}\\[2.5\baselineskip]

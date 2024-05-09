@@ -1,73 +1,72 @@
+% Define document class with options:
 \documentclass[
-final,
-babelLanguage=british,
-% desktopVersion,
-asixVersion,
-% axVersion,
-% showtrims,
+  final, % - final: Final version of the document
+  babelLanguage=british, % - babelLanguage=british: British English language settings
+  digitalVersion, % - digitalVersion: The digital version has hyperlinks and compressed images
+  % afiveVersion, % - A5 Version: Version for A5 paper size
+  % asixVersion, % - A6 Version: Version for A6 paper size
+  % bsixVersion, % - B6 Version: Version for B6 paper size
+  % showtrims, % - showtrims: Show trims for printing
 ]{anecdote}
 
+% TODO need ifthen for other sizes
+% Define graphics path for images
 \graphicspath{{./assets/title-pages/A6}{./assets/graphics}}
 
-% Page size: 148mm x 105mm (A6)
+% Load local package for local settings
+\usepackage{A5}
 
-\usepackage{local}
-
-%%%%%%%%%%%%%%%% Details of the Book %%%%%%%%%%%%%%%%
-
+% Set metadata for the document
 \title{SBS Pāli-English Recitations}
 \subtitle{Monk Training Centre}
 \author{SBS Monk Training Centre}
 \publisher{Sāsanārakkha Buddhist Sanctuary}
-\date{2021-10-30}% chktex 8
+\date{2021-10-30}
 \editionInfo{\textit{First Edition}, 2024}
 \ISBN{000-0-00000-000-0}
 
-%%%%%%%%%%%%%%%% Metadata %%%%%%%%%%%%%%%%
-
+% Set metadata for PDF properties
 \hypersetup{
   pdftitle={\thetitle},
   pdfauthor={\theauthor},
   pdfcopyright={Copyright (C) 2024, \thePublisher},
-  pdfsubject={},% subject
-  pdfkeywords={},% keywords
+  pdfsubject={},
+  pdfkeywords={},
   pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
   pdfcontacturl={},
   pdflang={en},
 }
 
-%%%%%%%%%%%%%%%% Load Further Packages  %%%%%%%%%%%%%%%%
+% Load further packages
+\RequirePackage[yyyymmdd,hhmmss]{datetime} % Adds the time to version creation
+\RequirePackage{pagenote} % For memoir's endnotes
+\continuousnotenums % Ensure continuous endnote numbering
 
-% Adds the time to version creation.
-\usepackage[yyyymmdd,hhmmss]{datetime}
-% \usepackage{titlesec}
-
-% Using memoir's endnotes, called pagenotes
-\makepagenote
-\continuousnotenums
-
-%%%%%%%%%%%%%%%% Hyphenation Exceptions and Corrections   %%%%%%%%%%%%%%%%
-
+% Define hyphenation exceptions and corrections
 \hyphenation{London re-lin-quishes de-ter-mines}
 
-\openany%
-
-\begin{document}
-
-\frontmatter
-
-% TODO is an else argument needed for non e/desktop?
-% TODO do printed documents need images to be within the pdf or should these be handles separately?
-
-\ifdesktopversion
-  \desktopCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+\ifdigitalversion
+  \openany
 \fi
 
+% Begin document
+\begin{document}
+
+% Front matter
+\frontmatter
+
+% Digital version cover
+\ifdigitalversion
+  \digitalCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+\fi
+
+% Title page, copyright, acknowledgments
 \pagestyle{empty}
 \input{./tex/titlepage.tex}
 \input{./tex/copyright.tex}
 \input{./tex/acknowledgments.tex}
 
+% Table of contents, schedule, purpose and benefits, abbreviations
 \cleartorecto
 \pagestyle{toponerow-frontmatter}
 \chapterstyle{adrasteia-toc}
@@ -81,11 +80,13 @@ asixVersion,
 
 \chapterstyle{adrasteia-frontmatter}
 
+% Main matter
 \mainmatter
 \pagestyle{toponerow}
 
 \cleartorecto
 
+% Recitation chapters
 {\raggedright
   \input{./tex/recitations/homage.tex}
   \input{./tex/recitations/verses.tex}
@@ -98,30 +99,24 @@ asixVersion,
   \input{./tex/recitations/sharing-of-merits.tex}
 }
 
+% Appendix
 \appendix
+\input{./tex/appendix.tex}
+\input{./tex/refuge-trainings.tex}
+\input{./tex/phonetics-pronunciation.tex}
+\input{./tex/guidelines.tex}
 
-% {\raggedright
-  \input{./tex/appendix.tex}
-  \input{./tex/refuge-trainings.tex}
-  \input{./tex/phonetics-pronunciation.tex}
-  \input{./tex/guidelines.tex}
-% }
-
+% Back matter
 \backmatter
-
-% {\raggedright
-  \printpagenotes
-% }
-
+\printpagenotes % Print endnotes
 \input{./tex/copyright-details.tex}
+\emptyUntilEven % Add blank page if necessary
 
-\emptyUntilEven
-
-% TODO is an else argument needed for non desktop/desktop?
-% TODO correct path when image available
-\ifdesktopversion
+% Digital version back cover (if applicable)
+\ifdigitalversion
 \clearpage
-\desktopCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+\digitalCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
 \fi
 
+% End document
 \end{document}

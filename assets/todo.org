@@ -160,7 +160,8 @@ CLOSED: [2022-05-26 Thu 22:16]
 * DONE TeX: yatha-vari-vaha title closer than subsequent titles
 CLOSED: [2022-12-14 Wed 18:32]
 * TODO TeX: fix indentation for pali-hang and pali-hangtogether -- FIXED ALREADY?
-* TODO TeX: return periods in cardinal suttas -- NECESSARY?
+* DONE TeX: return periods in cardinal suttas -- NECESSARY? No.
+CLOSED: [2024-05-08 Wed 15:12]
 * DONE TeX: check for endnotes that are too close to proceeding word
 CLOSED: [2022-12-16 Fri 13:29]
 * DONE TeX: check spacing of parittas
@@ -226,5 +227,21 @@ CLOSED: [2024-04-12 Fri 21:27]
 CLOSED: [2024-04-12 Fri 22:05]
 * DONE have makefile convert using calibre instead of using kindlegen
 CLOSED: [2024-04-15 Mon 18:13]
-* TODO split tex directory into two for a6 and a*?
+* DONE split tex directory into two for a6 and a*? - No. Keep anecdote.cls, local.sty, and recitations.tex.org in their respective files and simply use conditionals
+CLOSED: [2024-05-08 Wed 15:14]
 * TODO write a script that will copy all WPN endnotes and one that will wrap them all with conditionals
+* DONE begin to remove unneeded configurations, remnants of the fork of bhikkhu manual and old scraps from this project
+CLOSED: [2024-05-08 Wed 17:43]
+* DONE with the help of gpt and own knowledge provide thorough comments for easy future editing
+CLOSED: [2024-05-08 Wed 17:43]
+* DONE for my own clarity, there will be multiple versions it seems.
+CLOSED: [2024-05-08 Wed 17:43]
+- the A6 version - the booklet
+- the A5 version - digital produced for kindle?
+- the Ax version - printed for live use
+- the epub
+* DONE given the number of variants, is there a way for me to make use of conditionals in order to maintain one common set up .tex/org document?
+CLOSED: [2024-05-08 Wed 17:46]
+* DONE revert to a5/kindle ready version. then experiment wraping all A6/AX changes with conditionals
+CLOSED: [2024-05-08 Wed 17:46]
+* TODO look at what the desktop version conditionals do -- it should mainly be hyperlinking and other non printable features.
