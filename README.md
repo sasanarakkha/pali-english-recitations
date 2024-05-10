@@ -1,9 +1,9 @@
 <div align=center><img alt="Cover" width="524" height="744" src="assets/illustrations/A5/front-cover.jpg"></div>
-
-<div align:=center">A collaborative effort from the SBS Saṅgha and members of the greater community.
-
-</div>
-<center>This text will be centered</center>
+</br>
+</br>
+<p align="center">A collaborative effort from the SBS Saṅgha and members of the greater community.</p>
+</br>
+</br>
 
 # Prerequisites
 
@@ -15,20 +15,6 @@
 -   [lxml](https://github.com/lxml/lxml)
 -   [epubcheck](https://github.com/w3c/epubcheck)
 -   kindlegen
-
-## LaTeX
-
--   [Tabularray](https://www.ctan.org/pkg/tabularray)
--   [Ninecolors](https://www.ctan.org/pkg/ninecolors)
-
-LaTeX prerequisites can be installed on GNU/Linux by simply running `make pdfrequirements`
-
-Otherwise, download the package archives and unzip to `texmf/tex` found in the user home directory. Create the directory if needed.
-
-Linux: `/home/<your-username>/.local/share/texmf/tex`
-
-Windows: `C:\Users\<your-username>\texmf\tex`
-
 
 # `make` Commands
 
