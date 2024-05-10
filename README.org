@@ -2,8 +2,8 @@
 
 A collaborative effort from the SBS Saṅgha and members of the greater community.
 
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-assets/illustrations/A5/front-cover.jpg
+
+#+html: <p align="center"; style="max-width: 50%; max-height: 50%"><img src="assets/illustrations/A5/front-cover.jpg" /></p>
 
 * Prerequisites
 - make
