@@ -2,9 +2,9 @@
 \cleartorecto
 \thispagestyle{empty}
 % \ifasixversion
-  % \vspace*{1em}
+%   \vspace*{1em}
 % \else
-  -\vspace*{3em}
+-\vspace*{3em}
 % \fi
 
 {\centering
@@ -14,33 +14,29 @@
   }
 
   % 'SBS' on title page
-  % \ifasixversion
-    % {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.0\baselineskip]%
-  % \else
-    {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip]%
-  % \fi
+  \ifafiveversion {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
+
+  \ifasixversion {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.0\baselineskip] \fi
 
   % 'Monk Training Centre'
-  % \ifasixversion
-    % {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip]
-    \setlength{\xheight}{\heightof{X}}
-  % \else
-    {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip]
-  % \fi
+  \ifafiveversion \setlength{\xheight}{\heightof{X}}
+    {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
+
+  \ifasixversion {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
 
   % Ornament
-  % \ifasixversion
-    % \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
-  % \else
-  % \fi
-      \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
+  \ifafiveversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
+
+  \ifasixversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
 
 
   % 'Pali-English Recitations'
-  {\fontsize{10.5}{12}\scshape Pāli-English Recitations}\\[2.5\baselineskip]
+  \ifafiveversion {\Large\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
+
+  \ifasixversion {\fontsize{10.5}{12}\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
 
   % Dhamma quote
-  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\}\medskip\tiny AN 5.26\\[1.4\baselineskip]
+  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\}\ifafiveversion \smallskip \fi \ifasixversion \medskip\tiny \fi AN 5.26\\[1.4\baselineskip]
 }
 
 % TODO ! make suttaref here smaller and more stylish

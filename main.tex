@@ -1,20 +1,30 @@
-% Define document class with options:
 \documentclass[
-  final, % - final: Final version of the document
-  babelLanguage=british, % - babelLanguage=british: British English language settings
-  digitalVersion, % - digitalVersion: The digital version has hyperlinks and compressed images
-  % afiveVersion, % - A5 Version: Version for A5 paper size
-  % asixVersion, % - A6 Version: Version for A6 paper size
-  % bsixVersion, % - B6 Version: Version for B6 paper size
-  % showtrims, % - showtrims: Show trims for printing
+  final,
+  babelLanguage=british,
+  digitalVersion, % Adds colorizes hyperlinks and adds illustrations throughout
+  afiveVersion, % A5 formatted
+  % asixVersion, % A6 formatted
+  % bsixVersion, % B6 formatted
+  % showtrims,
 ]{anecdote}
+
+
 
 % TODO need ifthen for other sizes
 % Define graphics path for images
-\graphicspath{{./assets/title-pages/A6}{./assets/graphics}}
+\graphicspath{
+  {./assets/illustrations/A5}
+  {./assets/illustrations/A6}
+  {./assets/illustrations/B6}
+  {./assets/graphics}
+}
 
 % Load local package for local settings
-\usepackage{A5}
+
+\ifafiveversion \usepackage{A5} \fi
+\ifasixversion  \usepackage{A6} \fi
+\ifbsixversion  \usepackage{B6} \fi
+
 
 % Set metadata for the document
 \title{SBS Pāli-English Recitations}
@@ -57,7 +67,7 @@
 
 % Digital version cover
 \ifdigitalversion
-  \digitalCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+  \digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/front-cover-compressed.jpg}}
 \fi
 
 % Title page, copyright, acknowledgments
@@ -115,7 +125,7 @@
 % Digital version back cover (if applicable)
 \ifdigitalversion
 \clearpage
-\digitalCover{\includegraphics[height=\paperheight]{./assets/title-pages/A6/front-cover.jpg}}
+\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/back-cover-compressed.jpg}}
 \fi
 
 % End document

@@ -2,6 +2,8 @@
 
 A collaborative effort from the SBS Saṅgha and members of the greater community.
 
+![alt text](assets/illustrations/A5/front-cover.jpg)
+
 * Prerequisites
 - make
 - texlive (the complete TeXLive distribution is preferrable though you may be able to install only the needed binaries depending on your distribution or OS.)

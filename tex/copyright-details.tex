@@ -4,7 +4,8 @@
 
 {%
 
-  \fontsize{8}{12}\selectfont%
+  \ifasixversion\fontsize{11}{17}\selectfont\fi%
+  \ifasixversion\fontsize{8}{12}\selectfont\fi%
 
   \setlength{\parindent}{0pt}%
   \raggedright\label{copyright-details}%
@@ -12,7 +13,8 @@
 
   {\centering
 
-    {\fontsize{18}{12}\selectfont \ccbyncnd}
+    \ifafiveversion{\fontsize{25}{18}\selectfont \ccbyncnd}\fi
+    \ifasixversion{\fontsize{18}{12}\selectfont \ccbyncnd}\fi
 
     \vspace{0.5cm}
 

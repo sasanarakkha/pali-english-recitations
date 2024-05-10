@@ -129,9 +129,9 @@
 \cleartorecto
 \thispagestyle{empty}
 % \ifasixversion
-  % \vspace*{1em}
+%   \vspace*{1em}
 % \else
-  -\vspace*{3em}
+-\vspace*{3em}
 % \fi
 
 {\centering
@@ -141,33 +141,29 @@
   }
 
   % 'SBS' on title page
-  % \ifasixversion
-    % {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.0\baselineskip]%
-  % \else
-    {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip]%
-  % \fi
+  \ifafiveversion {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
+
+  \ifasixversion {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.0\baselineskip] \fi
 
   % 'Monk Training Centre'
-  % \ifasixversion
-    % {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip]
-    \setlength{\xheight}{\heightof{X}}
-  % \else
-    {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip]
-  % \fi
+  \ifafiveversion \setlength{\xheight}{\heightof{X}}
+    {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
+
+  \ifasixversion {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
 
   % Ornament
-  % \ifasixversion
-    % \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
-  % \else
-  % \fi
-      \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip]
+  \ifafiveversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
+
+  \ifasixversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
 
 
   % 'Pali-English Recitations'
-  {\fontsize{10.5}{12}\scshape Pāli-English Recitations}\\[2.5\baselineskip]
+  \ifafiveversion {\Large\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
+
+  \ifasixversion {\fontsize{10.5}{12}\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
 
   % Dhamma quote
-  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\}\medskip\tiny AN 5.26\\[1.4\baselineskip]
+  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\}\ifafiveversion \smallskip \fi \ifasixversion \medskip\tiny \fi AN 5.26\\[1.4\baselineskip]
 }
 
 % TODO ! make suttaref here smaller and more stylish
@@ -176,6 +172,7 @@
 #+end_src
 
 * Copyright
+
 #+begin_src latex  :tangle ./tex/copyright.tex
 
 \cleartoverso
@@ -185,31 +182,37 @@
 
 {%
 
-  \fontsize{7.5}{11}\selectfont
+  \ifafiveversion \fontsize{10}{16}\selectfont \fi
+  \ifasixversion \fontsize{7.5}{11}\selectfont \fi
   \centering
   \setlength{\parindent}{0pt}%
   % \setlength{\parskip}{0.8\baselineskip}%
 
-  % \vspace{0.5cm}
+  \ifafiveversion \vspace{0.5cm} \fi
 
-  Published by TBD\\
-  % TODO need 2 ISBN numbers assigned (1 for print/pdf, 1 for epub); do more research before printing
+  Published by \publisher\\
+  % TODO need 4 ISBN numbers assigned (3 for print/pdf, 1 for epub); do more research before printing
   % https://www.pnm.gov.my/
   ISBN \theISBN\\
-  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2024
+  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2022
 
-  \vspace{0.4cm}
+  \ifafiveversion \vspace{0.5cm} \fi
+  \ifasixversion \vspace{0.4cm} \fi
 
   This book is for free distribution only;\\
   it may not be sold.
 
-  \vspace{0.4cm}
+  % TODO not for malays
+
+  \ifafiveversion \vspace{0.5cm} \fi
+  \ifasixversion \vspace{0.4cm} \fi
 
   Download this book as a PDF, EPUB, or MOBI\\
   at the following address:\\
   \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
 
-  \vspace{0.4cm}
+  \ifafiveversion \vspace{0.5cm} \fi
+  \ifasixversion \vspace{0.4cm} \fi
 
   Project Manager: Ā. Ariyadhammika\\
   Editor: Ā. Pāladhammika\\
@@ -217,7 +220,8 @@
   Translators: Ā. Aggacitta, Ā. Bodhi, Aj. Kevalī, Ā. Sujāto, M. Walshe\\
   Endnotes: Ā. Ariyadhammika
 
-  \vspace{0.4cm}
+  \ifafiveversion \vspace{0.5cm} \fi
+  \ifasixversion \vspace{0.4cm} \fi
 
   This work is licensed under a Creative Commons\\
   Attribution-NonCommercial-NoDerivatives 4.0 International~License.
@@ -225,7 +229,8 @@
   Produced with the \LaTeX\ typesetting system,\\
   set in Libertinus Serif.
 
-  \vspace{0.4cm}
+  \ifafiveversion  \vspace{0.5cm} \fi
+  \ifasixversion \vspace{0.4cm} \fi
 
   \ifdigitalversion
     This version was created on:\\
@@ -233,7 +238,9 @@
     % \href{https://github.com/sasanarakkha/pali-english-recitations/commits/main}{\texttt{\commit}} on branch \texttt{\branch}
   \fi
 
-  \vspace{0.3cm}
+  \ifafiveversion \vspace{0.5cm} \fi
+  \ifasixversion \vspace{0.3cm} \fi
+
 
   \theEditionInfo
 
@@ -249,9 +256,10 @@
 
 {\setlength{\parskip}{10pt}
 
-  {\centering\fontsize{11}{18}\selectfont
-    \textsc{We Wish To Gratefully Acknowledge}
-    \par}
+ \ifafiveversion {\centering\fontsize{16}{25}\selectfont \textsc{We Wish To Gratefully Acknowledge} \par} \fi
+
+ \ifasixversion {\centering\fontsize{11}{18}\selectfont \textsc{We Wish To Gratefully Acknowledge} \par} \fi
+
 
   The Saṅghas of Wat Pah Nanachat (WPN), Amaravati, and Abhayagiri for allowing the use of material from their respective chanting books, the late Ven. Dr. Saddhātissa and Mr. Maurice Walshe for their English translations, as well as Ven. Bhikkhu Bodhi for granting permission to use and slightly adapt his translations. Various Saṅgha members of SBS Monk Training Centre, who contributed in the compilation of an interesting selection of chants, as well as for providing countless suggestions to help improve the English translations.
 
@@ -268,7 +276,8 @@
 
     \medskip
 
-    \includegraphics[height=36mm]{sbs-logo-tuck-loon-brown.jpg}
+    \ifafiveversion \includegraphics[height=54mm]{sbs-logo-tuck-loon-brown.jpg} \fi
+    \ifasixversion \includegraphics[height=36mm]{sbs-logo-tuck-loon-brown.jpg} \fi
 
   }
 
@@ -284,9 +293,9 @@
 
 {\centering
 
-  {\pdfbookmark[2]{Set 1}{set1}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 1}}}}\\
+  {\pdfbookmark[2]{Set 1}{set1}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 1}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[buddhas-first-exclamation]{The Buddha's First Exclamation} \ifdigitalversion\else\pageref{buddhas-first-exclamation}\fi\\
     \hyperref[wheel-of-dhamma-abridged]{Setting in Motion the Wheel of Dhamma} \ifdigitalversion\else\pageref{wheel-of-dhamma-abridged}\fi\\
     \hyperref[true-false-refuges]{Going to True and False Refuges} \ifdigitalversion\else\pageref{true-false-refuges}\fi\\
@@ -299,9 +308,9 @@
 
   \vspace{1.0cm}
 
-  {\pdfbookmark[2]{Set 2}{set2}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 2}}}}\\
+  {\pdfbookmark[2]{Set 2}{set2}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 2}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[characteristic-of-not-self]{The Discourse on the Characteristic of Not-Self} \ifdigitalversion\else\pageref{characteristic-of-not-self}\fi\\
     \hyperref[fire-sermon]{The Fire Sermon} \ifdigitalversion\else\pageref{fire-sermon}\fi\\
     \hyperref[gradual-training]{The Gradual Training} \ifdigitalversion\else\pageref{gradual-training}\fi\\
@@ -313,7 +322,7 @@
 
   {\pdfbookmark[2]{Set 3}{set3}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 3}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[noble-eightfold-path]{The Noble Eightfold Path} \ifdigitalversion\else\pageref{noble-eightfold-path}\fi\\
     \hyperref[repulsiveness-of-food]{The Repulsiveness of Food} \ifdigitalversion\else\pageref{repulsiveness-of-food}\fi\\
     \hyperref[requisites-for-awakening]{Requisites for Awakening} \ifdigitalversion\else\pageref{requisites-for-awakening}\fi\\
@@ -325,9 +334,9 @@
 
   \vspace{1.0cm}
 
-  {\pdfbookmark[2]{Set 4}{set4}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 4}}}}\\
+  {\pdfbookmark[2]{Set 4}{set4}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 4}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[dedication-of-offerings]{Homage to the Triple Gem} \ifdigitalversion\else\pageref{dedication-of-offerings}\fi\\
     \hyperref[universal-well-being]{Universal Well-Being} \ifdigitalversion\else\pageref{universal-well-being}\fi\\
     \hyperref[seven-factors-of-awakening]{The Seven Factors of Awakening} \ifdigitalversion\else\pageref{seven-factors-of-awakening}\fi\\
@@ -339,9 +348,9 @@
 
   \clearpage
 
-  {\pdfbookmark[2]{Set 5}{set5}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 5}}}}\\
+  {\pdfbookmark[2]{Set 5}{set5}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 5}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing} \ifdigitalversion\else\pageref{mindfulness-of-breathing}\fi\\
     \hyperref[highest-blessings]{The Highest Blessings} \ifdigitalversion\else\pageref{highest-blessings}\fi\\
     \hyperref[three-characteristics]{The Three Characteristics} \ifdigitalversion\else\pageref{three-characteristics}\fi\\
@@ -355,9 +364,9 @@
 
   \vspace{1.0cm}
 
-  {\pdfbookmark[2]{Set 6}{set6}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 6}}}}\\
+  {\pdfbookmark[2]{Set 6}{set6}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 6}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[anatta-lakkhana]{Anatta-lakkhaṇa Sutta} \ifdigitalversion\else\pageref{anatta-lakkhana}\fi\\
     \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma} \ifdigitalversion\else\pageref{striving-according-to-dhamma}\fi\\
     \hyperref[divine-abidings]{The Divine Abidings} \ifdigitalversion\else\pageref{divine-abidings}\fi\\
@@ -368,9 +377,9 @@
 
   \clearpage
 
-  {\pdfbookmark[2]{Set 7}{set7}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 7}}}}\\
+  {\pdfbookmark[2]{Set 7}{set7}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 7}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[dependent-origination]{Dependent Origination} \ifdigitalversion\else\pageref{dependent-origination}\fi\\
     \hyperref[dhamma-in-brief]{The Dhamma in Brief} \ifdigitalversion\else\pageref{dhamma-in-brief}\fi\\
     \hyperref[uddissanadhitthana]{Uddissan'ādhiṭṭhāna} \ifdigitalversion\else\pageref{uddissanadhitthana}\fi\\
@@ -379,9 +388,9 @@
 
   \vspace{1.0cm}
 
-  {\pdfbookmark[2]{Set 8}{set8}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 8}}}}\\
+  {\pdfbookmark[2]{Set 8}{set8}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 8}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[aditta-pariyaya]{Āditta-Pariyāya Sutta} \ifdigitalversion\else\pageref{aditta-pariyaya}\fi\\
     \hyperref[burdens]{The Burdens} \ifdigitalversion\else\pageref{burdens}\fi\\
     \hyperref[respect-for-the-dhamma]{Respect for the Dhamma} \ifdigitalversion\else\pageref{respect-for-the-dhamma}\fi\\
@@ -395,9 +404,9 @@
 
   \clearpage
 
-  {\pdfbookmark[2]{Set 9}{set9}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 9}}}}\\
+  {\pdfbookmark[2]{Set 9}{set9}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 9}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[deva-aradhana]{Protective Recitations (Pāli)} \ifdigitalversion\else\pageref{deva-aradhana}\fi\\
     \hyperref[sharing-merits-departed]{Sharing of Merits with the Departed (Pāli)} \ifdigitalversion\else\pageref{sharing-merits-departed}\fi\\
     \hyperref[sharing-merits-devas]{Sharing of Merits with the Devas (Pāli)} \ifdigitalversion\else\pageref{sharing-merits-devas}\fi\\
@@ -406,9 +415,9 @@
 
   \vspace{1.0cm}
 
-  {\pdfbookmark[2]{Set 10}{set10}\libertinusFont\selectfont\textbf{\textsc{\fontsize{13}{8.5}\selectfont\textls*{Set 10}}}}\\
+  {\pdfbookmark[2]{Set 10}{set10}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 10}}}}\\
 
-  \textsc{\fontsize{10}{20}\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
     \hyperref[pubba-bhaga-nama-kara-patho-funeral]{Funeral Recitations (Pāli)} \ifdigitalversion\else\pageref{pubba-bhaga-nama-kara-patho-funeral}\fi\\
     \hyperref[recollection-of-impermanence]{Recollection of Impermanence} \ifdigitalversion\else\pageref{recollection-of-impermanence}\fi\\
     \hyperref[yatha-vari-vaha-pura]{Thanksgiving Recitations (Pāli)} \ifdigitalversion\else\pageref{yatha-vari-vaha-pura}\fi\\
@@ -484,7 +493,7 @@ BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four 
 
 \begin{enumerate}
   \item The teacher and student recite in unison, i.e. beginning together and ending together.
-l  \item The teacher begins a line, the student joins in, and they end together.
+  \item The teacher begins a line, the student joins in, and they end together.
   \item The teacher recites the beginning syllable of a line together with the student, who then completes it alone.
   \item The teacher recites one line, and the student recites the next line alone.
 \end{enumerate}
@@ -542,10 +551,12 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 \chapter{Abbreviations}
 \label{abbreviations}
 
+% TODO cannot nest conditional in tabular. hspace for a6 is 0.12cm
 \begin{tabular}{@{}ll@{}}
   \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
-  \hspace{0.12cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
 \end{tabular}
+
 
 \begin{tabular}{@{}llll@{}}
   DN    & Dīgha Nikāya                                        \\
@@ -689,7 +700,7 @@ Sammāsambuddho bhagavā
 Buddhaṁ bhagavantaṁ abhivādemi\relax
 
 \begin{english}
-  I render homage to the Buddha the Blessed One \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}
+  I render homage to the Buddha the Blessed One \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}
 \end{english}
 
 \begin{leader}
@@ -707,7 +718,7 @@ Bhagavatā dhammo
 Dhammaṁ namassāmi\relax
 
 \begin{english}
-  I bow to the Dhamma \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}
+  I bow to the Dhamma \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}
 \end{english}
 
 \begin{leader}
@@ -725,7 +736,7 @@ Bhagavato sāvaka-saṅgho
 Saṅghaṁ namāmi
 
 \begin{english}
-  I bow to the Saṅgha \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}
+  I bow to the Saṅgha \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}
 \end{english}
 
 \suttaRef{[Trad]}
@@ -750,7 +761,7 @@ Saṅghaṁ namāmi
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{english}
-  Homage to the Blessed Worthy and Perfectly Enlightened One \hfill{\textnormal{\fontsize{9}{13}\selectfont [3x]}}
+  Homage to the Blessed Worthy and Perfectly Enlightened One \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont [3x]}}
 \end{english}
 
 \suttaRef{[DN 21]}
@@ -860,7 +871,7 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
 
 \begin{english}
   I chant my praise to the Blessed One\\
-  I bow my head to the Blessed One \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}
+  I bow my head to the Blessed One \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}
 \end{english}
 
 \suttaRef{[Thai]}
@@ -925,7 +936,7 @@ Paccattaṁ veditabbo viññūhi
 
 \begin{english}
   I chant my praise to this teaching\\
-  I bow my head to this truth \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}
+  I bow my head to this truth \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}
 \end{english}
 
 \suttaRef{[Trad]}
@@ -1031,7 +1042,7 @@ Anuttaraṁ puñña-kkhettaṁ lokassa
 
 \begin{english}
   I chant my praise to this Saṅgha\\
-  I bow my head to this Saṅgha \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}
+  I bow my head to this Saṅgha \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}
 \end{english}
 
 #+end_src
@@ -1508,7 +1519,7 @@ Sammāsambuddho bhagavā
 Buddhaṁ bhagavantaṁ abhivādemi
 
 \begin{english}
-  I render homage to the Buddha the Blessed One \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}
+  I render homage to the Buddha the Blessed One \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}
 \end{english}
 
 \begin{leader}
@@ -1526,7 +1537,7 @@ Bhagavatā dhammo
 Dhammaṁ namassāmi
 
 \begin{english}
-  I bow to the Dhamma \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}
+  I bow to the Dhamma \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}
 \end{english}
 
 \begin{leader}
@@ -1544,7 +1555,7 @@ Bhagavato sāvaka-saṅgho
 Saṅghaṁ namāmi
 
 \begin{english}
-  I bow to the Saṅgha \hfill{\textnormal{\fontsize{9}{13}\selectfont (Bow)}}\\
+  I bow to the Saṅgha \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont (Bow)}}\\
 \end{english}
 
 \suttaRef{[Thai]}
@@ -2928,74 +2939,6 @@ Etaṁ buddhāna'sāsanaṁ
 % * TODO Bottom nav is higher than usual
 
 #+end_src
-
-#+RESULTS:
-#+begin_export latex
-\sectionSubTitle{Karaṇīya-metta-sutta}
-\section{The Buddha's Words on Loving-Kindness}
-\label{words-on-loving-kindness}
-
-\begin{leader-english}
-  \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Buddha's words on loving-kindness \hspace{-0.5mm}\anglebracketright\
-\end{leader-english}
-
-\linkdest{endnote161-body}
-\begin{english-only}
-  This is what should be done\\
-  By one who is skilled in goodness\\
-  And who knows the path of peace\\
-  Let them be able and upright\\
-  Straightforward and gentle in speech\\
-  Humble and not conceited\\
-  Contented and easily satisfied\\
-  Unburdened with duties \breathmark\ and frugal in their ways\\
-  Peaceful and calm and wise and skillful\\
-  Not proud and demanding in nature\\
-  Let them not do the slightest thing\\
-  That the wise would later reprove\\
-  Wishing in gladness and in safety\\
-  May all beings be at ease\\
-  Whatever living beings there may be\\
-  Whether they are weak or strong \breathmark\ omitting none\\
-  The great or the mighty \breathmark\ medium short or small\\
-  The seen and the unseen\\
-  Those living near and far away\\
-  Those born and to be born\\
-  May all beings be at ease\\
-  Let none deceive another\\
-  Or despise any being in any state\\
-  Let none through anger or ill-will\\
-  Wish harm upon another\\
-\linkdest{endnote49-body}
-  Just\makeatletter\hyperlink{endnote49-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote49-appendix}{\hyperlink{endnote49-body}{WPN: ``Even''}}}}}\makeatother
-  as a mother protects with her life\\
-  Her child her only child\\
-  So with a boundless heart\\
-  Should one cherish\makeatletter\hyperlink{endnote155-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote155-appendix}{\hyperlink{endnote155-body}{What is translated here as ``cherishing all living beings'', could more literally be translated as ``developing a measureless mind towards all beings''.}}}}} all living beings\\
-  Radiating kindness \breathmark\ over the entire world\\
-  Spreading upwards to the skies\\
-  And downwards to the depths\\
-  Outwards and unbounded\\
-  Freed from hatred and ill-will\\
-  Whether standing or walking\\
-  Seated or lying down free from drowsiness\\
-  One should sustain this recollection\\
-  This is said to be the sublime abiding\\
-\linkdest{endnote50-body}
-  By not holding wrong views\makeatletter\hyperlink{endnote50-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote50-appendix}{\hyperlink{endnote50-body}{WPN: ``to fixed views''. This paragraph deals with \textit{Anāgāmis}, which becomes apparent from the closing statement in which it is said that by this practice one becomes free from sense desires and is not born again into this world (sense sphere). The limitation of loving-kindness practice leading ``only'' up to \textit{Anāgāmihood} also finds confirmation by AN 4.126. Now, since an \textit{Anāgāmi} has right view, which is the first factor of the noble eightfold path (even \textit{Arahants} hold right view; AN 10.112), it would therefore not be correct to say that he holds no views at all. Furthermore, even an \textit{Anāgāmi} may still have some minor grasping to (right) view, as there can still be moments of \textit{māna} (identification/conceit), which is overcome only by the \textit{Arahant}. I therefore conclude that this passage here refers specifically to ``wrong views'' and does not include ``right view'', since wrong views are the only types of views that an \textit{Anāgāmi} has entirely left behind.}}}}}\makeatother\\
-  The pure-hearted one having clarity of vision\\
-  Being freed from all sense-desires\\
-  Is not born again into this world
-\end{english-only}
-
-\suttaRef{[Snp 1.8]}
-
-\bottomNav{sharing-merits-departed}
-% * TODO Bottom nav is higher than usual
-#+end_export
 
 * Teachings
 ** Cover/Title
@@ -13048,13 +12991,13 @@ Sādhu sādhu sādhu
 % \vspace{-0.5cm}
 
 \begin{justify}
-  Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
+  Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifi\prul{c}ations:
 \end{justify}
 
 \medskip
 
 \begin{center}
-  \textbf{\fontsize{10}{13}\textsc{Vowels}}
+  \textbf{\ifafiveversion\fontsize{14}{18}\fi\ifasixversion\fontsize{10}{13}\fi\textsc{Vowels}}
 \end{center}
 
 \begin{table}[H]
@@ -13178,6 +13121,7 @@ The following points should be considered:
 \end{justify}
 
 #+end_src
+
 * Copyright Details
 #+begin_src latex :tangle ./tex/copyright-details.tex
 
@@ -13186,7 +13130,8 @@ The following points should be considered:
 
 {%
 
-  \fontsize{8}{12}\selectfont%
+  \ifasixversion\fontsize{11}{17}\selectfont\fi%
+  \ifasixversion\fontsize{8}{12}\selectfont\fi%
 
   \setlength{\parindent}{0pt}%
   \raggedright\label{copyright-details}%
@@ -13194,7 +13139,8 @@ The following points should be considered:
 
   {\centering
 
-    {\fontsize{18}{12}\selectfont \ccbyncnd}
+    \ifafiveversion{\fontsize{25}{18}\selectfont \ccbyncnd}\fi
+    \ifasixversion{\fontsize{18}{12}\selectfont \ccbyncnd}\fi
 
     \vspace{0.5cm}
 

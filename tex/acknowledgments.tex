@@ -4,9 +4,10 @@
 
 {\setlength{\parskip}{10pt}
 
-  {\centering\fontsize{11}{18}\selectfont
-    \textsc{We Wish To Gratefully Acknowledge}
-    \par}
+ \ifafiveversion {\centering\fontsize{16}{25}\selectfont \textsc{We Wish To Gratefully Acknowledge} \par} \fi
+
+ \ifasixversion {\centering\fontsize{11}{18}\selectfont \textsc{We Wish To Gratefully Acknowledge} \par} \fi
+
 
   The Saṅghas of Wat Pah Nanachat (WPN), Amaravati, and Abhayagiri for allowing the use of material from their respective chanting books, the late Ven. Dr. Saddhātissa and Mr. Maurice Walshe for their English translations, as well as Ven. Bhikkhu Bodhi for granting permission to use and slightly adapt his translations. Various Saṅgha members of SBS Monk Training Centre, who contributed in the compilation of an interesting selection of chants, as well as for providing countless suggestions to help improve the English translations.
 
@@ -23,7 +24,8 @@
 
     \medskip
 
-    \includegraphics[height=36mm]{sbs-logo-tuck-loon-brown.jpg}
+    \ifafiveversion \includegraphics[height=54mm]{sbs-logo-tuck-loon-brown.jpg} \fi
+    \ifasixversion \includegraphics[height=36mm]{sbs-logo-tuck-loon-brown.jpg} \fi
 
   }
 

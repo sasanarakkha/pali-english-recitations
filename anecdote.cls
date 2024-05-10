@@ -53,7 +53,7 @@
   % Set digitalVersion to true if specified in options
   digitalVersion/.code=\digitalversiontrue,
   % Set A5 Version to true if specified in options
-  afiveVersion/.code=\asixversiontrue,
+  afiveVersion/.code=\afiveversiontrue,
   % Set A6 Version to true if specified in options
   asixVersion/.code=\asixversiontrue,
   % Set B6 Version to true if specified in options
@@ -178,8 +178,6 @@
 \RequirePackage{tabularray}
 % Load the ninecolors package for defining color schemes
 \RequirePackage{ninecolors}
-%
-\RequirePackage{import}
 
 
 
@@ -578,8 +576,8 @@
 
 
 % Define lengths for document layout
-\newlength{\titleLength} % Length for the title
-\newlength{\xheight}     % Length for the x-height of the font
+\newlength{\titleLength}% Length for the title
+\newlength{\xheight}% Length for the x-height of the font
 
 %%%%%%%%%%%%%%%% Quotes %%%%%%%%%%%%%%%%
 
@@ -594,58 +592,58 @@
 % Define a new environment for opening verses
 \newenvironment{openingVerse}%
 {%
-  \cleartoverso % Clears the page and starts the verse on a verso page
-  \thispagestyle{empty} % Suppresses page number for the opening verse page
-  \mbox{}\vfill % Adds vertical space, centering the verse vertically
-  \begin{verse} % Begins the verse environment
+  \cleartoverso% Clears the page and starts the verse on a verso page
+  \thispagestyle{empty}% Suppresses page number for the opening verse page
+  \mbox{}\vfill% Adds vertical space, centering the verse vertically
+  \begin{verse}% Begins the verse environment
 }%
 {%
-  \par\end{verse} % Ends the verse environment
-  \vfill\mbox{} % Adds vertical space, centering the verse vertically
+  \par\end{verse}% Ends the verse environment
+  \vfill\mbox{}% Adds vertical space, centering the verse vertically
 }
 
 % Redefine the verse environment for sutta verses and other short stanzas
 \renewenvironment{verse}
-{\begin{centering} % Begins centering environment for verse
-    \itshape % Sets verse in italics
+{\begin{centering}% Begins centering environment for verse
+    \itshape% Sets verse in italics
 }%
-{\par\end{centering}} % Ends centering environment for verse
+{\par\end{centering}}% Ends centering environment for verse
 
 % Define a command for verse references
 \newcommand{\verseRef}[1]{%
-  {\centering\itshape\footnotesize #1\par} % Centers and formats verse reference
+  {\centering\itshape\footnotesize #1\par}% Centers and formats verse reference
 }
 
 % Define a command for sutta references
 \newcommand{\suttaRef}[1]{%
-  \vspace{-6pt} % Adjusts vertical spacing for sutta references
-  \hfill {\fontsize{8}{16}\selectfont #1\par} % Sets sutta reference in smaller font size
+  \vspace{-6pt}% Adjusts vertical spacing for sutta references
+  \hfill {\fontsize{8}{16}\selectfont #1\par}% Sets sutta reference in smaller font size
 }
 
 % Redefine the quote environment for longer sutta and book quotes
-\renewenvironment{quote} %
-{\list{}{ % Begins a list for the quote environment
-    \itshape % Sets quote in italics
-    \listparindent 0pt % Sets paragraph indentation within the list
-    \itemindent    \listparindent % Sets item indentation within the list
-    \leftmargin    \quoteMargin % Sets left margin for the quote
-    \rightmargin   \quoteMargin % Sets right margin for the quote
-    \parsep        8pt % Sets paragraph separation within the list
-    \topsep        0pt % Sets spacing above the list
-    \partopsep     0pt} % Sets additional spacing above the list
+\renewenvironment{quote}%
+{\list{}{% Begins a list for the quote environment
+    \itshape% Sets quote in italics
+    \listparindent 0pt% Sets paragraph indentation within the list
+    \itemindent    \listparindent% Sets item indentation within the list
+    \leftmargin    \quoteMargin% Sets left margin for the quote
+    \rightmargin   \quoteMargin% Sets right margin for the quote
+    \parsep        8pt% Sets paragraph separation within the list
+    \topsep        0pt% Sets spacing above the list
+    \partopsep     0pt}% Sets additional spacing above the list
 \item[]}%
-{\endlist} % Ends the list for the quote environment
+{\endlist}% Ends the list for the quote environment
 
 % Define a command for quote titles
 \newcommand{\quoteTitle}[1]{%
   {%
-    \centering\upshape\itshape % Centers and formats quote title
-    \fontsize{26}{10}\selectfont % Sets font size for quote title
-    \color{section} % Sets color for quote title
-    #1 % Prints the quote title
-    % \par % Optional line break after quote title
+    \centering\upshape\itshape% Centers and formats quote title
+    \fontsize{26}{10}\selectfont% Sets font size for quote title
+    \color{section}% Sets color for quote title
+    #1% Prints the quote title
+    % \par% Optional line break after quote title
   }%
-\itshape % Sets the quote title in italics
+\itshape% Sets the quote title in italics
 }
 
 
@@ -665,8 +663,8 @@
 {\list{}{%
     \listparindent 0pt
     \itemindent    \listparindent
-    \leftmargin    \quoteMargin  % Adjust left margin
-    \rightmargin   \quoteMargin  % Adjust right margin
+    \leftmargin    \quoteMargin% Adjust left margin
+    \rightmargin   \quoteMargin% Adjust right margin
     \parsep        8pt
     \topsep        0pt
     \partopsep     0pt}%
@@ -791,12 +789,12 @@
 
 
 % Define commands for storing color specifications
-\newcommand\modelTmp{} % Temporary storage for color model
-\newcommand\specTextbody{} % Store color specifications for text body
-\newcommand\specChaptertitle{} % Store color specifications for chapter titles
-\newcommand\specSection{} % Store color specifications for sections
-\newcommand\specFootnote{} % Store color specifications for footnotes
-\newcommand\specFooter{} % Store color specifications for footers
+\newcommand\modelTmp{}% Temporary storage for color model
+\newcommand\specTextbody{}% Store color specifications for text body
+\newcommand\specChaptertitle{}% Store color specifications for chapter titles
+\newcommand\specSection{}% Store color specifications for sections
+\newcommand\specFootnote{}% Store color specifications for footnotes
+\newcommand\specFooter{}% Store color specifications for footers
 
 % Define a command to extract color specifications
 \newcommand\extractSpecs{%
@@ -812,7 +810,7 @@
 \newcommand{\printSpecs}[1]{%
   \cleartoverso % Start a new page
   \mbox{}\vfill % Fill the vertical space
-  \thispagestyle{empty} % Remove page numbering and headers/footers
+  \thispagestyle{empty}% Remove page numbering and headers/footers
   \extractSpecs % Extract color specifications
 
   #1 % Print the description title
@@ -852,7 +850,7 @@
 % Define a command for formatting a reference in a quote
 \newcommand\quoteref[1]{%
 \par % Start a new paragraph
-{\footnotesize #1} % Set the reference in footnotesize font
+{\footnotesize #1}% Set the reference in footnotesize font
 \par % End the paragraph
 }
 
@@ -882,17 +880,17 @@
 %% http://tex.stackexchange.com/a/75406
 
 % Load required packages and define a custom command for underlining with a colored outline
-\RequirePackage[outline]{contour} % Load contour package with outline option
-\RequirePackage[normalem]{ulem} % Load ulem package
+\RequirePackage[outline]{contour}% Load contour package with outline option
+\RequirePackage[normalem]{ulem}% Load ulem package
 
 % Define a command for underlining text with a colored outline
 \newcommand\prul[1]{%
-  \begingroup % Start a group
-  \renewcommand{\ULdepth}{1.8pt} % Set depth of underline
-  \renewcommand{\ULthickness}{0.5pt} % Set thickness of underline
-  \contourlength{0.5pt} % Set contour length
-  \uline{\phantom{#1}}\llap{\contour{white}{#1}} % Underline text with colored outline
-  \endgroup % End the group
+  \begingroup%
+  \renewcommand{\ULdepth}{1.8pt}% Set depth of underline
+  \renewcommand{\ULthickness}{0.5pt}% Set thickness of underline
+  \contourlength{0.5pt}% Set contour length
+  \uline{\phantom{#1}}\llap{\contour{white}{#1}}% Underline text with colored outline
+  \endgroup%
 }
 
 %%%%%%%%%%%%%%%% Page Styles %%%%%%%%%%%%%%%%
@@ -1195,22 +1193,22 @@
 
 % Redefine the internal LaTeX command for printing parts
 \long\def\@part[#1]#2{%
-  \M@gettitle{#1} % Extract the title of the part
+  \M@gettitle{#1}% Extract the title of the part
   \phantomsection % Ensure correct hyperlinks in PDFs
   \ifnum \c@secnumdepth >-2\relax % Check if part numbering is enabled
-    \refstepcounter{part} % Increment the part counter
-    \addcontentsline{toc}{part} % Add part to the table of contents
-    {\protect\partnumberline{\thepart}#1} % Print part number and title in TOC
-    \mempartinfo{\thepart}{#1}{#2} % Store part information
+    \refstepcounter{part}% Increment the part counter
+    \addcontentsline{toc}{part}% Add part to the table of contents
+    {\protect\partnumberline{\thepart}#1}% Print part number and title in TOC
+    \mempartinfo{\thepart}{#1}{#2}% Store part information
   \else
-    \addcontentsline{toc}{part}{#1} % Add part without number to TOC
-    \mempartinfo{}{#1}{#2} % Store part information
+    \addcontentsline{toc}{part}{#1}% Add part without number to TOC
+    \mempartinfo{}{#1}{#2}% Store part information
   \fi
-  \partmark{#1} % Set part mark
+  \partmark{#1}% Set part mark
   {% Begin part content
     \raggedright % Align part content to the left
-    \hspace*{17pt} % Indentation for part content
-    \begin{minipage}{\linewidth - 17pt} % Use a minipage to limit width of part content
+    \hspace*{17pt}% Indentation for part content
+    \begin{minipage}{\linewidth - 17pt}% Use a minipage to limit width of part content
       \raggedright % Align part content to the left
       \interlinepenalty \@M % Penalty for page breaks between lines
       \parskip\z@ % No extra space between paragraphs
@@ -1222,19 +1220,19 @@
       \fi
       \normalfont % Use normal font for part content
       \ifnum \c@secnumdepth >-2\relax % Check if part numbering is enabled
-        {\printpart} % Print part name and number
+        {\printpart}% Print part name and number
         \par\vskip 20pt % Add space after part name and number
       \fi
       \ifthisparthastitle % Check if part has a title
-        \printparttitle{#2} % Print part title
+        \printparttitle{#2}% Print part title
       \else
         \global\thisparthastitletrue % Reset title flag
       \fi
-      \par % End part content
-    \end{minipage} % End minipage
-    \par % Start new paragraph after part content
-  } % End part content
-\@endpart} % End internal part command
+      \par% End part content
+    \end{minipage}% End minipage
+    \par% Start new paragraph after part content
+  }% End part content
+\@endpart}% End internal part command
 
 
 
@@ -1659,9 +1657,13 @@
   \settrims{0pt}{0pt}
 \fi
 
+%Adds to the inner margin to allow for the binding. This should be added after setting the page size, but before setting the margins.
+% TODO even needed since there are trims above?
+% \setbinding{#1}
+
 % Page Margins
 \settypeblocksize{27\baselineskip + \topskip}{120mm}{*}
-\setlrmargins{15mm}{*}{*}
+\setlrmargins{*}{14mm}{*}
 \setulmargins{*}{10mm}{1}
 \setmarginnotes{8pt}{14pt}{6pt}
 
