@@ -3,7 +3,7 @@
 A collaborative effort from the SBS Saṅgha and members of the greater community.
 
 
-#+html: <p style="text-align: center; max-width: 50%; max-height: 50%;"><img src="assets/illustrations/A5/front-cover.jpg" /></p>
+#+html: <p style="text-align: center; max-width: 25%; max-height: 25%;"><img src="assets/illustrations/A5/front-cover.jpg" /></p>
 
 * Prerequisites
 - make
