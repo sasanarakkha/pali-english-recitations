@@ -1,10 +1,15 @@
-#+TITLE: Pāli-English Recitations
+div align="center">
+
+# Pāli-English Recitations
 
 A collaborative effort from the SBS Saṅgha and members of the greater community.
 
 ![Front Cover](./assets/illustrations/A5/front-cover.jpg)
+<!-- ![Doom Emacs Screenshot](https://raw.githubusercontent.com/doomemacs/doomemacs/screenshots/main.png) -->
 
-* Prerequisites
+</div>
+
+## Prerequisites
 - make
 - texlive (the complete TeXLive distribution is preferrable though you may be able to install only the needed binaries depending on your distribution or OS.)
 - [[https://github.com/inotify-tools/inotify-tools][inotify-tools]]
@@ -14,7 +19,7 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 - [[https://github.com/w3c/epubcheck][epubcheck]]
 - kindlegen
 
-** LaTeX
+## LaTeX
 - [[https://www.ctan.org/pkg/tabularray][Tabularray]]
 - [[https://www.ctan.org/pkg/ninecolors][Ninecolors]]
 
@@ -26,7 +31,7 @@ Linux: =/home/<your-username>/.local/share/texmf/tex=
 
 Windows: =C:\Users\<your-username>\texmf\tex=
 
-* =make= Commands
+## =make= Commands
 - =make pdf=: Tangles =recitations.tex.org= to the respective TeX files, builds the PDF, then renames and places the PDF in =build/= . =make pdf2x= does the same just twice over to ensure the hyperlinks are properly set.
 - =make pdfrequirements=: Downloads the tabularray and ninecolors packages and places them in =$TEXMFHOME/tex=.
 - =make epub=: Builds EPUB format; placed in =build/=.
