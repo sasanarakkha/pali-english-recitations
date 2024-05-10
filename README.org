@@ -4,7 +4,7 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 
 
 
-#+HTML:<div align=center><img alt="Cover" width="240" height="240" src="assets/illustrations/A5/front-cover.jpg">
+#+HTML:<div align=center><img alt="Cover" max-width="50%" max-height="50%" src="assets/illustrations/A5/front-cover.jpg">
 
 #+HTML:</div>
 
