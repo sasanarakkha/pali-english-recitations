@@ -1,17 +1,9 @@
-# Table of Contents
+<div align=center><img alt="Cover" width="524" height="744" src="assets/illustrations/A5/front-cover.jpg"></div>
 
-1.  [Prerequisites](#orga1e00b1)
-    1.  [LaTeX](#orgf80e6d3)
-2.  [`make` Commands](#org10f1265)
-
-A collaborative effort from the SBS Saṅgha and members of the greater community.
-
-<div align=center><img alt="Cover" max-width=50% max-height=50% src="assets/illustrations/A5/front-cover.jpg">
+<div align:=center">A collaborative effort from the SBS Saṅgha and members of the greater community.
 
 </div>
-
-
-<a id="orga1e00b1"></a>
+<center>This text will be centered</center>
 
 # Prerequisites
 
@@ -23,9 +15,6 @@ A collaborative effort from the SBS Saṅgha and members of the greater communit
 -   [lxml](https://github.com/lxml/lxml)
 -   [epubcheck](https://github.com/w3c/epubcheck)
 -   kindlegen
-
-
-<a id="orgf80e6d3"></a>
 
 ## LaTeX
 
@@ -40,8 +29,6 @@ Linux: `/home/<your-username>/.local/share/texmf/tex`
 
 Windows: `C:\Users\<your-username>\texmf\tex`
 
-
-<a id="org10f1265"></a>
 
 # `make` Commands
 
