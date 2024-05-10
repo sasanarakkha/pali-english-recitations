@@ -2,7 +2,7 @@
 
 A collaborative effort from the SBS Saṅgha and members of the greater community.
 
-![Front Cover](assets/illustrations/A5/front-cover.jpg)
+#+html: <p align="center"><img src="assets/illustrations/A5/front-cover.jpg" /></p>
 
 * Prerequisites
 - make
