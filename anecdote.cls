@@ -287,38 +287,61 @@
 % Define font sizes for different elements in the document.
 
 % Chapter name size
-\newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
+\ifafiveversion\newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}\fi
+\ifasixversion\newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {15.5}{17}}\fi
+
 % Chapter number size
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {20}{20}}
+\ifafiveversion\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {20}{20}}\fi
+\ifasixversion\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {14}{14}}\fi
+
 % Chapter title size
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {19}{19}}
+\ifafiveversion\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {19}{19}}\fi
+\ifasixversion\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13.5}{13.5}}\fi
+
 % Chapter title footnote size
-\newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
+\ifafiveversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}\fi
+\ifasixversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {11}{21}}\fi
+
 % Chapter author size
-\newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
+\ifafiveversion\newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}\fi
+\ifasixversion\newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {8.5}{10}}\fi
+
 % Chapter note size
-\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
+\ifafiveversion\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}\fi
+\ifasixversion\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {9}{11}}\fi
+
 % Footer size
-\newcommand{\footerSize}{\@setfontsize               \footerSize               {11}{8}}
+\ifafiveversion\newcommand{\footerSize}{\@setfontsize               \footerSize               {11}{8}}\fi
+\ifasixversion\newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{6}}\fi
+
 % Header size
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{2}}
+\ifafiveversion\newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{2}}\fi
+\ifasixversion\newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{1.5}}\fi
+
 % Table of Contents size
-\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {19}{14}}
+\ifafiveversion\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {19}{14}}\fi
+\ifasixversion\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {15}{10}}\fi
+
 % Section/Chapter font size in Table of Contents
 % e.g. 'Dedication of Offerings'
-\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}
-% Subsection/Subchapter font size in Table of Contents
+\ifafiveversion\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}\fi
+\ifasixversion\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {9}{11}}\fi
+
+  % Subsection/Subchapter font size in Table of Contents
 % e.g. 'Undertaking the Three Refuges'
-\newcommand{\tocSubsectionSize}{\@setfontsize        \tocSubsectionSize        {11}{11}}
+\ifafiveversion\newcommand{\tocSubsectionSize}{\@setfontsize        \tocSubsectionSize        {11}{11}}\fi
+\ifasixversion\newcommand{\tocSubsectionSize}{\@setfontsize        \tocSubsectionSize        {8}{8}}\fi
 
 % Define a command to make text smaller.
-\newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
+\ifafiveversion\newcommand{\smaller}{\@setfontsize\smaller{9}{11}}\fi
+\ifasixversion\newcommand{\smaller}{\@setfontsize\smaller{6}{8}}\fi
 
 % Define font size for copyright notice.
-\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}
+\ifafiveversion\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}\fi
+\ifasixversion\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{6}{8}}\fi
 
 % Redefine footnote size to be smaller.
-\renewcommand{\footnotesize}{%
+\ifafiveversion\renewcommand{\footnotesize}{%
    \@setfontsize\footnotesize{9}{11}%
    \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
    \abovedisplayshortskip \z@ \@plus\p@
@@ -331,6 +354,22 @@
               }%
    \belowdisplayskip \abovedisplayskip
 }
+\fi
+
+\ifasixversion\renewcommand{\footnotesize}{%
+   \@setfontsize\footnotesize{6}{8}%
+   \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
+   \abovedisplayshortskip \z@ \@plus\p@
+   \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
+   \def\@listi{\leftmargin\leftmargini
+               \topsep 4\p@ \@plus2\p@ \@minus2\p@
+               \parsep 2\p@ \@plus\p@ \@minus\p@
+               \itemsep \parsep
+%%               \itemindent\z@
+              }%
+   \belowdisplayskip \abovedisplayskip
+ }
+\fi
 
 
 
@@ -617,7 +656,7 @@
 % Define a command for sutta references
 \newcommand{\suttaRef}[1]{%
   \vspace{-6pt}% Adjusts vertical spacing for sutta references
-  \hfill {\fontsize{8}{16}\selectfont #1\par}% Sets sutta reference in smaller font size
+  \hfill {\ifafiveversion\fontsize{8}{16}\fi\ifasixversion\fontsize{6}{11}\fi\selectfont #1\par}% Sets sutta reference in smaller font size
 }
 
 % Redefine the quote environment for longer sutta and book quotes
@@ -638,7 +677,8 @@
 \newcommand{\quoteTitle}[1]{%
   {%
     \centering\upshape\itshape% Centers and formats quote title
-    \fontsize{26}{10}\selectfont% Sets font size for quote title
+    \ifafiveversion\fontsize{26}{10}\selectfont\fi% Sets font size for quote title
+    \ifasixversion\fontsize{18}{7}\selectfont\fi% Sets font size for quote title
     \color{section}% Sets color for quote title
     #1% Prints the quote title
     % \par% Optional line break after quote title
@@ -740,7 +780,8 @@
   {%
     \centering%
     \libertinusFont%
-    \fontsize{20}{20}\selectfont%
+    \ifafiveversion\fontsize{20}{20}\selectfont\fi%
+    \ifasixversion\fontsize{14}{14}\selectfont\fi%
     \color[gray]{0.7}%
     *\quad*\quad*%
   \par}%
@@ -1141,7 +1182,7 @@
 % Change the appearance of appendix entries in the table of contents
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\fontsize{11}{15}\selectfont}%
+\tocFont\bfseries\ifafiveversion\fontsize{11}{15}\fi\ifasixversion\fontsize{8}{11}\fi\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1150,7 +1191,7 @@
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\tocFont\fontsize{11}{15}\selectfont\thecontentspage}
+{\hfill\tocFont\ifafiveversion\fontsize{11}{15}\fi\ifasixversion\fontsize{8}{11}\fi\selectfont\thecontentspage}
 [\addvspace{5pt}]
 
 
@@ -1338,8 +1379,8 @@
   \photoFullBleed{\thechaptergraphics}%
     {%
       \centering%
-      {\chapnumfont\fontsize{10}{10}\selectfont\textls*{Appendix}}%
-      \chaptitlefont\fontsize{13}{18}\selectfont%
+      {\chapnumfont\ifafiveversion\fontsize{10}{10}\fi\ifasixversion\fontsize{7}{7}\fi\selectfont\textls*{Appendix}}%
+      \chaptitlefont\ifafiveversion\fontsize{13}{18}\fi\ifasixversion\fontsize{9}{13}\fi\selectfont%
       \vspace*{12pt}%
       \par
       \textbf{\textsc{\textls*{##1}}}%
@@ -1610,6 +1651,8 @@
 
 % Set font size and line height for normalsize text
 
+\ifafiveversion
+
 \def\BOOK@fontSizePt{12.5}
 \def\BOOK@lineHeightPt{19}
 
@@ -1673,6 +1716,8 @@
 % Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
 \addtolength{\headheight}{6pt}
 \addtolength{\headsep}{-5pt}
+
+\fi
 
 % Increase overfull and underfull tolerance to avoid too many warnings such as
 % Overfull \vbox (1.4pt too high) has occurred while \output is active

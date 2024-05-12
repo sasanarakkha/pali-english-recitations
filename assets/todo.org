@@ -245,3 +245,8 @@ CLOSED: [2024-05-08 Wed 17:46]
 * DONE revert to a5/kindle ready version. then experiment wraping all A6/AX changes with conditionals
 CLOSED: [2024-05-08 Wed 17:46]
 * TODO look at what the desktop version conditionals do -- it should mainly be hyperlinking and other non printable features.
+* TODO create an inner cover
+* TODO create "full" cover (front, spine, and back into one image)
+* TODO separate image for the sping alone
+* TODO export images as svg is possible?
+* TODO create foil stamp

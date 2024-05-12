@@ -1,7 +1,7 @@
 <div align=center><img alt="Cover" width="524" height="744" src="assets/illustrations/A5/front-cover.jpg"></div>
 </br>
 </br>
-<p align="center">A collaborative effort from the SBS Saṅgha and members of the greater community.</p>
+<p align="center">A collaborative effort from the SBS Saṅgha and members of the four assemblies.</p>
 </br>
 </br>
 
@@ -14,14 +14,13 @@
 -   java
 -   [lxml](https://github.com/lxml/lxml)
 -   [epubcheck](https://github.com/w3c/epubcheck)
--   kindlegen
 
 # `make` Commands
 
 -   `make pdf`: Tangles `recitations.tex.org` to the respective TeX files, builds the PDF, then renames and places the PDF in `build/` . `make pdf2x` does the same just twice over to ensure the hyperlinks are properly set.
 -   `make pdfrequirements`: Downloads the tabularray and ninecolors packages and places them in `$TEXMFHOME/tex`.
 -   `make epub`: Builds EPUB format; placed in `build/`.
--   `make mobi`: Builds MOBI format with KindleGen; placed in `build/`.
+-   `make mobi`: Builds MOBI format with Calibre; placed in `build/`.
 -   `make azw3`: Builds AZW3 format with Calibre; placed in `build/`.
 -   `make validate`: Builds the EPUB and then checks for errors with epubcheck.
 -   `make optimize`

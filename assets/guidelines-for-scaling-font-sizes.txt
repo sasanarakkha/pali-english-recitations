@@ -1,0 +1,27 @@
+Step 1: Calculate the Scale Factor
+Calculate the ratio of the A6 paper width to the A5 paper width (or height, as they are proportional):
+
+Given:
+
+A5 paper width = 148mm
+A6 paper width = 105mm
+Scale Factor = A6 Width / A5 Width = 105mm / 148mm ≈ 0.709
+
+Step 2: Adjust Font Size
+Assuming the font size in the A5 project is 12pt:
+
+Adjusted Font Size = Font Size in A5 × Scale Factor
+Adjusted Font Size = 12pt × 0.709 ≈ 8.508pt
+
+So, for the A6 project, you would use a font size of around 8.5pt to maintain comparable proportions with the A5 project.
+
+Step 3: Test and Adjust
+Compile the A6 project with the adjusted font size and visually compare the layout with the A5 project. Fine-tune the font size further if necessary to achieve the desired consistency.
+
+Here's a summary of the example:
+
+A5 Paper Size: 148mm × 210mm
+A6 Paper Size: 105mm × 148mm
+Scale Factor: ≈ 0.709
+Font Size in A5 Project: 12pt
+Adjusted Font Size for A6 Project: ≈ 8.5pt
