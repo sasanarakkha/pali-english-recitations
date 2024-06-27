@@ -222,7 +222,6 @@
   Illustrations: Lim Jee Yuan
 
 
-
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.4cm} \fi
 
@@ -243,7 +242,6 @@
 
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.3cm} \fi
-
 
   \theEditionInfo
 
@@ -630,11 +628,8 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
   Bhagavā arahaṁ sammāsambuddho
 \end{pali-hangtogether}
 
-\linkdest{endnote2-body}
 \begin{english-hang}
-  To the Blessed One the Worthy One\ifdigitalversion\makeatletter\hyperlink{endnote2-appendix}\Hy@raisedlink{{\pagenote{%\linebreak
-        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{WPN: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler''. The ``Worthy One'' seems a better choice of terms, since it is also how ``\textit{Arahant}'' was used in pre-Buddhist era. PTS explains: ``[Vedic \textit{arhant}, ppr. of \textit{arhati} (see \textit{arahati}), meaning deserving, worthy]''. Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus replacing previous translations, such as ``The Lord'', ``Noble One'' etc.}}}}}\makeatother\thinspace\else \medspace \fi
-  who fully attained Perfect Enlightenment
+  To the Blessed One the Worthy One who fully attained Perfect Enlightenment
 \end{english-hang}
 
 Svākkhāto yena bhagavatā dhammo
@@ -811,10 +806,8 @@ Lokavidū
 
 Anuttaro purisadamma-sārathi
 
-\linkdest{endnote3-body}
 \begin{english}
-  Unsurpassed leader of persons to be tamed\makeatletter\hyperlink{endnote3-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote3-appendix}{\hyperlink{endnote3-body}{WPN: ``He trains perfectly those who wish to be trained''. The aspect of wishing to be trained is not found in the \textit{Pāli}.}}}}}\makeatother
+  Unsurpassed leader of persons to be tamed
 \end{english}
 
 Satthā deva-manussānaṁ
@@ -859,10 +852,8 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
   Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsesi
 \end{pali-hang}
 
-\linkdest{endnote4-body}
 \begin{english}
-  He has explained the holy life of complete purity\makeatletter\hyperlink{endnote4-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote4-appendix}{\hyperlink{endnote4-body}{WPN: ``He has explained the spiritual life of complete purity''. While ``spiritual life'' is not a bad translation, for the sake of consistency with the rest of the chanting book, this occurrence was changed to ``holy life''.}}}}}\makeatother\\
+  He has explained the holy life of complete purity\\
   In its essence and conventions
 \end{english}
 
@@ -979,18 +970,13 @@ Uju-paṭipanno bhagavato sāvaka-saṅgho
 
 \linkdest{endnote6-body}
 \begin{english}
-  Who have practiced correctly\makeatletter\hyperlink{endnote6-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote6-appendix}{\hyperlink{endnote6-body}{WPN: ``Who have practiced insightfully''}}}}}\makeatother
-
+  Who have practiced correctly
 \end{english}
 
 Sāmīci-paṭipanno bhagavato sāvaka-saṅgho
 
-\linkdest{endnote7-body}
 \begin{english}
-  Who have practiced properly\makeatletter\hyperlink{endnote7-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote7-appendix}{\hyperlink{endnote7-body}{WPN: ``Those who practice with integrity''}}}}}\makeatother
-
+  Who have practiced properly
 \end{english}
 
 Yad'idaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā
@@ -1031,10 +1017,8 @@ Añjali-karaṇīyo
 
 Anuttaraṁ puñña-kkhettaṁ lokassa
 
-\linkdest{endnote149-body}
 \begin{english}
-  The unsurpassed field of merit for the world\makeatletter\hyperlink{endnote149-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote149-appendix}{\hyperlink{endnote149-body}{WPN: ``They give occasion for incomparable goodness to arise in the world''}}}}}\makeatother
+  The unsurpassed field of merit for the world
 \end{english}
 
 \suttaRef{[SN 12.41]}
@@ -1090,26 +1074,20 @@ Vandāmi buddhaṁ aham'ādarena taṁ
 
 Dhammo padīpo viya tassa satthuno
 
-\linkdest{endnote8-body}
 \begin{english}
-  The Teaching of the Lord is like a lamp\makeatletter\hyperlink{endnote8-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote8-appendix}{\hyperlink{endnote8-body}{WPN: ``The teaching of the Lord like a lamp''}}}}}\makeatother
+  The Teaching of the Lord is like a lamp
 \end{english}
 
 Yo magga-pāk'āmata-bheda-bhinnako
 
-\linkdest{endnote9-body}
 \begin{english}
-  Divided into path and its fruit \breathmark\ the Deathless\makeatletter\hyperlink{endnote9-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote9-appendix}{\hyperlink{endnote9-body}{WPN: ``Illuminating the path and its fruit, the Deathless''}}}}}\makeatother
+  Divided into path and its fruit \breathmark\ the Deathless
 \end{english}
 
 Lok'uttaro yo ca tad'attha-dīpano
 
-\linkdest{endnote10-body}
 \begin{english}
-  And illuminating that goal \breathmark\ which is beyond the conditioned world\makeatletter\hyperlink{endnote10-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote10-appendix}{\hyperlink{endnote10-body}{WPN: ``That which is beyond the conditioned world''}}}}}\makeatother
+  And illuminating that goal \breathmark\ which is beyond the conditioned world
 \end{english}
 
 Vandāmi dhammaṁ aham'ādarena taṁ
@@ -1146,12 +1124,9 @@ Vandāmi saṅghaṁ aham'ādarena taṁ
 Icc'evam'ekant'abhipūjaneyyakaṁ\\
 Vatthu-ttayaṁ vandayat'ābhisaṅkhataṁ
 
-\linkdest{endnote11-body}
 \begin{english}
   This salutation should be made\\
-  To that triad\makeatletter\hyperlink{endnote11-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote11-appendix}{\hyperlink{endnote11-body}{WPN: ``To that which is worthy''. This passage refers to the triple (\textit{taya}) gems and not just to the \textit{Saṅgha}.}}}}}\makeatother
-  which is worthy
+  To that triad which is worthy
 \end{english}
 
 Puññaṁ mayā yaṁ mama sabb'upaddavā
@@ -1217,11 +1192,8 @@ Maraṇam'pi dukkhaṁ
 
 Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
-\linkdest{endnote14-body}
 \begin{english}
-  Sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote14-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote14-appendix}{\hyperlink{endnote14-body}{WPN: ``grief''}}}}}\makeatother
-  and despair are dukkha
+  Sorrow lamentation pain displeasure and despair are dukkha
 \end{english}
 
 Appiyehi sampayogo dukkho
@@ -1246,10 +1218,8 @@ Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 Saṅkhittena pañc'upādāna-kkhandhā dukkhā
 
-\linkdest{endnote15-body}
 \begin{english}
-  In brief \breathmark\ the five aggregates of clinging are dukkha\makeatletter\hyperlink{endnote15-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote15-appendix}{\hyperlink{endnote15-body}{WPN: ``In brief the five focuses of identity are dukkha''}}}}}\makeatother
+  In brief \breathmark\ the five aggregates of clinging are dukkha
 \end{english}
 
 Seyyath'īdaṁ
@@ -1278,18 +1248,14 @@ Saññ'ūpādāna-kkhandho
 
 Saṅkhār'ūpādāna-kkhandho
 
-\linkdest{endnote16-body}
 \begin{english}
-  Attachment to volitional formations\makeatletter\hyperlink{endnote16-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote16-appendix}{\hyperlink{endnote16-body}{WPN: ``Attachment to mental formations''. While the Pāli term ``saṅkhārā'' only means ``formations'', Bhikkhu Bodhi’s rendering as ``volitional formations'' captures well the intentional/volitional forces behind the formative nature of the mind.}}}}}\makeatother
+  Attachment to volitional formations
 \end{english}
 
 Viññāṇ'ūpādāna-kkhandho
 
-\linkdest{endnote17-body}
 \begin{english}
-  Attachment to consciousness\makeatletter\hyperlink{endnote17-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote17-appendix}{\hyperlink{endnote17-body}{WPN: ``Attachment to sense-consciousness''}}}}}\makeatother
+  Attachment to consciousness
 \end{english}
 
 \suttaRef{[DN 22]}
@@ -1342,18 +1308,14 @@ Saññā aniccā
 
 Saṅkhārā aniccā
 
-\linkdest{endnote18-body}
 \begin{english}
-  Volitional formations are impermanent\makeatletter\hyperlink{endnote18-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote18-appendix}{\hyperlink{endnote18-body}{WPN: ``Mental formations are impermanent''}}}}}\makeatother
+  Volitional formations are impermanent
 \end{english}
 
 Viññāṇaṁ aniccaṁ
 
-\linkdest{endnote19-body}
 \begin{english}
-  Consciousness is impermanent\makeatletter\hyperlink{endnote19-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote19-appendix}{\hyperlink{endnote19-body}{WPN: ``Sense-consciousness is impermanent''}}}}}\makeatother
+  Consciousness is impermanent
 \end{english}
 
 Rūpaṁ anattā
@@ -1376,63 +1338,48 @@ Saññā anattā
 
 Saṅkhārā anattā
 
-\linkdest{endnote20-body}
 \begin{english}
-  Volitional formations are not-self\makeatletter\hyperlink{endnote20-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote20-appendix}{\hyperlink{endnote20-body}{WPN: ``Mental formations are not-self''}}}}}\makeatother
+  Volitional formations are not-self
 \end{english}
 
 Viññāṇaṁ anattā
 
-\linkdest{endnote21-body}
 \begin{english}
-  Consciousness is not-self\thinspace\makeatletter\hyperlink{endnote21-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote21-appendix}{\hyperlink{endnote21-body}{WPN: ``Sense-consciousness is not-self''}}}}}\makeatother
+  Consciousness is not-self
 \end{english}
 
 Sabbe saṅkhārā aniccā
 
-\linkdest{endnote22-body}
 \begin{english}
-  All conditioned things are impermanent\makeatletter\hyperlink{endnote22-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote22-appendix}{\hyperlink{endnote22-body}{WPN: ``All conditions are transient''}}}}}\makeatother
+  All conditioned things are impermanent
 \end{english}
 
 Sabbe dhammā anattā'ti
 
-\linkdest{endnote23-body}
 \begin{english}
-  All things are not-self\thinspace\makeatletter\hyperlink{endnote23-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote23-appendix}{\hyperlink{endnote23-body}{WPN: ``There is no self in the created or the uncreated''. While this is not a very accurate translation, it is indeed the case that the term ``\textit{sabbe dhammā}'' includes the uncreated, \textit{Nibbāna} (see AN 5.32).}}}}}\makeatother
+  All things are not-self
 \end{english}
 
 \suttaRef{[MN 35]}
 
 Te mayaṁ otiṇṇ'āmha jātiyā jarā-maraṇena
 
-\linkdest{endnote24-body}
 \begin{english}
-  All of us are affected by birth \breathmark\ ageing and death\makeatletter\hyperlink{endnote24-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote24-appendix}{\hyperlink{endnote24-body}{WPN: ``All of us are bound by birth ageing and death''}}}}}\makeatother
+  All of us are affected by birth \breathmark\ ageing and death
 \end{english}
 
 Sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
-\linkdest{endnote25-body}
 \linkdest{endnote26-body}
 \begin{english}
-  By sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote25-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote25-appendix}{\hyperlink{endnote25-body}{WPN: ``grief''}}}}}\makeatother
-  and despair\makeatletter\hyperlink{endnote26-appendix}\Hy@raisedlink{{\pagenote{%
+  By sorrow lamentation pain displeasure and despair\makeatletter\hyperlink{endnote26-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote26-appendix}{\hyperlink{endnote26-body}{In Pāli, these terms are in plural form, however, for the sake of recitation they are kept singular.}}}}}\makeatother
 \end{english}
 
 Dukkh'otiṇṇā dukkha-paretā
 
-\linkdest{endnote27-body}
 \begin{english}
-  Affected by dukkha and afflicted by dukkha\makeatletter\hyperlink{endnote27-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote27-appendix}{\hyperlink{endnote27-body}{WPN: ``All of us are bound by birth ageing and death''}}}}}\makeatother
+  Affected by dukkha and afflicted by dukkha
 \end{english}
 
 \begin{pali-hang}
@@ -1478,10 +1425,8 @@ Tasmiṁ bhagavati brahmacariyaṁ carāma
 
 Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 
-\linkdest{endnote28-body}
 \begin{english}
-  Possessing the bhikkhus' training and way of life\makeatletter\hyperlink{endnote28-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote28-appendix}{\hyperlink{endnote28-body}{WPN: ``Being fully equipped with the bhikkhus'system of training''}}}}}\makeatother
+  Possessing the bhikkhus' training and way of life
 \end{english}
 
 \begin{pali-hang}
@@ -1694,16 +1639,10 @@ Saṅghaṁ namāmi
   Adhammo nirayaṁ neti – Dhammo pāpeti suggatiṁ
 \end{verses}
 
-\linkdest{endnote29-body}
-\linkdest{endnote30-body}
 \begin{english-verses}
-  What is true Dhamma and what's\makeatletter\hyperlink{endnote29-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote29-appendix}{\hyperlink{endnote29-body}{WPN: ``what not'': 'What not' is usually followed by what is similar. Furthermore, the meaning of \textit{adhamma} in this context describes not only the lack of \textit{Dhamma}, but the practice of wrong \textit{Dhamma}.}}}}}\makeatother
-  not\\
+  What is true Dhamma and what's not\\
   Will never have the same results\\
-  While wrong\makeatletter\hyperlink{endnote30-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote30-appendix}{\hyperlink{endnote30-body}{WPN: ``lack of \textit{Dhamma}'' This translation is problematic, because a mere ``lack of \textit{Dhamma}'' does not lead to rebirth in hell; otherwise all non-Buddhists would be destined to hell. In reality, it is the view and practice of ``wrong \textit{Dhamma}'' that leads to hell, which is also substantiated by the Commentary, which defines ``\textit{adhamma}'' as the opposite (\textit{paṭipakkha}) of true \textit{Dhamma}.}}}}}\makeatother
-  Dhamma leads to hell realms\\
+  While wrong Dhamma leads to hell realms\\
   True Dhamma takes one on a good course
 \end{english-verses}
 
@@ -1757,13 +1696,11 @@ Saṅghaṁ namāmi
   N'etaṁ saraṇam'āgamma – Sabba-dukkhā pamuccati
 \end{verses}
 
-\linkdest{endnote32-body}
 \begin{english-verses}
   Such a refuge is not secure\\
   Such a refuge is not supreme\\
   Such a refuge does not bring\\
-  Complete release from all suffering\makeatletter\hyperlink{endnote32-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote32-appendix}{\hyperlink{endnote32-body}{WPN: ``from suffering''}}}}}\makeatother
+  Complete release from all suffering
 \end{english-verses}
 
 \begin{verses}
@@ -1771,13 +1708,9 @@ Saṅghaṁ namāmi
   Cattāri ariya-saccāni – Samma-ppaññāya passati
 \end{verses}
 
-\linkdest{endnote162-body}
-\linkdest{endnote163-body}
 \begin{english-verses}
-  Whoever goes for refuge\makeatletter\hyperlink{endnote162-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote162-appendix}{\hyperlink{endnote162-body}{WPN: ``Whoever goes to refuge''}}}}}\makeatother\\
-  To the Buddha the Dhamma and the Saṅgha\makeatletter\hyperlink{endnote163-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote163-appendix}{\hyperlink{endnote163-body}{WPN: ``In the Triple Gem''. It has been shown in Āyasma Aggacitta's ``Do We Go to the Triple Gem for Refuge?'' that one does not go for refuge in the triple gem (the Buddha, Dhamma, and Ariya-saṅgha), but the discourses repeatedly depict the Buddha, Dhamma, and Bhikkhu-saṅgha as the community to take refuge in (DN 2, MN 91, SN 12.46, AN 2.16 etc.).}}}}}\makeatother\\
+  Whoever goes for refuge\\
+  To the Buddha the Dhamma and the Saṅgha\\
   Sees with right discernment\\
   The Four Noble Truths
 \end{english-verses}
@@ -1931,16 +1864,12 @@ Etaṁ buddhāna'sāsanaṁ
   Atha nibbindati dukkhe – Esa maggo visuddhiyā
 \end{verses}
 
-\linkdest{endnote34-body}
 \begin{english-verses}
-  ``All conditioned things are impermanent''\makeatletter\hyperlink{endnote34-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote34-appendix}{\hyperlink{endnote34-body}{WPN: ``Impermanent are all conditioned things''}}}}}\makeatother\\
-
+  ``All conditioned things are impermanent''\\
   When with wisdom this is seen\\
   \linkdest{endnote35-body}
   One feels weary of all dukkha\makeatletter\hyperlink{endnote35-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote35-appendix}{\hyperlink{endnote35-body}{``\textit{Dukkha}'' here refers to the five aggregates themselves, as explained in SN 56.11: ``The five aggregates of clinging are \textit{dukkha}''. Along similar lines, the five aggregates are called ``burdens'' in SN 22.22.}}}}}\makeatother\\
-
   This is the path to purity
 \end{english-verses}
 
@@ -1961,11 +1890,8 @@ Etaṁ buddhāna'sāsanaṁ
   Atha nibbindati dukkhe – Esa maggo visuddhiyā
 \end{verses}
 
-\linkdest{endnote36-body}
 \begin{english-verses}
-  ``All things are not-self''\makeatletter\hyperlink{endnote36-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote36-appendix}{\hyperlink{endnote36-body}{WPN: ``Dukkha are all conditioned things''}}}}}\makeatother\\
-
+  ``All things are not-self''\\
   When with wisdom this is seen\\
   One feels weary of all dukkha\\
   This is the path to purity
@@ -2003,15 +1929,11 @@ Etaṁ buddhāna'sāsanaṁ
   Tatr'ābhiratim'iccheyya – Hitvā kāme akiñcano
 \end{verses}
 
-\linkdest{endnote37-body}
-\linkdest{endnote38-body}
 \begin{english-verses}
   Abandoning the darker states\\
   The wise pursue the bright\\
-  Gone from home to homelessness\makeatletter\hyperlink{endnote37-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote37-appendix}{\hyperlink{endnote37-body}{WPN: ``From the floods dry land they reach''}}}}}\makeatother\\
-  Living withdrawn so hard to enjoy\makeatletter\hyperlink{endnote38-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote38-appendix}{\hyperlink{endnote38-body}{WPN: ``Living withdrawn so hard to do''}}}}}\makeatother\\
+  Gone from home to homelessness\\
+  Living withdrawn so hard to enjoy\\
   Such rare delight one should desire\\
   Sense pleasures cast away\\
   Not having anything
@@ -2039,11 +1961,9 @@ Etaṁ buddhāna'sāsanaṁ
   Bhār'ādānaṁ dukkhaṁ loke – Bhāra-nikkhepanaṁ sukhaṁ
 \end{verses}
 
-\linkdest{endnote39-body}
 \begin{english-verses}
   The five aggregates indeed are burdens\\
-  The beast of burden is the person\makeatletter\hyperlink{endnote39-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote39-appendix}{\hyperlink{endnote39-body}{WPN: ``The beast of burden though is man''. The Pāli word ``\textit{puggalo}'' is in masculine, which is the expected grammatical form even if a term refers to males and females alike, as is probably the case here. Furthermore, the phrase ``beast of burden'' is an English idiomatic expression, signifying ``an animal used for heavy work such as carrying or pulling things'' (Oxford Dictionary).}}}}}\makeatother\\
+  The beast of burden is the person\\
   In this world to take up burdens is dukkha\\
   Putting them down brings happiness
 \end{english-verses}
@@ -2382,13 +2302,11 @@ Etaṁ buddhāna'sāsanaṁ
   Sithilo hi paribbājo – Bhiyyo ākirate rajaṁ
 \end{verses}
 
-\linkdest{endnote41-body}
 \begin{english-verses}
   Vigorously with all one's strength\\
   It should be done what should be done\\
   A lax monastic life stirs up\\
-  The dust of defilements all the more\makeatletter\hyperlink{endnote41-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote41-appendix}{\hyperlink{endnote41-body}{WPN: ``The dust of passions all the more''. The Pāli only speaks of stirring up dust, but the Commentary explains that it refers to the dust of \textit{kilesā}. As a translation for \textit{kilesā}, the term ``defilements'' has a broader scope than just ``passions'', wherefore the former has been given preference.}}}}}\makeatother
+  The dust of defilements all the more
 \end{english-verses}
 
 \begin{verses}
@@ -2693,20 +2611,16 @@ Etaṁ buddhāna'sāsanaṁ
   The future is unrealized
 \end{english-verses}
 
-\linkdest{endnote156-body}
 \begin{verses}
   Paccuppannañ'ca yo dhammaṁ – Tattha tattha vipassati\\
-  Asaṁhiraṁ asaṅkuppaṁ – Taṁ vidvā\makeatletter\hyperlink{endnote156-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote156-appendix}{\hyperlink{endnote156-body}{WPN: ``\textit{viddhā}''. The Siam edition has \textit{viddhā} (pierced) whereas the Burmese and Sri Lankan edition of the same text have \textit{vidvā} (the wise), which seems to be the variant that better conveys the intended meaning of the text.}}}}} m'anubrūhaye
+  Asaṁhiraṁ asaṅkuppaṁ – Taṁ vidvā m'anubrūhaye
 \end{verses}
 
-\linkdest{endnote43-body}
 \begin{english-verses}
   In every presently arisen state\\
   There just there one clearly sees\\
   Unmoved unagitated\\
-  That is what the wise would keep fostering\makeatletter\hyperlink{endnote43-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote43-appendix}{\hyperlink{endnote43-body}{WPN: ``Such insight is one's strength''}}}}}\makeatother
+  That is what the wise would keep fostering
 \end{english-verses}
 
 \begin{verses}
@@ -2726,14 +2640,10 @@ Etaṁ buddhāna'sāsanaṁ
   Taṁ ve bhadd'eka-ratto'ti – Santo ācikkhate muni
 \end{verses}
 
-\linkdest{endnote44-body}
-\linkdest{endnote45-body}
 \begin{english-verses}
   To dwell with energy aroused\\
-  Day and night relentlessly\makeatletter\hyperlink{endnote44-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote44-appendix}{\hyperlink{endnote44-body}{WPN: ``Thus for a night of non-decline''}}}}}\makeatother\\
-  That is ``a single excellent night''\makeatletter\hyperlink{endnote45-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote45-appendix}{\hyperlink{endnote45-body}{WPN: ``a shining night of prosperty''}}}}}\makeatother\\
+  Day and night relentlessly\\
+  That is ``a single excellent night''\\
   So it was taught by the Peaceful Sage
 \end{english-verses}
 
@@ -2756,11 +2666,9 @@ Etaṁ buddhāna'sāsanaṁ
         \hypertarget{endnote46-appendix}{\hyperlink{endnote46-body}{The term ``blessing'' is used throughout this chanting book to convey the meaning of ``support'', or ``a beneficial thing'', without implying the underlying Christian connotations this term may have in popular use.}}}}}\makeatother \hspace{-0.5mm}\anglebracketright\
 \end{leader-english}
 
-\linkdest{endnote47-body}
 \begin{english-only}
   Thus have I heard that the Blessed One\\
-  Was dwelling at Sāvatthī\makeatletter\hyperlink{endnote47-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote47-appendix}{\hyperlink{endnote47-body}{WPN: ``Was staying at \textit{Sāvatthī}''}}}}}\makeatother\\
+  Was dwelling at Sāvatthī\\
   Residing at the Jeta's Grove\\
   In Anāthapiṇḍika's Park
 \end{english-only}
@@ -2802,12 +2710,10 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
-\linkdest{endnote155-body}
 \begin{english-only}
   Providing for mother and father's support\\
   And cherishing family\\
-  And ways of work that are burden-free\makeatletter\hyperlink{endnote155-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote155-appendix}{\hyperlink{endnote155-body}{WPN: ``that harm no being''}}}}}\\
+  And ways of work that are burden-free\\
   These are the highest blessings
 \end{english-only}
 
@@ -2825,29 +2731,22 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
-\linkdest{endnote150-body}
 \begin{english-only}
   Respectfulness and being of humble ways\\
   Contentment and gratitude\\
-  And hearing the Dhamma at suitable times\makeatletter\hyperlink{endnote151-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote151-appendix}{\hyperlink{endnote151-body}{WPN: ``And hearing the Dhamma frequently taught''}}}}}\\
+  And hearing the Dhamma at suitable times\\
   These are the highest blessings
 \end{english-only}
 
-\linkdest{endnote151-body}
 \begin{english-only}
   Patience and willingness to accept one's faults\\
   Seeing venerated seekers of the truth\\
-  And discussing the Dhamma at suitable times\makeatletter\hyperlink{endnote151-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote151-appendix}{\hyperlink{endnote151-body}{WPN: ``And sharing often the words of Dhamma''}}}}}\\
+  And discussing the Dhamma at suitable times\\
   These are the highest blessings
 \end{english-only}
 
-\linkdest{endnote48-body}
 \begin{english-only}
-  Ardent and committed\makeatletter\hyperlink{endnote48-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote48-appendix}{\hyperlink{endnote48-body}{WPN: ``ardent committed''}}}}}\makeatother \thinspace
-  to the holy life\\
+  Ardent and committed to the holy life\\
   Seeing for oneself the Noble Truths\\
   And the realization of Nibbāna\\
   These are the highest blessings
@@ -2911,10 +2810,7 @@ Etaṁ buddhāna'sāsanaṁ
   Or despise any being in any state\\
   Let none through anger or ill-will\\
   Wish harm upon another\\
-  \linkdest{endnote49-body}
-  Just\makeatletter\hyperlink{endnote49-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote49-appendix}{\hyperlink{endnote49-body}{WPN: ``Even''}}}}}\makeatother
-  as a mother protects with her life\\
+  Just as a mother protects with her life\\
   Her child her only child\\
   So with a boundless heart\\
   Should one cherish\makeatletter\hyperlink{endnote161-appendix}\Hy@raisedlink{{\pagenote{%
@@ -2928,9 +2824,7 @@ Etaṁ buddhāna'sāsanaṁ
   Seated or lying down free from drowsiness\\
   One should sustain this recollection\\
   This is said to be the sublime abiding\\
-  \linkdest{endnote50-body}
-  By not holding wrong views\makeatletter\hyperlink{endnote50-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote50-appendix}{\hyperlink{endnote50-body}{WPN: ``to fixed views''. This paragraph deals with \textit{Anāgāmis}, which becomes apparent from the closing statement in which it is said that by this practice one becomes free from sense desires and is not born again into this world (sense sphere). The limitation of loving-kindness practice leading ``only'' up to \textit{Anāgāmihood} also finds confirmation by AN 4.126. Now, since an \textit{Anāgāmi} has right view, which is the first factor of the noble eightfold path (even \textit{Arahants} hold right view; AN 10.112), it would therefore not be correct to say that he holds no views at all. Furthermore, even an \textit{Anāgāmi} may still have some minor grasping to (right) view, as there can still be moments of \textit{māna} (identification/conceit), which is overcome only by the \textit{Arahant}. I therefore conclude that this passage here refers specifically to ``wrong views'' and does not include ``right view'', since wrong views are the only types of views that an \textit{Anāgāmi} has entirely left behind.}}}}}\makeatother\\
+  By not holding wrong views\\
   The pure-hearted one having clarity of vision\\
   Being freed from all sense-desires\\
   Is not born again into this world
@@ -3096,10 +2990,8 @@ Katamā ca sā bhikkhave majjhimā paṭipadā
 
 Ayam'eva ariyo aṭṭh'aṅgiko maggo
 
-\linkdest{endnote51-body}
 \begin{english}
-  It is just this Noble Eightfold Path\makeatletter\hyperlink{endnote51-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote51-appendix}{\hyperlink{endnote51-body}{WPN: ``It is this Noble Eightfold Path''}}}}}\makeatother
+  It is just this Noble Eightfold Path
 \end{english}
 
 Seyyath'īdaṁ
@@ -3235,11 +3127,8 @@ Maraṇam'pi dukkhaṁ
 
 Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
-\linkdest{endnote53-body}
 \begin{english}
-  Sorrow lamentation pain displeasure\makeatletter\hyperlink{endnote53-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote53-appendix}{\hyperlink{endnote53-body}{WPN: ``grief''}}}}}\makeatother \thinspace
-  and despair are dukkha
+  Sorrow lamentation pain displeasure and despair are dukkha
 \end{english}
 
 Appiyehi sampayogo dukkho
@@ -3262,10 +3151,8 @@ Yam'p'icchaṁ na labhati tam'pi dukkhaṁ
 
 Saṅkhittena pañc'upādāna-kkhandhā dukkhā
 
-\linkdest{endnote54-body}
 \begin{english}
-  In brief \breathmark\ the five aggregates of clinging are dukkha\makeatletter\hyperlink{endnote54-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote54-appendix}{\hyperlink{endnote54-body}{WPN: ``In brief the five focuses of identity are \textit{dukkha}''}}}}}\makeatother
+  In brief \breathmark\ the five aggregates of clinging are dukkha
 \end{english}
 
 Idaṁ kho pana bhikkhave dukkha-samudayo ariya-saccaṁ
@@ -3442,18 +3329,14 @@ Vijjā udapādi\\
   Insight arose\\
   Discernment arose\\
   Knowledge arose\\
-  \linkdest{endnote55-body}
-  Light arose in me\makeatletter\hyperlink{endnote55-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote55-appendix}{\hyperlink{endnote55-body}{WPN: ``Light arose''}}}}}\makeatother\\
+  Light arose in me\\
   ``This is the Noble Truth of \textit{dukkha}''
 \end{english-verses}
 
 Taṁ kho pan'idaṁ dukkhaṁ ariya-saccaṁ pariññeyyan'ti
 
-\linkdest{endnote56-body}
 \begin{english}
-  This Noble Truth of dukkha\makeatletter\hyperlink{endnote56-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote56-appendix}{\hyperlink{endnote56-body}{WPN: ``Now this Noble Truth of \textit{dukkha}''}}}}}\makeatother\\
+  This Noble Truth of dukkha\\
   Should be completely understood
 \end{english}
 
@@ -3586,10 +3469,8 @@ Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
   Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi
 \end{pali-hangtogether}
 
-\linkdest{endnote158-body}
 \begin{english-verses}
-  Bhikkhus as long as\makeatletter\hyperlink{endnote158-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote158-appendix}{\hyperlink{endnote158-body}{WPN: ``As long \textit{bhikkhus} as''}}}}}\makeatother \thinspace my knowledge and understanding\\
+  Bhikkhus as long as my knowledge and understanding\\
   As it actually is\\
   Of these Four Noble Truths\\
   \linkdest{endnote57-body}
@@ -3620,10 +3501,8 @@ Yato ca kho me bhikkhave imesu catūsu ariya-saccesu
   Evan'ti-parivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi
 \end{pali-hangtogether}
 
-\linkdest{endnote159-body}
 \begin{english-verses}
-  But bhikkhus when\makeatletter\hyperlink{endnote159-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote159-appendix}{\hyperlink{endnote159-body}{WPN: ``But when \textit{bhikkhus}''}}}}}\makeatother \thinspace my knowledge and understanding\\
+  But bhikkhus when my knowledge and understanding\\
   As it actually is\\
   Of these Four Noble Truths\\
   With their three phases and twelve aspects\\
@@ -3817,11 +3696,8 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
   ``Come bhikkhu \breathmark\ resort to a secluded resting place: a forest \breathmark\ the foot of a tree \breathmark\ a mountain \breathmark\ a ravine \breathmark\ a hillside cave \breathmark\ a charnel ground \breathmark\ a jungle thicket \breathmark\ an open space \breathmark\ a heap of straw''.
 \end{english-only-justify}
 
-\linkdest{endnote61-body}
 \begin{english-only-justify}
-  ``After his meal on returning from almsround he sits down \breathmark\ having crossed his legs \breathmark\ sets his body erect \breathmark\ having established mindfulness in front of him. Abandoning longing\makeatletter\hyperlink{endnote61-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote61-appendix}{\hyperlink{endnote61-body}{WPN: ``covetousness''}}}}}\makeatother\thinspace
-  for the world \breathmark\ he abides with a mind free from longing \breathmark\ he purifies his mind from longing. Abandoning ill will and hatred \breathmark\ he abides with a mind free from ill will \breathmark\ compassionate for the welfare of all living \mbox{beings}~\breathmark\ he~purifies his mind from ill will and hatred. Abandoning sloth and torpor \breathmark\ he abides free from sloth and torpor \breathmark\ percipient of light \breathmark\ mindful and fully aware \breathmark\ he purifies his mind from sloth and torpor. Abandoning restlessness and remorse \breathmark\ he abides unagitated \breathmark\ with a mind inwardly peaceful \breathmark\ he purifies his mind from restlessness and remorse. Abandoning doubt \breathmark\ he abides having gone beyond doubt \breathmark\ unperplexed about wholesome states \breathmark\ he purifies his mind from doubt''.
+  ``After his meal on returning from almsround he sits down \breathmark\ having crossed his legs \breathmark\ sets his body erect \breathmark\ having established mindfulness in front of him. Abandoning longing for the world \breathmark\ he abides with a mind free from longing \breathmark\ he purifies his mind from longing. Abandoning ill will and hatred \breathmark\ he abides with a mind free from ill will \breathmark\ compassionate for the welfare of all living \mbox{beings}~\breathmark\ he~purifies his mind from ill will and hatred. Abandoning sloth and torpor \breathmark\ he abides free from sloth and torpor \breathmark\ percipient of light \breathmark\ mindful and fully aware \breathmark\ he purifies his mind from sloth and torpor. Abandoning restlessness and remorse \breathmark\ he abides unagitated \breathmark\ with a mind inwardly peaceful \breathmark\ he purifies his mind from restlessness and remorse. Abandoning doubt \breathmark\ he abides having gone beyond doubt \breathmark\ unperplexed about wholesome states \breathmark\ he purifies his mind from doubt''.
 \end{english-only-justify}
 
 \suttaRef{[MN 107]}
@@ -4528,11 +4404,9 @@ Idha bhikkhave bhikkhu kāye kāy'ānupassī viharati
 
 Vineyya loke abhijjhā-domanassaṁ
 
-\linkdest{endnote62-body}
 \begin{english}
   Having put away\\
-  Longing and grief for the world\makeatletter\hyperlink{endnote62-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote62-appendix}{\hyperlink{endnote62-body}{WPN: ``covetousness and grief''}}}}}\makeatother
+  Longing and grief for the world
 \end{english}
 
 Vedanāsu vedan'ānupassī viharati
@@ -4577,8 +4451,7 @@ Dhammesu dhamm'ānupassī viharati
 
 \linkdest{endnote63-body}
 \begin{english}
-  He abides contemplating dhammas as dhammas\makeatletter\hyperlink{endnote63-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote63-appendix}{\hyperlink{endnote63-body}{WPN: ``He abides contemplating mind-objects as mind-objects''. Since ``mind-object'' is not an ideal translation for ``\textit{dhamma}'' in this context, it is preferable to leave ``\textit{dhamma}'' untranslated here.}}}}}\makeatother
+  He abides contemplating dhammas as dhammas
 \end{english}
 
 Ātāpī sampajāno satimā
