@@ -166,9 +166,6 @@
   {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\}\ifafiveversion \smallskip \fi \ifasixversion \medskip\tiny \fi AN 5.26\\[1.4\baselineskip]
 }
 
-% TODO ! make suttaref here smaller and more stylish
-% look online for examples
-
 #+end_src
 
 * Copyright
@@ -552,12 +549,27 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 \chapter{Abbreviations}
 \label{abbreviations}
 
-% TODO cannot nest conditional in tabular. hspace for a6 is 0.12cm
+\ifafiveversion
 \begin{tabular}{@{}ll@{}}
   \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
   \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
 \end{tabular}
+\fi
 
+% TODO hspace for a6 is 0.12cm
+\ifasixversion
+\begin{tabular}{@{}ll@{}}
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+\end{tabular}
+\fi
+
+\ifbsixversion
+\begin{tabular}{@{}ll@{}}
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+\end{tabular}
+\fi
 
 \begin{tabular}{@{}llll@{}}
   DN    & Dīgha Nikāya                                        \\
@@ -593,7 +605,6 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 ** Cover/Title
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
-% TODO decide whether uncompressed versions are needed at all. if the publisher inserts them manually with the image file separately and not with it being embedded in the pdf then no need. it can just be a digital conditional then.
 \ifdigitalversion
   \chapterOpeningPage{homage-to-the-triple-gem-compressed.jpg}
 \else
@@ -2939,7 +2950,6 @@ Etaṁ buddhāna'sāsanaṁ
 \suttaRef{[Snp 1.8]}
 
 \bottomNav{sharing-merits-departed}
-% * TODO Bottom nav is higher than usual
 
 #+end_src
 
@@ -9842,6 +9852,8 @@ Sadā sotthī bhavantu te
   Saha sabbehi ñātibhi
 \end{pali-hang}
 
+\clearpage
+
 \begin{english-verses}
   May they gain benefits and happiness\\
   And grow in Buddha's religion,\\
@@ -9852,7 +9864,7 @@ Sadā sotthī bhavantu te
 \suttaRef{[AN 3.155]}
 
 \bottomNav{just-as-rivers}
-% TODO : how to remove extraneous blank page?
+
 #+end_src
 
 * Protective Recitations
@@ -11889,8 +11901,6 @@ Sadā sotthī bhavantu te
 \section{Vipassanā-bhūmi-pāṭho}
 \label{vipassana-bhumi-patho}
 
-% TODO fix hang indent and hang indent continued
-% TODO don't let line end with the
 \begin{pali-hang-continued}
   \anglebracketleft\ \hspace{-0.5mm}Pañca-kkhandhā: \hspace{-0.5mm}\anglebracketright\
   \begin{pali-hang}

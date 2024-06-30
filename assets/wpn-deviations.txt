@@ -1,0 +1,5 @@
+Dedication of Offerings
+The Lord -> Worthy One
+
+\ifdigitalversion\makeatletter\hyperlink{endnote2-appendix}\Hy@raisedlink{{\pagenote{%\linebreak
+        \hypertarget{endnote2-appendix}{\hyperlink{endnote2-body}{WPN: ``The Lord''. The underlying Pāli term is ``\textit{Arahant}''. ``Lord'', however, has connotations that do not fit well to the way the Buddha is portrayed in the discourses. In dictionaries ``lord'' is commonly defined as: ``an appellation for a person or deity who has authority, control, or power over others, acting like a master, a chief, or a ruler''. The ``Worthy One'' seems a better choice of terms, since it is also how ``\textit{Arahant}'' was used in pre-Buddhist era. PTS explains: ``[Vedic \textit{arhant}, ppr. of \textit{arhati} (see \textit{arahati}), meaning deserving, worthy]''. Throughout this chanting book, all occurrences of ``\textit{Arahant}'' have therefore been consistently translated as ``Worthy One'', thus replacing previous translations, such as ``The Lord'', ``Noble One'' etc.}}}}}\makeatother\thinspace\else \medspace \fi

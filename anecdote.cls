@@ -1,5 +1,3 @@
-% I have a LaTeX document which I would like to add detailed comments to so that future maintainers and editors can have an easy time understanding what each command and code means. Can you help me with this? I will input snippets for my formatting and styling and would like you to respond with a detailed explanation of what the code means. Add the comment above the code. To start the comment use %
-
 % A memoir-based documentclass with a contemporary style for books with a lighter content.
 
 % (c) Gambhiro Bhikkhu, 2017
@@ -17,8 +15,6 @@
 % Define the document class named "anecdote"
 \ProvidesClass{anecdote}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
 
-
-
 % Define a conditional for the digital version
 \newif\ifdigitalversion
 \digitalversionfalse
@@ -34,7 +30,6 @@
 % Define a conditional for the B6 version formatting
 \newif\ifbsixversion
 \bsixversionfalse
-
 
 
 % Load the pgfopts package, which provides a key-value interface for package options
@@ -568,9 +563,9 @@
 }{\end{enumerate}}
 
 % Define a command for speaker name with small caps and color
-% TODO needed?
-\newcommand\speakerName[1]{%
-  {\color[gray]{0.25}\libertinusFont\scshape\MakeLowercase{#1}}\quad}
+% TODO needed - Marked for DELETION?
+% \newcommand\speakerName[1]{%
+%   {\color[gray]{0.25}\libertinusFont\scshape\MakeLowercase{#1}}\quad}
 
 % Define length for question indent
 \newlength\qw
@@ -624,9 +619,6 @@
 \newlength{\quoteMargin}
 % Set the value of the quoteMargin length to 18 points
 \setlength{\quoteMargin}{18pt}
-
-% FIXME is this even broken?
-%\setlength{\footnotemargin}{\quoteMargin}
 
 % Define a new environment for opening verses
 \newenvironment{openingVerse}%
@@ -1427,7 +1419,7 @@
 % With no glue, the space will be at the bottom of the text block instead.
 
 
-% TODO need or not?
+% TODO need or not? - MARKED
 % \setsechook{%
 %   % New page for each section.
 %   \clearpage%
@@ -1483,7 +1475,7 @@
     % \end{minipage}%
     %
     % Box for the section title text
-    % TODO: hyperef wrap is disorienting the remainder of brackets
+    % TODO: hyperef wrap is disorienting the remainder of brackets - MARKED
     \hyperref[schedule]{%
       \begin{minipage}[t]{\linewidth}%
         \centering%
@@ -1591,31 +1583,6 @@
 \setsubsecheadstyle{\subsectionFmt}
 \setsubsubsecheadstyle{\subsubsectionFmt}
 
-% % MARKED FOR DELETION!!!
-% \newcommand\englishTitle[1]{%
-%   \vspace*{-1ex}%
-%   \tocEnglishTitle{#1}%
-%   {%
-%     \subSectionFont\fontsize{11}{17}\selectfont%
-%     \itshape\color{section}%
-%     \memRTLraggedright%
-%     #1%
-%   }%
-%   \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
-% }
-
-% \newcommand\subTitle[1]{%
-%   \vspace*{-1ex}%
-%   \tocEnglishTitle{#1}%
-%   {%
-%     \subSectionFont\fontsize{11}{17}\selectfont%
-%     \itshape\color{section}%
-%     \memRTLraggedright%
-%     #1%
-%   }%
-%   \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
-% }
-
 \newif\ifsectionsubtitle
 \sectionsubtitlefalse
 
@@ -1701,7 +1668,7 @@
 \fi
 
 %Adds to the inner margin to allow for the binding. This should be added after setting the page size, but before setting the margins.
-% TODO even needed since there are trims above?
+% TODO even needed since there are trims above? - MARKED
 % \setbinding{#1}
 
 % Page Margins
@@ -1717,6 +1684,77 @@
 \addtolength{\headheight}{6pt}
 \addtolength{\headsep}{-5pt}
 
+\fi
+
+\ifasixversion
+
+% A6 adjusted font size and line height
+\def\BOOK@fontSizePt{10}
+\def\BOOK@lineHeightPt{14}
+
+% Redefine the \normalsize command to set font size and line height
+\renewcommand{\normalsize}{%
+  \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
+  % Set spacing above and below displayed equations
+  \abovedisplayskip 8\p@ \@plus3\p@ \@minus6\p@
+  \abovedisplayshortskip \z@ \@plus3\p@
+  \belowdisplayshortskip 5\p@ \@plus3.5\p@ \@minus3\p@
+  \belowdisplayskip \abovedisplayskip
+  % Set text color to 'textbody'
+  \color{textbody}
+  % Set list item style
+  \let\@listi\@listI}
+\normalsize
+
+% Adjusted spacing and margins
+\setlength{\vgap}{1.2em}
+\setlength{\vindent}{\vgap}
+\setlength{\vleftmargin}{1.5em}
+
+\setlength{\parskip}{6pt}
+\setlength{\parindent}{0pt}
+
+%%%%%%%%%%%%%%%% Setup Page Layout %%%%%%%%%%%%%%%%
+
+% A6 page size
+\setlength{\BOOK@paperHeight}{148mm}
+\setlength{\BOOK@paperWidth}{105mm}
+
+\ifshowtrims
+  \stockaiv% use A4 paper size to show trims
+  \setlength{\paperheight}{\BOOK@paperHeight}
+  \setlength{\paperwidth}{\BOOK@paperWidth}
+  \trimXmarks
+  \trimLmarks
+  \quarkmarks
+  \settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
+  \settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
+\else\relax
+  \setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
+  \settrimmedsize{\stockheight}{\stockwidth}{*}
+  \settrims{0pt}{0pt}
+\fi
+
+% Adds to the inner margin to allow for the binding. This should be added after setting the page size, but before setting the margins.
+% TODO even needed since there are trims above? - MARKED
+% \setbinding{#1}
+
+% Page Margins
+\settypeblocksize{22\baselineskip + \topskip}{85mm}{*}
+\setlrmargins{*}{10mm}{*} % Adjusted for equal left and right margins
+\setulmargins{*}{10mm}{1} % Adjusted for equal top and bottom margins
+\setmarginnotes{6pt}{12pt}{5pt}
+
+\setlength{\footskip}{12pt}
+
+% Adjust spacing to avoid warning
+% Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
+\addtolength{\headheight}{4pt}
+\addtolength{\headsep}{-3pt}
+
+\fi
+
+\ifbsixversion
 \fi
 
 % Increase overfull and underfull tolerance to avoid too many warnings such as

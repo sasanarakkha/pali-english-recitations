@@ -1,16 +1,16 @@
 \documentclass[
   final,
   babelLanguage=british,
-  % digitalVersion, % Adds hyperlinks, adds illustrations, to be used with A5
-  % afiveVersion, % A5 formatted
-  asixVersion, % A6 formatted
+  digitalVersion, % Adds hyperlinks, adds illustrations, to be used with A5
+  afiveVersion, % A5 formatted
+  % asixVersion, % A6 formatted
   % bsixVersion, % B6 formatted
+  % wpnEndnotes, % Adds endnotes which indicate deviation from WPN
   % showtrims,
 ]{anecdote}
 
 
 
-% TODO need ifthen for other sizes
 % Define graphics path for images
 \graphicspath{
   {./assets/illustrations/A5}
@@ -19,8 +19,7 @@
   {./assets/graphics}
 }
 
-% Load local package for local settings
-
+% Loads formatting for selected ddocument class
 \ifafiveversion \usepackage{A5} \fi
 \ifasixversion  \usepackage{A6} \fi
 \ifbsixversion  \usepackage{B6} \fi
@@ -49,7 +48,8 @@
 
 % Load further packages
 \RequirePackage[yyyymmdd,hhmmss]{datetime} % Adds the time to version creation
-\RequirePackage{pagenote} % For memoir's endnotes
+
+\makepagenote
 \continuousnotenums % Ensure continuous endnote numbering
 
 % Define hyphenation exceptions and corrections

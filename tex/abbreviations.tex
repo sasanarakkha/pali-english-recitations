@@ -1,12 +1,28 @@
+
 \chapter{Abbreviations}
 \label{abbreviations}
 
-% TODO cannot nest conditional in tabular. hspace for a6 is 0.12cm
+\ifafiveversion
 \begin{tabular}{@{}ll@{}}
   \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
   \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
 \end{tabular}
+\fi
 
+% TODO hspace for a6 is 0.12cm
+\ifasixversion
+\begin{tabular}{@{}ll@{}}
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+\end{tabular}
+\fi
+
+\ifbsixversion
+\begin{tabular}{@{}ll@{}}
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+\end{tabular}
+\fi
 
 \begin{tabular}{@{}llll@{}}
   DN    & Dīgha Nikāya                                        \\
@@ -35,3 +51,4 @@
 
 Wisdom Publication sources: Nikāya and sutta \# (eg. DN 1)\\
 P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
+
