@@ -52,7 +52,7 @@
 % Define a custom environment 'leader' with specific formatting
 \newenvironment{leader}%
 {\list{}{%
-    \parskip 6pt%
+    \parskip 4pt%
     \topsep 0pt%
     \listparindent 0em%
     \itemindent    0pt%
@@ -124,7 +124,7 @@
     \leftmargin    0pt %\leaderIndent%
     \rightmargin   0pt%
     \parsep        -8pt
-    \fontsize{8.5}{14}\selectfont
+    \fontsize{8.5}{8}\selectfont
   }%
   \item[] \centering\itshape}%
 {\endlist}
@@ -169,7 +169,7 @@
      \leftmargin    1.0em %\leaderIndent%
      \rightmargin   0em%
      \fontsize{8.5}{13}\selectfont
-     \parsep        -8.5em %\z@ \@plus\p@%
+     \parsep        -11em %\z@ \@plus\p@%
    }%
    \item[] \raggedright\itshape}%
  {\endlist}
@@ -447,7 +447,9 @@
 
 % Redefine the formatting for endnotes
 \renewcommand{\prenoteinnotes}{%
-    \small\par\noindent%
+    \ifafiveversion\small\par\noindent\fi%
+    \ifasixversion\tiny\par\setlength{\parskip}{3pt}\noindent\fi%
+    \ifbsixversion\small\par\noindent\fi%
     }%
 \renewcommand{\noteidinnotes}[2]{% {notenum}{id}
     \begin{adjustwidth}{14pt}{0pt}%
