@@ -159,7 +159,8 @@ CLOSED: [2022-05-26 Thu 22:15]
 CLOSED: [2022-05-26 Thu 22:16]
 * DONE TeX: yatha-vari-vaha title closer than subsequent titles
 CLOSED: [2022-12-14 Wed 18:32]
-* TODO TeX: fix indentation for pali-hang and pali-hangtogether -- FIXED ALREADY?
+* DONE TeX: fix indentation for pali-hang and pali-hangtogether -- FIXED ALREADY?
+CLOSED: [2024-07-01 Mon 10:53]
 * DONE TeX: return periods in cardinal suttas -- NECESSARY? No.
 CLOSED: [2024-05-08 Wed 15:12]
 * DONE TeX: check for endnotes that are too close to proceeding word
@@ -250,6 +251,8 @@ CLOSED: [2024-06-29 Sat 16:35]
 * TODO separate image for the spine
 * TODO export images as svg if possible?
 * TODO create foil stamp
-* TODO endnotes aren't working now
+* TODO b6 toc appendix jumps to next page
+* DONE endnotes aren't working now
+CLOSED: [2024-06-30 Sun 15:05]
 * DONE +rm all wpn endnotes from the documents and place them in a separate changelog file+ add conditionals to wpn endnotes
 CLOSED: [2024-06-29 Sat 16:34]
