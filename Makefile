@@ -21,13 +21,13 @@ RELEASENAME   := SBS_Pāli-English_Recitations
 CURRENTEPUB   := ./epub/current-recitations.epub
 HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
-PDFFILE     := $(BUILDDIR)/$(RELEASENAME).pdf
-# A6PDFFILE     := $(BUILDDIR)/$(RELEASENAME)-A6.pdf
-# A4PDFFILE     := $(BUILDDIR)/$(RELEASENAME)-A4.pdf
+PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
+PDFFILE_A4    := $(BUILDDIR)/$(RELEASENAME)-A4.pdf
+PDFFILE_A6    := $(BUILDDIR)/$(RELEASENAME)-A6.pdf
+PDFFILE_B6    := $(BUILDDIR)/$(RELEASENAME)-B6.pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
 KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
 AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
-
 
 
 ifneq (, $(shell which epubcheck))
@@ -84,7 +84,18 @@ pdf2x: $(PDFFILE)  # Legacy target for compliance
 pdf: $(PDFFILE)
 $(PDFFILE): TANGLED
 	$(MKBUILDDIR)
-	$(LATEX) --jobname=$(basename $(PDFFILE)) $(FILE).tex;
+	$(LATEX) --jobname=$(basename $@) $(FILE)_a5digital.tex
+
+
+pdf-a6: $(PDFFILE_A6)
+$(PDFFILE_A6): TANGLED
+	$(MKBUILDDIR)
+	$(LATEX) -jobname=$(basename $@) $(FILE)_a6.tex
+
+pdf-b6: $(PDFFILE_B6)
+$(PDFFILE_B6): TANGLED
+	$(MKBUILDDIR)
+	$(LATEX) -jobname=$(basename $@) $(FILE)_b6.tex
 
 
 #-----------------------------------------------------------------------------------------#
@@ -263,8 +274,8 @@ endif
 clean:
 	@echo Removing artifacts...
 	rm -f \
-		"$(PDFFILE)" "$(EPUBFILE)" "$(KINDLEFILE)" "$(AZW3FILE)" \
-		"$(IBOOKSFILE)" "$(COPYRIGHT_SENTINEL)" $(LATEX_AUX)
+		"$(PDFFILE)" "$(PDFFILE_A6)" "$(PDFFILE_B6)" "$(EPUBFILE)" "$(KINDLEFILE)" \
+	"$(AZW3FILE)" "$(IBOOKSFILE)" "$(COPYRIGHT_SENTINEL)" $(LATEX_AUX)
 	# only remove dir if it's empty:
 	(rm -fd $(BUILDDIR) || true)
 

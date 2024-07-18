@@ -1,11 +1,31 @@
+% Set paper variant
+% Build command '\newcommand{\papersizeoption}{VALUE}\input{main.tex}'
+% Possible VALUE:
+%   - afiveVersion — A5 formatted
+%   - asixVersion — A6 formatted
+%   - bsixVersion — B6 formatted
+\ifdefined\papersizeoption
+\else
+  \newcommand{\papersizeoption}{bsixVersion}
+\fi
+\typeout{Set \protect\papersizeoption{} to \papersizeoption}
+
+% Add hyperlinks and illustrations, to be used with afiveVersion \papersizeoption
+% Build command:
+% '\newcommand{\papersizeoption}{afiveVersion}\newcommand{\isdigitalversion}{}\input{main.tex}'
+\ifdefined\isdigitalversion
+  \newcommand{\digitaloption}{digitalVersion}
+\else
+  \newcommand{\digitaloption}{}
+\fi
+\typeout{Set \protect\digitaloption{} to \digitaloption}
+
 \documentclass[
   final,
   babelLanguage=british,
-  % digitalVersion, % Adds hyperlinks, adds illustrations, to be used with A5
-  % afiveVersion, % A5 formatted
-  % asixVersion, % A6 formatted
-  bsixVersion, % B6 formatted
   % showtrims,
+  \papersizeoption,
+  \digitaloption,
 ]{anecdote}
 
 
