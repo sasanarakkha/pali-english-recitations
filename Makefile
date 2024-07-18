@@ -78,6 +78,7 @@ all: $(PDFFILE) $(A6PDFFILE) $(A4PDFFILE) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 TANGLED: ./recitations.tex.org
 	$(ORG_TANGLE) $<
 
+# TODO make commadns for each paper size
 
 pdf2x: $(PDFFILE)  # Legacy target for compliance
 pdf: $(PDFFILE)
