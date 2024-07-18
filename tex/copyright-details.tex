@@ -4,17 +4,21 @@
 
 {%
 
-  \ifasixversion\fontsize{11}{17}\selectfont\fi%
-  \ifasixversion\fontsize{8}{12}\selectfont\fi%
+  \ifafiveversion\fontsize{11}{17}\selectfont\fi%
+  \ifasixversion\fontsize{8}{11}\selectfont\fi%
+  \ifbsixversion\fontsize{8}{11}\selectfont\fi%
 
   \setlength{\parindent}{0pt}%
   \raggedright\label{copyright-details}%
-  \setlength{\parskip}{4.5pt}%
+  \ifafiveversion\setlength{\parskip}{4.5pt}\fi%
+  \ifasixversion\setlength{\parskip}{2.5pt}\fi%
+  \ifbsixversion\setlength{\parskip}{2.5pt}\fi%
 
   {\centering
 
     \ifafiveversion{\fontsize{25}{18}\selectfont \ccbyncnd}\fi
-    \ifasixversion{\fontsize{18}{12}\selectfont \ccbyncnd}\fi
+    \ifasixversion{\fontsize{18}{10}\selectfont \ccbyncnd}\fi
+    \ifbsixversion{\fontsize{18}{12}\selectfont \ccbyncnd}\fi
 
     \vspace{0.5cm}
 
@@ -22,7 +26,7 @@
     Attribution-NonCommercial-NoDerivatives 4.0 International~License.\\
     \href{https://creativecommons.org/licenses/by-nc-nd/4.0/}{https://creativecommons.org/licenses/by-nc-nd/4.0/}
 
-    \vspace{0.5cm}
+    \vspace{0.4cm}
 
   }
 
@@ -40,7 +44,7 @@
     \item \textbf{NoDerivatives} — If you remix, transform, or build upon the material, you may not distribute the modified material.
   \end{packeditemize}
 
-  \vspace{0.5cm}
+    \vspace{0.5cm}
 
   No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
