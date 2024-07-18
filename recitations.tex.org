@@ -128,11 +128,11 @@
 
 \cleartorecto
 \thispagestyle{empty}
-% \ifasixversion
-%   \vspace*{1em}
-% \else
--\vspace*{3em}
-% \fi
+
+\ifafiveversion\vspace*{3em}\fi
+\ifasixversion\vspace*{3em}\fi
+\ifbsixversion\vspace*{-0.025em}\fi
+
 
 {\centering
 
@@ -142,28 +142,32 @@
 
   % 'SBS' on title page
   \ifafiveversion {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
-
-  \ifasixversion {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.0\baselineskip] \fi
+  \ifasixversion {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.2\baselineskip] \fi
+  \ifbsixversion {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.2\baselineskip] \fi
 
   % 'Monk Training Centre'
   \ifafiveversion \setlength{\xheight}{\heightof{X}}
     {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
 
   \ifasixversion {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
+  \ifbsixversion {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
 
   % Ornament
   \ifafiveversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
-
   \ifasixversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
+  \ifbsixversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
 
 
   % 'Pali-English Recitations'
   \ifafiveversion {\Large\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
-
   \ifasixversion {\fontsize{10.5}{12}\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
+  \ifbsixversion {\fontsize{10.5}{12}\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
 
   % Dhamma quote
-  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\}\ifafiveversion \smallskip \fi \ifasixversion \medskip\tiny \fi AN 5.26\\[1.4\baselineskip]
+  {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\}
+  \ifafiveversion \smallskip AN 5.26\\[1.4\baselineskip]\fi
+  \ifasixversion \smallskip \fontsize{8.5}{14}\selectfont AN 5.26\\[1.4\baselineskip]\fi
+  \ifbsixversion \smallskip \fontsize{8.5}{14}\selectfont AN 5.26\\[1.4\baselineskip]\fi
 }
 
 #+end_src
@@ -181,6 +185,7 @@
 
   \ifafiveversion \fontsize{10}{16}\selectfont \fi
   \ifasixversion \fontsize{7.5}{11}\selectfont \fi
+  \ifbsixversion \fontsize{7.5}{11}\selectfont \fi
   \centering
   \setlength{\parindent}{0pt}%
   % \setlength{\parskip}{0.8\baselineskip}%
@@ -191,25 +196,28 @@
   % TODO need 4 ISBN numbers assigned (3 for print/pdf, 1 for epub); do more research before printing
   % https://www.pnm.gov.my/
   ISBN \theISBN\\
-  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2022
+  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2024
 
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.4cm} \fi
+  \ifbsixversion \vspace{0.4cm} \fi
 
   This book is for free distribution only;\\
   it may not be sold.
 
-  % TODO not for malays
-
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.4cm} \fi
+  \ifbsixversion \vspace{0.4cm} \fi
 
   Download this book as a PDF, EPUB, or MOBI\\
   at the following address:\\
   \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
 
+  Accompanying audio recordings can be found at...
+
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.4cm} \fi
+  \ifbsixversion \vspace{0.4cm} \fi
 
   Project Manager: Ā. Ariyadhammika\\
   Editor: Ā. Pāladhammika\\
@@ -221,6 +229,7 @@
 
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.4cm} \fi
+  \ifbsixversion \vspace{0.4cm} \fi
 
   This work is licensed under a Creative Commons\\
   Attribution-NonCommercial-NoDerivatives 4.0 International~License.
@@ -230,15 +239,16 @@
 
   \ifafiveversion  \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.4cm} \fi
+  \ifbsixversion \vspace{0.4cm} \fi
 
   \ifdigitalversion
     This version was created on:\\
     \today \space at \currenttime\\
-    % \href{https://github.com/sasanarakkha/pali-english-recitations/commits/main}{\texttt{\commit}} on branch \texttt{\branch}
   \fi
 
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.3cm} \fi
+  \ifbsixversion \vspace{0.3cm} \fi
 
   \theEditionInfo
 
@@ -252,11 +262,13 @@
 \cleartorecto
 \thispagestyle{empty}
 
-{\setlength{\parskip}{10pt}
+{
+
+ \setlength{\parskip}{10pt}
 
  \ifafiveversion {\centering\fontsize{16}{25}\selectfont \textsc{We Wish To Gratefully Acknowledge} \par} \fi
-
  \ifasixversion {\centering\fontsize{11}{18}\selectfont \textsc{We Wish To Gratefully Acknowledge} \par} \fi
+ \ifbsixversion {\centering\fontsize{11}{18}\selectfont \textsc{We Wish To Gratefully Acknowledge} \par} \fi
 
 
   The Saṅghas of Wat Pah Nanachat (WPN), Amaravati, and Abhayagiri for allowing the use of material from their respective chanting books, the late Ven. Dr. Saddhātissa and Mr. Maurice Walshe for their English translations, as well as Ven. Bhikkhu Bodhi for granting permission to use and slightly adapt his translations. Various Saṅgha members of SBS Monk Training Centre, who contributed in the compilation of an interesting selection of chants, as well as for providing countless suggestions to help improve the English translations.
@@ -276,6 +288,7 @@
 
     \ifafiveversion \includegraphics[height=54mm]{sbs-logo-tuck-loon-brown.jpg} \fi
     \ifasixversion \includegraphics[height=36mm]{sbs-logo-tuck-loon-brown.jpg} \fi
+    \ifbsixversion \includegraphics[height=36mm]{sbs-logo-tuck-loon-brown.jpg} \fi
 
   }
 
@@ -284,6 +297,7 @@
 #+end_src
 
 * Recitation Schedule
+
 #+begin_src latex :tangle ./tex/schedule.tex
 
 \chapter{Recitation Schedule}
@@ -291,9 +305,9 @@
 
 {\centering
 
-  {\pdfbookmark[2]{Set 1}{set1}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 1}}}}\\
+  {\pdfbookmark[2]{Set 1}{set1}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 1}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[buddhas-first-exclamation]{The Buddha's First Exclamation} \ifdigitalversion\else\pageref{buddhas-first-exclamation}\fi\\
     \hyperref[wheel-of-dhamma-abridged]{Setting in Motion the Wheel of Dhamma} \ifdigitalversion\else\pageref{wheel-of-dhamma-abridged}\fi\\
     \hyperref[true-false-refuges]{Going to True and False Refuges} \ifdigitalversion\else\pageref{true-false-refuges}\fi\\
@@ -304,11 +318,13 @@
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
-  \vspace{1.0cm}
+  \ifafiveversion\vspace{1.0cm}\fi
+  \ifasixversion\vspace{0.8cm}\fi
+  \ifbsixversion\vspace{1.0cm}\fi
 
-  {\pdfbookmark[2]{Set 2}{set2}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 2}}}}\\
+  {\pdfbookmark[2]{Set 2}{set2}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 2}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[characteristic-of-not-self]{The Discourse on the Characteristic of Not-Self} \ifdigitalversion\else\pageref{characteristic-of-not-self}\fi\\
     \hyperref[fire-sermon]{The Fire Sermon} \ifdigitalversion\else\pageref{fire-sermon}\fi\\
     \hyperref[gradual-training]{The Gradual Training} \ifdigitalversion\else\pageref{gradual-training}\fi\\
@@ -318,9 +334,9 @@
 
   \clearpage
 
-  {\pdfbookmark[2]{Set 3}{set3}\libertinusFont\selectfont\textbf{\textsc{\fontsize{18}{12}\selectfont\textls*{Set 3}}}}\\
+  {\pdfbookmark[2]{Set 3}{set3}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 3}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[noble-eightfold-path]{The Noble Eightfold Path} \ifdigitalversion\else\pageref{noble-eightfold-path}\fi\\
     \hyperref[repulsiveness-of-food]{The Repulsiveness of Food} \ifdigitalversion\else\pageref{repulsiveness-of-food}\fi\\
     \hyperref[requisites-for-awakening]{Requisites for Awakening} \ifdigitalversion\else\pageref{requisites-for-awakening}\fi\\
@@ -330,11 +346,15 @@
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
-  \vspace{1.0cm}
+    \ifafiveversion\vspace{1.0cm}\fi
+  \ifasixversion\vspace{0.8cm}\fi
+  \ifbsixversion\vspace{1.0cm}\fi
 
-  {\pdfbookmark[2]{Set 4}{set4}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 4}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+
+  {\pdfbookmark[2]{Set 4}{set4}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 4}}}}\\
+
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[dedication-of-offerings]{Homage to the Triple Gem} \ifdigitalversion\else\pageref{dedication-of-offerings}\fi\\
     \hyperref[universal-well-being]{Universal Well-Being} \ifdigitalversion\else\pageref{universal-well-being}\fi\\
     \hyperref[seven-factors-of-awakening]{The Seven Factors of Awakening} \ifdigitalversion\else\pageref{seven-factors-of-awakening}\fi\\
@@ -346,9 +366,9 @@
 
   \clearpage
 
-  {\pdfbookmark[2]{Set 5}{set5}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 5}}}}\\
+  {\pdfbookmark[2]{Set 5}{set5}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 5}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing} \ifdigitalversion\else\pageref{mindfulness-of-breathing}\fi\\
     \hyperref[highest-blessings]{The Highest Blessings} \ifdigitalversion\else\pageref{highest-blessings}\fi\\
     \hyperref[three-characteristics]{The Three Characteristics} \ifdigitalversion\else\pageref{three-characteristics}\fi\\
@@ -360,35 +380,43 @@
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
-  \vspace{1.0cm}
+    \ifafiveversion\vspace{1.0cm}\fi
+  \ifasixversion\vspace{0.8cm}\fi
+  \ifbsixversion\vspace{1.0cm}\fi
 
-  {\pdfbookmark[2]{Set 6}{set6}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 6}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+
+  {\pdfbookmark[2]{Set 6}{set6}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 6}}}}\\
+
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[anatta-lakkhana]{Anatta-lakkhaṇa Sutta} \ifdigitalversion\else\pageref{anatta-lakkhana}\fi\\
     \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma} \ifdigitalversion\else\pageref{striving-according-to-dhamma}\fi\\
     \hyperref[divine-abidings]{The Divine Abidings} \ifdigitalversion\else\pageref{divine-abidings}\fi\\
-    \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ \vspace{-0.4cm} by One Gone Forth} \ifdigitalversion\else\pageref{ten-reflections}\fi\\
+    \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ \ifafiveversion\vspace{-0.4cm}\fi \ifasixversion\vspace{-0.2cm}\fi by One Gone Forth} \ifdigitalversion\else\pageref{ten-reflections}\fi\\
     \hyperref[sharing-aspirations]{Sharing and Aspirations} \ifdigitalversion\else\pageref{sharing-aspirations}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
   \clearpage
 
-  {\pdfbookmark[2]{Set 7}{set7}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 7}}}}\\
+  {\pdfbookmark[2]{Set 7}{set7}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 7}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[dependent-origination]{Dependent Origination} \ifdigitalversion\else\pageref{dependent-origination}\fi\\
     \hyperref[dhamma-in-brief]{The Dhamma in Brief} \ifdigitalversion\else\pageref{dhamma-in-brief}\fi\\
     \hyperref[uddissanadhitthana]{Uddissan'ādhiṭṭhāna} \ifdigitalversion\else\pageref{uddissanadhitthana}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
-  \vspace{1.0cm}
+    \ifafiveversion\vspace{1.0cm}\fi
+  \ifasixversion\vspace{0.8cm}\fi
+  \ifbsixversion\vspace{1.0cm}\fi
 
-  {\pdfbookmark[2]{Set 8}{set8}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 8}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+
+  {\pdfbookmark[2]{Set 8}{set8}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 8}}}}\\
+
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[aditta-pariyaya]{Āditta-Pariyāya Sutta} \ifdigitalversion\else\pageref{aditta-pariyaya}\fi\\
     \hyperref[burdens]{The Burdens} \ifdigitalversion\else\pageref{burdens}\fi\\
     \hyperref[respect-for-the-dhamma]{Respect for the Dhamma} \ifdigitalversion\else\pageref{respect-for-the-dhamma}\fi\\
@@ -402,20 +430,22 @@
 
   \clearpage
 
-  {\pdfbookmark[2]{Set 9}{set9}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 9}}}}\\
+  {\pdfbookmark[2]{Set 9}{set9}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 9}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[deva-aradhana]{Protective Recitations (Pāli)} \ifdigitalversion\else\pageref{deva-aradhana}\fi\\
     \hyperref[sharing-merits-departed]{Sharing of Merits with the Departed (Pāli)} \ifdigitalversion\else\pageref{sharing-merits-departed}\fi\\
     \hyperref[sharing-merits-devas]{Sharing of Merits with the Devas (Pāli)} \ifdigitalversion\else\pageref{sharing-merits-devas}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
-  \vspace{1.0cm}
+    \ifafiveversion\vspace{1.0cm}\fi
+  \ifasixversion\vspace{0.8cm}\fi
+  \ifbsixversion\vspace{1.0cm}\fi
 
-  {\pdfbookmark[2]{Set 10}{set10}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 10}}}}\\
+  {\pdfbookmark[2]{Set 10}{set10}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifasixversion\fontsize{13}{8.5}\fi\ifbsixversion\fontsize{13}{8.5}\fi\selectfont\textls*{Set 10}}}}\\
 
-  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{10}{20}\fi\selectfont
+  \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifasixversion\fontsize{9.5}{18}\fi\ifbsixversion\fontsize{9.5}{18}\fi\selectfont
     \hyperref[pubba-bhaga-nama-kara-patho-funeral]{Funeral Recitations (Pāli)} \ifdigitalversion\else\pageref{pubba-bhaga-nama-kara-patho-funeral}\fi\\
     \hyperref[recollection-of-impermanence]{Recollection of Impermanence} \ifdigitalversion\else\pageref{recollection-of-impermanence}\fi\\
     \hyperref[yatha-vari-vaha-pura]{Thanksgiving Recitations (Pāli)} \ifdigitalversion\else\pageref{yatha-vari-vaha-pura}\fi\\
@@ -427,8 +457,8 @@
 #+end_src
 
 * Purpose and Benefits of Dhamma Recitation
-#+begin_src latex :tangle ./tex/purpose-and-benefits.tex
 
+#+begin_src latex :tangle ./tex/purpose-and-benefits.tex
 
 \chapter[Purpose and Benefits of Dhamma Recitation]{Purpose and Benefits\\ of Dhamma Recitation}
 \label{purpose-and-benefits}
@@ -489,23 +519,42 @@ While it is not uncommon in our current time and age that teachers share the Dha
 
 BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four ways in which a person might be trained to be a reciter of a text:
 
-\begin{enumerate}
+%% \begin{enumerate}
+%%   \item The teacher and student recite in unison, i.e. beginning together and ending together.
+%%   \item The teacher begins a line, the student joins in, and they end together.
+%%   \item The teacher recites the beginning syllable of a line together with the student, who then completes it alone.
+%%   \item The teacher recites one line, and the student recites the next line alone.
+%% \end{enumerate}
+
+\ifbsixversion
+\begin{packedenumerate}
   \item The teacher and student recite in unison, i.e. beginning together and ending together.
   \item The teacher begins a line, the student joins in, and they end together.
   \item The teacher recites the beginning syllable of a line together with the student, who then completes it alone.
   \item The teacher recites one line, and the student recites the next line alone.
-\end{enumerate}
+\end{packedenumerate}
+\else
+\fi
 
 In order for a monk to be free from dependence (\textit{nissaya}) on a teacher, \textit{``he must be learned and intelligent, knowing both Pāṭimokkhas ... and must have been ordained as a bhikkhu for at least five years''. (Mv.I.53.5-13)}
 
 The Commentary says that a learned bhikkhu must have memorized:
 
-\begin{itemize}
+%% \begin{itemize}
+%%   \item Both \textit{Pātimokkhas} (for the \textit{bhikkhus} and \textit{bhikkhunīs}).
+%%   \item The Four \textit{Bhāṇavāras} — a set of auspicious chants that are still regularly memorized in Sri Lanka as the \textit{Mahā-pirit poṭha}.
+%%   \item A discourse that is helpful as a guide for sermon-giving.
+%%   \item Three kinds of \textit{anumodanā} (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.
+%% \end{itemize}
+
+\ifbsixversion
+\begin{packeditemize}
   \item Both \textit{Pātimokkhas} (for the \textit{bhikkhus} and \textit{bhikkhunīs}).
   \item The Four \textit{Bhāṇavāras} — a set of auspicious chants that are still regularly memorized in Sri Lanka as the \textit{Mahā-pirit poṭha}.
   \item A discourse that is helpful as a guide for sermon-giving.
   \item Three kinds of \textit{anumodanā} (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.
-\end{itemize}
+\end{packeditemize}
+\fi
 
 Lastly, when monastics from other sects wanted to become monks in the Buddha's dispensation, they typically had to undergo a four-month probation period. However, \textit{``a probationer fails in his probation and is not to be accepted ... if he does not have a keen desire for recitation'' (Mv.I.38.5-10)}.
 
@@ -544,11 +593,13 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 #+end_src
 
 * Abbreviations
+
 #+begin_src latex :tangle ./tex/abbreviations.tex
 
 \chapter{Abbreviations}
 \label{abbreviations}
 
+% TODO Only recited and Breathing are misalgined
 \ifafiveversion
 \begin{tabular}{@{}ll@{}}
   \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
@@ -559,8 +610,8 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 % TODO hspace for a6 is 0.12cm
 \ifasixversion
 \begin{tabular}{@{}ll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.70mm}\anglebracketright\ & \hspace{1.0mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{1.05mm}Breathing pause \\
 \end{tabular}
 \fi
 
@@ -603,6 +654,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 
 * Homage to the Triple Gem
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \ifdigitalversion
@@ -617,6 +669,7 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 #+end_src
 
 ** Dedication of Offerings
+
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \begingroup
@@ -695,7 +748,7 @@ Amhākaṁ dīgharattaṁ hitāya sukhāya
   For our long-lasting benefit and for the happiness it gives us
 \end{english}
 
-\clearpage
+\ifafiveversion\clearpage\fi
 
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Arahaṁ \hspace{-0.5mm}\anglebracketright\
@@ -756,6 +809,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** Preliminary Homage
+
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionSubTitle{Pubbabhāga-namakāra}
@@ -781,6 +835,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 #+end_src
 
 ** Homage to the Buddha
+
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionSubTitle{Buddh'ābhitthuti}
@@ -891,6 +946,7 @@ Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ
 #+end_src
 
 ** Homage to the Dhamma
+
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionSubTitle{Dhamm'ābhitthuti}
@@ -956,6 +1012,7 @@ Paccattaṁ veditabbo viññūhi
 #+end_src
 
 ** Homage to the Saṅgha
+
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionSubTitle{Saṅgh'ābhitthuti}
@@ -980,7 +1037,7 @@ Uju-paṭipanno bhagavato sāvaka-saṅgho
 \linkdest{endnote5-body}
 \begin{english}
   Who have practiced directly\makeatletter\hyperlink{endnote5-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote5-appendix}{\hyperlink{endnote5-body}{To practice ``directly''(Pāli: \textit{uju}) means, to practice the most direct way to \textit{Nibbāna}; the straight way; no detours.}}}}}\makeatother
+        \hypertarget{endnote5-appendix}{\hyperlink{endnote5-body}{To practice ``directly'' (Pāli: \textit{uju}) means, to practice the most direct way to \textit{Nibbāna}; the straight way; no detours.}}}}}\makeatother
 
 \end{english}
 
@@ -1026,6 +1083,8 @@ Pāhuneyyo
   Worthy of hospitality
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Dakkhiṇeyyo
 
 \begin{english}
@@ -1060,6 +1119,7 @@ Anuttaraṁ puñña-kkhettaṁ lokassa
 #+end_src
 
 ** Salutation to the Triple Gem
+
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionSubTitle{Ratanattaya-paṇāma}
@@ -1508,6 +1568,7 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 #+end_src
 
 ** Closing Homage
+
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \sectionSubTitle{Pacchima-vandanā}
@@ -1592,6 +1653,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 * Verses
+
 ** Cover/Title
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
@@ -1606,6 +1668,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** The Buddha's First Exclamation
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Buddha-paṭhama-bhāsita}
@@ -1650,6 +1713,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** Respect for the Dhamma
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Dhamma-gārava}
@@ -1698,10 +1762,14 @@ Saṅghaṁ namāmi
 
 \suttaRef{[SN 6.2]}
 
+\ifasixversion\clearpage\fi
+
 \begin{verses}
   Na hi dhammo adhammo ca – Ubho sama-vipākino\\
   Adhammo nirayaṁ neti – Dhammo pāpeti suggatiṁ
 \end{verses}
+
+\ifafiveversion\clearpage\fi
 
 \linkdest{endnote29-body}
 \linkdest{endnote30-body}
@@ -1721,8 +1789,8 @@ Saṅghaṁ namāmi
   Dhammo have rakkhati dhamma-cāriṁ\\
   Dhammo suciṇṇo sukham'āvahāti\\
   Es'ānisaṁso dhamme suciṇṇe\\
-  Na duggatiṁ gacchati dhamma-cārī\makeatletter\hyperlink{endnote31-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote31-appendix}{\hyperlink{endnote31-body}{This line is missing in WPN.}}}}}\makeatother
+  Na duggatiṁ gacchati dhamma-cārī\ifdigitalversion\makeatletter\hyperlink{endnote31-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote31-appendix}{\hyperlink{endnote31-body}{This line is missing in WPN.}}}}}\makeatother\fi
 \end{verses}
 
 \begin{english-verses}
@@ -1739,6 +1807,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** Going to True and False Refuges
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Khem'ākhema-saraṇa-gamana}
@@ -1791,10 +1860,14 @@ Saṅghaṁ namāmi
   The Four Noble Truths
 \end{english-verses}
 
+\ifasixversion\clearpage\fi
+
 \begin{verses}
   Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
   Ariyañ'c'aṭṭh'aṅgikaṁ maggaṁ – Dukkh'ūpasama-gāminaṁ
 \end{verses}
+
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   Suffering and its origin\\
@@ -1822,6 +1895,7 @@ Saṅghaṁ namāmi
 #+end_src
 
 ** The Pāṭimokkha Exhortation
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Ovāda-pāṭimokkha-gāthā}
@@ -1882,6 +1956,8 @@ Samaṇo hoti paraṁ viheṭhayanto
   Whoever troubles others can't be called a monk
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Anūpavādo anūpaghāto
 
 \begin{english}
@@ -1925,6 +2001,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** The Three Characteristics
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Ti-lakkhaṇā}
@@ -1982,10 +2059,14 @@ Etaṁ buddhāna'sāsanaṁ
 
 \suttaRef{[Dhp 277-279]}
 
+\ifasixversion\clearpage\fi
+
 \begin{verses}
   Appakā te manussesu – Ye janā pāra-gāmino\\
   Ath'āyaṁ itarā pajā – Tīram'ev'ānudhāvati
 \end{verses}
+
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   Few amongst humankind\\
@@ -2033,6 +2114,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** The Burdens
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Bhārā}
@@ -2076,6 +2158,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** From the Elder Raṭṭhapāla
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Raṭṭhapāla-thera-gāthā}
@@ -2170,6 +2253,7 @@ Etaṁ buddhāna'sāsanaṁ
 \begin{english-verses}
   Not just the king but others too\\
   Reach death not rid of craving\\
+  \ifasixversion\clearpage\fi
   They leave the body still wanting\\
   For in this world sense pleasures never satisfy
 \end{english-verses}
@@ -2212,6 +2296,7 @@ Etaṁ buddhāna'sāsanaṁ
 \begin{english-verses}
   Sense pleasures are diverse \breathmark\ sweet \breathmark\ delightful\\
   Appearing in disguise they disturb the mind\\
+  \ifasixversion\clearpage\fi
   Seeing danger in the cords of sense pleasure\\
   Therefore I went forth O King
 \end{english-verses}
@@ -2237,6 +2322,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** From the Elder Pārāpariya
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Pārāpariya-thera-gāthā}
@@ -2362,6 +2448,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** On Protection
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Tāyana-gāthā}
@@ -2443,6 +2530,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** Miscellaneous Verses
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Pakiṇṇaka-gāthā}
@@ -2547,6 +2635,8 @@ Etaṁ buddhāna'sāsanaṁ
   For those who have missed the opportunity\\
   Sorrow when they arrive in hell
 \end{english-verses}
+
+\ifafiveversion\clearpage\fi
 
 \begin{verses}
   Pamādo rajo pamādo – Pamād'ānupatito rajo\\
@@ -2680,6 +2770,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** A Single Excellent Night
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Bhadd'eka-ratta}
@@ -2755,6 +2846,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** The Highest Blessings
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Maṅgala-sutta}
@@ -2809,6 +2901,7 @@ Etaṁ buddhāna'sāsanaṁ
 \begin{english-only}
   Accomplished in learning and craftsman's skills\\
   With discipline highly trained\\
+  \ifafiveversion\clearpage\fi
   And speech that is true and pleasant to hear\\
   These are the highest blessings
 \end{english-only}
@@ -2885,6 +2978,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** The Buddha's Words on Loving-Kindness
+
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Karaṇīya-metta-sutta}
@@ -2955,6 +3049,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 * Teachings
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \ifdigitalversion
@@ -2968,6 +3063,7 @@ Etaṁ buddhāna'sāsanaṁ
 #+end_src
 
 ** Setting in Motion the Wheel of Dhamma
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Dhamma-cakkappavattana}
@@ -3685,6 +3781,7 @@ N'atthi-dāni punabbhavo'ti
 #+end_src
 
 ** Anupubba-sikkhā
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \section{Anupubba-sikkhā}
@@ -3748,6 +3845,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 #+end_src
 
 ** The Gradual Training
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \section{The Gradual Training}
@@ -3763,6 +3861,8 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 
 \suttaRef{[MN 27 / 38 / 51]}
 
+% TODO condtionalizsing these mboxes will eb painful
+
 \begin{english-only-justify}
   ``Now is it possible Master Gotama \breathmark\ to describe a gradual \mbox{training}~\breathmark\ gradual practice \breathmark\ and gradual progress in this Dhamma and Vinaya?''
 \end{english-only-justify}
@@ -3774,7 +3874,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \suttaRef{[MN 107]}
 
 \begin{english-only-justify}
-  ``Having thus gone forth and possessing the bhikkhus' training and way of life \breathmark\ abandoning the destruction of life \breathmark\ he abstains from destroying life \breathmark\ with rod and weapon laid aside \breathmark\ conscientious \breathmark\ merciful \breathmark\ he abides compassionate to all living beings. Abandoning the taking of what is not given \breathmark\ he abstains from taking what is not given \breathmark\ taking only what is given \breathmark\ expecting only what is given \breathmark\ by not stealing he abides in purity''.
+  ``Having thus gone forth and possessing the bhikkhus' training and way of life \breathmark\ abandoning the destruction of life \breathmark\ he abstains from destroying \mbox{life}~\breathmark\ with rod and weapon laid aside \breathmark\ conscientious \breathmark\ merciful \breathmark\ he abides compassionate to all living beings. Abandoning the taking of what is not given \breathmark\ he abstains from taking what is not given \breathmark\ taking only what is given \breathmark\ expecting only what is given \breathmark\ by not stealing he abides in purity''.
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -3785,7 +3885,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \begin{english-only-justify}
   ``Abandoning false speech \breathmark\ he abstains from false speech \breathmark\ he speaks \mbox{truth}~\breathmark\ adheres to truth \breathmark\ is trustworthy and reliable \breathmark\ one who is no deceiver of the world. Abandoning malicious speech \breathmark\ he abstains from malicious speech \breathmark\ he does not repeat elsewhere what he has heard here \breathmark\ in order to divide those people\makeatletter\hyperlink{endnote59-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote59-appendix}{\hyperlink{endnote59-body}{Bhikkhu Bodhi: [those people]. Removed brackets for the sake of recitability.}}}}}\makeatother
-  from these \breathmark\ nor does he repeat here what he has heard elsewhere \breathmark\ in order to divide these people from those \breathmark\ thus he is one who reunites those who are divided \breathmark\ a promoter of \mbox{friendships}~\breathmark\ who enjoys unity \breathmark\ rejoices in unity \breathmark\ delights in unity \breathmark\ a speaker of words that promote unity. Abandoning harsh speech \breathmark\ he abstains from harsh speech \breathmark\ he speaks words that are gentle \breathmark\ pleasing to the ear \breathmark\ and \mbox{loveable}~\breathmark\ that go to the heart \breathmark\ are courteous \breathmark\ desired by many and agreeable to many. Abandoning idle chatter \breathmark\ he abstains from idle chatter \breathmark\ he speaks at the right time \breathmark\ speaks what is fact \breathmark\ speaks on what is good \breathmark\ speaks on the Dhamma and Vinaya \breathmark\ at the right time \breathmark\ he speaks words that are worth recording \breathmark\ reasonable \breathmark\ moderate \breathmark\ and beneficial''.
+  from these \breathmark\ nor does he repeat here what he has heard elsewhere \breathmark\ in order to divide these people from those \breathmark\ thus he is one who reunites those who are divided \breathmark\ a promoter of \mbox{friendships}~\breathmark\ who enjoys unity \breathmark\ rejoices in unity \breathmark\ delights in unity \breathmark\ a speaker of words that promote unity. Abandoning harsh speech \breathmark\ he abstains from \ifafiveversion\mbox{harsh}~speech\fi \ifasixversion\mbox{harsh}~speech\fi \ifbsixversion\mbox{harsh}~speech\fi \breathmark\ he speaks words that are gentle \breathmark\ pleasing to the ear \breathmark\ and \mbox{loveable}~\breathmark\ that go to the heart \breathmark\ are courteous \breathmark\ desired by many and agreeable to many. Abandoning idle chatter \breathmark\ he abstains from idle chatter \breathmark\ he speaks at the right time \breathmark\ speaks what is fact \breathmark\ speaks on what is good \breathmark\ speaks on the Dhamma and Vinaya \breathmark\ at the right time \breathmark\ he speaks words that are worth recording \breathmark\ reasonable \breathmark\ moderate \breathmark\ and beneficial''.
 \end{english-only-justify}
 
 \linkdest{endnote148-body}
@@ -3869,6 +3969,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 #+end_src
 
 ** Requisites for Awakening
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Bodhipakkhiya-dhammā}
@@ -3927,11 +4028,15 @@ Katame ca te bhikkhave dhammā mayā abhiññā desitā
   And what bhikkhus are those things I have taught you from my direct knowledge?
 \end{english-hang}
 
+\ifasixversion\clearpage\fi
+
 Seyyath'īdaṁ
 
 \begin{english}
   They are as follows:
 \end{english}
+
+\ifafiveversion\clearpage\fi
 
 Cattāro satipaṭṭhānā
 
@@ -3982,6 +4087,7 @@ Ariyo aṭṭh'aṅgiko maggo
 #+end_src
 
 ** The Seven Factors of Awakening
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Satta-sambojjh'aṅgā}
@@ -4104,6 +4210,8 @@ Dvayena vūpakāsena vūpakaṭṭho viharati
   One dwells withdrawn by way of two kinds of withdrawal
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Kāya-vūpakāsena ca citta-vūpakāsena ca
 
 \begin{english}
@@ -4115,6 +4223,8 @@ So tathā vūpakaṭṭho viharanto
 \begin{english}
   Dwelling thus withdrawn
 \end{english}
+
+\ifafiveversion\clearpage\fi
 
 Taṁ dhammaṁ anussarati anuvitakketi
 
@@ -4165,6 +4275,8 @@ Pavicarato parivīmaṁsam'āpajjato
   Spiritual rapture arises
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Pīti-manassa kāyo'pi passambhati
 
 \begin{english}
@@ -4212,6 +4324,7 @@ Ime kho bhikkhave satta bojjh'aṅgā'ti
 #+end_src
 
 ** The Noble Eightfold Path
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Ariy'āṭṭh'aṅgika-magga}
@@ -4760,6 +4873,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
 #+end_src
 
 ** Mindfulness of Breathing
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Ānāpānassati}
@@ -5046,6 +5160,8 @@ Vimocayaṁ cittaṁ passasissāmī'ti sikkhati
 
 Anicc'ānupassī assasissāmī'ti sikkhati
 
+\ifasixversion\clearpage\fi
+
 \begin{english}
   He trains thus:\\
   `I shall breathe in contemplating impermanence'
@@ -5121,6 +5237,7 @@ Maha-pphalā hoti mah'ānisaṁsā
 #+end_src
 
 ** Dependent Origination
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Paṭicca-samuppāda}
@@ -5197,6 +5314,8 @@ Nāma-rūpa-paccayā saḷ'āyatanaṁ
 \end{english}
 
 Saḷ'āyatana-paccayā phasso
+
+\ifafiveversion\clearpage\fi
 
 \begin{english}
   From the sixfold-sense-base as a condition arises contact
@@ -5314,6 +5433,8 @@ Ayaṁ vuccati puññ'ābhisaṅkhāro
   This is called `karmic formation of wholesomeness'
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Tattha katamo apuññ'ābhisaṅkhāro
 
 \begin{english}
@@ -5376,6 +5497,8 @@ Ime vuccanti avijjā-paccayā saṅkhārā
 \begin{english}
   These are called `formations' \breathmark\ arising from ignorance as a condition
 \end{english}
+
+\ifasixversion\clearpage\fi
 
 Tattha katamaṁ saṅkhāra-paccayā viññāṇaṁ
 
@@ -5685,6 +5808,8 @@ Tattha katamo soko
   \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the sorrow \breathmark\ sorrowing \breathmark\ sorrowfulness \breathmark\ inner sorrow \breathmark\ extensive inner sorrow \breathmark\ the mind's thorough burning \breathmark\ displeasure \breathmark\ the dart of sorrow
 \end{english-hang-verses}
 
+\ifasixversion\clearpage\fi
+
 Ayaṁ vuccati soko
 
 \begin{english}
@@ -5724,6 +5849,8 @@ Tattha katamaṁ dukkhaṁ?
 \begin{english-hang-verses}
   The bodily discomfort \breathmark\ bodily pain \breathmark\ what is felt as uncomfortable \breathmark\ painful \breathmark\ that is born of body-contact \breathmark\ the uncomfortable painful feeling that is born of body-contact
 \end{english-hang-verses}
+
+\ifafiveversion\clearpage\fi
 
 Idaṁ vuccati dukkhaṁ
 
@@ -5771,6 +5898,8 @@ Ayaṁ vuccati upāyāso
   This is called `despair'
 \end{english}
 
+\ifafiveversion\clearpage\fi
+
 Evam'etassa kevalassa dukkha-kkhandhassa samudayo hotī'ti:
 
 \begin{english}
@@ -5801,6 +5930,7 @@ Evam'etassa kevalassa dukkha-kkhandhassa samudayo hotī'ti:
 #+end_src
 
 ** The Dhamma in Brief
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Saṅkhitta-dhamma}
@@ -5915,6 +6045,7 @@ Eso dhammo eso vinayo etaṁ satthu-sāsanan'ti
 #+end_src
 
 ** The Four Great References
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Cattāro mahāpadesā}
@@ -5972,6 +6103,8 @@ Sammukhā paṭiggahitaṁ
 \begin{english}
   In its presence I learned this
 \end{english}
+
+\ifasixversion\clearpage\fi
 
 Asukasmiṁ nāma āvāse
 
@@ -6094,6 +6227,8 @@ Na c'eva sutte otaranti na vinaye sandissanti
   If they are neither found in the Suttas \breathmark\ nor seen in the Vinaya
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Niṭṭham'ettha gantabbaṁ:
 
 \begin{english}
@@ -6179,6 +6314,7 @@ Ime kho bhikkhave cattāro mahāpadesā'ti
 #+end_src
 
 ** Principles of Cordiality
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Cha sāraṇīyā-dhammā}
@@ -6238,6 +6374,8 @@ Idha bhikkhave bhikkhuno
 \begin{english-hang}
   Maintains bodily verbal and mental acts of loving-kindness
 \end{english-hang}
+
+\ifasixversion\clearpage\fi
 
 Sabrahmacārīsu āvi c'eva raho ca
 
@@ -6299,6 +6437,8 @@ Tathā-rūpesu sīlesu sīla-sāmaññagato viharati
   Endowed with such virtues he dwells
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Sabrahmacārīsu āvi c'eva raho ca
 
 \begin{english}
@@ -6359,6 +6499,8 @@ Avivādāya
   To non-dispute
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Sāmaggiyā ekībhāvāya saṁvattanti
 
 \begin{english}
@@ -6385,6 +6527,8 @@ Aṇuṁ vā thūlaṁ vā yaṁ tumhe n'ādhivāseyyāthā'ti
   Trivial or gross \breathmark\ that you could not endure?
 \end{english}
 
+\ifafiveversion\fi
+
 No h'etaṁ bhante
 
 \begin{english}
@@ -6410,6 +6554,7 @@ Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā'ti
 #+end_src
 
 ** Principles of Non-Decline
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Aparihāniya-dhammā}
@@ -6467,6 +6612,8 @@ Samaggā saṅgha-karaṇīyāni karissanti
 \begin{english}
   And conduct the affairs of the Saṅgha in harmony
 \end{english}
+
+\ifasixversion\clearpage\fi
 
 Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
@@ -6528,6 +6675,8 @@ Saṅgha-pitaro saṅgha-pariṇāyakā
   Fathers and guides of the Saṅgha
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Te sakkarissanti garuṁ karissanti mānessanti pūjessanti
 
 \begin{english}
@@ -6588,6 +6737,8 @@ Yāvakīvañ'ca bhikkhave bhikkhū
   As long as the bhikkhus
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Paccattaññ'eva satiṁ upaṭṭhāpessanti:
 
 \begin{english}
@@ -6646,6 +6797,8 @@ Anicca-saññaṁ bhāvessanti anatta-saññaṁ bhāvessanti
   Develop the perception of impermanence \breathmark\ the perception of not-self
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Asubha-saññaṁ bhāvessanti ādīnava-saññaṁ bhāvessanti
 
 \begin{english}
@@ -6702,6 +6855,8 @@ Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 \suttaRef{[AN 7.23-27]}
 
+\ifasixversion\clearpage\fi
+
 \begin{pali-hang}
   Ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṁvattanti
 \end{pali-hang}
@@ -6751,6 +6906,7 @@ Sovacassatā kalyāṇamittatā
 #+end_src
 
 ** Striving According to the Dhamma
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Dhamma-pahaṁsāna}
@@ -6760,7 +6916,7 @@ Sovacassatā kalyāṇamittatā
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
-
+% TOOD the spacing before and after the leader is too large
 Evaṁ svākkhāto bhikkhave mayā dhammo
 
 \begin{english}
@@ -6870,6 +7026,8 @@ Mahantañ'ca sadatthaṁ paripūreti
 \begin{english}
   And great is the personal good that he achieves
 \end{english}
+
+\ifasixversion\clearpage\fi
 
 Na bhikkhave hīnena aggassa patti hoti
 
@@ -7012,6 +7170,7 @@ Alam'eva appamādena sampādetun'ti\ifdigitalversion\makeatletter\hyperlink{endn
 #+end_src
 
 ** The Buddha's Final Instruction
+
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Buddha-pacchima-ovāda}
@@ -7021,7 +7180,7 @@ Alam'eva appamādena sampādetun'ti\ifdigitalversion\makeatletter\hyperlink{endn
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddha-pacchima-ovāda-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
-
+% TODO spacing below is too large?
 Siyā kho tumhākaṁ evam'assa
 
 \begin{english}
@@ -7084,6 +7243,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 * Reflections
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \ifdigitalversion
@@ -7097,6 +7257,7 @@ Ayaṁ tathāgatassa pacchimā vācā
 #+end_src
 
 ** The Four Requisites
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionSubTitle{Cattāro parikkhārā}
@@ -7138,9 +7299,12 @@ Yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti
   \end{english-hangtogether}
   Only for the maintenance and nourishment of this body\\
   For keeping it healthy \breathmark\ for helping with the holy life\\
+  \ifasixversion\clearpage\fi
   Thinking thus: ``I will allay hunger without overeating\\
   So that I may continue to live blamelessly and at ease''
 \end{english-keepwith}
+
+\ifafiveversion\clearpage\fi
 
 Paṭisaṅkhā yoniso sen'āsanaṁ paṭisevāmi\\
 Yāva'd'eva sītassa paṭighātāya\\
@@ -7175,6 +7339,7 @@ Abyāpajjha-paramatāyā'ti
 #+end_src
 
 ** The Repulsiveness of Food
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionSubTitle{Āhāra-paṭikūla-paccavekkhaṇa-pāṭho}
@@ -7228,6 +7393,8 @@ Imaṁ pūti-kāyaṁ patvā
   But touching this unclean body
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Ativiya jigucchanīyo jāyati
 
 \begin{english}
@@ -7241,6 +7408,7 @@ Ativiya jigucchanīyo jāyati
 #+end_src
 
 ** Universal Well-Being
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionSubTitle{Mettā-pharaṇa}
@@ -7320,6 +7488,7 @@ Tassa dāy'ādā bhavissanti
 #+end_src
 
 ** The Divine Abidings
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionSubTitle{Brahmavihārā}
@@ -7446,6 +7615,7 @@ Tassa dāy'ādā bhavissanti
 #+end_src
 
 ** Five Subjects for Frequent Reflection
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionSubTitle{Pañca-abhiṇha-paccavekkhaṇā}
@@ -7526,6 +7696,7 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 #+end_src
 
 ** Ten Subjects for Frequent Reflection by One Gone Forth
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionSubTitle{Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā}
@@ -7573,8 +7744,12 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   \end{english-hangtogether-verses}
 \end{english-verses}
 
+\ifasixversion\clearpage\fi
+
 Añño me ākappo karaṇīyo'ti\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
+
+\ifafiveversion\clearpage\fi
 
 \linkdest{endnote101-body}
 \begin{english-verses}
@@ -7620,6 +7795,8 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
     This should be reflected upon again and again by one who has gone forth
   \end{english-hangtogether-verses}
 \end{english-verses}
+
+\ifasixversion\clearpage\fi
 
 \begin{pali-hang}
   Kamma-ssako'mhi kamma-dāy'ādo kamma-yoni kamma-bandhu kamma-paṭisaraṇo
@@ -7708,6 +7885,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 #+end_src
 
 ** The Thirty-Two Body Parts
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionSubTitle{Dvattiṁs'ākāra-paccavekkhaṇa}
@@ -7735,6 +7913,8 @@ Atthi imasmiṁ kāye
 \begin{english}
   In this body there are
 \end{english}
+
+\ifafiveversion
 
 {\centering
   \setArrayStretch{1}
@@ -7785,6 +7965,114 @@ Atthi imasmiṁ kāye
   \restoreArrayStretch
 }
 
+\fi
+
+\ifasixversion
+
+{\centering
+  \setArrayStretch{1}
+
+  \begin{tabular}{ r l }
+    kesā            & \tr{hair of the head} \\
+    lomā            & \tr{hair of the body} \\
+    nakhā           & \tr{nails} \\
+    dantā           & \tr{teeth} \\
+    taco            & \tr{skin} \\
+    maṁsaṁ          & \tr{flesh}\\
+    nahārū          & \tr{sinews} \\
+    aṭṭhī           & \tr{bones} \\
+    aṭṭhimiñjaṁ     & \tr{bone marrow} \\
+    vakkaṁ          & \tr{kidneys} \\
+    hadayaṁ         & \tr{heart} \\
+  \end{tabular}
+  \linkdest{endnote152-body}
+  \linkdest{endnote153-body}
+  \begin{tabular}{ r l }
+    yakanaṁ         & \tr{liver} \\
+    kilomakaṁ       & \tr{membranes} \\
+    pihakaṁ         & \tr{spleen} \\
+    papphāsaṁ       & \tr{lungs} \\
+    antaṁ           & \tr{intestines}\ifdigitalversion\makeatletter\hyperlink{endnote152-appendix}\Hy@raisedlink{{\pagenote{%
+                      \hypertarget{endnote152-appendix}{\hyperlink{endnote152-body}{WPN: ``bowels''}}}}}\fi \\
+    antaguṇaṁ       & \tr{mesentery}\ifdigitalversion\makeatletter\hyperlink{endnote153-appendix}\Hy@raisedlink{{\pagenote{%
+                      \hypertarget{endnote153-appendix}{\hyperlink{endnote153-body}{WPN: ``entrails''}}}}}\fi \\
+    udariyaṁ        & \tr{undigested food} \\
+    karīsaṁ         & \tr{excrement} \\
+    pittaṁ          & \tr{bile} \\
+    semhaṁ          & \tr{phlegm} \\
+    pubbo           & \tr{pus} \\
+    lohitaṁ         & \tr{blood} \\
+    sedo            & \tr{sweat} \\
+    medo            & \tr{fat} \\
+    assu            & \tr{tears} \\
+    vasā            & \tr{grease} \\
+    kheḷo           & \tr{spittle} \\
+    siṅghāṇikā      & \tr{mucus} \\
+    lasikā          & \tr{oil of the joints} \\
+    muttaṁ          & \tr{urine} \\
+    \linkdest{endnote103-body}
+    matthaluṅgan'ti & \tr{brain}\makeatletter\hyperlink{endnote103-appendix}\Hy@raisedlink{{\pagenote{%
+                      \hypertarget{endnote103-appendix}{\hyperlink{endnote103-body}{In the discourses, except for one occasion in the Khp, the brain is not mentioned as a separate organ or body part, making it a list of only 31 body parts.}}}}}\makeatother
+  \end{tabular}
+
+  \restoreArrayStretch
+}
+
+\fi
+
+\ifbsixversion
+
+{\centering
+  \setArrayStretch{1}
+
+  \begin{tabular}{ r l }
+    kesā            & \tr{hair of the head} \\
+    lomā            & \tr{hair of the body} \\
+    nakhā           & \tr{nails} \\
+    dantā           & \tr{teeth} \\
+    taco            & \tr{skin} \\
+    maṁsaṁ          & \tr{flesh}\\
+    nahārū          & \tr{sinews} \\
+    aṭṭhī           & \tr{bones} \\
+    aṭṭhimiñjaṁ     & \tr{bone marrow} \\
+    vakkaṁ          & \tr{kidneys} \\
+    hadayaṁ         & \tr{heart} \\
+    yakanaṁ         & \tr{liver} \\
+    kilomakaṁ       & \tr{membranes} \\
+  \end{tabular}
+  \linkdest{endnote152-body}
+  \linkdest{endnote153-body}
+  \begin{tabular}{ r l }
+    pihakaṁ         & \tr{spleen} \\
+    papphāsaṁ       & \tr{lungs} \\
+    antaṁ           & \tr{intestines}\ifdigitalversion\makeatletter\hyperlink{endnote152-appendix}\Hy@raisedlink{{\pagenote{%
+                      \hypertarget{endnote152-appendix}{\hyperlink{endnote152-body}{WPN: ``bowels''}}}}}\fi \\
+    antaguṇaṁ       & \tr{mesentery}\ifdigitalversion\makeatletter\hyperlink{endnote153-appendix}\Hy@raisedlink{{\pagenote{%
+                      \hypertarget{endnote153-appendix}{\hyperlink{endnote153-body}{WPN: ``entrails''}}}}}\fi \\
+    udariyaṁ        & \tr{undigested food} \\
+    karīsaṁ         & \tr{excrement} \\
+    pittaṁ          & \tr{bile} \\
+    semhaṁ          & \tr{phlegm} \\
+    pubbo           & \tr{pus} \\
+    lohitaṁ         & \tr{blood} \\
+    sedo            & \tr{sweat} \\
+    medo            & \tr{fat} \\
+    assu            & \tr{tears} \\
+    vasā            & \tr{grease} \\
+    kheḷo           & \tr{spittle} \\
+    siṅghāṇikā      & \tr{mucus} \\
+    lasikā          & \tr{oil of the joints} \\
+    muttaṁ          & \tr{urine} \\
+    \linkdest{endnote103-body}
+    matthaluṅgan'ti & \tr{brain}\makeatletter\hyperlink{endnote103-appendix}\Hy@raisedlink{{\pagenote{%
+                      \hypertarget{endnote103-appendix}{\hyperlink{endnote103-body}{In the discourses, except for one occasion in the Khp, the brain is not mentioned as a separate organ or body part, making it a list of only 31 body parts.}}}}}\makeatother
+  \end{tabular}
+
+  \restoreArrayStretch
+}
+
+\fi
+
 \begin{pali-hang}
   Evam'ayaṁ me kāyo uddhaṁ pādatalā adho kesa-matthakā taca-pariyanto pūro nāna-ppakārassa asucino
 \end{pali-hang}
@@ -7805,6 +8093,7 @@ Atthi imasmiṁ kāye
 #+end_src
 
 ** Recollection of Impermanence
+
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \sectionSubTitle{Anicc'ānussati}
@@ -7867,6 +8156,8 @@ Jīvitaṁ me aniyataṁ
   My life is uncertain
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Maraṇaṁ me niyataṁ
 
 \begin{english}
@@ -7875,7 +8166,7 @@ Maraṇaṁ me niyataṁ
 
 \suttaRef{[Dhp A]}
 
-\clearpage
+\ifafiveversion\clearpage\fi
 
 Vata
 
@@ -7969,6 +8260,7 @@ Tesaṁ vūpasamo sukho
 
 * Cardinal Suttas
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas.tex
 
 \ifdigitalversion
@@ -8006,6 +8298,7 @@ Tesaṁ vūpasamo sukho
 #+end_src
 
 ** Dhammacakkappavattana-sutta
+
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/dhammacakkappavattana.tex
 
 \section{Dhammacakkappavattana-sutta}
@@ -8202,6 +8495,7 @@ Atha kho bhagavā udānaṁ udānesi:
 #+end_src
 
 ** The Discourse on Setting in Motion the Wheel of Dhamma
+
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/dhammacakkappavattana-eng.tex
 
 \section{The Discourse on Setting in Motion the Wheel of Dhamma}
@@ -8388,6 +8682,7 @@ Atha kho bhagavā udānaṁ udānesi:
 #+end_src
 
 ** Anatta-lakkhaṇa-sutta
+
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/anattalakkhana.tex
 
 \section{Anatta-lakkhaṇa-sutta}
@@ -8536,6 +8831,8 @@ Atha kho bhagavā udānaṁ udānesi:
   No h'etaṁ bhante
 \end{pali-hangtogether}
 
+\ifasixversion\clearpage\fi
+
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Tasmā't'iha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
@@ -8559,6 +8856,8 @@ Atha kho bhagavā udānaṁ udānesi:
   Yaṅ'kiñci viññāṇaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
 \end{pali-hang}
 
+\ifasixversion\clearpage\fi
+
 \begin{pali-leader}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{pali-leader}
@@ -8578,196 +8877,9 @@ Atha kho bhagavā udānaṁ udānesi:
 
 #+end_src
 
-#+RESULTS:
-#+begin_example
-\section{Anatta-lakkhaṇa-sutta}
-\label{anatta-lakkhana}
-
-\begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader}
-
-\linkdest{endnote107-body}
-\begin{pali-hang}
-  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye \breathmark\ Tatra kho bhagavā pañca-vaggiye bhikkhū āmantesi: {``Bhikkhavo''ti}~\breathmark\ ``Bhadante''ti te bhikkhū bhagavato paccassosuṁ \breathmark\ Bhagavā etad'avoca\makeatletter\hyperlink{endnote107-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote107-appendix}{\hyperlink{endnote107-body}{The following passage is absent in the Thai edition of the \textit{Tipiṭaka}: ``Bhikkhavo'' ti; ``Bhadante'' ti te bhikkhū Bhagavato paccassosuṁ. Bhagavā etad'avoca.}}}}}\makeatother
-\end{pali-hang}
-
-\begin{pali-hang}
-  Rūpaṁ bhikkhave anattā \breathmark\ rūpañ'ca h'idaṁ bhikkhave attā \mbox{abhavissa}~\breathmark\ na'y'idaṁ rūpaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave rūpaṁ anattā \breathmark\ tasmā rūpaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati rūpe \breathmark\ ``Evaṁ me rūpaṁ hotu \breathmark\ evaṁ me rūpaṁ mā ahosī''ti
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Vedanā anattā \breathmark\ vedanā ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ vedanā ābādhāya saṁvatteyya \breathmark\ labbhetha ca vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave vedanā anattā \breathmark\ tasmā vedanā ābādhāya saṁvattati \breathmark\ na ca labbhati vedanāya \breathmark\ ``Evaṁ me vedanā hotu \breathmark\ evaṁ me vedanā mā ahosī''ti
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Saññā anattā \breathmark\ saññā ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ saññā ābādhāya saṁvatteyya \breathmark\ labbhetha ca saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Saṅkhārā anattā \breathmark\ saṅkhārā ca h'idaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave saṅkhārā anattā \breathmark\ tasmā saṅkhārā ābādhāya saṁvattanti \breathmark\ na ca labbhati saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Viññāṇaṁ anattā \breathmark\ viññāṇañ'ca h'idaṁ bhikkhave attā abhavissa \breathmark\ na'y'idaṁ viññāṇaṁ ābādhāya saṁvatteyya \breathmark\ labbhetha ca \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Yasmā ca kho bhikkhave viññāṇaṁ anattā \breathmark\ tasmā viññāṇaṁ ābādhāya saṁvattati \breathmark\ na ca labbhati \mbox{viññāṇe}~\breathmark\ ``Evaṁ me viññāṇaṁ hotu \breathmark\ evaṁ me viññāṇaṁ mā ahosī''ti
-\end{pali-hangtogether}
-
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Taṁ kiṁ maññatha bhikkhave \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
-\begin{pali-hangtogether}
-  Rūpaṁ niccaṁ vā aniccaṁ vā'ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Aniccaṁ bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Dukkhaṁ bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  No h'etaṁ bhante
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Taṁ kiṁ maññatha bhikkhave vedanā niccā vā aniccā vā'ti?
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Aniccā bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Dukkhaṁ bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  No h'etaṁ bhante
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Taṁ kiṁ maññatha bhikkhave saññā niccā vā aniccā vā'ti?
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Aniccā bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Dukkhaṁ bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  No h'etaṁ bhante
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Taṁ kiṁ maññatha bhikkhave saṅkhārā niccā vā aniccā vā'ti?
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Aniccā bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Dukkhaṁ bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  No h'etaṁ bhante
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Taṁ kiṁ maññatha bhikkhave viññāṇaṁ niccaṁ vā aniccaṁ vā'ti?
-\end{pali-hang}
-\begin{pali-hangtogether}
-  Aniccaṁ bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vā taṁ sukhaṁ vā'ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Dukkhaṁ bhante
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  Yam'pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
-\end{pali-hangtogether}
-\begin{pali-hangtogether}
-  No h'etaṁ bhante
-\end{pali-hangtogether}
-
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Tasmā't'iha bhikkhave \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
-\begin{pali-hangtogether}
-  Yaṅ'kiñci rūpaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
-\end{pali-hangtogether}
-
-\begin{pali-hang}
-  Yā kāci vedanā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā vedanā: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
-\end{pali-hang}
-
-\begin{pali-hang}
-  Yā kāci saññā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā vā \breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike vā \breathmark\ sabbā saññā: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
-\end{pali-hang}
-
-\begin{pali-hang}
-  Ye keci saṅkhārā atīt'ānāgata-paccuppannā \breathmark\ ajjhattā vā bahiddhā \mbox{vā}~\breathmark\ oḷārikā vā sukhumā vā \breathmark\ hīnā vā paṇītā vā \breathmark\ yā dūre santike \mbox{vā}~\breathmark\ sabbe saṅkhārā: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
-\end{pali-hang}
-
-\begin{pali-hang}
-  Yaṅ'kiñci viññāṇaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ viññāṇaṁ: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
-\end{pali-hang}
-
-\begin{pali-leader}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
-\end{pali-leader}
-\begin{pali-hangtogether}
-  Sutvā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ `vimuttam'iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
-\end{pali-hangtogether}
-
-\clearpage
-
-\begin{pali-hang}
-  Idam'avoca bhagavā \breathmark\ Attamanā pañca-vaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ \breathmark\ Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ pañca-vaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti
-\end{pali-hang}
-
-\suttaRef{[SN 22.59]}
-
-\bottomNav{striving-according-to-dhamma}
-#+end_example
-
 ** The Discourse on the Characteristic of Not-Self
+
+
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/anattalakkhana-eng.tex
 
 \section{The Discourse on the Characteristic of Not-Self}
@@ -8936,7 +9048,7 @@ Atha kho bhagavā udānaṁ udānesi:
         \hypertarget{endnote112-appendix}{\hyperlink{endnote112-body}{\textit{Kataṁ karaṇīyaṁ, n'āparaṁ itthattāyā’ti} literally means ``What has to be done is done. There is nothing else (to so) for the sake of such a (liberated) state''. For a discussion of this passage see Bhikkhu Bodhi, Middle Length Discourses, \textit{Bhayabheravasutta}, MN 4, footnote 76.}}}}}\makeatother
 \end{english-only-hang}
 
-\clearpage
+\ifafiveversion\clearpage\fi
 
 \begin{english-only-hang}
   That is what the Blessed One said \breathmark\ The bhikkhus of the group of five were glad and they approved of his words \breathmark\ Now during this utterance \breathmark\ the hearts of the bhikkhus of the group of five \breathmark\ were liberated from the taints through the cessation of clinging
@@ -8949,6 +9061,7 @@ Atha kho bhagavā udānaṁ udānesi:
 #+end_src
 
 ** Āditta-pariyāya-sutta
+
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/adittapariyaya.tex
 
 \section{Āditta-pariyāya-sutta}
@@ -9072,6 +9185,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 #+end_src
 
 ** The Fire Sermon
+
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/adittapariyaya-eng.tex
 
 \section{The Fire Sermon}
@@ -9218,6 +9332,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 * Thanksgiving Recitations
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \ifdigitalversion
@@ -9233,6 +9348,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 #+end_src
 
 ** Just as Rivers
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \sectionSubTitle{Yathā vāri-vahā pūrā}
@@ -9439,6 +9555,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Yathā vāri-vahā pūrā
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 % \setsecheadstyle{\subsectionFmt}
@@ -9490,6 +9607,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Ratanattayānubhāv'ādi-gāthā
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 % \setsecheadstyle{\subsectionFmt}
@@ -9527,6 +9645,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Bhojana-dān'ānumodanā
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -9606,6 +9725,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Culla-maṅgala-cakka-vāḷa
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -9658,6 +9778,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Aggappasāda-sutta-gāthā
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -9735,6 +9856,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Kāla-dāna-sutta-gāthā
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -9811,6 +9933,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** So attha-laddho
+
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -9869,6 +9992,7 @@ Sadā sotthī bhavantu te
 
 * Protective Recitations
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \ifdigitalversion
@@ -9884,6 +10008,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Devā-ārādhanā
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -9918,6 +10043,7 @@ Sadā sotthī bhavantu te
   Recite the protective chant with undistracted mind.\\
   Those in the heavens of sensuality \& form,\\
   On peaks \& mountain precipices, in palaces floating in the sky,\\
+  % TODO add mbox to 'in the sky'
   In islands, countries, \& towns,\\
   In groves of trees \& thickets,\\
   Around homesites \& fields.\\
@@ -9935,6 +10061,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Pubba-bhāga-nama-kāra-pāṭho
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -9955,6 +10082,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Saraṇa-gamana-pāṭho
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -10002,6 +10130,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Nama-kāra-siddhi-gāthā
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \begingroup
@@ -10051,6 +10180,8 @@ Sadā sotthī bhavantu te
   Sabb'antarāyā ca vināsam'entu
 \end{pali-hang-continued}
 
+\ifafiveversion\clearpage\fi
+
 \begin{english-verses}
   The Teacher's Dhamma, like a banner,\\
   Shows the path of purity to the world.\\
@@ -10089,6 +10220,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Namo-kāra-aṭṭhaka
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -10153,6 +10285,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Maṅgala-sutta
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -10184,6 +10317,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Asevanā ca bālānaṁ\\
   Paṇḍitānañ'ca sevanā\\
+  \ifasixversion\clearpage\fi
   Pūjā ca pūjanīyānaṁ\\
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
@@ -10226,6 +10360,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Mātā-pitu upaṭṭhānaṁ\\
   Putta-dārassa saṅgaho\\
+  \ifasixversion\clearpage\fi
   Anākulā ca kammantā\\
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
@@ -10268,6 +10403,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Gāravo ca nivāto ca\\
   Santuṭṭhī ca kataññutā\\
+  \ifasixversion\clearpage\fi
   Kālena dhamma-ssavanaṁ\\
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
@@ -10310,6 +10446,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Phuṭṭhassa loka-dhammehi\\
   Cittaṁ yassa na kampati\\
+  \ifasixversion\clearpage\fi
   Asokaṁ virajaṁ khemaṁ\\
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
@@ -10340,6 +10477,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Ratana-sutta
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -10381,6 +10519,8 @@ Sadā sotthī bhavantu te
   Idam'pi buddhe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
+
+\ifasixversion\clearpage\fi
 
 \begin{english-verses}
   Whatever the treasures are here or beyond,\\
@@ -10616,6 +10756,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Yān'īdha bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
+  \ifasixversion\clearpage\fi
   Tathāgataṁ deva-manussa-pūjitaṁ\\
   Saṅghaṁ namassāma suvatthi hotu
 \end{pali-hang-continued}
@@ -10632,6 +10773,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Karaṇīya-metta-sutta
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -10718,6 +10860,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   Another (i.e. one) would not deceive another,\\
   Nor look down upon anyone anywhere;\\
+  \ifasixversion\clearpage\fi
   Nor through anger or hateful perception,\\
   Would wish for one another's suffering.
 \end{english-verses}
@@ -10783,6 +10926,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Khandha-parittaṁ
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -10866,6 +11010,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Katā me rakkhā katā me parittā\\
   Paṭikkamantu bhūtāni\\
+  \ifasixversion\clearpage\fi
   So'haṁ namo bhagavato\\
   Namo sattannaṁ sammā-sambuddhānaṁ.
 \end{pali-hang-continued}
@@ -10883,6 +11028,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Buddha-dhamma-saṅgha-guṇā
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -10964,6 +11110,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Yaṅ'kiñci ratanaṁ loke
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11074,6 +11221,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Bojjh'aṅga-parittaṁ
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11163,6 +11311,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Abhaya-parittaṁ
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11216,6 +11365,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Devatā-uyyojana-gāthā
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11290,6 +11440,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Jaya-maṅgala-aṭṭha-gāthā
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11380,6 +11531,8 @@ Sadā sotthī bhavantu te
   Tan'tejasā bhavatu te jaya-maṅgalāni
 \end{pali-hang-continued}
 
+\ifasixversion\clearpage\fi
+
 \begin{english-verses}
   Saccaka, whose provocative views had abandoned the truth,\\
   Delighting in argument, had become thoroughly blind.\\
@@ -11422,6 +11575,8 @@ Sadā sotthī bhavantu te
   Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 \end{pali-hang-continued}
 
+\ifasixversion\clearpage\fi
+
 \begin{english-verses}
   These eight verses of the Buddha's victory blessings:
   \begin{english-hangtogether-verses}
@@ -11436,6 +11591,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Jaya-parittaṁ
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11529,6 +11685,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Bhavatu-sabba-maṅgalaṁ
+
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11585,6 +11742,7 @@ Sadā sotthī bhavantu te
 
 * Funeral Recitations
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \ifdigitalversion
@@ -11600,6 +11758,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Pubba-bhāga-nama-kāra-pāṭho
+
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11620,6 +11779,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Dhamma-saṅgaṇī-mātikā
+
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11895,6 +12055,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Vipassanā-bhūmi-pāṭho
+
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -11964,6 +12125,7 @@ Sadā sotthī bhavantu te
     The eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mind faculty, faculty of feminity, faculty of masculinity, life faculty, pleasure faculty, pain faculty, happiness faculty, displeasure faculty, equanimity faculty, conviction faculty, energy faculty, mindfulness faculty, concentration faculty, wisdom faculty, the `I am knowing the unknown' faculty, knowledge faculty, the faculty of one with complete knowledge.
   \end{english-hangtogether-verses}
 \end{english-verses}
+% TODO a6 'complete knowledge' is widowed
 
 \suttaRef{[Vibh]}
 
@@ -12087,6 +12249,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Paṭṭhāna-mātikā-pāṭho
+
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -12106,6 +12269,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Adāsi-me ādi gāthā
+
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -12173,6 +12337,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Paṁsu-kūla for the Dead
+
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -12218,6 +12383,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Paṁsu-kūla for the Living
+
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Just as Rivers}
@@ -12243,6 +12409,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Bhavatu-sabba-maṅgalaṁ
+
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
@@ -12302,6 +12469,7 @@ Sadā sotthī bhavantu te
 
 * Sharing of Merits
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \ifdigitalversion
@@ -12315,6 +12483,7 @@ Sadā sotthī bhavantu te
 #+end_src
 
 ** Sharing and Aspirations
+
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \begingroup
@@ -12410,6 +12579,7 @@ Tes'ottam'ānubhāvena mār'okāsaṁ labhantu mā
 #+end_src
 
 ** Sharing of All Merits
+
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \sectionSubTitle{Sabba-patti-dāna}
@@ -12453,6 +12623,8 @@ Pañc'eka-catu-vokārā saṁsarantā bhav'ābhave
 Ñātaṁ ye patti-dānam'me anumodantu te sayaṁ\\
 Ye c'imaṁ nappajānanti devā tesaṁ nivedayuṁ
 
+\ifasixversion\clearpage\fi
+
 \begin{english-verses}
   Those who know my act of dedication\\
   May they all rejoice in it\\
@@ -12479,6 +12651,7 @@ Khema-ppadañ'ca pappontu tesāsā sijjhataṁ subhā
 #+end_src
 
 ** Sharing of Merits with the Departed
+
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \sectionSubTitle{Peta-patti-dāna}
@@ -12510,6 +12683,7 @@ Khema-ppadañ'ca pappontu tesāsā sijjhataṁ subhā
 #+end_src
 
 ** Sharing of Merits with the Devas
+
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \sectionSubTitle{Devata-patti-dāna}
@@ -12566,6 +12740,7 @@ Sabba-sampatti-siddhiyā
 #+end_src
 
 ** The Highest Honour and Aspirations
+
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \sectionSubTitle{Paramāya pūjāyañ'ca paṇidhiñ'ca}
@@ -12681,6 +12856,8 @@ Paramāya pūjāya
   I will be free from birth \breathmark\ ageing \breathmark\ sickness and death
 \end{english}
 
+\ifasixversion\clearpage\fi
+
 Idaṁ me puññaṁ āsavakkhayā-vahaṁ hotu
 
 \begin{english}
@@ -12703,6 +12880,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 * Appendix
 ** Cover/Title
+
 #+begin_src latex :tangle ./tex/appendix.tex
 
 \ifdigitalversion
@@ -12720,6 +12898,7 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 ** Undertaking the Refuges
 *** Undertaking the Three Refuges
+
 #+begin_src latex :tangle ./tex/refuge-trainings.tex
 
 \section{The Refuges and Trainings}
@@ -12764,6 +12943,8 @@ Tatiyam'pi buddhaṁ saraṇaṁ gacchāmi\\
 Tatiyam'pi dhammaṁ saraṇaṁ gacchāmi\\
 Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 
+\ifasixversion\clearpage\fi
+
 \begin{english-verses}
   For the third time, to the Buddha I go for refuge.\\
   For the third time, to the Dhamma I go for refuge.\\
@@ -12789,6 +12970,7 @@ Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 #+end_src
 
 *** Undertaking the Five Trainings
+
 #+begin_src latex :tangle ./tex/refuge-trainings.tex
 
 \begin{center}
@@ -12861,6 +13043,7 @@ Sādhu sādhu sādhu
 #+end_src
 
 *** Undertaking the Eight Trainings
+
 #+begin_src latex :tangle ./tex/refuge-trainings.tex
 
 \begin{center}
@@ -12965,6 +13148,7 @@ Sādhu sādhu sādhu
 #+end_src
 
 ** Pāli Phonetics and Pronunciation
+
 #+begin_src latex :tangle ./tex/phonetics-pronunciation.tex
 
 \section{Pāli Phonetics and Pronunciation}
@@ -13001,17 +13185,21 @@ Sādhu sādhu sādhu
   }
 \end{table}
 
-% \vspace{-0.5cm}
+\ifasixversion\vspace{-0.3cm}\fi
 
 \begin{justify}
   Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifi\prul{c}ations:
 \end{justify}
 
-\medskip
+\ifafiveversion\medskip\fi
+\ifasixversion\vspace{-0.5cm}\fi
 
-\begin{center}
-  \textbf{\ifafiveversion\fontsize{14}{18}\fi\ifasixversion\fontsize{10}{13}\fi\textsc{Vowels}}
-\end{center}
+% \begin{center}
+%   \textbf{\ifdigitalversion\fi\ifafiveversion\fontsize{14}{18}\fi\ifasixversion\fontsize{10}{13}\fi\textsc{Vowels}}
+% \end{center}
+% TODO either color the text above or
+\ifafiveversion\subsection*{\textcolor{sbs-brown}{Vowels}}\fi
+\ifasixversion\subsection*{{Vowels}}\fi
 
 \begin{table}[H]
   \centering
@@ -13032,15 +13220,21 @@ Sādhu sādhu sādhu
   Long vowels are pronounced as above, but are held for twice the length of their short counterparts. By default \textbf{e} and \textbf{o} are long vowels, but they become short if followed by double consonants e.g. \textit{mettā}, \textit{sotthi}. In such a case they are pronounced short as in ``pet'' and ``soft'' respectively.
 \end{justify}
 
+\ifasixversion\vspace{-0.5cm}\fi
+
 \begin{justify}
   Contrary to English language, Pāli does not contain diphthongs i.e. a combination of two vowels in a single syllable, in which the sound begins as one vowel and moves towards another (as in coin, loud, and side). Pāli vowels therefore sound more similar to the vowels \textbf{a}, \textbf{e}, \textbf{i}, \textbf{o}, \textbf{u} of e.g. German language.
 \end{justify}
+
+\ifasixversion\vspace{-0.5cm}\fi
 
 \subsection*{Consonants}
 
 \begin{justify}
   Pāli consonants are mostly pronounced as one would expect, but with a few additional rules:  Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. ``\textit{jivhā}''or ``\textit{taṇhā}'').  Examples: \textbf{th} as in ``Thomas'' (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
 \end{justify}
+
+\ifasixversion\vspace{-0.5cm}\fi
 
 \begin{justify}
   \textbf{ḍ}, \textbf{ḍh}, \textbf{ḷ}, \textbf{ḷh}, \textbf{ṇ}, \textbf{ṭ}, \textbf{ṭh}\\
@@ -13054,9 +13248,13 @@ Sādhu sādhu sādhu
   The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'' is pronounced as in ``ca\textbf{ny}on''; the pure nasal ``\textbf{ṁ}'' and voiced nasal ``\textbf{ṅ}'' are pronounced as in ``su\textbf{ng}''.
 \end{justify}
 
+\ifasixversion\vspace{-0.5cm}\fi
+
 \begin{justify}
   As an aid to understanding, \textbf{hyphens} (-) have often been inserted in longer Pāli compounds, in order to indicate the separate words that make up the compound. This should not affect the pronunciation during recitation in any way. In order not to suggest unintended pauses in the flow of the recitation, punctuation marks (commas, periods, colons and semicolons) were removed for most chants. \textbf{Line breaks} within a sentence indicate that a short breathing pause is inserted, but indented line breaks indicate that recitation continues without a breathing pause.
 \end{justify}
+
+\ifasixversion\vspace{-0.5cm}\fi
 
 \begin{justify}
   Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously according to one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
@@ -13067,6 +13265,7 @@ Sādhu sādhu sādhu
 #+end_src
 
 ** Chanting Leader Guidelines
+
 #+begin_src latex :tangle ./tex/guidelines.tex
 
 \section{Chanting Leader Guidelines}
@@ -13077,6 +13276,7 @@ Sādhu sādhu sādhu
 
 The following points should be considered:
 
+\ifafiveversion
 \begin{itemize}
   \item Accurate Pāli Pronunciation
   \item Sufficient Audibility and Volume
@@ -13086,6 +13286,31 @@ The following points should be considered:
   \item Pitch Consistency
   \item Continuity
 \end{itemize}
+\fi
+
+\ifasixversion
+\begin{packeditemize}
+  \item Accurate Pāli Pronunciation
+  \item Sufficient Audibility and Volume
+  \item Determining a Suitable Tempo
+  \item Tempo Consistency
+  \item Determining a Suitable Pitch
+  \item Pitch Consistency
+  \item Continuity
+\end{packeditemize}
+\fi
+
+\ifbsixversion
+\begin{packeditemize}
+  \item Accurate Pāli Pronunciation
+  \item Sufficient Audibility and Volume
+  \item Determining a Suitable Tempo
+  \item Tempo Consistency
+  \item Determining a Suitable Pitch
+  \item Pitch Consistency
+  \item Continuity
+\end{packeditemize}
+\fi
 
 \subsection*{Accurate Pāli Pronunciation}
 \begin{justify}
@@ -13136,6 +13361,7 @@ The following points should be considered:
 #+end_src
 
 * Copyright Details
+
 #+begin_src latex :tangle ./tex/copyright-details.tex
 
 \clearpage
@@ -13143,17 +13369,21 @@ The following points should be considered:
 
 {%
 
-  \ifasixversion\fontsize{11}{17}\selectfont\fi%
-  \ifasixversion\fontsize{8}{12}\selectfont\fi%
+  \ifafiveversion\fontsize{11}{17}\selectfont\fi%
+  \ifasixversion\fontsize{8}{11}\selectfont\fi%
+  \ifbsixversion\fontsize{8}{11}\selectfont\fi%
 
   \setlength{\parindent}{0pt}%
   \raggedright\label{copyright-details}%
-  \setlength{\parskip}{4.5pt}%
+  \ifafiveversion\setlength{\parskip}{4.5pt}\fi%
+  \ifasixversion\setlength{\parskip}{2.5pt}\fi%
+  \ifbsixversion\setlength{\parskip}{2.5pt}\fi%
 
   {\centering
 
     \ifafiveversion{\fontsize{25}{18}\selectfont \ccbyncnd}\fi
-    \ifasixversion{\fontsize{18}{12}\selectfont \ccbyncnd}\fi
+    \ifasixversion{\fontsize{18}{10}\selectfont \ccbyncnd}\fi
+    \ifbsixversion{\fontsize{18}{12}\selectfont \ccbyncnd}\fi
 
     \vspace{0.5cm}
 
@@ -13161,7 +13391,7 @@ The following points should be considered:
     Attribution-NonCommercial-NoDerivatives 4.0 International~License.\\
     \href{https://creativecommons.org/licenses/by-nc-nd/4.0/}{https://creativecommons.org/licenses/by-nc-nd/4.0/}
 
-    \vspace{0.5cm}
+    \vspace{0.4cm}
 
   }
 
@@ -13179,7 +13409,7 @@ The following points should be considered:
     \item \textbf{NoDerivatives} — If you remix, transform, or build upon the material, you may not distribute the modified material.
   \end{packeditemize}
 
-  \vspace{0.5cm}
+    \vspace{0.5cm}
 
   No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
