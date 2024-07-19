@@ -1,9 +1,9 @@
-
 \section{Pāli Phonetics and Pronunciation}
 \label{phonetics}
 
 % the wizardry that brought about this table
 % https://tex.stackexchange.com/users/264581/paladhammika
+% TODO I removed justify from here onwards, the format will change check a6 and a5
 
 \begin{table}[ht]
   \centering
@@ -33,21 +33,14 @@
   }
 \end{table}
 
-\ifasixversion\vspace{-0.3cm}\fi
+%% \ifasixversion\vspace{-0.5cm}\fi
+%% \ifbsixversion\vspace{-0.5cm}\fi
 
-\begin{justify}
-  Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifi\prul{c}ations:
-\end{justify}
+Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
 
-\ifafiveversion\medskip\fi
-\ifasixversion\vspace{-0.5cm}\fi
-
-% \begin{center}
-%   \textbf{\ifdigitalversion\fi\ifafiveversion\fontsize{14}{18}\fi\ifasixversion\fontsize{10}{13}\fi\textsc{Vowels}}
-% \end{center}
-% TODO either color the text above or
-\ifafiveversion\subsection*{\textcolor{sbs-brown}{Vowels}}\fi
-\ifasixversion\subsection*{{Vowels}}\fi
+\ifafiveversion\medskip\subsection*{\textcolor{sbs-brown}{Vowels}}\fi
+\ifasixversion\vspace{-0.5cm}\subsection*{Vowels}\fi
+\ifbsixversion\subsection*{Vowels}\fi
 
 \begin{table}[H]
   \centering
@@ -57,56 +50,46 @@
     \textbf{a} as in magm\prul{a} & \textbf{ā} as in f\prul{a}ther\\
     \textbf{i} as in \prul{i}ll   & \textbf{ī} as in l\prul{i}ter\\
     \textbf{u} as in p\prul{u}t   & \textbf{ū} as in h\prul{u}la hoop\\
-                 & \textbf{e} as in b\prul{e}d\\
-                 & \textbf{o} as in f\prul{o}r
+    & \textbf{e} as in b\prul{e}d\\
+    & \textbf{o} as in f\prul{o}r
   \end{tabular}
 \end{table}
 
-\clearpage
+\ifafiveversion\clearpage\fi
+\ifasixversion\clearpage\fi
 
-\begin{justify}
-  Long vowels are pronounced as above, but are held for twice the length of their short counterparts. By default \textbf{e} and \textbf{o} are long vowels, but they become short if followed by double consonants e.g. \textit{mettā}, \textit{sotthi}. In such a case they are pronounced short as in ``pet'' and ``soft'' respectively.
-\end{justify}
+Long vowels are pronounced as above, but are held for twice the length of their short counterparts. By default \textbf{e} and \textbf{o} are long vowels, but they become short if followed by double consonants e.g. \textit{mettā}, \textit{sotthi}. In such a case they are pronounced short as in ``pet'' and ``soft'' respectively.
 
 \ifasixversion\vspace{-0.5cm}\fi
 
-\begin{justify}
-  Contrary to English language, Pāli does not contain diphthongs i.e. a combination of two vowels in a single syllable, in which the sound begins as one vowel and moves towards another (as in coin, loud, and side). Pāli vowels therefore sound more similar to the vowels \textbf{a}, \textbf{e}, \textbf{i}, \textbf{o}, \textbf{u} of e.g. German language.
-\end{justify}
+Contrary to English language, Pāli does not contain diphthongs i.e. a combination of two vowels in a single syllable, in which the sound begins as one vowel and moves towards another (as in coin, loud, and side). Pāli vowels therefore sound more similar to the vowels \textbf{a}, \textbf{e}, \textbf{i}, \textbf{o}, \textbf{u} of e.g. German language.
 
 \ifasixversion\vspace{-0.5cm}\fi
 
 \subsection*{Consonants}
 
-\begin{justify}
-  Pāli consonants are mostly pronounced as one would expect, but with a few additional rules:  Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. ``\textit{jivhā}''or ``\textit{taṇhā}'').  Examples: \textbf{th} as in ``Thomas'' (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
-\end{justify}
+Pāli consonants are mostly pronounced as one would expect, but with a few additional rules:  Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. ``\textit{jivhā}''or ``\textit{taṇhā}'').  Examples: \textbf{th} as in ``Thomas'' (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
+
 
 \ifasixversion\vspace{-0.5cm}\fi
 
-\begin{justify}
-  \textbf{ḍ}, \textbf{ḍh}, \textbf{ḷ}, \textbf{ḷh}, \textbf{ṇ}, \textbf{ṭ}, \textbf{ṭh}\\
-  These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the palate.
-\end{justify}
 
-\clearpage
+\textbf{ḍ}, \textbf{ḍh}, \textbf{ḷ}, \textbf{ḷh}, \textbf{ṇ}, \textbf{ṭ}, \textbf{ṭh}\\
+These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the palate.
+
+\ifafiveversion\clearpage\fi
+\ifasixversion\clearpage\fi
 
 \subsection*{Miscellaneous}
-\begin{justify}
-  The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'' is pronounced as in ``ca\textbf{ny}on''; the pure nasal ``\textbf{ṁ}'' and voiced nasal ``\textbf{ṅ}'' are pronounced as in ``su\textbf{ng}''.
-\end{justify}
+
+The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'' is pronounced as in ``ca\textbf{ny}on''; the pure nasal ``\textbf{ṁ}'' and voiced nasal ``\textbf{ṅ}'' are pronounced as in ``su\textbf{ng}''.
 
 \ifasixversion\vspace{-0.5cm}\fi
 
-\begin{justify}
-  As an aid to understanding, \textbf{hyphens} (-) have often been inserted in longer Pāli compounds, in order to indicate the separate words that make up the compound. This should not affect the pronunciation during recitation in any way. In order not to suggest unintended pauses in the flow of the recitation, punctuation marks (commas, periods, colons and semicolons) were removed for most chants. \textbf{Line breaks} within a sentence indicate that a short breathing pause is inserted, but indented line breaks indicate that recitation continues without a breathing pause.
-\end{justify}
+As an aid to understanding, \textbf{hyphens} (-) have often been inserted in longer Pāli compounds, in order to indicate the separate words that make up the compound. This should not affect the pronunciation during recitation in any way. In order not to suggest unintended pauses in the flow of the recitation, punctuation marks (commas, periods, colons and semicolons) were removed for most chants. \textbf{Line breaks} within a sentence indicate that a short breathing pause is inserted, but indented line breaks indicate that recitation continues without a breathing pause.
 
 \ifasixversion\vspace{-0.5cm}\fi
 
-\begin{justify}
-  Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously according to one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
-\end{justify}
+Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously according to one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
 
 \clearpage
-

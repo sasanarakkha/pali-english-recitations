@@ -53,7 +53,8 @@
 \newenvironment{leader}%
 {\list{}{%
     \parskip 4pt%
-    \topsep 0pt%
+    \topsep -2pt%
+    % topsep ensure that this change in topsep is appropriate
     \listparindent 0em%
     \itemindent    0pt%
     \leftmargin    0pt %\leaderIndent%
@@ -447,9 +448,7 @@
 
 % Redefine the formatting for endnotes
 \renewcommand{\prenoteinnotes}{%
-    \ifafiveversion\small\par\noindent\fi%
-    \ifasixversion\tiny\par\setlength{\parskip}{3pt}\noindent\fi%
-    \ifbsixversion\small\par\noindent\fi%
+    \tiny\par\setlength{\parskip}{3pt}\noindent%
     }%
 \renewcommand{\noteidinnotes}[2]{% {notenum}{id}
     \begin{adjustwidth}{14pt}{0pt}%

@@ -291,10 +291,10 @@
 \ifasixversion\newcommand{\chapterNumberSize}{\@setfontsize         \chapterNumberSize        {14}{14}}\fi
 \ifbsixversion\newcommand{\chapterNumberSize}{\@setfontsize         \chapterNumberSize        {14}{14}}\fi
 
-% Chapter title size
+% Chapter title size ie 'Recitation Schedule, Purpose and Benefits...'
 \ifafiveversion\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {19}{19}}\fi
 \ifasixversion\newcommand{\chapterTitleSize}{\@setfontsize          \chapterTitleSize         {14}{14}}\fi
-\ifbsixversion\newcommand{\chapterTitleSize}{\@setfontsize          \chapterTitleSize         {13.5}{13.5}}\fi
+\ifbsixversion\newcommand{\chapterTitleSize}{\@setfontsize          \chapterTitleSize         {18}{18}}\fi
 
 % Chapter title footnote size
 \ifafiveversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}\fi
@@ -313,12 +313,12 @@
 % Footer size
 \ifafiveversion\newcommand{\footerSize}{\@setfontsize               \footerSize               {11}{8}}\fi
 \ifasixversion\newcommand{\footerSize}{\@setfontsize                \footerSize               {8}{6}}\fi
-\ifbsixversion\newcommand{\footerSize}{\@setfontsize                \footerSize               {8}{6}}\fi
-
+\ifbsixversion\newcommand{\footerSize}{\@setfontsize                \footerSize               {10}{8}}\fi
+% TODO alter footer font height for a6
 % Header size
 \ifafiveversion\newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{2}}\fi
 \ifasixversion\newcommand{\headerSize}{\@setfontsize                \headerSize               {8}{1.5}}\fi
-\ifbsixversion\newcommand{\headerSize}{\@setfontsize                \headerSize               {8}{1.5}}\fi
+\ifbsixversion\newcommand{\headerSize}{\@setfontsize                \headerSize               {9}{1.5}}\fi
 
 % Table of Contents size
 \ifafiveversion\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {19}{14}}\fi
@@ -329,7 +329,7 @@
 % e.g. 'Dedication of Offerings'
 \ifafiveversion\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}\fi
 \ifasixversion\newcommand{\tocSectionSize}{\@setfontsize            \tocSectionSize           {9}{11}}\fi
-\ifbsixversion\newcommand{\tocSectionSize}{\@setfontsize            \tocSectionSize           {9}{11}}\fi
+\ifbsixversion\newcommand{\tocSectionSize}{\@setfontsize            \tocSectionSize           {11}{15}}\fi
 
 % Subsection font size in Table of Contents
 % e.g. 'Undertaking the Three Refuges'
@@ -673,7 +673,7 @@
 % Define a command for sutta references
 \newcommand{\suttaRef}[1]{%
 	\vspace{-6pt}% Adjusts vertical spacing for sutta references
-	\hfill {\ifafiveversion\fontsize{8}{16}\fi\ifasixversion\fontsize{6}{11}\fi\ifbsixversion\fontsize{6}{11}\fi\selectfont #1\par}% Sets sutta reference in smaller font size
+	\hfill {\ifafiveversion\fontsize{8}{16}\fi\ifasixversion\fontsize{6}{11}\fi\ifbsixversion\fontsize{7}{11}\fi\selectfont #1\par}% Sets sutta reference in smaller font size
 }
 
 % Redefine the quote environment for longer sutta and book quotes
@@ -681,7 +681,7 @@
 {\list{}{% Begins a list for the quote environment
 		\itshape% Sets quote in italics
 		\ifasixversion\fontsize{8.25}{12}\selectfont\fi% Sets font size for quote title
-		\ifbsixversion\fontsize{9}{13}\selectfont\fi% Sets font size for quote title
+		% \ifbsixversion\fontsize{9}{13}\selectfont\fi% Sets font size for quote title
 		\listparindent 0pt% Sets paragraph indentation within the list
 		\itemindent    \listparindent% Sets item indentation within the list
 		\leftmargin    \quoteMargin% Sets left margin for the quote
@@ -1175,10 +1175,10 @@
 {
   \ifafiveversion\addvspace{15pt}\fi%
   \ifasixversion\addvspace{8pt}\fi%
-  \ifbsixversion\addvspace{10pt}\fi%
+  \ifbsixversion\addvspace{8pt}\fi%
 	\ifafiveversion\tocFont\bfseries\scshape\fontsize{14}{15}\selectfont\fi%
-	\ifasixversion\tocFont\bfseries\scshape\fontsize{9.5}{11}\selectfont\fi%
-	\ifbsixversion\tocFont\bfseries\scshape\fontsize{10}{11}\selectfont\fi}%
+	\ifasixversion\tocFont\bfseries\scshape\fontsize{9.5}{12}\selectfont\fi%
+	\ifbsixversion\tocFont\bfseries\scshape\fontsize{11.5}{16}\selectfont\fi}%
 {%
 	\contentsmargin{0pt}%
 	\thecontentslabel.\space%
@@ -1188,7 +1188,7 @@
 {\contentsmargin{0pt}%
 }
 % Changes the size of the page number for chapter headings in ToC
-{\hfill\tocFont\ifafiveversion\fontsize{14}{15}\fi\ifasixversion\fontsize{9.5}{10.5}\fi\ifbsixversion\fontsize{10}{13}\fi\selectfont\thecontentspage}
+{\hfill\tocFont\ifafiveversion\fontsize{14}{15}\fi\ifasixversion\fontsize{9.5}{10.5}\fi\ifbsixversion\fontsize{11.5}{15}\fi\selectfont\thecontentspage}
 [\addvspace{1pt}]
 
 % Changes section/chant formatting in ToC e.g. 'Dedication of Offerings'
@@ -1196,7 +1196,7 @@
 {
   \ifafiveversion\addvspace{4pt}\fi%
   \ifasixversion\addvspace{3pt}\fi%
-  \ifbsixversion\addvspace{4pt}\fi%
+  \ifbsixversion\addvspace{2pt}\fi%
 	\libertinusFont\tocSectionSize}%
 {%
 	\contentsmargin{0pt}%
@@ -1235,6 +1235,7 @@
 {\hfill\libertinusFont\tocSectionSize\upshape\selectfont\thecontentspage}
 
 % Change the appearance of appendix entries in the table of contents
+% TODO is the vspace needed in a5 and a6?
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
 	\tocFont\bfseries\ifafiveversion\fontsize{11}{15}\fi\ifasixversion\fontsize{8}{11}\fi\ifbsixversion\fontsize{8}{11}\fi\selectfont}%
@@ -1481,7 +1482,7 @@
 		\sectionFont\fontsize{11.5}{11.5}\selectfont%
 	\fi
 	\ifbsixversion
-		\sectionFont\fontsize{11.5}{11.5}\selectfont%
+		\sectionFont\fontsize{13}{13}\selectfont%
 	\fi
 	% \setlength{\parskip}{2pt}%
 	%
@@ -1544,8 +1545,8 @@
 			% font size for subTitle
 			\color{black}
 			\ifafiveversion\fontsize{12}{14}\selectfont\fi
-			\ifasixversion\fontsize{9.5}{14}\selectfont\fi
-			\ifbsixversion\fontsize{9.5}{14}\selectfont\fi
+			\ifasixversion\fontsize{9}{14}\selectfont\fi
+			\ifbsixversion\fontsize{11}{14}\selectfont\fi
 			\@secSubTitle%
 			\sectionSubTitleClear%
 		}%
@@ -1582,12 +1583,12 @@
 			\pgfornament[color=black,width=7cm,scale=1,ydelta=24pt,symmetry=c]{88}%
 		\fi
 		\ifasixversion
-			\pgfornament[color=black,width=5.5cm,scale=1,ydelta=15pt,symmetry=c]{88}%
+			\pgfornament[color=black,width=5cm,scale=1,ydelta=15pt,symmetry=c]{88}%
 			% TODO tweak to get more homogenous spacing
 			\vspace*{-0.2\baselineskip}
 		\fi
 		\ifbsixversion
-			\pgfornament[color=black,width=5.5cm,scale=1,ydelta=18pt,symmetry=c]{88}%
+			\pgfornament[color=black,width=6.5cm,scale=1,ydelta=20pt,symmetry=c]{88}%
 		\fi
 	\end{minipage}%
 	% Something is causing this bracket unbalance but it doesn't break the build.
@@ -1599,7 +1600,7 @@
 	{%
 			\ifafiveversion\subSectionFont\fontsize{14}{18}\selectfont\fi%
 			\ifasixversion\subSectionFont\fontsize{10}{14}\selectfont\fi%
-			\ifbsixversion\subSectionFont\fontsize{10}{14}\selectfont\fi%
+			\ifbsixversion\subSectionFont\fontsize{12}{16}\selectfont\fi%
 			\scshape\bfseries%
 			\centering
 			\hyperref[schedule]{%
@@ -1805,8 +1806,8 @@
 \ifbsixversion
 
 	% A6 adjusted font size and line height
-	\def\BOOK@fontSizePt{9}
-	\def\BOOK@lineHeightPt{14}
+	\def\BOOK@fontSizePt{11}
+	\def\BOOK@lineHeightPt{18}
 
 	% Redefine the \normalsize command to set font size and line height
 	\renewcommand{\normalsize}{%
@@ -1833,8 +1834,8 @@
 	%%%%%%%%%%%%%%%% Setup Page Layout %%%%%%%%%%%%%%%%
 
 	% B6 page size
-	\setlength{\BOOK@paperHeight}{148mm}
-	\setlength{\BOOK@paperWidth}{105mm}
+	\setlength{\BOOK@paperHeight}{176mm}
+	\setlength{\BOOK@paperWidth}{125mm}
 
 	\ifshowtrims
 		\stockaiv% use A4 paper size to show trims
@@ -1856,18 +1857,18 @@
 	% \setbinding{#1}
 
 	% Page Margins
-	\settypeblocksize{25\baselineskip + \topskip}{85mm}{*}
-	\setlrmargins{*}{10mm}{*} % Adjusted for equal left and right margins
-	\setulmargins{*}{10mm}{1} % Adjusted for equal top and bottom margins
-	\setmarginnotes{6pt}{12pt}{5pt}
+% Adapted for B6 size (125mm x 176mm)
+\settypeblocksize{23.25\baselineskip + \topskip}{100mm}{*} % Increased width
+\setlrmargins{*}{12mm}{*} % Adjusted for equal left and right margins, increased margin size
+\setulmargins{*}{12mm}{1} % Adjusted for equal top and bottom margins, increased upper margin
+\setmarginnotes{6pt}{12pt}{5pt}
 
-	\setlength{\footskip}{12pt}
+\setlength{\footskip}{12pt}
 
-	% Adjust spacing to avoid warning
-	% Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
-	\addtolength{\headheight}{5pt}
-	\addtolength{\headsep}{-11pt}
-
+% Adjust spacing to avoid warning
+% Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt)
+\addtolength{\headheight}{5pt}
+\addtolength{\headsep}{-11pt}
 \fi
 
 % Increase overfull and underfull tolerance to avoid too many warnings such as
