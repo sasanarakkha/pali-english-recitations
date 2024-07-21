@@ -65,14 +65,14 @@
 - [[#cardinal-suttas][Cardinal Suttas]]
   - [[#covertitle-4][Cover/Title]]
   - [[#dhammacakkappavattana-sutta][Dhammacakkappavattana-sutta]]
-  - [[#the-discourse-on-setting-in-motion-the-wheel-of-dhamma][The Discourse on Setting in Motion the Wheel of Dhamma]]
+  - [[#the-discourse-on-turning-the-wheel-of-dhamma][The Discourse on Turning the Wheel of Dhamma]]
   - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa-sutta]]
   - [[#the-discourse-on-the-characteristic-of-not-self][The Discourse on the Characteristic of Not-Self]]
   - [[#āditta-pariyāya-sutta][Āditta-pariyāya-sutta]]
-  - [[#the-fire-sermon][The Fire Sermon]]
+  - [[#the-discourse-on-the-exposition-on-burning][The Discourse on the Exposition on Burning]]
 - [[#thanksgiving-recitations][Thanksgiving Recitations]]
   - [[#covertitle-5][Cover/Title]]
-  - [[#just-as-rivers][Just as Rivers]]
+  - [[#just-as-rivers-full-of-water][Just as Rivers Full of Water]]
   - [[#yathā-vāri-vahā-pūrā][Yathā vāri-vahā pūrā]]
   - [[#ratanattayānubhāvādi-gāthā][Ratanattayānubhāv'ādi-gāthā]]
   - [[#bhojana-dānānumodanā][Bhojana-dān'ānumodanā]]
@@ -180,7 +180,8 @@
 \cleartoverso
 \thispagestyle{empty}
 
-\vspace*{-\baselineskip}
+% why when where how did this get here?
+%% \vspace*{-\baselineskip}
 
 {%
 
@@ -214,7 +215,8 @@
   at the following address:\\
   \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
 
-  Accompanying audio recordings can be found at...
+  “Accompanying audio recordings can be found at: www.youtube.com/SasanarakkhaBuddhistSanctuary”
+  \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
 
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.4cm} \fi
@@ -471,7 +473,7 @@ After finding the path to \textit{Nibbāna} and some initial hesitation, the Bud
 During that period of ancient India, religious texts were not commonly written down. Even for the purpose of ordinary education, most learning occurred through memorization. Writing was known but not used for religious texts which were considered too sacred to be put into writing; instead they were meant to live in the minds and hearts of those who saw their value, and made the effort to memorize them. In particular, the Brahmins were known for their proficiency in committing their corpus of sacred texts (\textit{Vedas}) to memory and maintaining them with astonishing accuracy. Part of their skill can be attributed to the fact that memorization started from a young age. Likewise, also in Buddhist literature we can discover clear traces of standardization and mnemonic tools to ensure accuracy and to make memorization easier. In particular, the use of recurring stock phrases makes it easier to commit a large corpus of texts to memory (Anālayo, 2019). There is not much known about the specific teachings shared with their audience by the first arahants who went out to teach the Dhamma. But it is fair to assume that they took some teachings with them that were brief and easy to memorize. Let us also keep in mind that the Buddha's disciples were not trained in memorization from childhood, but they came from all walks of life – young, old, educated, uneducated etc. Only when the Saṅgha had grown in size, monks who specialized in recitation travelled all across India and shared the Buddha's teachings with those eager to hear them (Analayo, 2007).
 
 A passage that illustrates the Buddha's own appreciation of recitation stems from a conversation he had with a monk who had gone forth just recently. Without warning, the Buddha asked him to recite the Dhamma. The newly ordained monk recited the \textit{Aṭṭhakavagga} of \textit{Sutta Nipāta} (Ud 5.6). The Buddha was pleased and complimented the monk on his skills in remembering, keeping in mind, articulating, and enunciating the texts. This highlights the Buddha's emphasis that recitation of the Dhamma was meant to be taken seriously by his ordained disciples.
-% TODO why are these page breaking?
+
 \subsection*{The Workings of Memory}
 
 Contrary to our intuition, memory doesn't function like a scanner or copying machine that takes a snapshot of a text or event, and saves it for later. Instead, anecdotal memory works in a relational manner. The brain links new information that comes in through any of the six senses to concepts based on memories from the past. We understand new things in the light of and from the perspective of, things we already know. Likewise, we ``remember'' old things through the filters and biases of the present moment. ``It is so natural for us to draw inferences that we are often unaware that we are doing so'' (Eysenck, 1992/2005). This interplay between past and present gives our memory great potential due to its seemingly unlimited storage capacity (the Buddha recollected past lifetimes from memory, counting back many eons of world-dissolution and evolution). At the same time the interplay between past and future also makes memory inherently unreliable. The importance of memorization becomes clear. When texts are memorized literally, personal interpretation, biases, and coloring by past experiences and present circumstances have less opportunity to distort the information. Accuracy increases further if one checks the memorized text from time to time against its original, either by looking it up in a book, or by reciting it together with others. In this way, differences become apparent straight away.
@@ -600,26 +602,24 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 \chapter{Abbreviations}
 \label{abbreviations}
 
-% TODO Only recited and Breathing are misalgined
 \ifafiveversion
 \begin{tabular}{@{}ll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.30mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{1.45mm}Breathing pause \\
 \end{tabular}
 \fi
 
-% TODO hspace for a6 is 0.12cm
 \ifasixversion
 \begin{tabular}{@{}ll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.70mm}\anglebracketright\ & \hspace{1.0mm}Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & \hspace{1.05mm}Breathing pause \\
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.70mm}\anglebracketright\ & \hspace{0.90mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{0.90mm}Breathing pause \\
 \end{tabular}
 \fi
 
 \ifbsixversion
 \begin{tabular}{@{}ll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.85mm}Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & \hspace{2.00mm}Breathing pause \\
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{1.40mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{1.60mm}Breathing pause \\
 \end{tabular}
 \fi
 
@@ -3349,14 +3349,14 @@ Maraṇam'pi dukkhaṁ
   And death is dukkha
 \end{english}
 
-Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
+%% Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
-\linkdest{endnote53-body}
-\begin{english}
-  Sorrow lamentation pain displeasure\ifdigitalversion\makeatletter\hyperlink{endnote53-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote53-appendix}{\hyperlink{endnote53-body}{WPN: ``grief''}}}}}\makeatother \thinspace\fi
-  and despair are dukkha
-\end{english}
+%% \linkdest{endnote53-body}
+%% \begin{english}
+%%   Sorrow lamentation pain displeasure\ifdigitalversion\makeatletter\hyperlink{endnote53-appendix}\Hy@raisedlink{{\pagenote{%
+%%         \hypertarget{endnote53-appendix}{\hyperlink{endnote53-body}{WPN: ``grief''}}}}}\makeatother \thinspace\fi
+%%   and despair are dukkha
+%% \end{english}
 
 Appiyehi sampayogo dukkho
 
@@ -3871,8 +3871,6 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 
 \suttaRef{[MN 27 / 38 / 51]}
 
-% TODO condtionalizsing these mboxes will eb painful
-
 \begin{english-only-justify}
   ``Now is it possible Master Gotama \breathmark\ to describe a gradual \mbox{training}~\breathmark\ gradual practice \breathmark\ and gradual progress in this Dhamma and Vinaya?''
 \end{english-only-justify}
@@ -3992,8 +3990,6 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \end{english-only-justify}
 
 \suttaRef{[MN 27 / 38 / 51]}
-
-% TODO condtionalizsing these mboxes will eb painful
 
 \begin{english-only-justify}
   ``Now is it possible Master Gotama \breathmark\ to describe a gradual \mbox{training}~\breathmark\ gradual practice \breathmark\ and gradual progress in this Dhamma and Vinaya?''
@@ -4717,7 +4713,18 @@ Vāyamati\\
 Vīriyaṁ ārabhati\\
 Cittaṁ paggaṇhāti padahati
 
-% TODO needs a hang together verses
+\ifbsixversion
+\begin{english-verses}
+  \begin{english-hang-firstline}
+  He awakens zeal for the abandoning of arisen evil unwholesome states\\
+  \end{english-hang-firstline}
+  He puts forth effort\\
+  Arouses energy\\
+  \ifbsixversion\clearpage\fi
+  Exerts his mind\\
+  And strives
+\end{english-verses}
+\else
 \begin{english-verses}
   He awakens zeal for the abandoning of arisen evil unwholesome states\\
   He puts forth effort\\
@@ -4726,6 +4733,7 @@ Cittaṁ paggaṇhāti padahati
   Exerts his mind\\
   And strives
 \end{english-verses}
+\fi
 
 Anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya\\
 Chandaṁ janeti\\
@@ -4861,7 +4869,7 @@ Vineyya loke abhijjhā-domanassaṁ
 \end{english}
 
   \ifbsixversion\clearpage\fi
- 
+
 Ayaṁ vuccati bhikkhave sammā-sati
 
 \begin{english}
@@ -6134,7 +6142,7 @@ Ye kho tvaṁ gotamī dhamme jāneyyāsi:
 Ime dhammā virāgāya saṁvattanti no sarāgāya
 
 \begin{english}
-  `They lead to dispassion \breathmark\ not to passion
+  ``They lead to dispassion \breathmark\ not to passion
 \end{english}
 
   \ifbsixversion\clearpage\fi
@@ -6178,7 +6186,7 @@ Vīriy'ārambhāya saṁvattanti no kosajjāya
 Subharatāya saṁvattanti no dubbharatāyā'ti
 
 \begin{english}
-  To being easy to support \breathmark\ not to being difficult to support"
+  To being easy to support \breathmark\ not to being difficult to support''
 \end{english}
 
 Ek'aṁsena gotamī dhāreyyāsi:
@@ -7348,7 +7356,7 @@ Alam'eva appamādena sampādetun'ti\ifdigitalversion\makeatletter\hyperlink{endn
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ buddha-pacchima-ovāda-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
-% TODO spacing below is too large?
+
 Siyā kho tumhākaṁ evam'assa
 
 \begin{english}
@@ -8472,6 +8480,7 @@ Tesaṁ vūpasamo sukho
 \section{Dhammacakkappavattana-sutta}
 \label{dhammacakkappavattana-full}
 
+% remove this version and replace
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
 \end{leader}
@@ -8662,11 +8671,11 @@ Atha kho bhagavā udānaṁ udānesi:
 
 #+end_src
 
-** The Discourse on Setting in Motion the Wheel of Dhamma
+** The Discourse on Turning the Wheel of Dhamma
 
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/dhammacakkappavattana-eng.tex
 
-\section{The Discourse on Setting in Motion the Wheel of Dhamma}
+\section{The Discourse on Turning the Wheel of Dhamma}
 \label{wheel-of-dhamma-full}
 
 \begin{leader-english}
@@ -9354,11 +9363,11 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 #+end_src
 
-** The Fire Sermon
+** The Discourse on the Exposition on Burning
 
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/adittapariyaya-eng.tex
 
-\section{The Fire Sermon}
+\section{Discourse on the Exposition on Burning}
 \label{fire-sermon}
 
 \begin{leader-english}
@@ -9517,12 +9526,12 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 #+end_src
 
-** Just as Rivers
+** Just as Rivers Full of Water
 
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \sectionSubTitle{Yathā vāri-vahā pūrā}
-\section{Just as Rivers}
+\section{Just as Rivers Full of Water}
 \label{just-as-rivers}
 
 \begin{leader}
@@ -9730,7 +9739,7 @@ Sadā sotthī bhavantu te
 
 % \setsecheadstyle{\subsectionFmt}
 
-\sectionSubTitle{Just as Rivers}
+\sectionSubTitle{Just as Rivers Full of Water}
 \section{Yathā vāri-vahā pūrā}
 \label{yatha-vari-vaha-pura}
 
@@ -9782,8 +9791,8 @@ Sadā sotthī bhavantu te
 
 % \setsecheadstyle{\subsectionFmt}
 % I do not recall why the line above appears a second time after Yatha-vari-vaha; uncommented for now
-\sectionSubTitle{Just as Rivers}
-\section{Ratanattay'ānubhāv'ādi-gāthā}
+\sectionSubTitle{Ratanattay'ānubhāv'ādi-gāthā}
+\section{Verses Starting with The Power of the Triple Gem}
 \label{ratanattayanubhavadi-gatha}
 
 \begin{pali-hangtogether}
@@ -9797,7 +9806,7 @@ Sadā sotthī bhavantu te
 \end{pali-hangtogether}
 
 \begin{english-verses}
-  Through the power \& through the radiant energy of the (Triple) Gem,\\
+  Through the power \& through the radiant energy of the Triple Gem,\\
   May suffering, disease, fear, animosity,\\
   Sorrow, adversity, misfortune\\
   Obstacles without number vanish without a trace.\\
@@ -9818,8 +9827,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Bhojana-dān'ānumodanā}
+\sectionSubTitle{Bhojana-dān'ānumodanā}
+\section{Rejoicing in the Giving of Food}
 \label{bhojana-dananumodana}
 
 
@@ -9951,8 +9960,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Aggappasāda-sutta-gāthā}
+\sectionSubTitle{Aggappasāda-sutta-gāthā}
+\section{Verses from the Discourses Supreme Confidence}
 \label{aggappasada-sutta-gatha}
 
 \begin{pali-hangtogether}
@@ -10031,8 +10040,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Kāla-dāna-sutta-gāthā}
+\sectionSubTitle{Kāla-dāna-sutta-gāthā}
+\section{Verses from the Discourse on Giving in the Proper Season}
 \label{kala-dana-sutta-gatha}
 
 \begin{pali-hangtogether}
@@ -10108,8 +10117,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{So attha-laddho}
+\sectionSubTitle{So attha-laddho}
+\section{He Who Gains Benefits}
 \label{so-attha-laddho}
 
 \begin{pali-hangtogether}
@@ -10120,10 +10129,10 @@ Sadā sotthī bhavantu te
 \end{pali-hangtogether}
 
 \begin{english-verses}
-  May he gain benefits and happiness\\
-  And grow in Buddha's religion,\\
-  Without disease and happy\\
-  May he be together with all his relatives.
+  He who gains [karmic] benefits is happy,\\
+  And grows in the Buddha's Sāsana;\\
+  May you [male] be healthy and happy,\\
+  Together with all your relatives.
 \end{english-verses}
 
 \begin{pali-hang}
@@ -10134,10 +10143,10 @@ Sadā sotthī bhavantu te
 \end{pali-hang}
 
 \begin{english-verses}
-  May she gain benefits and happiness\\
-  And grow in Buddha's religion,\\
-  Without disease and happy\\
-  May she be together with all her relatives.
+  She who gains [karmic] benefits is happy,\\
+  And grows in the Buddha's Sāsana;\\
+  May you [female] be healthy and happy,\\
+  Together with all your relatives.
 \end{english-verses}
 
 \begin{pali-hang}
@@ -10152,10 +10161,10 @@ Sadā sotthī bhavantu te
 \ifasixversion\clearpage\fi
 
 \begin{english-verses}
-  May they gain benefits and happiness\\
-  And grow in Buddha's religion,\\
-  Without disease and happy\\
-  May they be together with all their relatives.
+  They who gain [karmic] benefits are happy,\\
+  And grow in the Buddha's Sāsana;\\
+  May you [all] be healthy and happy,\\
+  Together with all your relatives.
 \end{english-verses}
 
 \suttaRef{[AN 3.155]}
@@ -10185,13 +10194,15 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Devā-ārādhanā}
+\sectionSubTitle{Invitation to the Devas}
+\section{Deva-ārādhanā}
 \label{deva-aradhana}
 
 % TODO weird spacing here
-% delete the vspace?
-\vspace{-0.99em}
+
+\ifafiveversion\vspace{-0.5em}\fi
+\ifasixversion\vspace{-0.8em}\fi
+\ifbsixversion\vspace{-0.65em}\fi
 
 \linkdest{endnote124-body}
 \begin{leader-pharitvana}
@@ -10238,8 +10249,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Pubba-bhāga-nama-kāra-pāṭho}
+\sectionSubTitle{Pubba-bhāga-nama-kāra-pāṭho}
+\section{Passage on Preliminary Paying of Homage}
 \label{pubba-bhaga-nama-kara-patho-protective}
 
 
@@ -10259,8 +10270,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Saraṇa-gamana-pāṭho}
+\sectionSubTitle{Saraṇa-gamana-pāṭho}
+\section{Passage on Going for Refuge}
 \label{sarana-gamana-patho}
 
 \begin{pali-hangtogether}
@@ -10317,8 +10328,8 @@ Sadā sotthī bhavantu te
   \setsecnumformat{}%
 }
 
-\sectionSubTitle{Just as Rivers}
-\section{Nama-kāra-siddhi-gāthā}
+\sectionSubTitle{Nama-kāra-siddhi-gāthā}
+\section{Verses on Triumph by Paying Homage}
 \label{nama-kara-siddhi-gatha}
 
 
@@ -10399,8 +10410,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Namo-kāra-aṭṭhaka}
+\sectionSubTitle{Namo-kāra-aṭṭhaka}
+\section{Paying Homage to the Octad}
 \label{namo-kara-atthaka}
 
 \begin{pali-hangtogether}
@@ -10464,8 +10475,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Maṅgala-sutta}
+\sectionSubTitle{Maṅgala-sutta}
+\section{Discourse on Blessings}
 \label{mangala-sutta}
 
 \begin{pali-hangtogether}
@@ -10657,8 +10668,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Ratana-sutta}
+\sectionSubTitle{Ratana-sutta}
+\section{Discourse on Jewels}
 \label{ratana-sutta}
 
 \begin{pali-hangtogether}
@@ -10979,7 +10990,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Content and easy to support,\\
+  Contented and easy to support,\\
   Having little duties and a light livelihood;\\
   Calm in faculties and prudent,\\
   Not impudent \& greedily attached to families.
@@ -11107,7 +11118,7 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
+\sectionSubTitle{Protection of the Aggregates}
 \section{Khandha-parittaṁ}
 \label{khandha-parittam}
 
@@ -11210,8 +11221,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Buddha-dhamma-saṅgha-guṇā}
+\sectionSubTitle{Buddha-dhamma-saṅgha-guṇā}
+\section{The Virtues of the Buddha, Dhamma, and Sangha}
 \label{buddha-dhamma-sangha-guna}
 
 \begin{pali-hang}
@@ -11292,8 +11303,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Yaṅ'kiñci ratanaṁ loke}
+\sectionSubTitle{Yaṅ'kiñci ratanaṁ loke}
+\section{Whatever Kind of Jewel in the World}
 \label{yan-kinci-ratanam'loke}
 
 \begin{pali-hangtogether}
@@ -11404,8 +11415,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Bojjh'aṅga-parittaṁ}
+\sectionSubTitle{Bojjh'aṅga-parittaṁ}
+\section{Protection of the Factors of Awakening}
 \label{bojjhana-parittam}
 
 \begin{pali-hangtogether}
@@ -11495,8 +11506,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Abhaya-parittaṁ}
+\sectionSubTitle{Abhaya-parittaṁ}
+\section{Protection for Safety}
 \label{abhaya-parittam}
 
 \begin{pali-hangtogether}
@@ -11550,8 +11561,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Devatā-uyyojana-gāthā}
+\sectionSubTitle{Devatā-uyyojana-gāthā}
+\section{Verses on Dismissing the Devatās}
 \label{devata-uyyojana-gatha}
 
 \begin{pali-hangtogether}
@@ -11626,8 +11637,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Jaya-maṅgala-aṭṭha-gāthā}
+\sectionSubTitle{Jaya-maṅgala-aṭṭha-gāthā}
+\section{Verses on the Eight Victory Blessings}
 \label{jaya-mangala-attha-gatha}
 
 \begin{pali-hangtogether}
@@ -11777,8 +11788,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Jaya-parittaṁ}
+\sectionSubTitle{Jaya-parittaṁ}
+\section{Protection for Victory}
 \label{jaya-parittam}
 
 \begin{pali-hangtogether}
@@ -11796,7 +11807,7 @@ Sadā sotthī bhavantu te
   Fulfilled all the Perfections\\
   And reached the highest Awakening.\\
   By this utterance of truth,\\
-  May there be well-being for you always.
+  May there be auspicious victory for you.
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -11871,8 +11882,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Bhavatu-sabba-maṅgalaṁ}
+\sectionSubTitle{Bhavatu-sabba-maṅgalaṁ}
+\section{May Every Blessing Come to Be}
 \label{bhavatu-sabba-mangalam'protective}
 
 \begin{pali-hangtogether}
@@ -11945,8 +11956,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Pubba-bhāga-nama-kāra-pāṭho}
+\sectionSubTitle{Pubba-bhāga-nama-kāra-pāṭho}
+\section{Passage on Preliminary Paying of Homage}
 \label{pubba-bhaga-nama-kara-patho-funeral}
 
 
@@ -12244,8 +12255,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Vipassanā-bhūmi-pāṭho}
+\sectionSubTitle{Vipassanā-bhūmi-pāṭho}
+\section{Passage on the Ground for Distinct Seeing}
 \label{vipassana-bhumi-patho}
 
 \begin{pali-hang-continued}
@@ -12438,8 +12449,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Paṭṭhāna-mātikā-pāṭho}
+\sectionSubTitle{Paṭṭhāna-mātikā-pāṭho}
+\section{Passage on the List from the Foundation (of Conditional Relations)}
 \label{patthana-matika-patho}
 
 \begin{pali-hangtogether}
@@ -12458,8 +12469,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Adāsi-me ādi gāthā}
+\sectionSubTitle{Adāsi-me ādi gāthā}
+\section{Verses Starting with ``He Gave to Me''}
 \label{adasi-me-adi-gatha}
 
 \begin{pali-hangtogether}
@@ -12527,7 +12538,7 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
+\sectionSubTitle{A Heap of Dust for the Dead}
 \section{Paṁsu-kūla for the Dead}
 \label{pamsu-kula-dead}
 
@@ -12573,8 +12584,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Paṁsu-kūla for the Living}
+\sectionSubTitle{Paṁsu-kūla for the Living}
+\section{A Heap of Dust for the Living}
 \label{pamsu-kula-living}
 
 \begin{pali-hangtogether}
@@ -12600,8 +12611,8 @@ Sadā sotthī bhavantu te
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Bhavatu-sabba-maṅgalaṁ}
+\sectionSubTitle{Bhavatu-sabba-maṅgalaṁ}
+\section{May Every Blessing Come to Be}
 \label{bhavatu-funeral}
 
 \begin{pali-hangtogether}
@@ -12614,8 +12625,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   May every blessing come to be.\\
   And all good spirits guard you well.\\
-  Through the power of all Buddhas,\\
-  % TODO through all the power of the buddha, dhamam, sangha
+  With all the power of the Buddha,\\
   May you always be at ease.
 \end{english-verses}
 
@@ -12629,7 +12639,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   May every blessing come to be.\\
   And all good spirits guard you well.\\
-  Through the power of all Dhammas,\\
+  With all the power of the Dhamma,\\
   May you always be at ease.
 \end{english-verses}
 
@@ -12644,7 +12654,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   May every blessing come to be.\\
   And all good spirits guard you well.\\
-  Through the power of all Saṅghas,\\
+  With all the power of the Saṅgha,\\
   May you always be at ease.
 \end{english-verses}
 
@@ -13351,7 +13361,6 @@ Sādhu sādhu sādhu
 
 % the wizardry that brought about this table
 % https://tex.stackexchange.com/users/264581/paladhammika
-% TODO I removed justify from here onwards, the format will change check a6 and a5
 
 \begin{table}[ht]
   \centering
@@ -13381,10 +13390,13 @@ Sādhu sādhu sādhu
   }
 \end{table}
 
-%% \ifasixversion\vspace{-0.5cm}\fi
-%% \ifbsixversion\vspace{-0.5cm}\fi
+%% \ifafiveversion\vspace{-0.5cm}\fi
+% \ifasixversion\vspace{-0.5cm}\fi
+% \ifbsixversion\vspace{-0.5cm}\fi
 
 Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
+
+\ifafiveversion\vspace{-0.25cm}\fi
 
 \ifafiveversion\medskip\subsection*{\textcolor{sbs-brown}{Vowels}}\fi
 \ifasixversion\vspace{-0.5cm}\subsection*{Vowels}\fi

@@ -22,7 +22,6 @@ CURRENTEPUB   := ./epub/current-recitations.epub
 HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
 PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
-PDFFILE_A4    := $(BUILDDIR)/$(RELEASENAME)-A4.pdf
 PDFFILE_A6    := $(BUILDDIR)/$(RELEASENAME)-A6.pdf
 PDFFILE_B6    := $(BUILDDIR)/$(RELEASENAME)-B6.pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
@@ -69,7 +68,8 @@ XHTMLFILES      := $(shell find $(HTMLSOURCE) -name '*.xhtml' 2> /dev/null | sor
 # Commands
 .PHONY: checkepub validate optimize view editepub watchepub
 
-all: $(PDFFILE) $(A6PDFFILE) $(A4PDFFILE) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
+all: $(PDFFILE) $(PDFFILE_A6) $(PDFFILE_B6) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
+all-pdf: $(PDFFILE) $(PDFFILE_A6) $(PDFFILE_B6)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -78,14 +78,11 @@ all: $(PDFFILE) $(A6PDFFILE) $(A4PDFFILE) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 TANGLED: ./recitations.tex.org
 	$(ORG_TANGLE) $<
 
-# TODO make commadns for each paper size
-
 pdf2x: $(PDFFILE)  # Legacy target for compliance
 pdf: $(PDFFILE)
 $(PDFFILE): TANGLED
 	$(MKBUILDDIR)
 	$(LATEX) --jobname=$(basename $@) $(FILE)_a5digital.tex
-
 
 pdf-a6: $(PDFFILE_A6)
 $(PDFFILE_A6): TANGLED
@@ -96,28 +93,6 @@ pdf-b6: $(PDFFILE_B6)
 $(PDFFILE_B6): TANGLED
 	$(MKBUILDDIR)
 	$(LATEX) -jobname=$(basename $@) $(FILE)_b6.tex
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-# A6-TANGLED: ./A6-recitations.tex.org
-# 	$(ORG_TANGLE) $<
-
-# A6-pdf2x: $(A6PDFFILE)  # Legacy target for compliance
-# A6-pdf: $(A6PDFFILE)
-# $(A6PDFFILE): A6-TANGLED
-# 	$(MKBUILDDIR)
-# 	$(LATEX) --jobname=$(basename $(A6PDFFILE)) $(A6_FILE).tex;
-
-# A4-TANGLED: ./A4-recitations.tex.org
-# 	$(ORG_TANGLE) $<
-
-# A4-pdf2x: $(A4PDFFILE)  # Legacy target for compliance
-# A4-pdf: $(A4PDFFILE)
-# $(A4PDFFILE): A4-TANGLED
-# 	$(MKBUILDDIR)
-# 	$(LATEX) --jobname=$(basename $(A4PDFFILE)) $(A4_FILE).tex;
 
 
 #-----------------------------------------------------------------------------------------#
@@ -167,20 +142,6 @@ $(KINDLEFILE): $(EPUBFILE)
 	$(MKBUILDDIR)
 	@echo "Building mobi with KindleGen..."
 	cp -f "$(EPUBFILE)" "$(EPUB_COPY)"
-# FIXME Is following block it in use enywhere?
-ifdef PNGFILES
-	@for current in $(PNGFILES); do \
-		channels=$$(identify -format '%[channels]' "$$current"); \
-		if [[ "$$channels" == "graya" ]]; then \
-			mkdir -p "$$(dirname "tmp/$$current")"; \
-			echo "Converting $$current to RGB..."; \
-			convert "$$current" -colorspace rgb "tmp/$$current"; \
-		fi; \
-	done
-	@cd "tmp/$(HTMLSOURCE)" && zip -Xr9D "../../$(EPUB_COPY)" .
-	@rm -rf "tmp/"
-endif
-	# mobi-keep-original-images keeps transparent BG, but makes MOBI larger
 	ebook-convert "$(EPUB_COPY)" "$(KINDLEFILE)" \
 		--mobi-file-type=new --pretty-print --no-inline-toc --disable-font-rescaling \
 		--embed-all-fonts --subset-embedded-fonts \
@@ -202,20 +163,6 @@ else
 	@echo "Building Kindle AZW3 ebook with Calibre..."
 	ebook-convert "$(EPUBFILE)" "$(AZW3FILE)" --pretty-print --no-inline-toc --max-toc-links=0 --disable-font-rescaling
 endif
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-# FIXME Delete or move up and update to set $(EPUBCHECK)
-$(EPUBCHECK):
-	@echo Downloading epubcheck...
-	@curl -o "epubcheck.zip" -L "$(EPUBCHECK_URL)" --connect-timeout 30
-	@mkdir -p `dirname $(EPUBCHECK)`
-	@unzip -q "epubcheck.zip"
-	@rm -rf `dirname $(EPUBCHECK)`
-	@mv "epubcheck-$(EPUBCHECK_VERSION)" "`dirname $(EPUBCHECK)`"
-	@rm epubcheck.zip
 
 
 #-----------------------------------------------------------------------------------------#
@@ -244,28 +191,14 @@ endif
 
 #-----------------------------------------------------------------------------------------#
 
-
-view: $(CURRENTEPUB)
-ifndef EBOOKVIEWER
-	@echo "Error: Calibre was not found. Unable to open ebook viewer."
-	@exit 1
-else
-	@ebook-viewer --detach "$(CURRENTEPUB)"
-endif
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-editepub: $(CURRENTEPUB)
-ifndef EBOOKEDITOR
-	@echo "Error: Sigil was not found. Installing with Flatpak."
-	# @flatpak install com.sigil_ebook.Sigil -y
-	# @ln -s /var/lib/flatpak/exports/bin/com.sigil_ebook.Sigil ~/.local/bin/sigil
-	@exit 1
-else
-	@ sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
-endif
+# TODO needs a rework or consider doing manually
+# editepub: $(CURRENTEPUB)
+# ifndef EBOOKEDITOR
+# 	@echo "Error: Sigil was not found. Installing with Flatpak."
+# 	@exit 1
+# else
+	# @ sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
+# endif
 
 
 #-----------------------------------------------------------------------------------------#
@@ -282,16 +215,16 @@ clean:
 
 #-----------------------------------------------------------------------------------------#
 
+
 editwatchepub: $(CURRENTEPUB)
 	@echo "Opening current-recitations.epub in Sigil for editing..."
 	@echo "Watching file for errors..."
 	@make -j edit watchcurrent
 
 
-
 #-----------------------------------------------------------------------------------------#
 
-
+# TODO need command to zip up epub
 extractepub: $(CURRENTEPUB)
 	@echo "Extracting $(CURRENTEPUB) into $(HTMLSOURCE)"
 	@mkdir -p "$(HTMLSOURCE)"
@@ -315,13 +248,3 @@ endif
 		echo "Validating $(CURRENTEPUB)..."; \
 		$(JAVA) -jar "$(EPUBCHECK)" "$(CURRENTEPUB)"; \
 	done
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-release: $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
-	@mkdir -pv release
-	cp "$(EPUBFILE)" "release/$$(date +$(RELEASENAME)).epub"
-	cp "$(KINDLEFILE)" "release/$$(date +$(RELEASENAME)).mobi"
-	cp "$(AZW3FILE)" "release/$$(date +$(RELEASENAME)).azw3"

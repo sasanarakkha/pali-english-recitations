@@ -1,3 +1,4 @@
+% TODO remove unused cruft
 % A memoir-based documentclass with a contemporary style for books with a lighter content.
 
 % (c) Gambhiro Bhikkhu, 2017
@@ -587,11 +588,6 @@
 		]%
 		}{\end{enumerate}}
 
-% Define a command for speaker name with small caps and color
-% TODO needed - Marked for DELETION?
-% \newcommand\speakerName[1]{%
-%   {\color[gray]{0.25}\libertinusFont\scshape\MakeLowercase{#1}}\quad}
-
 % Define length for question indent
 \newlength\qw
 \setlength\qw{17pt}
@@ -1149,9 +1145,6 @@
 	\addtocontents{toc}{\protect\tocEnglishTitleFmt{#1}}%
 }
 
-% FIXME: the first Part heading in the TOC will also add that 20pt
-% vspace. How to add it only before a Part that follows a Chapter?
-
 \newlength\tocPageWidth
 
 \newlength\tocThreeDigits
@@ -1235,7 +1228,6 @@
 {\hfill\libertinusFont\tocSectionSize\upshape\selectfont\thecontentspage}
 
 % Change the appearance of appendix entries in the table of contents
-% TODO is the vspace needed in a5 and a6?
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
 	\tocFont\bfseries\ifafiveversion\fontsize{11}{15}\fi\ifasixversion\fontsize{8}{11}\fi\ifbsixversion\fontsize{8}{11}\fi\selectfont}%
@@ -1280,13 +1272,6 @@
 
 % Redefine the spacing between parts
 \renewcommand*{\midpartskip}{\par\vskip 15pt}%
-
-% FIXME: Currently, if there isn't a part title, we have to do
-% \part{\space} to still create the part line in the TOC and the
-% bookmark index.
-%
-% It would be better if the index had ``Part One'', and the TOC would
-% handle it better too.
 
 % Redefine the internal LaTeX command for printing parts
 \long\def\@part[#1]#2{%
@@ -1433,23 +1418,12 @@
 % Append the back matter chapter style to the \backmatter macro
 \addtodef{\backmatter}{}{\backmatterChapterStyle}
 
-
-
 % No glue after section headers. It is better to break the page early. With
 % glue, (eg \setaftersecskip{2.3ex \@plus .2ex}), when nowidow moves some lines
 % to the next page, the space after the section header will strech a lot to shift
 % the bottom lines to the bottom of the text block.
 
 % With no glue, the space will be at the bottom of the text block instead.
-
-
-% TODO need or not? - MARKED
-% \setsechook{%
-%   % New page for each section.
-%   \clearpage%
-%   % Empty the default section number printing, so that we can handle it.
-%   \setsecnumformat{}%
-% }
 
 % Set the vertical space before sections
 \setbeforesecskip{10pt}
@@ -1491,42 +1465,12 @@
 	% \linebreak%
 	% Measure the length of the section title at the current point size
 	\setlength{\sectionTitleLength}{\widthof{\mbox{\textbf{\textls*{\textsc{#1}}}}}}%
-	%
-	% Box for the section number
-	% \begin{minipage}[t]{0.001\linewidth}% padding for the title
-	% Only print the section number in the mainmatter,
-	% but the empty box is necessary for horizontal spacing.
-	% \if@mainmatter%
-	%   \raggedright%
-	%   \textbf{\textls*{\textsc{\thesection}}}%
-	% \else%
-	%   \mbox{}%
-	% \fi%
-	% No section number, but minipage needs content (an empty box).
-	% \mbox{}%
-	% \end{minipage}%
-	%
-	% Box for the section title text
-	% TODO: hyperef wrap is disorienting the remainder of brackets - MARKED
 	\hyperref[schedule]{%
 		\begin{minipage}[t]{\linewidth}%
 			\centering%
 			% To hyperlink the text only, put \hyperref around the below
 			\textbf{\textls*{\textsc{#1}}}%
 		\end{minipage}}%
-	%
-	% Box for the arrow link back to the schedule.
-	% Uncomment below to end to regain arrow and box
-	% \begin{minipage}[t]{0.1\linewidth}%
-	%   % Only print content in the mainmatter.
-	%   \if@mainmatter%
-	%     \raggedleft%
-	%     \hyperref[schedule]{$\Leftarrow$}%
-	%   \else%
-	%     \mbox{}%
-	%   \fi%
-	% \end{minipage}%
-	%
 	% New paragraph.
 	\par%
 	\ifsectionsubtitle%
@@ -1569,10 +1513,6 @@
 			\par%
 		}{}%
 	\fi%
-	%
-	% Bottom rule
-	% \rule{\linewidth}{0.4pt}%
-	% \vspace*{10pt}
 	% Bars are from numbers 80-89. | 88 for thiner, simpler bar, 84 for dhamma wheel bar, 4 is just the dhamma wheel
 	% Create a minipage for the decorative ornament
 	\begin{minipage}{\linewidth}%
@@ -1713,10 +1653,6 @@
 		\settrimmedsize{\stockheight}{\stockwidth}{*}
 		\settrims{0pt}{0pt}
 	\fi
-
-	%Adds to the inner margin to allow for the binding. This should be added after setting the page size, but before setting the margins.
-	% TODO even needed since there are trims above? - MARKED
-	% \setbinding{#1}
 
 	% Page Margins
 	\settypeblocksize{27\baselineskip + \topskip}{120mm}{*}

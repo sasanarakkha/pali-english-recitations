@@ -179,7 +179,8 @@ CLOSED: [2023-01-01 Sun 23:59]
 CLOSED: [2022-12-16 Fri 13:36]
 * DONE Add footnote for 'right livelihood' that defines the meaning
 CLOSED: [2022-12-18 Sun 17:30]
-* TODO TeX: remove empty pages
+* DONE TeX: remove empty pages
+CLOSED: [2024-07-20 Sat 15:23]
 * DONE remove footnote 74?
 CLOSED: [2023-01-01 Sun 23:59]
 * DONE HTML: change intros in epub
@@ -218,8 +219,10 @@ CLOSED: [2023-01-01 Sun 23:58]
 CLOSED: [2024-04-16 Tue 18:01]
 * DONE add creative commons page to ebook
 CLOSED: [2024-04-12 Fri 22:06]
-* TODO funeral, protection, thanksgiving start on new page
-** TODO check thai references afterwards
+* DONE funeral, protection, thanksgiving start on new page
+CLOSED: [2024-07-20 Sat 15:24]
+** DONE check thai references afterwards
+CLOSED: [2024-07-20 Sat 15:24]
 * DONE add puncutation to bhavatu at the end of funeral. also check epub.
 CLOSED: [2024-04-12 Fri 22:05]
 * DONE look at epub dependent origination
@@ -251,7 +254,8 @@ CLOSED: [2024-06-29 Sat 16:35]
 * TODO separate image for the spine
 * TODO export images as svg if possible?
 * TODO create foil stamp
-* TODO b6 toc appendix jumps to next page
+* DONE b6 toc appendix jumps to next page
+CLOSED: [2024-07-20 Sat 15:26]
 * DONE endnotes aren't working now
 CLOSED: [2024-06-30 Sun 15:05]
 * DONE +rm all wpn endnotes from the documents and place them in a separate changelog file+ add conditionals to wpn endnotes
