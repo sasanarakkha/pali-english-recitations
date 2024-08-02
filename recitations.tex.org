@@ -143,7 +143,7 @@
   % 'SBS' on title page
   \ifafiveversion {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
   \ifasixversion {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.2\baselineskip] \fi
-  \ifbsixversion {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
+  \ifbsixversion {\Huge\fontsize{55}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
 
   % 'Monk Training Centre'
   \ifafiveversion \setlength{\xheight}{\heightof{X}}
@@ -215,8 +215,8 @@
   at the following address:\\
   \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
 
-  “Accompanying audio recordings can be found at: www.youtube.com/SasanarakkhaBuddhistSanctuary”
-  \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
+Accompanying audio recordings can be found at:
+\href{www.youtube.com/SasanarakkhaBuddhistSanctuary}{www.youtube.com/SasanarakkhaBuddhistSanctuary}
 
   \ifafiveversion \vspace{0.5cm} \fi
   \ifasixversion \vspace{0.4cm} \fi

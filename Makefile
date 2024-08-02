@@ -1,7 +1,5 @@
 # LuaLaTeX pdf
 FILE := main
-# A6_FILE := A6-main
-# A4_FILE := A4-main
 LATEX_OPTS := -interaction=nonstopmode -halt-on-error -synctex=1
 LATEX := latexmk -pdflualatex='lualatex $(LATEX_OPTS)'
 TEXMFHOME := ~/.texmf
@@ -18,10 +16,10 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 BUILDDIR      := ./build/
 RELEASENAME   := SBS_Pāli-English_Recitations
 # FIXME Create target or decide to delete view, editepub etc
-CURRENTEPUB   := ./epub/current-recitations.epub
+# CURRENTEPUB   := ./epub/current-recitations.epub
 HTMLSOURCE    := ./epub/
 EXTRACTSOURCE := ./
-PDFFILE       := $(BUILDDIR)/$(RELEASENAME).pdf
+PDFFILE_A5    := $(BUILDDIR)/$(RELEASENAME).pdf
 PDFFILE_A6    := $(BUILDDIR)/$(RELEASENAME)-A6.pdf
 PDFFILE_B6    := $(BUILDDIR)/$(RELEASENAME)-B6.pdf
 EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
@@ -59,17 +57,17 @@ XHTMLFILES      := $(shell find $(HTMLSOURCE) -name '*.xhtml' 2> /dev/null | sor
 
 #-----------------------------------------------------------------------------------------#
 
+
 # Usual phonies
 .PHONY: all test clean
 # Targets with complex dependencies
-.PHONY: $(PDFFILE) TANGLED
+.PHONY: $(PDFFILE_A5) TANGLED
 # Aliases
 .PHONY: pdf pdf2x epub mobi
 # Commands
 .PHONY: checkepub validate optimize view editepub watchepub
 
-all: $(PDFFILE) $(PDFFILE_A6) $(PDFFILE_B6) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
-all-pdf: $(PDFFILE) $(PDFFILE_A6) $(PDFFILE_B6)
+all: $(PDFFILE_A5) $(PDFFILE_A6) $(PDFFILE_B6) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -78,9 +76,9 @@ all-pdf: $(PDFFILE) $(PDFFILE_A6) $(PDFFILE_B6)
 TANGLED: ./recitations.tex.org
 	$(ORG_TANGLE) $<
 
-pdf2x: $(PDFFILE)  # Legacy target for compliance
-pdf: $(PDFFILE)
-$(PDFFILE): TANGLED
+pdf2x: $(PDFFILE_A5)  # Legacy target for compliance
+pdf-a5: $(PDFFILE_A5)
+$(PDFFILE_A5): TANGLED
 	$(MKBUILDDIR)
 	$(LATEX) --jobname=$(basename $@) $(FILE)_a5digital.tex
 
@@ -93,6 +91,8 @@ pdf-b6: $(PDFFILE_B6)
 $(PDFFILE_B6): TANGLED
 	$(MKBUILDDIR)
 	$(LATEX) -jobname=$(basename $@) $(FILE)_b6.tex
+
+pdf-all: $(PDFFILE_A5) $(PDFFILE_A6) $(PDFFILE_B6)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -207,7 +207,7 @@ endif
 clean:
 	@echo Removing artifacts...
 	rm -f \
-		"$(PDFFILE)" "$(PDFFILE_A6)" "$(PDFFILE_B6)" "$(EPUBFILE)" "$(KINDLEFILE)" \
+		"$(PDFFILE_A5)" "$(PDFFILE_A6)" "$(PDFFILE_B6)" "$(EPUBFILE)" "$(KINDLEFILE)" \
 	"$(AZW3FILE)" "$(IBOOKSFILE)" "$(COPYRIGHT_SENTINEL)" $(LATEX_AUX)
 	# only remove dir if it's empty:
 	(rm -fd $(BUILDDIR) || true)
