@@ -1,9 +1,8 @@
+
 \cleartorecto
 \thispagestyle{empty}
 
-\ifafiveversion\vspace*{3em}\fi
-\ifasixversion\vspace*{3em}\fi
-\ifbsixversion\vspace*{-0.025em}\fi
+\vspace*{3em}
 
 
 {\centering
@@ -15,30 +14,33 @@
   % 'SBS' on title page
   \ifafiveversion {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
   \ifasixversion {\Huge\fontsize{45}{11}\sbsFont SBS}\\[1.2\baselineskip] \fi
-  \ifbsixversion {\Huge\fontsize{55}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
+  \ifbfiveversion {\Huge\fontsize{64}{16}\sbsFont SBS}\\[1.0\baselineskip] \fi
 
   % 'Monk Training Centre'
   \ifafiveversion \setlength{\xheight}{\heightof{X}}
     {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
   \ifasixversion {\fontsize{18}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
-  \ifbsixversion \setlength{\xheight}{\heightof{X}}
-    {\fontsize{24}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
+  %% \ifbfiveversion \setlength{\xheight}{\heightof{X}}
+    %% {\fontsize{24}{14}\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
+  \ifbfiveversion \setlength{\xheight}{\heightof{X}}
+    {\Huge\chapterTitleFont\textsc{{\thesubtitle\linebreak}}}\\[0.2\baselineskip] \fi
 
   % Ornament
   \ifafiveversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
   \ifasixversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=5cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
-  \ifbsixversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
+  \ifbfiveversion \raisebox{0.5\xheight}{\pgfornament[color=sbs-brown,width=7cm,scale=1,ydelta=0pt,symmetry=c]{84}}\\[1.4\baselineskip] \fi
 
 
   % 'Pali-English Recitations'
   \ifafiveversion {\Large\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
   \ifasixversion {\fontsize{10.5}{12}\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
-  \ifbsixversion {\Large\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
+  \ifbfiveversion {\Large\scshape Pāli-English Recitations}\\[2.5\baselineskip] \fi
 
   % Dhamma quote
   {\quote ``In whatever way a bhikkhu recites the Dhamma in detail as he has heard it and learned it, in just that way, in relation to that Dhamma, he experiences inspiration in the meaning and inspiration in the Dhamma. As he does so, joy arises in him. When he is joyful, rapture arises. For one with a rapturous mind, the body becomes tranquil. One tranquil in body feels pleasure. For one feeling pleasure, the mind becomes concentrated''.\\}
   \ifafiveversion \smallskip AN 5.26\\[1.4\baselineskip]\fi
   \ifasixversion \smallskip \fontsize{8.5}{14}\selectfont AN 5.26\\[1.4\baselineskip]\fi
-  %% \ifbsixversion \smallskip \fontsize{8.5}{14}\selectfont AN 5.26\\[1.4\baselineskip]\fi
-  \ifbsixversion \smallskip AN 5.26\\[1.4\baselineskip]\fi
+  %% \ifbfiveversion \smallskip \fontsize{8.5}{14}\selectfont AN 5.26\\[1.4\baselineskip]\fi
+  \ifbfiveversion \smallskip AN 5.26\\[1.4\baselineskip]\fi
 }
+

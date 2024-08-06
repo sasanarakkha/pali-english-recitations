@@ -1,3 +1,5 @@
+# Inspiration for the Makefile was drawn from https://github.com/daniel-j/epubmake/blob/master/Makefile
+
 # LuaLaTeX pdf
 FILE := main
 LATEX_OPTS := -interaction=nonstopmode -halt-on-error -synctex=1
@@ -13,18 +15,17 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 #-----------------------------------------------------------------------------------------#
 
 
-BUILDDIR      := ./build/
-RELEASENAME   := SBS_Pāli-English_Recitations
-# FIXME Create target or decide to delete view, editepub etc
-# CURRENTEPUB   := ./epub/current-recitations.epub
-HTMLSOURCE    := ./epub/
-EXTRACTSOURCE := ./
-PDFFILE_A5    := $(BUILDDIR)/$(RELEASENAME).pdf
-PDFFILE_A6    := $(BUILDDIR)/$(RELEASENAME)-A6.pdf
-PDFFILE_B6    := $(BUILDDIR)/$(RELEASENAME)-B6.pdf
-EPUBFILE      := $(BUILDDIR)/$(RELEASENAME).epub
-KINDLEFILE    := $(BUILDDIR)/$(RELEASENAME).mobi
-AZW3FILE      := $(BUILDDIR)/$(RELEASENAME).azw3
+BUILDDIR      	:= ./build/
+RELEASENAME   	:= SBS_Pāli-English_Recitations
+HTMLSOURCE    	:= ./html/
+EXTRACTSOURCE 	:= ./
+PDFFILE_A5    	:= $(BUILDDIR)/$(RELEASENAME).pdf
+PDFFILE_A6    	:= $(BUILDDIR)/$(RELEASENAME)-A6.pdf
+PDFFILE_B5    	:= $(BUILDDIR)/$(RELEASENAME)-B5.pdf
+EPUBFILE      	:= $(BUILDDIR)/$(RELEASENAME).epub
+LATESTEPUBFILE	:= $(BUILDDIR)/$(RELEASENAME).zip
+KINDLEFILE    	:= $(BUILDDIR)/$(RELEASENAME).mobi
+AZW3FILE      	:= $(BUILDDIR)/$(RELEASENAME).azw3
 
 
 ifneq (, $(shell which epubcheck))
@@ -67,7 +68,7 @@ XHTMLFILES      := $(shell find $(HTMLSOURCE) -name '*.xhtml' 2> /dev/null | sor
 # Commands
 .PHONY: checkepub validate optimize view editepub watchepub
 
-all: $(PDFFILE_A5) $(PDFFILE_A6) $(PDFFILE_B6) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
+all: $(PDFFILE_A5) $(PDFFILE_A6) $(PDFFILE_B5) $(EPUBFILE) $(KINDLEFILE) $(AZW3FILE)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -87,12 +88,12 @@ $(PDFFILE_A6): TANGLED
 	$(MKBUILDDIR)
 	$(LATEX) -jobname=$(basename $@) $(FILE)_a6.tex
 
-pdf-b6: $(PDFFILE_B6)
-$(PDFFILE_B6): TANGLED
+pdf-b5: $(PDFFILE_B5)
+$(PDFFILE_B5): TANGLED
 	$(MKBUILDDIR)
-	$(LATEX) -jobname=$(basename $@) $(FILE)_b6.tex
+	$(LATEX) -jobname=$(basename $@) $(FILE)_b5.tex
 
-pdf-all: $(PDFFILE_A5) $(PDFFILE_A6) $(PDFFILE_B6)
+pdf-all: $(PDFFILE_A5) $(PDFFILE_A6) $(PDFFILE_B5)
 
 
 #-----------------------------------------------------------------------------------------#
@@ -191,14 +192,9 @@ endif
 
 #-----------------------------------------------------------------------------------------#
 
-# TODO needs a rework or consider doing manually
-# editepub: $(CURRENTEPUB)
-# ifndef EBOOKEDITOR
-# 	@echo "Error: Sigil was not found. Installing with Flatpak."
-# 	@exit 1
-# else
-	# @ sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
-# endif
+
+editepub: $(EPUBFILE)
+	@ sigil "$(EPUBFILE)" || sigil "$(EPUBFILE)"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -207,7 +203,7 @@ endif
 clean:
 	@echo Removing artifacts...
 	rm -f \
-		"$(PDFFILE_A5)" "$(PDFFILE_A6)" "$(PDFFILE_B6)" "$(EPUBFILE)" "$(KINDLEFILE)" \
+		"$(PDFFILE_A5)" "$(PDFFILE_A6)" "$(PDFFILE_B5)" "$(EPUBFILE)" "$(KINDLEFILE)" \
 	"$(AZW3FILE)" "$(IBOOKSFILE)" "$(COPYRIGHT_SENTINEL)" $(LATEX_AUX)
 	# only remove dir if it's empty:
 	(rm -fd $(BUILDDIR) || true)
@@ -216,35 +212,36 @@ clean:
 #-----------------------------------------------------------------------------------------#
 
 
-editwatchepub: $(CURRENTEPUB)
+editwatchepub: $(EPUBFILE)
 	@echo "Opening current-recitations.epub in Sigil for editing..."
 	@echo "Watching file for errors..."
-	@make -j edit watchcurrent
+	@make -j edit watchepub
 
 
 #-----------------------------------------------------------------------------------------#
 
-# TODO need command to zip up epub
-extractepub: $(CURRENTEPUB)
-	@echo "Extracting $(CURRENTEPUB) into $(HTMLSOURCE)"
-	@mkdir -p "$(HTMLSOURCE)"
-	@unzip -o "$(CURRENTEPUB)" -d "$(HTMLSOURCE)"
+
+extractepub:
+	@echo "Extracting $(LATESTEPUBFILE) into $(HTMLSOURCE)"
+	@cp "$(EPUBFILE)" "$(EPUBFILE)".bkp && mv "$(EPUBFILE)" "$(LATESTEPUBFILE)" || echo "Failed to move EPUB file."
+	@mkdir -p "$(HTMLSOURCE)" || echo "Failed to create directory $(HTMLSOURCE)."
+	@unzip -o "$(LATESTEPUBFILE)" -d "$(HTMLSOURCE)" || echo "Failed to unzip $(LATESTEPUBFILE)."
+	@mv "$(EPUBFILE)".bkp "$(EPUBFILE)" && rm "$(LATESTEPUBFILE)"
 	@echo "Extracting HTML hierarchy from EPUB for version control..."
 
-
 #-----------------------------------------------------------------------------------------#
 
 
-watchepub: $(CURRENTEPUB) $(EPUBCHECK)
+watchepub:
 ifndef JAVA
 	$(error Java was not found. Unable to validate ebook)
 endif
 ifndef INOTIFYWAIT
 	$(error inotifywait was not found. Unable to watch ebook for changes)
 endif
-	@echo "Watching $(CURRENTEPUB)"
+	@echo "Watching $(EPUBFILE)"
 	@while true; do \
-		$(INOTIFYWAIT) -qe close_write "$(CURRENTEPUB)"; \
-		echo "Validating $(CURRENTEPUB)..."; \
-		$(JAVA) -jar "$(EPUBCHECK)" "$(CURRENTEPUB)"; \
+		$(INOTIFYWAIT) -qe close_write "$(EPUBFILE)"; \
+		echo "Validating $(EPUBFILE)..."; \
+		"$(EPUBCHECK)" "$(EPUBFILE)"; \
 	done

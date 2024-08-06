@@ -1,12 +1,12 @@
 % Set paper variant
 % Build command '\newcommand{\papersizeoption}{VALUE}\input{main.tex}'
 % Possible VALUE:
-%   - afiveVersion — A5 formatted
-%   - asixVersion — A6 formatted
-%   - bsixVersion — B6 formatted
+%   - afiveVersion —  A5 formatted
+%   - asixVersion —  A6 formatted
+%   - bfiveVersion —  B5 formatted
 \ifdefined\papersizeoption
 \else
-  \newcommand{\papersizeoption}{bsixVersion}
+  \newcommand{\papersizeoption}{bfiveVersion}
 \fi
 \typeout{Set \protect\papersizeoption{} to \papersizeoption}
 
@@ -33,14 +33,14 @@
 \graphicspath{
   {./assets/illustrations/A5}
   {./assets/illustrations/A6}
-  {./assets/illustrations/B6}
+  {./assets/illustrations/B5}
   {./assets/graphics}
 }
 
 % Loads formatting for selected ddocument class
 \ifafiveversion \usepackage{A5} \fi
 \ifasixversion  \usepackage{A6} \fi
-\ifbsixversion  \usepackage{B6} \fi
+\ifbfiveversion  \usepackage{B5} \fi
 
 
 % Set metadata for the document
@@ -85,7 +85,7 @@
 
 % Digital version cover
 \ifdigitalversion
-  \digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/front-cover-compressed.jpg}}
+	\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/front-cover-compressed.jpg}}
 \fi
 
 % Title page, copyright, acknowledgments
@@ -116,15 +116,15 @@
 
 % Chapters
 {\raggedright
-  \input{./tex/recitations/homage.tex}
-  \input{./tex/recitations/verses.tex}
-  \input{./tex/recitations/teachings.tex}
-  \input{./tex/recitations/reflections.tex}
-  \input{./tex/recitations/cardinal-suttas.tex}
-  \input{./tex/recitations/thanksgiving-recitations.tex}
-  \input{./tex/recitations/protective-recitations.tex}
-  \input{./tex/recitations/funeral-recitations.tex}
-  \input{./tex/recitations/sharing-of-merits.tex}
+	\input{./tex/recitations/homage.tex}
+	\input{./tex/recitations/verses.tex}
+	% \input{./tex/recitations/teachings.tex}
+	% \input{./tex/recitations/reflections.tex}
+	% \input{./tex/recitations/cardinal-suttas.tex}
+	% \input{./tex/recitations/thanksgiving-recitations.tex}
+	% \input{./tex/recitations/protective-recitations.tex}
+	\input{./tex/recitations/funeral-recitations.tex}
+	\input{./tex/recitations/sharing-of-merits.tex}
 }
 
 % Appendix
@@ -142,8 +142,8 @@
 
 % Digital version back cover (if applicable)
 \ifdigitalversion
-\clearpage
-\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/back-cover-compressed.jpg}}
+	\clearpage
+	\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/back-cover-compressed.jpg}}
 \fi
 
 % End document
