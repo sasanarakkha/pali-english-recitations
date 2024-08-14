@@ -604,14 +604,14 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 
 \ifninebythirteenversion
 \begin{tabular}{@{}ll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.70mm}\anglebracketright\ & \hspace{1.25mm}Only recited by the leader \\
-  \hspace{0.1cm} \abbrbreathmark\ & \hspace{0.90mm}Breathing pause \\
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.70mm}\anglebracketright\ & \hspace{1.10mm}Only recited by the leader \\
+  \hspace{0.1cm} \abbrbreathmark\ & \hspace{1.20mm}Breathing pause \\
 \end{tabular}
 \fi
 
 \ifbfiveversion
 \begin{tabular}{@{}ll@{}}
-  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{3mm}Only recited by the leader \\
+  \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.85mm}\anglebracketright\ & \hspace{2.70mm}Only recited by the leader \\
   \hspace{0.2cm} \abbrbreathmark\ & \hspace{2.90mm}Breathing pause \\
 \end{tabular}
 \fi

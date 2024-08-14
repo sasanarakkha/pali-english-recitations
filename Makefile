@@ -49,7 +49,7 @@ MKBUILDDIR := @mkdir -p $(BUILDDIR)
 
 
 TODAY := $(shell date --iso-8601)
-COPYRIGHT_FILE := epub/html/OEBPS/Text/copyright.xhtml
+COPYRIGHT_FILE := html/OEBPS/Text/copyright.xhtml
 COPYRIGHT_SENTINEL := $(BUILDDIR)copyright_$(TODAY).xhtml
 
 HTMLSOURCEFILES := $(shell find $(HTMLSOURCE) ! -name '*.tpl' -type f)
