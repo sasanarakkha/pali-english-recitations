@@ -30,14 +30,32 @@
 		\leftmargin    0pt %\leaderIndent%
 		\rightmargin   0pt%
 		\parsep        0pt}
-	\fontsize{10.5}{12}\selectfont
+	\fontsize{15}{12}\selectfont
 	\item[] \centering}%
 {\endlist}
+
+% Formatting for verses
+\newenvironment{verses}%
+{\list{}{%
+		\topsep 0pt
+		\listparindent 0em%
+		\itemindent    0em%
+		\leftmargin    0em %\leaderIndent%
+		\rightmargin   0em%
+		\fontsize{15}{22}\selectfont
+		\parsep        0em %\z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% ░█▀█░█▀█░█░░░▀█▀
+% ░█▀▀░█▀█░█░░░░█░
+% ░▀░░░▀░▀░▀▀▀░▀▀▀
 
 % 'Handa mayaṁ...``
 \newenvironment{leader}%
 {\list{}{%
-		\parskip 6pt%
+		\parskip 10pt%
 		\topsep -2pt%
 		\listparindent 0em%
 		\itemindent    0pt%
@@ -45,7 +63,7 @@
 		\rightmargin   0pt%
 		\parsep        0pt
 	}%
-	\fontsize{10.5}{12}\selectfont
+	\fontsize{15}{14}\selectfont
 	\item[] \centering}%
 {\endlist}
 
@@ -59,9 +77,11 @@
 		\rightmargin   0pt%
 		\parsep        0pt%
 	}%
-	\fontsize{10.5}{12}\selectfont
+	\fontsize{15}{12}\selectfont
 	\item[] \centering}%
 {\endlist}
+
+
 
 % Specific formatting found in 'Devā-ārādhanā' / 'Invitations to the Devas'
 \newenvironment{leader-pharitvana}%
@@ -75,9 +95,106 @@
 		\rightmargin   0.5cm%
 		\parsep        \z@ \@plus\p@%
 	}%
-	\fontsize{10.5}{16}\selectfont
+	\fontsize{15}{22}\selectfont
 	\item[] \centering}%
 {\endlist}
+
+% Pali introductions or phrases that are only chanted by the leader
+\newenvironment{pali-leader}%
+{\list{}{%
+		\parskip 10pt%
+		\topsep 0pt
+		\listparindent 0em%
+		\itemindent    0em%
+		\leftmargin    0em %2.5em %\leaderIndent%
+		\rightmargin   0em%
+		\fontsize{15}{22}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \centering}%
+{\endlist}
+
+
+
+
+\newenvironment{pali-hang}%
+{\list{}{%
+		\topsep 0pt
+		\itemsep 3pt
+		\listparindent 0em%
+		\itemindent    -0.5em%
+		\leftmargin    0.5em %2.5em %\leaderIndent%
+		\rightmargin   0em%
+		\fontsize{15}{22}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% Enables a line to hang that is sandwiched within a paragraph
+\newenvironment{pali-hangtogether}%
+{\list{}{%
+		\parskip 10pt%
+		\topsep -8pt
+		\listparindent 0em%
+		\itemindent    -0.75em%
+		\leftmargin    0.75em %2.5em %\leaderIndent%
+		\rightmargin   0em%
+		\fontsize{15}{22}\selectfont
+		\parsep        -1pt %\z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% Continues the indentation from a previous 'pali-hang*' which indicates continuous chanting (found in 'Protective Recitations')
+\newenvironment{pali-hang-continued}%
+{\list{}{%
+		\parskip 10pt%
+		\topsep 0pt
+		\listparindent 0em%
+		\itemindent    0em%
+		\leftmargin    0.5em %2.5em %\leaderIndent%
+		\rightmargin   0em%
+		\fontsize{15}{22}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+\newenvironment{pali-hang-firstline}%
+{\list{}{%
+		\partopsep 0pt
+		\topsep 4pt
+		\listparindent 0em%
+		\itemindent    -0.5em%
+		\leftmargin    0.5em%\leaderIndent%
+		\rightmargin   0em%
+		\fontsize{15}{16}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% ░█▀▀░█▀█░█▀▀░█░░░▀█▀░█▀▀░█░█
+% ░█▀▀░█░█░█░█░█░░░░█░░▀▀█░█▀█
+% ░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀
+
+% 'Now let us...'
+\newenvironment{leader-english}%
+{\list{}{%
+		\parskip 10pt%
+		\topsep 0pt%
+		\listparindent 0em%
+		\itemindent    0pt%
+		\leftmargin    0pt %\leaderIndent%
+		\rightmargin   0pt%
+		\parsep        0pt
+		\fontsize{14.5}{22}\selectfont
+	}%
+	\item[] \centering\itshape}%
+{\endlist}
+
+
 
 % Specific formatting found in 'Devā-ārādhanā' / 'Invitations to the Devas'
 \newenvironment{leader-pharitvana-english}%
@@ -91,52 +208,23 @@
 		\rightmargin   0.5cm%
 		\parsep        \z@ \@plus\p@%
 	}%
-	\fontsize{10}{16}\selectfont
+	\fontsize{14.5}{22}\selectfont
 	\item[] \centering\itshape}%
 {\endlist}
 
 % Reduces above spacing for english leader when paired with a pali introduction
 \newenvironment{leader-english-belowpali}%
 {\list{}{%
-		\parskip 6pt%
+		\parskip 10pt%
 		\topsep -2pt%
 		\listparindent 0em%
 		\itemindent    0pt%
 		\leftmargin    0pt %\leaderIndent%
 		\rightmargin   0pt%
 		\parsep        -8pt
-		\fontsize{10}{14}\selectfont
+		\fontsize{14.5}{14}\selectfont
 	}%
 	\item[] \centering\itshape}%
-{\endlist}
-
-% 'Now let us...'
-\newenvironment{leader-english}%
-{\list{}{%
-		\parskip 4pt%
-		\topsep 0pt%
-		\listparindent 0em%
-		\itemindent    0pt%
-		\leftmargin    0pt %\leaderIndent%
-		\rightmargin   0pt%
-		\parsep        0pt
-		\fontsize{10}{14}\selectfont
-	}%
-	\item[] \centering\itshape}%
-{\endlist}
-
-% Formatting for verses
-\newenvironment{verses}%
-{\list{}{%
-		\topsep 0pt
-		\listparindent 0em%
-		\itemindent    0em%
-		\leftmargin    0em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{10.5}{16}\selectfont
-		\parsep        0em %\z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
 {\endlist}
 
 % For English passages that are preceeded by Pāli, remains closer to the preceeding Pāli
@@ -147,7 +235,7 @@
 		\itemindent    0em%
 		\leftmargin    1.0em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{16}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        -8.5em %\z@ \@plus\p@%
 	}%
 	\item[] \raggedright\itshape}%
@@ -162,7 +250,7 @@
 		\itemindent    0em%
 		\leftmargin    0em%\leaderindent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		% \parsep        %\z@ \@plus\p@%
 	}%
 	\item[] \raggedright\itshape}%
@@ -177,7 +265,7 @@
 		\itemindent    0em%
 		\leftmargin    0em%\leaderindent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		% \parsep        %\z@ \@plus\p@%
 	}%
 	\item[] \justify\itshape}%
@@ -191,7 +279,7 @@
 		\itemindent    -0.5em%
 		\leftmargin    1.5em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        -8.5em %\z@ \@plus\p@%
 	}%
 	\item[] \raggedright\itshape}%
@@ -205,7 +293,7 @@
 		\itemindent    -0.5em%
 		\leftmargin    0.5em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 		\parskip       -16pt
 	}%
@@ -221,7 +309,7 @@
 		\itemindent    0em%
 		\leftmargin    1em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 	}%
 	\item[] \raggedright\itshape}%
@@ -235,7 +323,7 @@
 		\itemindent    -0.5em%
 		\leftmargin    0.5em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{16}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 	}%
 	\item[] \raggedright\itshape}%
@@ -249,7 +337,7 @@
 		\itemindent    -0.5em%
 		\leftmargin    0.5em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 		\parskip       -16pt
 	}%
@@ -264,7 +352,7 @@
 		\itemindent    0em%
 		\leftmargin    0em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 	}%
 	\item[] \raggedright\itshape}%
@@ -278,7 +366,7 @@
 		\itemindent    0em%
 		\leftmargin    0em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 	}%
 	\item[] \centering\itshape}%
@@ -293,7 +381,7 @@
 		\itemindent    0em%
 		\leftmargin    1.0em%\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{22}\selectfont
 		\parsep        \z@ \@plus\p@%
 	}%
 	\item[] \raggedright\itshape}%
@@ -308,7 +396,7 @@
 		\itemindent    -0.5em%
 		\leftmargin    0.5em%\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 	}%
 	\item[] \raggedright\itshape}%
@@ -322,7 +410,7 @@
 		\itemindent    -0.5em%
 		\leftmargin    1.5em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 		% \parsep        -8.5em %\z@ \@plus\p@%
 	}%
@@ -337,96 +425,28 @@
 		\itemindent    -0.5em%
 		\leftmargin    0.5em %\leaderIndent%
 		\rightmargin   0em%
-		\fontsize{10}{18}\selectfont
+		\fontsize{14.5}{21}\selectfont
 		\parsep        \z@ \@plus\p@%
 		\parskip       -16pt
 	}%
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-\newenvironment{pali-hang}%
-{\list{}{%
-		\topsep 0pt
-		\itemsep 3pt
-		\listparindent 0em%
-		\itemindent    -0.5em%
-		\leftmargin    0.5em %2.5em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{10.5}{16}\selectfont
-		\parsep        \z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
-{\endlist}
-
-% Pali introductions or phrases that are only chanted by the leader
-\newenvironment{pali-leader}%
-{\list{}{%
-		\topsep 0pt
-		\listparindent 0em%
-		\itemindent    0em%
-		\leftmargin    0em %2.5em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{10.5}{16}\selectfont
-		\parsep        \z@ \@plus\p@%
-	}%
-	\item[] \centering}%
-{\endlist}
-
-% Enables a line to hang that is sandwiched within a paragraph
-\newenvironment{pali-hangtogether}%
-{\list{}{%
-		\topsep -8pt
-		\listparindent 0em%
-		\itemindent    -0.75em%
-		\leftmargin    0.75em %2.5em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{10.5}{16}\selectfont
-		\parsep        -8pt %\z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
-{\endlist}
-
-% Continues the indentation from a previous 'pali-hang*' which indicates continuous chanting (found in 'Protective Recitations')
-\newenvironment{pali-hang-continued}%
-{\list{}{%
-		\topsep 0pt
-		\listparindent 0em%
-		\itemindent    0em%
-		\leftmargin    0.5em %2.5em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{10.5}{16}\selectfont
-		\parsep        \z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
-{\endlist}
-
-\newenvironment{pali-hang-firstline}%
-{\list{}{%
-		\partopsep 0pt
-		\topsep 4pt
-		\listparindent 0em%
-		\itemindent    -0.5em%
-		\leftmargin    0.5em%\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{10.5}{16}\selectfont
-		\parsep        \z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
-{\endlist}
-
-%%%%%%%%%%%%%%%%%%% Endnotes %%%%%%%%%%%%%%%%%%%
+% ░█▀▀░█▀█░█▀▄░█▀█░█▀█░▀█▀░█▀▀░█▀▀
+% ░█▀▀░█░█░█░█░█░█░█░█░░█░░█▀▀░▀▀█
+% ░▀▀▀░▀░▀░▀▀░░▀░▀░▀▀▀░░▀░░▀▀▀░▀▀▀
 
 % Changes the title for the Endnotes chapter
 \renewcommand\notesname{Endnotes}
 
 \renewcommand{\prenoteinnotes}{%
-	\fontsize{8}{10}\selectfont\par\setlength{\parskip}{3pt}\noindent%
+	\fontsize{11}{13}\selectfont\par\setlength{\parskip}{3pt}\noindent%
 }%
 \renewcommand{\noteidinnotes}[2]{% {notenum}{id}
 	\begin{adjustwidth}{14pt}{0pt}%
 		\hspace{-33pt}\makebox[30pt][l]{%
-			\makebox[18pt][1]{\pageref{#2}}%
-			\makebox[16pt][l]{\ifnum#1>0\textsuperscript{#1}\fi%
+			\makebox[18pt][1]{#2}%
+			\makebox[16pt][l]{\ifnum#1>0\footnotesize{#1}\fi%
 			}%
 		}%
 		}%
@@ -436,7 +456,9 @@
 }%
 \renewcommand{\postnoteinnotes}{\par}%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+% ░▄▄▄░▄▄▄░▄▄▄░▄▄▄░▄▄▄░▄▄▄░▄▄▄░▄▄▄
+% ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 \newcommand\tr[1]{\textit{#1}}
 
@@ -446,7 +468,9 @@
 	\end{english}%
 }
 
-% ==== Tabular ==== %
+% ░▀█▀░█▀█░█▀▄░█░█░█░░░█▀█░█▀▄
+% ░░█░░█▀█░█▀▄░█░█░█░░░█▀█░█▀▄
+% ░░▀░░▀░▀░▀▀░░▀▀▀░▀▀▀░▀░▀░▀░▀
 
 \setlength{\tabcolsep}{1em}
 

@@ -254,6 +254,8 @@ CLOSED: [2024-06-29 Sat 16:35]
 * TODO separate image for the spine
 * TODO export images as svg if possible?
 * TODO create foil stamp
+* TODO rm legacy cruft
+* TODO the margins for the endnotes pages need to be tweaked for all formats
 * DONE b5 toc appendix jumps to next page
 CLOSED: [2024-07-20 Sat 15:26]
 * DONE endnotes aren't working now

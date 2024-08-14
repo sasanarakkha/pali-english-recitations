@@ -2,8 +2,9 @@
 % Build command '\newcommand{\papersizeoption}{VALUE}\input{main.tex}'
 % Possible VALUE:
 %   - afiveVersion —  A5 formatted
-%   - asixVersion —  A6 formatted
+%   - ninebythirteenVersion —  9x13cm custom formatted
 %   - bfiveVersion —  B5 formatted
+% \listfiles
 \ifdefined\papersizeoption
 \else
   \newcommand{\papersizeoption}{bfiveVersion}
@@ -39,7 +40,7 @@
 
 % Loads formatting for selected ddocument class
 \ifafiveversion \usepackage{A5} \fi
-\ifasixversion  \usepackage{A6} \fi
+\ifninebythirteenversion  \usepackage{9x13} \fi
 \ifbfiveversion  \usepackage{B5} \fi
 
 
@@ -118,11 +119,11 @@
 {\raggedright
 	\input{./tex/recitations/homage.tex}
 	\input{./tex/recitations/verses.tex}
-	% \input{./tex/recitations/teachings.tex}
-	% \input{./tex/recitations/reflections.tex}
-	% \input{./tex/recitations/cardinal-suttas.tex}
-	% \input{./tex/recitations/thanksgiving-recitations.tex}
-	% \input{./tex/recitations/protective-recitations.tex}
+	\input{./tex/recitations/teachings.tex}
+	\input{./tex/recitations/reflections.tex}
+	\input{./tex/recitations/cardinal-suttas.tex}
+	\input{./tex/recitations/thanksgiving-recitations.tex}
+	\input{./tex/recitations/protective-recitations.tex}
 	\input{./tex/recitations/funeral-recitations.tex}
 	\input{./tex/recitations/sharing-of-merits.tex}
 }
