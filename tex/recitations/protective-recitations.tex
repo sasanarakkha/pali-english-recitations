@@ -1,4 +1,3 @@
-
 \ifdigitalversion
   \chapterOpeningPage{protective-recitations-compressed.jpg}
 \else
@@ -9,18 +8,13 @@
 
 \clearpage
 
-
-
 \sectionSubTitle{Deva-ārādhanā}
 \section{Invitation to the Devas}
 \label{invitation-to-the-devas}
 
-% TODO change lables to match new section names
-% TODO weird spacing here
-
 \ifafiveversion\vspace{-0.5em}\fi
 \ifninebythirteenversion\vspace{-0.8em}\fi
-\ifbfiveversion\vspace{-0.65em}\fi
+\ifbfiveversion\vspace{-0.2em}\fi
 
 \linkdest{endnote124-body}
 \begin{leader-pharitvana}
@@ -42,17 +36,17 @@
 \end{leader-pharitvana}
 
 \begin{leader-pharitvana-english}
-  Kind, venerable sirs: having spread thoughts of good will,\\
+  Kind, venerable sirs: having spread thoughts \ifninebythirteenversion \\ \else \fi of good will,\\
   Recite the protective chant with undistracted mind.\\
   Those in the heavens of sensuality \& form,\\
-  On peaks \& mountain precipices, in palaces floating in the sky,\\
-  % TODO add mbox to 'in the sky'
+  On peaks \& mountain precipices, in palaces floating \ifninebythirteenversion \\ \else \fi in the sky,\\
   In islands, countries, \& towns,\\
   In groves of trees \& thickets,\\
   Around homesites \& fields.\\
-  And the earth-devas, spirits, heavenly minstrels, \& nāgas who are nearby,\\
+  And the earth-devas, spirits, heavenly minstrels,\\ \& nāgas who are nearby,\\
   In different waters and lands:\\
-  May they come \& listen with approval as I recite the word of the excellent sage.
+  May they come \& listen with approval as I recite\\ the word of the excellent sage.\\
+\ifafiveversion\clearpage\fi
 \ifbfiveversion\clearpage\fi
   This is the time to see the Buddha, venerable sirs.\\
   This is the time to listen to the Dhamma, venerable sirs.\\
@@ -61,16 +55,29 @@
 
 \suttaRef{[Thai]}
 
-
-
 \sectionSubTitle{Pubba-bhāga-nama-kāra-pāṭho}
 \section{Passage on Preliminary Paying of Homage}
 \label{passage-on-preliminary-paying-of-homage-protective}
 
+\ifninebythirteenversion
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
+  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa
+\end{pali-hang-together}
+
+\begin{pali-hang-together}
+\hfill{[3x]}
+\end{pali-hang-together}
+
+% TODO do we even need 3x? I mean its pretty clear for anybody familiar with buddhist chanting
+
+\else
+
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa \hfill{[3x]}
-\end{pali-hangtogether}
+\end{pali-hang-together}
+
+\fi
 
 \begin{english}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
@@ -78,17 +85,15 @@
 
 \suttaRef{[DN 21]}
 
-
-
 \sectionSubTitle{Saraṇa-gamana-pāṭho}
 \section{Passage on Going for Refuge}
 \label{passage-on-going-for-refuge}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Buddhaṁ \hspace{-0.5mm}\anglebracketright\  saraṇaṁ gacchāmi\\
   Dhammaṁ saraṇaṁ gacchāmi\\
   Saṅghaṁ saraṇaṁ gacchāmi
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   To the Buddha I go for refuge.\\
@@ -120,9 +125,7 @@
   A third time, to the Saṅgha I go for refuge.
 \end{english-verses}
 
-\suttaRef{[Khp 1.1]}
-
-
+\suttaRef{[Kp 1]}
 
 \begingroup
 \setsechook{%
@@ -136,7 +139,7 @@
 \section{Verses on Triumph by Paying Homage}
 \label{triumph-by-paying-homage}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Yo cakkhumā \hspace{-0.5mm}\anglebracketright\  moha-malāpakaṭṭho\\
   Sāmaṁ va buddho sugato vimutto\\
   Mārassa pāsā vinimocayanto\\
@@ -145,16 +148,16 @@
   Lokassa nāthañ'ca vināyakañ'ca\\
   Tan'tejasā te jaya-siddhi hotu\\
   Sabb'antarāyā ca vināsam'entu
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   The One with Vision, with the stain of delusion removed,\\
   Self-awakened, Well-Gone, \& Released,\\
   Freed from the snares of Mortal Temptation,\\
   He caused tameable people to reach security.\\
-  \begin{english-hangtogether-verses}
+  \begin{english-hang-together-verses}
     I pay homage with my head to that excellent Buddha, the Protector \& mentor for the world,\\
-  \end{english-hangtogether-verses}
+  \end{english-hang-together-verses}
   By the power of this, may you have triumph \& success,\\
   And may all your dangers be destroyed.
 \end{english-verses}
@@ -207,18 +210,16 @@
 
 \suttaRef{[Thai]}
 
-
-
 \sectionSubTitle{Namo-kāra-aṭṭhaka}
 \section{Paying Homage to the Octad}
 \label{paying-homage-to-octad}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Namo arahato \hspace{-0.5mm}\anglebracketright\ Sammā-\\
   Sambuddhassa mah'esino\\
   Namo uttama-dhammassa\\
   Svākkhātass'eva ten'idha
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   Homage to the Great Seer, the Worthy One, Perfectly Self-awakened; Homage to the highest Dhamma, well-taught by him here;
@@ -270,15 +271,13 @@
 
 \suttaRef{[Thai]}
 
-
-
 \sectionSubTitle{Maṅgala-sutta}
 \section{Discourse on Blessings}
 \label{discorse-on-blessings}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\ ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Then, when the night had advanced, a certain deity of stunning beauty, having illuminated the entire Jeta's Grove, approached the Blessed One, paid homage to him, stood to one side, and addressed the Blessed One in verse:
@@ -291,6 +290,8 @@
   Brūhi maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifninebythirteenversion\clearpage\fi
+
 \begin{english-verses}
   Many devas and human beings\\
   Have reflected on blessings,\\
@@ -301,7 +302,6 @@
 \begin{pali-hang-continued}
   Asevanā ca bālānaṁ\\
   Paṇḍitānañ'ca sevanā\\
-  \ifninebythirteenversion\clearpage\fi
   Pūjā ca pūjanīyānaṁ\\
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
@@ -344,7 +344,6 @@
 \begin{pali-hang-continued}
   Mātā-pitu upaṭṭhānaṁ\\
   Putta-dārassa saṅgaho\\
-  \ifninebythirteenversion\clearpage\fi
   Anākulā ca kammantā\\
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
@@ -370,6 +369,8 @@
   This is the highest blessing.
 \end{english-verses}
 
+\ifninebythirteenversion\clearpage\fi
+
 \begin{pali-hang-continued}
   Āratī viratī pāpā\\
   Majja-pānā ca saññamo\\
@@ -387,7 +388,6 @@
 \begin{pali-hang-continued}
   Gāravo ca nivāto ca\\
   Santuṭṭhī ca kataññutā\\
-  \ifninebythirteenversion\clearpage\fi
   Kālena dhamma-ssavanaṁ\\
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
@@ -430,7 +430,6 @@
 \begin{pali-hang-continued}
   Phuṭṭhassa loka-dhammehi\\
   Cittaṁ yassa na kampati\\
-  \ifninebythirteenversion\clearpage\fi
   Asokaṁ virajaṁ khemaṁ\\
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
@@ -458,18 +457,16 @@
 
 \suttaRef{[Snp 2.4]}
 
-
-
 \sectionSubTitle{Ratana-sutta}
 \section{Discourse on Jewels}
 \label{discourse-on-jewels}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Yān'īdha \hspace{-0.5mm}\anglebracketright\ bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
   Sabb'eva bhūtā sumanā bhavantu\\
   Atho'pi sakkacca suṇantu bhāsitaṁ
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   Whatever beings are gathered here,\\
@@ -499,8 +496,6 @@
   Idam'pi buddhe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
-
-\ifninebythirteenversion\clearpage\fi
 
 \begin{english-verses}
   Whatever the treasures are here or beyond,\\
@@ -601,6 +596,7 @@
   Gambhīra-paññena sudesitāni\\
   Kiñ'c'āpi te honti bhusa'ppamattā\\
   Na te bhavaṁ aṭṭhamam'ādiyanti\\
+  \ifninebythirteenversion\clearpage\fi
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
@@ -634,6 +630,7 @@
   And whatever good behavior and observances there are.\\
   One is also freed from the four planes of misery\\
   And is incapable of doing six deeds.\\
+  \ifninebythirteenversion\clearpage\fi
   This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english-verses}
@@ -705,6 +702,7 @@
   Their minds are dispassionate toward future existence.\\
   With seeds destroyed, with no desire for growth,\\
   Those wise ones are extinguished like this lamp.\\
+  \ifninebythirteenversion\clearpage\fi
   This too is the sublime gem in the Sangha:\\
   By this truth, may there be safety!
 \end{english-verses}
@@ -740,7 +738,6 @@
 \begin{pali-hang-continued}
   Yān'īdha bhūtāni samāgatāni\\
   Bhummāni vā yāni va antalikkhe\\
-  \ifninebythirteenversion\clearpage\fi
   Tathāgataṁ deva-manussa-pūjitaṁ\\
   Saṅghaṁ namassāma suvatthi hotu
 \end{pali-hang-continued}
@@ -754,18 +751,16 @@
 
 \suttaRef{[Snp 2.1]}
 
-
-
 \sectionSubTitle{Karaṇīya-metta-sutta}
 \section{Discourse on the Loving-Kindness \mbox{to}~be~Done}
 \label{discourse-on-loving-kindness}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Karaṇīyam \hspace{-0.5mm}\anglebracketright\ 'attha-kusalena\\
   Yan'taṁ santaṁ padaṁ abhisamecca\\
   Sakko ujū ca suhujū ca\\
   Suvaco c'assa mudu anatimānī
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   This is to be done by one skilled in the beneficial,\\
@@ -840,7 +835,6 @@
 \begin{english-verses}
   Another (i.e. one) would not deceive another,\\
   Nor look down upon anyone anywhere;\\
-  \ifninebythirteenversion\clearpage\fi
   Nor through anger or hateful perception,\\
   Would wish for one another's suffering.
 \end{english-verses}
@@ -903,18 +897,16 @@
 
 \suttaRef{[Snp 1.8]}
 
-
-
 \sectionSubTitle{Khandha-parittaṁ}
 \section{Protection of the Aggregates}
 \label{protection-of-aggregates}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Virūpakkhehi me mettaṁ \hspace{-0.5mm}\anglebracketright\ \\
   Mettaṁ erāpathehi me\\
   Chabyāputtehi me mettaṁ\\
   Mettaṁ kaṇhāgotamakehi ca
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   With the Virūpakkhas is my loving-kindness.\\
@@ -940,6 +932,7 @@
 \begin{pali-hang-continued}
   Mā maṁ apādako hiṁsi\\
   Mā maṁ hiṁsi dipādako\\
+  \ifninebythirteenversion\clearpage\fi
   Mā maṁ catuppado hiṁsi\\
   Mā maṁ hiṁsi bahuppado
 \end{pali-hang-continued}
@@ -975,6 +968,8 @@
   Uṇṇānābhī sarabhū mūsikā
 \end{pali-hang-continued}
 
+\ifninebythirteenversion\clearpage\fi
+
 \begin{english-verses}
   Measureless is the Buddha,\\
   Measureless is the Dhamma,\\
@@ -987,7 +982,6 @@
 \begin{pali-hang-continued}
   Katā me rakkhā katā me parittā\\
   Paṭikkamantu bhūtāni\\
-  \ifninebythirteenversion\clearpage\fi
   So'haṁ namo bhagavato\\
   Namo sattannaṁ sammā-sambuddhānaṁ.
 \end{pali-hang-continued}
@@ -997,12 +991,10 @@
   A protection has been made by me.\\
   Let the already born retreat.\\
   I pay homage to the Blessed One;\\
-  Homage to the seven Perfectly Self-awakened Ones.
+  Homage to the seven perfectly self-awakened ones.
 \end{english-verses}
 
 \suttaRef{[AN 4.67]}
-
-
 
 \sectionSubTitle{Buddha-dhamma-saṅgha-guṇā}
 \section{Qualities of the Buddha, \mbox{Dhamma,}~and~Sangha}
@@ -1052,46 +1044,44 @@
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  \begin{english-hang-firstline}
-    Practicing the good way is the Community of the Blessed One's disciples;
-  \end{english-hang-firstline}
-  \begin{english-hangtogether-verses}
-    Practicing the straight way is the Community of the Blessed One's disciples;
-  \end{english-hangtogether-verses}
-  \begin{english-hangtogether-verses}
-    Practicing the true way is the Community of the Blessed One's disciples;
-  \end{english-hangtogether-verses}
-  \begin{english-hangtogether-verses}
-    Practicing the proper way is the Community of the Blessed One's disciples;
-  \end{english-hangtogether-verses}
-  \begin{english-hangtogether-verses}
+  \begin{english-hang-first-line}
+    Practicing the good way is the community of the Blessed One's disciples;
+  \end{english-hang-first-line}
+  \begin{english-hang-together-verses}
+    Practicing the straight way is the community of the Blessed One's disciples;
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
+    Practicing the true way is the community of the Blessed One's disciples;
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
+    Practicing the proper way is the community of the Blessed One's disciples;
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
     That is, the four pairs of persons, the eight kinds of individuals.
-  \end{english-hangtogether-verses}
-  \begin{english-hangtogether-verses}
-    This is the Community of the Blessed One's disciples;
-  \end{english-hangtogether-verses}
-  \begin{english-hangtogether-verses}
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
+    This is the community of the Blessed One's disciples;
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
     Worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation,
-  \end{english-hangtogether-verses}
-  \begin{english-hangtogether-verses}
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
     The unsurpassed field of merit for the world.
-  \end{english-hangtogether-verses}
+  \end{english-hang-together-verses}
 \end{english-verses}
 
 \suttaRef{[SN 11.3]}
 
-
-
 \sectionSubTitle{Yaṅ'kiñci ratanaṁ loke}
-\section{Whatever Kind of Jewel in the World}
+\section{Whatever Kind of Jewel \mbox{in}~the~World}
 \label{whatever-kind-of-jewel}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Yaṅ'kiñci ratanaṁ loke \hspace{-0.5mm}\anglebracketright\ \\
   Vijjati vividhaṁ puthu\\
   Ratanaṁ buddha-samaṁ n'atthi\\
   Tasmā sotthī bhavantu te
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   Whatever kind of jewel in the world\\
@@ -1137,6 +1127,7 @@
   uttamaṁ varaṁ\\
   Hitaṁ deva-manussānaṁ\\
   Buddha-tejena sotthinā\\
+  \ifninebythirteenversion\clearpage\fi
   Nassant'upaddavā sabbe\\
   Dukkhā vūpasamentu te
 \end{pali-hang-continued}
@@ -1188,13 +1179,11 @@
 
 \suttaRef{[MJG]}
 
-
-
 \sectionSubTitle{Bojjh'aṅga-parittaṁ}
 \section{Protection of the Factors of Awakening}
 \label{protection-of-factors-of-awakening}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Bojjh'aṅgo sati-saṅkhāto \hspace{-0.5mm}\anglebracketright\ \\
   Dhammānaṁ vicayo tathā\\
   Viriyam'pīti-passaddhi\\
@@ -1207,17 +1196,24 @@
   Nibbānāya ca bodhiyā\\
   Etena sacca-vajjena\\
   Sotthi te hotu sabbadā
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   The Factors for Awakening include mindfulness,\\
   Investigation of qualities,\\
   Persistence, rapture, \& serenity,\\
-  Plus concentration \& equanimity factors for Awakening.\\
+  Plus concentration \& equanimity factors for awakening.\\
   These seven, which the All-seeing Sage has perfectly taught,\\
-  When developed \& matured bring about heightened knowledge, Liberation, \& awakening.\\
+\begin{english-hang-together-verses}
+  When developed \& matured bring about heightened knowledge, liberation, \& awakening.\\
+\end{english-hang-together-verses}
+ \ifninebythirteenversion\clearpage\fi
+\begin{english-hang-together-verses}
   By the saying of this truth,\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
   May you always be well.
+\end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1232,10 +1228,18 @@
 \end{pali-hang-continued}
 
 \begin{english-verses}
+\begin{english-hang-first-line}
   At one time, our Protector seeing that Moggallana \& Kassapa\\
-  Were sick \& in pain, taught them the seven factors for Awakening.\\
+\end{english-hang-first-line}
+\begin{english-hang-together-verses}
+  Were sick \& in pain, taught them the Seven Factors for Awakening.\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
   They, delighting in that, were instantly freed from their illness.\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
   By the saying of this truth, may you always be well.
+\end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1250,10 +1254,18 @@
 \end{pali-hang-continued}
 
 \begin{english-verses}
+\begin{english-hang-first-line}
   Once, when the Dhamma King was afflicted with fever,\\
-  He had the Elder Cunda recite that very teaching with devotion.\\
+\end{english-hang-first-line}
+\begin{english-hang-together-verses}
+  He had the elder Cunda recite that very teaching with devotion.\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
   And as he approved, he rose up from that disease.\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
   By the saying of this truth, may you always be well.
+\end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1275,18 +1287,16 @@
 
 \suttaRef{[Thai]}
 
-
-
 \sectionSubTitle{Abhaya-parittaṁ}
 \section{Protection for Safety}
 \label{protection-for-safety}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Yan'dunnimittaṁ \hspace{-0.5mm}\anglebracketright\ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
   Pāpaggaho dussupinaṁ akantaṁ\\
   Buddh'ānubhāvena vināsam'entu
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   May bad omens, inauspiciousness,\\
@@ -1298,6 +1308,7 @@
 \begin{pali-hang-continued}
   Yan'dunnimittaṁ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
+  \ifninebythirteenversion\clearpage\fi
   Pāpaggaho dussupinaṁ akantaṁ\\
   Dhamm'ānubhāvena vināsam'entu
 \end{pali-hang-continued}
@@ -1326,18 +1337,16 @@
 
 \suttaRef{[Trad]}
 
-
-
 \sectionSubTitle{Devatā-uyyojana-gāthā}
 \section{Verses on Dismissing Evil Spirits}
 \label{dismissing-the-devatas}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Dukkhappattā \hspace{-0.5mm}\anglebracketright\ ca niddukkhā\\
   Bhayappattā ca nibbhayā\\
   Sokappattā ca nissokā\\
   Hontu sabbe'pi pāṇino
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   [May] sufferers be without suffering,\\
@@ -1365,6 +1374,7 @@
 \begin{pali-hang-continued}
   Dānaṁ dadantu saddhāya\\
   Sīlaṁ rakkhantu sabbadā\\
+  \ifninebythirteenversion\clearpage\fi
   Bhāvan'ābhiratā hontu\\
   Gacchantu devatā-gatā
 \end{pali-hang-continued}
@@ -1395,13 +1405,11 @@
 
 \suttaRef{[MJG]}
 
-
-
 \sectionSubTitle{Jaya-maṅgala-aṭṭha-gāthā}
 \section{Verses on the Eight Victory Blessings}
 \label{eight-victory-blessings}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Bāhuṁ \hspace{-0.5mm}\anglebracketright\ sahassam'abhinimmita sāvudhan'taṁ\\
   Grīmekhalaṁ udita-ghora-sasena-māraṁ\\
   \linkdest{endnote129-body}
@@ -1409,16 +1417,18 @@
         \hypertarget{endnote129-appendix}{\hyperlink{endnote129-body}{Here and in all subsequent verses we find the word ``\textit{jitavā}''. The standard spelling would be ``\textit{jitvā}'' (abs. of \textit{jināti}; having conquered). In contrast ``\textit{jitavā}'' is a transliteration based on Thai spelling and pronunciation of Pāli, which has a tendency to insert the letter ``a'' between two consonants such as -\textit{tvā}, thus making it into -\textit{tavā}. It is by spelling anomalies like this, that Pāli scholars can determine the place of origin and age of certain Pāli texts.}}}}}\makeatother
   mun'indo\\
   Tan'tejasā bhavatu te jaya-maṅgalāni
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
+  \begin{english-hang-first-line}
   Creating a form with 1,000 arms, each equipped with a weapon,
-  \begin{english-hangtogether-verses}
+  \end{english-hang-first-line}
+  \begin{english-hang-together-verses}
     Māra, on the elephant Girimekhala, uttered a frightening roar together with his troops.
-  \end{english-hangtogether-verses}
-  \begin{english-hangtogether-verses}
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
     The Lord of Sages defeated him by means of such qualities as generosity:
-  \end{english-hangtogether-verses}
+  \end{english-hang-together-verses}
   By the power of this, may you have victory blessings.
 \end{english-verses}
 
@@ -1432,8 +1442,13 @@
 \begin{english-verses}
   Even more frightful than Māra making war all night\\
   Was Āḷavaka, the arrogant unstable ogre.\\
+  \ifninebythirteenversion\clearpage\fi
+  \begin{english-hang-together-verses}
   The Lord of Sages defeated him by means of well-trained endurance:\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   By the power of this, may you have victory blessings.
+  \end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1446,9 +1461,15 @@
 \ifbfiveversion\clearpage\fi
 \begin{english-verses}
   Nāḷāgiri, the excellent elephant, when maddened,\\
+  \begin{english-hang-together-verses}
   Was very horrific, like a forest fire, a flaming discus, a lightning bolt.\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   The Lord of Sages defeated him by sprinkling the water of good will:\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   By the power of this, may you have victory blessings.
+  \end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1461,8 +1482,12 @@
 \begin{english-verses}
   Very horrific, with a sword upraised in his expert hand,\\
   Garlanded-with-Fingers ran three leagues along the path.\\
+  \begin{english-hang-together-verses}
   The Lord of Sages defeated him with mind-fashioned marvels:\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   By the power of this, may you have victory blessings.
+  \end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1475,8 +1500,12 @@
 \begin{english-verses}
   Having made a wooden belly to appear pregnant,\\
   Ciñca made a lewd accusation in the midst of the gathering.\\
+  \begin{english-hang-together-verses}
   The Lord of Sages defeated her with peaceful, gracious means:\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   By the power of this, may you have victory blessings.
+  \end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1486,13 +1515,15 @@
   Tan'tejasā bhavatu te jaya-maṅgalāni
 \end{pali-hang-continued}
 
-\ifninebythirteenversion\clearpage\fi
-
 \begin{english-verses}
   Saccaka, whose provocative views had abandoned the truth,\\
   Delighting in argument, had become thoroughly blind.\\
+  \begin{english-hang-together-verses}
   The Lord of Sages defeated him with the light of discernment:\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   By the power of this, may you have victory blessings.
+  \end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1503,10 +1534,18 @@
 \end{pali-hang-continued}
 
 \begin{english-verses}
+  \begin{english-hang-first-line}
   Nandopananda was a serpent with great power but wrong views.\\
+  \end{english-hang-first-line}
+  \begin{english-hang-together-verses}
   The Lord of Sages defeated him by means of a display of marvels,\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   Sending his son, the serpent-elder, to tame him:\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   By the power of this, may you have victory blessings.
+  \end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1518,9 +1557,15 @@
 
 \begin{english-verses}
   His hands bound tight by the serpent of wrongly held views,\\
+  \begin{english-hang-together-verses}
   Baka, the Brahma, thought himself pure in his radiance \& power.\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   The Lord of Sages defeated him by means of his words of knowledge:\\
+  \end{english-hang-together-verses}
+  \begin{english-hang-together-verses}
   By the power of this, may you have victory blessings.
+  \end{english-hang-together-verses}
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -1530,13 +1575,11 @@
   Mokkhaṁ sukhaṁ adhigameyya naro sapañño
 \end{pali-hang-continued}
 
-\ifninebythirteenversion\clearpage\fi
-
 \begin{english-verses}
   These eight verses of the Buddha's victory blessings:
-  \begin{english-hangtogether-verses}
+  \begin{english-hang-together-verses}
     Whatever person of discernment recites or recalls them day after day without lapsing,
-  \end{english-hangtogether-verses}
+  \end{english-hang-together-verses}
   Destroying all kinds of obstacles,\\
   Will attain emancipation \& happiness.
 \end{english-verses}
@@ -1544,26 +1587,24 @@
 
 \suttaRef{[Trad]}
 
-
-
 \sectionSubTitle{Jaya-parittaṁ}
 \section{Protection for Victory}
 \label{protection-for-victory}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Mahā-kāruṇiko \hspace{-0.5mm}\anglebracketright\ nātho\\
   Hitāya sabba-pāṇinaṁ\\
   Pūretvā pāramī sabbā\\
   Patto sambodhim'uttamaṁ\\
   Etena sacca-vajjena\\
   Hotu te jaya-maṅgalaṁ
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   The Great Compassionate Protector,\\
   For the benefit of all beings,\\
-  Fulfilled all the Perfections\\
-  And reached the highest Awakening.\\
+  Fulfilled all the perfections\\
+  And reached the highest awakening.\\
   By this utterance of truth,\\
   May there be auspicious victory for you.
 \end{english-verses}
@@ -1576,7 +1617,7 @@
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Victorious at the foot of the bodhi tree\\
+  Victorious at the foot of the Bodhi tree\\
   Was the joy-enhancer of the Sakyas.\\
   Even so, may there be victory.\\
   May you attain auspicious victory.
@@ -1636,18 +1677,16 @@
 \ifbfiveversion\vspace{-1.1em}\fi
 \suttaRef{[AN 3.155]}
 
-
-
 \sectionSubTitle{Bhavatu-sabba-maṅgalaṁ}
 \section{May Every Blessing Come to Be}
 \label{may-every-blessing-come-to-be-protective}
 
-\begin{pali-hangtogether}
+\begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Bhavatu sabba-maṅgalaṁ \hspace{-0.5mm}\anglebracketright\ \\
   Rakkhantu sabba-devatā\\
   Sabba-buddh'ānubhāvena\\
   Sadā sotthī bhavantu te
-\end{pali-hangtogether}
+\end{pali-hang-together}
 
 \begin{english-verses}
   May every blessing come to be.\\
@@ -1673,6 +1712,7 @@
 \begin{pali-hang-continued}
   Bhavatu sabba-maṅgalaṁ\\
   Rakkhantu sabba-devatā\\
+  \ifninebythirteenversion\clearpage\fi
   Sabba-saṅgh'ānubhāvena\\
   Sadā sotthī \breathmark\ bhavantu te
 \end{pali-hang-continued}
@@ -1688,4 +1728,3 @@
 \suttaRef{[Trad]}
 
 \ifdigitalversion\bottomNav{sharing-merits-departed}\fi
-

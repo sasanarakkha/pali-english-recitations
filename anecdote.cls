@@ -23,7 +23,7 @@
 \newif\ifafiveversion
 \afiveversionfalse
 
-% Define a conditional for the A6 version formatting
+% Define a conditional for the 9x13 version formatting
 \newif\ifninebythirteenversion
 \ninebythirteenversionfalse
 
@@ -49,7 +49,7 @@
 	digitalVersion/.code=\digitalversiontrue,
 	% Set A5 Version to true if specified in options
 	afiveVersion/.code=\afiveversiontrue,
-	% Set A6 Version to true if specified in options
+	% Set 9x13 Version to true if specified in options
 	ninebythirteenVersion/.code=\ninebythirteenversiontrue,
 	% Set B5 Version to true if specified in options
 	bfiveVersion/.code=\bfiveversiontrue,
@@ -275,75 +275,73 @@
 % Font for the old page numbers in the Table of Contents.
 \newcommand\tocFontOldNum\libertinusFont
 
-
 % Define font sizes for different elements in the document.
-
 % Chapter name size
-\ifafiveversion\newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}\fi
+\ifafiveversion\newcommand{\chapterNameSize}{\@setfontsize                    \chapterNameSize          {22}{24}}\fi
 \ifninebythirteenversion\newcommand{\chapterNameSize}{\@setfontsize           \chapterNameSize          {16}{18}}\fi
-\ifbfiveversion\newcommand{\chapterNameSize}{\@setfontsize           \chapterNameSize          {16}{18}}\fi
+\ifbfiveversion\newcommand{\chapterNameSize}{\@setfontsize                    \chapterNameSize          {16}{18}}\fi
 
 % Chapter number size
-\ifafiveversion\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {20}{20}}\fi
+\ifafiveversion\newcommand{\chapterNumberSize}{\@setfontsize                  \chapterNumberSize        {20}{20}}\fi
 \ifninebythirteenversion\newcommand{\chapterNumberSize}{\@setfontsize         \chapterNumberSize        {14}{14}}\fi
-\ifbfiveversion\newcommand{\chapterNumberSize}{\@setfontsize         \chapterNumberSize        {16}{16}}\fi
+\ifbfiveversion\newcommand{\chapterNumberSize}{\@setfontsize                  \chapterNumberSize        {16}{16}}\fi
 
 % Chapter title size ie 'Recitation Schedule, Purpose and Benefits...'
-\ifafiveversion\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {19}{19}}\fi
+\ifafiveversion\newcommand{\chapterTitleSize}{\@setfontsize                   \chapterTitleSize         {19}{19}}\fi
 \ifninebythirteenversion\newcommand{\chapterTitleSize}{\@setfontsize          \chapterTitleSize         {13}{13}}\fi
-\ifbfiveversion\newcommand{\chapterTitleSize}{\@setfontsize          \chapterTitleSize         {22}{22}}\fi
+\ifbfiveversion\newcommand{\chapterTitleSize}{\@setfontsize                   \chapterTitleSize         {22}{22}}\fi
 
 % Chapter title footnote size
-\ifafiveversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}\fi
+\ifafiveversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize           \chapterTitleFootnoteSize {16}{30}}\fi
 \ifninebythirteenversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize  \chapterTitleFootnoteSize {11}{21}}\fi
-\ifbfiveversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize  \chapterTitleFootnoteSize {16}{21}}\fi
+\ifbfiveversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize           \chapterTitleFootnoteSize {16}{21}}\fi
 
 % Chapter author size
-\ifafiveversion\newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}\fi
+\ifafiveversion\newcommand{\chapterAuthorSize}{\@setfontsize                  \chapterAuthorSize        {12}{14}}\fi
 \ifninebythirteenversion\newcommand{\chapterAuthorSize}{\@setfontsize         \chapterAuthorSize        {8.5}{10}}\fi
-\ifbfiveversion\newcommand{\chapterAuthorSize}{\@setfontsize         \chapterAuthorSize        {8.5}{10}}\fi
+\ifbfiveversion\newcommand{\chapterAuthorSize}{\@setfontsize                  \chapterAuthorSize        {8.5}{10}}\fi
 
 % Chapter note size
-\ifafiveversion\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}\fi
+\ifafiveversion\newcommand{\chapterNoteSize}{\@setfontsize                    \chapterNoteSize          {13}{15}}\fi
 \ifninebythirteenversion\newcommand{\chapterNoteSize}{\@setfontsize           \chapterNoteSize          {9}{11}}\fi
-\ifbfiveversion\newcommand{\chapterNoteSize}{\@setfontsize           \chapterNoteSize          {9}{11}}\fi
+\ifbfiveversion\newcommand{\chapterNoteSize}{\@setfontsize                    \chapterNoteSize          {9}{11}}\fi
 
 % Footer size
-\ifafiveversion\newcommand{\footerSize}{\@setfontsize               \footerSize               {11}{8}}\fi
+\ifafiveversion\newcommand{\footerSize}{\@setfontsize                         \footerSize               {11}{8}}\fi
 \ifninebythirteenversion\newcommand{\footerSize}{\@setfontsize                \footerSize               {8}{6}}\fi
-\ifbfiveversion\newcommand{\footerSize}{\@setfontsize                \footerSize              {14}{8}}\fi
+\ifbfiveversion\newcommand{\footerSize}{\@setfontsize                         \footerSize               {14}{8}}\fi
 
 % Header size
-\ifafiveversion\newcommand{\headerSize}{\@setfontsize               \headerSize               {11}{2}}\fi
+\ifafiveversion\newcommand{\headerSize}{\@setfontsize                         \headerSize               {11}{2}}\fi
 \ifninebythirteenversion\newcommand{\headerSize}{\@setfontsize                \headerSize               {8}{1.5}}\fi
-\ifbfiveversion\newcommand{\headerSize}{\@setfontsize                \headerSize               {13}{2}}\fi
+\ifbfiveversion\newcommand{\headerSize}{\@setfontsize                         \headerSize               {13}{2}}\fi
 
 % Table of Contents size
-\ifafiveversion\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {19}{14}}\fi
+\ifafiveversion\newcommand{\tocSize}{\@setfontsize                            \tocSize                  {19}{14}}\fi
 \ifninebythirteenversion\newcommand{\tocSize}{\@setfontsize                   \tocSize                  {25}{10}}\fi
-\ifbfiveversion\newcommand{\tocSize}{\@setfontsize                   \tocSize                  {25}{10}}\fi
+\ifbfiveversion\newcommand{\tocSize}{\@setfontsize                            \tocSize                  {25}{10}}\fi
 
 % Section font size in Table of Contents
 % e.g. 'Dedication of Offerings'
-\ifafiveversion\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {12.5}{15}}\fi
+\ifafiveversion\newcommand{\tocSectionSize}{\@setfontsize                     \tocSectionSize           {12.5}{15}}\fi
 \ifninebythirteenversion\newcommand{\tocSectionSize}{\@setfontsize            \tocSectionSize           {9}{11}}\fi
-\ifbfiveversion\newcommand{\tocSectionSize}{\@setfontsize            \tocSectionSize          {15}{20}}\fi
+\ifbfiveversion\newcommand{\tocSectionSize}{\@setfontsize                     \tocSectionSize           {15}{20}}\fi
 
 % Subsection font size in Table of Contents
 % e.g. 'Undertaking the Three Refuges'
-\ifafiveversion\newcommand{\tocSubsectionSize}{\@setfontsize        \tocSubsectionSize        {11}{11}}\fi
+\ifafiveversion\newcommand{\tocSubsectionSize}{\@setfontsize                  \tocSubsectionSize        {11}{11}}\fi
 \ifninebythirteenversion\newcommand{\tocSubsectionSize}{\@setfontsize         \tocSubsectionSize        {8}{8}}\fi
-\ifbfiveversion\newcommand{\tocSubsectionSize}{\@setfontsize         \tocSubsectionSize       {12}{8}}\fi
+\ifbfiveversion\newcommand{\tocSubsectionSize}{\@setfontsize                  \tocSubsectionSize        {12}{8}}\fi
 
 % Define a command to make text smaller.
-\ifafiveversion\newcommand{\smaller}{\@setfontsize\smaller{9}{11}}\fi
-\ifninebythirteenversion\newcommand{\smaller}{\@setfontsize\smaller{6}{8}}\fi
+\ifafiveversion\newcommand{\smaller}{\@setfontsize                            \smaller                  {9}{11}}\fi
+\ifninebythirteenversion\newcommand{\smaller}{\@setfontsize                   \smaller                  {6}{8}}\fi
 \ifbfiveversion\newcommand{\smaller}{\@setfontsize\smaller{6}{8}}\fi
 
 % Define font size for copyright notice.
-\ifafiveversion\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}\fi
-\ifninebythirteenversion\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{6}{8}}\fi
-\ifbfiveversion\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{6}{8}}\fi
+\ifafiveversion\newcommand{\copyrightsize}{\@setfontsize                      \copyrightsize            {9}{11}}\fi
+\ifninebythirteenversion\newcommand{\copyrightsize}{\@setfontsize             \copyrightsize            {6}{8}}\fi
+\ifbfiveversion\newcommand{\copyrightsize}{\@setfontsize                      \copyrightsize            {6}{8}}\fi
 
 % Redefine footnote size to be smaller.
 \ifafiveversion\renewcommand{\footnotesize}{%
@@ -1397,7 +1395,6 @@
 		\fi
 		\ifninebythirteenversion
 			\pgfornament[color=black,width=5cm,scale=1,ydelta=15pt,symmetry=c]{88}%
-			% TODO tweak to get more homogenous spacing
 			\vspace*{-0.2\baselineskip}
 		\fi
 		\ifbfiveversion
@@ -1506,13 +1503,10 @@
 	\setlength{\parskip}{8pt}
 	\setlength{\parindent}{0pt}
 
-	%%%%%%%%%%%%%%%% Setup Page Layout %%%%%%%%%%%%%%%%
-
 	% A5 page size
 	\setlength{\BOOK@paperHeight}{210mm}
 	\setlength{\BOOK@paperWidth}{148mm}
 
-	% TODO trims for a5,a6
 	\ifshowtrims
 		\stockaiv% use A4 paper size to show trims
 		\setlength{\paperheight}{\BOOK@paperHeight}
@@ -1549,8 +1543,8 @@
 
 \ifninebythirteenversion
 
-	% A6 adjusted font size and line height
-	\def\BOOK@fontSizePt{9}
+	% 9x13 adjusted font size and line height
+	\def\BOOK@fontSizePt{9.5}
 	\def\BOOK@lineHeightPt{13}
 
 	% Redefine the \normalsize command to set font size and line height
@@ -1575,9 +1569,6 @@
 	\setlength{\parskip}{6pt}
 	\setlength{\parindent}{0pt}
 
-	%%%%%%%%%%%%%%%% Setup Page Layout %%%%%%%%%%%%%%%%
-
-	% A6 page size
 	\setlength{\BOOK@paperHeight}{130mm}
 	\setlength{\BOOK@paperWidth}{90mm}
 
@@ -1597,21 +1588,18 @@
 	\fi
 
 	% Adds to the inner margin to allow for the binding. This should be added after setting the page size, but before setting the margins.
-	% TODO even needed since there are trims above? - MARKED
 	% \setbinding{#1}
 
 	% Page Margins
 	\settypeblocksize{23.75\baselineskip + \topskip}{77.5mm}{*}
 	\setlrmargins{*}{6mm}{*} % Adjusted for equal left and right margins
-	\setulmargins{*}{7mm}{1} % Adjusted for equal top and bottom margins
+	\setulmargins{*}{9mm}{1} % Adjusted for equal top and bottom margins
 	\setmarginnotes{6pt}{12pt}{5pt}
 
-	\setlength{\footskip}{8pt}
+	\setlength{\footskip}{12pt}
 
-	% Adjust spacing to avoid warning
-	% Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
-	\addtolength{\headheight}{5pt}
-	\addtolength{\headsep}{-8pt}
+	\addtolength{\headheight}{1pt}
+	\addtolength{\headsep}{-16pt}
 
 \fi
 
@@ -1620,7 +1608,7 @@
 % ░▀▀░░▀▀░
 \ifbfiveversion
 
-	% A6 adjusted font size and line height
+	% B5 adjusted font size and line height
 	\def\BOOK@fontSizePt{15}
 	\def\BOOK@lineHeightPt{23}
 
@@ -1646,8 +1634,6 @@
 	\setlength{\parskip}{6pt}
 	\setlength{\parindent}{0pt}
 
-	%%%%%%%%%%%%%%%% Setup Page Layout %%%%%%%%%%%%%%%%
-
 	% B5 page size
 	\setlength{\BOOK@paperHeight}{250mm}
 	\setlength{\BOOK@paperWidth}{176mm}
@@ -1668,7 +1654,6 @@
 	\fi
 
 	% Adds to the inner margin to allow for the binding. This should be added after setting the page size, but before setting the margins.
-	% TODO even needed since there are trims above? - MARKED
 	% \setbinding{#1}
 
 	% Page Margins
@@ -1680,8 +1665,6 @@
 
 	\setlength{\footskip}{9mm}
 
-	% Adjust spacing to avoid warning
-	% Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt)
 	\addtolength{\headheight}{8pt}
 	\addtolength{\headsep}{1pt}
 \fi

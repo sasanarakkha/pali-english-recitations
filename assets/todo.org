@@ -159,7 +159,7 @@ CLOSED: [2022-05-26 Thu 22:15]
 CLOSED: [2022-05-26 Thu 22:16]
 * DONE TeX: yatha-vari-vaha title closer than subsequent titles
 CLOSED: [2022-12-14 Wed 18:32]
-* DONE TeX: fix indentation for pali-hang and pali-hangtogether -- FIXED ALREADY?
+* DONE TeX: fix indentation for pali-hang and pali-hang-together -- FIXED ALREADY?
 CLOSED: [2024-07-01 Mon 10:53]
 * DONE TeX: return periods in cardinal suttas -- NECESSARY? No.
 CLOSED: [2024-05-08 Wed 15:12]
@@ -249,16 +249,26 @@ CLOSED: [2024-05-08 Wed 17:46]
 CLOSED: [2024-05-08 Wed 17:46]
 * DONE look at what the desktop version conditionals do -- it should mainly be hyperlinking and other non printable features.
 CLOSED: [2024-06-29 Sat 16:35]
-* TODO create an inner cover
-* TODO create "full" cover (front, spine, and back into one image)
-* TODO separate image for the spine
-* TODO export images as svg if possible?
-* TODO create foil stamp
+* DONE create an inner cover
+* DONE create "full" cover (front, spine, and back into one image)
+* DONE separate image for the spine
+* DONE export images as svg if possible?
+* DONE create foil stamp
 * TODO rm legacy cruft
-* TODO the margins for the endnotes pages need to be tweaked for all formats
+* DONE the margins for the endnotes pages need to be tweaked for all formats
 * DONE b5 toc appendix jumps to next page
 CLOSED: [2024-07-20 Sat 15:26]
 * DONE endnotes aren't working now
 CLOSED: [2024-06-30 Sun 15:05]
 * DONE +rm all wpn endnotes from the documents and place them in a separate changelog file+ add conditionals to wpn endnotes
 CLOSED: [2024-06-29 Sat 16:34]
+* TODO HTML:
+This concerns the EPUB version :
+
+“This is the Noble Truth of dukkha”
+“This is the Noble Truth of the origin of dukkha”
+“This is the Noble Truth of the cessation of dukkha”
+
+All those three phrases, in the Dhamma cakkha sutta, have lost their quote marks. In PDF it’s ok.
+
+In the EPUB version, The link “uddissanādhiṭṭāna” in the index “SET 1”, brings us to the english version of this chant, as I suppose it should bring us to the pāli of that chant (as the PDF version does).

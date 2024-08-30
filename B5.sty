@@ -1,26 +1,27 @@
+% Defines a custom LaTeX package named B5
 \ProvidesPackage{B5}
 
-\usepackage{pdfcomment}
-
-\newcommand{\todo}[1]{\pdfcomment[icon=Note]{#1}}
-
-\newcommand{\margintodo}[1]{\pdfmargincomment[icon=Note]{#1}}
-
+% Import the ltablex package for extended functionality for tables
 \usepackage{ltablex}
 
+% Define lengths for indentation in various contexts
 \newlength\leaderIndent
 \setlength{\leaderIndent}{1.5em}
 
-\newlength\packedLeaderIndent
-\setlength{\packedLeaderIndent}{1.1em}
-
+% Set vertical gap
 \setlength{\vgap}{1.5em}
+
+% Set vertical indentation
 \setlength{\vindent}{\leaderIndent}
+
+% Set vertical left margin
 \setlength{\vleftmargin}{2em}
 
+% Set paragraph skip and indent
 \setlength{\parskip}{5pt}
 \setlength{\parindent}{0pt}
 
+% Redefine the 'center' environment with custom formatting
 \renewenvironment{center}%
 {\list{}{%
 		\parskip 0pt%
@@ -32,20 +33,6 @@
 		\parsep        0pt}
 	\fontsize{15}{12}\selectfont
 	\item[] \centering}%
-{\endlist}
-
-% Formatting for verses
-\newenvironment{verses}%
-{\list{}{%
-		\topsep 0pt
-		\listparindent 0em%
-		\itemindent    0em%
-		\leftmargin    0em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{15}{22}\selectfont
-		\parsep        0em %\z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
 {\endlist}
 
 % ░█▀█░█▀█░█░░░▀█▀
@@ -100,7 +87,7 @@
 {\endlist}
 
 % Pali introductions or phrases that are only chanted by the leader
-\newenvironment{pali-leader}%
+\newenvironment{leader-pali}%
 {\list{}{%
 		\parskip 10pt%
 		\topsep 0pt
@@ -114,8 +101,19 @@
 	\item[] \centering}%
 {\endlist}
 
-
-
+% Formatting for verses
+\newenvironment{verses}%
+{\list{}{%
+		\topsep 0pt
+		\listparindent 0em%
+		\itemindent    0em%
+		\leftmargin    0em %\leaderIndent%
+		\rightmargin   0em%
+		\fontsize{15}{22}\selectfont
+		\parsep        0em %\z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
 
 \newenvironment{pali-hang}%
 {\list{}{%
@@ -132,7 +130,7 @@
 {\endlist}
 
 % Enables a line to hang that is sandwiched within a paragraph
-\newenvironment{pali-hangtogether}%
+\newenvironment{pali-hang-together}%
 {\list{}{%
 		\parskip 10pt%
 		\topsep -8pt
@@ -161,7 +159,7 @@
 	\item[] \raggedright}%
 {\endlist}
 
-\newenvironment{pali-hang-firstline}%
+\newenvironment{pali-hang-first-line}%
 {\list{}{%
 		\partopsep 0pt
 		\topsep 4pt
@@ -182,19 +180,17 @@
 % 'Now let us...'
 \newenvironment{leader-english}%
 {\list{}{%
-		\parskip 10pt%
+		\parskip 7.5pt%
 		\topsep 0pt%
 		\listparindent 0em%
 		\itemindent    0pt%
 		\leftmargin    0pt %\leaderIndent%
 		\rightmargin   0pt%
 		\parsep        0pt
-		\fontsize{14.5}{22}\selectfont
+		\fontsize{14.5}{14}\selectfont
 	}%
 	\item[] \centering\itshape}%
 {\endlist}
-
-
 
 % Specific formatting found in 'Devā-ārādhanā' / 'Invitations to the Devas'
 \newenvironment{leader-pharitvana-english}%
@@ -213,7 +209,7 @@
 {\endlist}
 
 % Reduces above spacing for english leader when paired with a pali introduction
-\newenvironment{leader-english-belowpali}%
+\newenvironment{leader-english-below-pali}%
 {\list{}{%
 		\parskip 10pt%
 		\topsep -2pt%
@@ -286,7 +282,7 @@
 {\endlist}
 
 % Enables an English line to hang that is sandwiched within a paragraph
-\newenvironment{english-hangtogether}%
+\newenvironment{english-hang-together}%
 {\list{}{%
 		\topsep 0pt
 		\listparindent 0em%
@@ -300,8 +296,8 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Wraps around the `english-hangtogether` environment to allow the middle hang indent to keep congruent spacing
-\newenvironment{english-keepwith}%
+% Wraps around the `english-hang-together` environment to allow the middle hang indent to keep congruent spacing
+\newenvironment{english-keep-with}%
 {\list{}{%
 		\topsep 0pt
 		\partopsep 0pt
@@ -330,7 +326,7 @@
 {\endlist}
 
 % Hanging format for chants that are only in English
-\newenvironment{english-only-hangtogether}%
+\newenvironment{english-only-hang-together}%
 {\list{}{%
 		\topsep 0pt
 		\listparindent 0em%
@@ -344,8 +340,8 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Similar to keepwith, wraps around `english-hangtogether` but doesn't keep with previous paragraph
-\newenvironment{english-only-nohang}%
+% Similar to keep-with, wraps around `english-hang-together` but doesn't keep with previous paragraph
+\newenvironment{english-only-no-hang}%
 {\list{}{%
 		\topsep 0pt
 		\listparindent 0em%
@@ -388,7 +384,7 @@
 {\endlist}
 
 % Used for THREE problematic line
-\newenvironment{english-hang-firstline}%
+\newenvironment{english-hang-first-line}%
 {\list{}{%
 		\partopsep 0pt
 		\topsep 4pt
@@ -418,7 +414,7 @@
 {\endlist}
 
 % Hanging format for English chants, primarily for verses
-\newenvironment{english-hangtogether-verses}%
+\newenvironment{english-hang-together-verses}%
 {\list{}{%
 		\topsep 0pt
 		\listparindent 0em%

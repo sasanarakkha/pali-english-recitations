@@ -1,14 +1,5 @@
-% Defines a custom LaTeX package named A6
+% Defines a custom LaTeX package named 9x13
 \ProvidesPackage{9x13}
-
-% Import the pdfcomment package for adding PDF annotations
-\RequirePackage{pdfcomment}
-
-% Define a command '\todo' which adds a PDF comment with an icon and the provided text
-\newcommand{\todo}[1]{\pdfcomment[icon=Note]{#1}}
-
-% Define a command '\margintodo' which adds a PDF comment in the margin with an icon and the provided text
-\newcommand{\margintodo}[1]{\pdfmargincomment[icon=Note]{#1}}
 
 % Import the ltablex package for extended functionality for tables
 \RequirePackage{ltablex}
@@ -16,9 +7,6 @@
 % Define lengths for indentation in various contexts
 \newlength\leaderIndent
 \setlength{\leaderIndent}{1.5em}
-
-\newlength\packedLeaderIndent
-\setlength{\packedLeaderIndent}{1.1em}
 
 % Set vertical gap
 \setlength{\vgap}{1.5em}
@@ -33,21 +21,23 @@
 \setlength{\parskip}{5pt}
 \setlength{\parindent}{0pt}
 
-
-
 % Redefine the 'center' environment with custom formatting
 \renewenvironment{center}%
 {\list{}{%
 		\parskip 0pt%
-		\topsep 6pt%
+		\topsep 4pt%
 		\listparindent 0em%
 		\itemindent    0pt%
-		\leftmargin    0pt %\leaderIndent%
+		\leftmargin    0pt%
 		\rightmargin   0pt%
 		\parsep        0pt}
 	\fontsize{9.5}{8.5}\selectfont
 	\item[] \centering}%
 {\endlist}
+
+% ░█▀█░█▀█░█░░░▀█▀
+% ░█▀▀░█▀█░█░░░░█░
+% ░▀░░░▀░▀░▀▀▀░▀▀▀
 
 % Define a custom environment 'leader' with specific formatting
 \newenvironment{leader}%
@@ -57,7 +47,7 @@
 		% topsep ensure that this change in topsep is appropriate
 		\listparindent 0em%
 		\itemindent    0pt%
-		\leftmargin    0pt %\leaderIndent%
+		\leftmargin    0pt %
 		\rightmargin   0pt%
 		\parsep        0pt
 	}%
@@ -72,7 +62,7 @@
 		\topsep 2pt%
 		\listparindent 0em%
 		\itemindent    0pt%
-		\leftmargin    0pt %\leaderIndent%
+		\leftmargin    0pt %
 		\rightmargin   0pt%
 		\parsep        0pt%
 	}%
@@ -88,14 +78,120 @@
 		\topsep 0pt%
 		\listparindent 0em%
 		\itemindent    0pt%
-		\leftmargin    0.5cm %\leaderIndent%
-		% \leftmargin    4.0cm %\leaderIndent%
+		\leftmargin    0.5cm %
+		% \leftmargin    4.0cm %
 		\rightmargin   0.5cm%
 		\parsep        \z@ \@plus\p@%
 	}%
 	\fontsize{9.5}{13}\selectfont
 	\item[] \centering}%
 {\endlist}
+
+% Define a custom environment 'leader-pali' for Pāli introductions or phrases chanted only by the leader
+\newenvironment{leader-pali}%
+{\list{}{%
+		\topsep 0pt
+		\listparindent 0em%
+		\itemindent    0em%
+		\leftmargin    0em %2.5em %
+		\rightmargin   0em%
+		\fontsize{9.5}{11}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \centering}%
+{\endlist}
+
+% Define a custom environment 'verses' for formatting verses
+\newenvironment{verses}%
+{\list{}{%
+		\parskip 2pt
+		\topsep 0pt
+		\listparindent 0em%
+		\itemindent    0em%
+		\leftmargin    0em %
+		\rightmargin   0em%
+		\fontsize{9.5}{13}\selectfont
+		\parsep        0em%\z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% Define a custom environment 'pali-hang' for Pāli verses and parittas
+\newenvironment{pali-hang}%
+{\list{}{%
+		\topsep 0pt
+		\itemsep 3pt
+		\listparindent 0em%
+		\itemindent    -0.5em%
+		\leftmargin    0.5em %2.5em %
+		\rightmargin   0em%
+		\fontsize{9.5}{13}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% Define a custom environment 'pali-hang-together' for Pāli lines that can hang within a paragraph
+\newenvironment{pali-hang-together}%
+{\list{}{%
+		\topsep -8pt
+		\listparindent 0em%
+		\itemindent    -0.75em%
+		\leftmargin    0.75em %2.5em %
+		\rightmargin   0em%
+		\fontsize{9.5}{13}\selectfont
+		\parsep        -8pt %\z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% Define a custom environment 'pali-hang-continued' to continue indentation from a previous 'pali-hang*'
+\newenvironment{pali-hang-continued}%
+{\list{}{%
+		\topsep 0pt
+		\listparindent 0em%
+		\itemindent    0em%
+		\leftmargin    0.5em%
+		\rightmargin   0em%
+		\fontsize{9.5}{13}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% Define a custom environment 'pali-hang-first-line' for formatting the first line of Pāli verses or parittas
+\newenvironment{pali-hang-first-line}%
+{\list{}{%
+		\partopsep 0pt
+		\topsep 4pt
+		\listparindent 0em%
+		\itemindent    -0.5em%
+		\leftmargin    0.5em%
+		\rightmargin   0em%
+		\fontsize{9.5}{13}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+\newenvironment{pali-hang-verses}%
+{\list{}{%
+		\parskip 2pt
+		\topsep 0pt
+		\itemsep 3pt
+		\listparindent 0em%
+		\itemindent    -0.5em%
+		\leftmargin    0.5em %2.5em %
+		\rightmargin   0em%
+		\fontsize{9.5}{13}\selectfont
+		\parsep        \z@ \@plus\p@%
+	}%
+	\item[] \raggedright}%
+{\endlist}
+
+% ░█▀▀░█▀█░█▀▀░█░░░▀█▀░█▀▀░█░█
+% ░█▀▀░█░█░█░█░█░░░░█░░▀▀█░█▀█
+% ░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀
 
 % Define a custom environment 'leader-pharitvana-english' with specific formatting
 % Found in 'Devā-ārādhanā' / 'Invitations to the Devas'
@@ -105,8 +201,8 @@
 		\topsep 0pt%
 		\listparindent 0em%
 		\itemindent    0pt%
-		\leftmargin    0.5cm %\leaderIndent%
-		% \leftmargin    4.0cm %\leaderIndent%
+		\leftmargin    0.5cm %
+		% \leftmargin    4.0cm %
 		\rightmargin   0.5cm%
 		\parsep        \z@ \@plus\p@%
 	}%
@@ -114,15 +210,15 @@
 	\item[] \centering\itshape}%
 {\endlist}
 
-% Define a custom environment 'leader-english-belowpali' with specific formatting
+% Define a custom environment 'leader-english-below-pali' with specific formatting
 % Reduces above spacing for English leader when paired with a Pali introduction
-\newenvironment{leader-english-belowpali}%
+\newenvironment{leader-english-below-pali}%
 {\list{}{%
 		\parskip 6pt%
 		\topsep -2pt%
 		\listparindent 0em%
 		\itemindent    0pt%
-		\leftmargin    0pt %\leaderIndent%
+		\leftmargin    0pt %
 		\rightmargin   0pt%
 		\parsep        -8pt
 		\fontsize{9}{8}\selectfont
@@ -134,30 +230,16 @@
 % 'Now let us...'
 \newenvironment{leader-english}%
 {\list{}{%
-		\parskip 4pt%
+		\parskip 1.5pt%
 		\topsep 0pt%
 		\listparindent 0em%
 		\itemindent    0pt%
-		\leftmargin    0pt %\leaderIndent%
+		\leftmargin    0pt %
 		\rightmargin   0pt%
 		\parsep        0pt
-		\fontsize{9}{14}\selectfont
+		\fontsize{9}{8}\selectfont
 	}%
 	\item[] \centering\itshape}%
-{\endlist}
-
-% Define a custom environment 'verses' for formatting verses
-\newenvironment{verses}%
-{\list{}{%
-		\topsep 0pt
-		\listparindent 0em%
-		\itemindent    0em%
-		\leftmargin    0em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{9.5}{13}\selectfont
-		\parsep        0em %\z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
 {\endlist}
 
 % Define a custom environment 'english' for English passages
@@ -167,7 +249,7 @@
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    0em%
-		\leftmargin    1.0em %\leaderIndent%
+		\leftmargin    1.0em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        -11em %\z@ \@plus\p@%
@@ -179,7 +261,7 @@
 % For chants like 'The Highest Blessings' which are English only and therefore don't need left margin indentation
 \newenvironment{english-only}%
 {\list{}{%
-		% \parskip       8pt
+		\parskip       2.5pt
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    0em%
@@ -214,7 +296,7 @@
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    -0.5em%
-		\leftmargin    1.5em %\leaderIndent%
+		\leftmargin    1.5em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        -8.5em %\z@ \@plus\p@%
@@ -222,14 +304,27 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Define a custom environment 'english-hangtogether' for English lines that need hanging indentation within a paragraph
-% Enables an English line to hang that is sandwiched within a paragraph
-\newenvironment{english-hangtogether}%
+\newenvironment{english-hang-inline}%
 {\list{}{%
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    -0.5em%
-		\leftmargin    0.5em %\leaderIndent%
+		\leftmargin    0.5em %
+		\rightmargin   0em%
+		\fontsize{9}{13}\selectfont
+		\parsep        -8.5em %\z@ \@plus\p@%
+	}%
+	\item[] \raggedright\itshape}%
+{\endlist}
+
+% Define a custom environment 'english-hang-together' for English lines that need hanging indentation within a paragraph
+% Enables an English line to hang that is sandwiched within a paragraph
+\newenvironment{english-hang-together}%
+{\list{}{%
+		\topsep 0pt
+		\listparindent 0em%
+		\itemindent    -0.5em%
+		\leftmargin    0.5em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -238,15 +333,15 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Define a custom environment 'english-keepwith' to maintain congruent spacing with hang indent
-% Wraps around the 'english-hangtogether' environment to allow the middle hang indent to keep congruent spacing
-\newenvironment{english-keepwith}%
+% Define a custom environment 'english-keep-with' to maintain congruent spacing with hang indent
+% Wraps around the 'english-hang-together' environment to allow the middle hang indent to keep congruent spacing
+\newenvironment{english-keep-with}%
 {\list{}{%
 		\topsep 0pt
 		\partopsep 0pt
 		\listparindent 0em%
 		\itemindent    0em%
-		\leftmargin    1em %\leaderIndent%
+		\leftmargin    1em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -260,7 +355,7 @@
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    -0.5em%
-		\leftmargin    0.5em %\leaderIndent%
+		\leftmargin    0.5em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -268,13 +363,13 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Define a custom environment 'english-only-hangtogether' for hanging format for chants that are only in English
-\newenvironment{english-only-hangtogether}%
+% Define a custom environment 'english-only-hang-together' for hanging format for chants that are only in English
+\newenvironment{english-only-hang-together}%
 {\list{}{%
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    -0.5em%
-		\leftmargin    0.5em %\leaderIndent%
+		\leftmargin    0.5em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -283,13 +378,13 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Define a custom environment 'english-only-nohang' similar to 'english-keepwith' but without hang indent
-\newenvironment{english-only-nohang}%
+% Define a custom environment 'english-only-no-hang' similar to 'english-keep-with' but without hang indent
+\newenvironment{english-only-no-hang}%
 {\list{}{%
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    0em%
-		\leftmargin    0em %\leaderIndent%
+		\leftmargin    0em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -303,7 +398,7 @@
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    0em%
-		\leftmargin    0em %\leaderIndent%
+		\leftmargin    0em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -318,7 +413,7 @@
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    0em%
-		\leftmargin    1.0em%\leaderIndent%
+		\leftmargin    1.0em%
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -326,14 +421,14 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Define a custom environment 'english-hang-firstline' for formatting TWO problematic lines
-\newenvironment{english-hang-firstline}%
+% Define a custom environment 'english-hang-first-line' for formatting TWO problematic lines
+\newenvironment{english-hang-first-line}%
 {\list{}{%
 		\partopsep 0pt
 		\topsep 4pt
 		\listparindent 0em%
 		\itemindent    -0.5em%
-		\leftmargin    0.5em%\leaderIndent%
+		\leftmargin    0.5em%
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -347,7 +442,7 @@
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    -0.5em%
-		\leftmargin    1.5em %\leaderIndent%
+		\leftmargin    1.5em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -356,13 +451,13 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Define a custom environment 'english-hangtogether-verses' for hanging format for English chants, primarily for verses
-\newenvironment{english-hangtogether-verses}%
+% Define a custom environment 'english-hang-together-verses' for hanging format for English chants, primarily for verses
+\newenvironment{english-hang-together-verses}%
 {\list{}{%
 		\topsep 0pt
 		\listparindent 0em%
 		\itemindent    -0.5em%
-		\leftmargin    0.5em %\leaderIndent%
+		\leftmargin    0.5em %
 		\rightmargin   0em%
 		\fontsize{9}{13}\selectfont
 		\parsep        \z@ \@plus\p@%
@@ -371,80 +466,15 @@
 	\item[] \raggedright\itshape}%
 {\endlist}
 
-% Define a custom environment 'pali-hang' for Pāli verses and parittas
-\newenvironment{pali-hang}%
-{\list{}{%
-		\topsep 0pt
-		\itemsep 3pt
-		\listparindent 0em%
-		\itemindent    -0.5em%
-		\leftmargin    0.5em %2.5em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{9.5}{13}\selectfont
-		\parsep        \z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
-{\endlist}
-
-% Define a custom environment 'pali-leader' for Pāli introductions or phrases chanted only by the leader
-\newenvironment{pali-leader}%
-{\list{}{%
-		\topsep 0pt
-		\listparindent 0em%
-		\itemindent    0em%
-		\leftmargin    0em %2.5em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{9.5}{11}\selectfont
-		\parsep        \z@ \@plus\p@%
-	}%
-	\item[] \centering}%
-{\endlist}
-
-% Define a custom environment 'pali-hangtogether' for Pāli lines that can hang within a paragraph
-\newenvironment{pali-hangtogether}%
-{\list{}{%
-		\topsep -8pt
-		\listparindent 0em%
-		\itemindent    -0.75em%
-		\leftmargin    0.75em %2.5em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{9.5}{13}\selectfont
-		\parsep        -8pt %\z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
-{\endlist}
-
-% Define a custom environment 'pali-hang-continued' to continue indentation from a previous 'pali-hang*'
-\newenvironment{pali-hang-continued}%
-{\list{}{%
-		\topsep 0pt
-		\listparindent 0em%
-		\itemindent    0em%
-		\leftmargin    0.5em %2.5em %\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{9.5}{13}\selectfont
-		\parsep        \z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
-{\endlist}
-
-% Define a custom environment 'pali-hang-firstline' for formatting the first line of Pāli verses or parittas
-\newenvironment{pali-hang-firstline}%
-{\list{}{%
-		\partopsep 0pt
-		\topsep 4pt
-		\listparindent 0em%
-		\itemindent    -0.5em%
-		\leftmargin    0.5em%\leaderIndent%
-		\rightmargin   0em%
-		\fontsize{9.5}{13}\selectfont
-		\parsep        \z@ \@plus\p@%
-	}%
-	\item[] \raggedright}%
-{\endlist}
+% ░█▀▀░█▀█░█▀▄░█▀█░█▀█░▀█▀░█▀▀░█▀▀
+% ░█▀▀░█░█░█░█░█░█░█░█░░█░░█▀▀░▀▀█
+% ░▀▀▀░▀░▀░▀▀░░▀░▀░▀▀▀░░▀░░▀▀▀░▀▀▀
 
 % Change the title for the Endnotes chapter to 'Endnotes'
-\renewcommand\notesname{Endnotes}
+\renewcommand\notesname{%
+	Endnotes%
+	\vspace{-0.7em}%
+}%
 
 % Redefine the formatting for endnotes
 \renewcommand{\prenoteinnotes}{%
@@ -453,7 +483,7 @@
 \renewcommand{\noteidinnotes}[2]{% {notenum}{id}
 	\begin{adjustwidth}{14pt}{0pt}%
 		\hspace{-33pt}\makebox[30pt][l]{%
-			\makebox[18pt][1]{#2}%
+			\makebox[24pt][1]{#2}%
 			\makebox[16pt][l]{\ifnum#1>0\textsuperscript{#1}\fi%
 			}%
 		}%
@@ -464,6 +494,10 @@
 }%
 \renewcommand{\postnoteinnotes}{\par}%
 
+% ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+% ░▄▄▄░▄▄▄░▄▄▄░▄▄▄░▄▄▄░▄▄▄░▄▄▄░▄▄▄
+% ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 % Define a command \tr for italicizing text (used for translation)
 \newcommand\tr[1]{\textit{#1}}
 
@@ -473,6 +507,10 @@
 		#1%
 	\end{english}%
 }
+
+% ░▀█▀░█▀█░█▀▄░█░█░█░░░█▀█░█▀▄
+% ░░█░░█▀█░█▀▄░█░█░█░░░█▀█░█▀▄
+% ░░▀░░▀░▀░▀▀░░▀▀▀░▀▀▀░▀░▀░▀░▀
 
 % Set tabular spacing
 \setlength{\tabcolsep}{1em}

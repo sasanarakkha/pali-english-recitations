@@ -1,9 +1,43 @@
-
 \section{Pāli Phonetics and Pronunciation}
 \label{phonetics}
 
 % the wizardry that brought about this table
 % https://tex.stackexchange.com/users/264581/paladhammika
+
+\ifninebythirteenversion
+% TODO 9x13 need more space above and below the text
+\begin{table}[ht]
+  \centering
+  \resizebox{\textwidth}{!}{%
+    \begin{tblr}{
+        colspec={l *{11}{c}},
+        hlines, vlines,
+        row{1-5}={font=\fontsize{16}{16}\selectfont},
+        cell{6-Z}{1}={font=\fontsize{16}{16}\selectfont},
+        cell{6-Z}{2-12}={font=\fontsize{16}{16}\selectfont\itshape}
+      }
+      \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
+      & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
+      & \SetCell[c=5]{c} Stops &&&&
+      & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
+      & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
+      & \SetCell[r=3]{c} \rotcell{Short}
+      & \SetCell[r=3]{c} \rotcell{Long}
+      & \SetCell[r=3]{c} \rotcell{Compound} & \\
+      & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
+      & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
+      Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
+      Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
+      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
+      Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
+      Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
+    \end{tblr}
+  }
+\end{table}
+
+\fi
+
+\ifafiveversion
 
 \begin{table}[ht]
   \centering
@@ -33,12 +67,47 @@
   }
 \end{table}
 
+\fi
+
+\ifbfiveversion
+
+\begin{table}[ht]
+  \centering
+  \resizebox{\textwidth}{!}{%
+    \begin{tblr}{
+        colspec={l *{11}{c}},
+        hlines, vlines,
+        row{1-5}={font=\small},
+        cell{6-Z}{2-12}={font=\itshape}
+      }
+      \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
+      & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
+      & \SetCell[c=5]{c} Stops &&&&
+      & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
+      & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
+      & \SetCell[r=3]{c} \rotcell{Short}
+      & \SetCell[r=3]{c} \rotcell{Long}
+      & \SetCell[r=3]{c} \rotcell{Compound} & \\
+      & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
+      & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
+      Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
+      Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
+      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
+      Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
+      Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
+    \end{tblr}
+  }
+\end{table}
+
+\fi
+
 %% \ifafiveversion\vspace{-0.5cm}\fi
 % \ifninebythirteenversion\vspace{-0.5cm}\fi
 % \ifbfiveversion\vspace{-0.5cm}\fi
 
 Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
 
+\ifninebythirteenversion\vspace{-0.25cm}\fi
 \ifafiveversion\vspace{-0.25cm}\fi
 \ifbfiveversion\vspace{-0.5cm}\fi
 
@@ -72,29 +141,19 @@ Contrary to English language, Pāli does not contain diphthongs i.e. a combinati
 
 \subsection*{Consonants}
 
-Pāli consonants are mostly pronounced as one would expect, but with a few additional rules:  Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. ``\textit{jivhā}''or ``\textit{taṇhā}'').  Examples: \textbf{th} as in ``Thomas'' (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
-
-
-%% \ifninebythirteenversion\vspace{-0.5cm}\fi
-
+Pāli consonants are mostly pronounced as one would expect, but with a few additional rules:  Two-lettered notations with \textbf{h} (e.g. \textbf{kh}, \textbf{ch}, \textbf{ṭh}, \textbf{th}, \textbf{ḷh}, \textbf{ph}) denote an aspirated, airy sound, and should be considered as one unit. They are distinct from the hard, crisp sound of a single consonant (e.g. \textbf{k}, \textbf{c}, \textbf{ṭ}, \textbf{t}, \textbf{p}). However, other combinations with \textbf{h}, e.g., \textbf{mh}, \textbf{ñh}, and \textbf{vh}, do count as two consonants (e.g. ``\textit{jivhā}''or ``\textit{taṇhā}'').  Examples: \textbf{th} as in ``Thomas'' (never pronounced as in ``the''); \textbf{ph} as in palate (never pronounced as in ``photo''). \ifninebythirteenversion\clearpage\fi Double consonants are pronounced with a pause before releasing the consonant e.g. kk as in bookkeeper.
 
 \textbf{ḍ}, \textbf{ḍh}, \textbf{ḷ}, \textbf{ḷh}, \textbf{ṇ}, \textbf{ṭ}, \textbf{ṭh}\\
 These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the palate.
 
 \ifafiveversion\clearpage\fi
-\ifninebythirteenversion\clearpage\fi
 
 \subsection*{Miscellaneous}
 
 The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'' is pronounced as in ``ca\textbf{ny}on''; the pure nasal ``\textbf{ṁ}'' and voiced nasal ``\textbf{ṅ}'' are pronounced as in ``su\textbf{ng}''.
 
-%% \ifninebythirteenversion\vspace{-0.5cm}\fi
-
 As an aid to understanding, \textbf{hyphens} (-) have often been inserted in longer Pāli compounds, in order to indicate the separate words that make up the compound. This should not affect the pronunciation during recitation in any way. In order not to suggest unintended pauses in the flow of the recitation, punctuation marks (commas, periods, colons and semicolons) were removed for most chants. \textbf{Line breaks} within a sentence indicate that a short breathing pause is inserted, but indented line breaks indicate that recitation continues without a breathing pause.
 
-%% \ifninebythirteenversion\vspace{-0.5cm}\fi
-
 Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously according to one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
-
+% TODO 9x13 keep brackets with angle bracket
 \clearpage
-
