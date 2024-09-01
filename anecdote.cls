@@ -1,4 +1,3 @@
-% TODO remove unused cruft
 % A memoir-based documentclass with a contemporary style for books with a lighter content.
 
 % (c) Gambhiro Bhikkhu, 2017
@@ -172,6 +171,7 @@
 % Load the syntonly package which checks the syntax without compiling the document
 \RequirePackage{syntonly}
 % \syntaxonly
+\RequirePackage{pdflscape}
 
 
 
@@ -205,6 +205,7 @@
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 % Define the color for instructional text or comments.
 \definecolor{instruction}{gray}{0.3}
+
 
 
 
@@ -619,8 +620,13 @@
 
 % Define a command for sutta references
 \newcommand{\suttaRef}[1]{%
-	\vspace{-6pt}% Adjusts vertical spacing for sutta references
+	\ifbfiveversion
+		\vspace{-7pt}% Adjusts vertical spacing above sutta references
+	\else
+		\vspace{-6pt}% Adjusts vertical spacing above sutta references
+	\fi
 	\hfill {\ifafiveversion\fontsize{8}{16}\fi\ifninebythirteenversion\fontsize{6}{11}\fi\ifbfiveversion\fontsize{9.5}{19}\fi\selectfont #1\par}% Sets sutta reference in smaller font size
+	\vspace{-6pt}% Adjusts vertical spacing below sutta references
 }
 
 % Redefine the quote environment for longer sutta and book quotes

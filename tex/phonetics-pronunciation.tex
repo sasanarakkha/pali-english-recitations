@@ -1,3 +1,4 @@
+
 \section{Pāli Phonetics and Pronunciation}
 \label{phonetics}
 
@@ -5,16 +6,18 @@
 % https://tex.stackexchange.com/users/264581/paladhammika
 
 \ifninebythirteenversion
-% TODO 9x13 need more space above and below the text
+% TODO 9x13print and test
 \begin{table}[ht]
   \centering
   \resizebox{\textwidth}{!}{%
     \begin{tblr}{
         colspec={l *{11}{c}},
         hlines, vlines,
-        row{1-5}={font=\fontsize{16}{16}\selectfont},
-        cell{6-Z}{1}={font=\fontsize{16}{16}\selectfont},
-        cell{6-Z}{2-12}={font=\fontsize{16}{16}\selectfont\itshape}
+        rowsep=20pt, % Adjust vertical padding
+        colsep=15pt, % Adjust horizontal padding
+        row{1-5}={font=\fontsize{40}{24}\selectfont},
+        cell{6-Z}{1}={font=\fontsize{40}{24}\selectfont},
+        cell{6-Z}{2-12}={font=\fontsize{40}{24}\selectfont\itshape}
       }
       \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
       & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
@@ -71,6 +74,7 @@
 
 \ifbfiveversion
 
+% TODO B5 & A5 adjust fonts and spacing in
 \begin{table}[ht]
   \centering
   \resizebox{\textwidth}{!}{%
@@ -154,6 +158,7 @@ The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'
 
 As an aid to understanding, \textbf{hyphens} (-) have often been inserted in longer Pāli compounds, in order to indicate the separate words that make up the compound. This should not affect the pronunciation during recitation in any way. In order not to suggest unintended pauses in the flow of the recitation, punctuation marks (commas, periods, colons and semicolons) were removed for most chants. \textbf{Line breaks} within a sentence indicate that a short breathing pause is inserted, but indented line breaks indicate that recitation continues without a breathing pause.
 
-Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously according to one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
-% TODO 9x13 keep brackets with angle bracket
+Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously according to one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \ifninebythirteenversion \\ \fi \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
+
 \clearpage
+

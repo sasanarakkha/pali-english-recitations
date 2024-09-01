@@ -34,7 +34,7 @@
   - [[#on-protection][On Protection]]
   - [[#miscellaneous-verses][Miscellaneous Verses]]
   - [[#a-single-excellent-night][A Single Excellent Night]]
-  - [[#the-highest-blessings][The Highest Blessings]]
+  - [[#the-discourse-on-blessings][The Discourse on Blessings]]
   - [[#the-buddhas-words-on-loving-kindness][The Buddha's Words on Loving-Kindness]]
 - [[#teachings][Teachings]]
   - [[#covertitle-2][Cover/Title]]
@@ -67,9 +67,9 @@
   - [[#dhammacakkappavattana-sutta][Dhammacakkappavattana-sutta]]
   - [[#discourse-on-turning-the-wheel-of-dhamma][Discourse on Turning the Wheel of Dhamma]]
   - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa-sutta]]
-  - [[#discourse-on-the-characteristic-of-not-self][Discourse on the Characteristic of Not-Self]]
+  - [[#the-discourse-on-the-characteristic-of-not-self][The Discourse on the Characteristic of Not-Self]]
   - [[#āditta-pariyāya-sutta][Āditta-pariyāya-sutta]]
-  - [[#discourse-on-the-exposition-on-burning][Discourse on the Exposition on Burning]]
+  - [[#the-discourse-on-the-exposition-on-burning][The Discourse on the Exposition on Burning]]
 - [[#thanksgiving-recitations][Thanksgiving Recitations]]
   - [[#covertitle-5][Cover/Title]]
   - [[#just-as-rivers-full-of-water][Just as Rivers Full of Water]]
@@ -88,8 +88,8 @@
   - [[#verses-on-triumph-by-paying-homage][Verses on Triumph by Paying Homage]]
   - [[#paying-homage-to-the-octad][Paying Homage to the Octad]]
   - [[#discourse-on-blessings][Discourse on Blessings]]
-  - [[#discourse-on-jewels][Discourse on Jewels]]
-  - [[#discourse-on-the-loving-kindness-mboxtobedone][Discourse on the Loving-Kindness \mbox{to}~be~Done]]
+  - [[#the-discourse-on-jewels][The Discourse on Jewels]]
+  - [[#the-discourse-on-the-loving-kindness-to-be-done][The Discourse on the Loving-Kindness to be Done]]
   - [[#protection-of-the-aggregates][Protection of the Aggregates]]
   - [[#qualities-of-the-buddha-dhamma-and-sangha][Qualities of the Buddha, Dhamma, and Sangha]]
   - [[#whatever-kind-of-jewel-in-the-world][Whatever Kind of Jewel in the World]]
@@ -270,7 +270,7 @@ Accompanying audio recordings can be found at:
   \linkdest{endnote1-body}
   Additional information on translations, as well as deviations\makeatletter\hyperlink{endnote1-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote1-appendix}{\hyperlink{endnote1-body}{Due to the balanced and inspiring selection of chants, as well as for the sake of compatibility, WPN's \textit{Buddhist Chanting} (2014) has served as the basis for this book. Over time, suggestions for the inclusion of additional chants, as well as occasional improvements of existing translations were incorporated. Such changes were meticulously marked down in the endnotes, so that someone familiar with the present book can straight away find the relevant differences, which can be useful when visiting a branch monastery of the Ajahn Chah lineage, in order to know in which places to revert to the original version.}}}}}\makeatother\thickspace
-  from WPN \textit{Buddhist Chanting} (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
+  from WPN's \textit{Buddhist Chanting} (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
 
 
   \ifninebythirteenversion \smallskip \else \medskip \fi
@@ -361,7 +361,7 @@ Accompanying audio recordings can be found at:
   {\pdfbookmark[2]{Set 5}{set5}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifninebythirteenversion\fontsize{13}{8.5}\fi\ifbfiveversion\fontsize{22}{18}\fi\selectfont\textls*{Set 5}}}}\\
   \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifninebythirteenversion\fontsize{8.7}{17}\fi\ifbfiveversion\fontsize{16}{33.5}\fi\selectfont
     \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing} \ifdigitalversion\else\pageref{mindfulness-of-breathing}\fi\\
-    \hyperref[highest-blessings]{The Highest Blessings} \ifdigitalversion\else\pageref{highest-blessings}\fi\\
+    \hyperref[discourse-on-blessings]{The Discourse on Blessings} \ifdigitalversion\else\pageref{discourse-on-blessings}\fi\\
     \hyperref[three-characteristics]{The Three Characteristics} \ifdigitalversion\else\pageref{three-characteristics}\fi\\
     \hyperref[four-requisites]{The Four Requisites} \ifdigitalversion\else\pageref{four-requisites}\fi\\
     \hyperref[five-reflections]{Five Subjects for Frequent Reflection} \ifdigitalversion\else\pageref{five-reflections}\fi\\
@@ -442,7 +442,7 @@ Accompanying audio recordings can be found at:
 
 #+begin_src latex :tangle ./tex/purpose-and-benefits.tex
 
-\chapter[Purpose and Benefits of Dhamma Recitation]{Purpose and Benefits\\ of Dhamma Recitation}
+\chapter[Purpose and Benefits\\ of Dhamma Recitation]{Purpose and Benefits\\ of Dhamma Recitation}
 \label{purpose-and-benefits}
 
 \subsection*{Historical Background}
@@ -624,7 +624,7 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
   A     & Aṭṭhakathā (Commentary)                             \\
   MJG   & Mahā-jaya-maṅgala-gāthā (Sri Lanka)                 \\
   Trad  & Traditional verses not found in the original Pāli   \\
-  WPN   & Wat Pah Nanachat Buddhist Chanting (2014)           \\
+  WPN   & Wat Pah Nanachat's Buddhist Chanting (2014)           \\
 \end{tabular}
 
 Wisdom Publication sources: Nikāya and sutta \# (eg. DN 1)\\
@@ -1120,6 +1120,8 @@ Dakkhiṇeyyo
   Worthy of offerings
 \end{english}
 
+\ifbfiveversion\clearpage\fi
+
 Añjali-karaṇīyo
 
 \begin{english}
@@ -1207,10 +1209,10 @@ Yo magga-pāk'āmata-bheda-bhinnako
 Lok'uttaro yo ca tad'attha-dīpano
 
 \linkdest{endnote10-body}
-\begin{english}
+\begin{english-hang}
   And illuminating that goal \breathmark\ which is beyond the conditioned world\ifdigitalversion\makeatletter\hyperlink{endnote10-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote10-appendix}{\hyperlink{endnote10-body}{WPN: ``That which is beyond the conditioned world''}}}}}\makeatother\fi
-\end{english}
+\end{english-hang}
 
 Vandāmi dhammaṁ aham'ādarena taṁ
 
@@ -1601,9 +1603,9 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
   Taṁ no brahmacariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
 \end{pali-hang}
 
-\begin{english}
+\begin{english-hang}
   May this holy life \breathmark\ lead us to the end of this whole mass of suffering
-\end{english}
+\end{english-hang}
 
 \suttaRef{[Thai]}
 
@@ -1829,6 +1831,7 @@ Saṅghaṁ namāmi
 \end{verses}
 
 \ifafiveversion\clearpage\fi
+\ifbfiveversion\clearpage\fi
 
 \linkdest{endnote29-body}
 \linkdest{endnote30-body}
@@ -1837,7 +1840,7 @@ Saṅghaṁ namāmi
         \hypertarget{endnote29-appendix}{\hyperlink{endnote29-body}{WPN: ``what not'': 'What not' is usually followed by what is similar. Furthermore, the meaning of \textit{adhamma} in this context describes not only the lack of \textit{Dhamma}, but the practice of wrong \textit{Dhamma}.}}}}}\makeatother\fi
 \\
   Will never have the same results\\
-  While wrong\ifdigitalversion\makeatletter\hyperlink{endnote30-appendix}\Hy@raisedlink{{\pagenote{%
+  While wrong \ifdigitalversion\makeatletter\hyperlink{endnote30-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote30-appendix}{\hyperlink{endnote30-body}{WPN: ``lack of \textit{Dhamma}'' This translation is problematic, because a mere ``lack of \textit{Dhamma}'' does not lead to rebirth in hell; otherwise all non-Buddhists would be destined to hell. In reality, it is the view and practice of ``wrong \textit{Dhamma}'' that leads to hell, which is also substantiated by the Commentary, which defines ``\textit{adhamma}'' as the opposite (\textit{paṭipakkha}) of true \textit{Dhamma}.}}}}}\makeatother\fi
   Dhamma leads to hell realms\\
   True Dhamma takes one on a good course
@@ -1918,8 +1921,10 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Yo ca buddhañ'ca dhammañ'ca – Saṅghañ'ca saraṇaṁ gato\\
-  Cattāri ariya-saccāni – Samma-ppaññāya passati
 \end{verses}
+\begin{pali-hang-together}
+  Cattāri ariya-saccāni – Samma-ppaññāya passati
+\end{pali-hang-together}
 
 \linkdest{endnote162-body}
 \linkdest{endnote163-body}
@@ -1936,8 +1941,10 @@ Saṅghaṁ namāmi
 
 \begin{verses}
   Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
-  Ariyañ'c'aṭṭh'aṅgikaṁ maggaṁ – Dukkh'ūpasama-gāminaṁ
 \end{verses}
+\begin{pali-hang-together}
+  Ariyañ'c'aṭṭh'aṅgikaṁ maggaṁ – Dukkh'ūpasama-gāminaṁ
+\end{pali-hang-together}
 
 \ifafiveversion\clearpage\fi
 
@@ -2142,6 +2149,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{verses}
 
 \ifafiveversion\clearpage\fi
+\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   Few amongst humankind\\
@@ -2636,8 +2644,10 @@ Etaṁ buddhāna'sāsanaṁ
 
 \begin{verses}
   Yaṁ'kiñci sithilaṁ kammaṁ – Saṅkiliṭṭhañ'ca yaṁ vataṁ\\
-  Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti maha-pphalan'ti
 \end{verses}
+\begin{pali-hang-together}
+  Saṅkassaraṁ brahmacariyaṁ – Na taṁ hoti maha-pphalan'ti
+\end{pali-hang-together}
 
 \begin{english-verses}
   Whatever deed that's slackly done\\
@@ -2755,8 +2765,10 @@ Etaṁ buddhāna'sāsanaṁ
 
 \begin{verses}
   Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā\\
-  Mā vo pamatte viññāya – Maccurājā amohayittha vas'ānuge
 \end{verses}
+\begin{pali-hang-together}
+  Mā vo pamatte viññāya – Maccurājā amohayittha vas'ānuge
+\end{pali-hang-together}
 
 \begin{english-verses}
   Arouse yourselves \breathmark\ sit up!\\
@@ -2847,6 +2859,8 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english}
 
 \suttaRef{[Dhp 276]}
+
+\ifbfiveversion\clearpage\fi
 
 \begin{verses}
   Yaṁ bhikkhave satthārā karaṇīyaṁ sāvakānaṁ\\
@@ -2993,13 +3007,13 @@ Etaṁ buddhāna'sāsanaṁ
 
 #+end_src
 
-** The Highest Blessings
+** The Discourse on Blessings
 
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Maṅgala-sutta}
-\section{The Highest Blessings}
-\label{highest-blessings}
+\section{The Discourse on Blessings}
+\label{discourse-on-blessings}
 
 \linkdest{endnote46-body}
 \begin{leader-english}
@@ -3050,6 +3064,7 @@ Etaṁ buddhāna'sāsanaṁ
   Accomplished in learning and craftsman's skills\\
   With discipline highly trained\\
   \ifafiveversion\clearpage\fi
+\ifbfiveversion\clearpage\fi
   And speech that is true and pleasant to hear\\
   These are the highest blessings
 \end{english-only}
@@ -3104,6 +3119,8 @@ Etaṁ buddhāna'sāsanaṁ
   And the realization of Nibbāna\\
   These are the highest blessings
 \end{english-only}
+
+\ifbfiveversion\clearpage\fi
 
 \begin{english-only}
   Although in contact with the world\\
@@ -3691,7 +3708,7 @@ Vijjā udapādi\\
   Knowledge arose\\
   \linkdest{endnote55-body}
   Light arose in me\ifdigitalversion\makeatletter\hyperlink{endnote55-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote55-appendix}{\hyperlink{endnote55-body}{WPN: ``Light arose''}}}}}\makeatother\\\fi
+        \hypertarget{endnote55-appendix}{\hyperlink{endnote55-body}{WPN: ``Light arose''}}}}}\makeatother\fi \\
   ``This is the Noble Truth of \textit{dukkha}''
 \end{english-verses}
 
@@ -3700,7 +3717,7 @@ Taṁ kho pan'idaṁ dukkhaṁ ariya-saccaṁ pariññeyyan'ti
 \linkdest{endnote56-body}
 \begin{english}
   This Noble Truth of dukkha\ifdigitalversion\makeatletter\hyperlink{endnote56-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote56-appendix}{\hyperlink{endnote56-body}{WPN: ``Now this Noble Truth of \textit{dukkha}''}}}}}\makeatother\\\fi
+        \hypertarget{endnote56-appendix}{\hyperlink{endnote56-body}{WPN: ``Now this Noble Truth of \textit{dukkha}''}}}}}\makeatother\fi \\
   Should be completely understood
 \end{english}
 
@@ -3742,8 +3759,6 @@ Taṁ kho pan'idaṁ dukkha-samudayo ariya-saccaṁ pahātabban'ti
 Taṁ kho pan'idaṁ dukkha-samudayo ariya-saccaṁ pahīnan'ti
 \end{pali-hang}
 
-\ifbfiveversion\clearpage\fi
-
 \begin{english}
   This origin of dukkha\\
   Has been abandoned
@@ -3754,7 +3769,6 @@ Pubbe ananussutesu dhammesu\\
 Cakkhuṁ udapādi\\
 Ñāṇaṁ udapādi\\
 Paññā udapādi\\
-\ifninebythirteenversion\clearpage\fi
 Vijjā udapādi\\
 Āloko udapādi
 
@@ -3768,7 +3782,9 @@ Vijjā udapādi\\
   ``This is the Noble Truth of the cessation of dukkha''
 \end{english-verses}
 
+\begin{pali-hang}
 Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban'ti
+\end{pali-hang}
 
 \begin{english}
   This cessation of dukkha\\
@@ -3854,14 +3870,18 @@ Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
   Was not entirely pure
 \end{english-verses}
 
-\ifbfiveversion\clearpage\fi
-
+\begin{pali-hang-first-line}
 N'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake\\
+\end{pali-hang-first-line}
+\begin{pali-hang-together}
 Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya\\
+\end{pali-hang-together}
 \linkdest{endnote58-body}
+\begin{pali-hang-together}
 Anuttaraṁ sammā-sambodhiṁ abhisambuddho\makeatletter\hyperlink{endnote58-appendix}\Hy@raisedlink{{\pagenote{%
       \hypertarget{endnote58-appendix}{\hyperlink{endnote58-body}{Instead of the nominative ``\textit{abhisambuddo}'' (Thai and Buddha Jayanti Pāli edition), one would usually expect the accusative or a quotation here, which is indeed what is found in the PTS and Chatta Saṅgāyana editions, giving ``\textit{abhisambuddho'ti}''. However, the anomalous reading ``\textit{abhisambuddho}'' finds support from \textit{Mahāvasutu}: ``\textit{yāvac cāhaṁ bhikṣavaḥ imāni catvāry āryasatyāni evaṁ triparivartaṁ dvādaśākāraṁ yathā-bhūtaṁ samyakprajñayā nābhyajñāsiṣaṁ na tāvad ahaṁ anuttarāṁ samyaksaṁbodhim abhisaṁbuddho pratijānehaṁ}'', which according to Ven. Ānandajoti probably indicates that ``\textit{abhisambuddho}'' is an old/original reading.}}}}}\makeatother \thinspace
 paccaññāsiṁ
+\end{pali-hang-together}
 
 \begin{english-verses}
   I did not claim bhikkhus\\
@@ -3904,7 +3924,6 @@ Anuttaraṁ sammā-sambodhiṁ abhisambuddho paccaññāsiṁ
   Māra and Brahmā\\
   Amongst mankind with its priests and renunciants\\
   Kings and commoners\\
-  \ifbfiveversion\clearpage\fi
   An ultimate awakening\\
   To unsurpassed perfect enlightenment
 \end{english-verses}
@@ -4037,20 +4056,20 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \end{english-only-justify}
 
 \begin{english-only-justify}
-  ``Abandoning the household life \breathmark\ he observes the holy life \breathmark\ living \ifbfiveversion \mbox{apart}~\breathmark\ \else apart \breathmark\ \fi  abstaining from the vulgar practice of sexual intercourse''.
+  ``Abandoning the household life \breathmark\ he observes the holy life \breathmark\ living \mbox{apart}~\breathmark\ abstaining from the vulgar practice of sexual intercourse''.
 \end{english-only-justify}
 
 \linkdest{endnote59-body}
 \begin{english-only-justify}
   ``Abandoning false speech \breathmark\ he abstains from false speech \breathmark\ he speaks \mbox{truth}~\breathmark\ adheres to truth \breathmark\ is trustworthy and reliable \breathmark\ one who is no deceiver of the world. Abandoning malicious speech \breathmark\ he abstains from malicious speech \breathmark\ he does not repeat elsewhere what he has heard here \breathmark\ in order to divide those people\makeatletter\hyperlink{endnote59-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote59-appendix}{\hyperlink{endnote59-body}{Bhikkhu Bodhi: [those people]. Removed brackets for the sake of recitability.}}}}}\makeatother
-  from these \breathmark\ nor does he repeat here what he has heard elsewhere \breathmark\ in order to divide these people from those \breathmark\ thus he is one who reunites those who are divided \breathmark\ a promoter of \mbox{friendships}~\breathmark\ who enjoys unity \breathmark\ rejoices in unity \breathmark\ delights in \ifbfiveversion \mbox{unity}~\breathmark\ \else unity \breathmark\ \fi a speaker of words that promote unity. Abandoning harsh \ifbfiveversion \mbox{speech}~\breathmark\ \else speech \breathmark\ \fi he abstains from \ifafiveversion\mbox{harsh}~speech \fi \ifninebythirteenversion\mbox{harsh}~speech \fi \ifbfiveversion harsh speech \fi \breathmark\ he speaks words that are gentle \breathmark\ pleasing to the ear \breathmark\ and \mbox{loveable}~\breathmark\ that go to the heart \breathmark\ are \ifbfiveversion \mbox{courteous}~\breathmark\ \else courteous \breathmark\ \fi desired by many and agreeable to many. Abandoning idle \ifbfiveversion \mbox{chatter}~\breathmark\ \else chatter \breathmark\ \fi he abstains from idle chatter \breathmark\ he speaks at the right time \breathmark\ speaks what is fact \breathmark\ speaks on what is good \breathmark\ speaks on the Dhamma and Vinaya \breathmark\ at the right time \breathmark\ he speaks words that are worth recording \breathmark\ reasonable \breathmark\ moderate \breathmark\ and beneficial''.
+  from these \breathmark\ nor does he repeat here what he has heard elsewhere \breathmark\ in order to divide these people from those \breathmark\ thus he is one who reunites those who are divided \breathmark\ a promoter of \mbox{friendships}~\breathmark\ who enjoys unity \breathmark\ rejoices in unity \breathmark\ delights in \mbox{unity}~\breathmark\ a speaker of words that promote unity. Abandoning harsh speech \breathmark\ he abstains from harsh \mbox{speech}~\breathmark\ he speaks words that are gentle \breathmark\ pleasing to the ear \breathmark\ and \mbox{loveable}~\breathmark\ that go to the heart \breathmark\ are \mbox{courteous}~\breathmark\ desired by many and agreeable to many. Abandoning idle \mbox{chatter}~\breathmark\ he abstains from idle \mbox{chatter}~\breathmark\ he speaks at the right time \breathmark\ speaks what is fact \breathmark\ speaks on what is good \breathmark\ speaks on the Dhamma and Vinaya \breathmark\ at the right time \breathmark\ he speaks words that are worth recording \breathmark\ reasonable \breathmark\ moderate \breathmark\ and beneficial''.
 \end{english-only-justify}
 
 \linkdest{endnote148-body}
 \begin{english-only-justify}
   ``He abstains from harming seeds and plants. He practices eating one meal a day \breathmark\ abstaining from eating at night and outside the proper time.\makeatletter\hyperlink{endnote148-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote148-appendix}{\hyperlink{endnote148-body}{The \textit{Vinaya} defines the wrong time for eating as from noon until dawnrise of the following day.}}}}}\makeatother\thinspace He abstains from dancing \breathmark\ singing \breathmark\ music and seeing entertainments. He abstains from wearing garlands \breathmark\ smartening himself with scent \breathmark\ and embellishing himself with unguents. He abstains from high and luxurious sleeping places. He abstains from accepting gold and silver. He abstains from accepting raw grain. He abstains from accepting raw meat. He abstains from accepting women and girls. He abstains from accepting men and women slaves. He abstains from accepting goats and sheep. He abstains from accepting fowl and pigs. He abstains from accepting \mbox{elephants}~\breathmark\ cattle \breathmark\ horses and mares. He abstains from accepting fields and land''.
+        \hypertarget{endnote148-appendix}{\hyperlink{endnote148-body}{The \textit{Vinaya} defines the wrong time for eating as from noon until dawnrise of the following day.}}}}}\makeatother\thinspace He abstains from dancing \breathmark\ singing \breathmark\ music and seeing entertainments. He abstains from wearing \mbox{garlands}~\breathmark\ smartening himself with scent \breathmark\ and embellishing himself with unguents. He abstains from high and luxurious sleeping places. He abstains from accepting gold and silver. He abstains from accepting raw grain. He abstains from accepting raw meat. He abstains from accepting women and girls. He abstains from accepting men and women slaves. He abstains from accepting goats and sheep. He abstains from accepting fowl and pigs. He abstains from accepting \mbox{elephants}~\breathmark\ cattle \breathmark\ horses and mares. He abstains from accepting fields and land''.
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -4058,7 +4077,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \end{english-only-justify}
 
 \begin{english-only-justify}
-  ``He becomes content with robes to protect his body \breathmark\ and almsfood to maintain his stomach \breathmark\ and wherever he goes he sets out taking only these with him. Just as a bird \breathmark\ wherever it goes flies with its wings as its only burden \breathmark\ so too the bhikkhu becomes content with robes to protect his \ifafiveversion\mbox{body}~\breathmark\ \else body \breathmark\ \fi and almsfood to maintain his \mbox{stomach}~\breathmark\ and wherever he goes he sets out taking only these with him. Possessing this aggregate of noble virtue \breathmark\ he experiences within himself a bliss that is blameless''.
+  ``He becomes content with robes to protect his body \breathmark\ and almsfood to maintain his stomach \breathmark\ and wherever he goes he sets out taking only these with him. Just as a bird \breathmark\ wherever it goes flies with its wings as its only burden \breathmark\ so too the bhikkhu becomes content with robes to protect his \mbox{body}~\breathmark\ and almsfood to maintain his \mbox{stomach}~\breathmark\ and wherever he goes he sets out taking only these with him. Possessing this aggregate of noble virtue \breathmark\ he experiences within himself a bliss that is blameless''.
 \end{english-only-justify}
 
 \suttaRef{[MN 51]}
@@ -4067,8 +4086,10 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
   ``Then the Tathāgata disciplines him further: ``Come bhikkhu \breathmark\ guard the doors of your sense faculties. On seeing a form with the eye \breathmark\ do not grasp at its signs and features. Since if you were to leave the eye faculty unguarded \breathmark\ evil unwholesome states of longing and grief might invade you \breathmark\ practice the way of its restraint \breathmark\ guard the eye faculty \breathmark\ undertake the restraint of the eye faculty. On hearing a sound with the ear. On smelling an odour with the nose. On tasting a flavour with the tongue. On touching a tangible with the body. On cognizing a mind-object with the mind \breathmark\ do not grasp at its signs and features. Since if you were to leave the mind faculty \mbox{unguarded}~\breathmark\ evil unwholesome states of longing and grief might invade you \breathmark\ practice the way of its restraint \breathmark\ guard the mind faculty \breathmark\ undertake the restraint of the mind faculty''.
 \end{english-only-justify}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{english-only-justify}
-  ``Come bhikkhu \breathmark\ be moderate in eating. Wisely reflecting I use \mbox{almsfood}~\breathmark\ not for fun \breathmark\ not for pleasure \breathmark\ not for fattening \breathmark\ not for beautification \breathmark\ only for the maintenance and nourishment of this \ifbfiveversion \mbox{body}~\breathmark\ \else body \breathmark\ \fi for keeping it healthy \breathmark\ for helping with the holy life \breathmark\ thinking thus: I will allay hunger without overeating \breathmark\ so that I may continue to live blamelessly and at ease''.
+  ``Come bhikkhu \breathmark\ be moderate in eating. Wisely reflecting I use \mbox{almsfood}~\breathmark\ not for fun \breathmark\ not for pleasure \breathmark\ not for fattening \breathmark\ not for beautification \breathmark\ only for the maintenance and nourishment of this \mbox{body}~\breathmark\ for keeping it healthy \breathmark\ for helping with the holy life \breathmark\ thinking thus: I will allay hunger without overeating \breathmark\ so that I may continue to live blamelessly and at ease''.
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -4077,7 +4098,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 
 \linkdest{endnote60-body}
 \begin{english-only-justify}
-  ``Come bhikkhu \breathmark\ be possessed of mindfulness and full awareness. Act in full awareness when going forward and returning \breathmark\ act in full awareness when looking ahead and looking away \breathmark\ act in full awareness when flexing and extending your limbs \breathmark\ act in full awareness when wearing your \mbox{robes}~\breathmark\ and carrying your outer robe and bowl \breathmark\ act in full awareness when \mbox{eating}~\breathmark\ drinking \breathmark\ consuming \ifbfiveversion \mbox{food}~\breathmark\ \else food \breathmark\ \fi and tasting \breathmark\ act in full awareness when defecating and urinating \breathmark\ act in full awareness when walking \breathmark\ \mbox{standing}~\breathmark\ sitting \breathmark\ falling \ifbfiveversion \mbox{asleep}~\breathmark\ \else asleep \breathmark\ \fi waking up\makeatletter\hyperlink{endnote60-appendix}\Hy@raisedlink{{\pagenote{%
+  ``Come bhikkhu \breathmark\ be possessed of mindfulness and full awareness. Act in full awareness when going forward and returning \breathmark\ act in full awareness when looking ahead and looking away \breathmark\ act in full awareness when flexing and extending your limbs \breathmark\ act in full awareness when wearing your \mbox{robes}~\breathmark\ and carrying your outer robe and bowl \breathmark\ act in full awareness when \mbox{eating}~\breathmark\ drinking \breathmark\ consuming \mbox{food}~\breathmark\ and tasting \breathmark\ act in full awareness when defecating and urinating \breathmark\ act in full awareness when walking \breathmark\ \mbox{standing}~\breathmark\ sitting \breathmark\ falling \mbox{asleep}~\breathmark\ waking up\makeatletter\hyperlink{endnote60-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote60-appendix}{\hyperlink{endnote60-body}{Contrary to popular belief, mindfulness and full awareness is not meant to be practiced while sleeping, but only before falling asleep and after waking up.}}}}}\makeatother
   \breathmark\ talking \breathmark\ and keeping silent''.
 \end{english-only-justify}
@@ -4090,15 +4111,15 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 
 \linkdest{endnote61-body}
 \begin{english-only-justify}
-  ``After his meal on returning from almsround he sits down \breathmark\ having crossed his legs \breathmark\ sets his body erect \breathmark\ having established mindfulness in front of him. Abandoning longing\ifdigitalversion\makeatletter\hyperlink{endnote61-appendix}\Hy@raisedlink{{\pagenote{%
+  ``After his meal on returning from almsround he sits down \breathmark\ having crossed his legs \breathmark\ sets his body erect \breathmark\ having established mindfulness in front of him. Abandoning longing \ifdigitalversion\makeatletter\hyperlink{endnote61-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote61-appendix}{\hyperlink{endnote61-body}{WPN: ``covetousness''}}}}}\makeatother\thinspace\fi
-  for the world \breathmark\ he abides with a mind free from longing \breathmark\ he purifies his mind from longing. Abandoning ill will and hatred \breathmark\ he abides with a mind free from ill will \breathmark\ compassionate for the welfare of all living \mbox{beings}~\breathmark\ he~purifies his mind from ill will and hatred. Abandoning sloth and torpor \breathmark\ he abides free from sloth and torpor \breathmark\ percipient of light \breathmark\ mindful and fully \ifbfiveversion \mbox{aware}~\breathmark\ \else aware \breathmark\ \fi he purifies his mind from sloth and torpor. Abandoning restlessness and remorse \breathmark\ he abides unagitated \breathmark\ with a mind inwardly peaceful \breathmark\ he purifies his mind from restlessness and remorse. Abandoning \ifbfiveversion \mbox{doubt}~\breathmark\ \else doubt \breathmark\ \fi he abides having gone beyond doubt \breathmark\ unperplexed about wholesome states \breathmark\ he purifies his mind from doubt''.
+  for the \mbox{world}~\breathmark\ he abides with a mind free from longing \breathmark\ he purifies his mind from longing. Abandoning ill will and hatred \breathmark\ he abides with a mind free from ill will \breathmark\ compassionate for the welfare of all living \mbox{beings}~\breathmark\ he~purifies his mind from ill will and hatred. Abandoning sloth and torpor \breathmark\ he abides free from sloth and torpor \breathmark\ percipient of light \breathmark\ mindful and fully \mbox{aware}~\breathmark\ he purifies his mind from sloth and torpor. Abandoning restlessness and remorse \breathmark\ he abides unagitated \breathmark\ with a mind inwardly peaceful \breathmark\ he purifies his mind from restlessness and remorse. Abandoning \mbox{doubt}~\breathmark\ he abides having gone beyond doubt \breathmark\ unperplexed about wholesome states \breathmark\ he purifies his mind from doubt''.
 \end{english-only-justify}
 
 \suttaRef{[MN 107]}
 
 \begin{english-only-justify}
-  ``When these five hindrances are unabandoned in himself \breathmark\ he sees them respectively as a debt \breathmark\ a disease \breathmark\ a prison \breathmark\ slavery \breathmark\ and a road across a desert. But when these five hindrances have been abandoned in himself \breathmark\ he sees that as freedom from debt \breathmark\ freedom from \ifbfiveversion \mbox{disease}~\breathmark\ \else disease \breathmark\ \fi release from prison \breathmark\ freedom from slavery \breathmark\ and a land of safety. Considering thus he would be glad and full of joy''.
+  ``When these five hindrances are unabandoned in himself \breathmark\ he sees them respectively as a debt \breathmark\ a disease \breathmark\ a prison \breathmark\ \mbox{slavery}~\breathmark\ and a road across a desert. But when these five hindrances have been abandoned in \mbox{himself}~\breathmark\ he sees that as freedom from \mbox{debt}~\breathmark\ freedom from \mbox{disease}~\breathmark\ release from prison \breathmark\ freedom from slavery \breathmark\ and a land of safety. Considering thus he would be glad and full of joy''.
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -5355,9 +5376,9 @@ Abhippamodayaṁ cittaṁ passasissāmī'ti sikkhati
   `I shall breathe out gladdening the mind'
 \end{english}
 
-Samādahaṁ cittaṁ assasissāmī'ti sikkhati
-
 \ifbfiveversion\clearpage\fi
+
+Samādahaṁ cittaṁ assasissāmī'ti sikkhati
 
 \begin{english}
   He trains thus:\\
@@ -5402,22 +5423,24 @@ Anicc'ānupassī passasissāmī'ti sikkhati
 Virāg'ānupassī assasissāmī'ti sikkhati
 
 \linkdest{endnote160-body}
-\begin{english}
+\begin{english-verses}
   He trains thus:\\
 \begin{english-hang-together}
-  `I shall breathe in contemplating the fading away of passions\makeatletter\hyperlink{endnote160-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote160-appendix}{\hyperlink{endnote160-body}{While \textit{virāga} indeed can refer to the mind’s ``fading away of passions'' (dispassion), in certain contexts virāga refers to ``fading away'' of any phenomena. One such instance can be found in MN 74: ``Pleasant/unpleasant/neutral feeling, Aggivessana, is impermanent, conditioned, dependently arisen, subject to destruction, vanishing, fading away, and ceasing''. Here, \textit{virāga} obviously does not refer to mental dispassion, but to the nature of fading away of certain phenomena i.e. feeling. Likewise, in the context of mindfulness of breathing, \textit{virāga} can be seen as part of the natural progression of the lifecycle of any phenomena, including but not limited to the breath itself, which after its arising, goes through a phase of change (\textit{aniccā}), gradual fading (\textit{virāga}), and ending in its cessation (\textit{nirodha}). The meditator observing these stages develops an attitude of letting go (\textit{paṭinissagga}) towards it, because there is nothing that is worth clinging/adhering to (MN 37).}}}}}\makeatother'
+  `I shall breathe in contemplating the fading away of passions'\makeatletter\hyperlink{endnote160-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote160-appendix}{\hyperlink{endnote160-body}{While \textit{virāga} indeed can refer to the mind’s ``fading away of passions'' (dispassion), in certain contexts virāga refers to ``fading away'' of any phenomena. One such instance can be found in MN 74: ``Pleasant/unpleasant/neutral feeling, Aggivessana, is impermanent, conditioned, dependently arisen, subject to destruction, vanishing, fading away, and ceasing''. Here, \textit{virāga} obviously does not refer to mental dispassion, but to the nature of fading away of certain phenomena i.e. feeling. Likewise, in the context of mindfulness of breathing, \textit{virāga} can be seen as part of the natural progression of the lifecycle of any phenomena, including but not limited to the breath itself, which after its arising, goes through a phase of change (\textit{aniccā}), gradual fading (\textit{virāga}), and ending in its cessation (\textit{nirodha}). The meditator observing these stages develops an attitude of letting go (\textit{paṭinissagga}) towards it, because there is nothing that is worth clinging/adhering to (MN 37).}}}}}\makeatother
 \end{english-hang-together}
-\end{english}
+\end{english-verses}
 
 Virāg'ānupassī passasissāmī'ti sikkhati
 
-\begin{english}
+\begin{english-verses}
   He trains thus:\\
 \begin{english-hang-together}
   `I shall breathe out contemplating the fading away of passions'
 \end{english-hang-together}
-\end{english}
+\end{english-verses}
+
+\ifbfiveversion\clearpage\fi
 
 Nirodh'ānupassī assasissāmī'ti sikkhati
 
@@ -5455,6 +5478,8 @@ Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulī-katā
   Bhikkhus that is how mindfulness of breathing is developed and cultivated
 \end{english-hang}
 
+\ifninebythirteenversion\clearpage\fi
+
 Maha-pphalā hoti mah'ānisaṁsā
 
 \begin{english}
@@ -5463,7 +5488,7 @@ Maha-pphalā hoti mah'ānisaṁsā
 
 \suttaRef{[MN 118]}
 
-\ifdigitalversion\bottomNav{highest-blessings}\fi
+\ifdigitalversion\bottomNav{discourse-on-blessings}\fi
 
 #+end_src
 
@@ -5748,6 +5773,8 @@ Tattha katamaṁ saṅkhāra-paccayā viññāṇaṁ
 \begin{english-hang}
   Eye-consciousness ear-consciousness nose-consciousness tongue-consciousness body-consciousness mind-consciousness
 \end{english-hang}
+
+\ifninebythirteenversion\clearpage\fi
 
 Idaṁ vuccati saṅkhāra-paccayā viññāṇaṁ
 
@@ -6137,7 +6164,9 @@ Ayaṁ vuccati upāyāso
 
 \ifafiveversion\clearpage\fi
 
+\begin{pali-hang}
 Evam'etassa kevalassa dukkha-kkhandhassa samudayo hotī'ti:
+\end{pali-hang}
 
 \begin{english-hang}
   ``Such is the origin of this whole mass of suffering'' means this:
@@ -6750,9 +6779,9 @@ Sāmaggiyā ekībhāvāya saṁvattanti
 
 Ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha
 
-\begin{english}
+\begin{english-hang}
   If you undertake and maintain \breathmark\ these six principles of cordiality
-\end{english}
+\end{english-hang}
 
 Passatha no tumhe taṁ vacana-pathaṁ
 
@@ -6946,7 +6975,9 @@ Yāvakīvañ'ca bhikkhave bhikkhū
   As long as the bhikkhus
 \end{english}
 
+\begin{pali-hang}
 Uppannāya taṇhāya ponobhavikāya na vasaṁ gacchissanti
+\end{pali-hang}
 
 \begin{english-hang}
   Do not come under the control of arisen craving \breathmark\ that leads to renewed existence
@@ -6994,9 +7025,9 @@ Paccattaññ'eva satiṁ upaṭṭhāpessanti:
 
 `Kin'ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṁ
 
-\begin{english}
+\begin{english-hang}
   `How can well-behaved fellow monks come \breathmark\ who have not yet come
-\end{english}
+\end{english-hang}
 
 Āgatā ca pesalā sabrahmacārī phāsuṁ vihareyyun'ti
 
@@ -7048,7 +7079,6 @@ Anicca-saññaṁ bhāvessanti anatta-saññaṁ bhāvessanti
   Develop the perception of impermanence \breathmark\ the perception of not-self
 \end{english}
 
-
 Asubha-saññaṁ bhāvessanti ādīnava-saññaṁ bhāvessanti
 
 \begin{english}
@@ -7079,7 +7109,9 @@ Yāvakīvañ'ca bhikkhave bhikkhū
   As long as the bhikkhus
 \end{english}
 
+\begin{pali-hang}
 Hirimanto bhavissanti ottappino bhavissanti bahu-ssutā bhavissanti
+\end{pali-hang}
 
 \begin{english}
   Develop moral shame \breathmark\ moral dread \breathmark\ learnedness
@@ -7093,8 +7125,11 @@ Hirimanto bhavissanti ottappino bhavissanti bahu-ssutā bhavissanti
   Become energetic \breathmark\ mindful and wise
 \end{english}
 
+\ifbfiveversion\clearpage\fi
 
+\begin{pali-hang}
 Na oramattakena vises'ādhigamena antarāvosānaṁ āpajjissanti
+\end{pali-hang}
 
 \begin{english-hang}
   Do not stop midway on account of some minor achievement of distinction
@@ -7130,15 +7165,15 @@ Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
 
 Indriyesu gutta-dvāratā bhojane mattaññutā
 
-\begin{english}
+\begin{english-hang}
   Guarding the doors of the sense faculties \breathmark\ moderation in eating
-\end{english}
+\end{english-hang}
 
 Asaṁsagg'ārāmatā nippapañc'ārāmatā
 
-\begin{english}
+\begin{english-hang}
   Not taking delight in bonding \breathmark\ not taking delight in proliferation
-\end{english}
+\end{english-hang}
 
 Sovacassatā kalyāṇamittatā
 
@@ -7288,9 +7323,9 @@ Mahantañ'ca sadatthaṁ paripūreti
 
 Na bhikkhave hīnena aggassa patti hoti
 
-\begin{english}
+\begin{english-hang}
   Bhikkhus it is not by lower means that the supreme is attained
-\end{english}
+\end{english-hang}
 
 Aggena ca kho bhikkhave aggassa patti hoti
 
@@ -8085,6 +8120,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \begin{pali-hang-together}
   Kalyāṇaṁ vā pāpakaṁ vā
 \end{pali-hang-together}
+\ifbfiveversion\clearpage\fi
 \begin{pali-hang-together}
   Tassa dāy'ādo bhavissāmī'ti
 \end{pali-hang-together}
@@ -8133,14 +8169,13 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \begin{pali-hang}
   Atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana-viseso adhigato
 \end{pali-hang}
+\ifbfiveversion\clearpage\fi
 \begin{pali-hang-together}
   So'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti
 \end{pali-hang-together}
 \begin{pali-hang-together}
   Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hang-together}
-
-\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   ``Has my practice borne fruit with freedom or insight\\
@@ -8169,6 +8204,7 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
+\addtocontents{toc}{\protect\clearpage}
 \sectionSubTitle{Dvattiṁs'ākāra-paccavekkhaṇa}
 \section{The Thirty-Two Body Parts}
 \label{32-parts}
@@ -9162,12 +9198,12 @@ Atha kho bhagavā udānaṁ udānesi:
 
 #+end_src
 
-** Discourse on the Characteristic of Not-Self
+** The Discourse on the Characteristic of Not-Self
 
 
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/anattalakkhana-eng.tex
 
-\section{Discourse on the Characteristic of Not-Self}
+\section{The Discourse on the Characteristic of Not-Self}
 \label{characteristic-of-not-self}
 
 \begin{leader-english}
@@ -9302,7 +9338,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang-together}
 
 \begin{english-only-hang}
-  Any kind of feeling whatsoever \breathmark\ whether past future or present \breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
+  Any kind of feeling whatsoever \breathmark\ whether past future or \mbox{present}~\breathmark\ internal or external \breathmark\ gross or subtle \breathmark\ inferior or superior \breathmark\ far or near \breathmark\ must be seen with right wisdom as it really is: ``This is not mine \breathmark\ this I am not \breathmark\ this is not my self''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9473,11 +9509,11 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 #+end_src
 
-** Discourse on the Exposition on Burning
+** The Discourse on the Exposition on Burning
 
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/adittapariyaya-eng.tex
 
-\section{Discourse on the \mbox{Exposition}~on~Burning}
+\section{The Discourse on the \mbox{Exposition}~on~Burning}
 \label{exposition-on-burning}
 
 \begin{leader-english}
@@ -9487,7 +9523,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 \linkdest{endnote113-body}
 \begin{english-only-hang}
   On one occasion\makeatletter\hyperlink{endnote113-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote113-appendix}{\hyperlink{endnote113-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother\thinspace the Blessed One was dwelling at Gayā \breathmark\ at Gayā's Head \breathmark\ together with a thousand bhikkhus \breathmark\ There he addressed the bhikkhus:
+        \hypertarget{endnote113-appendix}{\hyperlink{endnote113-body}{The entire original version of the English translation has been replaced.}}}}}\makeatother\thinspace the Blessed One was dwelling at Gayā \breathmark\ at Gayā's \mbox{Head}~\breathmark\ together with a thousand bhikkhus \breathmark\ There he addressed the bhikkhus:
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9911,7 +9947,7 @@ Sadā sotthī bhavantu te
 % I do not recall why the line above appears a second time after Yatha-vari-vaha; uncommented for now
 \sectionSubTitle{Ratanattay'ānubhāv'ādi-gāthā}
 \section{Verses Starting with the Power \mbox{of}~the~Triple~Gem}
-\label{ratanattayanubhavadi-gatha}
+\label{power-of-the-triple-gem}
 
 \begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Ratanattay'ānubhāvena \hspace{-0.5mm}\anglebracketright\ \\
@@ -9947,7 +9983,7 @@ Sadā sotthī bhavantu te
 
 \sectionSubTitle{Bhojana-dān'ānumodanā}
 \section{Rejoicing in the Giving of Food}
-\label{bhojana-dananumodana}
+\label{rejoing-in-giving-food}
 
 \ifninebythirteenversion\vspace{0.25em}\fi
 
@@ -10079,9 +10115,7 @@ Sadā sotthī bhavantu te
 
 \sectionSubTitle{Aggappasāda-sutta-gāthā}
 \section{Verses from the Discourse \mbox{on}~Confidence~in~the~Supreme}
-\label{aggappasada-sutta-gatha}
-
-% FIXME uneven gaps before and after decoration experiment with pali-hang for the first line
+\label{confidence-in-supreme}
 
 \begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Aggato ve pasannānaṁ \hspace{-0.5mm}\anglebracketright\ \\
@@ -10161,7 +10195,7 @@ Sadā sotthī bhavantu te
 
 \sectionSubTitle{Kāla-dāna-sutta-gāthā}
 \section{Verses from the Discourse on Giving at the Proper Time}
-\label{kala-dana-sutta-gatha}
+\label{giving-at-proper-time}
 
 \begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Kāle dadanti sapaññā \hspace{-0.5mm}\anglebracketright\ \\
@@ -10263,7 +10297,7 @@ Sadā sotthī bhavantu te
 
 \sectionSubTitle{So attha-laddho}
 \section{He Who Gains Benefits}
-\label{so-attha-laddho}
+\label{he-who-gains-benefits}
 
 \begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}So attha-laddho \hspace{-0.5mm}\anglebracketright\ sukhito\\
@@ -10500,11 +10534,11 @@ Sadā sotthī bhavantu te
 
 \begin{english-verses}
   The One with Vision, with the stain of delusion removed,\\
-  Self-awakened, Well-Gone, \& Released,\\
-  Freed from the snares of Mortal Temptation,\\
+  Self-awakened, well-gone, \& released,\\
+  Freed from the snares of mortal temptation,\\
   He caused tameable people to reach security.\\
   \begin{english-hang-together-verses}
-    I pay homage with my head to that excellent Buddha, the Protector \& mentor for the world,\\
+    I pay homage with my head to that excellent Buddha, the protector \& mentor for the world,\\
   \end{english-hang-together-verses}
   By the power of this, may you have triumph \& success,\\
   And may all your dangers be destroyed.
@@ -10708,6 +10742,8 @@ Sadā sotthī bhavantu te
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{english-verses}
   Serving one's mother and father,\\
   Maintaining a wife and children,\\
@@ -10752,6 +10788,8 @@ Sadā sotthī bhavantu te
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{english-verses}
   Reverence and humility,\\
   Contentment and gratitude,\\
@@ -10794,6 +10832,8 @@ Sadā sotthī bhavantu te
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{english-verses}
   One whose mind does not shake\\
   When touched by worldly conditions,\\
@@ -10819,12 +10859,12 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Discourse on Jewels
+** The Discourse on Jewels
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Ratana-sutta}
-\section{Discourse on Jewels}
+\section{The Discourse on Jewels}
 \label{discourse-on-jewels}
 
 \begin{pali-hang-together}
@@ -10944,6 +10984,7 @@ Sadā sotthī bhavantu te
   Catubbhi vātebhi asampakampiyo\\
   Tath'ūpamaṁ sappurisaṁ vadāmi\\
   Yo ariya-saccāni avecca passati\\
+  \ifbfiveversion\clearpage\fi
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
@@ -10983,11 +11024,10 @@ Sadā sotthī bhavantu te
   Sīlabbataṁ vā'pi yad'atthi kiñci\\
   Catūh'apāyehi ca vippamutto\\
   Cha c'ābhiṭhānāni abhabbo kātuṁ\\
+\ifbfiveversion\clearpage\fi
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
-
-\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   Together with one's achievement of vision\\
@@ -11027,8 +11067,6 @@ Sadā sotthī bhavantu te
   Idam'pi buddhe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
-
-\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   Like a woodland thicket with flowering crests\\
@@ -11119,12 +11157,12 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Discourse on the Loving-Kindness \mbox{to}~be~Done
+** The Discourse on the Loving-Kindness to be Done
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Karaṇīya-metta-sutta}
-\section{Discourse on the Loving-Kindness \mbox{to}~be~Done}
+\section{The Discourse on the Loving-Kindness \mbox{to}~be~Done}
 \label{discourse-on-loving-kindness}
 
 \begin{pali-hang-together}
@@ -11207,6 +11245,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   Another (i.e. one) would not deceive another,\\
   Nor look down upon anyone anywhere;\\
+  \ifbfiveversion\clearpage\fi
   Nor through anger or hateful perception,\\
   Would wish for one another's suffering.
 \end{english-verses}
@@ -11249,6 +11288,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   Whether standing, walking, sitting, or reclining,\\
   Whenever he is free from drowsiness,\\
+  \ifbfiveversion\clearpage\fi
   He would resolve on that mindfulness\\
   ``That is a lofty dwelling'', here they say.
 \end{english-verses}
@@ -11517,7 +11557,6 @@ Sadā sotthī bhavantu te
   uttamaṁ varaṁ\\
   Hitaṁ deva-manussānaṁ\\
   Buddha-tejena sotthinā\\
-  \ifninebythirteenversion\clearpage\fi
   Nassant'upaddavā sabbe\\
   Dukkhā vūpasamentu te
 \end{pali-hang-continued}
@@ -11536,6 +11575,7 @@ Sadā sotthī bhavantu te
   Osadhaṁ uttamaṁ varaṁ\\
   Pariḷāh'ūpasamanaṁ\\
   Dhamma-tejena sotthinā\\
+  \ifninebythirteenversion\clearpage\fi
   Nassant'upaddavā sabbe\\
   Bhayā vūpasamentu te
 \end{pali-hang-continued}
@@ -11710,7 +11750,6 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Yan'dunnimittaṁ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
-  \ifninebythirteenversion\clearpage\fi
   Pāpaggaho dussupinaṁ akantaṁ\\
   Dhamm'ānubhāvena vināsam'entu
 \end{pali-hang-continued}
@@ -11725,6 +11764,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Yan'dunnimittaṁ avamaṅgalañ'ca\\
   Yo c'āmanāpo sakuṇassa saddo\\
+  \ifninebythirteenversion\clearpage\fi
   Pāpaggaho dussupinaṁ akantaṁ\\
   Saṅgh'ānubhāvena vināsam'entu
 \end{pali-hang-continued}
@@ -11994,6 +12034,7 @@ Sadā sotthī bhavantu te
   \begin{english-hang-together-verses}
     Whatever person of discernment recites or recalls them day after day without lapsing,
   \end{english-hang-together-verses}
+  \ifbfiveversion\clearpage\fi
   Destroying all kinds of obstacles,\\
   Will attain emancipation \& happiness.
 \end{english-verses}
@@ -12058,6 +12099,7 @@ Sadā sotthī bhavantu te
   Having reached the highest, he rejoices.
 \end{english-verses}
 
+\ifbfiveversion\vspace{-0.5em}\fi
 \suttaRef{[MJG]}
 
 \begin{pali-hang-continued}
@@ -12547,7 +12589,7 @@ Sadā sotthī bhavantu te
 \linkdest{endnote131-body}
 \begin{pali-hang-continued}
   Bā-vīsat'indriyāni:\makeatletter\hyperlink{endnote131-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote131-appendix}{\hyperlink{endnote131-body}{While these faculties are mentioned as a set of 22 only in the Abhi. Vibh., all of them are also found within the discourses.}}}}}\makeatother
+        \hypertarget{endnote131-appendix}{\hyperlink{endnote131-body}{While these faculties are mentioned as a set of 22 only in the Abhidhamma Vibhaṅga, all of them are also found within the discourses.}}}}}\makeatother
   \begin{pali-hang}
     Cakkhu'ndriyaṁ sot'indriyaṁ ghān'indriyaṁ jivh'indriyaṁ kāy'indriyaṁ man'indriyaṁ itth'indriyaṁ puris'indriyaṁ jīvit'indriyaṁ sukh'indriyaṁ dukkh'indriyaṁ somanass'indriyaṁ domanass'indriyaṁ upekkh'indriyaṁ saddh'indriyaṁ viriy'indriyaṁ sat'indriyaṁ samādh'indriyaṁ paññ'indriyaṁ anaññātañ'ñassāmī't'indriyaṁ aññ'indriyaṁ aññātāv'indriyaṁ
   \end{pali-hang}
@@ -12561,6 +12603,8 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \suttaRef{[Vibh]}
+
+\ifbfiveversion\clearpage\fi
 
 \begin{pali-hang-continued}
   Cattāri ariya-saccāni:\\
@@ -12688,11 +12732,7 @@ Sadā sotthī bhavantu te
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Paṭṭhāna-mātikā-pāṭho}
-%% \ifninebythirteenversion
-\section{Passage on the List from the Foundation of Conditional Relations}
-% TODO can we shorten this in any way? - toc line runs to a second line
-%% \else
-%% \fi
+\section[Passage on the List from the Foundation\\ of Conditional Relations]{Passage on the List from the Foundation of Conditional Relations}
 \label{patthana-matika-patho}
 
 \begin{pali-hang-together}
@@ -13405,13 +13445,12 @@ Tatiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 \ifafiveversion\clearpage\fi
 \ifbfiveversion\clearpage\fi
 
-\begin{leader-only}
+\begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Tisaraṇa-gamanaṁ niṭṭhitaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\begin{leader-english}
+\end{leader}
+\begin{leader-english-below-pali}
   \anglebracketleft\ \hspace{-0.5mm}This completes the going to the Three Refuges. \hspace{-0.5mm}\anglebracketright\
-\end{leader-english}
+\end{leader-english-below-pali}
 
 Āma bhante
 
@@ -13572,9 +13611,9 @@ Imāni aṭṭha sikkhāpadāni samādiyāmi \hfill{[3x]}
   I undertake these Eight Trainings.
 \end{english}
 
-\begin{leader}
+\begin{leader-pali}
   \anglebracketleft\ \hspace{-0.5mm}Imāni aṭṭha sikkhāpadāni sīlena sugatiṁ yanti sīlena bhogasampadā sīlena nibbutiṁ yanti tasmā sīlaṁ visodhaye \hspace{-0.5mm}\anglebracketright\
-\end{leader}
+\end{leader-pali}
 
 \begin{english-verses}
   These Eight Trainings\\
@@ -13611,16 +13650,18 @@ Sādhu sādhu sādhu
 % https://tex.stackexchange.com/users/264581/paladhammika
 
 \ifninebythirteenversion
-% TODO 9x13 need more space above and below the text
+% TODO 9x13print and test
 \begin{table}[ht]
   \centering
   \resizebox{\textwidth}{!}{%
     \begin{tblr}{
         colspec={l *{11}{c}},
         hlines, vlines,
-        row{1-5}={font=\fontsize{16}{16}\selectfont},
-        cell{6-Z}{1}={font=\fontsize{16}{16}\selectfont},
-        cell{6-Z}{2-12}={font=\fontsize{16}{16}\selectfont\itshape}
+        rowsep=20pt, % Adjust vertical padding
+        colsep=15pt, % Adjust horizontal padding
+        row{1-5}={font=\fontsize{40}{24}\selectfont},
+        cell{6-Z}{1}={font=\fontsize{40}{24}\selectfont},
+        cell{6-Z}{2-12}={font=\fontsize{40}{24}\selectfont\itshape}
       }
       \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
       & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
@@ -13677,6 +13718,7 @@ Sādhu sādhu sādhu
 
 \ifbfiveversion
 
+% TODO B5 & A5 adjust fonts and spacing in
 \begin{table}[ht]
   \centering
   \resizebox{\textwidth}{!}{%
@@ -13760,8 +13802,8 @@ The semivowel ``\textbf{v}'' is pronounced as in ``\textbf{w}e''; ``\textbf{ñ}'
 
 As an aid to understanding, \textbf{hyphens} (-) have often been inserted in longer Pāli compounds, in order to indicate the separate words that make up the compound. This should not affect the pronunciation during recitation in any way. In order not to suggest unintended pauses in the flow of the recitation, punctuation marks (commas, periods, colons and semicolons) were removed for most chants. \textbf{Line breaks} within a sentence indicate that a short breathing pause is inserted, but indented line breaks indicate that recitation continues without a breathing pause.
 
-Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously according to one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
-% TODO 9x13 keep brackets with angle bracket
+Elsewhere, \textbf{breath marks} ( \abbrbreathmark\ ) have been inserted in order to indicate breathing pauses. When reciting as a group, each participant is encouraged to recite as accurately, audibly, and continuously according to one's capabilities; ideally from the first chant to the last without interruption, gaps, or omissions. However, passages within \textbf{brackets} \ifninebythirteenversion \\ \fi \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ serve as an introduction, and are recited only by the leader. Except for Pāli protection and funeral chants, there is a breathing pause after \anglebracketleft\ \hspace{-0.5mm}... \hspace{-0.8mm}\anglebracketright\ , before the rest of the group joins in.
+
 \clearpage
 
 #+end_src
