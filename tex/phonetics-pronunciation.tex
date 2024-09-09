@@ -6,18 +6,16 @@
 % https://tex.stackexchange.com/users/264581/paladhammika
 
 \ifninebythirteenversion
-% TODO 9x13print and test
-\begin{table}[ht]
-  \centering
-  \resizebox{\textwidth}{!}{%
+
+\begin{sidewaystable}
     \begin{tblr}{
         colspec={l *{11}{c}},
         hlines, vlines,
-        rowsep=20pt, % Adjust vertical padding
-        colsep=15pt, % Adjust horizontal padding
-        row{1-5}={font=\fontsize{40}{24}\selectfont},
-        cell{6-Z}{1}={font=\fontsize{40}{24}\selectfont},
-        cell{6-Z}{2-12}={font=\fontsize{40}{24}\selectfont\itshape}
+        rowsep=3pt,  % Adjusted vertical padding
+        colsep=2pt,  % Adjusted horizontal padding
+        row{1-5}={font=\fontsize{8.5}{8.5}\selectfont}, % Adjusted font size
+        cell{6-Z}{1}={font=\fontsize{8.5}{8.5}\selectfont},
+        cell{6-Z}{2-12}={font=\fontsize{8.5}{8.5}\selectfont\itshape}
       }
       \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
       & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
@@ -29,27 +27,28 @@
       & \SetCell[r=3]{c} \rotcell{Compound} & \\
       & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
       & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
-      Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
-      Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
-      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
-      Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
-      Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
+      \SetCell[c=1]{c}Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
+      \SetCell[c=1]{c}Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
+      \SetCell[c=1]{c}Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
+      \SetCell[c=1]{c}Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
+      \SetCell[c=1]{c}Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
     \end{tblr}
-  }
-\end{table}
+\end{sidewaystable}
 
 \fi
 
 \ifafiveversion
 
-\begin{table}[ht]
-  \centering
-  \resizebox{\textwidth}{!}{%
+\vspace{0.25em}
+
     \begin{tblr}{
         colspec={l *{11}{c}},
         hlines, vlines,
-        row{1-5}={font=\small},
-        cell{6-Z}{2-12}={font=\itshape}
+        rowsep=0.25pt,  % Adjusted vertical padding
+        colsep=2.475pt,  % Adjusted horizontal padding
+        row{1-5}={font=\fontsize{8.5}{8.5}},
+        cell{6-Z}{1}={font=\fontsize{8.5}{8.5}},
+        cell{6-Z}{2-12}={font=\fontsize{8.5}{8.5}\itshape}
       }
       \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
       & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
@@ -61,59 +60,56 @@
       & \SetCell[r=3]{c} \rotcell{Compound} & \\
       & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
       & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
-      Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
-      Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
-      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
-      Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
-      Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
+      \SetCell[c=1]{c}Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
+      \SetCell[c=1]{c}Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
+      \SetCell[c=1]{c}Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
+      \SetCell[c=1]{c}Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
+      \SetCell[c=1]{c}Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
     \end{tblr}
-  }
-\end{table}
 
 \fi
 
 \ifbfiveversion
 
-% TODO B5 & A5 adjust fonts and spacing in
-\begin{table}[ht]
-  \centering
-  \resizebox{\textwidth}{!}{%
-    \begin{tblr}{
-        colspec={l *{11}{c}},
-        hlines, vlines,
-        row{1-5}={font=\small},
-        cell{6-Z}{2-12}={font=\itshape}
-      }
-      \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
-      & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
-      & \SetCell[c=5]{c} Stops &&&&
-      & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
-      & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
-      & \SetCell[r=3]{c} \rotcell{Short}
-      & \SetCell[r=3]{c} \rotcell{Long}
-      & \SetCell[r=3]{c} \rotcell{Compound} & \\
-      & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
-      & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
-      Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
-      Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
-      Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
-      Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
-      Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
-    \end{tblr}
+\vspace{0.5em}
+
+  \begin{tblr}{
+    colspec={l *{11}{c}},
+    hlines, vlines,
+    rowsep=0.05pt,  % Adjusted vertical padding
+    colsep=2.68pt,  % Adjusted horizontal padding
+    row{1-5}={font=\fontsize{10.5}{10}\selectfont},
+    cell{6-Z}{1}={font=\fontsize{10.5}{10}\selectfont},
+    cell{6-Z}{2-12}={font=\fontsize{10.5}{10}\itshape\selectfont}
   }
-\end{table}
+  \SetCell[r=5]{c,h} {Place of \\ Articulation} & \SetCell[c=11]{c} Manner of Articulation \\
+  & \SetCell[c=7]{c} Consonants &&&&&&& \SetCell[c=3]{c} Vowels &&& \SetCell[r=4]{c,h} {Pure \\ Nasal} \\
+  & \SetCell[c=5]{c} Stops &&&&
+  & \SetCell[r=3]{c,h} {Semi \\ vowel \\ (voiced)}
+  & \SetCell[r=3]{c,h} {Sibilant \\ (voiceless)}
+  & \SetCell[r=3]{c} \rotcell{Short}
+  & \SetCell[r=3]{c} \rotcell{Long}
+  & \SetCell[r=3]{c} \rotcell{Compound} & \\
+  & \SetCell[c=2]{c} Voiceless && \SetCell[c=3]{c} Voiced \\
+  & {non- \\ aspirate} & aspirate & {non- \\ aspirate} & aspirate & nasal \\
+  \SetCell[c=1]{c}Gutturals  & k & kh & g & gh & ṅ & h  &   & a & ā & e & \\
+  \SetCell[c=1]{c}Palatals   & c & ch & j & jh & ñ & y  &   & i & ī & \SetCell[r=3]{}  & \\
+  \SetCell[c=1]{c}Cerebrals  & ṭ & ṭh & ḍ & ḍh & ṇ & r\,/\,l\,/\,ḷh & & \SetCell[r=2]{} & \SetCell[r=2]{} & & ṁ \\
+  \SetCell[c=1]{c}Dentals    & t & th & d & dh & n & l  & s &   &   &   &     \\
+  \SetCell[c=1]{c}Labials    & p & ph & b & bh & m & v  &   & u & ū & o &     \\
+\end{tblr}
 
 \fi
 
-%% \ifafiveversion\vspace{-0.5cm}\fi
+\ifafiveversion\vspace{0.25cm}\fi
 % \ifninebythirteenversion\vspace{-0.5cm}\fi
-% \ifbfiveversion\vspace{-0.5cm}\fi
+\ifbfiveversion\vspace{0.25cm}\fi
 
-Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script used here is pronounced just as one would expect, with the following clarifications:
+Pāli is the official scriptural language of Theravāda Buddhism. It is closely related to Sanskrit, with no written script of its own. Written forms have emerged in the scripts of other languages (e.g. Devanāgarī, Sinhala, Burmese, Khmer, Thai, Roman). The Roman script is pronounced as expected, with these clarifications:
 
-\ifninebythirteenversion\vspace{-0.25cm}\fi
-\ifafiveversion\vspace{-0.25cm}\fi
-\ifbfiveversion\vspace{-0.5cm}\fi
+%% \ifninebythirteenversion\vspace{-0.25cm}\fi
+\ifafiveversion\vspace{-0.75cm}\fi
+\ifbfiveversion\vspace{-0.4cm}\fi
 
 \ifafiveversion\medskip\subsection*{\textcolor{sbs-brown}{Vowels}}\fi
 \ifninebythirteenversion\subsection*{Vowels}\fi

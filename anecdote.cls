@@ -825,10 +825,25 @@
 	\kern 2.6\p@}
 
 % Redefine the name for the notes section
-\renewcommand*{\notesname}{Notes}
+\renewcommand*{\notesname}{Endnotes}
 
-% Redefine the title format for the notes section
-\renewcommand*{\notedivision}{\chapter{\notesname}}
+\ifninebythirteenversion
+
+	% Redefine the title format for the notes section
+	\renewcommand*{\notedivision}{%
+		\chapter{\notesname}%
+		\vspace{-0.7em}%
+	}
+
+\fi
+
+\ifafiveversion
+	% 	Redefine the title format for the notes section
+	\renewcommand*{\notedivision}{%
+		\chapter{\notesname}%
+		\vspace{-0.4em}%
+	}
+\fi
 
 % Redefine the format for subheadings in page notes
 \renewcommand*{\pagenotesubhead}[3]{}
