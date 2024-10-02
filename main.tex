@@ -24,7 +24,7 @@
 \documentclass[
   final,
   babelLanguage=british,
-  % showtrims,
+  showtrims,
   \papersizeoption,
   \digitaloption,
 ]{anecdote}
@@ -39,9 +39,9 @@
 }
 
 % Loads formatting for selected ddocument class
-\ifninebythirteenversion  \usepackage{9x13} \fi
+\ifninebythirteenversion \usepackage{9x13} \fi
 \ifafiveversion \usepackage{A5} \fi
-\ifbfiveversion  \usepackage{B5} \fi
+\ifbfiveversion \usepackage{B5} \fi
 
 
 % Set metadata for the document
@@ -88,6 +88,15 @@
 \ifdigitalversion
 	\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/front-cover-compressed.jpg}}
 \fi
+
+% \ifninebythirteenversion
+%   \clearpage
+% \fi
+
+% \ifbfiveversion
+%   \clearpage
+% \
+% fi
 
 % Title page, copyright, acknowledgments
 \pagestyle{empty}
@@ -146,6 +155,13 @@
 	\clearpage
 	\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/back-cover-compressed.jpg}}
 \fi
+
+% \ifninebythirteenversion
+% 	\clearpage
+%   \fi
+% \ifbfiveversion
+% 	\clearpage
+%   \fi
 
 % End document
 \end{document}

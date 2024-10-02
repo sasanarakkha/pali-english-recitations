@@ -598,8 +598,6 @@
 	\clearpage
 }
 
-
-
 % Define lengths for document layout
 \newlength{\titleLength}% Length for the title
 \newlength{\xheight}% Length for the x-height of the font
@@ -1055,6 +1053,8 @@
 {\contentsmargin{0pt}}
 {}
 
+
+% TODO indent line break of ling chapter titles in ToC
 % Change the appearance of chapter entries in the table of contents
 \titlecontents{chapter}[\tocLeftWidth]
 {

@@ -168,17 +168,6 @@ endif
 
 #-----------------------------------------------------------------------------------------#
 
-checkepub: validate  # FIXME Redundant target
-validate: $(EPUBFILE)
-ifdef EPUBCHECK
-	@echo "Validating EPUB..."
-	"$(EPUBCHECK)" "$(EPUBFILE)"
-else
-	$(error Missing epubcheck)
-endif
-
-#-----------------------------------------------------------------------------------------#
-
 
 optimize: $(EPUBFILE)
 ifndef EBOOKPOLISH

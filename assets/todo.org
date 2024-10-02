@@ -205,7 +205,6 @@ CLOSED: [2022-12-12 Mon 18:41]
 CLOSED: [2022-12-12 Mon 18:47]
 * DONE HTML: bowels/entrails to intestines/mesentery and add footnote
 CLOSED: [2022-12-12 Mon 18:54]
-* TODO HTML: RENUMBER ENDNOTES WHEN FINISHED
 * DONE BOTH: add footnote to n8p for right livelihood
 CLOSED: [2022-12-18 Sun 17:25]
 * DONE HTML: highest blessing missing endnotes in the endnotes page -- NOTHING MISSING FOUND(?)
@@ -261,7 +260,7 @@ CLOSED: [2024-07-20 Sat 15:26]
 CLOSED: [2024-06-30 Sun 15:05]
 * DONE +rm all wpn endnotes from the documents and place them in a separate changelog file+ add conditionals to wpn endnotes
 CLOSED: [2024-06-29 Sat 16:34]
-* TODO HTML: MISSING QUOTE MARKS
+* TODO HTML
 This concerns the EPUB version :
 
 “This is the Noble Truth of dukkha”
@@ -271,5 +270,3 @@ This concerns the EPUB version :
 All those three phrases, in the Dhamma cakkha sutta, have lost their quote marks. In PDF it’s ok.
 
 In the EPUB version, The link “uddissanādhiṭṭāna” in the index “SET 1”, brings us to the english version of this chant, as I suppose it should bring us to the pāli of that chant (as the PDF version does).
-* TODO HTML: protective, funeral, etc. need pali subtitles
-* TODO HTML: compare purpose and benefits

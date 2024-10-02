@@ -35,7 +35,7 @@
   - [[#miscellaneous-verses][Miscellaneous Verses]]
   - [[#a-single-excellent-night][A Single Excellent Night]]
   - [[#the-discourse-on-blessings][The Discourse on Blessings]]
-  - [[#the-buddhas-words-on-loving-kindness][The Buddha's Words on Loving-Kindness]]
+  - [[#the-discourse-on-loving-kindness][The Discourse on Loving-Kindness]]
 - [[#teachings][Teachings]]
   - [[#covertitle-2][Cover/Title]]
   - [[#setting-in-motion-the-wheel-of-dhamma][Setting in Motion the Wheel of Dhamma]]
@@ -65,7 +65,7 @@
 - [[#cardinal-suttas][Cardinal Suttas]]
   - [[#covertitle-4][Cover/Title]]
   - [[#dhammacakkappavattana-sutta][Dhammacakkappavattana-sutta]]
-  - [[#discourse-on-turning-the-wheel-of-dhamma][Discourse on Turning the Wheel of Dhamma]]
+  - [[#the-discourse-on-turning-the-wheel-of-dhamma][The Discourse on Turning the Wheel of Dhamma]]
   - [[#anatta-lakkhaṇa-sutta][Anatta-lakkhaṇa-sutta]]
   - [[#the-discourse-on-the-characteristic-of-not-self][The Discourse on the Characteristic of Not-Self]]
   - [[#āditta-pariyāya-sutta][Āditta-pariyāya-sutta]]
@@ -87,7 +87,7 @@
   - [[#passage-on-going-for-refuge][Passage on Going for Refuge]]
   - [[#verses-on-triumph-by-paying-homage][Verses on Triumph by Paying Homage]]
   - [[#paying-homage-to-the-octad][Paying Homage to the Octad]]
-  - [[#discourse-on-blessings][Discourse on Blessings]]
+  - [[#the-discourse-on-blessings-1][The Discourse on Blessings]]
   - [[#the-discourse-on-jewels][The Discourse on Jewels]]
   - [[#the-discourse-on-the-loving-kindness-to-be-done][The Discourse on the Loving-Kindness to be Done]]
   - [[#protection-of-the-aggregates][Protection of the Aggregates]]
@@ -102,7 +102,7 @@
 - [[#funeral-recitations][Funeral Recitations]]
   - [[#covertitle-7][Cover/Title]]
   - [[#passage-on-preliminary-paying-of-homage-1][Passage on Preliminary Paying of Homage]]
-  - [[#dhamma-saṅgaṇī-mātikā][Dhamma-saṅgaṇī-mātikā]]
+  - [[#outlines-from-the-enumeration-of-phenomena][Outlines from the Enumeration of Phenomena]]
   - [[#passage-on-the-ground-for-distinct-seeing][Passage on the Ground for Distinct Seeing]]
   - [[#passage-on-the-list-from-the-foundation-of-conditional-relations][Passage on the List from the Foundation of Conditional Relations]]
   - [[#verses-starting-with-he-gave-to-me][Verses Starting with ``He Gave to Me'']]
@@ -442,7 +442,9 @@ Accompanying audio recordings can be found at:
 
 #+begin_src latex :tangle ./tex/purpose-and-benefits.tex
 
-\chapter[Purpose and Benefits\\ of Dhamma Recitation]{Purpose and Benefits\\ of Dhamma Recitation}
+
+\chapter[Purpose and Benefits\\ of Dhamma Recitation]{Purpose and Benefits of Dhamma Recitation}
+\chaptermark{Purpose and Benefits of Dhamma Recitation}
 \label{purpose-and-benefits}
 
 \subsection*{Historical Background}
@@ -627,9 +629,6 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
   WPN   & Wat Pah Nanachat's Buddhist Chanting (2014)           \\
 \end{tabular}
 
-Wisdom Publication sources: Nikāya and sutta \# (eg. DN 1)\\
-P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
-
 \else
 
 \begin{tabular}{@{}llll@{}}
@@ -656,10 +655,6 @@ P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 \end{tabular}
 
 \medskip
-
-Wisdom Publication sources: Nikāya and sutta \# (eg. DN 1)\\
-% TODO do we really need this? are there even any PTS versions?
-%% P.T.S. sources: Nikāya, volume \#, page \# (eg. D i 1)
 
 \fi
 
@@ -2742,6 +2737,8 @@ Etaṁ buddhāna'sāsanaṁ
   Majjhe ce no gahessasi – Upasanto carissasi
 \end{verses}
 
+\ifafiveversion\clearpage\fi
+
 \begin{english-verses}
   Dry up what pertains to the past\\
   Let there be nothing afterward\\
@@ -3017,7 +3014,7 @@ Etaṁ buddhāna'sāsanaṁ
 
 \linkdest{endnote46-body}
 \begin{leader-english}
-  \anglebracketleft\ \hspace{-0.5mm}Now let us recite the verses on the Highest Blessings\makeatletter\hyperlink{endnote46-appendix}\Hy@raisedlink{{\pagenote{%
+  \anglebracketleft\ \hspace{-0.5mm}Now let us recite the verses on the highest blessings\makeatletter\hyperlink{endnote46-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote46-appendix}{\hyperlink{endnote46-body}{The term ``blessing'' is used throughout this chanting book to convey the meaning of ``support'', or ``a beneficial thing'', without implying the underlying Christian connotations this term may have in popular use.}}}}}\makeatother \hspace{-0.5mm}\anglebracketright\
 \end{leader-english}
 
@@ -3121,6 +3118,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-only}
 
 \ifbfiveversion\clearpage\fi
+\ifafiveversion\clearpage\fi
 
 \begin{english-only}
   Although in contact with the world\\
@@ -3142,16 +3140,16 @@ Etaṁ buddhāna'sāsanaṁ
 
 #+end_src
 
-** The Buddha's Words on Loving-Kindness
+** The Discourse on Loving-Kindness
 
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \sectionSubTitle{Karaṇīya-metta-sutta}
-\section{The Buddha's Words on Loving-Kindness}
+\section{The Discourse on Loving-Kindness}
 \label{words-on-loving-kindness}
 
 \begin{leader-english}
-  \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Buddha's words on loving-kindness \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Now let us recite the discourse on loving-kindness \hspace{-0.5mm}\anglebracketright\
 \end{leader-english}
 
 \linkdest{endnote161-body}
@@ -4100,7 +4098,7 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
 \begin{english-only-justify}
   ``Come bhikkhu \breathmark\ be possessed of mindfulness and full awareness. Act in full awareness when going forward and returning \breathmark\ act in full awareness when looking ahead and looking away \breathmark\ act in full awareness when flexing and extending your limbs \breathmark\ act in full awareness when wearing your \mbox{robes}~\breathmark\ and carrying your outer robe and bowl \breathmark\ act in full awareness when \mbox{eating}~\breathmark\ drinking \breathmark\ consuming \mbox{food}~\breathmark\ and tasting \breathmark\ act in full awareness when defecating and urinating \breathmark\ act in full awareness when walking \breathmark\ \mbox{standing}~\breathmark\ sitting \breathmark\ falling \mbox{asleep}~\breathmark\ waking up\makeatletter\hyperlink{endnote60-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote60-appendix}{\hyperlink{endnote60-body}{Contrary to popular belief, mindfulness and full awareness is not meant to be practiced while sleeping, but only before falling asleep and after waking up.}}}}}\makeatother
-  \breathmark\ talking \breathmark\ and keeping silent''.
+ \breathmark\ talking \breathmark\ and keeping silent''.
 \end{english-only-justify}
 
 \begin{english-only-justify}
@@ -6073,7 +6071,7 @@ Tattha katamo soko
 \begin{english-hang-verses}
   Affected by the loss of relatives \breathmark\ or loss of wealth \breathmark\ or misfortune of sickness \breathmark\ or loss of virtue \breathmark\ or loss of right view\makeatletter\hyperlink{endnote84-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote84-appendix}{\hyperlink{endnote84-body}{While SN 12.2 does not contain an elaboration on the different types of misfortune (\textit{vyasana}), it is found in DN 33, AN 4.192, and AN 5.130. \textit{Diṭṭhi} here does not mean just any view, but ``right view''. The loss of other views would not be particularly unfortunate from a Buddhist perspective, especially the loss of wrong view could be regarded as a great blessing. The right view that is lost in this example is not the right view of a noble disciple, but the right view of a worldling (\textit{puthujjana}), whose right view is not unshakeable and who may or may not change his view later on throughout the course of the present life or subsequent births.}}}}}\makeatother
-  \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the sorrow \breathmark\ sorrowing \breathmark\ sorrowfulness \breathmark\ inner sorrow \breathmark\ extensive inner sorrow \breathmark\ the mind's thorough burning \breathmark\ displeasure \breathmark\ the dart of sorrow
+ \breathmark\ by whatever misfortune one encounters \breathmark\ by whatever painful thing one is \mbox{affected}~\breathmark\ the sorrow \breathmark\ sorrowing \breathmark\ sorrowfulness \breathmark\ inner sorrow \breathmark\ extensive inner sorrow \breathmark\ the mind's thorough burning \breathmark\ displeasure \breathmark\ the dart of sorrow
 \end{english-hang-verses}
 
 Ayaṁ vuccati soko
@@ -6161,8 +6159,6 @@ Ayaṁ vuccati upāyāso
 \begin{english}
   This is called `despair'
 \end{english}
-
-\ifafiveversion\clearpage\fi
 
 \begin{pali-hang}
 Evam'etassa kevalassa dukkha-kkhandhassa samudayo hotī'ti:
@@ -6552,7 +6548,7 @@ Niṭṭham'ettha gantabbaṁ
 Imassa ca bhikkhuno suggahitaṁ
 
 \begin{english}
-  It has been well-learned by that bhikkhu
+  It has been well-learned by this bhikkhu
 \end{english}
 
 Tassa ca saṅghassa suggahitaṁ
@@ -8027,7 +8023,7 @@ Katame dasa
 \begin{english-hang-verses}
   Bhikkhus there are these ten dhammas\ifdigitalversion\makeatletter\hyperlink{endnote99-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote99-appendix}{\hyperlink{endnote99-body}{WPN: ``\textit{Bhikkhus} there are ten \textit{dhammas}''}}}}}\makeatother\fi
-  \breathmark\ which should be reflected upon again and again by one who has gone forth\\
+ \breathmark\ which should be reflected upon again and again by one who has gone forth\\
 \end{english-hang-verses}
 
 \begin{english}
@@ -8629,11 +8625,11 @@ Tesaṁ vūpasamo sukho
 \end{leader}
 
 \begin{pali-hang}
-  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye.  Tatra kho bhagavā pañca-vaggiye bhikkhū āmantesi:
+  Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañca-vaggiye bhikkhū āmantesi:
 \end{pali-hang}
 
 \begin{pali-hang}
-  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāma-sukhallik'ānuyogo hīno gammo pothujjaniko anariyo anattha-sañhito \breathmark\ yo c'āyaṁ atta-kilamath'ānuyogo dukkho anariyo anattha-sañhito
+  Dve'me bhikkhave antā pabbajitena na sevitabbā: yo c'āyaṁ kāmesu kāma-sukhallik'ānuyogo \breathmark\ hīno gammo pothujjaniko anariyo anattha-sañhito \breathmark\ yo c'āyaṁ atta-kilamath'ānuyogo dukkho anariyo anattha-sañhito
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8649,7 +8645,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi
+  Sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto \breathmark\ sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8661,7 +8657,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ \breathmark\ appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark\ yam'picchaṁ na labhati tam'pi dukkhaṁ \breathmark\ saṅkhittena pañc'upādāna-kkhandhā dukkhā
+  Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ \breathmark appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark yam'picchaṁ na labhati tam'pi dukkhaṁ  saṅkhittena pañc'upādāna-kkhandhā dukkhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8669,7 +8665,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Y'āyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā \breathmark\ tatra-tatr'ābhinandinī seyyath'īdaṁ: kāma-taṇhā bhava-taṇhā vibhava-taṇhā
+  Y'āyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā  tatra-tatr'ābhinandinī seyyath'īdaṁ: kāma-taṇhā bhava-taṇhā vibhava-taṇhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8685,63 +8681,63 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Ayam'eva ariyo aṭṭh'aṅgiko maggo seyyath'īdaṁ: sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi
+  Ayam'eva ariyo aṭṭh'aṅgiko maggo seyyath'īdaṁ: sammā-diṭṭhi sammā-saṅkappo sammā-vācā sammā-kammanto \breathmark\ sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkhaṁ ariyasaccan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Idaṁ dukkhaṁ ariyasaccan'ti me bhikkhave pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan'ti me bhikkhave pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātan'ti me bhikkhave  pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkha-samudayo ariyasaccan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Idaṁ dukkha-samudayo ariyasaccan'ti me bhikkhave  pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-samudayo ariyasaccaṁ pahātabban'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-samudayo ariyasaccaṁ pahātabban'ti me bhikkhave  pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-samudayo ariyasaccaṁ pahīnan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-samudayo ariyasaccaṁ pahīnan'ti me bhikkhave  pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkha-nirodho ariyasaccan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Idaṁ dukkha-nirodho ariyasaccan'ti me bhikkhave  pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-nirodho ariyasaccaṁ sacchikātabban'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-nirodho ariyasaccaṁ sacchikātabban'ti me bhikkhave  pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-nirodho ariyasaccaṁ sacchikatan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-nirodho ariyasaccaṁ sacchikatan'ti me bhikkhave pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccan'ti me \mbox{bhikkhave}~\breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Idaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccan'ti me \mbox{bhikkhave}~ pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ bhāvetabban'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ bhāvetabban'ti me bhikkhave pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Taṁ kho panidaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ bhāvitan'ti me bhikkhave \breathmark\ pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
+  Taṁ kho panidaṁ dukkha-nirodha-gāminī paṭipadā ariyasaccaṁ bhāvitan'ti me bhikkhave pubbe ananussutesu dhammesu \breathmark\ cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāvakīvañ'ca me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evan'tiparivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi \breathmark\ n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
+  Yāvakīvañ'ca me bhikkhave imesu catūsu ariyasaccesu  evan'tiparivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi \breathmark\  n'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake  sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya  anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu \breathmark\ evan'tiparivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi \breathmark\ ath'āhaṁ bhikkhave sadevake loke samārake sabrahmake \breathmark\ sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya \breathmark\ anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
+  Yato ca kho me bhikkhave imesu catūsu ariyasaccesu  evan'tiparivaṭṭaṁ dvādas'ākāraṁ yathā-bhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi \breathmark\ ath'āhaṁ bhikkhave sadevake loke samārake sabrahmake  sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya  anuttaraṁ sammāsambodhiṁ abhisambuddho paccaññāsiṁ
 \end{pali-hang}
 
 Ñāṇañ'ca pana me dassanaṁ udapādi
@@ -8751,11 +8747,11 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Idam'avoca bhagavā \breathmark\ attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
+  Idam'avoca bhagavā  attamanā pañca-vaggiyā bhikkhu bhagavato bhāsitaṁ abhinanduṁ
 \end{pali-hang}
 
 \begin{pali-hang}
-  Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
+  Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne  āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
 \end{pali-hang}
 
 ``Yaṁ kiñci samudaya-dhammaṁ sabbaṁ taṁ nirodha-dhamman''ti
@@ -8769,31 +8765,31 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Bhummānaṁ devānaṁ saddaṁ sutvā \breathmark\ cātu-mmahā-rājikā devā saddam'anussāvesuṁ...
+  Bhummānaṁ devānaṁ saddaṁ sutvā \breathmark\  cātu-mmahā-rājikā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Cātu-mmahā-rājikānaṁ devānaṁ saddaṁ sutvā \breathmark\ tāvatiṁsā devā saddam'anussāvesuṁ...
+  Cātu-mmahā-rājikānaṁ devānaṁ saddaṁ sutvā \breathmark\  tāvatiṁsā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā \breathmark\ yāmā devā saddam'anussāvesuṁ...
+  Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā \breathmark\  yāmā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Yāmānaṁ devānaṁ saddaṁ sutvā \breathmark\ tusitā devā saddam'anussāvesuṁ...
+  Yāmānaṁ devānaṁ saddaṁ sutvā \breathmark\  tusitā devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Tusitānaṁ devānaṁ saddaṁ sutvā \breathmark\ nimmānaratī devā saddam'anussāvesuṁ...
+  Tusitānaṁ devānaṁ saddaṁ sutvā \breathmark\  nimmānaratī devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Nimmāna-ratīnaṁ devānaṁ saddaṁ sutvā \breathmark\ paranimmitavasavattī devā saddam'anussāvesuṁ...
+  Nimmāna-ratīnaṁ devānaṁ saddaṁ sutvā \breathmark\  paranimmitavasavattī devā saddam'anussāvesuṁ...
 \end{pali-hang}
 
 \begin{pali-hang}
-  Para-nimmita-vasa-vattīnaṁ devānaṁ saddaṁ sutvā \breathmark\ brahmakāyikā devā saddam'anussāvesuṁ:
+  Para-nimmita-vasa-vattīnaṁ devānaṁ saddaṁ sutvā \breathmark\  brahmakāyikā devā saddam'anussāvesuṁ:
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8801,13 +8797,13 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Itiha tena khaṇena tena muhuttena \breathmark\ yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu \breathmark\ saṅkam'pi sampakam'pi sampavedhi \breathmark\ appamāṇo ca oḷāro obhāso loke pāturahosi atikkamm'eva devānaṁ dev'ānubhāvaṁ
+  Itiha tena khaṇena tena muhuttena  yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkam'pi sampakam'pi sampavedhi \breathmark\ appamāṇo ca oḷāro obhāso loke pāturahosi atikkamm'eva devānaṁ dev'ānubhāvaṁ
 \end{pali-hang}
 
 Atha kho bhagavā udānaṁ udānesi:
 
 \begin{pali-hang}
-  ``Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño''\mbox{ti}~\breathmark\ Iti h'idaṁ āyasmato koṇḍaññassa aññākoṇḍañño tv'eva nāmaṁ ahosī'ti
+  ``Aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño''ti Iti h'idaṁ āyasmato koṇḍaññassa aññākoṇḍañño tv'eva nāmaṁ ahosī'ti
 \end{pali-hang}
 
 \ifninebythirteenversion\vspace{-1em}\fi
@@ -8816,33 +8812,31 @@ Atha kho bhagavā udānaṁ udānesi:
 
 #+end_src
 
-** Discourse on Turning the Wheel of Dhamma
+** The Discourse on Turning the Wheel of Dhamma
 
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/dhammacakkappavattana-eng.tex
 
-\section{Discourse on Turning \mbox{the}~Wheel~of~Dhamma}
+\section{The Discourse on Turning \mbox{the}~Wheel~of~Dhamma}
 \label{wheel-of-dhamma-full}
-
-% TODO this needs to be re breathmarked, remove them entirely, anupubbasikkha is not breathmarked
 
 \begin{leader-english}
   \anglebracketleft\ \hspace{-0.5mm}Thus have I heard \hspace{-0.5mm}\anglebracketright\
 \end{leader-english}
 
 \begin{english-only-hang}
-  On one occasion the Blessed One was dwelling at Benares \breathmark\ in the Deer Park at Isipatana \breathmark\ There he addressed the bhikkhus of the group of five thus:
+  On one occasion the Blessed One was dwelling at Benares in the Deer Park at Isipatana. There he addressed the bhikkhus of the group of five thus:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus these two extremes should not be followed \breathmark\ by one who has gone forth into homelessness \breathmark\ What two? The pursuit of sensual happiness in sensual pleasures \breathmark\ which is low \breathmark\ vulgar \breathmark\ the way of worldlings \breathmark\ ignoble \breathmark\ unbeneficial \breathmark\ and the pursuit of \ifbfiveversion \mbox{self-mortification}~\breathmark\ \else self-mortification \breathmark\ \fi which is painful \breathmark\ ignoble \breathmark\ unbeneficial
+  Bhikkhus these two extremes should not be followed \breathmark\ by one who has gone forth into homelessness. What two? The pursuit of sensual happiness in sensual pleasures \breathmark\ which is low \breathmark\ vulgar \breathmark\ the way of worldlings \breathmark\ ignoble \breathmark\ unbeneficial \breathmark\ and the pursuit of \ifbfiveversion self-mortification \else self-mortification  \fi which is painful \breathmark\ ignoble \breathmark\ unbeneficial
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Without veering towards either of these extremes \breathmark\ the Tathāgata has awakened to the Middle Way \breathmark\ which gives rise to \ifbfiveversion \mbox{vision}~\breathmark\ \else vision \breathmark\ \fi which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
+  Without veering towards either of these extremes \breathmark\ the Tathāgata has awakened to the Middle Way \breathmark\ which gives rise to \ifbfiveversion \mbox{vision}~\breathmark\ \else vision  \fi which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  And what \breathmark\ bhikkhus \breathmark\ is the Middle Way awakened to by the \ifbfiveversion \mbox{Tathāgata}~\breathmark\ Tathāgata \breathmark\ \fi which gives rise to \ifbfiveversion \mbox{vision}~\breathmark\ \else vision \breathmark\ \fi which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ \mbox{to}~enlightenment~\breathmark\ to Nibbāna
+  And what bhikkhus is the Middle Way awakened to by the Tathāgata which gives rise to \ifbfiveversion \mbox{vision}~ \else vision  \fi which gives rise to knowledge  which leads to peace  to direct knowledge  \mbox{to}~enlightenment~ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8854,23 +8848,23 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  This \breathmark\ bhikkhus \breathmark\ is that Middle Way awakened to by the Tathāgata \breathmark\ which gives rise to vision \breathmark\ which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
+  This  bhikkhus  is that Middle Way awakened to by the Tathāgata \breathmark\ which gives rise to vision \breathmark\ which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this \breathmark\ bhikkhus \breathmark\ is the noble truth of suffering: birth is \ifbfiveversion \mbox{suffering}~\breathmark\ \else suffering \breathmark\ \fi ageing is suffering \breathmark\ illness is suffering \breathmark\ death is \ifbfiveversion \mbox{suffering}~\breathmark\ \else suffering \breathmark\ \fi union with what is displeasing is suffering \breathmark\ separation from what is pleasing is suffering \breathmark\ not to get what one wants is suffering \breathmark\ in \ifbfiveversion \mbox{brief}~\breathmark\ \else brief \breathmark\ \fi the five aggregates subject to clinging are suffering
+  Now this  bhikkhus  is the noble truth of suffering: birth is \ifbfiveversion \mbox{suffering}~ \else suffering  \fi ageing is suffering \breathmark\ illness is suffering \breathmark\ death is \ifbfiveversion \mbox{suffering}~ \else suffering \breathmark\ \fi union with what is displeasing is suffering \breathmark\ separation from what is pleasing is suffering \breathmark\ not to get what one wants is suffering \breathmark\ in \ifbfiveversion \mbox{brief}~ \else brief \breathmark\ \fi the five aggregates subject to clinging are suffering
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this \breathmark\ bhikkhus \breathmark\ is the noble truth of the origin of suffering: it is this craving \breathmark\ which leads to renewed \mbox{existence}~\breathmark\ accompanied by delight and lust \breathmark\ seeking delight here and there \breathmark\ that is craving for sensual pleasures \breathmark\ craving for existence \breathmark\ craving for extermination
+  Now this  bhikkhus  is the noble truth of the origin of suffering: it is this craving  which leads to renewed \mbox{existence}~\breathmark\ accompanied by delight and lust \breathmark\ seeking delight here and there \breathmark\ that is craving for sensual pleasures \breathmark\ craving for existence \breathmark\ craving for extermination
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this \breathmark\ bhikkhus \breathmark\ is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation \breathmark\ of that same craving \breathmark\ the giving up and relinquishing of it \breathmark\ freedom from it \breathmark\ nonreliance on it
+  Now this  bhikkhus  is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation  of that same craving  the giving up and relinquishing of it \breathmark\ freedom from it \breathmark\ nonreliance on it
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this \breathmark\ bhikkhus \breathmark\ is the noble truth of the way leading to the cessation of suffering: It is this Noble Eightfold Path
+  Now this  bhikkhus  is the noble truth of the way leading to the cessation of suffering: It is this Noble Eightfold Path
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8878,67 +8872,67 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of suffering': thus bhikkhus in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This is the noble truth of suffering': thus bhikkhus in regard to things unheard before  there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of suffering is to be fully understood': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of suffering is to be fully understood': thus bhikkhus  in regard to things unheard before  there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of suffering has been fully understood': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of suffering has been fully understood': thus bhikkhus  in regard to things unheard before there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of the origin of suffering': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This is the noble truth of the origin of suffering': thus bhikkhus  in regard to things unheard before  there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the origin of suffering is to be abandoned': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of the origin of suffering is to be abandoned': thus bhikkhus  in regard to things unheard before  there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the origin of suffering has been abandoned': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of the origin of suffering has been abandoned': thus bhikkhus  in regard to things unheard before  there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of the cessation of suffering': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This is the noble truth of the cessation of suffering': thus bhikkhus  in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the cessation of suffering is to be realized': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of the cessation of suffering is to be realized': thus bhikkhus  in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the cessation of suffering has been realized': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of the cessation of suffering has been realized': thus bhikkhus  in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of the way leading to the cessation of suffering': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This is the noble truth of the way leading to the cessation of suffering': thus bhikkhus  in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the way leading to the cessation of suffering is to be developed': thus bhikkhus \breathmark\ in regard to things unheard \breathmark\ before there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of the way leading to the cessation of suffering is to be developed': thus bhikkhus  in regard to things unheard \breathmark\ before there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of the way leading to the cessation of suffering has been developed': thus bhikkhus \breathmark\ in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of the way leading to the cessation of suffering has been developed': thus bhikkhus  in regard to things unheard before \breathmark\ there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  So long \breathmark\ bhikkhus \breathmark\ as my knowledge and vision \breathmark\ of these Four Noble Truths \breathmark\ as they really are \breathmark\ in their three phases and twelve aspects \breathmark\ was not entirely purified \breathmark\ in this way I did not claim to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas \breathmark\ Māra \breathmark\ and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
+  So long bhikkhus as my knowledge and vision of these Four Noble Truths \breathmark\ as they really are in their three phases and twelve aspects \breathmark\ was not entirely purified \breathmark\ in this way I did not claim to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  But when my knowledge and vision \breathmark\ of these Four Noble Truths \breathmark\ as they really are \breathmark\ in their three phases and twelve aspects \breathmark\ was entirely purified \breathmark\ in this way then I claimed to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas \breathmark\ Māra \breathmark\ and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
+  But when my knowledge and vision  of these Four Noble Truths \breathmark\ as they really are in their three phases and twelve aspects \breathmark\ was entirely purified \breathmark\ in this way then I claimed to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  This is what the Blessed One said \breathmark\ Elated the bhikkhus of the group of five delighted in the Blessed One's statement
+  This is what the Blessed One said. Elated the bhikkhus of the group of five delighted in the Blessed One's statement
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  And while this discourse was being spoken there arose in the Venerable Kondañña \breathmark\ the dust-free stainless vision of the Dhamma:
+  And while this discourse was being spoken \breathmark\ there arose in the Venerable Kondañña  the dust-free stainless vision of the Dhamma:
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8950,7 +8944,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion \breathmark\ by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
+  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion  by the Blessed One  which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8972,21 +8966,21 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{english-only-hang}
   Having heard the cry of the Tusita devas \breathmark\ the Nimmānaratī devas raised a cry...
 \end{english-only-hang}
-
+%TODO a dash was added to paranimmittavasavatti check with other foramats
 \begin{english-only-hang}
-  Having heard the cry of the Nimmānaratī devas \breathmark\ the Paranimmitavasavattī devas raised a cry...
+  Having heard the cry of the Nimmānaratī devas \breathmark\ the Paranimmita-vasavattī devas raised a cry...
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Having heard the cry of the Paranimmitavasavattī devas \breathmark\ the devas of Brahmā's company raised a cry:
+  Having heard the cry of the Paranimmita-vasavattī devas \breathmark\ the devas of Brahmā's company raised a cry:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion \breathmark\ by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
+  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion  by the Blessed One  which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Thus at that moment \breathmark\ at that instant \breathmark\ at that second \breathmark\ the cry spread as far as the brahmā world \breathmark\ and this ten thousandfold world system shook \breathmark\ quaked and trembled \breathmark\ and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas
+  Thus at that moment at that instant at that second \breathmark\ the cry spread as far as the brahmā world \breathmark\ and this ten thousandfold world system shook quaked and trembled and an immeasurable glorious radiance appeared in the world surpassing the divine majesty of the devas
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8998,7 +8992,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  In this way the Venerable Koṇḍañña acquired the name \breathmark\ ``Aññā Koṇḍañña—Koṇḍañña Who Has Understood''
+  In this way the Venerable Koṇḍañña acquired the name \breathmark\ ``Aññā Koṇḍañña \breathmark\ Koṇḍañña Who Has Understood''
 \end{english-only-hang}
 
 \suttaRef{[SN 56.11]}
@@ -10439,12 +10433,10 @@ Sadā sotthī bhavantu te
 \hfill{[3x]}
 \end{pali-hang-together}
 
-% TODO do we even need 3x? I mean its pretty clear for anybody familiar with buddhist chanting
-
 \else
 
 \begin{pali-hang-together}
-  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa \hfill{[3x]}
+  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato\\ sammāsambuddhassa \hfill{[3x]}
 \end{pali-hang-together}
 
 \fi
@@ -10661,12 +10653,12 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Discourse on Blessings
+** The Discourse on Blessings
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Maṅgala-sutta}
-\section{Discourse on Blessings}
+\section{The Discourse on Blessings}
 \label{discorse-on-blessings}
 
 \begin{pali-hang-together}
@@ -12225,7 +12217,7 @@ Sadā sotthī bhavantu te
 \label{passage-on-preliminary-paying-of-homage-funeral}
 
 \begin{pali-hang-together}
-  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa \hfill{[3x]}
+  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato\\ sammāsambuddhassa \hfill{[3x]}
 \end{pali-hang-together}
 
 \begin{english}
@@ -12236,12 +12228,12 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Dhamma-saṅgaṇī-mātikā
+** Outlines from the Enumeration of Phenomena
 
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
-\sectionSubTitle{Just as Rivers}
-\section{Dhamma-saṅgaṇī-mātikā}
+\sectionSubTitle{Dhamma-saṅgaṇī-mātikā}
+\section{Outlines from the Enumeration of Phenomena}
 \label{dhamma-sangani-matika}
 
 \begin{pali-hang-together}
@@ -12732,7 +12724,8 @@ Sadā sotthī bhavantu te
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \sectionSubTitle{Paṭṭhāna-mātikā-pāṭho}
-\section[Passage on the List from the Foundation\\ of Conditional Relations]{Passage on the List from the Foundation of Conditional Relations}
+\section[Passage on the Outlines from the Foundation\\ of Conditional Relations]{Passage on the Outlines from the Foundation of Conditional Relations}
+%TODO make an indent if possible in the ToC
 \label{patthana-matika-patho}
 
 \begin{pali-hang-together}
@@ -13753,7 +13746,7 @@ Pāli is the official scriptural language of Theravāda Buddhism. It is closely 
 
 %% \ifninebythirteenversion\vspace{-0.25cm}\fi
 \ifafiveversion\vspace{-0.75cm}\fi
-\ifbfiveversion\vspace{-0.4cm}\fi
+\ifbfiveversion\vspace{-0.2cm}\fi
 
 \ifafiveversion\medskip\subsection*{\textcolor{sbs-brown}{Vowels}}\fi
 \ifninebythirteenversion\subsection*{Vowels}\fi
