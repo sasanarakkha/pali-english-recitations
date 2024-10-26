@@ -1,8 +1,16 @@
 
 \ifdigitalversion
-  \chapterOpeningPage{verses-compressed.jpg}
+  \chapterOpeningPage{verses_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{verses.jpg}
+  \chapterOpeningPage{verses_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{verses_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{verses_B5.jpg}
 \fi
 
 \chapter{Verses}
@@ -190,9 +198,20 @@
         \hypertarget{endnote32-appendix}{\hyperlink{endnote32-body}{WPN: ``from suffering''}}}}}\makeatother\fi
 \end{english-verses}
 
+\ifninebythirteenversion
+
+\begin{pali-hang-verses}
+  Yo ca buddhañ'ca dhammañ'ca – Saṅghañ'ca saraṇaṁ gato\\
+\end{pali-hang-verses}
+
+\else
+
 \begin{verses}
   Yo ca buddhañ'ca dhammañ'ca – Saṅghañ'ca saraṇaṁ gato\\
 \end{verses}
+
+\fi
+
 \begin{pali-hang-together}
   Cattāri ariya-saccāni – Samma-ppaññāya passati
 \end{pali-hang-together}
@@ -208,11 +227,20 @@
   The Four Noble Truths
 \end{english-verses}
 
-\ifninebythirteenversion\clearpage\fi
+\ifninebythirteenversion
+
+\begin{pali-hang-verses}
+  Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
+\end{pali-hang-verses}
+
+\else
 
 \begin{verses}
   Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
 \end{verses}
+
+  \fi
+
 \begin{pali-hang-together}
   Ariyañ'c'aṭṭh'aṅgikaṁ maggaṁ – Dukkh'ūpasama-gāminaṁ
 \end{pali-hang-together}
@@ -1022,6 +1050,8 @@ Etaṁ buddhāna'sāsanaṁ
   And delude you when under his control
 \end{english-verses}
 
+\ifninebythirteenversion\clearpage\fi
+
 \begin{verses}
   Yāya devā manussā ca – Sitā tiṭṭhanti atthikā\\
   Tarath'etaṁ visattikaṁ – Khaṇo vo mā upaccagā\\
@@ -1068,6 +1098,8 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \suttaRef{[Dhp 212]}
+
+\ifninebythirteenversion\clearpage\fi
 
 \begin{verses}
   Tiṭṭhat'eva nibbānaṁ
@@ -1293,6 +1325,7 @@ Etaṁ buddhāna'sāsanaṁ
 \begin{english-only}
   Living in places of suitable kinds\\
   With the fruits of past good deeds\\
+\ifninebythirteenversion\clearpage\fi
   And guided by the rightful way\\
   These are the highest blessings
 \end{english-only}

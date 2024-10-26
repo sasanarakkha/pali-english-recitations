@@ -1,9 +1,17 @@
 
 \ifdigitalversion
-  \chapterOpeningPage{protective-recitations-compressed.jpg}
+  \chapterOpeningPage{protective_recitations_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{protective-recitations.jpg}
+  \chapterOpeningPage{protective_recitations_A5.jpg}
 \fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{protective_recitations_9x13.jpg}
+  \fi
+
+  \ifbfiveversion
+  \chapterOpeningPage{protective_recitations_B5.jpg}
+    \fi
 
 \chapter{Protective Recitations}
 
@@ -64,23 +72,23 @@
 \section{Passage on Preliminary Paying of Homage}
 \label{passage-on-preliminary-paying-of-homage-protective}
 
-\ifninebythirteenversion
+% \ifninebythirteenversion
+
+% \begin{pali-hang-together}
+%   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa
+% \end{pali-hang-together}
+
+% \begin{pali-hang-together}
+% \hfill{[3x]}
+% \end{pali-hang-together}
+
+% \else
 
 \begin{pali-hang-together}
-  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa
+  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato \ifninebythirteenversion\\ \fi sammāsambuddhassa \hfill{[3x]}
 \end{pali-hang-together}
 
-\begin{pali-hang-together}
-\hfill{[3x]}
-\end{pali-hang-together}
-
-\else
-
-\begin{pali-hang-together}
-  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato\\ sammāsambuddhassa \hfill{[3x]}
-\end{pali-hang-together}
-
-\fi
+% \fi
 
 \begin{english}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
@@ -111,6 +119,9 @@
   Dutiyam'pi dhammaṁ saraṇaṁ gacchāmi\\
   Dutiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 \end{pali-hang-continued}
+
+\ifafiveversion\clearpage\fi
+\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   A second time, to the Buddha I go for refuge.\\
@@ -317,6 +328,8 @@
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifafiveversion\clearpage\fi
+
 \begin{english-verses}
   Not associating with fools,\\
   Associating with the wise,\\
@@ -364,6 +377,7 @@
 \begin{english-verses}
   Serving one's mother and father,\\
   Maintaining a wife and children,\\
+\ifafiveversion\clearpage\fi
   And an honest occupation:\\
   This is the highest blessing.
 \end{english-verses}
@@ -414,6 +428,8 @@
   This is the highest blessing.
 \end{english-verses}
 
+\ifafiveversion\clearpage\fi
+
 \begin{pali-hang-continued}
   Khantī ca sovacassatā\\
   Samaṇānañ'ca dassanaṁ\\
@@ -461,6 +477,7 @@
 \begin{pali-hang-continued}
   Etādisāni katvāna\\
   Sabbattham'aparājitā\\
+\ifafiveversion\clearpage\fi
   Sabbattha sotthiṁ gacchanti\\
   Tan'tesaṁ maṅgalam'uttaman'ti
 \end{pali-hang-continued}
@@ -561,6 +578,7 @@
   Cattāri etāni yugāni honti\\
   Te dakkhiṇeyyā sugatassa sāvakā\\
   Etesu dinnāni maha-pphalāni\\
+\ifafiveversion\clearpage\fi
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
@@ -601,6 +619,8 @@
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
+
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   As a gate post, planted in the ground,\\
@@ -812,6 +832,7 @@
 \begin{english-verses}
   He would not do the slightest thing,\\
   For which wise others would reproach.\\
+\ifafiveversion\clearpage\fi
   Well and secure may [all beings] be;\\
   May all beings be happy at heart.
 \end{english-verses}
@@ -859,6 +880,8 @@
   Would wish for one another's suffering.
 \end{english-verses}
 
+\ifafiveversion\clearpage\fi
+
 \begin{pali-hang-continued}
   Mātā yathā niyaṁ puttaṁ\\
   Āyusā eka-puttam'anurakkhe\\
@@ -905,6 +928,7 @@
 \begin{pali-hang-continued}
   Diṭṭhiñ'ca anupagamma\\
   Sīlavā dassanena sampanno\\
+\ifafiveversion\clearpage\fi
   Kāmesu vineyya gedhaṁ\\
   Na hi jātu gabbha-seyyaṁ punar-etī'ti
 \end{pali-hang-continued}
@@ -1366,6 +1390,8 @@
   Go to ruin by the power of the Saṅgha.
 \end{english-verses}
 
+\ifafiveversion \vspace{-0.4em} \fi
+
 \suttaRef{[Trad]}
 
 
@@ -1560,6 +1586,8 @@
   By the power of this, may you have victory blessings.
   \end{english-hang-together-verses}
 \end{english-verses}
+
+\ifafiveversion\clearpage\fi
 
 \begin{pali-hang-continued}
   Nandopananda-bhujagaṁ vibudhaṁ mah'iddhiṁ\\
@@ -1762,6 +1790,7 @@
   May every blessing come to be.\\
   And all good spirits guard you well.\\
   \ifbfiveversion\clearpage\fi
+  \ifafiveversion\clearpage\fi
   With all the power of the Sangha,\\
   May you always be at ease.
 \end{english-verses}

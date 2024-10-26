@@ -5,6 +5,8 @@
 #+auto-tangle: t
 #+url: https://github.com/sasanarakkha/pali-english-recitations
 
+* TODO
+
 * Table of Contents :toc:
 - [[#titlepage][Titlepage]]
 - [[#copyright][Copyright]]
@@ -190,7 +192,7 @@
 
   Published by \publisher\\
   ISBN \theISBN\\
-  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2024
+  Copyright \copyright\ Sāsanārakkha Buddhist Sanctuary 2025
 
   \ifafiveversion \vspace{0.5cm} \fi
   \ifninebythirteenversion \vspace{0.3cm} \fi
@@ -283,9 +285,9 @@ Accompanying audio recordings can be found at:
     \ifninebythirteenversion \smallskip \else \medskip \fi
 
     \begin{center}
-      \ifafiveversion \includegraphics[height=54mm]{sbs-logo-tuck-loon-brown.jpg} \fi
-      \ifninebythirteenversion \includegraphics[height=24mm]{sbs-logo-tuck-loon-brown.jpg}\fi
-      \ifbfiveversion \includegraphics[height=66mm]{sbs-logo-tuck-loon-brown.jpg}\fi
+      \ifafiveversion \includegraphics[height=54mm]{sbs_logo_tuck_loon_brown.jpg} \fi
+      \ifninebythirteenversion \includegraphics[height=24mm]{sbs_logo_tuck_loon_brown.jpg}\fi
+      \ifbfiveversion \includegraphics[height=66mm]{sbs_logo_tuck_loon_brown.jpg}\fi
     \end{center}
   }
 }
@@ -380,7 +382,7 @@ Accompanying audio recordings can be found at:
     \hyperref[anatta-lakkhana]{Anatta-lakkhaṇa Sutta} \ifdigitalversion\else\pageref{anatta-lakkhana}\fi\\
     \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma} \ifdigitalversion\else\pageref{striving-according-to-dhamma}\fi\\
     \hyperref[divine-abidings]{The Divine Abidings} \ifdigitalversion\else\pageref{divine-abidings}\fi\\
-    \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ \ifafiveversion\vspace{-0.4cm}\fi \ifninebythirteenversion\vspace{-0.2cm}\fi by One Gone Forth} \ifdigitalversion\else\pageref{ten-reflections}\fi\\
+    \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ \ifafiveversion\vspace{-0.4cm}\fi \ifbfiveversion\vspace{-0.4cm}\fi \ifninebythirteenversion\vspace{-0.2cm}\fi by One Gone Forth} \ifdigitalversion\else\pageref{ten-reflections}\fi\\
     \hyperref[sharing-aspirations]{Sharing and Aspirations} \ifdigitalversion\else\pageref{sharing-aspirations}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
@@ -666,11 +668,18 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 #+begin_src latex :tangle ./tex/recitations/homage.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{homage-to-the-triple-gem-compressed.jpg}
+  \chapterOpeningPage{homage_to_the_triple_gem_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{homage-to-the-triple-gem.jpg}
+  \chapterOpeningPage{homage_to_the_triple_gem_A5.jpg}
 \fi
 
+\ifninebythirteenversion
+  \chapterOpeningPage{homage_to_the_triple_gem_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{homage_to_the_triple_gem_B5.jpg}
+\fi
 
 \chapter{Homage to the Triple Gem}
 
@@ -1555,6 +1564,8 @@ Dukkh'otiṇṇā dukkha-paretā
 
 \suttaRef{[SN 22.80]}
 
+\ifninebythirteenversion\vspace{0.2em}\fi
+
 %% \clearpage
 
 \begin{center}
@@ -1712,9 +1723,17 @@ Saṅghaṁ namāmi
 #+begin_src latex :tangle ./tex/recitations/verses.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{verses-compressed.jpg}
+  \chapterOpeningPage{verses_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{verses.jpg}
+  \chapterOpeningPage{verses_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{verses_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{verses_B5.jpg}
 \fi
 
 \chapter{Verses}
@@ -1914,9 +1933,20 @@ Saṅghaṁ namāmi
         \hypertarget{endnote32-appendix}{\hyperlink{endnote32-body}{WPN: ``from suffering''}}}}}\makeatother\fi
 \end{english-verses}
 
+\ifninebythirteenversion
+
+\begin{pali-hang-verses}
+  Yo ca buddhañ'ca dhammañ'ca – Saṅghañ'ca saraṇaṁ gato\\
+\end{pali-hang-verses}
+
+\else
+
 \begin{verses}
   Yo ca buddhañ'ca dhammañ'ca – Saṅghañ'ca saraṇaṁ gato\\
 \end{verses}
+
+\fi
+
 \begin{pali-hang-together}
   Cattāri ariya-saccāni – Samma-ppaññāya passati
 \end{pali-hang-together}
@@ -1932,11 +1962,20 @@ Saṅghaṁ namāmi
   The Four Noble Truths
 \end{english-verses}
 
-\ifninebythirteenversion\clearpage\fi
+\ifninebythirteenversion
+
+\begin{pali-hang-verses}
+  Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
+\end{pali-hang-verses}
+
+\else
 
 \begin{verses}
   Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
 \end{verses}
+
+  \fi
+
 \begin{pali-hang-together}
   Ariyañ'c'aṭṭh'aṅgikaṁ maggaṁ – Dukkh'ūpasama-gāminaṁ
 \end{pali-hang-together}
@@ -2774,6 +2813,8 @@ Etaṁ buddhāna'sāsanaṁ
   And delude you when under his control
 \end{english-verses}
 
+\ifninebythirteenversion\clearpage\fi
+
 \begin{verses}
   Yāya devā manussā ca – Sitā tiṭṭhanti atthikā\\
   Tarath'etaṁ visattikaṁ – Khaṇo vo mā upaccagā\\
@@ -2820,6 +2861,8 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \suttaRef{[Dhp 212]}
+
+\ifninebythirteenversion\clearpage\fi
 
 \begin{verses}
   Tiṭṭhat'eva nibbānaṁ
@@ -3053,6 +3096,7 @@ Etaṁ buddhāna'sāsanaṁ
 \begin{english-only}
   Living in places of suitable kinds\\
   With the fruits of past good deeds\\
+\ifninebythirteenversion\clearpage\fi
   And guided by the rightful way\\
   These are the highest blessings
 \end{english-only}
@@ -3216,9 +3260,17 @@ Etaṁ buddhāna'sāsanaṁ
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{teachings-compressed.jpg}
+  \chapterOpeningPage{teachings_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{teachings.jpg}
+  \chapterOpeningPage{teachings_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{teachings_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{teachings_B5.jpg}
 \fi
 
 \chapter{Teachings}
@@ -4043,11 +4095,25 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
   ``Now is it possible Master Gotama \breathmark\ to describe a gradual \mbox{training}~\breathmark\ gradual practice \breathmark\ and gradual progress in this Dhamma and Vinaya?''
 \end{english-only-justify}
 
+\ifninebythirteenversion
+
+\begin{english-only-justify}
+  ``It is possible to describe a gradual training \breathmark\ gradual practice \breathmark\ and gradual progress in this Dhamma and Vinaya. When the Tathāgata obtains a person to be tamed \breathmark\ he first disciplines him thus:
+\end{english-only-justify}
+
+\clearpage
+
+\begin{english-only-justify}
+  `Come bhikkhu be virtuous \breathmark\ dwell restrained by the \mbox{Pātimokkha}~\breathmark\ perfect in conduct and resort \breathmark\ and seeing danger in the slightest faults \breathmark\ train by undertaking the training rules''.
+\end{english-only-justify}
+
+\else
+
 \begin{english-only-justify}
   ``It is possible to describe a gradual training \breathmark\ gradual practice \breathmark\ and gradual progress in this Dhamma and Vinaya. When the Tathāgata obtains a person to be tamed \breathmark\ he first disciplines him thus: `Come bhikkhu be virtuous \breathmark\ dwell restrained by the Pātimokkha \breathmark\ perfect in conduct and resort \breathmark\ and seeing danger in the slightest faults \breathmark\ train by undertaking the training rules''.
 \end{english-only-justify}
 
-\suttaRef{[MN 107]}
+\fi
 
 \begin{english-only-justify}
   ``Having thus gone forth and possessing the bhikkhus' training and way of life \breathmark\ abandoning the destruction of life \breathmark\ he abstains from destroying \mbox{life}~\breathmark\ with rod and weapon laid aside \breathmark\ conscientious \breathmark\ merciful \breathmark\ he abides compassionate to all living beings. Abandoning the taking of what is not given \breathmark\ he abstains from taking what is not given \breathmark\ taking only what is given \breathmark\ expecting only what is given \breathmark\ by not stealing he abides in purity''.
@@ -4069,6 +4135,8 @@ Ye kho te bhikkhū sekkhā apatta-mānasā anuttaraṁ yoga-kkhemaṁ patthayam�
   ``He abstains from harming seeds and plants. He practices eating one meal a day \breathmark\ abstaining from eating at night and outside the proper time.\makeatletter\hyperlink{endnote148-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote148-appendix}{\hyperlink{endnote148-body}{The \textit{Vinaya} defines the wrong time for eating as from noon until dawnrise of the following day.}}}}}\makeatother\thinspace He abstains from dancing \breathmark\ singing \breathmark\ music and seeing entertainments. He abstains from wearing \mbox{garlands}~\breathmark\ smartening himself with scent \breathmark\ and embellishing himself with unguents. He abstains from high and luxurious sleeping places. He abstains from accepting gold and silver. He abstains from accepting raw grain. He abstains from accepting raw meat. He abstains from accepting women and girls. He abstains from accepting men and women slaves. He abstains from accepting goats and sheep. He abstains from accepting fowl and pigs. He abstains from accepting \mbox{elephants}~\breathmark\ cattle \breathmark\ horses and mares. He abstains from accepting fields and land''.
 \end{english-only-justify}
+
+\ifninebythirteenversion\clearpage\fi
 
 \begin{english-only-justify}
   ``He abstains from running errands and messages. He abstains from buying and selling. He abstains from false weights \breathmark\ false metals \breathmark\ and false measures. He abstains from accepting bribes \breathmark\ deceiving \breathmark\ \mbox{defrauding}~\breathmark\ and trickery. He abstains from wounding \breathmark\ \mbox{murdering}~\breathmark\ binding \breathmark\ \mbox{robbery}~\breathmark\ plunder and violence''.
@@ -4489,6 +4557,8 @@ Cittaṁ samādhiyati
 \end{english}
 
 So tathā-samāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti
+
+\ifninebythirteenversion\clearpage\fi
 
 \begin{english}
   One closely looks on with equanimity\\
@@ -5265,10 +5335,13 @@ Sabba-kāya-paṭisaṁvedī assasissāmī'ti sikkhati
 
 Sabba-kāya-paṭisaṁvedī passasissāmī'ti sikkhati
 
+
 \begin{english}
   He trains thus:\\
   `I shall breathe out experiencing the whole body'
 \end{english}
+
+\ifninebythirteenversion\clearpage\fi
 
 Passambhayaṁ kāya-saṅkhāraṁ assasissāmī'ti sikkhati
 
@@ -5420,6 +5493,8 @@ Anicc'ānupassī passasissāmī'ti sikkhati
 
 Virāg'ānupassī assasissāmī'ti sikkhati
 
+\ifninebythirteenversion\clearpage\fi
+
 \linkdest{endnote160-body}
 \begin{english-verses}
   He trains thus:\\
@@ -5475,8 +5550,6 @@ Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulī-katā
 \begin{english-hang}
   Bhikkhus that is how mindfulness of breathing is developed and cultivated
 \end{english-hang}
-
-\ifninebythirteenversion\clearpage\fi
 
 Maha-pphalā hoti mah'ānisaṁsā
 
@@ -6702,13 +6775,13 @@ Viññu-ppasatthāni aparāmaṭṭhāni samādhi-saṁvattanikāni
 Tathā-rūpesu sīlesu sīla-sāmaññagato viharati
 
 \begin{english}
-  Endowed with such virtues he dwells
+  Endowed with such shared virtues he dwells
 \end{english}
 
-Sabrahmacārīsu āvi c'eva raho ca
+Sabrahmacārīhi āvi c'eva raho ca
 
 \begin{english-hang}
-  Both in public and in private \breathmark\ towards his spiritual companions
+  Both in public and in private \breathmark\ with his spiritual companions
 \end{english-hang}
 
 Bhikkhu y'āyaṁ diṭṭhi
@@ -6732,13 +6805,13 @@ Niyyāti takkarassa sammā dukkha-kkhayāya
 Tathā-rūpāya diṭṭhiyā diṭṭhi-sāmaññagato viharati
 
 \begin{english}
-  Endowed with such a view he dwells
+  Endowed with such a shared view he dwells
 \end{english}
 
-Sabrahmacārīsu āvi c'eva raho ca
+Sabrahmacārīhi āvi c'eva raho ca
 
 \begin{english-hang}
-  Both in public and in private \breathmark\ towards his spiritual companions
+  Both in public and in private \breathmark\ with his spiritual companions
 \end{english-hang}
 
 Ime kho bhikkhave cha sāraṇīyā dhammā
@@ -7539,9 +7612,17 @@ Ayaṁ tathāgatassa pacchimā vācā
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{reflections-compressed.jpg}
+  \chapterOpeningPage{reflections_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{reflections.jpg}
+  \chapterOpeningPage{reflections_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{teachings_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{teachings_B5.jpg}
 \fi
 
 \chapter{Reflections}
@@ -7837,7 +7918,7 @@ Tassa dāy'ādā bhavissanti
 \clearpage
 
 \begin{leader-english}
-  \anglebracketleft\ \hspace{-0.5mm}Now let us make the Four Boundless Qualities shine forth \hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Now let us make the four boundless qualities shine forth \hspace{-0.5mm}\anglebracketright\
 \end{leader-english}
 
 \smallskip
@@ -8531,6 +8612,8 @@ Kaliṅgaraṁ iva
   Just like a rotten log
 \end{english}
 
+\ifninebythirteenversion\clearpage\fi
+
 Niratthaṁ
 
 \linkdest{endnote105-body}
@@ -8579,9 +8662,17 @@ Tesaṁ vūpasamo sukho
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{cardinal-suttas-compressed.jpg}
+  \chapterOpeningPage{cardinal_suttas_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{cardinal-suttas.jpg}
+  \chapterOpeningPage{cardinal_suttas_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{cardinal_suttas_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{cardinal_suttas_B5.jpg}
 \fi
 
 \chapter{Cardinal Suttas}
@@ -8657,7 +8748,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \begin{pali-hang}
-  Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ \breathmark appiyehi sampayogo dukkho piyehi vippayogo dukkho \breathmark yam'picchaṁ na labhati tam'pi dukkhaṁ  saṅkhittena pañc'upādāna-kkhandhā dukkhā
+  Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ \breathmark \thinspace appiyehi sampayogo dukkho piyehi vippayogo \mbox{dukkho}~\breathmark \thinspace yam'picchaṁ na labhati tam'pi dukkhaṁ  saṅkhittena pañc'upādāna-kkhandhā dukkhā
 \end{pali-hang}
 
 \begin{pali-hang}
@@ -8832,7 +8923,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Without veering towards either of these extremes \breathmark\ the Tathāgata has awakened to the Middle Way \breathmark\ which gives rise to \ifbfiveversion \mbox{vision}~\breathmark\ \else vision  \fi which gives rise to knowledge \breathmark\ which leads to peace \breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
+  Without veering towards either of these extremes \breathmark\ the Tathāgata has awakened to the Middle Way \breathmark\ which gives rise to \ifbfiveversion \mbox{vision}~\breathmark\ \else vision  \fi which gives rise to knowledge \breathmark\ which leads to \mbox{peace}~\breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8872,7 +8963,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of suffering': thus bhikkhus in regard to things unheard before  there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This is the noble truth of suffering': thus bhikkhus in regard to things unheard before there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8880,11 +8971,11 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This noble truth of suffering has been fully understood': thus bhikkhus  in regard to things unheard before there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This noble truth of suffering has been fully understood': thus bhikkhus  in regard to things unheard before there arose in me vision \breathmark\ \mbox{knowledge}~\breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  `This is the noble truth of the origin of suffering': thus bhikkhus  in regard to things unheard before  there arose in me vision \breathmark\ knowledge \breathmark\ wisdom \breathmark\ true knowledge \breathmark\ and light
+  `This is the noble truth of the origin of suffering': thus bhikkhus  in regard to things unheard before  there arose in me vision \breathmark\ knowledge \breathmark\ \mbox{wisdom}~\breathmark\ true knowledge \breathmark\ and light
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -8920,11 +9011,11 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  So long bhikkhus as my knowledge and vision of these Four Noble Truths \breathmark\ as they really are in their three phases and twelve aspects \breathmark\ was not entirely purified \breathmark\ in this way I did not claim to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
+  So long bhikkhus as my knowledge and vision of these Four Noble \mbox{Truths}~\breathmark\ as they really are in their three phases and twelve aspects \breathmark\ was not entirely purified \breathmark\ in this way I did not claim to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  But when my knowledge and vision  of these Four Noble Truths \breathmark\ as they really are in their three phases and twelve aspects \breathmark\ was entirely purified \breathmark\ in this way then I claimed to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
+  But when my knowledge and vision of these Four Noble \mbox{Truths}~\breathmark\ as they really are in their three phases and twelve aspects \breathmark\ was entirely \mbox{purified}~\breathmark\ in this way then I claimed to have awakened to the unsurpassed perfect enlightenment \breathmark\ in this world with its devas Māra and Brahmā \breathmark\ in this generation with its ascetics and brahmins \breathmark\ its devas and humans
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9659,9 +9750,17 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{thanksgiving-recitations-compressed.jpg}
+  \chapterOpeningPage{thanksgiving_recitations_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{thanksgiving-recitations.jpg}
+  \chapterOpeningPage{thanksgiving_recitations_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{thanksgiving_recitations_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{thanksgiving_recitations_B5.jpg}
 \fi
 
 \chapter{Thanksgiving Recitations}
@@ -10351,10 +10450,18 @@ Sadā sotthī bhavantu te
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{protective-recitations-compressed.jpg}
+  \chapterOpeningPage{protective_recitations_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{protective-recitations.jpg}
+  \chapterOpeningPage{protective_recitations_A5.jpg}
 \fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{protective_recitations_9x13.jpg}
+  \fi
+
+  \ifbfiveversion
+  \chapterOpeningPage{protective_recitations_B5.jpg}
+    \fi
 
 \chapter{Protective Recitations}
 
@@ -10423,23 +10530,23 @@ Sadā sotthī bhavantu te
 \section{Passage on Preliminary Paying of Homage}
 \label{passage-on-preliminary-paying-of-homage-protective}
 
-\ifninebythirteenversion
+% \ifninebythirteenversion
+
+% \begin{pali-hang-together}
+%   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa
+% \end{pali-hang-together}
+
+% \begin{pali-hang-together}
+% \hfill{[3x]}
+% \end{pali-hang-together}
+
+% \else
 
 \begin{pali-hang-together}
-  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato sammāsambuddhassa
+  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato \ifninebythirteenversion\\ \fi sammāsambuddhassa \hfill{[3x]}
 \end{pali-hang-together}
 
-\begin{pali-hang-together}
-\hfill{[3x]}
-\end{pali-hang-together}
-
-\else
-
-\begin{pali-hang-together}
-  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato\\ sammāsambuddhassa \hfill{[3x]}
-\end{pali-hang-together}
-
-\fi
+% \fi
 
 \begin{english}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
@@ -10474,6 +10581,9 @@ Sadā sotthī bhavantu te
   Dutiyam'pi dhammaṁ saraṇaṁ gacchāmi\\
   Dutiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 \end{pali-hang-continued}
+
+\ifafiveversion\clearpage\fi
+\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   A second time, to the Buddha I go for refuge.\\
@@ -10692,6 +10802,8 @@ Sadā sotthī bhavantu te
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifafiveversion\clearpage\fi
+
 \begin{english-verses}
   Not associating with fools,\\
   Associating with the wise,\\
@@ -10739,6 +10851,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   Serving one's mother and father,\\
   Maintaining a wife and children,\\
+\ifafiveversion\clearpage\fi
   And an honest occupation:\\
   This is the highest blessing.
 \end{english-verses}
@@ -10789,6 +10902,8 @@ Sadā sotthī bhavantu te
   This is the highest blessing.
 \end{english-verses}
 
+\ifafiveversion\clearpage\fi
+
 \begin{pali-hang-continued}
   Khantī ca sovacassatā\\
   Samaṇānañ'ca dassanaṁ\\
@@ -10836,6 +10951,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Etādisāni katvāna\\
   Sabbattham'aparājitā\\
+\ifafiveversion\clearpage\fi
   Sabbattha sotthiṁ gacchanti\\
   Tan'tesaṁ maṅgalam'uttaman'ti
 \end{pali-hang-continued}
@@ -10940,6 +11056,7 @@ Sadā sotthī bhavantu te
   Cattāri etāni yugāni honti\\
   Te dakkhiṇeyyā sugatassa sāvakā\\
   Etesu dinnāni maha-pphalāni\\
+\ifafiveversion\clearpage\fi
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
@@ -10980,6 +11097,8 @@ Sadā sotthī bhavantu te
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
+
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   As a gate post, planted in the ground,\\
@@ -11195,6 +11314,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   He would not do the slightest thing,\\
   For which wise others would reproach.\\
+\ifafiveversion\clearpage\fi
   Well and secure may [all beings] be;\\
   May all beings be happy at heart.
 \end{english-verses}
@@ -11242,6 +11362,8 @@ Sadā sotthī bhavantu te
   Would wish for one another's suffering.
 \end{english-verses}
 
+\ifafiveversion\clearpage\fi
+
 \begin{pali-hang-continued}
   Mātā yathā niyaṁ puttaṁ\\
   Āyusā eka-puttam'anurakkhe\\
@@ -11288,6 +11410,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Diṭṭhiñ'ca anupagamma\\
   Sīlavā dassanena sampanno\\
+\ifafiveversion\clearpage\fi
   Kāmesu vineyya gedhaṁ\\
   Na hi jātu gabbha-seyyaṁ punar-etī'ti
 \end{pali-hang-continued}
@@ -11769,6 +11892,8 @@ Sadā sotthī bhavantu te
   Go to ruin by the power of the Saṅgha.
 \end{english-verses}
 
+\ifafiveversion \vspace{-0.4em} \fi
+
 \suttaRef{[Trad]}
 
 #+end_src
@@ -11971,6 +12096,8 @@ Sadā sotthī bhavantu te
   By the power of this, may you have victory blessings.
   \end{english-hang-together-verses}
 \end{english-verses}
+
+\ifafiveversion\clearpage\fi
 
 \begin{pali-hang-continued}
   Nandopananda-bhujagaṁ vibudhaṁ mah'iddhiṁ\\
@@ -12181,6 +12308,7 @@ Sadā sotthī bhavantu te
   May every blessing come to be.\\
   And all good spirits guard you well.\\
   \ifbfiveversion\clearpage\fi
+  \ifafiveversion\clearpage\fi
   With all the power of the Sangha,\\
   May you always be at ease.
 \end{english-verses}
@@ -12197,9 +12325,17 @@ Sadā sotthī bhavantu te
 #+begin_src latex :tangle ./tex/recitations/funeral-recitations.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{funeral-recitations-compressed.jpg}
+  \chapterOpeningPage{funeral_recitations_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{funeral-recitations.jpg}
+  \chapterOpeningPage{funeral_recitations_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{protective_recitations_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{protective_recitations_B5.jpg}
 \fi
 
 \chapter{Funeral Recitations}
@@ -12217,7 +12353,7 @@ Sadā sotthī bhavantu te
 \label{passage-on-preliminary-paying-of-homage-funeral}
 
 \begin{pali-hang-together}
-  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato\\ sammāsambuddhassa \hfill{[3x]}
+  \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato \ifninebythirteenversion\\ \fi sammāsambuddhassa \hfill{[3x]}
 \end{pali-hang-together}
 
 \begin{english}
@@ -12268,6 +12404,8 @@ Sadā sotthī bhavantu te
   N'eva vipāka na vipāka-dhamma-dhammā
 \end{pali-hang-continued}
 
+\ifninebythirteenversion\clearpage\fi
+
 \begin{english-verses}
   Consequential dhamma\\
   Subject to consequential dhamma\\
@@ -12281,6 +12419,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfiveversion\clearpage\fi
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   Clung dhammas which can be clung to\\
@@ -12331,6 +12470,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfiveversion\clearpage\fi
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   Dhammas abandoned by seeing\\
@@ -12354,13 +12494,13 @@ Sadā sotthī bhavantu te
   \end{english-hang-together-verses}
 \end{english-verses}
 
+\ifninebythirteenversion\clearpage\fi
+
 \begin{pali-hang-continued}
   Ācaya-gāmino dhammā\\
   Apacaya-gāmino dhammā\\
   N'ev'ācaya-gāmino n'āpacaya-gāmino dhammā
 \end{pali-hang-continued}
-
-\ifninebythirteenversion\clearpage\fi
 
 \begin{english-verses}
   Dhammas leading to building up\\
@@ -12387,6 +12527,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfiveversion\clearpage\fi
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   Limited dhammas\\
@@ -12437,6 +12578,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfiveversion\clearpage\fi
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   Dhammas with the path as object\\
@@ -12487,6 +12629,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfiveversion\clearpage\fi
+\ifafiveversion\clearpage\fi
 
 \begin{english-verses}
   Internal dhammas\\
@@ -12562,10 +12705,12 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[MN 148]}
 
+\ifninebythirteenversion\clearpage\fi
+
 \begin{pali-hang-continued}
   Aṭṭhārasa dhātuyo:
   \begin{pali-hang}
-    Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu sota-dhātu sadda-dhātu sota-viññāṇa-dhātu ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu \ifbfiveversion\clearpage\fi kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
+    Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu sota-dhātu sadda-dhātu sota-viññāṇa-dhātu ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu \ifafiveversion\clearpage\fi jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu \ifbfiveversion\clearpage\fi kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu
   \end{pali-hang}
 \end{pali-hang-continued}
 
@@ -12597,6 +12742,7 @@ Sadā sotthī bhavantu te
 \suttaRef{[Vibh]}
 
 \ifbfiveversion\clearpage\fi
+\ifafiveversion\clearpage\fi
 
 \begin{pali-hang-continued}
   Cattāri ariya-saccāni:\\
@@ -12725,7 +12871,6 @@ Sadā sotthī bhavantu te
 
 \sectionSubTitle{Paṭṭhāna-mātikā-pāṭho}
 \section[Passage on the Outlines from the Foundation\\ of Conditional Relations]{Passage on the Outlines from the Foundation of Conditional Relations}
-%TODO make an indent if possible in the ToC
 \label{patthana-matika-patho}
 
 \begin{pali-hang-together}
@@ -12834,6 +12979,8 @@ Sadā sotthī bhavantu te
   Their stilling is true happiness.
 \end{english-verses}
 
+\ifafiveversion\vspace{-0.5em}\fi
+
 \suttaRef{[DN 16]}
 
 \begin{pali-hang-continued}
@@ -12850,11 +12997,14 @@ Sadā sotthī bhavantu te
   I have no doubt about this.
 \end{english-verses}
 
+\ifafiveversion\vspace{-0.2em}\fi
+
 \suttaRef{[Thai]}
 
 \begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Aciraṁ vat'ayaṁ kāyo \hspace{-0.5mm}\anglebracketright\ \\
   Paṭhaviṁ adhisessati\\
+  \ifninebythirteenversion\clearpage\fi
   Chuḍḍho apeta-viññāṇo\\
   Niratthaṁ va kaliṅgaraṁ \hfill{[3x]}
 \end{pali-hang-together}
@@ -12867,6 +13017,8 @@ Sadā sotthī bhavantu te
   Bereft of consciousness,\\
   Like a useless scrap of wood.
 \end{english-verses}
+
+\ifafiveversion\vspace{-0.6em}\fi
 
 \suttaRef{[Dhp 41]}
 
@@ -12917,6 +13069,8 @@ Sadā sotthī bhavantu te
   Sadā sotthī \breathmark\ bhavantu te
 \end{pali-hang-continued}
 
+\ifafiveversion\clearpage\fi
+
 \begin{english-verses}
   May every blessing come to be.\\
   And all good spirits guard you well.\\
@@ -12938,9 +13092,17 @@ Sadā sotthī bhavantu te
 #+begin_src latex :tangle ./tex/recitations/sharing-of-merits.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{sharing-of-merits-compressed.jpg}
+  \chapterOpeningPage{sharing_of_merits_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{sharing-of-merits.jpg}
+  \chapterOpeningPage{sharing_of_merits_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{sharing_of_merits_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{sharing_of_merits_B5.jpg}
 \fi
 
 \chapter{Sharing of Merits}
@@ -13276,6 +13438,8 @@ Yāva nibbānapattiyā
 
 \suttaRef{[Sri Lanka]}
 
+\ifninebythirteenversion\clearpage\fi
+
 Yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā
 
 \begin{english}
@@ -13368,9 +13532,17 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 #+begin_src latex :tangle ./tex/appendix.tex
 
 \ifdigitalversion
-  \chapterOpeningPage{appendix-compressed.jpg}
+  \chapterOpeningPage{appendix_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{appendix.jpg}
+  \chapterOpeningPage{appendix_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{appendix_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{appendix_B5.jpg}
 \fi
 
 \ifafiveversion\addtocontents{toc}{\protect\clearpage}\fi
@@ -13579,6 +13751,8 @@ Vikāla-bhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
   I undertake the training to refrain from eating after noon.\ifdigitalversion\makeatletter\hyperlink{endnote142-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote142-appendix}{\hyperlink{endnote142-body}{WPN: ``at inappropriate times''}}}}}\makeatother\fi
 \end{english}
+
+\ifninebythirteenversion\clearpage\fi
 
 \begin{pali-hang}
   Nacca-gīta-vādita-visūka-dassanā mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsana-ṭṭhānā veramaṇi-sikkhāpadaṁ samādiyāmi
@@ -13920,7 +14094,6 @@ A regular chanting leader may ask for feedback from others regarding whether his
 
     \fi
 
-
     This work is licensed under a Creative Commons\\
     Attribution-NonCommercial-NoDerivatives 4.0 International~License.\\
     \href{https://creativecommons.org/licenses/by-nc-nd/4.0/}{https://creativecommons.org/licenses/by-nc-nd/4.0/}
@@ -13934,7 +14107,6 @@ A regular chanting leader may ask for feedback from others regarding whether his
     \vspace{0.4cm}
 
     \fi
-
 
   }
 
@@ -13971,5 +14143,13 @@ A regular chanting leader may ask for feedback from others regarding whether his
   No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 }
+
+\ifninebythirteenversion
+
+\else
+
+\clearpage
+
+\fi
 
 #+end_src

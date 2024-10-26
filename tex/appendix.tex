@@ -1,8 +1,16 @@
 
 \ifdigitalversion
-  \chapterOpeningPage{appendix-compressed.jpg}
+  \chapterOpeningPage{appendix_compressed_A5.jpg}
 \else
-  \chapterOpeningPage{appendix.jpg}
+  \chapterOpeningPage{appendix_A5.jpg}
+\fi
+
+\ifninebythirteenversion
+  \chapterOpeningPage{appendix_9x13.jpg}
+\fi
+
+\ifbfiveversion
+  \chapterOpeningPage{appendix_B5.jpg}
 \fi
 
 \ifafiveversion\addtocontents{toc}{\protect\clearpage}\fi

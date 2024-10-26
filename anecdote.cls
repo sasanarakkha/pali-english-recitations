@@ -173,8 +173,6 @@
 % \syntaxonly
 \RequirePackage{pdflscape}
 
-
-
 % Define the color for the main body text.
 \definecolor{textbody}{gray}{0}% 100% for maximum contrast.
 % Define the color for the rule separating footnotes.
@@ -205,9 +203,6 @@
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 % Define the color for instructional text or comments.
 \definecolor{instruction}{gray}{0.3}
-
-
-
 
 % Load the fontspec package for font handling in XeLaTeX or LuaLaTeX.
 \RequirePackage{fontspec}
@@ -475,8 +470,6 @@
 \sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
 \sodef\soSection{}{.07em}{.4em plus.1em}{.1em plus.1em minus.1em}
 
-
-
 % Source: https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
 
 % Define new column types for left-aligned and right-aligned columns in tables
@@ -644,6 +637,7 @@
 {\endlist}% Ends the list for the quote environment
 
 % Define commands for including photos with full bleed
+% \ifbfiveversion
 \newcommand\photoFullBleed[1]{%
 	\AddToShipoutPictureFG*{%
 		\put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
@@ -651,6 +645,17 @@
 		}%
 	}%
 }
+% \fi
+
+% \ifninebythirteenversion
+% \newcommand\photoFullBleed[1]{%
+% 	\AddToShipoutPictureFG*{%
+% 		\put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
+% 			\includegraphics[height={\paperheight + 6mm}]{#1}%
+% 		}%
+% 	}%
+% }
+% \fi
 
 % Define a command to set the graphics for a chapter opening page
 \newcommand{\thechaptergraphics}{}
@@ -1053,8 +1058,6 @@
 {\contentsmargin{0pt}}
 {}
 
-
-% TODO indent line break of ling chapter titles in ToC
 % Change the appearance of chapter entries in the table of contents
 \titlecontents{chapter}[\tocLeftWidth]
 {
@@ -1528,20 +1531,21 @@
 	\setlength{\BOOK@paperHeight}{210mm}
 	\setlength{\BOOK@paperWidth}{148mm}
 
-	\ifshowtrims
-		\stockaiv% use A4 paper size to show trims
-		\setlength{\paperheight}{\BOOK@paperHeight}
-		\setlength{\paperwidth}{\BOOK@paperWidth}
-		\trimXmarks
-		\trimLmarks
-		\quarkmarks
-		\settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
-		\settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
-	\else\relax
+	% \ifshowtrims
+	% 	\stockaiv% use A4 paper size to show trims
+	% 	\setlength{\paperheight}{\BOOK@paperHeight}
+	% 	\setlength{\paperwidth}{\BOOK@paperWidth}
+	% 	\trimXmarks
+	% 	\trimLmarks
+	% 	\quarkmarks
+	% 	\settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
+	% 	\settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
+	% \else\relax
+	 \relax
 		\setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
 		\settrimmedsize{\stockheight}{\stockwidth}{*}
 		\settrims{0pt}{0pt}
-	\fi
+	% \fi
 
 	% Page Margins
 	\settypeblocksize{27\baselineskip + \topskip}{120mm}{*}
@@ -1660,7 +1664,7 @@
 	\setlength{\BOOK@paperWidth}{176mm}
 
 	\ifshowtrims
-		\stockaiv% use A4 paper size to show trims
+		\pagebv% use A4 paper size to show trims
 		\setlength{\paperheight}{\BOOK@paperHeight}
 		\setlength{\paperwidth}{\BOOK@paperWidth}
 		\trimXmarks

@@ -21,6 +21,8 @@
 \fi
 \typeout{Set \protect\digitaloption{} to \digitaloption}
 
+% todo ask bergen to make showtims a togglable condition for b5 and 9x13 only
+
 \documentclass[
   final,
   babelLanguage=british,
@@ -28,7 +30,6 @@
   \papersizeoption,
   \digitaloption,
 ]{anecdote}
-
 
 % Define graphics path for images
 \graphicspath{
@@ -43,21 +44,20 @@
 \ifafiveversion \usepackage{A5} \fi
 \ifbfiveversion \usepackage{B5} \fi
 
-
 % Set metadata for the document
 \title{SBS Pāli-English Recitations}
 \subtitle{Monk Training Centre}
 \author{SBS Monk Training Centre}
 \publisher{Sāsanārakkha Buddhist Sanctuary}
 \date{2021-10-30}
-\editionInfo{\textit{First Edition}, 2024}
+\editionInfo{\textit{First Edition}, 2025}
 \ISBN{000-0-00000-000-0}
 
 % Set metadata for PDF properties
 \hypersetup{
   pdftitle={\thetitle},
   pdfauthor={\theauthor},
-  pdfcopyright={Copyright (C) 2024, \thePublisher},
+  pdfcopyright={Copyright (C) 2025, \thePublisher},
   pdfsubject={},
   pdfkeywords={},
   pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
@@ -86,17 +86,18 @@
 
 % Digital version cover
 \ifdigitalversion
-	\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/front-cover-compressed.jpg}}
+	\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/front_cover_compressed_A5.jpg}}
 \fi
 
-% \ifninebythirteenversion
-%   \clearpage
-% \fi
+\ifninebythirteenversion
+  \photoFullBleed{./assets/illustrations/9x13/front_cover_9x13.jpg}
+  \clearpage
+\fi
 
-% \ifbfiveversion
-%   \clearpage
-% \
-% fi
+\ifbfiveversion
+  \photoFullBleed{./assets/illustrations/B5/front_cover_B5.jpg}
+  \clearpage
+\fi
 
 % Title page, copyright, acknowledgments
 \pagestyle{empty}
@@ -150,18 +151,17 @@
 \input{./tex/copyright-details.tex}
 \emptyUntilEven % Add blank page if necessary
 
-% Digital version back cover (if applicable)
 \ifdigitalversion
-	\clearpage
-	\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/back-cover-compressed.jpg}}
+  \clearpage
+  \digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/back_cover_compressed_A5.jpg}}
 \fi
 
-% \ifninebythirteenversion
-% 	\clearpage
-%   \fi
-% \ifbfiveversion
-% 	\clearpage
-%   \fi
+\ifninebythirteenversion
+  \photoFullBleed{./assets/illustrations/9x13/back_cover_9x13.jpg}
+\fi
 
-% End document
+\ifbfiveversion
+  \photoFullBleed{./assets/illustrations/B5/back_cover_B5.jpg}
+\fi
+
 \end{document}
