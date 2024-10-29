@@ -579,6 +579,14 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 
 Ṭhānissaro Bhikkhu 2013:  \href{https://www.dhammatalks.org/Archive/Writings/Ebooks/BMC1&2_200826.pdf}{\textit{``The Buddhist Monastic Code II''}}, Valley Center, CA: Metta Forest Monastery.
 
+\ifdigitalversion
+
+  \else
+
+\clearpage
+
+\fi
+
 #+end_src
 
 * Abbreviations
@@ -1363,7 +1371,7 @@ Saṅkhittena pañc'upādāna-kkhandhā dukkhā
 \linkdest{endnote15-body}
 \begin{english}
   In brief \breathmark\ the five aggregates of clinging are dukkha\ifdigitalversion\makeatletter\hyperlink{endnote15-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote15-appendix}{\hyperlink{endnote15-body}{WPN: ``In brief the five focuses of identity are dukkha''}}}}}\makeatother\fi
+        \hypertarget{endnote15-appendix}{\hyperlink{endnote15-body}{WPN: ``In brief the five focuses of identity are \textit{dukkha}''}}}}}\makeatother\fi
 \end{english}
 
 Seyyath'īdaṁ
@@ -8072,7 +8080,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
   Either skillful or harmful\\
   \linkdest{endnote98-body}
   Of such acts \breathmark\ I will be the heir\ifdigitalversion\makeatletter\hyperlink{endnote98-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote98-appendix}{\hyperlink{endnote98-body}{WPN: ``For good or for ill, of that I will be the heir'' For the sake of consistency with other passages which were translated differently, that translation has been chosen.}}}}}\makeatother\fi
+        \hypertarget{endnote98-appendix}{\hyperlink{endnote98-body}{WPN: ``For good or for ill, of that I will be the heir''. For the sake of consistency with other passages which were translated differently, that translation has been chosen.}}}}}\makeatother\fi
 \end{english-verses}
 
 Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
@@ -10589,11 +10597,11 @@ Sadā sotthī bhavantu te
 
 \ifninebythirteenversion
   \chapterOpeningPage{protective_recitations_9x13.jpg}
-  \fi
+\fi
 
-  \ifbfiveversion
+\ifbfiveversion
   \chapterOpeningPage{protective_recitations_B5.jpg}
-    \fi
+\fi
 
 \chapter{Protective Recitations}
 
