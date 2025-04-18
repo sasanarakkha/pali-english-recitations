@@ -700,7 +700,13 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 
 \chapter{Homage to the Triple Gem}
 
-\includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 #+end_src
 
@@ -1648,7 +1654,7 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 \label{closing-homage}
 
 \ifninebythirteenversion
-\vspace{-0.1cm}
+  \vspace{-0.1cm}
 \fi
 
 \begin{leader}
@@ -1656,9 +1662,9 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 \end{leader}
 
 \ifninebythirteenversion
-\vspace{-0.25cm}
+  \vspace{-0.25cm}
 \else
-\vspace{-0.5cm}
+  \vspace{-0.5cm}
 \fi
 
 Sammāsambuddho bhagavā
@@ -1678,9 +1684,9 @@ Buddhaṁ bhagavantaṁ abhivādemi
 \end{leader}
 
 \ifninebythirteenversion
-\vspace{-0.25cm}
+  \vspace{-0.25cm}
 \else
-\vspace{-0.5cm}
+  \vspace{-0.5cm}
 \fi
 
 Bhagavatā dhammo
@@ -1700,9 +1706,9 @@ Dhammaṁ namassāmi
 \end{leader}
 
 \ifninebythirteenversion
-\vspace{-0.25cm}
+  \vspace{-0.25cm}
 \else
-\vspace{-0.5cm}
+  \vspace{-0.5cm}
 \fi
 
 Bhagavato sāvaka-saṅgho
@@ -1737,7 +1743,7 @@ Saṅghaṁ namāmi
 \fi
 
 \ifbfiveversion
-\cleardoublepage
+  \cleardoublepage
 \fi
 
 #+end_src
@@ -1761,6 +1767,14 @@ Saṅghaṁ namāmi
 \fi
 
 \chapter{Verses}
+
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 #+end_src
 
@@ -3302,6 +3316,14 @@ Etaṁ buddhāna'sāsanaṁ
 \fi
 
 \chapter{Teachings}
+
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 #+end_src
 
@@ -7629,6 +7651,10 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 \suttaRef{[DN 16]}
 
+\ifbfiveversion
+  \cleardoublepage
+\fi
+
 \enlargethispage{\baselineskip\vspace{-1.0em}}
 \ifdigitalversion\bottomNav{uddissanadhitthana}\fi
 
@@ -7646,14 +7672,22 @@ Ayaṁ tathāgatassa pacchimā vācā
 \fi
 
 \ifninebythirteenversion
-  \chapterOpeningPage{teachings_9x13.jpg}
+  \chapterOpeningPage{reflections_9x13.jpg}
 \fi
 
 \ifbfiveversion
-  \chapterOpeningPage{teachings_B5.jpg}
+  \chapterOpeningPage{reflections_B5.jpg}
 \fi
 
 \chapter{Reflections}
+
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 #+end_src
 
@@ -8686,6 +8720,10 @@ Tesaṁ vūpasamo sukho
 
 \ifdigitalversion\bottomNav{yatha-vari-vaha-pura}\fi
 
+\ifbfiveversion
+  \cleardoublepage
+\fi
+
 #+end_src
 
 * Cardinal Suttas
@@ -8708,6 +8746,14 @@ Tesaṁ vūpasamo sukho
 \fi
 
 \chapter{Cardinal Suttas}
+
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 \input{./tex/recitations/cardinal-suttas/dhammacakkappavattana.tex}
 
@@ -9920,6 +9966,14 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 \chapter{Thanksgiving Recitations}
 
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
+
 \clearpage
 
 #+end_src
@@ -10619,6 +10673,14 @@ Sadā sotthī bhavantu te
 \fi
 
 \chapter{Protective Recitations}
+
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 \clearpage
 
@@ -12486,14 +12548,22 @@ Sadā sotthī bhavantu te
 \fi
 
 \ifninebythirteenversion
-  \chapterOpeningPage{protective_recitations_9x13.jpg}
+  \chapterOpeningPage{funeral_recitations_9x13.jpg}
 \fi
 
 \ifbfiveversion
-  \chapterOpeningPage{protective_recitations_B5.jpg}
+  \chapterOpeningPage{funeral_recitations_B5.jpg}
 \fi
 
 \chapter{Funeral Recitations}
+
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 \clearpage
 
@@ -13262,6 +13332,14 @@ Sadā sotthī bhavantu te
 
 \chapter{Sharing of Merits}
 
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
+
 #+end_src
 
 ** Sharing and Aspirations
@@ -13702,6 +13780,14 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 \ifafiveversion\addtocontents{toc}{\protect\clearpage}\fi
 \chapter{Appendix}
+
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 \clearpage
 
@@ -14241,11 +14327,11 @@ A regular chanting leader may ask for feedback from others regarding whether his
 
     \ifninebythirteenversion
 
-    \vspace{0.15cm}
+      \vspace{0.15cm}
 
     \else
 
-    \vspace{0.5cm}
+      \vspace{0.5cm}
 
     \fi
 
@@ -14255,11 +14341,11 @@ A regular chanting leader may ask for feedback from others regarding whether his
 
     \ifninebythirteenversion
 
-    \vspace{0.1cm}
+      \vspace{0.1cm}
 
     \else
 
-    \vspace{0.4cm}
+      \vspace{0.4cm}
 
     \fi
 
@@ -14268,24 +14354,24 @@ A regular chanting leader may ask for feedback from others regarding whether his
   You are free to:
 
   \begin{packeditemize}
-  \item \textbf{Share} — copy and redistribute the material in any medium or format.
+    \item \textbf{Share} — copy and redistribute the material in any medium or format.
   \end{packeditemize}
 
   The licensor cannot revoke these freedoms as long as you follow the license terms listed below:
 
   \begin{packeditemize}
-  \item \textbf{Attribution} — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-  \item \textbf{NonCommercial} — You may not use the material for commercial purposes.
-  \item \textbf{NoDerivatives} — If you remix, transform, or build upon the material, you may not distribute the modified material.
+    \item \textbf{Attribution} — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+    \item \textbf{NonCommercial} — You may not use the material for commercial purposes.
+    \item \textbf{NoDerivatives} — If you remix, transform, or build upon the material, you may not distribute the modified material.
   \end{packeditemize}
 
   \ifninebythirteenversion
 
-  \vspace{0.15cm}
+    \vspace{0.15cm}
 
   \else
 
-  \vspace{0.5cm}
+    \vspace{0.5cm}
 
   \fi
 
@@ -14303,7 +14389,7 @@ A regular chanting leader may ask for feedback from others regarding whether his
 
 \else
 
-\clearpage
+  \clearpage
 
 \fi
 

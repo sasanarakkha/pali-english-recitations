@@ -173,6 +173,7 @@
 % \syntaxonly
 \RequirePackage{pdflscape}
 \RequirePackage{pdfpages}
+\RequirePackage{atbegshi}
 
 % Define the color for the main body text.
 \definecolor{textbody}{gray}{0}% 100% for maximum contrast.
@@ -665,13 +666,6 @@
 % #1: photo
 \newcommand{\chapterOpeningPage}[1]{%
 	\renewcommand{\thechaptergraphics}{#1}
-}
-
-\newcommand\FullPageImage[1]{%
-  \AddToShipoutPictureBG*{%
-    \includegraphics[width=\paperwidth,height=\paperheight]{#1}%
-  }%
-  \clearpage
 }
 
 % Define a command for creating a section break

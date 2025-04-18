@@ -15,7 +15,13 @@
 
 \chapter{Homage to the Triple Gem}
 
-\includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\ifbfiveversion
+  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+\fi
+
+\ifninebythirteenversion
+  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+\fi
 
 
 
@@ -935,7 +941,7 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 \label{closing-homage}
 
 \ifninebythirteenversion
-\vspace{-0.1cm}
+  \vspace{-0.1cm}
 \fi
 
 \begin{leader}
@@ -943,9 +949,9 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 \end{leader}
 
 \ifninebythirteenversion
-\vspace{-0.25cm}
+  \vspace{-0.25cm}
 \else
-\vspace{-0.5cm}
+  \vspace{-0.5cm}
 \fi
 
 Sammāsambuddho bhagavā
@@ -965,9 +971,9 @@ Buddhaṁ bhagavantaṁ abhivādemi
 \end{leader}
 
 \ifninebythirteenversion
-\vspace{-0.25cm}
+  \vspace{-0.25cm}
 \else
-\vspace{-0.5cm}
+  \vspace{-0.5cm}
 \fi
 
 Bhagavatā dhammo
@@ -987,9 +993,9 @@ Dhammaṁ namassāmi
 \end{leader}
 
 \ifninebythirteenversion
-\vspace{-0.25cm}
+  \vspace{-0.25cm}
 \else
-\vspace{-0.5cm}
+  \vspace{-0.5cm}
 \fi
 
 Bhagavato sāvaka-saṅgho
@@ -1024,6 +1030,6 @@ Saṅghaṁ namāmi
 \fi
 
 \ifbfiveversion
-\cleardoublepage
+  \cleardoublepage
 \fi
 
