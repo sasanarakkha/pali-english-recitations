@@ -201,15 +201,6 @@ clean:
 #-----------------------------------------------------------------------------------------#
 
 
-editwatchepub: $(EPUBFILE)
-	@echo "Opening current-recitations.epub in Sigil for editing..."
-	@echo "Watching file for errors..."
-	@make -j edit watchepub
-
-
-#-----------------------------------------------------------------------------------------#
-
-
 extractepub:
 	@echo "Extracting $(LATESTEPUBFILE) into $(HTMLSOURCE)"
 	@cp "$(EPUBFILE)" "$(EPUBFILE)".bkp && mv "$(EPUBFILE)" "$(LATESTEPUBFILE)" || echo "Failed to move EPUB file."
@@ -217,6 +208,25 @@ extractepub:
 	@unzip -o "$(LATESTEPUBFILE)" -d "$(HTMLSOURCE)" || echo "Failed to unzip $(LATESTEPUBFILE)."
 	@mv "$(EPUBFILE)".bkp "$(EPUBFILE)" && rm "$(LATESTEPUBFILE)"
 	@echo "Extracting HTML hierarchy from EPUB for version control..."
+
+
+#-----------------------------------------------------------------------------------------#
+
+editwatchepub: $(EPUBFILE)
+ifndef JAVA
+	$(error Java was not found. Unable to validate ebook)
+endif
+ifndef INOTIFYWAIT
+	$(error inotifywait was not found. Unable to watch ebook for changes)
+endif
+	@sigil "$(EPUBFILE)" &
+	@echo "Watching $(EPUBFILE)"
+	@while true; do \
+		$(INOTIFYWAIT) -qe close_write "$(EPUBFILE)"; \
+		echo "Validating $(EPUBFILE)..."; \
+		"$(EPUBCHECK)" "$(EPUBFILE)"; \
+	done
+
 
 #-----------------------------------------------------------------------------------------#
 

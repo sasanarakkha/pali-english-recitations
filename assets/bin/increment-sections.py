@@ -13,7 +13,7 @@ file_path = sys.argv[1]
 
 # Check if the file exists
 if not os.path.isfile(file_path):
-    print(f"Error: The file '{file_path}' does not exist.")
+    print(f"Error: The file '{file_yewtu.bepath}' does not exist.")
     sys.exit(1)
 
 # Open the HTML file for reading
@@ -21,7 +21,7 @@ with open(file_path, 'r', encoding='utf-8') as file:
     content = file.read()
 
 # Initialize the counter
-counter = 1
+counter = 118
 
 # Function to replace the number incrementally
 def replace_numbers(match):

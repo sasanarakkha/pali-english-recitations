@@ -76,7 +76,6 @@
 - [[#thanksgiving-recitations][Thanksgiving Recitations]]
   - [[#covertitle-5][Cover/Title]]
   - [[#just-as-rivers-full-of-water][Just as Rivers Full of Water]]
-  - [[#yathā-vāri-vahā-pūrā][Yathā vāri-vahā pūrā]]
   - [[#verses-starting-with-the-power-of-the-triple-gem][Verses Starting with the Power of the Triple Gem]]
   - [[#rejoicing-in-the-giving-of-food][Rejoicing in the Giving of Food]]
   - [[#short-blessings-of-the-entire-world][Short Blessings of the Entire World]]
@@ -94,7 +93,7 @@
   - [[#the-discourse-on-jewels][The Discourse on Jewels]]
   - [[#the-discourse-on-the-loving-kindness-to-be-done][The Discourse on the Loving-Kindness to be Done]]
   - [[#protection-of-the-aggregates][Protection of the Aggregates]]
-  - [[#qualities-of-the-buddha-dhamma-and-sangha][Qualities of the Buddha, Dhamma, and Sangha]]
+  - [[#qualities-of-the-buddha-dhamma-and-saṅgha][Qualities of the Buddha, Dhamma, and Saṅgha]]
   - [[#whatever-kind-of-jewel-in-the-world][Whatever Kind of Jewel in the World]]
   - [[#protection-of-the-factors-of-awakening][Protection of the Factors of Awakening]]
   - [[#protection-for-safety][Protection for Safety]]
@@ -320,7 +319,7 @@ Accompanying audio recordings can be found at:
     \hyperref[four-great-references]{The Four Great References} \ifdigitalversion\else\pageref{four-great-references}\fi\\
     \hyperref[patimokkha-exhortation]{The Pāṭimokkha Exhortation} \ifdigitalversion\else\pageref{patimokkha-exhortation}\fi\\
     \hyperref[buddhas-final-instruction]{The Buddha's Final Instruction} \ifdigitalversion\else\pageref{buddhas-final-instruction}\fi\\
-    \hyperref[uddissanadhitthana]{Uddissan'ādhiṭṭhāna} \ifdigitalversion\else\pageref{uddissanadhitthana}\fi\\
+    \hyperref[uddissanadhitthana]{Sharing and Aspirations (Pāli)} \ifdigitalversion\else\pageref{uddissanadhitthana}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
@@ -333,7 +332,7 @@ Accompanying audio recordings can be found at:
     \hyperref[characteristic-of-not-self]{The Discourse on the Characteristic of Not-Self} \ifdigitalversion\else\pageref{characteristic-of-not-self}\fi\\
     \hyperref[exposition-on-burning]{The Discourse on the Exposition on Burning} \ifdigitalversion\else\pageref{exposition-on-burning}\fi\\
     \hyperref[gradual-training]{The Gradual Training} \ifdigitalversion\else\pageref{gradual-training}\fi\\
-    \hyperref[sharing-aspirations]{Sharing and Aspirations} \ifdigitalversion\else\pageref{sharing-aspirations}\fi\\
+    \hyperref[sharing-aspirations]{Sharing and Aspirations (English)} \ifdigitalversion\else\pageref{sharing-aspirations}\fi\\
     \hyperref[closing-homage]{Closing Homage (English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
@@ -392,7 +391,7 @@ Accompanying audio recordings can be found at:
     \hyperref[striving-according-to-dhamma]{Striving According to the Dhamma} \ifdigitalversion\else\pageref{striving-according-to-dhamma}\fi\\
     \hyperref[divine-abidings]{The Divine Abidings} \ifdigitalversion\else\pageref{divine-abidings}\fi\\
     \hyperref[ten-reflections]{Ten Subjects for Frequent Reflection\\ \ifafiveversion\vspace{-0.4cm}\fi \ifbfiveversion\vspace{-0.4cm}\fi \ifninebythirteenversion\vspace{-0.2cm}\fi by One Gone Forth} \ifdigitalversion\else\pageref{ten-reflections}\fi\\
-    \hyperref[sharing-aspirations]{Sharing and Aspirations} \ifdigitalversion\else\pageref{sharing-aspirations}\fi\\
+    \hyperref[sharing-aspirations]{Sharing and Aspirations (English)} \ifdigitalversion\else\pageref{sharing-aspirations}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
@@ -402,7 +401,7 @@ Accompanying audio recordings can be found at:
   \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifninebythirteenversion\fontsize{8.7}{17}\fi\ifbfiveversion\fontsize{16}{33.5}\fi\selectfont
     \hyperref[dependent-origination]{Dependent Origination} \ifdigitalversion\else\pageref{dependent-origination}\fi\\
     \hyperref[dhamma-in-brief]{The Dhamma in Brief} \ifdigitalversion\else\pageref{dhamma-in-brief}\fi\\
-    \hyperref[uddissanadhitthana]{Uddissan'ādhiṭṭhāna} \ifdigitalversion\else\pageref{uddissanadhitthana}\fi\\
+    \hyperref[uddissanadhitthana]{Sharing and Aspirations (Pāli)} \ifdigitalversion\else\pageref{uddissanadhitthana}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }
 
@@ -441,8 +440,7 @@ Accompanying audio recordings can be found at:
 \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifninebythirteenversion\fontsize{8.7}{17}\fi\ifbfiveversion\fontsize{16}{33.5}\fi\selectfont
     \hyperref[passage-on-preliminary-paying-of-homage-funeral]{Funeral Recitations (Pāli)} \ifdigitalversion\else\pageref{passage-on-preliminary-paying-of-homage-funeral}\fi\\
     \hyperref[recollection-of-impermanence]{Recollection of Impermanence} \ifdigitalversion\else\pageref{recollection-of-impermanence}\fi\\
-    \hyperref[yatha-vari-vaha-pura]{Thanksgiving Recitations (Pāli)} \ifdigitalversion\else\pageref{yatha-vari-vaha-pura}\fi\\
-    \hyperref[just-as-rivers]{Just as Rivers} \ifdigitalversion\else\pageref{just-as-rivers}\fi\\
+    \hyperref[just-as-rivers]{Thanksgiving Recitations} \ifdigitalversion\else\pageref{just-as-rivers}\fi\\
     \hyperref[sharing-all-merits]{Sharing of All Merits} \ifdigitalversion\else\pageref{sharing-all-merits}\fi\\
     \hyperref[closing-homage]{Closing Homage (Pāli-English)} \ifdigitalversion\else\pageref{closing-homage}\fi\\
   }}
@@ -514,12 +512,27 @@ While it is not uncommon in our current time and age that teachers share the Dha
 
 BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four ways in which a person might be trained to be a reciter of a text:
 
-%% \begin{enumerate}
-%%   \item The teacher and student recite in unison, i.e. beginning together and ending together.
-%%   \item The teacher begins a line, the student joins in, and they end together.
-%%   \item The teacher recites the beginning syllable of a line together with the student, who then completes it alone.
-%%   \item The teacher recites one line, and the student recites the next line alone.
-%% \end{enumerate}
+\ifafiveversion
+
+\begin{enumerate}
+  \item The teacher and student recite in unison, i.e. beginning together and ending together.
+  \item The teacher begins a line, the student joins in, and they end together.
+  \item The teacher recites the beginning syllable of a line together with the student, who then completes it alone.
+  \item The teacher recites one line, and the student recites the next line alone.
+\end{enumerate}
+
+\fi
+
+\ifninebythirteenversion
+
+\begin{enumerate}
+  \item The teacher and student recite in unison, i.e. beginning together and ending together.
+  \item The teacher begins a line, the student joins in, and they end together.
+  \item The teacher recites the beginning syllable of a line together with the student, who then completes it alone.
+  \item The teacher recites one line, and the student recites the next line alone.
+\end{enumerate}
+
+\fi
 
 \ifbfiveversion
 \begin{packedenumerate}
@@ -528,64 +541,80 @@ BMC I mentions that the \textit{Vibhaṅga} to \textit{Pācittiya} 4 lists four 
   \item The teacher recites the beginning syllable of a line together with the student, who then completes it alone.
   \item The teacher recites one line, and the student recites the next line alone.
 \end{packedenumerate}
-\else
 \fi
 
 \ifninebythirteenversion\clearpage\fi
 
-In order for a monk to be free from dependence (\textit{nissaya}) on a teacher, \textit{``he must be learned and intelligent, knowing both Pāṭimokkhas ... and must have been ordained as a bhikkhu for at least five years''. (Mv.I.53.5-13)}
+in order for a monk to be free from dependence (\textit{nissaya}) on a teacher, \textit{``he must be learned and intelligent, knowing both Pāṭimokkhas ... and must have been ordained as a bhikkhu for at least five years''. (Mv.I.53.5-13)}
 
-The Commentary says that a learned bhikkhu must have memorized:
+the Commentary says that a learned bhikkhu must have memorized:
 
-%% \begin{itemize}
-%%   \item Both \textit{Pātimokkhas} (for the \textit{bhikkhus} and \textit{bhikkhunīs}).
-%%   \item The Four \textit{Bhāṇavāras} — a set of auspicious chants that are still regularly memorized in Sri Lanka as the \textit{Mahā-pirit poṭha}.
-%%   \item A discourse that is helpful as a guide for sermon-giving.
-%%   \item Three kinds of \textit{anumodanā} (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.
-%% \end{itemize}
+\ifafiveversion
+
+\begin{itemize}
+  \item Both \textit{Pātimokkhas} (for the \textit{bhikkhus} and \textit{bhikkhunīs}).
+  \item The Four \textit{Bhāṇavāras} — a set of auspicious chants that are still regularly memorized in Sri Lanka as the \textit{Mahā-pirit poṭha}.
+  \item A discourse that is helpful as a guide for sermon-giving.
+  \item Three kinds of \textit{anumodanā} (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.
+\end{itemize}
+
+\fi
+
+\ifninebythirteenversion
+
+\begin{itemize}
+  \item Both \textit{Pātimokkhas} (for the \textit{bhikkhus} and \textit{bhikkhunīs}).
+  \item The Four \textit{Bhāṇavāras} — a set of auspicious chants that are still regularly memorized in Sri Lanka as the \textit{Mahā-pirit poṭha}.
+  \item A discourse that is helpful as a guide for sermon-giving.
+  \item Three kinds of \textit{anumodanā} (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.
+\end{itemize}
+
+\fi
 
 \ifbfiveversion
+
 \begin{packeditemize}
   \item Both \textit{Pātimokkhas} (for the \textit{bhikkhus} and \textit{bhikkhunīs}).
   \item The Four \textit{Bhāṇavāras} — a set of auspicious chants that are still regularly memorized in Sri Lanka as the \textit{Mahā-pirit poṭha}.
   \item A discourse that is helpful as a guide for sermon-giving.
   \item Three kinds of \textit{anumodanā} (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e. any relating to a death.
 \end{packeditemize}
+
 \fi
 
-Lastly, when monastics from other sects wanted to become monks in the Buddha's dispensation, they typically had to undergo a four-month probation period. However, \textit{``a probationer fails in his probation and is not to be accepted ... if he does not have a keen desire for recitation'' (Mv.I.38.5-10)}.
+lastly, when monastics from other sects wanted to become monks in the Buddha's dispensation, they typically had to undergo a four-month probation period. However, \textit{``a probationer fails in his probation and is not to be accepted ... if he does not have a keen desire for recitation'' (Mv.I.38.5-10)}.
 
-Once again, we can see the immense emphasis that was placed on memorization and recitation, starting already during the Buddha's own ministry, and continuing all the way to the 21\textsuperscript{st} century, where we can still find monks who are able to memorize the entirety of the \textit{Tipiṭaka}.
+once again, we can see the immense emphasis that was placed on memorization and recitation, starting already during the Buddha's own ministry, and continuing all the way to the 21\textsuperscript{st} century, where we can still find monks who are able to memorize the entirety of the \textit{Tipiṭaka}.
 
 \subsection*{What to Recite}
 
-While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is to select the texts for recitation and memorization from the vast amount of teachings the Buddha left behind. What is essential? What is of secondary importance? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are \hyperref[wheel-of-dhamma-full]{The Discourse on Setting in Motion the Wheel of Dhamma} (\hyperref[dhammacakkappavattana-full]{\textit{Dhammacakkappavattana Sutta}}), \hyperref[gradual-training]{The Gradual Training}, and \hyperref[dhamma-in-brief]{The Dhamma in Brief}. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly as well as further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
+while recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is to select the texts for recitation and memorization from the vast amount of teachings the Buddha left behind. What is essential? What is of secondary importance? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are \hyperref[wheel-of-dhamma-full]{The Discourse on Setting in Motion the Wheel of Dhamma} (\hyperref[dhammacakkappavattana-full]{\textit{Dhammacakkappavattana Sutta}}), \hyperref[gradual-training]{The Gradual Training}, and \hyperref[dhamma-in-brief]{The Dhamma in Brief}. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly as well as further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
 
-Besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are \hyperref[characteristic-of-not-self]{The Discourse on the Characteristics of Not-Self} (\hyperref[anatta-lakkhana]{\textit{Anatta-lakkhaṇa Sutta}}), \hyperref[exposition-on-burning]{The Discourse on the Exposition on Burning} (\hyperref[aditta-pariyaya]{\textit{Āditta-Pariyāya Sutta}}), the Buddha's \hyperref[buddhas-first-exclamation]{First} and \hyperref[buddhas-final-instruction]{Final} Words, \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing}, and \hyperref[dependent-origination]{Dependent Origination}. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.
+besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are \hyperref[characteristic-of-not-self]{The Discourse on the Characteristics of Not-Self} (\hyperref[anatta-lakkhana]{\textit{Anatta-lakkhaṇa Sutta}}), \hyperref[exposition-on-burning]{The Discourse on the Exposition on Burning} (\hyperref[aditta-pariyaya]{\textit{Āditta-Pariyāya Sutta}}), the Buddha's \hyperref[buddhas-first-exclamation]{First} and \hyperref[buddhas-final-instruction]{Final} Words, \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing}, and \hyperref[dependent-origination]{Dependent Origination}. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.
 
-From these profound teachings we can take a step back to the practical, day-to-day perceptions that the Buddha specifically recommended to be frequently reflected upon. In this category we find \hyperref[five-reflections]{The Five} and \hyperref[ten-reflections]{The Ten Subjects for Frequent Reflection}, also the reflections on \hyperref[four-requisites]{The Four Requisites}, and a separate reflection on \hyperref[repulsiveness-of-food]{The Repulsiveness of Food}. \hyperref[recollection-of-impermanence]{Recollection of Impermanence}, \hyperref[three-characteristics]{The Three Characteristics}, and \hyperref[32-parts]{The Thirty-Two Parts} are also frequently mentioned in the discourses. Perceptions that are closely related to the second path factor of the noble eightfold path, i.e. right thought (\textit{sammā saṇkappa}), are the \textit{Metta Sutta} and \hyperref[divine-abidings]{The Divine Abidings}. Perceptions that arouse the four \textit{Brahmavihāras} can seamlessly lead the practitioner towards the eighth path factor, \textit{sammā samādhi}. \ifninebythirteenversion \mbox{At times}~when \else At times when \fi energy is lacking, however, chants that inspire, motivate, or arouse urgency can be used to heat up and revitalize the practice. This is where Striving According to the Dhamma, The Burdens, Respect for the Dhamma, and the Miscellaneous Verses can come to the rescue.
+from these profound teachings we can take a step back to the practical, day-to-day perceptions that the Buddha specifically recommended to be frequently reflected upon. In this category we find \hyperref[five-reflections]{The Five} and \hyperref[ten-reflections]{The Ten Subjects for Frequent Reflection}, also the reflections on \hyperref[four-requisites]{The Four Requisites}, and a separate reflection on \hyperref[repulsiveness-of-food]{The Repulsiveness of Food}. \hyperref[recollection-of-impermanence]{Recollection of Impermanence}, \hyperref[three-characteristics]{The Three Characteristics}, and \hyperref[32-parts]{The Thirty-Two Parts} are also frequently mentioned in the discourses. Perceptions that are closely related to the second path factor of the noble eightfold path, i.e. right thought (\textit{sammā saṇkappa}), are the \textit{Metta Sutta} and \hyperref[divine-abidings]{The Divine Abidings}. Perceptions that arouse the four \textit{Brahmavihāras} can seamlessly lead the practitioner towards the eighth path factor, \textit{sammā samādhi}. \ifninebythirteenversion \mbox{At times}~when \else At times when \fi energy is lacking, however, chants that inspire, motivate, or arouse urgency can be used to heat up and revitalize the practice. This is where Striving According to the Dhamma, The Burdens, Respect for the Dhamma, and the Miscellaneous Verses can come to the rescue.
 
-Lastly, this recitation book also includes passages that illuminate how to establish good relations among fellow practitioners, such as the \hyperref[principles-of-cordiality]{Principles of Cordiality}, \hyperref[principles-of-non-decline]{Principles of Non-Decline}, and \hyperref[four-great-references]{The Four Great References}. Also included are chants that monks commonly perform as services to the laity, such as Anumodanā, Sharing of Merits, and Funeral Chants.
+lastly, this recitation book also includes passages that illuminate how to establish good relations among fellow practitioners, such as the \hyperref[principles-of-cordiality]{Principles of Cordiality}, \hyperref[principles-of-non-decline]{Principles of Non-Decline}, and \hyperref[four-great-references]{The Four Great References}. Also included are chants that monks commonly perform as services to the laity, such as Anumodanā, Sharing of Merits, and Funeral Chants.
 
-To summarize, memorization of the Dhamma and group recitation fulfill a variety of different purposes and benefits, ranging all the way from the mundane aspects such as the ability to recite in unison and the fostering of communal harmony, all the way to the attainment of final liberation.
+to summarize, memorization of the Dhamma and group recitation fulfill a variety of different purposes and benefits, ranging all the way from the mundane aspects such as the ability to recite in unison and the fostering of communal harmony, all the way to the attainment of final liberation.
 
 \subsection*{When to Recite}
 
-The chants within this book have been arranged thematically in such a way (see the \hyperref[schedule]{Recitation Schedule}), that they can be recited on a rotation basis over a period of 10 days. Each set/day can be recited in approximately 35 to 40 minutes, depending on the fluency and speed of the reciter or chanting leader.
+the chants within this book have been arranged thematically in such a way (see the \hyperref[schedule]{Recitation Schedule}), that they can be recited on a rotation basis over a period of 10 days. Each set/day can be recited in approximately 35 to 40 minutes, depending on the fluency and speed of the reciter or chanting leader.
 
 \subsection*{How to Recite}
 
-See chapter ``\hyperref[phonetics]{Pāli Phonetics and Pronunciation}'' in the Appendix.
+see chapter ``\hyperref[phonetics]{Pāli Phonetics and Pronunciation}'' in the Appendix.
 
 \subsection*{References}
 
-Anālayo, Bhikkhu 2007: \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/oral-dimensions.pdf}{\textit{``Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context''}}, \textit{Canadian Journal of Buddhist Studies}, 3: 5-33.
+anālayo, Bhikkhu 2007: \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/oral-dimensions.pdf}{\textit{``Oral Dimensions of Pāli Discourses: Periscopes, other Mnemonic Techniques and the Oral Performance Context''}}, \textit{Canadian Journal of Buddhist Studies}, 3: 5-33.
 
-Analayo, Bhikkhu 2019: \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/ancientindianeducation.pdf}{\textit{``Ancient Indian Education and Mindfulness''}}, Springer Science+Business Media
+analayo, Bhikkhu 2019: \href{https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/ancientindianeducation.pdf}{\textit{``Ancient Indian Education and Mindfulness''}}, Springer Science+Business Media
 
-Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-000}{\textit{``Cognitive Psychology''}}, Hove: Psychology Press.
+eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-000}{\textit{``Cognitive Psychology''}}, Hove: Psychology Press.
 
-Ṭhānissaro Bhikkhu 2013:  \href{https://www.dhammatalks.org/Archive/Writings/Ebooks/BMC1&2_200826.pdf}{\textit{``The Buddhist Monastic Code II''}}, Valley Center, CA: Metta Forest Monastery.
+ṭhānissaro Bhikkhu 2013:  \href{https://www.dhammatalks.org/Archive/Writings/Ebooks/BMC1&2_200826.pdf}{\textit{``The Buddhist Monastic Code II''}}, Valley Center, CA: Metta Forest Monastery.
 
 \ifdigitalversion
 
@@ -3851,7 +3880,8 @@ Taṁ kho pan'idaṁ dukkha-samudayo ariya-saccaṁ pahātabban'ti
 \end{pali-hang}
 
 \begin{english}
-  This origin of dukkha\\
+  This origin of dukkha\makeatletter\hyperlink{endnote167-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote167-appendix}{\hyperlink{endnote167-body}{While the Pāli includes the term \textit{ariya-saccaṁ} (``noble truth''), this clause has been omitted from the English translations of the second to fourth noble truths for the sake of brevity. As a positive side effect, this omission may inadvertently help prevent misunderstandings---specifically, the mistaken idea that one is to abandon the noble truth itself, rather than the cause of \textit{dukkha}. Clearly, it is the cause of \textit{dukkha}---namely, craving---that is to be abandoned, not the noble truth of \textit{dukkha} itself. This point becomes even clearer when considering the fourth noble truth, which is to be developed. This obviously refers to the factors of the Noble Eightfold Path, not to the truth as a doctrinal concept.}}}}}\makeatother\\
   Should be abandoned
 \end{english}
 
@@ -5223,7 +5253,7 @@ Ayam'eva ariyo aṭṭh'aṅgiko maggo
   This is the Noble Eightfold Path
 \end{english}
 
-\suttaRef{[SN 45.8]}
+\suttaRef{[DN 22]}
 
 % \enlargethispage{\baselineskip\vspace{-0.5em}}
 \ifdigitalversion\bottomNav{repulsiveness-of-food}\fi
@@ -8158,7 +8188,7 @@ Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
   \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 
-Dasa ime bhikkhave dhammā\\
+Dasayime bhikkhave dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā\\
 Katame dasa
 
@@ -8716,9 +8746,9 @@ Tesaṁ vūpasamo sukho
   Their stilling is true happiness
 \end{english}
 
-\suttaRef{[Trad]}
+\suttaRef{[DN 16]}
 
-\ifdigitalversion\bottomNav{yatha-vari-vaha-pura}\fi
+\ifdigitalversion\bottomNav{just-as-rivers}\fi
 
 \ifbfiveversion
   \cleardoublepage
@@ -8923,7 +8953,7 @@ Tesaṁ vūpasamo sukho
   Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne  āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
 \end{pali-hang}
 
-``Yaṁ kiñci samudaya-dhammaṁ sabbaṁ taṁ nirodha-dhamman''ti
+``Yaṁ kiñci samudaya-dhammaṁ sabbantaṁ nirodha-dhamman''ti
 
 \begin{pali-hang}
   Pavattite ca bhagavatā dhamma-cakke bhummā devā saddam'anussāvesuṁ:
@@ -9672,129 +9702,6 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 #+end_src
 
-#+RESULTS:
-#+begin_example
-\section{Āditta-pariyāya-sutta}
-\label{aditta-pariyaya}
-
-\begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\
-\end{leader}
-
-\begin{pali-hang}
-  Ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhu-sahassena \breathmark\ Tatra kho bhagavā bhikkhū āmantesi:
-\end{pali-hang}
-
-Sabbaṁ bhikkhave ādittaṁ!
-
-Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
-
-\begin{pali-hang}
-  Cakkhuṁ bhikkhave ādittaṁ \breathmark\ rūpā ādittā \breathmark\ cakkhu-viññāṇaṁ ādittaṁ \breathmark\ cakkhu-samphasso āditto \breathmark\ yam'p'idaṁ cakkhu-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
-\end{pali-hang}
-\begin{pali-hang-together}
-  Kena ādittaṁ?
-\end{pali-hang-together}
-\begin{pali-hang-together}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
-\end{pali-hang-together}
-
-\begin{pali-hang}
-  Sotaṁ ādittaṁ \breathmark\ saddā ādittā \breathmark\ sota-viññāṇaṁ ādittaṁ \breathmark\ sota-samphasso āditto \breathmark\ yam'p'idaṁ sota-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
-\end{pali-hang}
-\ifninebythirteenversion\clearpage\fi
-\begin{pali-hang-together}
-  Kena ādittaṁ?
-\end{pali-hang-together}
-\begin{pali-hang-together}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
-\end{pali-hang-together}
-
-\begin{pali-hang}
-  Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghāna-viññāṇaṁ ādittaṁ \breathmark\ ghāna-samphasso āditto \breathmark\ yam'p'idaṁ ghāna-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
-\end{pali-hang}
-\begin{pali-hang-together}
-  Kena ādittaṁ?
-\end{pali-hang-together}
-\begin{pali-hang-together}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
-\end{pali-hang-together}
-
-\begin{pali-hang}
-  Jivhā ādittā \breathmark\ rasā ādittā \breathmark\ jivhā-viññāṇaṁ ādittaṁ \breathmark\ jivhā-samphasso āditto \breathmark\ yam'p'idaṁ jivhā-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
-\end{pali-hang}
-\begin{pali-hang-together}
-  Kena ādittaṁ?
-\end{pali-hang-together}
-\begin{pali-hang-together}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
-\end{pali-hang-together}
-
-\begin{pali-hang}
-  Kāyo āditto \breathmark\ phoṭṭhabbā ādittā \breathmark\ kāya-viññāṇaṁ \mbox{ādittaṁ}~\breathmark\ kāya-samphasso āditto \breathmark\ yam'p'idaṁ kāya-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
-\end{pali-hang}
-\begin{pali-hang-together}
-  Kena ādittaṁ?
-\end{pali-hang-together}
-\begin{pali-hang-together}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
-\end{pali-hang-together}
-
-\begin{pali-hang}
-  Mano āditto \breathmark\ dhammā ādittā \breathmark\ mano-viññāṇaṁ ādittaṁ \breathmark\ mano-samphasso āditto \breathmark\ yam'p'idaṁ mano-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
-\end{pali-hang}
-\begin{pali-hang-together}
-  Kena ādittaṁ?
-\end{pali-hang-together}
-\ifbfiveversion\clearpage\fi
-\begin{pali-hang-together}
-  Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
-\end{pali-hang-together}
-
-\begin{leader-pali}
-  \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
-\end{leader-pali}
-\begin{pali-hang-together}
-  Sutavā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati~\breathmark\ cakkhu-viññāṇe'pi nibbindati \breathmark\ cakkhu-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ cakkhu-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
-\end{pali-hang-together}
-
-\begin{pali-hang}
-  Sotasmim'pi nibbindati \breathmark\ saddesu'pi nibbindati \breathmark\ sota-viññāṇe'pi nibbindati \breathmark\ sota-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ sota-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
-\end{pali-hang}
-
-\begin{pali-hang}
-  Ghānasmim'pi nibbindati \breathmark\ gandhesu'pi nibbindati \breathmark\ ghāna-viññāṇe'pi nibbindati \breathmark\ ghāna-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ ghāna-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
-\end{pali-hang}
-
-\begin{pali-hang}
-  Jivhāya'pi nibbindati \breathmark\ rasesu'pi nibbindati \breathmark\ jivhā-viññāṇe'pi nibbindati \breathmark\ jivhā-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ jivhā-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
-\end{pali-hang}
-
-\begin{pali-hang}
-  Kāyasmim'pi nibbindati \breathmark\ phoṭṭhabbesu'pi nibbindati \breathmark\ kāya-viññāṇe'pi nibbindati \breathmark\ kāya-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ kāya-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
-\end{pali-hang}
-
-\begin{pali-hang}
-  Manasmim'pi nibbindati \breathmark\ dhammesu'pi nibbindati \breathmark\ mano-viññāṇe'pi nibbindati \breathmark\ mano-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ mano-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
-\end{pali-hang}
-
-\begin{pali-hang}
-  Nibbindaṁ virajjati \breathmark\ virāgā vimuccati \breathmark\ vimuttasmiṁ `vimuttam'iti ñāṇaṁ hoti:
-\end{pali-hang}
-
-\begin{pali-hang}
-  `Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā'ti pajānātī'ti
-\end{pali-hang}
-
-\begin{pali-hang}
-  Idam'avoca bhagavā \breathmark\ Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ \breathmark\ Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ tassa bhikkhu-sahassassa anupādāya āsavehi cittāni vimucciṁsū'ti
-\end{pali-hang}
-
-\suttaRef{[SN 35.28]}
-
-\ifdigitalversion\bottomNav{burdens}\fi
-#+end_example
-
 ** The Discourse on the Exposition on Burning
 
 #+begin_src latex :tangle ./tex/recitations/cardinal-suttas/adittapariyaya-eng.tex
@@ -9986,6 +9893,48 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 \section{Just as Rivers Full of Water}
 \label{just-as-rivers}
 
+% \setsecheadstyle{\subsectionFmt}
+
+\linkdest{endnote119-body}
+\anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā paripūrenti sāgaraṁ \breathmark\ evam'eva ito dinnaṁ petānaṁ upakappati \breathmark\ icchitaṁ patthitaṁ tumhaṁ khippam'eva samijjhatu sabbe pūrentu \mbox{saṅkappā}~\breathmark\ cando paṇṇa-raso yathā maṇi joti-raso yathā\makeatletter\hyperlink{endnote119-appendix}\Hy@raisedlink{{\pagenote{%
+      \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the \textit{Saṅghatthera}.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
+
+\suttaRef{[Kp 7 / Dhp A]}
+
+\linkdest{endnote120-body}
+\begin{pali-hang}
+  \anglebracketleft\ \hspace{-0.5mm}Sabb'ītiyo vivajjantu\makeatletter\hyperlink{endnote120-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote120-appendix}{\hyperlink{endnote120-body}{This line is recited only by the secondmost senior monk. Afterwards, the remainder of the \textit{Saṅgha} joins in.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\ \\
+\end{pali-hang}
+\begin{pali-hang-together}
+  Sabba-rogo vinassatu
+\end{pali-hang-together}
+\begin{pali-hang-together}
+  Mā te bhavatv'antarāyo\\
+  Sukhī dīgh'āyuko bhava
+\end{pali-hang-together}
+
+\suttaRef{[MJG]}
+
+\begin{pali-hang}
+  Abhivādana-sīlissa\\
+  Niccaṁ vuḍḍh'āpacāyino
+\end{pali-hang}
+\begin{pali-hang-together}
+  Cattāro dhammā vaḍḍhanti
+\end{pali-hang-together}
+\linkdest{endnote121-body}
+\linkdest{endnote145-body}
+\begin{pali-hang-together}
+  Āyu vaṇṇo sukhaṁ balaṁ\makeatletter\hyperlink{endnote121-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote121-appendix}{\hyperlink{endnote121-body}{In the Thai tradition, a long pause is made after ``\textit{sukhaṁ}'', and ``\textit{balaṁ}'' is recited in a slow and drawn-out manner.}}}}}\makeatother\makeatletter\hyperlink{endnote145-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote145-appendix}{\hyperlink{endnote145-body}{For translations of the above see the the previous chant, titled ``Just as Rivers''.}}}}}\makeatother
+\end{pali-hang-together}
+
+\suttaRef{[Dhp 109]}
+
+\clearpage
+
 \begin{leader}
   \anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā \hspace{-0.5mm}\anglebracketright\
 \end{leader}
@@ -10016,6 +9965,7 @@ Petānaṁ upakappati
         \hypertarget{endnote115-appendix}{\hyperlink{endnote115-body}{WPN: ``Bring blessings to departed spirits''}}}}}\makeatother\fi
 \end{english}
 
+\suttaRef{[Kp 7]}
 
 Icchitaṁ patthitaṁ tumhaṁ
 
@@ -10051,7 +10001,7 @@ Maṇi joti-raso yathā\makeatletter\hyperlink{endnote116-appendix}\Hy@raisedlin
   Or like a bright and shining gem\\
 \end{english}
 
-\suttaRef{[Kp 7]}
+\suttaRef{[Dhp A]}
 
 \linkdest{endnote117-body}
 Sabb'ītiyo vivajjantu\makeatletter\hyperlink{endnote117-appendix}\Hy@raisedlink{{\pagenote{%
@@ -10067,6 +10017,14 @@ Sabba-rogo vinassatu
   May all illness be dispelled
 \end{english}
 
+\ifafiveversion
+  \clearpage
+\fi
+
+\ifbfiveversion
+  \clearpage
+\fi
+
 Mā te bhavatv'antarāyo
 
 \begin{english}
@@ -10079,7 +10037,7 @@ Sukhī dīgh'āyuko bhava
   May you be happy and live long
 \end{english}
 
-\suttaRef{[Dhp A]}
+\suttaRef{[MJG]}
 
 Abhivādana-sīlissa
 
@@ -10139,6 +10097,10 @@ Bhavatu sabba-maṅgalaṁ
   May every blessing come to be
 \end{english}
 
+\ifafiveversion
+  \clearpage
+\fi
+
 Rakkhantu sabba-devatā
 
 \begin{english}
@@ -10172,7 +10134,7 @@ Rakkhantu sabba-devatā
 Sabba-saṅgh'ānubhāvena
 
 \begin{english}
-  With all the power of the Sangha
+  With all the power of the Saṅgha
 \end{english}
 
 Sadā sotthī bhavantu te
@@ -10181,61 +10143,7 @@ Sadā sotthī bhavantu te
   May you always be at ease
 \end{english}
 
-\suttaRef{[Trad]}
-
-\ifdigitalversion\bottomNav{sharing-all-merits}\fi
-
-\clearpage
-
-#+end_src
-
-** Yathā vāri-vahā pūrā
-
-#+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
-
-% \setsecheadstyle{\subsectionFmt}
-
-\sectionSubTitle{Just as Rivers Full of Water}
-\section{Yathā vāri-vahā pūrā}
-\label{yatha-vari-vaha-pura}
-
-\linkdest{endnote119-body}
-\anglebracketleft\ \hspace{-0.5mm}Yathā vāri-vahā pūrā paripūrenti sāgaraṁ \breathmark\ evam'eva ito dinnaṁ petānaṁ upakappati \breathmark\ icchitaṁ patthitaṁ tumhaṁ khippam'eva samijjhatu sabbe pūrentu \mbox{saṅkappā}~\breathmark\ cando paṇṇa-raso yathā maṇi joti-raso yathā\makeatletter\hyperlink{endnote119-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote119-appendix}{\hyperlink{endnote119-body}{When chanted for laypeople, the first part of this chant, until here, is recited only by the \textit{Saṅghatthera}.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\
-
-\suttaRef{[Kp 7]}
-
-\linkdest{endnote120-body}
-\begin{pali-hang}
-  \anglebracketleft\ \hspace{-0.5mm}Sabb'ītiyo vivajjantu\makeatletter\hyperlink{endnote120-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote120-appendix}{\hyperlink{endnote120-body}{This line is recited only by the secondmost senior monk. Afterwards, the remainder of the \textit{Saṅgha} joins in.}}}}}\makeatother \thinspace\hspace{-0.5mm}\anglebracketright\ \\
-\end{pali-hang}
-\begin{pali-hang-together}
-  Sabba-rogo vinassatu
-\end{pali-hang-together}
-\begin{pali-hang-together}
-  Mā te bhavatv'antarāyo\\
-  Sukhī dīgh'āyuko bhava
-\end{pali-hang-together}
-
-\suttaRef{[Dhp A]}
-
-\begin{pali-hang}
-  Abhivādana-sīlissa\\
-  Niccaṁ vuḍḍh'āpacāyino
-\end{pali-hang}
-\begin{pali-hang-together}
-  Cattāro dhammā vaḍḍhanti
-\end{pali-hang-together}
-\linkdest{endnote121-body}
-\linkdest{endnote145-body}
-\begin{pali-hang-together}
-  Āyu vaṇṇo sukhaṁ balaṁ\makeatletter\hyperlink{endnote121-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote121-appendix}{\hyperlink{endnote121-body}{In the Thai tradition, a long pause is made after ``\textit{sukhaṁ}'', and ``\textit{balaṁ}'' is recited in a slow and drawn-out manner.}}}}}\makeatother\makeatletter\hyperlink{endnote145-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote145-appendix}{\hyperlink{endnote145-body}{For translations of the above see the the previous chant, titled ``Just as Rivers''.}}}}}\makeatother
-\end{pali-hang-together}
-
-\suttaRef{[Dhp 109]}
+\suttaRef{[MJG]}
 
 \clearpage
 
@@ -10402,7 +10310,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-together}
 
 \begin{english-verses}
-  May suffering, disease, fear, animosity, sorrow, adversity, misfortune, and obstacles without number, vanish through this power. Triumph, success, wealth, \& gain, safety, luck, happiness, strength, glory, long life, \& beauty, fortune, increase, \& status, a lifespan of 100 years, and success in your livelihood: May they be yours. With all the power of the Buddha, with all the power of the Dhamma, with all the power of the Sangha, the gem of the Buddha, the gem of the Dhamma, the gem of the Saṅgha, the power of the Triple Gem: the power of the 84,000 Dhamma aggregates, the power of the Tripitaka, the power of the Victor's disciples: May all your diseases, all your fears, all your obstacles, all your dangers, all your bad visions, all your bad omens be destroyed. May there always be an increase of long life, wealth, glory, status, strength, beauty and happiness.
+  With all the power of the Buddha, all the power of the Dhamma, all the power of the Saṅgha. The gem of the Buddha, Dhamma, Saṅgha. The power of the Triple Gem. The power of the 84,000 Dhamma aggregates, the power of the Tipitaka, the power of the Victor’s disciples: May all your diseases, all your fears, all your obstacles all your dangers, all your bad visions, all your bad omens be destroyed. May there always be an increase of life, wealth, glory, status, strength, beauty and happiness. May suffering, disease, fear, animosity, sorrow, adversity, misfortune, and various obstacles vanish through this power. Triumph, success, wealth, gain, safety, luck, happiness, strength, glory, long life, beauty, fortune, growth, status, lifespan of 100. Success in your livelihood: May they be yours!
 \end{english-verses}
 
 \suttaRef{[MJG]}
@@ -10535,6 +10443,8 @@ Sadā sotthī bhavantu te
   Charitable, and generous folk\\
   Give a timely gift to the noble ones,\\
   Who are stable and upright;
+  Given with a clear mind,\\
+  One's offering is vast.\\
 \end{english-verses}
 
 \begin{pali-hang}
@@ -10554,8 +10464,6 @@ Sadā sotthī bhavantu te
 %% \end{english-verses}
 
 \begin{english-verses}
-  Given with a clear mind,\\
-  One's offering is vast.\\
   Those who rejoice in such deeds\\
   Or who provide other service\\
   \ifninebythirteenversion\clearpage\fi
@@ -10943,7 +10851,7 @@ Sadā sotthī bhavantu te
   And homage to the Great Saṅgha,\\
   Pure in virtue \& view.\\
   Homage to the Triple Gem\\
-  Beginning auspiciously with AUM;
+  Propelling one to success;
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -11283,7 +11191,7 @@ Sadā sotthī bhavantu te
   Constitute these four pairs.\\
   These, worthy of offerings, are the Fortunate One's disciples;\\
   Gifts given to them yield abundant fruit.\\
-  This too is the sublime gem in the Sangha:\\
+  This too is the sublime gem in the Saṅgha:\\
   By this truth, may there be safety!
 \end{english-verses}
 
@@ -11301,7 +11209,7 @@ Sadā sotthī bhavantu te
   Who are desireless in Gotama's teaching,\\
   Have reached attainment, having plunged into the deathless,\\
   Enjoying perfect peace obtained free of charge.\\
-  This too is the sublime gem in the Sangha:\\
+  This too is the sublime gem in the Saṅgha:\\
   By this truth, may there be safety!
 \end{english-verses}
 
@@ -11322,7 +11230,7 @@ Sadā sotthī bhavantu te
   Would be unshakable by the four winds,\\
   Similarly I speak of the good person\\
   Who, having experienced them, sees the noble truths.\\
-  This too is the sublime gem in the Sangha:\\
+  This too is the sublime gem in the Saṅgha:\\
   By this truth, may there be safety!
 \end{english-verses}
 
@@ -11341,7 +11249,7 @@ Sadā sotthī bhavantu te
   Well taught by the one of deep wisdom,\\
   Even if they are extremely heedless,\\
   Do not take an eighth existence.\\
-  This too is the sublime gem in the Sangha:\\
+  This too is the sublime gem in the Saṅgha:\\
   By this truth, may there be safety!
 \end{english-verses}
 
@@ -11365,7 +11273,7 @@ Sadā sotthī bhavantu te
   One is also freed from the four planes of misery\\
   And is incapable of doing six deeds.\\
   \ifninebythirteenversion\clearpage\fi
-  This too is the sublime gem in the Sangha:\\
+  This too is the sublime gem in the Saṅgha:\\
   By this truth, may there be safety!
 \end{english-verses}
 
@@ -11383,7 +11291,7 @@ Sadā sotthī bhavantu te
   By body, speech, or mind,\\
   One is incapable of concealing it;\\
   Such inability is stated for one who has seen the state.\\
-  This too is the sublime gem in the Sangha:\\
+  This too is the sublime gem in the Saṅgha:\\
   By this truth, may there be safety!
 \end{english-verses}
 
@@ -11435,7 +11343,7 @@ Sadā sotthī bhavantu te
   With seeds destroyed, with no desire for growth,\\
   Those wise ones are extinguished like this lamp.\\
   \ifninebythirteenversion\clearpage\fi
-  This too is the sublime gem in the Sangha:\\
+  This too is the sublime gem in the Saṅgha:\\
   By this truth, may there be safety!
 \end{english-verses}
 
@@ -11449,7 +11357,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   Whatever beings are gathered here,\\
   Whether of the earth or in the sky,\\
-  We pay homage to the thus-gone Buddha,\\
+  to the Tathāgata worshipped by Devas and humans, to the Buddha let us pay homage.\\
   Venerated by devas and humans: may there be safety!
 \end{english-verses}
 
@@ -11463,7 +11371,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   Whatever beings are gathered here,\\
   Whether of the earth or in the sky,\\
-  We pay homage to the thus-gone Dhamma,\\
+  to the Tathāgata worshipped by Devas and humans, to the Dhamma let us pay homage.\\
   Venerated by devas and humans: may there be safety!
 \end{english-verses}
 
@@ -11477,7 +11385,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   Whatever beings are gathered here,\\
   Whether of the earth or in the sky,\\
-  We pay homage to the thus-gone Sangha,\\
+  to the Tathāgata worshipped by Devas and humans, to the Saṅgha let us pay homage.\\
   Venerated by devas and humans: may there be safety!
 \end{english-verses}
 
@@ -11748,12 +11656,12 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Qualities of the Buddha, Dhamma, and Sangha
+** Qualities of the Buddha, Dhamma, and Saṅgha
 
 #+begin_src latex :tangle ./tex/recitations/protective-recitations.tex
 
 \sectionSubTitle{Buddha-dhamma-saṅgha-guṇā}
-\section{Qualities of the Buddha, \mbox{Dhamma,}~and~Sangha}
+\section{Qualities of the Buddha, \mbox{Dhamma,}~and~Saṅgha}
 \label{qualities-of-buddha-dhamma-sangha}
 
 \begin{pali-hang}
@@ -12526,11 +12434,11 @@ Sadā sotthī bhavantu te
   And all good spirits guard you well.\\
   \ifbfiveversion\clearpage\fi
   \ifafiveversion\clearpage\fi
-  With all the power of the Sangha,\\
+  With all the power of the Saṅgha,\\
   May you always be at ease.
 \end{english-verses}
 
-\suttaRef{[Trad]}
+\suttaRef{[MJG]}
 
 \ifdigitalversion\bottomNav{sharing-merits-departed}\fi
 
@@ -12912,7 +12820,7 @@ Sadā sotthī bhavantu te
   \end{english-hang-together-verses}
 \end{english-verses}
 
-\suttaRef{[MN 109]}
+\suttaRef{[DN 33]}
 
 \begin{pali-hang-continued}
   Dvā-das'āyatanāni:
@@ -13303,7 +13211,7 @@ Sadā sotthī bhavantu te
   May you always be at ease.
 \end{english-verses}
 
-\suttaRef{[Trad]}
+\suttaRef{[MJG]}
 
 \ifdigitalversion\bottomNav{recollection-of-impermanence}\fi
 

@@ -8,7 +8,7 @@
     <dc:language>en</dc:language>
     <dc:identifier>urn:isbn:[ISBN here]</dc:identifier>
     <dc:format>application/epub+zip</dc:format>
-    <meta property="dcterms:modified">2024-10-30T07:05:04Z</meta>
+    <meta property="dcterms:modified">2025-04-23T21:32:12Z</meta>
     <dc:identifier id="BookId">urn:uuid:aab09be7-cf83-41a5-b56b-a39ed9620398</dc:identifier>
     <meta content="2.0.1" name="Sigil version"/>
   </metadata>
@@ -28,7 +28,6 @@
     <item id="homage-dhamma.xhtml" href="Text/homage-dhamma.xhtml" media-type="application/xhtml+xml"/>
     <item id="homage-sangha.xhtml" href="Text/homage-sangha.xhtml" media-type="application/xhtml+xml"/>
     <item id="salutation.xhtml" href="Text/salutation.xhtml" media-type="application/xhtml+xml"/>
-    <item id="just-as-rivers.xhtml" href="Text/just-as-rivers.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover-thanksgiving-recitations.xhtml" href="Text/cover-thanksgiving-recitations.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="exposition-on-burning.xhtml" href="Text/exposition-on-burning.xhtml" media-type="application/xhtml+xml"/>
     <item id="aditta-pariyaya.xhtml" href="Text/aditta-pariyaya.xhtml" media-type="application/xhtml+xml"/>
@@ -188,7 +187,6 @@
     <itemref idref="aditta-pariyaya.xhtml"/>
     <itemref idref="exposition-on-burning.xhtml"/>
     <itemref idref="cover-thanksgiving-recitations.xhtml"/>
-    <itemref idref="just-as-rivers.xhtml"/>
     <itemref idref="thanksgiving-recitations.xhtml"/>
     <itemref idref="cover-protective-recitations.xhtml"/>
     <itemref idref="protective-recitations.xhtml"/>
