@@ -79,8 +79,8 @@
   - [[#verses-starting-with-the-power-of-the-triple-gem][Verses Starting with the Power of the Triple Gem]]
   - [[#rejoicing-in-the-giving-of-food][Rejoicing in the Giving of Food]]
   - [[#short-blessings-of-the-entire-world][Short Blessings of the Entire World]]
-  - [[#aggappasāda-sutta-gāthā][Aggappasāda-sutta-gāthā]]
-  - [[#kāla-dāna-sutta-gāthā][Kāla-dāna-sutta-gāthā]]
+  - [[#verses-from-the-discourse-on-confidence-in-the-supreme][Verses from the Discourse on Confidence in the Supreme]]
+  - [[#verses-from-the-discourse-on-giving-at-the-proper-time][Verses from the Discourse on Giving at the Proper Time]]
   - [[#so-attha-laddho][So attha-laddho]]
 - [[#protective-recitations][Protective Recitations]]
   - [[#covertitle-6][Cover/Title]]
@@ -10319,7 +10319,7 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Aggappasāda-sutta-gāthā
+** Verses from the Discourse on Confidence in the Supreme
 
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
@@ -10399,7 +10399,7 @@ Sadā sotthī bhavantu te
 
 #+end_src
 
-** Kāla-dāna-sutta-gāthā
+** Verses from the Discourse on Giving at the Proper Time
 
 #+begin_src latex :tangle ./tex/recitations/thanksgiving-recitations.tex
 
