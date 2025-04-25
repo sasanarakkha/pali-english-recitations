@@ -10342,7 +10342,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   For those confident in regard to the foremost,\\
   Knowing the foremost Dhamma,\\
-  Confident in the Buddha—the foremost\\
+  Confident in the Buddha—the foremost—\\
   Unsurpassed, worthy of offerings;
 \end{english-verses}
 
@@ -10376,6 +10376,7 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   For those giving gifts to the foremost,\\
   The foremost kind of merit increases:\\
+\ifafiveversion\clearpage\fi
   The foremost life span, beauty, and glory,\\
   Good reputation, happiness, and strength.
 \end{english-verses}
