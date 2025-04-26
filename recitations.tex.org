@@ -41,7 +41,7 @@
   - [[#the-discourse-on-loving-kindness][The Discourse on Loving-Kindness]]
 - [[#teachings][Teachings]]
   - [[#covertitle-2][Cover/Title]]
-  - [[#setting-in-motion-the-wheel-of-dhamma][Setting in Motion the Wheel of Dhamma]]
+  - [[#turning-the-wheel-of-dhamma][Turning the Wheel of Dhamma]]
   - [[#anupubba-sikkhā][Anupubba-sikkhā]]
   - [[#the-gradual-training][The Gradual Training]]
   - [[#requisites-for-awakening][Requisites for Awakening]]
@@ -314,7 +314,7 @@ Accompanying audio recordings can be found at:
   {\pdfbookmark[2]{Set 1}{set1}\libertinusFont\selectfont\textbf{\textsc{\ifafiveversion\fontsize{18}{12}\fi\ifninebythirteenversion\fontsize{13}{8.5}\fi\ifbfiveversion\fontsize{22}{18}\fi\selectfont\textls*{Set 1}}}}\\
   \textsc{\ifafiveversion\fontsize{14.4}{28}\fi\ifninebythirteenversion\fontsize{8.7}{17}\fi\ifbfiveversion\fontsize{16}{33.5}\fi\selectfont
     \hyperref[buddhas-first-exclamation]{The Buddha's First Exclamation} \ifdigitalversion\else\pageref{buddhas-first-exclamation}\fi\\
-    \hyperref[wheel-of-dhamma-abridged]{Setting in Motion the Wheel of Dhamma} \ifdigitalversion\else\pageref{wheel-of-dhamma-abridged}\fi\\
+    \hyperref[wheel-of-dhamma-abridged]{Turning the Wheel of Dhamma} \ifdigitalversion\else\pageref{wheel-of-dhamma-abridged}\fi\\
     \hyperref[true-false-refuges]{Going to True and False Refuges} \ifdigitalversion\else\pageref{true-false-refuges}\fi\\
     \hyperref[four-great-references]{The Four Great References} \ifdigitalversion\else\pageref{four-great-references}\fi\\
     \hyperref[patimokkha-exhortation]{The Pāṭimokkha Exhortation} \ifdigitalversion\else\pageref{patimokkha-exhortation}\fi\\
@@ -588,7 +588,7 @@ Once again, we can see the immense emphasis that was placed on memorization and 
 
 \subsection*{What to Recite}
 
-While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is to select the texts for recitation and memorization from the vast amount of teachings the Buddha left behind. What is essential? What is of secondary importance? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are \hyperref[wheel-of-dhamma-full]{The Discourse on Setting in Motion the Wheel of Dhamma} (\hyperref[dhammacakkappavattana-full]{\textit{Dhammacakkappavattana Sutta}}), \hyperref[gradual-training]{The Gradual Training}, and \hyperref[dhamma-in-brief]{The Dhamma in Brief}. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly as well as further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
+While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is to select the texts for recitation and memorization from the vast amount of teachings the Buddha left behind. What is essential? What is of secondary importance? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are \hyperref[wheel-of-dhamma-full]{The Discourse on Turning the Wheel of Dhamma} (\hyperref[dhammacakkappavattana-full]{\textit{Dhammacakkappavattana Sutta}}), \hyperref[gradual-training]{The Gradual Training}, and \hyperref[dhamma-in-brief]{The Dhamma in Brief}. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly as well as further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
 
 Besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are \hyperref[characteristic-of-not-self]{The Discourse on the Characteristics of Not-Self} (\hyperref[anatta-lakkhana]{\textit{Anatta-lakkhaṇa Sutta}}), \hyperref[exposition-on-burning]{The Discourse on the Exposition on Burning} (\hyperref[aditta-pariyaya]{\textit{Āditta-Pariyāya Sutta}}), the Buddha's \hyperref[buddhas-first-exclamation]{First} and \hyperref[buddhas-final-instruction]{Final} Words, \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing}, and \hyperref[dependent-origination]{Dependent Origination}. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.
 
@@ -3215,6 +3215,10 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
+\ifninebythirteenversion
+  \clearpage
+\fi
+
 \linkdest{endnote151-body}
 \begin{english-only}
   Patience and willingness to accept one's faults\\
@@ -3358,12 +3362,12 @@ Etaṁ buddhāna'sāsanaṁ
 
 #+end_src
 
-** Setting in Motion the Wheel of Dhamma
+** Turning the Wheel of Dhamma
 
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
 \sectionSubTitle{Dhamma-cakkappavattana}
-\section{Setting in Motion the Wheel of Dhamma}
+\section{Turning the Wheel of Dhamma}
 \label{wheel-of-dhamma-abridged}
 
 \begin{leader}
@@ -4537,9 +4541,9 @@ Taṁ kissa hetu
 
 Tathā-rūpānaṁ bhikkhave bhikkhūnaṁ dhammaṁ sutvā
 
-\begin{english}
+\begin{english-hang}
   Because when one has heard the Dhamma from such bhikkhus
-\end{english}
+\end{english-hang}
 
 Dvayena vūpakāsena vūpakaṭṭho viharati
 
@@ -5368,9 +5372,9 @@ Nisīdati pallaṅkaṁ ābhujitvā
   Sits down \breathmark\ having crossed his legs
 \end{english}
 
-Ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā
-
 \ifninebythirteenversion\clearpage\fi
+
+Ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā
 
 \begin{english}
   Sets his body erect\\
@@ -6383,9 +6387,9 @@ Yam'ahaṁ bhagavato dhammaṁ sutvā
 
 Ekā vūpakaṭṭhā appamattā ātāpinī pahitattā vihareyyan'ti
 
-\begin{english}
+\begin{english-hang}
   I might dwell alone \breathmark\ withdrawn \breathmark\ heedful \breathmark\ ardent and resolute
-\end{english}
+\end{english-hang}
 
 Ye kho tvaṁ gotamī dhamme jāneyyāsi:
 
@@ -7228,9 +7232,9 @@ Yāvakīvañ'ca bhikkhave bhikkhū
 
 Anicca-saññaṁ bhāvessanti anatta-saññaṁ bhāvessanti
 
-\begin{english}
+\begin{english-hang}
   Develop the perception of impermanence \breathmark\ the perception of not-self
-\end{english}
+\end{english-hang}
 
 Asubha-saññaṁ bhāvessanti ādīnava-saññaṁ bhāvessanti
 
@@ -7482,9 +7486,9 @@ Na bhikkhave hīnena aggassa patti hoti
 
 Aggena ca kho bhikkhave aggassa patti hoti
 
-\begin{english}
+\begin{english-hang}
   But bhikkhus it is by the supreme that the supreme is attained
-\end{english}
+\end{english-hang}
 
 \ifbfiveversion\clearpage\fi
 
@@ -8354,8 +8358,10 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 \linkdest{endnote166-body}
 \begin{english-verses}
+  \begin{english-hang-first-line}
   ``Have I attained any superhuman state in knowledge and vision \breathmark\ worthy of the noble ones\ifdigitalversion\makeatletter\hyperlink{endnote166-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote166-appendix}{\hyperlink{endnote166-body}{WPN: ``Has my practice borne fruit with freedom or insight''}}}}}\makeatother\fi \\
+  \end{english-hang-first-line}
   \begin{english-hang-together-verses}
     So that at the end of my life \breathmark\ I need not feel ashamed when questioned by my spiritual companions?''
   \end{english-hang-together-verses}
@@ -8367,9 +8373,13 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 Ime kho bhikkhave dasa dhammā\\
 Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
+\ifninebythirteenversion\vspace{-0.2em}\fi
+
 \begin{english-hang-verses}
   Bhikkhus these are the ten dhammas \breathmark\ which should be reflected upon again and again by one who has gone forth
 \end{english-hang-verses}
+
+\ifninebythirteenversion\vspace{-0.35em}\fi
 
 \suttaRef{[AN 10.48]}
 
@@ -10007,8 +10017,7 @@ Maṇi joti-raso yathā\makeatletter\hyperlink{endnote116-appendix}\Hy@raisedlin
 \suttaRef{[Dhp A]}
 
 \linkdest{endnote117-body}
-Sabb'ītiyo vivajjantu\makeatletter\hyperlink{endnote117-appendix}\Hy@raisedlink{{\pagenote{%
-      \hypertarget{endnote117-appendix}{\hyperlink{endnote117-body}{When chanted for laypeople, this line is recited only by the secondmost senior monk. Afterwards, the remainder of the \textit{Saṅgha} joins in.}}}}}\makeatother
+Sabb'ītiyo vivajjantu
 
 \begin{english}
   May all misfortunes be avoided
@@ -10312,9 +10321,9 @@ Sadā sotthī bhavantu te
   Jīva-siddhī bhavantu te
 \end{pali-hang-together}
 
-\begin{english-verses}
+\begin{english-hang-verses}
   With all the power of the Buddha, all the power of the Dhamma, all the power of the Saṅgha. The gem of the Buddha, Dhamma, Saṅgha. The power of the Triple Gem. The power of the 84,000 Dhamma aggregates, the power of the Tipitaka, the power of the Victor’s disciples: May all your diseases, all your fears, all your obstacles all your dangers, all your bad visions, all your bad omens be destroyed. May there always be an increase of life, wealth, glory, status, strength, beauty and happiness. May suffering, disease, fear, animosity, sorrow, adversity, misfortune, and various obstacles vanish through this power. Triumph, success, wealth, gain, safety, luck, happiness, strength, glory, long life, beauty, fortune, growth, status, lifespan of 100. Success in your livelihood: May they be yours!
-\end{english-verses}
+\end{english-hang-verses}
 
 \suttaRef{[MJG]}
 
@@ -10872,9 +10881,9 @@ Sadā sotthī bhavantu te
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ me sutaṁ \hspace{-0.5mm}\anglebracketright\ ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā ten'upasaṅkami. Upasaṅkamitvā bhagavantaṁ abhivādetvā ekam'antaṁ aṭṭhāsi. Ekam'antaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 \end{pali-hang-together}
 
-\begin{english-verses}
+\begin{english-hang-verses}
   Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Then, when the night had advanced, a certain deity of stunning beauty, having illuminated the entire Jeta's Grove, approached the Blessed One, paid homage to him, stood to one side, and addressed the Blessed One in verse:
-\end{english-verses}
+\end{english-hang-verses}
 
 \begin{pali-hang-continued}
   Bahū devā manussā ca\\
@@ -11877,7 +11886,7 @@ Sadā sotthī bhavantu te
 
 \begin{english-verses}
 \begin{english-hang-first-line}
-  At one time, our Protector seeing that Moggallana \& Kassapa\\
+  At one time, our protector seeing that Moggallana \& Kassapa\\
 \end{english-hang-first-line}
 \begin{english-hang-together-verses}
   Were sick \& in pain, taught them the Seven Factors for Awakening.\\
@@ -12461,9 +12470,9 @@ Sadā sotthī bhavantu te
   \anglebracketleft\ \hspace{-0.5mm}Namo tassa \hspace{-0.5mm}\anglebracketright\ bhagavato arahato \ifninebythirteenversion\\ \fi sammāsambuddhassa \hfill{[3x]}
 \end{pali-hang-together}
 
-\begin{english}
+\begin{english-hang}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
-\end{english}
+\end{english-hang}
 
 \suttaRef{[DN 21]}
 
@@ -12858,7 +12867,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Four noble truths:\\
+  The four noble truths:\\
   The noble truth of dukkha;\\
   The noble truth of the origin of dukkha;\\
   The noble truth of the cessation of dukkha;\\
@@ -12964,7 +12973,6 @@ Sadā sotthī bhavantu te
     Such is the cessation of this whole mass of suffering.
   \end{english-hang-together-verses}
 \end{english-verses}
-
 
 \suttaRef{[SN 12.1]}
 
