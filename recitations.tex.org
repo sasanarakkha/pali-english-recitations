@@ -7356,7 +7356,7 @@ Sovacassatā kalyāṇamittatā
 
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionSubTitle{Dhamma-pahaṁsāna}
+\sectionSubTitle{Dhammānudhamma-padhāna}
 \section{Striving According \mbox{to}~the~Dhamma}
 \label{striving-according-to-dhamma}
 
