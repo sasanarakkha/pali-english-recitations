@@ -1,4 +1,4 @@
-#+title: SBS Pāli-English Recitations
+a+title: SBS Pāli-English Recitations
 #+author: SBS Saṅgha
 #+format: LaTeX
 #+startup: fold
@@ -596,7 +596,7 @@ From these profound teachings we can take a step back to the practical, day-to-d
 
 Lastly, this recitation book also includes passages that illuminate how to establish good relations among fellow practitioners, such as the \hyperref[principles-of-cordiality]{Principles of Cordiality}, \hyperref[principles-of-non-decline]{Principles of Non-Decline}, and \hyperref[four-great-references]{The Four Great References}. Also included are chants that monks commonly perform as services to the laity, such as Anumodanā, Sharing of Merits, and Funeral Chants.
 
-To summarize, memorization of the Dhamma and group recitation fulfill a variety of different purposes and benefits, ranging all the way from the mundane aspects such as the ability to recite in unison and the fostering of communal harmony, all the way to the attainment of final liberation.
+To summarize, memorization of the Dhamma and group recitation fulfill a variety of different purposes and benefits, ranging from mundane aspects such as the ability to recite in unison and the fostering of communal harmony, all the way to the attainment of final liberation.
 
 \subsection*{When to Recite}
 
@@ -2026,7 +2026,7 @@ Saṅghaṁ namāmi
   Whoever goes for refuge\ifdigitalversion\makeatletter\hyperlink{endnote162-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote162-appendix}{\hyperlink{endnote162-body}{WPN: ``Whoever goes to refuge''}}}}}\makeatother\fi\\
   To the Buddha the Dhamma and the Saṅgha\ifdigitalversion\makeatletter\hyperlink{endnote163-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote163-appendix}{\hyperlink{endnote163-body}{WPN: ``In the Triple Gem.'' It has been shown in Āyasma Aggacitta's ``Do We Go to the Triple Gem for Refuge?'' that one does not go for refuge in the triple gem (the Buddha, Dhamma, and Ariya-saṅgha), but the discourses repeatedly depict the Buddha, Dhamma, and Bhikkhu-saṅgha as the community to take refuge in (DN 2, MN 91, SN 12.46, AN 2.16 etc.).}}}}}\makeatother\fi\\
+        \hypertarget{endnote163-appendix}{\hyperlink{endnote163-body}{WPN: ``In the Triple Gem.'' It has been shown in Āyasma Aggacitta's ``Do We Go to the Triple Gem for Refuge?'' that one does not go for refuge in the Triple Gem (the Buddha, Dhamma, and Ariya-saṅgha), but the discourses repeatedly depict the Buddha, Dhamma, and Bhikkhu-saṅgha as the community to take refuge in (DN 2, MN 91, SN 12.46, AN 2.16 etc.).}}}}}\makeatother\fi\\
   Sees with right discernment\\
   The Four Noble Truths
 \end{english-verses}
@@ -3885,6 +3885,7 @@ Vijjā udapādi\\
 Taṁ kho pan'idaṁ dukkha-samudayo ariya-saccaṁ pahātabban'ti
 \end{pali-hang}
 
+\linkdest{endnote167-body}
 \begin{english}
   This origin of dukkha\makeatletter\hyperlink{endnote167-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote167-appendix}{\hyperlink{endnote167-body}{While the Pāli includes the term \textit{ariya-saccaṁ} (``noble truth''), this clause has been omitted from the English translations of the second to fourth noble truths for the sake of brevity. As a positive side effect, this omission may inadvertently help prevent misunderstandings---specifically, the mistaken idea that one is to abandon the noble truth itself, rather than the cause of \textit{dukkha}. Clearly, it is the cause of \textit{dukkha}---namely, craving---that is to be abandoned, not the noble truth of \textit{dukkha} itself. This point becomes even clearer when considering the fourth noble truth, which is to be developed. This obviously refers to the factors of the Noble Eightfold Path, not to the truth as a doctrinal concept.}}}}}\makeatother\\
@@ -5661,12 +5662,9 @@ Maha-pphalā hoti mah'ānisaṁsā
 
 \linkdest{endnote71-body}
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
-\end{leader}
-\begin{leader-english-below-pali}
-  \anglebracketleft\ \hspace{-0.5mm}Now let us recite the Analysis of Dependent Origination\makeatletter\hyperlink{endnote71-appendix}\Hy@raisedlink{{\pagenote{%
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ paṭicca-samuppāda-vibhaṅgaṁ bhaṇāmase \makeatletter\hyperlink{endnote71-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote71-appendix}{\hyperlink{endnote71-body}{This chant stems mainly from ``The Discourse Analysis of Dependent Origination'', a sub-chapter from the ``The Analysis of Dependent Origination'', which is part of the second book of the \textit{Abhidhammapiṭaka} called the ``\textit{Vibhaṅga}'' (Abh.Vibh.130f). Apart from minor variations, there is great similarity between this analysis and the analysis found in SN 12.2, in the \textit{Suttapiṭaka}. The first four lines of this chant stem from SN 12.61, which functions as an illustration of the general principle of conditionality.}}}}}\makeatother \thinspace \hspace{-0.5mm}\anglebracketright\
-\end{leader-english-below-pali}
+\end{leader}
 
 Imasmiṁ sati idaṁ hoti
 
@@ -7356,12 +7354,12 @@ Sovacassatā kalyāṇamittatā
 
 #+begin_src latex :tangle ./tex/recitations/teachings.tex
 
-\sectionSubTitle{Dhammānudhamma-padhāna}
+\sectionSubTitle{Dhamm'ānudhamma-padhāna}
 \section{Striving According \mbox{to}~the~Dhamma}
 \label{striving-according-to-dhamma}
 
 \begin{leader}
-  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ dhamma-pahaṁsāna-pāṭhaṁ \mbox{bhaṇāmase}~\hspace{-0.5mm}\anglebracketright\
+  \anglebracketleft\ \hspace{-0.5mm}Handa mayaṁ dhamm’ānudhamma-padhāna-pāṭhaṁ bhaṇāmase \hspace{-0.5mm}\anglebracketright\
 \end{leader}
 % TOOD the spacing before and after the leader is too large
 Evaṁ svākkhāto bhikkhave mayā dhammo
@@ -9045,11 +9043,11 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Without veering towards either of these extremes \breathmark\ the Tathāgata has awakened to the Middle Way \breathmark\ which gives rise to \ifbfiveversion \mbox{vision}~\breathmark\ \else vision  \fi which gives rise to knowledge \breathmark\ which leads to \mbox{peace}~\breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
+  Without veering towards either of these extremes \breathmark\ the Tathāgata has awakened to the Middle Way \breathmark\ which gives rise to \ifbfiveversion \mbox{vision}~\breathmark\ \else vision \breathmark\ \fi which gives rise to knowledge \breathmark\ which leads to \mbox{peace}~\breathmark\ to direct knowledge \breathmark\ to enlightenment \breathmark\ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  And what bhikkhus is the Middle Way awakened to by the Tathāgata which gives rise to \ifbfiveversion \mbox{vision}~ \else vision  \fi which gives rise to knowledge  which leads to peace  to direct knowledge  \mbox{to}~enlightenment~ to Nibbāna
+  And what bhikkhus is the Middle Way awakened to by the Tathāgata \breathmark\ which gives rise to \ifbfiveversion \mbox{vision}~ \else vision \breathmark\  \fi which gives rise to knowledge  which leads to peace  to direct knowledge  \mbox{to}~enlightenment~ to Nibbāna
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9057,7 +9055,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  That Is \breathmark\ Right View \breathmark\ Right Intention \breathmark\ Right Speech \breathmark\ Right Action \breathmark\ Right Livelihood \breathmark\ Right Effort \breathmark\ Right Mindfulness \breathmark\ Right Concentration
+  That is \breathmark\ Right View \breathmark\ Right Intention \breathmark\ Right Speech \breathmark\ Right Action \breathmark\ Right Livelihood \breathmark\ Right Effort \breathmark\ Right Mindfulness \breathmark\ Right Concentration
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9065,7 +9063,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Now this  bhikkhus  is the noble truth of suffering: birth is \ifbfiveversion \mbox{suffering}~ \else suffering  \fi ageing is suffering \breathmark\ illness is suffering \breathmark\ death is \ifbfiveversion \mbox{suffering}~ \else suffering \breathmark\ \fi union with what is displeasing is suffering \breathmark\ separation from what is pleasing is suffering \breathmark\ not to get what one wants is suffering \breathmark\ in \ifbfiveversion \mbox{brief}~ \else brief \breathmark\ \fi the five aggregates subject to clinging are suffering
+  Now this  bhikkhus  is the noble truth of suffering: birth is \ifbfiveversion \mbox{suffering}~ \else suffering \fi \breathmark ageing is suffering \breathmark\ illness is suffering \breathmark\ death is \ifbfiveversion \mbox{suffering}~ \else suffering \breathmark\ \fi union with what is displeasing is suffering \breathmark\ separation from what is pleasing is suffering \breathmark\ not to get what one wants is suffering \breathmark\ in \ifbfiveversion \mbox{brief}~ \else brief \breathmark\ \fi the five aggregates subject to clinging are suffering
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9081,7 +9079,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  That Is \breathmark\ Right View \breathmark\ Right Intention \breathmark\ Right Speech \breathmark\ Right Action \breathmark\ Right Livelihood \breathmark\ Right Effort \breathmark\ Right Mindfulness \breathmark\ Right Concentration
+  That is \breathmark\ Right View \breathmark\ Right Intention \breathmark\ Right Speech \breathmark\ Right Action \breathmark\ Right Livelihood \breathmark\ Right Effort \breathmark\ Right Mindfulness \breathmark\ Right Concentration
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -10088,8 +10086,10 @@ Rakkhantu sabba-devatā
 
 Sabba-buddh'ānubhāvena
 
+\linkdest{endnote169-body}
 \begin{english}
-  With all the power of the Buddha
+  With all the power of the Buddha\makeatletter\hyperlink{endnote169-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote169-appendix}{\hyperlink{endnote169-body}{WPN: ``Through the power of all Buddhas/Dhammas/Saṅghas'' The phrase ``\textit{Sabba-buddh'ānubhāvena}''—and similarly \textit{dhamm'ānubhāvena} and \textit{saṅgh'ānubhāvena}—can refer to the Triple Gem in either the singular or plural. However, compounds like these do not make that distinction explicit. While the evocation of ``by the power of all Buddhas'' (past, present, and future) is plausible, it is less fitting to read dhamm'ānubhāvena as ``by the power of all dhammas (phenomena),'' or \textit{saṅgh'ānubhāvena} as ``by the power of all communities.'' Therefore, the preferred reading is ``with all the power of the Buddha/Dhamma/Saṅgha'' in the singular—evoking the unique spiritual potency of the Triple Gem.}}}}}\makeatother
 \end{english}
 
 Sadā sotthī bhavantu te
@@ -10266,7 +10266,7 @@ Sadā sotthī bhavantu te
   They are happy who get such rewards\\
   And grow in the Buddhasāsana.\\
   May you all be healthy and happy\\
-  Together with all your relatives
+  Together with all your relatives.
 \end{english-verses}
 
 \suttaRef{[AN 5.37 / Dhp 109 / AN 3.155]}
@@ -12378,10 +12378,12 @@ Sadā sotthī bhavantu te
   Sadā sotthī bhavantu te
 \end{pali-hang-together}
 
+\linkdest{endnote168-body}
 \begin{english-verses}
   May every blessing come to be.\\
   And all good spirits guard you well.\\
-  With all the power of the Buddha,\\
+  With all the power of the Buddha,\makeatletter\hyperlink{endnote168-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote168-appendix}{\hyperlink{endnote168-body}{WPN: ``Through the power of all Buddhas/Dhammas/Saṅghas'' The phrase ``\textit{Sabba-buddh'ānubhāvena}''—and similarly \textit{dhamm'ānubhāvena} and \textit{saṅgh'ānubhāvena}—can refer to the Triple Gem in either the singular or plural. However, compounds like these do not make that distinction explicit. While the evocation of ``by the power of all Buddhas'' (past, present, and future) is plausible, it is less fitting to read dhamm'ānubhāvena as ``by the power of all dhammas (phenomena),'' or \textit{saṅgh'ānubhāvena} as ``by the power of all communities.'' Therefore, the preferred reading is ``with all the power of the Buddha/Dhamma/Saṅgha'' in the singular—evoking the unique spiritual potency of the Triple Gem.}}}}}\makeatother\\
   May you always be at ease.
 \end{english-verses}
 
