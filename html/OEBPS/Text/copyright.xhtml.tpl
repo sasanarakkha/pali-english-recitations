@@ -26,6 +26,6 @@
 
   <br/>
 
-  <p style="text-align: center;"><em>First edition</em>, 2024</p>
+  <p style="text-align: center;"><em>First edition</em>, 2025</p>
 </body>
 </html>
