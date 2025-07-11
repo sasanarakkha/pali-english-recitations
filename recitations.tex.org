@@ -1,14 +1,11 @@
-a+title: SBS Pāli-English Recitations
+#+title: SBS Pāli-English Recitations
 #+author: SBS Saṅgha
 #+format: LaTeX
 #+startup: fold
 #+auto-tangle: t
 #+url: https://github.com/sasanarakkha/pali-english-recitations
 
-* TODO
-
 * Table of Contents :toc:
-- [[#todo][TODO]]
 - [[#titlepage][Titlepage]]
 - [[#copyright][Copyright]]
 - [[#acknowledgments][Acknowledgments]]
