@@ -12480,7 +12480,7 @@ Sadā sotthī bhavantu te
 
 \sectionSubTitle{Dhamma-saṅgaṇī-mātikā}
 \section{Outlines from the Enumeration of Phenomena}
-\label{dhamma-sangani-matika}
+\label{enumeration-of-phenomena}
 
 \begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Kusalā dhammā \hspace{-0.5mm}\anglebracketright\ \\
@@ -12980,7 +12980,7 @@ Sadā sotthī bhavantu te
 
 \sectionSubTitle{Paṭṭhāna-mātikā-pāṭho}
 \section[Passage on the Outlines from the Foundation\\ of Conditional Relations]{Passage on the Outlines from the Foundation of Conditional Relations}
-\label{patthana-matika-patho}
+\label{foundation-of-conditional-relations}
 
 \begin{pali-hang-together}
   \anglebracketleft\ \hspace{-0.5mm}Hetu-paccayo \hspace{-0.5mm}\anglebracketright\ ārammaṇa-paccayo adhipati-paccayo anantara-paccayo samanantara-paccayo saha-jāta-paccayo aññam'añña-paccayo nissaya-paccayo upanissaya-paccayo pure-jāta-paccayo pacchā-jāta-paccayo āsevana-paccayo kamma-paccayo vipāka-paccayo āhāra-paccayo indriya-paccayo jhāna-paccayo magga-paccayo sampayutta-paccayo vippayutta-paccayo atthi-paccayo n'atthi-paccayo vigata-paccayo avigata-paccayo

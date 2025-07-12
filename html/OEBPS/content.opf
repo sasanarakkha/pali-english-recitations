@@ -8,9 +8,9 @@
     <dc:language>en</dc:language>
     <dc:identifier>urn:isbn:[ISBN here]</dc:identifier>
     <dc:format>application/epub+zip</dc:format>
-    <meta property="dcterms:modified">2025-04-26T18:55:16Z</meta>
+    <meta property="dcterms:modified">2025-07-12T11:11:40Z</meta>
     <dc:identifier id="BookId">urn:uuid:aab09be7-cf83-41a5-b56b-a39ed9620398</dc:identifier>
-    <meta content="2.0.1" name="Sigil version"/>
+    <meta content="2.5.2" name="Sigil version"/>
   </metadata>
   <manifest>
     <item id="cover-front.xhtml" href="Text/cover-front.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -91,7 +91,7 @@
     <item id="LibertinusSerifX-Bold.ttf" href="Fonts/LibertinusSerifX-Bold.ttf" media-type="font/ttf"/>
     <item id="LibertinusSerifX-Regular.ttf" href="Fonts/LibertinusSerifX-Regular.ttf" media-type="font/ttf"/>
     <item id="palisbs.ttf" href="Fonts/palisbs.ttf" media-type="font/ttf"/>
-    <item id="thanksgiving-recitations.xhtml" href="Text/thanksgiving-recitations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="thanksgiving-recitations.xhtml" href="Text/just-as-rivers.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover-protective-recitations.xhtml" href="Text/cover-protective-recitations.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="cover-appendix.xhtml" href="Text/cover-appendix.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="refuge-trainings.xhtml" href="Text/refuge-trainings.xhtml" media-type="application/xhtml+xml"/>
@@ -101,14 +101,14 @@
     <item id="guidelines.xhtml" href="Text/guidelines.xhtml" media-type="application/xhtml+xml"/>
     <item id="phonetics-pronunciation.xhtml" href="Text/phonetics-pronunciation.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover-funeral-recitations.xhtml" href="Text/cover-funeral-recitations.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-    <item id="funeral-recitations.xhtml" href="Text/funeral-recitations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="funeral-recitations.xhtml" href="Text/passage-on-preliminary-paying-of-homage-funeral.xhtml" media-type="application/xhtml+xml"/>
     <item id="highest-honour-aspirations.xhtml" href="Text/highest-honour-aspirations.xhtml" media-type="application/xhtml+xml"/>
     <item id="sharing-merits-devas.xhtml" href="Text/sharing-merits-devas.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover-sharing-of-merits.xhtml" href="Text/cover-sharing-of-merits.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="sharing-merits-departed.xhtml" href="Text/sharing-merits-departed.xhtml" media-type="application/xhtml+xml"/>
     <item id="sharing-aspirations.xhtml" href="Text/sharing-aspirations.xhtml" media-type="application/xhtml+xml"/>
     <item id="sharing-all-merits.xhtml" href="Text/sharing-all-merits.xhtml" media-type="application/xhtml+xml"/>
-    <item id="protective-recitations.xhtml" href="Text/protective-recitations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="protective-recitations.xhtml" href="Text/invitation-to-the-devas.xhtml" media-type="application/xhtml+xml"/>
     <item id="back-cover-compressed.jpg" href="Images/back-cover-compressed.jpg" media-type="image/jpeg"/>
     <item id="front-cover-compressed.jpg" href="Images/front-cover-compressed.jpg" media-type="image/jpeg"/>
     <item id="reflections-compressed.jpg" href="Images/reflections-compressed.jpg" media-type="image/jpeg"/>
@@ -123,6 +123,34 @@
     <item id="LibertinusSerif-Regular.otf" href="Fonts/LibertinusSerif-Regular.otf" media-type="font/otf"/>
     <item id="copyright-details.xhtml" href="Text/copyright-details.xhtml" media-type="application/xhtml+xml"/>
     <item id="CCSymbols.ttf" href="Fonts/CCSymbols.ttf" media-type="font/ttf"/>
+    <item id="Section0001.xhtml" href="Text/power-of-the-triple-gem.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/rejoicing-in-giving-food.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/blessings-of-entire-world.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/confidence-in-supreme.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/he-who-gains-benefits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/giving-at-proper-time.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/passage-on-preliminary-paying-of-homage-protective.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/protection-of-aggregates.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/qualities-of-buddha-dhamma-sangha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/triumph-by-paying-homage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/discourse-on-jewels-protective.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/passage-on-going-for-refuge.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/paying-homage-to-octad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0015.xhtml" href="Text/discourse-on-loving-kindness-protective.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0016.xhtml" href="Text/protection-for-safety.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0018.xhtml" href="Text/eight-victory-blessings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0019.xhtml" href="Text/dismissing-the-devatas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0020.xhtml" href="Text/protection-of-factors-of-awakening.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0021.xhtml" href="Text/protection-for-victory.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0023.xhtml" href="Text/may-every-blessing-come-to-be-protective.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0024.xhtml" href="Text/whatever-kind-of-jewel.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0025.xhtml" href="Text/discourse-on-blessings-protective.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0026.xhtml" href="Text/enumeration-of-phenomena.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0027.xhtml" href="Text/passage-on-ground-for-distinct-seeing.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0028.xhtml" href="Text/foundation-of-conditional-relations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0030.xhtml" href="Text/he-gave-to-me.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0031.xhtml" href="Text/may-every-blessing-come-to-be-funeral.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15b73c0c-f2d7-4f61-a2f3-c3f671f874b7" href="Text/reflections-on-death.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="cover-front.xhtml"/>
@@ -188,10 +216,38 @@
     <itemref idref="exposition-on-burning.xhtml"/>
     <itemref idref="cover-thanksgiving-recitations.xhtml"/>
     <itemref idref="thanksgiving-recitations.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
     <itemref idref="cover-protective-recitations.xhtml"/>
     <itemref idref="protective-recitations.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0024.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
     <itemref idref="cover-funeral-recitations.xhtml"/>
     <itemref idref="funeral-recitations.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="Section0028.xhtml"/>
+    <itemref idref="Section0030.xhtml"/>
+    <itemref idref="x15b73c0c-f2d7-4f61-a2f3-c3f671f874b7"/>
+    <itemref idref="Section0031.xhtml"/>
     <itemref idref="cover-sharing-of-merits.xhtml"/>
     <itemref idref="uddissanadhitthana.xhtml"/>
     <itemref idref="sharing-aspirations.xhtml"/>
