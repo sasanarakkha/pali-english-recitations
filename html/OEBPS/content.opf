@@ -35,7 +35,7 @@
     <item id="anatta-lakkhana.xhtml" href="Text/anatta-lakkhana.xhtml" media-type="application/xhtml+xml"/>
     <item id="wheel-of-dhamma-full.xhtml" href="Text/wheel-of-dhamma-full.xhtml" media-type="application/xhtml+xml"/>
     <item id="dhammacakkappavattana.xhtml" href="Text/dhammacakkappavattana.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-cardinal-suttas.xhtml" href="Text/cover-cardinal-suttas.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="cover-cardinal-discourses.xhtml" href="Text/cover-cardinal-discourses.xhtml" media-type="application/xhtml+xml" properties="svg"/>
     <item id="recollection-of-impermanence.xhtml" href="Text/recollection-of-impermanence.xhtml" media-type="application/xhtml+xml"/>
     <item id="x32-parts.xhtml" href="Text/32-parts.xhtml" media-type="application/xhtml+xml"/>
     <item id="ten-reflections.xhtml" href="Text/ten-reflections.xhtml" media-type="application/xhtml+xml"/>
@@ -78,7 +78,7 @@
     <item id="bottomnav.css" href="Styles/bottomnav.css" media-type="text/css"/>
     <item id="suttaref.css" href="Styles/suttaref.css" media-type="text/css"/>
     <item id="appendix-compressed.jpg" href="Images/appendix-compressed.jpg" media-type="image/jpeg"/>
-    <item id="cardinal-suttas-compressed.jpg" href="Images/cardinal-suttas-compressed.jpg" media-type="image/jpeg"/>
+    <item id="cardinal-discourses-compressed.jpg" href="Images/cardinal-discourses-compressed.jpg" media-type="image/jpeg"/>
     <item id="funeral-recitations-compressed.jpg" href="Images/funeral-recitations-compressed.jpg" media-type="image/jpeg"/>
     <item id="homage-to-the-triple-gem-compressed.jpg" href="Images/homage-to-the-triple-gem-compressed.jpg" media-type="image/jpeg"/>
     <item id="pali-table.png" href="Images/pali-table.png" media-type="image/png"/>
@@ -207,7 +207,7 @@
     <itemref idref="ten-reflections.xhtml"/>
     <itemref idref="x32-parts.xhtml"/>
     <itemref idref="recollection-of-impermanence.xhtml"/>
-    <itemref idref="cover-cardinal-suttas.xhtml"/>
+    <itemref idref="cover-cardinal-discourses.xhtml"/>
     <itemref idref="dhammacakkappavattana.xhtml"/>
     <itemref idref="wheel-of-dhamma-full.xhtml"/>
     <itemref idref="anatta-lakkhana.xhtml"/>
