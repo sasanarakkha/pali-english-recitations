@@ -2869,12 +2869,23 @@ Etaṁ buddhāna'sāsanaṁ
   For those injured \breathmark\ pierced by the dart?
 \end{english-verses}
 
+\ifbfiveversion
+
+\begin{verses}
+  Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā\\
+  Mā vo pamatte viññāya – Maccurājā amohayittha vas'ānuge
+\end{verses}
+
+\else
+
 \begin{verses}
   Uṭṭhahatha nisīdatha – Daḷhaṁ sikkhatha santiyā\\
 \end{verses}
 \begin{pali-hang-together}
   Mā vo pamatte viññāya – Maccurājā amohayittha vas'ānuge
 \end{pali-hang-together}
+
+\fi
 
 \begin{english-verses}
   Arouse yourselves \breathmark\ sit up!\\
@@ -4003,6 +4014,8 @@ Yāva-kīvañ'ca me bhikkhave imesu catūsu ariya-saccesu
         \hypertarget{endnote57-appendix}{\hyperlink{endnote57-body}{The three phases are comprised of the statement of the noble truth itself, followed by what is the task that is to be performed in relation to this noble truth, followed by the statement that the task has been performed. Four truths multiplied by three phases, results in 12 aspects.}}}}}\makeatother\\
   Was not entirely pure
 \end{english-verses}
+
+\ifbfiveversion\clearpage\fi
 
 \begin{pali-hang-first-line}
 N'eva tāv'āhaṁ bhikkhave sadevake loke samārake sabrahmake\\
@@ -6929,7 +6942,9 @@ Sāmaggiyā ekībhāvāya saṁvattanti
 
 \suttaRef{[MN 48]}
 
+\begin{pali-hang}
 Ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha
+\end{pali-hang}
 
 \begin{english-hang}
   If you undertake and maintain \breathmark\ these six principles of cordiality
@@ -7203,7 +7218,9 @@ Vuddhi'y'eva bhikkhave bhikkhūnaṁ pāṭikaṅkhā no parihāni
   Bhikkhus as long as these seven principles of non-decline \breathmark\ continue among the bhikkhus
 \end{english-hang}
 
+\begin{pali-hang}
 Imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti
+\end{pali-hang}
 
 \begin{english}
   And the bhikkhus are seen established in them
@@ -9036,7 +9053,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Bhikkhus these two extremes should not be followed \breathmark\ by one who has gone forth into homelessness. What two? The pursuit of sensual happiness in sensual pleasures \breathmark\ which is low \breathmark\ vulgar \breathmark\ the way of worldlings \breathmark\ ignoble \breathmark\ unbeneficial \breathmark\ and the pursuit of self-mortification \breathmark\ which is painful \breathmark\ ignoble \breathmark\ unbeneficial
+  Bhikkhus these two extremes should not be followed \breathmark\ by one who has gone forth into homelessness. What two? The pursuit of sensual happiness in sensual pleasures \breathmark\ which is low \breathmark\ vulgar \breathmark\ the way of worldlings \breathmark\ ignoble \breathmark\ unbeneficial \breathmark\ and the pursuit of \mbox{self-mortification}~\breathmark\ which is painful \breathmark\ ignoble \breathmark\ unbeneficial
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9152,7 +9169,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma has been set in motion  by the Blessed One  which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
+  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma \breathmark\ has been set in motion by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9184,11 +9201,11 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma \breathmark\ has been set in motion  by the Blessed One  which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
+  ``At Benares in the Deer Park at Isipatana \breathmark\ this unsurpassed Wheel of the Dhamma \breathmark\ has been set in motion  by the Blessed One \breathmark\ which cannot be stopped by any ascetic or brahmin \breathmark\ or deva or Māra or Brahmā or by anyone in the world''
 \end{english-only-hang}
 
 \begin{english-only-hang}
-  Thus at that moment \breathmark\ at that instant \breathmark\ at that second \breathmark\ the cry spread as far as the brahmā world \breathmark\ and this ten thousandfold world system shook \breathmark\ quaked \breathmark\ and trembled \breathmark\ and an immeasurable glorious radiance appeared in the world \breathmark\ surpassing the divine majesty of the devas
+  Thus at that moment \breathmark\ at that instant \breathmark\ at that second \breathmark\ the cry spread as far as the brahmā world \breathmark\ and this ten thousandfold world system \mbox{shook}~\breathmark\ quaked \breathmark\ and trembled \breathmark\ and an immeasurable glorious radiance appeared in the world \breathmark\ surpassing the divine majesty of the devas
 \end{english-only-hang}
 
 \begin{english-only-hang}
@@ -9384,9 +9401,20 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{leader-pali}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{leader-pali}
+
+\ifbfiveversion
+
+\begin{pali-hang}
+  Sutavā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ `vimuttam'iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
+\end{pali-hang}
+
+\else
+
 \begin{pali-hang-together}
   Sutavā ariyasāvako rūpasmim'pi nibbindati \breathmark\ vedanāya'pi \mbox{nibbindati}~\breathmark\ saññāya'pi nibbindati \breathmark\ saṅkhāresu'pi nibbindati \breathmark\ viññāṇasmim'pi nibbindati \breathmark\ nibbindaṁ virajjati \breathmark\ virāgā \mbox{vimuccati}~\breathmark\ vimuttasmiṁ `vimuttam'iti ñāṇaṁ hoti \breathmark\ ``Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ n'āparaṁ itthattāyā''ti pajānātī'ti
 \end{pali-hang-together}
+
+\fi
 
 \ifafiveversion\clearpage\fi
 
@@ -10175,6 +10203,40 @@ Sadā sotthī bhavantu te
   Sata-vassā ca āyū ca – Jīva-siddhī bhavantu te
 \end{pali-hang-together}
 
+\ifninebythirteenversion
+
+\begin{english-verses}
+\begin{english-hang-first-line}
+  Through the power \& through the radiant energy of the Triple Gem,\\
+\end{english-hang-first-line}
+\begin{english-hang-together-verses}
+  May suffering, disease, fear, animosity,\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
+  Sorrow, adversity, misfortune\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
+  Obstacles without number vanish without a trace.\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
+  Triumph, success, wealth, \& gain,\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
+  Safety, luck, happiness, strength,\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
+  Glory, long life, \& beauty, fortune, increase, \& status,\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
+  A lifespan of 100 years, and success in your livelihood:\\
+\end{english-hang-together-verses}
+\begin{english-hang-together-verses}
+  May they be yours.
+\end{english-hang-together-verses}
+\end{english-verses}
+
+\else
+
 \begin{english-verses}
   Through the power \& through the radiant energy of the Triple Gem,\\
   May suffering, disease, fear, animosity,\\
@@ -10186,6 +10248,8 @@ Sadā sotthī bhavantu te
   A lifespan of 100 years, and success in your livelihood:\\
   May they be yours.
 \end{english-verses}
+
+\fi
 
 \suttaRef{[Thai]}
 
@@ -10648,9 +10712,9 @@ Sadā sotthī bhavantu te
 
 % \fi
 
-\begin{english}
+\begin{english-hang}
   Homage to the Blessed, Worthy, and Perfectly Enlightened One
-\end{english}
+\end{english-hang}
 
 \suttaRef{[DN 21]}
 
@@ -10812,7 +10876,10 @@ Sadā sotthī bhavantu te
 \end{pali-hang-together}
 
 \begin{english-verses}
-  Homage to the Great Seer, the Worthy One, Perfectly Self-awakened; Homage to the highest Dhamma, well-taught by him here;
+  Homage to the Worthy One, Perfectly\\
+  Self-awakened, the Great Seer;\\
+  Homage to the highest Dhamma,\\
+  well-taught by him here;
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -10832,6 +10899,7 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Namo omak'ātītassa\\
   Tassa vatthuttayassa'pi\\
+  \ifninebythirteenversion\clearpage\fi
   Namo-kāra-ppabhāvena\\
   Vigacchantu upaddavā\\
 \end{pali-hang-continued}
@@ -10842,8 +10910,6 @@ Sadā sotthī bhavantu te
   By the potency of this homage,\\
   May misfortunes disappear;
 \end{english-verses}
-
-\ifbfiveversion\clearpage\fi
 
 \begin{pali-hang-continued}
   Namo-kār'ānubhāvena\\
@@ -13944,6 +14010,7 @@ Sādhu sādhu sādhu
 \ifninebythirteenversion
 
 \begin{sidewaystable}
+  \hspace*{-0.5cm}
     \begin{tblr}{
         colspec={l *{11}{c}},
         hlines, vlines,
