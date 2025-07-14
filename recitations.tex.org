@@ -202,7 +202,7 @@
   \ifninebythirteenversion \vspace{0.3cm} \fi
   \ifbfiveversion \vspace{0.5cm} \fi
 
-  Download this book as a PDF, EPUB, or MOBI\\
+  Download this book as a PDF, EPUB, MOBI, AZW3\\
   at the following address:\\
   \href{https://sasanarakkha.org/}{https://sasanarakkha.org}
 
@@ -276,7 +276,7 @@ Accompanying audio recordings can be found at:
 
   \linkdest{endnote1-body}
   Additional information on translations, as well as deviations\makeatletter\hyperlink{endnote1-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote1-appendix}{\hyperlink{endnote1-body}{Due to the balanced and inspiring selection of chants, as well as for the sake of compatibility, WPN's \textit{Buddhist Chanting} (2014) has served as the basis for this book. Over time, suggestions for the inclusion of additional chants, as well as occasional improvements of existing translations were incorporated. Such changes were meticulously marked down in the endnotes, so that someone familiar with the present book can straight away find the relevant differences, which can be useful when visiting a branch monastery of the Ajahn Chah lineage, in order to know in which places to revert to the original version.}}}}}\makeatother\thickspace
+        \hypertarget{endnote1-appendix}{\hyperlink{endnote1-body}{Due to the balanced and inspiring selection of chants, as well as for the sake of compatibility, WPN’s \textit{Buddhist Chanting} (2014) has served as the basis for this book. Over time, suggestions for the inclusion of additional chants, as well as occasional improvements of existing translations were incorporated. Such changes were meticulously marked down in the endnotes of the digital versions of this chanting book, so that someone familiar with the present book can straight away find the relevant differences, which can be useful when visiting a branch monastery of the Ajahn Chah lineage, in order to know in which places to revert to the original version.}}}}}\makeatother\thickspace
   from WPN's \textit{Buddhist Chanting} (2014), have been annotated by Ven. Ariyadhammika in the endnotes.
 
 
@@ -3637,8 +3637,8 @@ Byādhi'pi dukkho
 
 \linkdest{endnote52-body}
 \begin{english}
-  Sickness is dukkha\makeatletter\hyperlink{endnote52-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote52-appendix}{\hyperlink{endnote52-body}{For some reason ``\textit{byādhi'pi dukkho}'' is missing from the WPN version of this chanting book. The reason for this omission is unclear, because even the Thai edition of this discourse contains ``\textit{byādhi'pi dukkho}.'' However, the definition of the four noble truths in the context of the \textit{Satipaṭṭhānasuttas} in DN and MN do not contain ``\textit{byādhi'pi dukkho}.'' It may be that the compilers of this chanting book copy/pasted this passage from the wrong discourse, thinking it is the same, whereas in reality there is this small difference.}}}}}\makeatother
+  Sickness is dukkha\ifdigitalversion\makeatletter\hyperlink{endnote52-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote52-appendix}{\hyperlink{endnote52-body}{For some reason ``\textit{byādhi'pi dukkho}'' is missing from the WPN version of this chanting book. The reason for this omission is unclear, because even the Thai edition of this discourse contains ``\textit{byādhi'pi dukkho}.'' However, the definition of the four noble truths in the context of the \textit{Satipaṭṭhānasuttas} in DN and MN do not contain ``\textit{byādhi'pi dukkho}.'' It may be that the compilers of this chanting book copy/pasted this passage from the wrong discourse, thinking it is the same, whereas in reality there is this small difference.}}}}}\makeatother\fi
 \end{english}
 
 Maraṇam'pi dukkhaṁ
@@ -10113,8 +10113,8 @@ Sabba-buddh'ānubhāvena
 
 \linkdest{endnote169-body}
 \begin{english}
-  With all the power of the Buddha\makeatletter\hyperlink{endnote169-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote169-appendix}{\hyperlink{endnote169-body}{WPN: ``Through the power of all Buddhas/Dhammas/Saṅghas'' The phrase ``\textit{Sabba-buddh'ānubhāvena}''—and similarly \textit{dhamm'ānubhāvena} and \textit{saṅgh'ānubhāvena}—can refer to the Triple Gem in either the singular or plural. However, compounds like these do not make that distinction explicit. While the evocation of ``by the power of all Buddhas'' (past, present, and future) is plausible, it is less fitting to read dhamm'ānubhāvena as ``by the power of all dhammas (phenomena),'' or \textit{saṅgh'ānubhāvena} as ``by the power of all communities.'' Therefore, the preferred reading is ``with all the power of the Buddha/Dhamma/Saṅgha'' in the singular—evoking the unique spiritual potency of the Triple Gem.}}}}}\makeatother
+  With all the power of the Buddha\ifdigitalversion\makeatletter\hyperlink{endnote169-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote169-appendix}{\hyperlink{endnote169-body}{WPN: ``Through the power of all Buddhas/Dhammas/Saṅghas'' The phrase ``\textit{Sabba-buddh'ānubhāvena}''—and similarly \textit{dhamm'ānubhāvena} and \textit{saṅgh'ānubhāvena}—can refer to the Triple Gem in either the singular or plural. However, compounds like these do not make that distinction explicit. While the evocation of ``by the power of all Buddhas'' (past, present, and future) is plausible, it is less fitting to read dhamm'ānubhāvena as ``by the power of all dhammas (phenomena),'' or \textit{saṅgh'ānubhāvena} as ``by the power of all communities.'' Therefore, the preferred reading is ``with all the power of the Buddha/Dhamma/Saṅgha'' in the singular—evoking the unique spiritual potency of the Triple Gem.}}}}}\makeatother\fi
 \end{english}
 
 Sadā sotthī bhavantu te
@@ -12445,8 +12445,8 @@ Sadā sotthī bhavantu te
 \begin{english-verses}
   May every blessing come to be.\\
   And all good spirits guard you well.\\
-  With all the power of the Buddha,\makeatletter\hyperlink{endnote168-appendix}\Hy@raisedlink{{\pagenote{%
-        \hypertarget{endnote168-appendix}{\hyperlink{endnote168-body}{WPN: ``Through the power of all Buddhas/Dhammas/Saṅghas'' The phrase ``\textit{Sabba-buddh'ānubhāvena}''—and similarly \textit{dhamm'ānubhāvena} and \textit{saṅgh'ānubhāvena}—can refer to the Triple Gem in either the singular or plural. However, compounds like these do not make that distinction explicit. While the evocation of ``by the power of all Buddhas'' (past, present, and future) is plausible, it is less fitting to read dhamm'ānubhāvena as ``by the power of all dhammas (phenomena),'' or \textit{saṅgh'ānubhāvena} as ``by the power of all communities.'' Therefore, the preferred reading is ``with all the power of the Buddha/Dhamma/Saṅgha'' in the singular—evoking the unique spiritual potency of the Triple Gem.}}}}}\makeatother\\
+  With all the power of the Buddha,\ifdigitalversion\makeatletter\hyperlink{endnote168-appendix}\Hy@raisedlink{{\pagenote{%
+        \hypertarget{endnote168-appendix}{\hyperlink{endnote168-body}{WPN: ``Through the power of all Buddhas/Dhammas/Saṅghas'' The phrase ``\textit{Sabba-buddh'ānubhāvena}''—and similarly \textit{dhamm'ānubhāvena} and \textit{saṅgh'ānubhāvena}—can refer to the Triple Gem in either the singular or plural. However, compounds like these do not make that distinction explicit. While the evocation of ``by the power of all Buddhas'' (past, present, and future) is plausible, it is less fitting to read dhamm'ānubhāvena as ``by the power of all dhammas (phenomena),'' or \textit{saṅgh'ānubhāvena} as ``by the power of all communities.'' Therefore, the preferred reading is ``with all the power of the Buddha/Dhamma/Saṅgha'' in the singular—evoking the unique spiritual potency of the Triple Gem.}}}}}\makeatother\fi\\
   May you always be at ease.
 \end{english-verses}
 
