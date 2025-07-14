@@ -727,11 +727,11 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 \chapter{Homage to the Triple Gem}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 #+end_src
@@ -1797,11 +1797,11 @@ Saṅghaṁ namāmi
 \chapter{Verses}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 #+end_src
@@ -3361,11 +3361,11 @@ Etaṁ buddhāna'sāsanaṁ
 \chapter{Teachings}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 #+end_src
@@ -7732,11 +7732,11 @@ Ayaṁ tathāgatassa pacchimā vācā
 \chapter{Reflections}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 #+end_src
@@ -8804,11 +8804,11 @@ Tesaṁ vūpasamo sukho
 \chapter{Cardinal Discourses}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 \input{./tex/recitations/cardinal-discourses/dhammacakkappavattana.tex}
@@ -9911,11 +9911,11 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 \chapter{Thanksgiving Recitations}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 \clearpage
@@ -10622,11 +10622,11 @@ Sadā sotthī bhavantu te
 \chapter{Protective Recitations}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 \clearpage
@@ -12509,11 +12509,11 @@ Sadā sotthī bhavantu te
 \chapter{Funeral Recitations}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 \clearpage
@@ -13283,11 +13283,11 @@ Sadā sotthī bhavantu te
 \chapter{Sharing of Merits}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 #+end_src
@@ -13732,11 +13732,11 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 \chapter{Appendix}
 
 \ifbfiveversion
-  \includepdf[pages=1]{assets/graphics/civara_b5.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_b5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=1]{assets/graphics/civara_9x13.pdf}
+  \includepdf[pages=2]{assets/graphics/civara_9x13.pdf}
 \fi
 
 \clearpage
