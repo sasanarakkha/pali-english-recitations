@@ -91,12 +91,14 @@
 
 \ifninebythirteenversion
   \photoFullBleed{./assets/illustrations/9x13/front_cover_9x13.jpg}
-  \clearpage
+\cleartoverso
+  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/civara_9x13.pdf}
 \fi
 
 \ifbfiveversion
   \photoFullBleed{./assets/illustrations/B5/front_cover_B5.jpg}
-  \clearpage
+\cleartoverso
+  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/civara_B5.pdf}
 \fi
 
 % Title page, copyright, acknowledgments
@@ -149,6 +151,21 @@
 \backmatter
 \printpagenotes % Print endnotes
 \input{./tex/copyright-details.tex}
+
+\ifbfiveversion
+  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/donor-list.pdf}
+  \newpage
+  \thispagestyle{empty}
+  \null
+  \newpage
+  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/civara_B5.pdf}
+\fi
+
+\ifninebythirteenversion
+\clearpage
+  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/civara_9x13.pdf}
+\fi
+
 \emptyUntilEven % Add blank page if necessary
 
 \ifdigitalversion
