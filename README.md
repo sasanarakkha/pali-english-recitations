@@ -1,4 +1,4 @@
-<div align=center><img alt="Cover" width="524" height="744" src="assets/illustrations/A5/front_cover_A5.jpg"></div>
+<div align=center><img alt="Cover" width="524" height="744" src="assets/images/A5/front_cover_A5.jpg"></div>
 
 </br>
 

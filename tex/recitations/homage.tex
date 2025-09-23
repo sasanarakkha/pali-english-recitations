@@ -6,21 +6,21 @@
 \fi
 
 \ifninebythirteenversion
-  \chapterOpeningPage{homage_to_the_triple_gem_9x13.jpg}
+  \chapterOpeningPage{homage_to_the_triple_gem_9x13.png}
 \fi
 
 \ifbfiveversion
-  \chapterOpeningPage{homage_to_the_triple_gem_B5.jpg}
+  \chapterOpeningPage{homage_to_the_triple_gem_B5.png}
 \fi
 
 \chapter{Homage to the Triple Gem}
 
-\ifbfiveversion
-  \includepdf[pages=-]{assets/graphics/brown-texture_B5.pdf}
+\ifninebythirteenversion
+  \photoFullBleed{assets/images/9x13/brown_divider_9x13.pdf}
 \fi
 
-\ifninebythirteenversion
-  \includepdf[pages=-]{assets/graphics/brown-texture_9x13.pdf}
+\ifbfiveversion
+  \photoFullBleed{assets/images/B5/brown_divider_B5.pdf}
 \fi
 
 
@@ -61,9 +61,9 @@ Svākkhāto yena bhagavatā dhammo
 
 Supaṭipanno yassa bhagavato sāvaka-saṅgho
 
-\begin{english}
+\begin{english-hang}
   And to the Blessed One's disciples who have practiced well
-\end{english}
+\end{english-hang}
 
 Tam'mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ
 
@@ -100,9 +100,9 @@ Ime sakkāre duggata-paṇṇākāra-bhūte paṭiggaṇhātu
 
 Amhākaṁ dīgharattaṁ hitāya sukhāya
 
-\begin{english}
+\begin{english-hang}
   For our long-lasting benefit and for the happiness it gives us
-\end{english}
+\end{english-hang}
 
 \ifafiveversion\clearpage\fi
 \ifbfiveversion\clearpage\fi
@@ -189,11 +189,22 @@ Saṅghaṁ namāmi
   \anglebracketleft\ \hspace{-0.5mm}Now let us pay preliminary homage to the Buddha \hspace{-0.5mm}\anglebracketright\
 \end{leader-english-below-pali}
 
+\ifninebythirteenversion
+\begin{pali-hang}
+Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
+\end{pali-hang}
+
+\begin{english-hang}
+  Homage to the Blessed Worthy and Perfectly Enlightened One \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifninebythirteenversion\fontsize{9}{13}\fi\selectfont [3x]}}
+\end{english-hang}
+
+\else
 Namo tassa bhagavato arahato sammāsambuddhassa \hfill{[3x]}
 
 \begin{english-hang}
   Homage to the Blessed Worthy and Perfectly Enlightened One \hfill{\textnormal{\ifafiveversion\fontsize{12.5}{18}\fi\ifninebythirteenversion\fontsize{9}{13}\fi\selectfont [3x]}}
 \end{english-hang}
+\fi
 
 \suttaRef{[DN 21]}
 
@@ -382,9 +393,9 @@ Paccattaṁ veditabbo viññūhi
 
 Yo so supaṭipanno bhagavato sāvaka-saṅgho
 
-\begin{english}
+\begin{english-hang}
   They are the Blessed One's disciples who have practiced well
-\end{english}
+\end{english-hang}
 
 Uju-paṭipanno bhagavato sāvaka-saṅgho
 
@@ -593,15 +604,17 @@ Mā hontu ve tassa pabhāva-siddhiyā
   May all obstacles disappear
 \end{english}
 
+\begin{pali-hang}
 Idha tathāgato loke uppanno arahaṁ sammāsambuddho
+\end{pali-hang}
 
 \linkdest{endnote12-body}
-\begin{english}
+\begin{english-hang}
   One who knows things as they are \breathmark\ has arisen in this world\makeatletter\hyperlink{endnote12-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote12-appendix}{\hyperlink{endnote12-body}{``One who knows things as they are'' is an unusual translation for \textit{Tathāgata}. Also ``arisen in'' is better than ``has come into'', otherwise one might think that he has come from somewhere, already being a \textit{Tathāgata}.}}}}}\makeatother\\
 
   And he is an \textit{Arahant} \breathmark\ a perfectly awakened being
-\end{english}
+\end{english-hang}
 
 \begin{pali-hang}
   Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugata-ppavedito
@@ -650,11 +663,11 @@ Maraṇam'pi dukkhaṁ
 Soka-parideva-dukkha-domanass'upāyāsā'pi dukkhā
 
 \linkdest{endnote14-body}
-\begin{english}
+\begin{english-hang}
   Sorrow lamentation pain displeasure\ifdigitalversion\makeatletter\hyperlink{endnote14-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote14-appendix}{\hyperlink{endnote14-body}{WPN: ``grief''}}}}}\makeatother\fi
   and despair are dukkha
-\end{english}
+\end{english-hang}
 
 Appiyehi sampayogo dukkho
 
@@ -775,6 +788,8 @@ Saññā aniccā
 \begin{english}
   Perception is impermanent
 \end{english}
+
+\ifbfiveversion\clearpage\fi
 
 Saṅkhārā aniccā
 
@@ -958,9 +973,9 @@ Bhikkhūnaṁ sikkhā-sājīva-samāpannā
 
 Sammāsambuddho bhagavā
 
-\begin{english}
+\begin{english-hang}
   The Worthy One the Perfectly Enlightened and Blessed One
-\end{english}
+\end{english-hang}
 
 Buddhaṁ bhagavantaṁ abhivādemi
 

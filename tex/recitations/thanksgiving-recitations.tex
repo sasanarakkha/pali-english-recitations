@@ -6,22 +6,21 @@
 \fi
 
 \ifninebythirteenversion
-  \chapterOpeningPage{thanksgiving_recitations_9x13.jpg}
+  \chapterOpeningPage{thanksgiving_recitations_9x13.png}
 \fi
 
 \ifbfiveversion
-  \chapterOpeningPage{thanksgiving_recitations_B5.jpg}
+  \chapterOpeningPage{thanksgiving_recitations_B5.png}
 \fi
 
 \chapter{Thanksgiving Recitations}
 
 \ifbfiveversion
-  \includepdf[pages=-]{assets/graphics/brown-texture_B5.pdf}
+  \photoFullBleed{assets/images/B5/brown_divider_B5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=-]{assets/graphics/brown-texture_9x13.pdf}
-\fi
+  \photoFullBleed{assets/images/9x13/brown_divider_9x13.pdf}\fi
 
 \clearpage
 
@@ -197,6 +196,8 @@ Cattāro dhammā vaḍḍhanti
 \end{english}
 
 \suttaRef{[Dhp 109]}
+
+\ifninebythirteenversion\clearpage\fi
 
 Bhavatu sabba-maṅgalaṁ
 
@@ -479,7 +480,11 @@ Sadā sotthī bhavantu te
 
 
 \sectionSubTitle{Aggappasāda-sutta-gāthā}
+\ifninebythirteenversion
+\section[Verses from the Discourse on Confidence\\ in the Supreme]{Verses from the Discourse \mbox{on}~Confidence~in~the~Supreme}
+  \else
 \section{Verses from the Discourse \mbox{on}~Confidence~in~the~Supreme}
+\fi
 \label{confidence-in-supreme}
 
 \begin{pali-hang-together}
@@ -556,7 +561,11 @@ Sadā sotthī bhavantu te
 
 
 \sectionSubTitle{Kāla-dāna-sutta-gāthā}
+\ifninebythirteenversion
+\section[Verses from the Discourse on Giving\\ at the Proper Time]{Verses from the Discourse on Giving at the Proper Time}
+  \else
 \section{Verses from the Discourse on Giving at the Proper Time}
+\fi
 \label{giving-at-proper-time}
 
 \begin{pali-hang-together}

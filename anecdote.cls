@@ -1,4 +1,4 @@
-% A memoir-based documentclass with a contemporary style for books with a lighter content.
+% A -based documentclass with a contemporary style for books with a lighter content.
 
 % (c) Gambhiro Bhikkhu, 2017
 % gambhiro.bhikkhu.85@gmail.com
@@ -639,25 +639,26 @@
 {\endlist}% Ends the list for the quote environment
 
 % Define commands for including photos with full bleed
-% \ifbfiveversion
-\newcommand\photoFullBleed[1]{%
-	\AddToShipoutPictureFG*{%
-		\put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
-			\includegraphics[height={\paperheight + 6mm}]{#1}%
-		}%
-	}%
-}
-% \fi
+%% \newcommand\photoFullBleed[1]{%
+%% 	\AddToShipoutPictureFG*{%
+%% 		\put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
+%% 			\includegraphics[height={\paperheight + 6mm}]{#1}%
+%% 		}%
+%% 	}%
+%% }
 
-% \ifninebythirteenversion
-% \newcommand\photoFullBleed[1]{%
-% 	\AddToShipoutPictureFG*{%
-% 		\put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
-% 			\includegraphics[height={\paperheight + 6mm}]{#1}%
-% 		}%
-% 	}%
-% }
-% \fi
+\newcommand\photoFullBleed[1]{%
+  %% \clearpage
+  %% \thispagestyle{empty}
+  \AddToShipoutPictureFG*{%
+    \put(\LenToUnit{-2mm},\LenToUnit{-2mm}){%
+      \includegraphics[width=\paperwidth+4mm,
+                       height=\paperheight+4mm]{#1}%
+    }%
+  }%
+  \null
+  \clearpage
+}
 
 % Define a command to set the graphics for a chapter opening page
 \newcommand{\thechaptergraphics}{}
@@ -1591,7 +1592,7 @@
 	% Adjusted spacing and margins
 	\setlength{\vgap}{1.2em}
 	\setlength{\vindent}{\vgap}
-	\setlength{\vleftmargin}{1.5em}
+	\setlength{\vleftmargin}{0.5em}
 
 	\setlength{\parskip}{6pt}
 	\setlength{\parindent}{0pt}
@@ -1615,15 +1616,15 @@
 	\fi
 
 	% Adds to the inner margin to allow for the binding. This should be added after setting the page size, but before setting the margins.
-	% \setbinding{#1}
+	%% \setbinding{2mm}
 
 	% Page Margins
-	\settypeblocksize{23.75\baselineskip + \topskip}{77.5mm}{*}
-	\setlrmargins{*}{6mm}{*} % Adjusted for equal left and right margins
-	\setulmargins{*}{9mm}{1} % Adjusted for equal top and bottom margins
-	\setmarginnotes{6pt}{12pt}{5pt}
+	\settypeblocksize{23.75\baselineskip + \topskip}{72mm}{*}
+	\setlrmargins{9mm}{*}{1} % Adjusted for equal left and right margins
+	\setulmargins{*}{7.5mm}{1} % Adjusted for equal top and bottom margins
+	\setmarginnotes{0pt}{0pt}{0pt}
 
-	\setlength{\footskip}{12pt}
+	\setlength{\footskip}{0pt} % 12pt before
 
 	\addtolength{\headheight}{1pt}
 	\addtolength{\headsep}{-16pt}
@@ -1685,7 +1686,7 @@
 
 	% Page Margins
 	% Adapted for B5 size (176mm x 250mm)
-	\settypeblocksize{26.25\baselineskip + \topskip}{145mm}{*} % Increased width
+	\settypeblocksize{26.25\baselineskip + \topskip}{144mm}{*} % Increased width
 	\setlrmargins{*}{16mm}{*} % Adjusted for equal left and right margins, increased margin size
 	\setulmargins{*}{15mm}{1} % Adjusted for equal top and bottom margins, increased upper margin
 	\setmarginnotes{6pt}{12pt}{5pt}

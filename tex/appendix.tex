@@ -6,23 +6,22 @@
 \fi
 
 \ifninebythirteenversion
-  \chapterOpeningPage{appendix_9x13.jpg}
+  \chapterOpeningPage{appendix_9x13.png}
 \fi
 
 \ifbfiveversion
-  \chapterOpeningPage{appendix_B5.jpg}
+  \chapterOpeningPage{appendix_B5.png}
 \fi
 
 \ifafiveversion\addtocontents{toc}{\protect\clearpage}\fi
 \chapter{Appendix}
 
 \ifbfiveversion
-  \includepdf[pages=-]{assets/graphics/brown-texture_B5.pdf}
+  \photoFullBleed{assets/images/B5/brown_divider_B5.pdf}
 \fi
 
 \ifninebythirteenversion
-  \includepdf[pages=-]{assets/graphics/brown-texture_9x13.pdf}
-\fi
+  \photoFullBleed{assets/images/9x13/brown_divider_9x13.pdf}\fi
 
 \clearpage
 

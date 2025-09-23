@@ -11,7 +11,7 @@
 \fi
 \typeout{Set \protect\papersizeoption{} to \papersizeoption}
 
-% Add hyperlinks and illustrations, to be used with afiveVersion \papersizeoption
+% Add hyperlinks and images, to be used with afiveVersion \papersizeoption
 % Build command:
 % '\newcommand{\papersizeoption}{afiveVersion}\newcommand{\isdigitalversion}{}\input{main.tex}'
 \ifdefined\isdigitalversion
@@ -33,10 +33,10 @@
 
 % Define graphics path for images
 \graphicspath{
-  {./assets/illustrations/A5}
-  {./assets/illustrations/9x13}
-  {./assets/illustrations/B5}
-  {./assets/graphics}
+  {./assets/images/A5}
+  {./assets/images/9x13}
+  {./assets/images/B5}
+  {./assets/images/graphics}
 }
 
 % Loads formatting for selected ddocument class
@@ -50,8 +50,17 @@
 \author{SBS Monk Training Centre}
 \publisher{Sāsanārakkha Buddhist Sanctuary}
 \date{2021-10-30}
-\editionInfo{\textit{First Edition}, 2025}
-\ISBN{000-0-00000-000-0}
+\editionInfo{\textit{First Edition}, 2025} % And last edition. Don't call Pāladhammika.
+\newcommand{\MyISBN}{} % default empty
+
+\ifbfiveversion
+  \renewcommand{\MyISBN}{978-629-97831-1-4}
+\fi
+\ifninebythirteenversion
+  \renewcommand{\MyISBN}{978-629-97831-2-1}
+\fi
+
+\ISBN{\MyISBN}
 
 % Set metadata for PDF properties
 \hypersetup{
@@ -86,19 +95,19 @@
 
 % Digital version cover
 \ifdigitalversion
-	\digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/front_cover_compressed_A5.jpg}}
+	\digitalCover{\includegraphics[height=\paperheight]{./assets/images/A5/front_cover_compressed_A5.jpg}}
 \fi
 
 \ifninebythirteenversion
-  \photoFullBleed{./assets/illustrations/9x13/front_cover_9x13.jpg}
-\cleartoverso
-  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/civara_9x13.pdf}
+  \photoFullBleed{./assets/images/9x13/front_cover_9x13.png}
+  \photoFullBleed{robe_divider_left_9x13.png}
+  \photoFullBleed{robe_divider_right_9x13.png}
 \fi
 
 \ifbfiveversion
-  \photoFullBleed{./assets/illustrations/B5/front_cover_B5.jpg}
-\cleartoverso
-  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/civara_B5.pdf}
+  \photoFullBleed{./assets/images/B5/front_cover_B5.png}
+  \photoFullBleed{robe_divider_left_B5.png}
+  \photoFullBleed{robe_divider_right_B5.png}
 \fi
 
 % Title page, copyright, acknowledgments
@@ -153,32 +162,29 @@
 \input{./tex/copyright-details.tex}
 
 \ifbfiveversion
-  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/donor-list.pdf}
-  \newpage
-  \thispagestyle{empty}
-  \null
-  \newpage
-  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/civara_B5.pdf}
+  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/images/graphics/donor-list.pdf}
+  \photoFullBleed{robe_divider_left_B5.png}
+  \photoFullBleed{robe_divider_right_B5.png}
 \fi
 
 \ifninebythirteenversion
-\clearpage
-  \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/graphics/civara_9x13.pdf}
+  \photoFullBleed{robe_divider_left_9x13.png}
+  \photoFullBleed{robe_divider_right_9x13.png}
 \fi
 
 \emptyUntilEven % Add blank page if necessary
 
 \ifdigitalversion
   \clearpage
-  \digitalCover{\includegraphics[height=\paperheight]{./assets/illustrations/A5/back_cover_compressed_A5.jpg}}
+  \digitalCover{\includegraphics[height=\paperheight]{./assets/images/A5/back_cover_compressed_A5.jpg}}
 \fi
 
 \ifninebythirteenversion
-  \photoFullBleed{./assets/illustrations/9x13/back_cover_9x13.jpg}
+  \photoFullBleed{./assets/images/9x13/back_cover_9x13.png}
 \fi
 
 \ifbfiveversion
-  \photoFullBleed{./assets/illustrations/B5/back_cover_B5.jpg}
+  \photoFullBleed{./assets/images/B5/back_cover_B5.png}
 \fi
 
 \end{document}
