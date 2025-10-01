@@ -1966,6 +1966,8 @@ Saṅghaṁ namāmi
 
 \suttaRef{[AN 4.21]}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{verses}
   Na hi dhammo adhammo ca – Ubho sama-vipākino\\
   Adhammo nirayaṁ neti – Dhammo pāpeti suggatiṁ
@@ -2099,6 +2101,8 @@ Saṅghaṁ namāmi
 \end{pali-hang-together}
 
 \else
+
+\ifbfiveversion\clearpage\fi
 
 \begin{verses}
   Dukkhaṁ dukkha-samuppādaṁ – Dukkhassa ca atikkamaṁ\\
@@ -2317,6 +2321,8 @@ Etaṁ buddhāna'sāsanaṁ
 
 \ifninebythirteenversion\clearpage\fi
 
+\ifbfiveversion\clearpage\fi
+
 \begin{verses}
   Appakā te manussesu – Ye janā pāra-gāmino\\
   Ath'āyaṁ itarā pajā – Tīram'ev'ānudhāvati
@@ -2521,6 +2527,8 @@ Etaṁ buddhāna'sāsanaṁ
   But not a seeker of the far shore
 \end{english-verses}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{verses}
   Aṭṭha-pada-katā kesā – Nettā añjana-makkhitā\\
   Alaṁ bālassa mohāya – No ca pāragavesino
@@ -2688,12 +2696,12 @@ Etaṁ buddhāna'sāsanaṁ
   Without greed or gluttony
 \end{english-verses}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{verses}
   Jīvitānaṁ parikkhāre – Bhesajje atha paccaye\\
   Na bāḷhaṁ ussukā āsuṁ – Yathā te āsavakkhaye
 \end{verses}
-
-\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   They were not so eager\\
@@ -2738,7 +2746,7 @@ Etaṁ buddhāna'sāsanaṁ
   As a stream of oil
 \end{english-verses}
 
-% \ifbfiveversion\clearpage\fi
+\ifbfiveversion\clearpage\fi
 
 \begin{verses}
   Yathā kaṇṭaka-ṭṭhānamhi – Careyya anupāhano\\
@@ -2836,12 +2844,12 @@ Etaṁ buddhāna'sāsanaṁ
   Which having done one won't regret
 \end{english-verses}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{verses}
   Kuso yathā duggahito – Hattham'ev'ānukantati\\
   Sāmaññaṁ dupparāmaṭṭhaṁ – Nirayāy'ūpakaḍḍhati
 \end{verses}
-
-\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   As kusa grass when wrongly grasped\\
@@ -3030,6 +3038,8 @@ Etaṁ buddhāna'sāsanaṁ
   Tarath'etaṁ visattikaṁ – Khaṇo vo mā upaccagā\\
   Khaṇ'ātītā hi socanti – Nirayamhi samappitā
 \end{verses}
+
+\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   Cross over this attachment\\
@@ -3245,12 +3255,12 @@ Etaṁ buddhāna'sāsanaṁ
   Indeed one cannot strike a deal
 \end{english-verses}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{verses}
   Evaṁ vihārim'ātāpiṁ – Aho-rattam'atanditaṁ\\
   Taṁ ve bhadd'eka-ratto'ti – Santo ācikkhate muni
 \end{verses}
-
-\ifbfiveversion\clearpage\fi
 
 \linkdest{endnote44-body}
 \linkdest{endnote45-body}
@@ -3323,6 +3333,8 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{english-only}
   Accomplished in learning and craftsman's skills\\
   With discipline highly trained\\
@@ -3377,6 +3389,8 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
+\ifbfiveversion\clearpage\fi
+
 \linkdest{endnote48-body}
 \begin{english-only}
   Ardent and committed \ifdigitalversion\makeatletter\hyperlink{endnote48-appendix}\Hy@raisedlink{{\pagenote{%
@@ -3386,7 +3400,6 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
-\ifbfiveversion\clearpage\fi
 \ifafiveversion\clearpage\fi
 
 \begin{english-only}
@@ -4074,6 +4087,8 @@ Taṁ kho pan'idaṁ dukkha-samudayo ariya-saccaṁ pahīnan'ti
   This origin of dukkha\\
   Has been abandoned
 \end{english}
+
+\ifbfiveversion\clearpage\fi
 
 Idaṁ dukkha-nirodho ariya-saccan'ti me bhikkhave\\
 Pubbe ananussutesu dhammesu\\
@@ -6476,6 +6491,8 @@ Tattha katamaṁ dukkhaṁ?
   Therein what is `pain'?
 \end{english}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{pali-hang}
   Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ \breathmark\ kāya-samphassa-jaṁ asātaṁ dukkhaṁ vedayitaṁ \breathmark\ kāya-samphassa-jā asātā dukkhā vedanā
 \end{pali-hang}
@@ -7664,6 +7681,8 @@ Sarīre upasussatu maṁsa-lohitaṁ
   And let the flesh and blood in this body wither away
 \end{english}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{pali-hang}
   Yaṁ taṁ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṁ\\
 \end{pali-hang}
@@ -7730,13 +7749,13 @@ Na bhikkhave hīnena aggassa patti hoti
   Bhikkhus it is not by lower means that the supreme is attained
 \end{english-hang}
 
+\ifbfiveversion\clearpage\fi
+
 Aggena ca kho bhikkhave aggassa patti hoti
 
 \begin{english-hang}
   But bhikkhus it is by the supreme that the supreme is attained
 \end{english-hang}
-
-\ifbfiveversion\clearpage\fi
 
 Maṇḍapeyyam'idaṁ bhikkhave brahmacariyaṁ
 
@@ -7794,6 +7813,8 @@ Saphalā saudrayā
 \begin{english}
   But will become fruitful and fertile
 \end{english}
+
+\ifbfiveversion\clearpage\fi
 
 Yesaṁ mayaṁ paribhuñjāma\\
 Cīvara-piṇḍapāta\\
@@ -7859,6 +7880,8 @@ Alam'eva appamādena sampādetun'ti\ifdigitalversion\makeatletter\hyperlink{endn
 \begin{english}
   It is enough to strive for the goal without negligence
 \end{english}
+
+\ifbfiveversion\enlargethispage{1\baselineskip}\fi
 
 \suttaRef{[SN 12.22]}
 
@@ -8342,6 +8365,8 @@ Tassa dāy'ādā bhavissanti
 
 \smallskip
 
+\ifbfiveversion\clearpage\fi
+
 \begin{english-hang}
   I will abide pervading one quarter with a heart imbued with equanimity
 \end{english-hang}
@@ -8404,6 +8429,8 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
   Will become otherwise\\
   Will become separated from me
 \end{english}
+
+\ifbfiveversion\clearpage\fi
 
 \begin{pali-hang}
   Kamma-ssako'mhi kamma-dāy'ādo kamma-yoni kamma-bandhu kamma-paṭisaraṇo\\
@@ -10641,7 +10668,6 @@ Sadā sotthī bhavantu te
   Saha sabbehi ñātibhi
 \end{verses}
 
-
 \begin{english-verses}
   \anglebracketleft\ \hspace{-0.5mm}One who gives food to another \hspace{-0.5mm}\anglebracketright\ \\
   Gives to the other five things too\\
@@ -10866,6 +10892,8 @@ Sadā sotthī bhavantu te
   Do not miss out on the offering;\\
   They too partake of the merit.
 \end{english-verses}
+
+\ifbfiveversion\clearpage\fi
 
 \begin{pali-hang}
   Tasmā dade appaṭivāna-citto\\
