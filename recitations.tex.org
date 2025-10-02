@@ -589,7 +589,7 @@ Once again, we can see the immense emphasis that was placed on memorization and 
 
 \subsection*{What to Recite}
 
-While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is to select the texts for recitation and memorization from the vast amount of teachings the Buddha left behind. What is essential? What is of secondary importance? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}). Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are \hyperref[wheel-of-dhamma-full]{The Discourse on Turning the Wheel of Dhamma} (\hyperref[dhammacakkappavattana-full]{\textit{Dhammacakkappavattana Sutta}}), \hyperref[gradual-training]{The Gradual Training}, and \hyperref[dhamma-in-brief]{The Dhamma in Brief}. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly as well as further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
+While recitation and memorization of the Dhamma yields several benefits, and one may be committed to dedicate some amount of time to this worthwhile endeavor, one important task remains. Given the limited amount of texts one may be able to memorize and maintain in memory, the task is to select the texts for recitation and memorization from the vast amount of teachings the Buddha left behind. What is essential? What is of secondary importance? Once again, we are in the fortunate situation that the Buddha himself gave guidance in what he regarded as the core teachings. In MN 104 the Buddha points to a set of 37 teachings, commonly known as the ``Wings of Awakening'' (\textit{bodhipakkhiyā dhammā}).\ifbfiveversion\clearpage\fi Included in these 37 Dhammas are the four foundations of mindfulness, the four right strivings, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. (DN 16). Other teachings that are commonly held in high esteem are \hyperref[wheel-of-dhamma-full]{The Discourse on Turning the Wheel of Dhamma} (\hyperref[dhammacakkappavattana-full]{\textit{Dhammacakkappavattana Sutta}}), \hyperref[gradual-training]{The Gradual Training}, and \hyperref[dhamma-in-brief]{The Dhamma in Brief}. All of these are teachings that can help the earnest practitioner to gain an overview of the Dhamma and one's path to liberation. Practicing accordingly as well as further recollection and recitation of such teachings also helps to correctly assess one's own progress on the path.
 
 Besides these general teachings, the Buddha also went into great depth in explaining the most profound doctrines, some of which are related to the conceptual framework surrounding the practice, while others are directly related to formal meditation. Early sermons that stand out in this context are \hyperref[characteristic-of-not-self]{The Discourse on the Characteristics of Not-Self} (\hyperref[anatta-lakkhana]{\textit{Anatta-lakkhaṇa Sutta}}), \hyperref[exposition-on-burning]{The Discourse on the Exposition on Burning} (\hyperref[aditta-pariyaya]{\textit{Āditta-Pariyāya Sutta}}), the Buddha's \hyperref[buddhas-first-exclamation]{First} and \hyperref[buddhas-final-instruction]{Final} Words, \hyperref[mindfulness-of-breathing]{Mindfulness of Breathing}, and \hyperref[dependent-origination]{Dependent Origination}. All of these are profound, deep teachings that highlight key aspects of the path to awakening. These are teachings that are good to memorize and recite again and again (AN 10.48), allowing their deep meaning to gradually seep into our hearts.
 
@@ -1974,7 +1974,6 @@ Saṅghaṁ namāmi
 \end{verses}
 
 \ifafiveversion\clearpage\fi
-\ifbfiveversion\clearpage\fi
 
 \linkdest{endnote29-body}
 \linkdest{endnote30-body}
@@ -2565,14 +2564,14 @@ Etaṁ buddhāna'sāsanaṁ
   Yearning for ever more sense pleasures
 \end{english-verses}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{verses}
   Rājā ca aññe ca bahū manussā\\
   Avītataṇhā maraṇaṁ upenti\\
   Ūnā'va hutvāna jahanti dehaṁ\\
   Kāmehi lokamhi na h'atthi titti
 \end{verses}
-
-\ifbfiveversion\clearpage\fi
 
 \begin{english-verses}
   Not just the king but others too\\
@@ -3039,6 +3038,8 @@ Etaṁ buddhāna'sāsanaṁ
   Khaṇ'ātītā hi socanti – Nirayamhi samappitā
 \end{verses}
 
+\ifbfiveversion\enlargethispage{1.5\baselineskip}\fi
+
 \begin{english-verses}
   Cross over this attachment\\
   By which devas and human beings\\
@@ -3337,7 +3338,6 @@ Etaṁ buddhāna'sāsanaṁ
   Accomplished in learning and craftsman's skills\\
   With discipline highly trained\\
   \ifafiveversion\clearpage\fi
-\ifbfiveversion\clearpage\fi
   And speech that is true and pleasant to hear\\
   These are the highest blessings
 \end{english-only}
@@ -3387,6 +3387,8 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
+\ifbfiveversion\enlargethispage{1\baselineskip}\fi
+
 \linkdest{endnote48-body}
 \begin{english-only}
   Ardent and committed \ifdigitalversion\makeatletter\hyperlink{endnote48-appendix}\Hy@raisedlink{{\pagenote{%
@@ -3396,7 +3398,6 @@ Etaṁ buddhāna'sāsanaṁ
   These are the highest blessings
 \end{english-only}
 
-\ifbfiveversion\clearpage\fi
 \ifafiveversion\clearpage\fi
 
 \begin{english-only}
@@ -4209,6 +4210,8 @@ Anuttaraṁ sammā-sambodhiṁ abhisambuddho\makeatletter\hyperlink{endnote58-ap
       \hypertarget{endnote58-appendix}{\hyperlink{endnote58-body}{Instead of the nominative ``\textit{abhisambuddo}'' (Thai and Buddha Jayanti Pāli edition), one would usually expect the accusative or a quotation here, which is indeed what is found in the PTS and Chatta Saṅgāyana editions, giving ``\textit{abhisambuddho'ti}.'' However, the anomalous reading ``\textit{abhisambuddho}'' finds support from \textit{Mahāvasutu}: ``\textit{yāvac cāhaṁ bhikṣavaḥ imāni catvāry āryasatyāni evaṁ triparivartaṁ dvādaśākāraṁ yathā-bhūtaṁ samyakprajñayā nābhyajñāsiṣaṁ na tāvad ahaṁ anuttarāṁ samyaksaṁbodhim abhisaṁbuddho pratijānehaṁ}'', which according to Ven. Ānandajoti probably indicates that ``\textit{abhisambuddho}'' is an old/original reading.}}}}}\makeatother \thinspace
 paccaññāsiṁ
 \end{pali-hang-together}
+
+\ifbfiveversion\enlargethispage{1\baselineskip}\fi
 
 \begin{english-verses}
   I did not claim bhikkhus\\
@@ -5103,22 +5106,25 @@ Katamo ca bhikkhave sammā-vāyāmo
   And what bhikkhus is Right Effort?
 \end{english}
 
-Idha bhikkhave bhikkhu\\
+\begin{pali-hang}
+Idha bhikkhave bhikkhu
+\end{pali-hang}
 \begin{pali-hang-together}
-Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya\\
+Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya
 \end{pali-hang-together}
 \begin{pali-hang-together}
-Chandaṁ janeti\\
+Chandaṁ janeti
 \end{pali-hang-together}
 \begin{pali-hang-together}
-Vāyamati\\
+Vāyamati
 \end{pali-hang-together}
 \begin{pali-hang-together}
-Vīriyaṁ ārabhati\\
+Vīriyaṁ ārabhati
 \end{pali-hang-together}
 \begin{pali-hang-together}
 Cittaṁ paggaṇhāti padahati
 \end{pali-hang-together}
+
 
 \begin{english-verses}
   Here bhikkhus a bhikkhu awakens zeal\\
@@ -5129,18 +5135,19 @@ Cittaṁ paggaṇhāti padahati
   And strives
 \end{english-verses}
 
+\ifbfiveversion\enlargethispage{1\baselineskip}\fi
+
 \begin{pali-hang}
-Uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya\\
+Uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya
 \end{pali-hang}
 \begin{pali-hang-together}
-Chandaṁ janeti\\
+Chandaṁ janeti
 \end{pali-hang-together}
 \begin{pali-hang-together}
-Vāyamati\\
+Vāyamati
 \end{pali-hang-together}
-\ifbfiveversion\clearpage\fi
 \begin{pali-hang-together}
-Vīriyaṁ ārabhati\\
+Vīriyaṁ ārabhati
 \end{pali-hang-together}
 \begin{pali-hang-together}
 Cittaṁ paggaṇhāti padahati
@@ -6446,6 +6453,8 @@ Tattha katamo soko
 \begin{pali-hang}
   Ñāti-byasanena vā phuṭṭhassa bhoga-byasanena vā phuṭṭhassa roga-byasanena vā phuṭṭhassa sīla-byasanena vā phuṭṭhassa diṭṭhi-byasanena vā phuṭṭhassa \breathmark\ aññatar'aññatarena byasanena samannāgatassa aññatar'aññatarena dukkha-dhammena \mbox{phuṭṭhassa}~\breathmark\ soko socanā socitattaṁ \breathmark\ antosoko antoparisoko cetaso parijjhāyanā domanassaṁ sokasallaṁ
 \end{pali-hang}
+
+\ifbfiveversion\enlargethispage{1\baselineskip}\fi
 
 \linkdest{endnote84-body}
 \begin{english-hang-verses}
@@ -7792,7 +7801,7 @@ Asacchikatassa sacchikiriyāya
 
 `Evaṁ no ayaṁ amhākaṁ pabbajjā\\
 \linkdest{endnote90-body}
-Avaṅkatā avañjhā\ifdigitalversion\makeatletter\hyperlink{endnote90-appendix}\Hy@raisedlink{{\pagenote{%
+Avaṅkatā avañjhā \ifdigitalversion\makeatletter\hyperlink{endnote90-appendix}\Hy@raisedlink{{\pagenote{%
       \hypertarget{endnote90-appendix}{\hyperlink{endnote90-body}{WPN: ``\textit{avaññā}''}}}}}\makeatother \thinspace\fi
 bhavissati
 
@@ -9360,6 +9369,8 @@ Tesaṁ vūpasamo sukho
   ``Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye \breathmark\ anuttaraṁ dhamma-cakkaṁ pavattitaṁ appaṭivattiyaṁ \breathmark\ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin''ti
 \end{pali-hang}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{pali-hang}
   Itiha tena khaṇena tena muhuttena  yāva brahmalokā saddo abbhuggacchi. Ayañ'ca dasasahassī lokadhātu saṅkam'pi sampakam'pi sampavedhi \breathmark\ appamāṇo ca oḷāro obhāso loke pāturahosi atikkamm'eva devānaṁ dev'ānubhāvaṁ
 \end{pali-hang}
@@ -9782,7 +9793,16 @@ Atha kho bhagavā udānaṁ udānesi:
 
 #+begin_src latex :tangle ./tex/recitations/cardinal-discourses/anattalakkhana-eng.tex
 
+\ifbfiveversion
+
+\section{The Discourse on the Characteristic \mbox{of}~Not-Self}
+
+\else
+
 \section{The Discourse on the Characteristic of Not-Self}
+
+\fi
+
 \label{characteristic-of-not-self}
 
 \begin{leader-english}
@@ -11039,8 +11059,8 @@ Sadā sotthī bhavantu te
   Avikkhitta-cittā parittaṁ bhaṇantu\\
   Sagge kāme ca rūpe giri-sikhara-taṭe c'antalikkhe vimāne\\
   Dīpe raṭṭhe ca gāme taru-vana-gahane geha-vatthumhi khette\\
-  Bhummā c'āyantu devā jala-thala-visame yakkha-gandhabba-nāgā\\
-  Tiṭṭhantā santike yaṁ muni-vara-vacanaṁ sādhavo me suṇantu\\
+  \mbox{Bhummā c'āyantu devā jala-thala-visame yakkha-gandhabba-nāgā}\\
+  \mbox{Tiṭṭhantā santike yaṁ muni-vara-vacanaṁ sādhavo me suṇantu}\\
   Buddha-dassana-kālo ayam'bhadantā\\
   \linkdest{endnote125-body}
   Dhamma-ssavana-kālo ayam'bhadantā\makeatletter\hyperlink{endnote125-appendix}\Hy@raisedlink{{\pagenote{%
@@ -11058,11 +11078,10 @@ Sadā sotthī bhavantu te
   In islands, countries, \& towns,\\
   In groves of trees \& thickets,\\
   Around homesites \& fields.\\
-  And the earth-devas, spirits, heavenly minstrels,\\ \& nāgas who are nearby,\\
+  \mbox{And the earth-devas, spirits, heavenly minstrels, \& nāgas who are nearby,}\\
   In different waters and lands:\\
   May they come \& listen with approval as I recite\\ the word of the excellent sage.\\
 \ifafiveversion\clearpage\fi
-\ifbfiveversion\clearpage\fi
   This is the time to see the Buddha, venerable sirs.\\
   This is the time to listen to the Dhamma, venerable sirs.\\
   This is the time to attend to the Saṅgha, venerable sirs.
@@ -11104,6 +11123,8 @@ Sadā sotthī bhavantu te
 
 \suttaRef{[DN 21]}
 
+\clearpage
+
 #+end_src
 
 ** Passage on Going for Refuge
@@ -11139,8 +11160,6 @@ Sadā sotthī bhavantu te
   A second time, to the Dhamma I go for refuge.\\
   A second time, to the Saṅgha I go for refuge.
 \end{english-verses}
-
-\ifbfiveversion\clearpage\fi
 
 \begin{pali-hang-continued}
   Tatiyam'pi buddhaṁ saraṇaṁ gacchāmi\\
@@ -11385,10 +11404,10 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \begin{english-verses}
-  Residing in a suitable place\\
-  Merit done in the past\\
-  And directing oneself rightly\\
-  This is the highest blessing
+  Residing in a suitable place,\\
+  Merit done in the past,\\
+  And directing oneself rightly:\\
+  This is the highest blessing.
 \end{english-verses}
 
 \begin{pali-hang-continued}
@@ -12267,9 +12286,9 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Sakkatvā buddha-ratanaṁ\\
   \linkdest{endnote127-body}
-  Osadhaṁ\ifdigitalversion\makeatletter\hyperlink{endnote127-appendix}\Hy@raisedlink{{\pagenote{%
+  Osadhaṁ \ifdigitalversion\makeatletter\hyperlink{endnote127-appendix}\Hy@raisedlink{{\pagenote{%
         \hypertarget{endnote127-appendix}{\hyperlink{endnote127-body}{WPN: ``\textit{Osathaṁ}.'' \textit{Osatha} is not a word found in Pāli dictionaries, but ``\textit{osadha}'' (medicine) is. The spelling ``\textit{osatha}'' is due to a faulty transliteration, influenced by Thai style of Pāli pronunciation, where ``d'' often becomes ``t.'' The \textit{Mahā-jaya-maṅgala-gāthā} was originally composed in Sri Lanka. The Sri Lankan version indeed speaks of ``\textit{osadha}'', thus confirming above explanation for the spelling error.}}}}}\makeatother\fi
-  uttamaṁ varaṁ\\
+uttamaṁ varaṁ\\
   Hitaṁ deva-manussānaṁ\\
   Buddha-tejena sotthinā\\
   Nassant'upaddavā sabbe\\
@@ -12934,6 +12953,8 @@ Sadā sotthī bhavantu te
   May you always be at ease.
 \end{english-verses}
 
+\ifbfiveversion\vspace{-0.25cm}\fi
+
 \suttaRef{[MJG]}
 
 \ifdigitalversion\bottomNav{sharing-merits-departed}\fi
@@ -13429,6 +13450,8 @@ Sadā sotthī bhavantu te
   \end{pali-hang-together}
 \end{pali-hang-continued}
 
+\ifbfiveversion\clearpage\fi
+
 \begin{english-verses}
   With ignorance as condition, volitional formations;\\
   With volitional formations as condition, consciousness;\\
@@ -13470,6 +13493,8 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifninebythirteenversion\clearpage\fi
+\ifbfiveversion\clearpage\fi
+
 
 \begin{english-verses}
   \begin{english-hang-first-line}
@@ -13730,6 +13755,8 @@ Sadā sotthī bhavantu te
   \ifbfiveversion\enlargethispage{2\baselineskip}\fi
   May you always be at ease.
 \end{english-verses}
+
+\ifbfiveversion\vspace{-0.25cm}\fi
 
 \suttaRef{[MJG]}
 
@@ -14046,64 +14073,6 @@ Sabba-sampatti-siddhiyā
 \ifdigitalversion\bottomNav{closing-homage}\fi
 
 #+end_src
-
-#+RESULTS:
-#+begin_example
-\sectionSubTitle{Devata-patti-dāna}
-\section{Sharing of Merits with the Devas}
-\label{sharing-merits-devas}
-
-\begin{leader-only}
-  \anglebracketleft\ \hspace{-0.5mm}Ettāvatā ca amhehi \hspace{-0.5mm}\anglebracketright\
-\end{leader-only}
-
-\vspace{-0.99em}
-
-Sambhataṁ puñña-sampadaṁ\\
-Sabbe devā anumodantu\\
-Sabba-sampatti-siddhiyā
-
-Ettāvatā ca amhehi\\
-Sambhataṁ puñña-sampadaṁ\\
-Sabbe bhūtā anumodantu\\
-Sabba-sampatti-siddhiyā
-
-Ettāvatā ca amhehi\\
-Sambhataṁ puñña-sampadaṁ\\
-Sabbe sattā anumodantu\\
-Sabba-sampatti-siddhiyā
-
-\ifdigitalversion\bottomNav{closing-homage}\fi
-
-\ifafiveversion\clearpage\fi
-
-\begin{english-verses}
-  To the extent that all of us\\
-  Have accumulated a wealth of merits;\\
-  In this may all devas rejoice,\\
-  For the attainment of all fortunes.
-\end{english-verses}
-
-\begin{english-verses}
-  To the extent that all of us\\
-  Have accumulated a wealth of merits;\\
-\ifninebythirteenversion\clearpage\fi
-  In this may all beings rejoice,\\
-  For the attainment of all fortunes.
-\end{english-verses}
-
-\begin{english-verses}
-  To the extent that all of us\\
-  Have accumulated a wealth of merits;\\
-  \ifbfiveversion\enlargethispage{1\baselineskip}\fi
-  In this may all creatures rejoice,\\
-  For the attainment of all fortunes.
-\end{english-verses}
-
-\suttaRef{[MJG]}
-
-\ifdigitalversion\bottomNav{closing-homage}\fi
-#+end_example
 
 ** The Highest Honour and Aspirations
 
