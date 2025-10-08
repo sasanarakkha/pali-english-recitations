@@ -15,20 +15,20 @@
 \ProvidesClass{anecdote}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
 
 % Define a conditional for the digital version
-\newif\ifdigitalversion
-\digitalversionfalse
+\newif\ifdigital
+\digitalfalse
 
 % Define a conditional for the A5 version formatting
-\newif\ifafiveversion
-\afiveversionfalse
+\newif\ifafive
+\afivefalse
 
 % Define a conditional for the 9x13 version formatting
-\newif\ifninebythirteenversion
-\ninebythirteenversionfalse
+\newif\ifninebythirteen
+\ninebythirteenfalse
 
 % Define a conditional for the B5 version formatting
-\newif\ifbfiveversion
-\bfiveversionfalse
+\newif\ifbfive
+\bfivefalse
 
 
 % Load the pgfopts package, which provides a key-value interface for package options
@@ -45,13 +45,13 @@
 	% Store the value of babelLanguage in \BOOK@babelLanguage
 	babelLanguage/.store in=\BOOK@babelLanguage,
 	% Set digitalVersion to true if specified in options
-	digitalVersion/.code=\digitalversiontrue,
+	digitalVersion/.code=\digitaltrue,
 	% Set A5 Version to true if specified in options
-	afiveVersion/.code=\afiveversiontrue,
+	afiveVersion/.code=\afivetrue,
 	% Set 9x13 Version to true if specified in options
-	ninebythirteenVersion/.code=\ninebythirteenversiontrue,
+	ninebythirteenVersion/.code=\ninebythirteentrue,
 	% Set B5 Version to true if specified in options
-	bfiveVersion/.code=\bfiveversiontrue,
+	bfiveVersion/.code=\bfivetrue,
 }
 
 % Pass all unknown options to the memoir class
@@ -66,7 +66,7 @@
 \ProcessOptions\relax
 
 % Load the digital version
-\ifdigitalversion
+\ifdigital
 	% Using 11pt font size, single-sided printing, and the use of old font commands
 	\LoadClass[11pt,oneside,oldfontcommands]{memoir}
 \else
@@ -275,74 +275,74 @@
 
 % Define font sizes for different elements in the document.
 % Chapter name size
-\ifafiveversion\newcommand{\chapterNameSize}{\@setfontsize                    \chapterNameSize          {22}{24}}\fi
-\ifninebythirteenversion\newcommand{\chapterNameSize}{\@setfontsize           \chapterNameSize          {16}{18}}\fi
-\ifbfiveversion\newcommand{\chapterNameSize}{\@setfontsize                    \chapterNameSize          {16}{18}}\fi
+\ifafive\newcommand{\chapterNameSize}{\@setfontsize                    \chapterNameSize          {22}{24}}\fi
+\ifninebythirteen\newcommand{\chapterNameSize}{\@setfontsize           \chapterNameSize          {16}{18}}\fi
+\ifbfive\newcommand{\chapterNameSize}{\@setfontsize                    \chapterNameSize          {16}{18}}\fi
 
 % Chapter number size
-\ifafiveversion\newcommand{\chapterNumberSize}{\@setfontsize                  \chapterNumberSize        {20}{20}}\fi
-\ifninebythirteenversion\newcommand{\chapterNumberSize}{\@setfontsize         \chapterNumberSize        {14}{14}}\fi
-\ifbfiveversion\newcommand{\chapterNumberSize}{\@setfontsize                  \chapterNumberSize        {16}{16}}\fi
+\ifafive\newcommand{\chapterNumberSize}{\@setfontsize                  \chapterNumberSize        {20}{20}}\fi
+\ifninebythirteen\newcommand{\chapterNumberSize}{\@setfontsize         \chapterNumberSize        {14}{14}}\fi
+\ifbfive\newcommand{\chapterNumberSize}{\@setfontsize                  \chapterNumberSize        {16}{16}}\fi
 
 % Chapter title size ie 'Recitation Schedule, Purpose and Benefits...'
-\ifafiveversion\newcommand{\chapterTitleSize}{\@setfontsize                   \chapterTitleSize         {19}{19}}\fi
-\ifninebythirteenversion\newcommand{\chapterTitleSize}{\@setfontsize          \chapterTitleSize         {13}{13}}\fi
-\ifbfiveversion\newcommand{\chapterTitleSize}{\@setfontsize                   \chapterTitleSize         {22}{22}}\fi
+\ifafive\newcommand{\chapterTitleSize}{\@setfontsize                   \chapterTitleSize         {19}{19}}\fi
+\ifninebythirteen\newcommand{\chapterTitleSize}{\@setfontsize          \chapterTitleSize         {13}{13}}\fi
+\ifbfive\newcommand{\chapterTitleSize}{\@setfontsize                   \chapterTitleSize         {22}{22}}\fi
 
 % Chapter title footnote size
-\ifafiveversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize           \chapterTitleFootnoteSize {16}{30}}\fi
-\ifninebythirteenversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize  \chapterTitleFootnoteSize {11}{21}}\fi
-\ifbfiveversion\newcommand{\chapterTitleFootnoteSize}{\@setfontsize           \chapterTitleFootnoteSize {16}{21}}\fi
+\ifafive\newcommand{\chapterTitleFootnoteSize}{\@setfontsize           \chapterTitleFootnoteSize {16}{30}}\fi
+\ifninebythirteen\newcommand{\chapterTitleFootnoteSize}{\@setfontsize  \chapterTitleFootnoteSize {11}{21}}\fi
+\ifbfive\newcommand{\chapterTitleFootnoteSize}{\@setfontsize           \chapterTitleFootnoteSize {16}{21}}\fi
 
 % Chapter author size
-\ifafiveversion\newcommand{\chapterAuthorSize}{\@setfontsize                  \chapterAuthorSize        {12}{14}}\fi
-\ifninebythirteenversion\newcommand{\chapterAuthorSize}{\@setfontsize         \chapterAuthorSize        {8.5}{10}}\fi
-\ifbfiveversion\newcommand{\chapterAuthorSize}{\@setfontsize                  \chapterAuthorSize        {8.5}{10}}\fi
+\ifafive\newcommand{\chapterAuthorSize}{\@setfontsize                  \chapterAuthorSize        {12}{14}}\fi
+\ifninebythirteen\newcommand{\chapterAuthorSize}{\@setfontsize         \chapterAuthorSize        {8.5}{10}}\fi
+\ifbfive\newcommand{\chapterAuthorSize}{\@setfontsize                  \chapterAuthorSize        {8.5}{10}}\fi
 
 % Chapter note size
-\ifafiveversion\newcommand{\chapterNoteSize}{\@setfontsize                    \chapterNoteSize          {13}{15}}\fi
-\ifninebythirteenversion\newcommand{\chapterNoteSize}{\@setfontsize           \chapterNoteSize          {9}{11}}\fi
-\ifbfiveversion\newcommand{\chapterNoteSize}{\@setfontsize                    \chapterNoteSize          {9}{11}}\fi
+\ifafive\newcommand{\chapterNoteSize}{\@setfontsize                    \chapterNoteSize          {13}{15}}\fi
+\ifninebythirteen\newcommand{\chapterNoteSize}{\@setfontsize           \chapterNoteSize          {9}{11}}\fi
+\ifbfive\newcommand{\chapterNoteSize}{\@setfontsize                    \chapterNoteSize          {9}{11}}\fi
 
 % Footer size
-\ifafiveversion\newcommand{\footerSize}{\@setfontsize                         \footerSize               {11}{8}}\fi
-\ifninebythirteenversion\newcommand{\footerSize}{\@setfontsize                \footerSize               {8}{6}}\fi
-\ifbfiveversion\newcommand{\footerSize}{\@setfontsize                         \footerSize               {14}{8}}\fi
+\ifafive\newcommand{\footerSize}{\@setfontsize                         \footerSize               {11}{8}}\fi
+\ifninebythirteen\newcommand{\footerSize}{\@setfontsize                \footerSize               {8}{6}}\fi
+\ifbfive\newcommand{\footerSize}{\@setfontsize                         \footerSize               {14}{8}}\fi
 
 % Header size
-\ifafiveversion\newcommand{\headerSize}{\@setfontsize                         \headerSize               {11}{2}}\fi
-\ifninebythirteenversion\newcommand{\headerSize}{\@setfontsize                \headerSize               {8}{1.5}}\fi
-\ifbfiveversion\newcommand{\headerSize}{\@setfontsize                         \headerSize               {13}{2}}\fi
+\ifafive\newcommand{\headerSize}{\@setfontsize                         \headerSize               {11}{2}}\fi
+\ifninebythirteen\newcommand{\headerSize}{\@setfontsize                \headerSize               {8}{1.5}}\fi
+\ifbfive\newcommand{\headerSize}{\@setfontsize                         \headerSize               {13}{2}}\fi
 
 % Table of Contents size
-\ifafiveversion\newcommand{\tocSize}{\@setfontsize                            \tocSize                  {19}{14}}\fi
-\ifninebythirteenversion\newcommand{\tocSize}{\@setfontsize                   \tocSize                  {25}{10}}\fi
-\ifbfiveversion\newcommand{\tocSize}{\@setfontsize                            \tocSize                  {25}{10}}\fi
+\ifafive\newcommand{\tocSize}{\@setfontsize                            \tocSize                  {19}{14}}\fi
+\ifninebythirteen\newcommand{\tocSize}{\@setfontsize                   \tocSize                  {25}{10}}\fi
+\ifbfive\newcommand{\tocSize}{\@setfontsize                            \tocSize                  {25}{10}}\fi
 
 % Section font size in Table of Contents
 % e.g. 'Dedication of Offerings'
-\ifafiveversion\newcommand{\tocSectionSize}{\@setfontsize                     \tocSectionSize           {12.5}{15}}\fi
-\ifninebythirteenversion\newcommand{\tocSectionSize}{\@setfontsize            \tocSectionSize           {9}{11}}\fi
-\ifbfiveversion\newcommand{\tocSectionSize}{\@setfontsize                     \tocSectionSize           {15}{20}}\fi
+\ifafive\newcommand{\tocSectionSize}{\@setfontsize                     \tocSectionSize           {12.5}{15}}\fi
+\ifninebythirteen\newcommand{\tocSectionSize}{\@setfontsize            \tocSectionSize           {9}{11}}\fi
+\ifbfive\newcommand{\tocSectionSize}{\@setfontsize                     \tocSectionSize           {15}{20}}\fi
 
 % Subsection font size in Table of Contents
 % e.g. 'Undertaking the Three Refuges'
-\ifafiveversion\newcommand{\tocSubsectionSize}{\@setfontsize                  \tocSubsectionSize        {11}{11}}\fi
-\ifninebythirteenversion\newcommand{\tocSubsectionSize}{\@setfontsize         \tocSubsectionSize        {8}{8}}\fi
-\ifbfiveversion\newcommand{\tocSubsectionSize}{\@setfontsize                  \tocSubsectionSize        {12}{8}}\fi
+\ifafive\newcommand{\tocSubsectionSize}{\@setfontsize                  \tocSubsectionSize        {11}{11}}\fi
+\ifninebythirteen\newcommand{\tocSubsectionSize}{\@setfontsize         \tocSubsectionSize        {8}{8}}\fi
+\ifbfive\newcommand{\tocSubsectionSize}{\@setfontsize                  \tocSubsectionSize        {12}{8}}\fi
 
 % Define a command to make text smaller.
-\ifafiveversion\newcommand{\smaller}{\@setfontsize                            \smaller                  {9}{11}}\fi
-\ifninebythirteenversion\newcommand{\smaller}{\@setfontsize                   \smaller                  {6}{8}}\fi
-\ifbfiveversion\newcommand{\smaller}{\@setfontsize\smaller{6}{8}}\fi
+\ifafive\newcommand{\smaller}{\@setfontsize                            \smaller                  {9}{11}}\fi
+\ifninebythirteen\newcommand{\smaller}{\@setfontsize                   \smaller                  {6}{8}}\fi
+\ifbfive\newcommand{\smaller}{\@setfontsize\smaller{6}{8}}\fi
 
 % Define font size for copyright notice.
-\ifafiveversion\newcommand{\copyrightsize}{\@setfontsize                      \copyrightsize            {9}{11}}\fi
-\ifninebythirteenversion\newcommand{\copyrightsize}{\@setfontsize             \copyrightsize            {6}{8}}\fi
-\ifbfiveversion\newcommand{\copyrightsize}{\@setfontsize                      \copyrightsize            {6}{8}}\fi
+\ifafive\newcommand{\copyrightsize}{\@setfontsize                      \copyrightsize            {9}{11}}\fi
+\ifninebythirteen\newcommand{\copyrightsize}{\@setfontsize             \copyrightsize            {6}{8}}\fi
+\ifbfive\newcommand{\copyrightsize}{\@setfontsize                      \copyrightsize            {6}{8}}\fi
 
 % Redefine footnote size to be smaller.
-\ifafiveversion\renewcommand{\footnotesize}{%
+\ifafive\renewcommand{\footnotesize}{%
 		\@setfontsize\footnotesize{9}{11}%
 		\abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
 		\abovedisplayshortskip \z@ \@plus\p@
@@ -357,7 +357,7 @@
 	}
 \fi
 
-\ifninebythirteenversion\renewcommand{\footnotesize}{%
+\ifninebythirteen\renewcommand{\footnotesize}{%
 		\@setfontsize\footnotesize{6}{8}%
 		\abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
 		\abovedisplayshortskip \z@ \@plus\p@
@@ -372,7 +372,7 @@
 	}
 \fi
 
-\ifbfiveversion\renewcommand{\footnotesize}{%
+\ifbfive\renewcommand{\footnotesize}{%
 		\@setfontsize\footnotesize{11}{13}%
 		\abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
 		\abovedisplayshortskip \z@ \@plus\p@
@@ -410,7 +410,7 @@
 }
 
 % Conditional statement based on a variable 'digitalversion'
-\ifdigitalversion
+\ifdigital
 	% If digital version, set link colors to custom brown
 	\hypersetup{
 		colorlinks=true,
@@ -584,7 +584,7 @@
 % Redefine \color{digitalcoverbg} to change page background color.
 \newcommand\digitalCover[1]{%
 	\thispagestyle{empty}\mbox{}
-	\ifdigitalversion
+	\ifdigital
 		\AddToShipoutPictureFG*{\put(0,0){%
 				\begin{minipage}[b][\paperheight][c]{\paperwidth}%
 					#1
@@ -613,12 +613,12 @@
 
 % Define a command for sutta references
 \newcommand{\suttaRef}[1]{%
-	\ifbfiveversion
+	\ifbfive
 		\vspace{-7pt}% Adjusts vertical spacing above sutta references
 	\else
 		\vspace{-6pt}% Adjusts vertical spacing above sutta references
 	\fi
-	\hfill {\ifafiveversion\fontsize{8}{16}\fi\ifninebythirteenversion\fontsize{6}{11}\fi\ifbfiveversion\fontsize{9.5}{19}\fi\selectfont #1\par}% Sets sutta reference in smaller font size
+	\hfill {\ifafive\fontsize{8}{16}\fi\ifninebythirteen\fontsize{6}{11}\fi\ifbfive\fontsize{9.5}{19}\fi\selectfont #1\par}% Sets sutta reference in smaller font size
 	\vspace{-6pt}% Adjusts vertical spacing below sutta references
 }
 
@@ -626,8 +626,8 @@
 \renewenvironment{quote}%
 {\list{}{% Begins a list for the quote environment
 		\itshape% Sets quote in italics
-		\ifninebythirteenversion\fontsize{8}{12}\selectfont\fi% Sets font size for quote title
-		% \ifbfiveversion\fontsize{9}{13}\selectfont\fi% Sets font size for quote title
+		\ifninebythirteen\fontsize{8}{12}\selectfont\fi% Sets font size for quote title
+		% \ifbfive\fontsize{9}{13}\selectfont\fi% Sets font size for quote title
 		\listparindent 0pt% Sets paragraph indentation within the list
 		\itemindent    \listparindent% Sets item indentation within the list
 		\leftmargin    \quoteMargin% Sets left margin for the quote
@@ -676,8 +676,8 @@
 % 	{%
 % 		\centering%
 % 		\libertinusFont%
-% 		\ifafiveversion\fontsize{20}{20}\selectfont\fi%
-% 		\ifninebythirteenversion\fontsize{14}{14}\selectfont\fi%
+% 		\ifafive\fontsize{20}{20}\selectfont\fi%
+% 		\ifninebythirteen\fontsize{14}{14}\selectfont\fi%
 % 		\color[gray]{0.7}%
 % 		*\quad*\quad*%
 % 		\par}%
@@ -688,52 +688,52 @@
 % Since it's identical to a right single quote mark (U+2019), we'll use that.
 % To distinguish it from a quote mark, we raise it higher, above the riser stems (such as d' or l').
 \newcommand\breathmark{%
-	\ifafiveversion
+	\ifafive
 		\raisebox{-0.10\baselineskip}{\fontsize{18}{18}\bfseries\symbol{"2019}}%
 	\fi
-	\ifninebythirteenversion
+	\ifninebythirteen
 		\raisebox{-0.10\baselineskip}{\fontsize{12}{12}\bfseries\symbol{"2019}}%
 	\fi
-	\ifbfiveversion
+	\ifbfive
 		\raisebox{-0.10\baselineskip}{\fontsize{20}{20}\bfseries\symbol{"2019}}%
 	\fi
 }
 
 % Same character as above but lowered for better diplay in abbreviations chapter.
 \newcommand\abbrbreathmark{%
-	\ifafiveversion
+	\ifafive
 		\raisebox{-0.65em}{\fontsize{24}{8}\bfseries\symbol{"2019}}%
 	\fi
-	\ifninebythirteenversion
+	\ifninebythirteen
 		\raisebox{-0.65em}{\fontsize{18}{8}\bfseries\symbol{"2019}}%
 	\fi
-	\ifbfiveversion
+	\ifbfive
 		\raisebox{-0.65em}{\fontsize{24}{8}\bfseries\symbol{"2019}}%
 	\fi
 }
 
 % Left angle bracket used for indicating the solo parts for the recitation leader.
 \newcommand\anglebracketleft{%
-	\ifafiveversion
+	\ifafive
 		\raisebox{0.0\baselineskip}{\Large\symbol{"2329}}%
 	\fi
-	\ifninebythirteenversion
+	\ifninebythirteen
 		\raisebox{0.0\baselineskip}{\large\symbol{"2329}}%
 	\fi
-	\ifbfiveversion
+	\ifbfive
 		\raisebox{0.0\baselineskip}{\LARGE\symbol{"2329}}%
 	\fi
 }
 
 % Right angle bracket used for indicating the solo parts for the recitation leader.
 \newcommand\anglebracketright{%
-	\ifafiveversion
+	\ifafive
 		\raisebox{0.0\baselineskip}{\Large\symbol{"232A}}%
 	\fi
-	\ifninebythirteenversion
+	\ifninebythirteen
 		\raisebox{0.0\baselineskip}{\large\symbol{"232A}}%
 	\fi
-	\ifbfiveversion
+	\ifbfive
 		\raisebox{0.0\baselineskip}{\LARGE\symbol{"232A}}%
 	\fi
 }
@@ -742,7 +742,7 @@
 % #1: The label for the next section
 \newcommand\bottomNav[1]{%
 	\vfill % Fill the vertical space
-	\ifdigitalversion % Check if the digital version is active
+	\ifdigital % Check if the digital version is active
 		\begin{minipage}{\linewidth}%
 			% Hyperlink to the "schedule" section
 			\hyperref[schedule]{%
@@ -833,7 +833,7 @@
 % Redefine the name for the notes section
 \renewcommand*{\notesname}{Endnotes}
 
-\ifninebythirteenversion
+\ifninebythirteen
 
 	% Redefine the title format for the notes section
 	\renewcommand*{\notedivision}{%
@@ -843,7 +843,7 @@
 
 \fi
 
-\ifafiveversion
+\ifafive
 	% 	Redefine the title format for the notes section
 	\renewcommand*{\notedivision}{%
 		\chapter{\notesname}%
@@ -1064,12 +1064,12 @@
 % Change the appearance of chapter entries in the table of contents
 \titlecontents{chapter}[\tocLeftWidth]
 {
-	\ifafiveversion\addvspace{15pt}\fi%
-	\ifninebythirteenversion\addvspace{8pt}\fi%
-	\ifbfiveversion\addvspace{8pt}\fi%
-	\ifafiveversion\tocFont\bfseries\scshape\fontsize{14}{15}\selectfont\fi%
-	\ifninebythirteenversion\tocFont\bfseries\scshape\fontsize{9.5}{12}\selectfont\fi%
-	\ifbfiveversion\tocFont\bfseries\scshape\fontsize{17}{26}\selectfont\fi}%
+	\ifafive\addvspace{15pt}\fi%
+	\ifninebythirteen\addvspace{8pt}\fi%
+	\ifbfive\addvspace{8pt}\fi%
+	\ifafive\tocFont\bfseries\scshape\fontsize{14}{15}\selectfont\fi%
+	\ifninebythirteen\tocFont\bfseries\scshape\fontsize{9.5}{12}\selectfont\fi%
+	\ifbfive\tocFont\bfseries\scshape\fontsize{17}{26}\selectfont\fi}%
 {%
 	\contentsmargin{0pt}%
 	\thecontentslabel.\space%
@@ -1079,15 +1079,15 @@
 {\contentsmargin{0pt}%
 }
 % Changes the size of the page number for chapter headings in ToC
-{\hfill\tocFont\ifafiveversion\fontsize{14}{15}\fi\ifninebythirteenversion\fontsize{9.5}{10.5}\fi\ifbfiveversion\fontsize{17}{15}\fi\selectfont\thecontentspage}
+{\hfill\tocFont\ifafive\fontsize{14}{15}\fi\ifninebythirteen\fontsize{9.5}{10.5}\fi\ifbfive\fontsize{17}{15}\fi\selectfont\thecontentspage}
 [\addvspace{1pt}]
 
 % Changes section/chant formatting in ToC e.g. 'Dedication of Offerings'
 \titlecontents{section}[0.5em]
 {
-	\ifafiveversion\addvspace{4pt}\fi%
-	\ifninebythirteenversion\addvspace{3pt}\fi%
-	\ifbfiveversion\addvspace{2pt}\fi%
+	\ifafive\addvspace{4pt}\fi%
+	\ifninebythirteen\addvspace{3pt}\fi%
+	\ifbfive\addvspace{2pt}\fi%
 	\libertinusFont\tocSectionSize}%
 {%
 	\contentsmargin{0pt}%
@@ -1128,7 +1128,7 @@
 % Change the appearance of appendix entries in the table of contents
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
-	\tocFont\bfseries\ifafiveversion\fontsize{11}{15}\fi\ifninebythirteenversion\fontsize{8}{11}\fi\ifbfiveversion\fontsize{14}{11}\fi\selectfont}%
+	\tocFont\bfseries\ifafive\fontsize{11}{15}\fi\ifninebythirteen\fontsize{8}{11}\fi\ifbfive\fontsize{14}{11}\fi\selectfont}%
 {%
 	\contentsmargin{0pt}%
 	\thecontentslabel.\space%
@@ -1137,7 +1137,7 @@
 }
 {\contentsmargin{0pt}%
 	\itshape}
-{\hfill\tocFont\ifafiveversion\fontsize{11}{15}\fi\ifninebythirteenversion\fontsize{8}{11}\fi\ifbfiveversion\fontsize{8}{11}\fi\selectfont\thecontentspage}
+{\hfill\tocFont\ifafive\fontsize{11}{15}\fi\ifninebythirteen\fontsize{8}{11}\fi\ifbfive\fontsize{8}{11}\fi\selectfont\thecontentspage}
 [\addvspace{5pt}]
 
 
@@ -1278,8 +1278,8 @@
 		\photoFullBleed{\thechaptergraphics}%
 		{%
 			\centering%
-			{\chapnumfont\ifafiveversion\fontsize{10}{10}\fi\ifninebythirteenversion\fontsize{7}{7}\fi\ifbfiveversion\fontsize{7}{7}\fi\selectfont\textls*{Appendix}}%
-			\chaptitlefont\ifafiveversion\fontsize{13}{18}\fi\ifninebythirteenversion\fontsize{9}{13}\fi\ifbfiveversion\fontsize{9}{13}\fi\selectfont%
+			{\chapnumfont\ifafive\fontsize{10}{10}\fi\ifninebythirteen\fontsize{7}{7}\fi\ifbfive\fontsize{7}{7}\fi\selectfont\textls*{Appendix}}%
+			\chaptitlefont\ifafive\fontsize{13}{18}\fi\ifninebythirteen\fontsize{9}{13}\fi\ifbfive\fontsize{9}{13}\fi\selectfont%
 			\vspace*{12pt}%
 			\par
 			\textbf{\textsc{\textls*{##1}}}%
@@ -1347,13 +1347,13 @@
 	% A box with contains the entire ruled title
 	% \begin{minipage}{\linewidth}%
 	\centering%
-	\ifafiveversion
+	\ifafive
 		\sectionFont\fontsize{15}{15}\selectfont%
 	\fi
-	\ifninebythirteenversion
+	\ifninebythirteen
 		\sectionFont\fontsize{11.5}{11.5}\selectfont%
 	\fi
-	\ifbfiveversion
+	\ifbfive
 		\sectionFont\fontsize{18}{18}\selectfont%
 	\fi
 	% \setlength{\parskip}{2pt}%
@@ -1386,9 +1386,9 @@
 			\centering%
 			% font size for subTitle
 			\color{black}
-			\ifafiveversion\fontsize{12}{14}\selectfont\fi
-			\ifninebythirteenversion\fontsize{9}{14}\selectfont\fi
-			\ifbfiveversion\fontsize{14.5}{14.5}\selectfont\fi
+			\ifafive\fontsize{12}{14}\selectfont\fi
+			\ifninebythirteen\fontsize{9}{14}\selectfont\fi
+			\ifbfive\fontsize{14.5}{14.5}\selectfont\fi
 			\@secSubTitle%
 			\sectionSubTitleClear%
 		}%
@@ -1417,14 +1417,14 @@
 		% Center the ornament
 		\centering%
 		% Insert the ornament
-		\ifafiveversion
+		\ifafive
 			\pgfornament[color=black,width=7cm,scale=1,ydelta=24pt,symmetry=c]{88}%
 		\fi
-		\ifninebythirteenversion
+		\ifninebythirteen
 			\pgfornament[color=black,width=5cm,scale=1,ydelta=15pt,symmetry=c]{88}%
 			\vspace*{-0.2\baselineskip}
 		\fi
-		\ifbfiveversion
+		\ifbfive
 			\pgfornament[color=black,width=8.5cm,scale=1,ydelta=31pt,symmetry=c]{88}%
 		\fi
 	\end{minipage}%
@@ -1435,9 +1435,9 @@
 % Subsection title formatting (e.g. the 'Historical Background' found in the Purpose and Benefit section)
 \newcommand\subsectionFmt[1]{%
 	{%
-			\ifafiveversion\subSectionFont\fontsize{14}{18}\selectfont\fi%
-			\ifninebythirteenversion\vspace{-0.8em}\subSectionFont\fontsize{9}{13}\selectfont\fi%
-			\ifbfiveversion\subSectionFont\fontsize{16}{18}\selectfont\fi%
+			\ifafive\subSectionFont\fontsize{14}{18}\selectfont\fi%
+			\ifninebythirteen\vspace{-0.8em}\subSectionFont\fontsize{9}{13}\selectfont\fi%
+			\ifbfive\subSectionFont\fontsize{16}{18}\selectfont\fi%
 			\scshape\bfseries%
 			\centering
 			\hyperref[schedule]{%
@@ -1502,7 +1502,7 @@
 % ░█▀█░█▀▀░░░█░█▀▄░▀█▀░█▀▀░▀█▀░▀█▀░█▀█░█░░
 % ░█▀█░▀▀▄░▄▀░░█░█░░█░░█░█░░█░░░█░░█▀█░█░░
 % ░▀░▀░▀▀░░▀░░░▀▀░░▀▀▀░▀▀▀░▀▀▀░░▀░░▀░▀░▀▀▀
-\ifafiveversion
+\ifafive
 
 	\def\BOOK@fontSizePt{12.5}
 	\def\BOOK@lineHeightPt{19}
@@ -1569,7 +1569,7 @@
 % ░░▀█░░░▄▀▄░░░░█░░░▀▄░░░█░░░█░█
 % ░▀▀░░░░▀░▀░░░▀▀▀░▀▀░░░░▀▀▀░▀░▀
 
-\ifninebythirteenversion
+\ifninebythirteen
 
 	% 9x13 adjusted font size and line height
 	\def\BOOK@fontSizePt{9.5}
@@ -1634,7 +1634,7 @@
 % ░█▀▄░█▀▀
 % ░█▀▄░▀▀▄
 % ░▀▀░░▀▀░
-\ifbfiveversion
+\ifbfive
 
 	% B5 adjusted font size and line height
 	\def\BOOK@fontSizePt{15}

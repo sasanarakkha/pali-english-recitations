@@ -13,8 +13,8 @@
 
 % Add hyperlinks and images, to be used with afiveVersion \papersizeoption
 % Build command:
-% '\newcommand{\papersizeoption}{afiveVersion}\newcommand{\isdigitalversion}{}\input{main.tex}'
-\ifdefined\isdigitalversion
+% '\newcommand{\papersizeoption}{afiveVersion}\newcommand{\isdigitalut{main.tex}'
+\ifdefined\isdigital
   \newcommand{\digitaloption}{digitalVersion}
 \else
   \newcommand{\digitaloption}{}
@@ -40,9 +40,9 @@
 }
 
 % Loads formatting for selected ddocument class
-\ifninebythirteenversion \usepackage{9x13} \fi
-\ifafiveversion \usepackage{A5} \fi
-\ifbfiveversion \usepackage{B5} \fi
+\ifninebythirteen \usepackage{9x13} \fi
+\ifafive \usepackage{A5} \fi
+\ifbfive \usepackage{B5} \fi
 
 % Set metadata for the document
 \title{SBS Pāli-English Recitations}
@@ -53,10 +53,10 @@
 \editionInfo{\textit{First Edition}, 2025} % And last edition. Don't call Pāladhammika.
 \newcommand{\MyISBN}{} % default empty
 
-\ifbfiveversion
+\ifbfive
   \renewcommand{\MyISBN}{978-629-97831-1-4}
 \fi
-\ifninebythirteenversion
+\ifninebythirteen
   \renewcommand{\MyISBN}{978-629-97831-2-1}
 \fi
 
@@ -83,7 +83,7 @@
 % Define hyphenation exceptions and corrections
 \hyphenation{London re-lin-quishes de-ter-mines}
 
-\ifdigitalversion
+\ifdigital
   \openany
 \fi
 
@@ -94,17 +94,17 @@
 \frontmatter
 
 % Digital version cover
-\ifdigitalversion
+\ifdigital
 	\digitalCover{\includegraphics[height=\paperheight]{./assets/images/A5/front_cover_compressed_A5.jpg}}
 \fi
 
-\ifninebythirteenversion
+\ifninebythirteen
   \photoFullBleed{./assets/images/9x13/front_cover_9x13.png}
   \photoFullBleed{robe_divider_left_9x13.png}
   \photoFullBleed{robe_divider_right_9x13.png}
 \fi
 
-\ifbfiveversion
+\ifbfive
   \photoFullBleed{./assets/images/B5/front_cover_B5.png}
   \photoFullBleed{robe_divider_left_B5.png}
   \photoFullBleed{robe_divider_right_B5.png}
@@ -161,29 +161,29 @@
 \printpagenotes % Print endnotes
 \input{./tex/copyright-details.tex}
 
-\ifbfiveversion
+\ifbfive
   \includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{assets/images/graphics/donor-list.pdf}
   \photoFullBleed{robe_divider_left_B5.png}
   \photoFullBleed{robe_divider_right_B5.png}
 \fi
 
-\ifninebythirteenversion
+\ifninebythirteen
   \photoFullBleed{robe_divider_left_9x13.png}
   \photoFullBleed{robe_divider_right_9x13.png}
 \fi
 
 \emptyUntilEven % Add blank page if necessary
 
-\ifdigitalversion
+\ifdigital
   \clearpage
   \digitalCover{\includegraphics[height=\paperheight]{./assets/images/A5/back_cover_compressed_A5.jpg}}
 \fi
 
-\ifninebythirteenversion
+\ifninebythirteen
   \photoFullBleed{./assets/images/9x13/back_cover_9x13.png}
 \fi
 
-\ifbfiveversion
+\ifbfive
   \photoFullBleed{./assets/images/B5/back_cover_B5.png}
 \fi
 
