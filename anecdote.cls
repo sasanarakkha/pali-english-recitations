@@ -639,13 +639,17 @@
 {\endlist}% Ends the list for the quote environment
 
 % Define commands for including photos with full bleed
-%% \newcommand\photoFullBleed[1]{%
-%% 	\AddToShipoutPictureFG*{%
-%% 		\put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
-%% 			\includegraphics[height={\paperheight + 6mm}]{#1}%
-%% 		}%
-%% 	}%
-%% }
+\ifafive
+
+\newcommand\photoFullBleed[1]{%
+	\AddToShipoutPictureFG*{%
+		\put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
+			\includegraphics[height={\paperheight + 6mm}]{#1}%
+		}%
+	}%
+}
+
+\else
 
 \newcommand\photoFullBleed[1]{%
   %% \clearpage
@@ -659,6 +663,8 @@
   \null
   \clearpage
 }
+
+\fi
 
 % Define a command to set the graphics for a chapter opening page
 \newcommand{\thechaptergraphics}{}

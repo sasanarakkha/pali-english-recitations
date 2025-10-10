@@ -1,8 +1,6 @@
 
 \ifdigital
   \chapterOpeningPage{reflections_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{reflections_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -379,6 +377,7 @@ Tassa dāy'ādā bhavissanti
 \smallskip
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-hang}
   I will abide pervading one quarter with a heart imbued with equanimity
@@ -433,11 +432,11 @@ Maraṇa-dhammo'mhi maraṇaṁ anatīto
 
 Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 
-\begin{english}
+\begin{english-verses}
   All that is mine beloved and pleasing\\
   Will become otherwise\\
   Will become separated from me
-\end{english}
+\end{english-verses}
 
 \ifninebythirteen\clearpage\fi
 
@@ -655,6 +654,8 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hang-together}
 
+\ifafive\clearpage\fi
+
 \linkdest{endnote166-body}
 \begin{english-verses}
   \begin{english-hang-first-line}
@@ -686,9 +687,12 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
 
 
+\ifafive
+\addtocontents{toc}{\protect\clearpage}
+\fi
+
 \ifbfive
 \addtocontents{toc}{\protect\clearpage}
-\else
 \fi
 \sectionSubTitle{Dvattiṁs'ākāra-paccavekkhaṇa}
 \section{The Thirty-Two Body Parts}

@@ -721,8 +721,6 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
 
 \ifdigital
   \chapterOpeningPage{homage_to_the_triple_gem_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{homage_to_the_triple_gem_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -756,7 +754,6 @@ Eysenck, M. W. et al. 1992/2005 \href{https://psycnet.apa.org/record/2015-09422-
   % Empty the default section number printing, so that we can handle it.
   \setsecnumformat{}%
 }
-
 
 \sectionSubTitle{Buddh'ādi-āmisa-pūjā}
 \section{Dedication of Offerings}
@@ -1821,8 +1818,6 @@ Saṅghaṁ namāmi
 
 \ifdigital
   \chapterOpeningPage{verses_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{verses_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -2777,6 +2772,8 @@ Etaṁ buddhāna'sāsanaṁ
 
 \fi
 
+\ifafive\clearpage\fi
+
 \begin{english-verses}
   Hair in eight braids\\
   And eyeliner\\
@@ -2844,6 +2841,7 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-verses}
 
 \ifninebythirteen\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{verses}
   Na dīgham'āyuṁ labhate dhanena\\
@@ -2889,6 +2887,8 @@ Etaṁ buddhāna'sāsanaṁ
   Seeing danger in the cords of sense pleasure\\
   Therefore I went forth O King
 \end{english-verses}
+
+\ifafive\clearpage\fi
 
 \begin{verses}
   Duma-pphalānī'va patanti māṇavā\\
@@ -3027,6 +3027,8 @@ Etaṁ buddhāna'sāsanaṁ
 
 \fi
 
+\ifafive\clearpage\fi
+
 \begin{english-verses}
   They were not so eager\\
   For the requisites of life\\
@@ -3140,6 +3142,8 @@ Etaṁ buddhāna'sāsanaṁ
 \end{verses}
 
 \fi
+
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   When barefoot on a thorny path\\
@@ -3301,6 +3305,8 @@ Etaṁ buddhāna'sāsanaṁ
 \end{verses}
 
 \fi
+
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   As kusa grass when wrongly grasped\\
@@ -3700,6 +3706,8 @@ Etaṁ buddhāna'sāsanaṁ
   Hit'esinā anukampakena anukampaṁ upādāya
 \end{verses}
 
+\ifafive\clearpage\fi
+
 \begin{english-verses}
   Bhikkhus what should be done for his disciples\\
   Out of compassion by a teacher\\
@@ -3895,6 +3903,8 @@ Etaṁ buddhāna'sāsanaṁ
 
 \fi
 
+\ifafive\clearpage\fi
+
 \linkdest{endnote44-body}
 \linkdest{endnote45-body}
 \begin{english-verses}
@@ -3968,11 +3978,11 @@ Etaṁ buddhāna'sāsanaṁ
 \end{english-only}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-only}
   Accomplished in learning and craftsman's skills\\
   With discipline highly trained\\
-  \ifafive\clearpage\fi
   And speech that is true and pleasant to hear\\
   These are the highest blessings
 \end{english-only}
@@ -4022,6 +4032,8 @@ Etaṁ buddhāna'sāsanaṁ
 
 \ifbfive\enlargethispage{1\baselineskip}\fi
 
+\ifafive\clearpage\fi
+
 \linkdest{endnote48-body}
 \begin{english-only}
   Ardent and committed \ifdigital\makeatletter\hyperlink{endnote48-appendix}\Hy@raisedlink{{\pagenote{%
@@ -4030,8 +4042,6 @@ Etaṁ buddhāna'sāsanaṁ
   And the realization of Nibbāna\\
   These are the highest blessings
 \end{english-only}
-
-\ifafive\clearpage\fi
 
 \begin{english-only}
   Although in contact with the world\\
@@ -4130,8 +4140,6 @@ Etaṁ buddhāna'sāsanaṁ
 
 \ifdigital
   \chapterOpeningPage{teachings_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{teachings_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -4721,6 +4729,8 @@ Taṁ kho pan'idaṁ dukkha-samudayo ariya-saccaṁ pahīnan'ti
   Has been abandoned
 \end{english}
 
+\ifafive\clearpage\fi
+
 Idaṁ dukkha-nirodho ariya-saccan'ti me bhikkhave\\
 Pubbe ananussutesu dhammesu\\
 Cakkhuṁ udapādi\\
@@ -4771,6 +4781,7 @@ Taṁ kho pan'idaṁ dukkha-nirodho ariya-saccaṁ sacchi-kātabban'ti
 \begin{pali-hang-together}
   Ñāṇaṁ udapādi
 \end{pali-hang-together}
+\ifafive\clearpage\fi
 \begin{pali-hang-together}
   Paññā udapādi
 \end{pali-hang-together}
@@ -4960,6 +4971,8 @@ Sakkā imasmim'pi dhamma-vinaye anupubba-sikkhā anupubba-kiriyā anupubba-paṭ
 
 \suttaRef{[MN 107]}
 
+\ifafive\clearpage\fi
+
 So evaṁ pabbajito samāno bhikkhūnaṁ sikkhā-sājīva-samāpanno pāṇ'ātipātaṁ pahāya pāṇ'ātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī day'āpanno sabba-pāṇa-bhūta-hit'ānukampī viharati. Adinn'ādānaṁ pahāya adinn'ādānā paṭivirato hoti, dinn'ādāyī dinna-pāṭikaṅkhī athenena sucibhūtena attanā viharati. Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā.
 
 Musāvādaṁ pahāya musāvādā paṭivirato hoti, saccavādī saccasandho theto paccayiko avisaṁvādako lokassa. Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya — iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samagg'ārāmo samagga-rato samagga-nandī samagga-karaṇiṁ vācaṁ bhāsitā hoti. Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā n'elā kaṇṇa-sukhā pemanīyā hadayaṅ'gamā porī bahujana-kantā bahujana-manāpā tathā-rūpiṁ vācaṁ bhāsitā hoti. Sampha-ppalāpaṁ pahāya samphappalāpā paṭivirato hoti, kāla-vādī bhūta-vādī attha-vādī dhamma-vādī vinaya-vādī nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ attha-saṁhitaṁ.
@@ -4993,6 +5006,8 @@ So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalī-karaṇe
 \ifbfive\clearpage\fi
 
 So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigat'ūpakkilese mudu-bhūte kammaniye ṭhite āneñjappatte pubbe-nivās'ānussati-ñāṇāya sattānaṁ cut'ūpapāta-ñāṇāya āsavānaṁ khaya-ñāṇāya cittaṁ abhininnāmeti.
+
+\ifafive\clearpage\fi
 
 So ``idaṁ dukkhan''ti yathā-bhūtaṁ pajānāti, ``ayaṁ dukkha-samudayo''ti yathā-bhūtaṁ pajānāti, ``ayaṁ dukkha-nirodho''ti yathā-bhūtaṁ pajānāti, ``ayaṁ dukkha-nirodha-gāminī paṭipadā''ti yathā-bhūtaṁ pajānāti.
 
@@ -5698,6 +5713,7 @@ Ayaṁ vuccati bhikkhave sammā-saṅkappo
 \end{english}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 Katamā ca bhikkhave sammā-vācā
 
@@ -6450,6 +6466,7 @@ Abhippamodayaṁ cittaṁ passasissāmī'ti sikkhati
 \end{english}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 Samādahaṁ cittaṁ assasissāmī'ti sikkhati
 
@@ -6503,6 +6520,8 @@ Virāg'ānupassī assasissāmī'ti sikkhati
         \hypertarget{endnote160-appendix}{\hyperlink{endnote160-body}{While \textit{virāga} indeed can refer to the mind’s ``fading away of passions'' (dispassion), in certain contexts virāga refers to ``fading away'' of any phenomena. One such instance can be found in MN 74: ``Pleasant/unpleasant/neutral feeling, Aggivessana, is impermanent, conditioned, dependently arisen, subject to destruction, vanishing, fading away, and ceasing.'' Here, \textit{virāga} obviously does not refer to mental dispassion, but to the nature of fading away of certain phenomena i.e. feeling. Likewise, in the context of mindfulness of breathing, \textit{virāga} can be seen as part of the natural progression of the lifecycle of any phenomena, including but not limited to the breath itself, which after its arising, goes through a phase of change (\textit{aniccā}), gradual fading (\textit{virāga}), and ending in its cessation (\textit{nirodha}). The meditator observing these stages develops an attitude of letting go (\textit{paṭinissagga}) towards it, because there is nothing that is worth clinging/adhering to (MN 37).}}}}}\makeatother
 \end{english-hang-together}
 \end{english-verses}
+
+\ifafive\clearpage\fi
 
 Virāg'ānupassī passasissāmī'ti sikkhati
 
@@ -6641,8 +6660,6 @@ Nāma-rūpa-paccayā saḷ'āyatanaṁ
 
 Saḷ'āyatana-paccayā phasso
 
-\ifafive\clearpage\fi
-
 \begin{english}
   From the sixfold-sense-base as a condition arises contact
 \end{english}
@@ -6715,6 +6732,8 @@ Ayaṁ vuccati avijjā
 \begin{english}
   This is called `ignorance'
 \end{english}
+
+\ifafive\clearpage\fi
 
 \begin{pali-hang}
   Tattha katame avijjā-paccayā saṅkhārā
@@ -7052,6 +7071,7 @@ Tattha katamā bhava-paccayā jāti
 \end{english-hang}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \linkdest{endnote83-body}
 \begin{pali-hang}
@@ -7146,6 +7166,7 @@ Tattha katamo soko
 \end{pali-hang}
 
 \ifbfive\enlargethispage{1\baselineskip}\fi
+\ifafive\clearpage\fi
 
 \linkdest{endnote84-body}
 \begin{english-hang-verses}
@@ -7747,6 +7768,7 @@ Sabrahmacārīsu āvi c'eva raho ca
 \end{english-hang}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 Bhikkhu ye te lābhā
 
@@ -7817,6 +7839,8 @@ Bhikkhu y'āyaṁ diṭṭhi
 \begin{english}
   A bhikkhu dwells possessing a view
 \end{english}
+
+\ifafive\clearpage\fi
 
 Ariyā niyyānikā
 
@@ -8246,6 +8270,7 @@ Hirimanto bhavissanti ottappino bhavissanti bahu-ssutā bhavissanti
 \end{english}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{pali-hang}
 Na oramattakena vises'ādhigamena antarāvosānaṁ āpajjissanti
@@ -8380,6 +8405,7 @@ Sarīre upasussatu maṁsa-lohitaṁ
 \end{english}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{pali-hang}
   Yaṁ taṁ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṁ\\
@@ -8446,6 +8472,8 @@ Na bhikkhave hīnena aggassa patti hoti
 \begin{english-hang}
   Bhikkhus it is not by lower means that the supreme is attained
 \end{english-hang}
+
+\ifafive\clearpage\fi
 
 Aggena ca kho bhikkhave aggassa patti hoti
 
@@ -8518,6 +8546,7 @@ Sen'āsana-gilāna-paccaya bhesajja-parikkhāraṁ\\
 Tesaṁ te kārā amhesu
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   And all our use of robes\\
@@ -8670,8 +8699,6 @@ Ayaṁ tathāgatassa pacchimā vācā
 
 \ifdigital
   \chapterOpeningPage{reflections_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{reflections_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -9064,6 +9091,7 @@ Tassa dāy'ādā bhavissanti
 \smallskip
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-hang}
   I will abide pervading one quarter with a heart imbued with equanimity
@@ -9122,11 +9150,11 @@ Maraṇa-dhammo'mhi maraṇaṁ anatīto
 
 Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 
-\begin{english}
+\begin{english-verses}
   All that is mine beloved and pleasing\\
   Will become otherwise\\
   Will become separated from me
-\end{english}
+\end{english-verses}
 
 \ifninebythirteen\clearpage\fi
 
@@ -9348,6 +9376,8 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
   Pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 \end{pali-hang-together}
 
+\ifafive\clearpage\fi
+
 \linkdest{endnote166-body}
 \begin{english-verses}
   \begin{english-hang-first-line}
@@ -9383,9 +9413,12 @@ Pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
 #+begin_src latex :tangle ./tex/recitations/reflections.tex
 
+\ifafive
+\addtocontents{toc}{\protect\clearpage}
+\fi
+
 \ifbfive
 \addtocontents{toc}{\protect\clearpage}
-\else
 \fi
 \sectionSubTitle{Dvattiṁs'ākāra-paccavekkhaṇa}
 \section{The Thirty-Two Body Parts}
@@ -9776,8 +9809,6 @@ Tesaṁ vūpasamo sukho
 
 \ifdigital
   \chapterOpeningPage{cardinal_discourses_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{cardinal_discourses_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -9827,8 +9858,6 @@ Tesaṁ vūpasamo sukho
 #+begin_export latex
 \ifdigital
   \chapterOpeningPage{cardinal_discourses_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{cardinal_discourses_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -9918,6 +9947,8 @@ Tesaṁ vūpasamo sukho
 \begin{pali-hang}
   Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ:
 \end{pali-hang}
+
+\ifafive\clearpage\fi
 
 \begin{pali-hang}
   Jāti'pi dukkhā jarā'pi dukkhā byādhi'pi dukkho maraṇam'pi dukkhaṁ \breathmark \thinspace appiyehi sampayogo dukkho piyehi vippayogo \mbox{dukkho}~\breathmark \thinspace yam'picchaṁ na labhati tam'pi dukkhaṁ  saṅkhittena pañc'upādāna-kkhandhā dukkhā
@@ -10028,6 +10059,7 @@ Tesaṁ vūpasamo sukho
 \end{pali-hang}
 
 \ifninebythirteen\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{pali-hang}
   ``Etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye \breathmark\ anuttaraṁ dhamma-cakkaṁ pavattitaṁ appaṭivattiyaṁ \breathmark\ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin''ti
@@ -10330,6 +10362,8 @@ Atha kho bhagavā udānaṁ udānesi:
   Yasmā ca kho bhikkhave saññā anattā \breathmark\ tasmā saññā ābādhāya saṁvattati \breathmark\ na ca labbhati saññāya \breathmark\ ``Evaṁ me saññā hotu \breathmark\ evaṁ me saññā mā ahosī''ti
 \end{pali-hang-together}
 
+\ifafive\clearpage\fi
+
 \begin{pali-hang}
   Saṅkhārā anattā \breathmark\ saṅkhārā ca h'idaṁ bhikkhave attā \mbox{abhavissaṁsu}~\breathmark\ na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ \breathmark\ labbhetha ca saṅkhāresu \breathmark\ ``Evaṁ me saṅkhārā hontu \breathmark\ evaṁ me saṅkhārā mā ahesun''ti
 \end{pali-hang}
@@ -10378,6 +10412,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \begin{pali-hang-together}
   Dukkhaṁ bhante
 \end{pali-hang-together}
+\ifafive\clearpage\fi
 \begin{pali-hang-together}
   Yam'pan'āniccaṁ dukkhaṁ vipariṇāma-dhammaṁ kallaṁ nu taṁ samanupassituṁ \breathmark\ ``Etaṁ mama eso'ham'asmi eso me attā''ti?
 \end{pali-hang-together}
@@ -10444,12 +10479,14 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang-together}
 
 \ifbfive\clearpage\fi
-
+\ifafive\clearpage\fi
 \ifninebythirteen\clearpage\fi
 
 \begin{leader-pali}
   \anglebracketleft\ \hspace{-0.5mm}Tasmā't'iha bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{leader-pali}
+
+\ifninebythirteen\vspace{-0.35cm}\fi
 
 \begin{pali-hang}
   Yaṅ'kiñci rūpaṁ atīt'ānāgata-paccuppannaṁ \breathmark\ ajjhattaṁ vā bahiddhā vā \breathmark\ oḷārikaṁ vā sukhumaṁ vā \breathmark\ hīnaṁ vā paṇītaṁ vā \breathmark\ yaṁ dūre santike vā \breathmark\ sabbaṁ rūpaṁ: \breathmark\ ``N'etaṁ mama n'eso'ham'asmi na m'eso attā''ti \breathmark\ evam'etaṁ yathā-bhūtaṁ sammappaññāya daṭṭhabbaṁ
@@ -10490,8 +10527,6 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{pali-hang-together}
 
 \fi
-
-\ifafive\clearpage\fi
 
 \begin{pali-hang}
   Idam'avoca bhagavā \breathmark\ Attamanā pañca-vaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ \breathmark\ Imasmiñ'ca pana veyyākaraṇasmiṁ bhaññamāne \breathmark\ pañca-vaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti
@@ -10571,6 +10606,7 @@ Atha kho bhagavā udānaṁ udānesi:
 \end{english-only-hang-together}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-only-hang}
   Volitional formations are not-self \breathmark\ If volitional formations were self \breathmark\ then volitional formations would not lead to affliction \breathmark\ and one could command to volitional formations: ``Let my volitional formations be thus \breathmark\ let my volitional formations not be thus''
@@ -10761,6 +10797,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 \end{pali-hang-together}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{pali-hang}
   Ghānaṁ ādittaṁ \breathmark\ gandhā ādittā \breathmark\ ghāna-viññāṇaṁ ādittaṁ \breathmark\ ghāna-samphasso āditto \breathmark\ yam'p'idaṁ ghāna-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tam'pi ādittaṁ
@@ -10806,11 +10843,13 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
   Ādittaṁ rāg'agginā dos'agginā moh'agginā \breathmark\ ādittaṁ jātiyā jarāya maraṇena \breathmark\ sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan'ti vadāmi
 \end{pali-hang-together}
 
+\ifninebythirteen\clearpage\fi
+
 \begin{leader-pali}
   \anglebracketleft\ \hspace{-0.5mm}Evaṁ passaṁ bhikkhave \hspace{-0.5mm}\anglebracketright\
 \end{leader-pali}
 \begin{pali-hang-together}
-  Sutavā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati~\breathmark\ cakkhu-viññāṇe'pi \mbox{nibbindati}~\breathmark\ cakkhu-samphasse'pi nibbindati~\breathmark\ yam'p'idaṁ cakkhu-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā \ifninebythirteen\enlargethispage{1\baselineskip}\fi tasmim'pi nibbindati
+  Sutavā ariyasāvako cakkhusmim'pi nibbindati \breathmark\ rūpesu'pi nibbindati~\breathmark\ cakkhu-viññāṇe'pi \mbox{nibbindati}~\breathmark\ cakkhu-samphasse'pi nibbindati~\breathmark\ yam'p'idaṁ cakkhu-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hang-together}
 
 \begin{pali-hang}
@@ -10827,11 +10866,11 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
   Jivhāya'pi nibbindati \breathmark\ rasesu'pi nibbindati \breathmark\ jivhā-viññāṇe'pi nibbindati \breathmark\ jivhā-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ jivhā-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hang}
 
+\ifafive\clearpage\fi
+
 \begin{pali-hang}
   Kāyasmim'pi nibbindati \breathmark\ phoṭṭhabbesu'pi \mbox{nibbindati}~\breathmark\ kāya-viññāṇe'pi nibbindati \breathmark\ kāya-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ kāya-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
 \end{pali-hang}
-
-\ifninebythirteen\clearpage\fi
 
 \begin{pali-hang}
   Manasmim'pi nibbindati \breathmark\ dhammesu'pi nibbindati \breathmark\ mano-viññāṇe'pi nibbindati \breathmark\ mano-samphasse'pi nibbindati \breathmark\ yam'p'idaṁ mano-samphassa-paccayā uppajjati vedayitaṁ \breathmark\ sukhaṁ vā dukkhaṁ vā adukkham'asukhaṁ vā tasmim'pi nibbindati
@@ -10967,6 +11006,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 \ifbfive\clearpage\fi
 \ifninebythirteen\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-only-hang}
   The mind is burning \breathmark\ mind-objects are burning \breathmark\ mind-consciousness is burning \breathmark\ mind-contact is \mbox{burning}~\breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-{pleasant}~\breathmark\ that arises from mind-contact as its condition \breathmark\ that too is burning
@@ -10997,6 +11037,7 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 \end{english-only-hang}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-only-hang}
   He becomes disenchanted with the tongue \breathmark\ becomes disenchanted with flavours \breathmark\ becomes disenchanted with tongue-consciousness \breathmark\ becomes disenchanted with tongue-contact \breathmark\ and what is felt as pleasant or painful \breathmark\ or neither-painful-nor-pleasant \breathmark\ that arises from tongue-contact as its condition \breathmark\ with that too he becomes disenchanted
@@ -11033,8 +11074,6 @@ Kiñ'ca bhikkhave sabbaṁ ādittaṁ?
 
 \ifdigital
   \chapterOpeningPage{thanksgiving_recitations_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{thanksgiving_recitations_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -11672,6 +11711,7 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{pali-hang}
   Tasmā dade appaṭivāna-citto\\
@@ -11763,8 +11803,6 @@ Sadā sotthī bhavantu te
 
 \ifdigital
   \chapterOpeningPage{protective_recitations_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{protective_recitations_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -11908,8 +11946,6 @@ Sadā sotthī bhavantu te
   Dutiyam'pi dhammaṁ saraṇaṁ gacchāmi\\
   Dutiyam'pi saṅghaṁ saraṇaṁ gacchāmi
 \end{pali-hang-continued}
-
-\ifafive\clearpage\fi
 
 \begin{english-verses}
   A second time, to the Buddha I go for refuge.\\
@@ -12194,10 +12230,11 @@ Sadā sotthī bhavantu te
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifafive\clearpage\fi
+
 \begin{english-verses}
   Serving one's mother and father,\\
   Maintaining a wife and children,\\
-\ifafive\clearpage\fi
   And an honest occupation:\\
   This is the highest blessing.
 \end{english-verses}
@@ -12241,6 +12278,8 @@ Sadā sotthī bhavantu te
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifafive\clearpage\fi
+
 \begin{english-verses}
   Reverence and humility,\\
   Contentment and gratitude,\\
@@ -12248,7 +12287,6 @@ Sadā sotthī bhavantu te
   This is the highest blessing.
 \end{english-verses}
 
-\ifafive\clearpage\fi
 \ifninebythirteen\clearpage\fi
 
 \begin{pali-hang-continued}
@@ -12289,6 +12327,8 @@ Sadā sotthī bhavantu te
   Etam'maṅgalam'uttamaṁ
 \end{pali-hang-continued}
 
+\ifafive\clearpage\fi
+
 \begin{english-verses}
   One whose mind does not shake\\
   When touched by worldly conditions,\\
@@ -12299,7 +12339,6 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Etādisāni katvāna\\
   Sabbattham'aparājitā\\
-\ifafive\clearpage\fi
   Sabbattha sotthiṁ gacchanti\\
   Tan'tesaṁ maṅgalam'uttaman'ti
 \end{pali-hang-continued}
@@ -12362,6 +12401,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   Whatever the treasures are here or beyond,\\
@@ -12406,13 +12446,13 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{pali-hang-continued}
   Ye puggalā aṭṭha sataṁ pasatthā\\
   Cattāri etāni yugāni honti\\
   Te dakkhiṇeyyā sugatassa sāvakā\\
   Etesu dinnāni maha-pphalāni\\
-\ifafive\clearpage\fi
   Idam'pi saṅghe ratanaṁ paṇītaṁ\\
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
@@ -12449,6 +12489,7 @@ Sadā sotthī bhavantu te
 \end{english-verses}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{pali-hang-continued}
   Yath'inda-khīlo paṭhaviṁ sito siyā\\
@@ -12459,7 +12500,6 @@ Sadā sotthī bhavantu te
   Etena saccena suvatthi hotu
 \end{pali-hang-continued}
 
-\ifafive\clearpage\fi
 \ifninebythirteen\clearpage\fi
 
 \begin{english-verses}
@@ -12688,11 +12728,11 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   He would not do the slightest thing,\\
   For which wise others would reproach.\\
-\ifafive\clearpage\fi
   Well and secure may [all beings] be;\\
   May all beings be happy at heart.
 \end{english-verses}
@@ -12735,6 +12775,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   Another (i.e. one) would not deceive another,\\
@@ -12742,8 +12783,6 @@ Sadā sotthī bhavantu te
   Nor through anger or hateful perception,\\
   Would wish for one another's suffering.
 \end{english-verses}
-
-\ifafive\clearpage\fi
 
 \begin{pali-hang-continued}
   Mātā yathā niyaṁ puttaṁ\\
@@ -12781,6 +12820,7 @@ Sadā sotthī bhavantu te
 \end{pali-hang-continued}
 
 \ifbfive\clearpage\fi
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   Whether standing, walking, sitting, or reclining,\\
@@ -12792,7 +12832,6 @@ Sadā sotthī bhavantu te
 \begin{pali-hang-continued}
   Diṭṭhiñ'ca anupagamma\\
   Sīlavā dassanena sampanno\\
-\ifafive\clearpage\fi
   Kāmesu vineyya gedhaṁ\\
   Na hi jātu gabbha-seyyaṁ punar-etī'ti
 \end{pali-hang-continued}
@@ -12904,6 +12943,8 @@ Sadā sotthī bhavantu te
   So'haṁ namo bhagavato\\
   Namo sattannaṁ sammā-sambuddhānaṁ.
 \end{pali-hang-continued}
+
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   A safeguard has been made by me,\\
@@ -13110,7 +13151,7 @@ uttamaṁ varaṁ\\
   Rogā vūpasamentu te
 \end{pali-hang-continued}
 
-\ifninebythirteen\enlargethispage{1\baselineskip}\fi
+ \ifninebythirteen\vspace{-0.1cm}\enlargethispage{1\baselineskip}\fi
 
 \begin{english-verses}
   Having revered the jewel of the Saṅgha,\\
@@ -13739,11 +13780,12 @@ uttamaṁ varaṁ\\
   Sadā sotthī \breathmark\ bhavantu te
 \end{pali-hang-continued}
 
+\ifafive\clearpage\fi
+
 \begin{english-verses}
   May every blessing come to be.\\
   And all good spirits guard you well.\\
   \ifbfive\enlargethispage{2\baselineskip}\fi
-  \ifafive\clearpage\fi
   With all the power of the Saṅgha,\\
   May you always be at ease.
 \end{english-verses}
@@ -13763,8 +13805,6 @@ uttamaṁ varaṁ\\
 
 \ifdigital
   \chapterOpeningPage{funeral_recitations_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{funeral_recitations_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -14572,8 +14612,6 @@ uttamaṁ varaṁ\\
 
 \ifdigital
   \chapterOpeningPage{sharing_of_merits_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{sharing_of_merits_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -14749,6 +14787,8 @@ Pañc'eka-catu-vokārā saṁsarantā bhav'ābhave
 
 Ñātaṁ ye patti-dānam'me anumodantu te sayaṁ\\
 Ye c'imaṁ nappajānanti devā tesaṁ nivedayuṁ
+
+\ifafive\clearpage\fi
 
 \begin{english-verses}
   Those who know my act of dedication\\
@@ -15039,8 +15079,6 @@ Idaṁ me puññaṁ nibbānassa paccayo hotu
 
 \ifdigital
   \chapterOpeningPage{appendix_compressed_A5.jpg}
-\else
-  \chapterOpeningPage{appendix_A5.jpg}
 \fi
 
 \ifninebythirteen
@@ -15295,11 +15333,11 @@ Vikāla-bhojanā veramaṇi-sikkhāpadaṁ samādiyāmi
         \hypertarget{endnote143-appendix}{\hyperlink{endnote143-body}{WPN: ``entertainment, beautification, and adornment''}}}}}\makeatother\fi\
 \end{english-hang}
 
+\ifbfive\clearpage\fi
+
 \begin{pali-hang}
 Uccāsayana-mahāsayanā veramaṇi-sikkhāpadaṁ samādiyāmi
 \end{pali-hang}
-
-\ifbfive\enlargethispage{1.5\baselineskip}\fi
 
 \begin{english-hang}
   I undertake the training to refrain from lying on a high or luxurious sleeping place.
