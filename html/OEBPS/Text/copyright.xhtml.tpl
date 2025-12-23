@@ -11,7 +11,7 @@
 
 <body>
 
-  <p style="text-align: center;">© Sāsanārakkha Buddhist Sanctuary, 2025<br/>c/o 160, Lorong 3, Jalan Merdeka, 34000 Taiping, Perak, Malaysia<br/>ISBN 978-629-97831-1-4</p>
+  <p style="text-align: center;">© Sāsanārakkha Buddhist Sanctuary, 2025<br/>c/o 160, Lorong 3, Jalan Merdeka, 34000 Taiping, Perak, Malaysia</p>
 
   <p style="text-align: center;">This book is for free distribution only;<br/>it may not be sold.</p>
 
